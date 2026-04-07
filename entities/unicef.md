@@ -3,43 +3,30 @@ title: UNICEF
 created: 2026-04-07
 updated: 2026-04-07
 type: entity
-tags: [dijital-haklar, kuresel, kurum]
-sources: [raw/articles/unicef-digital-rights-2026.md]
+tags: [dijital-haklar, kurum, kuresel]
+sources: [raw/articles/unicef-digital-rights-guidelines-2026.md]
 ---
 
 # UNICEF
 
 ## Genel Bakış
-[[United Nations]]'a bağlı uluslararası kuruluş. Çocuk haklarını koruma ve ilerletme mandate'ı var.
+United Nations Children's Fund (UNICEF), çocuk haklarını koruma ve ilerletme mandate'ına sahip uluslararası kuruluş.
 
-## Dijital Konulardaki Çalışmaları
+## Dijital Çalışmaları
 
 ### Digital Rights Guidelines
-- 2017'de "Children's Rights and Digital Technologies" raporunu yayınladı
-- [[dijital-haklar]] çerçevesini oluşturdu
+- 2017'de "Children's Rights and Digital Technologies" yayınladı
 - 6 temel ilke: Erişim, koruma, katılım, eşitlik, veri gizliliği, sorumluluk
+- 2026'da güncellenerek AI ve algoritma şeffaflığı eklendi
 
 ### Age Appropriate Design Code
 - UK ICO ile ortak çalışma
-- 10 yaş altı için kod standartları
-- Privacy-by-design yaklaşımı
-
-## İlişkili Varlıklar
-- [[联合国儿童基金会]] (Çince)
-- [[Eurochild]] (Avrupa ağ)
-- [[Common Sense Media]] (ABD sivil toplum)
+- 10 yaş altı için privacy-by-design standartları
 
 ## Türkiye Bağlamı
-- [[Milli Eğitim Bakanlığı]] ile dijital okuryazarlık programları
-- Çeşitli STK'larla çocukları koruma projeleri
-- 2024'te dijital güvenlik seminerleri düzenlendi
+- Milli Eğitim Bakanlığı ile dijital okuryazarlık
+- 2025-2030 Dijital Dönüşüm Stratejisi'nde eksiklik
 
-## Önemli Tarihler
-- 1989: Çocuk Hakları Sözleşmesi (dijital haklar kapsamında yorumlandı)
-- 2017: Digital Rights Guidelines yayını
-- 2021: More Digital, Better Digital stratejisi
-
-## Kaynaklar
-- [[dijital-cocuk-haklari-kavram]]
-- [[yas-limitleri-karsilastirma]]
-- [UNICEF Digital Strategy 2021-2030](https://www.unicef.org/strategy)
+## İlgili Kavramlar
+- [[concepts/dijital-haklar.md]]
+- [[concepts/dijital-vatandaslik.md]]
