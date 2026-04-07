@@ -15,7 +15,15 @@
 - Created raw article: [[raw/articles/unicef-digital-rights-guidelines-2026.md]]
 - Updated index.md and log.md
 
-## [2026-04-07] ingest | Wiki Manual Update
+## [2026-04-07] update | Wiki Manual Update
 - Updated index.md with additional entities and concepts
-- Added Common Sense Media, 5Rights Foundation, BTK
-- Added digital literacy and child abuse concepts
+
+## [2026-04-07] ingest | KURATOR 2026-04-07 - Expanded
+- Created entity: [[entities/common-sense-media.md]] - Common Sense Media
+- Created entity: [[entities/5rights-foundation.md]] - 5Rights Foundation
+- Created entity: [[entities/btk.md]] - BTK
+- Created concept: [[concepts/dijital-okuryazarlik.md]] - Dijital okuryazarlık
+- Created concept: [[concepts/cocuk-istismarı.md]] - Çocuk istismarı
+- Created comparison: [[comparisons/yas-limitleri-karsilastirma.md]] - Yaş limitleri karşılaştırması
+- Created raw articles: common-sense-media-2026.md, 5rights-digital-citizenship-2026.md, btk-dijital-regulation-2026.md
+- Updated index.md and log.md
