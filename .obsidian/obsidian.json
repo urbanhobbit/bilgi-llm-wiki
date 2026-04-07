@@ -1,0 +1,22 @@
+{
+  "communityPlugins": [
+    {
+      "id": "dataview",
+      "disabled": false,
+      "settings": {
+        "enableInlineDataview": true,
+        "dataviewjsEnableIframe": false
+      }
+    },
+    {
+      "id": "templater",
+      "disabled": false,
+      "settings": {
+        "templater_command_location": "none"
+      }
+    }
+  ],
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "enableCallouts": true
+}

@@ -1,0 +1,8 @@
+{
+  "editor:toggle-source-mode": [],
+  "editor:toggle-preview": [],
+  "file-explorer:new-file": [
+    "Ctrl+N"
+  ],
+  "dataview:inline-query": []
+}

@@ -1,0 +1,33 @@
+{
+  "main": {
+    "id": "main",
+    "type": "split",
+    "children": [
+      {
+        "id": "sidebar",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "rootFolder": "/root/wiki",
+            "sortOrder": "alphabetical-asc"
+          }
+        }
+      },
+      {
+        "id": "editor",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "sidebar": {
+    "width": 300
+  }
+}
