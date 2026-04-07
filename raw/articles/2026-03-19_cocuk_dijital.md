@@ -1,0 +1,17 @@
+
+## Makale 6: The Impact of Youth Digital Citizenship Education: Insights from a Cluster Randomized Controlled Trial Outcome Evaluation of the Be Internet Awesome (BIA) Curriculum
+
+- **Başlık:** The Impact of Youth Digital Citizenship Education: Insights from a Cluster Randomized Controlled Trial Outcome Evaluation of the Be Internet Awesome (BIA) Curriculum
+- **Yazar/Kurum:** Contemporary School Psychology
+- **Tarih:** 5 Nisan 2023
+- **URL:** https://link.springer.com/article/10.1007/s40688-023-00465-5
+
+### ÖZET
+Bu küme randomize kontrollü deneme (CRCT) çalışması, Google tarafından geliştirilen "Be Internet Awesome (BIA)" dijital vatandaşlık programının, 4-6. sınıf öğrencilerinin (1072 öğrenci) çevrimiçi güvenlik bilgisi, tutum ve davranışları üzerindeki etkisini değerlendirmiştir. Araştırma, BIA programının yeni çevrimiçi güvenlik kavramlarına ilişkin bilgiyi ve çevrimiçi sorunlarla başa çıkma konusunda öz-yeterliliği artırdığını ortaya koymuştur. Ancak, çevrimiçi mahremiyet veya nezaket, siber zorbalık ve çevrimiçi sorunlar hakkında ebeveynlerle konuşma gibi diğer sonuçlar üzerinde programın anlamlı bir etkisi bulunamamıştır. Çalışma, dijital vatandaşlık programlarının hedeflerinin netleştirilmesi, yenilikçi yaklaşımların benimsenmesi ve değerlendirme araştırmalarının artırılması gerektiğini vurgulamaktadır. Çevrimiçi güvenlik eğitiminin geleneksel olarak siber zorbalık, çevrimiçi dolandırıcılık ve mahremiyet gibi konulara odaklandığı, ancak eleştirel medya tüketimi ve sorumlu katılım gibi dijital vatandaşlık unsurlarının da giderek daha önemli hale geldiği belirtilmiştir. Çalışmanın sınırlılıkları arasında küçük örneklem büyüklüğü ve kontrol edilemeyen bazı başlangıç farklılıkları yer almaktadır.
+
+### YORUM
+Bu çalışma, Emre'nin "çocuk katılımı ve dijital vatandaşlık" konusundaki araştırma ilgi alanları için oldukça doğrudan ve somut veriler sunuyor. "Be Internet Awesome" gibi geniş çaplı bir dijital vatandaşlık eğitim programının randomize kontrollü bir deneyle değerlendirilmiş olması, alan yazına önemli bir katkı sağlıyor. Programın çevrimiçi güvenlik bilgisi ve öz-yeterlilik üzerindeki olumlu etkileri, çocuklara dijital ortamda karşılaşabilecekleri sorunlarla başa çıkma konusunda temel araçlar sağlamak adına dijital vatandaşlık eğitimlerinin potansiyelini gösteriyor. Ancak, mahremiyet, siber zorbalık ve ebeveynlerle iletişim gibi alanlarda belirgin bir etki görülmemesi, bu programların kapsamının ve etki alanının sınırlı olabileceğini düşündürüyor. Bu durum, eğitim programlarının tasarımında ve uygulanmasında daha hedefli ve kültürel olarak duyarlı yaklaşımlara ihtiyaç olduğunu gösteriyor. Emre'nin "dijital kısıtlamalar" ve "çocukların dijital ortam deneyimleri" konularıyla da bağlantılı olarak, bu bulgular bize sadece çocukları koruma amaçlı kısıtlamaların veya güvenlik eğitimlerinin yeterli olmayacağını, aynı zamanda çocuklara aktif ve sorumlu dijital vatandaşlar olmaları için gerekli becerilerin de kazandırılması gerektiğini hatırlatıyor. Politikalar açısından, okullarda uygulanan dijital vatandaşlık eğitimlerinin etkinliğinin düzenli olarak değerlendirilmesi ve bu programların hedeflerinin net bir şekilde tanımlanması gerektiği çıkarımı yapılabilir. Ayrıca, programların ebeveyn katılımını nasıl artırabileceği ve ev ile okul arasındaki iletişimi nasıl güçlendirebileceği de önemli araştırma alanlarıdır.
+
+- **Kategori etiketi:** katılım/dijital vatandaşlık
+
+---
