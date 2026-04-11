@@ -6,6 +6,7 @@
       {
         "id": "e7ac9058fa212edc",
         "type": "tabs",
+        "dimension": 12.753807106598986,
         "children": [
           {
             "id": "sidebar",
@@ -25,6 +26,7 @@
       {
         "id": "c4c12df0ed2aea82",
         "type": "tabs",
+        "dimension": 87.24619289340102,
         "children": [
           {
             "id": "editor",
@@ -173,8 +175,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -201,8 +203,10 @@
   "active": "editor",
   "lastOpenFiles": [
     "index.md",
-    "raw/articles/platform-transparency-2026.md",
+    "raw/articles/unicef-digital-rights-guidelines-2026.md",
     "raw/articles/nyt-teen-social-media-2026.md",
+    "raw/articles/unicef-digital-rights-2026.md",
+    "raw/articles/platform-transparency-2026.md",
     "raw/articles/guardian-children-digital-2026.md",
     "raw/articles/digital-exhaust-2026.md",
     "raw/articles/bbc-children-online-2026.md",
@@ -211,7 +215,6 @@
     "entities/bbc.md",
     "concepts/platform-seffaflik.md",
     "concepts/dijital-egzos.md",
-    "raw/articles/unicef-digital-rights-guidelines-2026.md",
     "concepts/dijital-haklar.md",
     "log.md",
     "dijital-cocuk-haklari-kavram.md",
@@ -225,7 +228,6 @@
     "concepts/cocuk-istismari.md",
     "comparisons/yas-limitleri-karsilastirma.md",
     "comparisons",
-    "README.md",
-    "raw/articles/2026-03-21_cocuk_dijital.md"
+    "README.md"
   ]
 }
