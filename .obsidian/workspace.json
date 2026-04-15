@@ -1,41 +1,20 @@
 {
   "main": {
-    "id": "main",
+    "id": "37190fbd43c474b3",
     "type": "split",
     "children": [
       {
-        "id": "e7ac9058fa212edc",
+        "id": "89fa679fe5f07884",
         "type": "tabs",
-        "dimension": 25.571065989847718,
         "children": [
           {
-            "id": "sidebar",
+            "id": "dbcc59532a71f78f",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical-asc",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c4c12df0ed2aea82",
-        "type": "tabs",
-        "dimension": 74.42893401015228,
-        "children": [
-          {
-            "id": "editor",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -44,21 +23,34 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10411c942e86c60e",
+    "id": "41a2a1344cf9a81c",
     "type": "split",
     "children": [
       {
-        "id": "b29ae66a09e9b483",
+        "id": "9570869dd2d4e42c",
         "type": "tabs",
         "children": [
           {
-            "id": "fa210f6d29836070",
+            "id": "2d95d8d38d3fd2f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "705efe441f08226e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +61,7 @@
             }
           },
           {
-            "id": "2e39d1a71c5431b3",
+            "id": "591b0a53166e49d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "60cd02eeee108170",
+    "id": "9438472a35df36ca",
     "type": "split",
     "children": [
       {
-        "id": "921fb7cb4af0033a",
+        "id": "19928702bbb668fe",
         "type": "tabs",
         "children": [
           {
-            "id": "493f7f1d9d405cbd",
+            "id": "6dec7bc827ae1edb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c0f829e8899d49a8",
+            "id": "76f906e3d3c1a130",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bccad0bb4571a2fd",
+            "id": "e457b810795c5cf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +131,7 @@
             }
           },
           {
-            "id": "ce8ef3ef6bb02f31",
+            "id": "cee643f13af43db1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,22 +145,21 @@
             }
           },
           {
-            "id": "159371500c1c7e80",
+            "id": "b3683654a47f532a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           },
           {
-            "id": "7ae8080d2c0a2376",
+            "id": "f5fd8a2aba97c605",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -200,34 +189,6 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "editor",
-  "lastOpenFiles": [
-    "index.md",
-    "entities/btk.md",
-    "entities/new-york-times.md",
-    "raw/articles/2026-03-19_cocuk_dijital.md",
-    "raw/articles/2026-03-13_cocuk_dijital.md",
-    "raw/articles/platform-transparency-2026.md",
-    "raw/articles/nyt-teen-social-media-2026.md",
-    "raw/articles/guardian-children-digital-2026.md",
-    "raw/articles/digital-exhaust-2026.md",
-    "raw/articles/bbc-children-online-2026.md",
-    "entities/guardian.md",
-    "entities/bbc.md",
-    "concepts/platform-seffaflik.md",
-    "concepts/dijital-egzos.md",
-    "raw/articles/unicef-digital-rights-guidelines-2026.md",
-    "concepts/dijital-haklar.md",
-    "log.md",
-    "dijital-cocuk-haklari-kavram.md",
-    "raw/articles/common-sense-media-2026.md",
-    "raw/articles/btk-dijital-regulation-2026.md",
-    "raw/articles/5rights-digital-citizenship-2026.md",
-    "entities/common-sense-media.md",
-    "entities/5rights-foundation.md",
-    "concepts/dijital-okuryazarlik.md",
-    "concepts/cocuk-istismari.md",
-    "comparisons/yas-limitleri-karsilastirma.md",
-    "comparisons"
-  ]
+  "active": "dbcc59532a71f78f",
+  "lastOpenFiles": []
 }
