@@ -25,3 +25,11 @@
 - Created concept: platform-seffaflik.md - Platform şeffaflığı
 - Created raw articles: 5 new articles
 - Updated index.md and log.md
+
+## [2026-04-11] ingest | Çocuk & Dijital Bültenler + Akademik Taramalar (Mar-Apr 2026)
+Processed 14 raw files: 7 _cocuk_dijital bülteni, 5 _detayli/_akademik (yalnızca "Digital Restrictions" bölümleri), unicef-digital-rights-2026.md, 2026-03-27_ozel_metodoloji_etik.md (kapsam dışı, atlandı).
+New entities: [[entities/jonathan-haidt.md]], [[entities/esafety-commissioner.md]], [[entities/pew-research-center.md]], [[entities/american-academy-of-pediatrics.md]].
+Updated entities: [[entities/unicef.md]], [[entities/5rights-foundation.md]], [[entities/common-sense-media.md]].
+New concepts: [[concepts/sosyal-medya-yasagi-tartismasi.md]], [[concepts/yas-dogrulama.md]], [[concepts/ekran-suresi.md]], [[concepts/d-cria.md]].
+Updated concepts: [[concepts/dijital-haklar.md]], [[concepts/dijital-okuryazarlik.md]], [[concepts/dijital-vatandaslik.md]].
+Updated comparison: [[comparisons/yas-limitleri-karsilastirma.md]] (Avustralya 3-aylık değerlendirme, küresel yayılım, ABD eyalet modelleri).
