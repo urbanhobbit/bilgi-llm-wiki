@@ -25,3 +25,5 @@
 - Created concept: platform-seffaflik.md - Platform şeffaflığı
 - Created raw articles: 5 new articles
 - Updated index.md and log.md
+
+- **PAT Renewal Sync** (2026-05-05 09:51:07 UTC): New PAT configured and verified. Token renewed after expiry.
