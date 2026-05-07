@@ -3,6 +3,7 @@
 > Content catalog. Every wiki page with a one-line summary.
 
 ## Entities
+- [[entities/encode-project.md]] - ENCODE Project — Horizon Europe: duyguların politik söylemdeki rolü, demokratik dayanıklılık
 - [[entities/5rights-foundation.md]] - 5Rights Foundation — UK çocuk dijital hakları organizasyonu
 - [[entities/american-academy-of-pediatrics.md]] - American Academy of Pediatrics (AAP) — ABD çocuk sağlığı uzmanları örgütü, ekran süresi rehberi
 - [[entities/bbc.md]] - BBC — İngiltere kamu yayıncısı
@@ -16,6 +17,9 @@
 - [[entities/unicef.md]] - UNICEF — Uluslararası çocuk hakları organizasyonu
 
 ## Concepts
+- [[concepts/affective-polarisation.md]] - Duygusal kutuplaşma — siyasi rakiplerin duygusal olarak mesafeli algılanması
+- [[concepts/emotional-amplification-loops.md]] - Duygusal amplifikasyon döngüleri — platform algoritmalarının yüksek uyarımlı duyguları güçlendirmesi
+- [[concepts/cycle-of-distrust.md]] - Güvensizlik döngüsü — duygusal manipülasyonun kurumsal güveni aşındırması
 - [[concepts/cocuk-istismari.md]] - Dijital ortamda çocuk istismarı
 - [[concepts/d-cria.md]] - D-CRIA — UNICEF'in Dijital Çocuk Hakları Etki Değerlendirme aracı
 - [[concepts/dijital-egzos.md]] - Dijital ortamlarda bırakılan veri izleri

@@ -37,3 +37,12 @@ Updated comparison: [[comparisons/yas-limitleri-karsilastirma.md]] (Avustralya 3
 =======
 - **PAT Renewal Sync** (2026-05-05 09:51:07 UTC): New PAT configured and verified. Token renewed after expiry.
 >>>>>>> origin/main
+
+
+## [2026-05-07] ingest | ENCODE D3.4 Catalogue of Best Practices
+- Raw: [[raw/articles/2026-05-07_encode-d3-4-best-practices.md]] — ENCODE D3.4 katalog özeti
+- Entity: [[entities/encode-project.md]] — ENCODE Projesi entity sayfası
+- Concept: [[concepts/affective-polarisation.md]] — Duygusal kutuplaşma kavramı
+- Concept: [[concepts/emotional-amplification-loops.md]] — Duygusal amplifikasyon döngüleri
+- Concept: [[concepts/cycle-of-distrust.md]] — Güvensizlik döngüsü
+- PDF kaynak (2.9MB): raw/ dizininde
