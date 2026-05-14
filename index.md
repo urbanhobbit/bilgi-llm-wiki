@@ -3,39 +3,42 @@
 > Content catalog. Every wiki page with a one-line summary.
 
 ## Entities
-- [[entities/encode-project.md]] - ENCODE Project â Horizon Europe: duygularÄ±n politik sÃ¶ylemdeki rolÃ¼, demokratik dayanÄ±klÄ±lÄ±k
-- [[entities/5rights-foundation.md]] - 5Rights Foundation â UK Ã§ocuk dijital haklarÄ± organizasyonu
-- [[entities/american-academy-of-pediatrics.md]] - American Academy of Pediatrics (AAP) â ABD Ã§ocuk saÄlÄ±ÄÄ± uzmanlarÄ± Ã¶rgÃ¼tÃ¼, ekran sÃ¼resi rehberi
-- [[entities/bbc.md]] - BBC â Ä°ngiltere kamu yayÄ±ncÄ±sÄ±
-- [[entities/btk.md]] - BTK â TÃ¼rkiye biliÅim dÃ¼zenleyici kurumu
-- [[entities/common-sense-media.md]] - Common Sense Media â ABD dijital iÃ§erik araÅtÄ±rma ve savunuculuk kuruluÅu
-- [[entities/edmo.md]] - EDMO â AB'nin dezenformasyonla mÃ¼cadele aÄÄ± (European Digital Media Observatory)
-- [[entities/esafety-commissioner.md]] - eSafety Commissioner (Avustralya) â 16 yaÅ altÄ± sosyal medya yasaÄÄ± uygulayÄ±cÄ±sÄ±
-- [[entities/guardian.md]] - The Guardian â Ä°ngiltere gazete
-- [[entities/jonathan-haidt.md]] - Jonathan Haidt â "The Anxious Generation" yazarÄ±, sosyal medya kÄ±sÄ±tlamalarÄ± savunucusu
-- [[entities/new-york-times.md]] - New York Times â ABD gazete
-- [[entities/pew-research-center.md]] - Pew Research Center â ABD kamuoyu araÅtÄ±rma kuruluÅu, ergen sosyal medya verileri
-- [[entities/unicef.md]] - UNICEF â UluslararasÄ± Ã§ocuk haklarÄ± organizasyonu
+- [[entities/encode-project.md]] - ENCODE Project Ã¢ÂÂ Horizon Europe: duygularÃÂ±n politik sÃÂ¶ylemdeki rolÃÂ¼, demokratik dayanÃÂ±klÃÂ±lÃÂ±k
+- [[entities/5rights-foundation.md]] - 5Rights Foundation Ã¢ÂÂ UK ÃÂ§ocuk dijital haklarÃÂ± organizasyonu
+- [[entities/american-academy-of-pediatrics.md]] - American Academy of Pediatrics (AAP) Ã¢ÂÂ ABD ÃÂ§ocuk saÃÂlÃÂ±ÃÂÃÂ± uzmanlarÃÂ± ÃÂ¶rgÃÂ¼tÃÂ¼, ekran sÃÂ¼resi rehberi
+- [[entities/bbc.md]] - BBC Ã¢ÂÂ ÃÂ°ngiltere kamu yayÃÂ±ncÃÂ±sÃÂ±
+- [[entities/btk.md]] - BTK Ã¢ÂÂ TÃÂ¼rkiye biliÃÂim dÃÂ¼zenleyici kurumu
+- [[entities/common-sense-media.md]] - Common Sense Media Ã¢ÂÂ ABD dijital iÃÂ§erik araÃÂtÃÂ±rma ve savunuculuk kuruluÃÂu
+- [[entities/edmo.md]] - EDMO - AB dezenformasyonla mucadele agi
+- [[entities/admo.md]] - ADMO - Hirvatistan-Slovenya EDMO hubi
+- [[entities/nordis.md]] - NORDIS - Iskandinav EDMO hubi - EDMO Ã¢ÂÂ AB'nin dezenformasyonla mÃÂ¼cadele aÃÂÃÂ± (European Digital Media Observatory)
+- [[entities/esafety-commissioner.md]] - eSafety Commissioner (Avustralya) Ã¢ÂÂ 16 yaÃÂ altÃÂ± sosyal medya yasaÃÂÃÂ± uygulayÃÂ±cÃÂ±sÃÂ±
+- [[entities/guardian.md]] - The Guardian Ã¢ÂÂ ÃÂ°ngiltere gazete
+- [[entities/jonathan-haidt.md]] - Jonathan Haidt Ã¢ÂÂ "The Anxious Generation" yazarÃÂ±, sosyal medya kÃÂ±sÃÂ±tlamalarÃÂ± savunucusu
+- [[entities/new-york-times.md]] - New York Times Ã¢ÂÂ ABD gazete
+- [[entities/pew-research-center.md]] - Pew Research Center Ã¢ÂÂ ABD kamuoyu araÃÂtÃÂ±rma kuruluÃÂu, ergen sosyal medya verileri
+- [[entities/unicef.md]] - UNICEF Ã¢ÂÂ UluslararasÃÂ± ÃÂ§ocuk haklarÃÂ± organizasyonu
 
 ## Concepts
-- [[concepts/affective-polarisation.md]] - Duygusal kutuplaÅma â siyasi rakiplerin duygusal olarak mesafeli algÄ±lanmasÄ±
-- [[concepts/ai-generated-disinformation.md]] - AI-Generated Disinformation â Yapay zeka ile Ã¼retilen dezenformasyon
-- [[concepts/emotional-amplification-loops.md]] - Duygusal amplifikasyon dÃ¶ngÃ¼leri â platform algoritmalarÄ±nÄ±n yÃ¼ksek uyarÄ±mlÄ± duygularÄ± gÃ¼Ã§lendirmesi
-- [[concepts/cycle-of-distrust.md]] - GÃ¼vensizlik dÃ¶ngÃ¼sÃ¼ â duygusal manipÃ¼lasyonun kurumsal gÃ¼veni aÅÄ±ndÄ±rmasÄ±
-- [[concepts/cocuk-istismari.md]] - Dijital ortamda Ã§ocuk istismarÄ±
-- [[concepts/d-cria.md]] - D-CRIA â UNICEF'in Dijital Ãocuk HaklarÄ± Etki DeÄerlendirme aracÄ±
-- [[concepts/dijital-egzos.md]] - Dijital ortamlarda bÄ±rakÄ±lan veri izleri
-- [[concepts/dijital-haklar.md]] - ÃocuklarÄ±n dijital ortamda haklarÄ± (UNCRC Ã§erÃ§evesi)
-- [[concepts/dijital-okuryazarlik.md]] - Dijital beceri ve bilgi; eÄitim programÄ± araÅtÄ±rmalarÄ±
-- [[concepts/dijital-vatandaslik.md]] - Dijital kullanÄ±mda sorumluluk ve katÄ±lÄ±m bilinci
-- [[concepts/ekran-suresi.md]] - Ekran sÃ¼resi araÅtÄ±rmalarÄ± ve AAP rehberi
-- [[concepts/platform-economy-misinformation.md]] - Platform Economy and Misinformation â Platform ekonomisinin dezenformasyonla iliÅkisi
-- [[concepts/platform-seffaflik.md]] - Platform algoritmalarÄ± ÅeffaflÄ±ÄÄ±
-- [[concepts/sosyal-medya-yasagi-tartismasi.md]] - YaÅ yasaÄÄ± vs. tasarÄ±m dÃ¼zenlemesi kÃ¼resel tartÄ±ÅmasÄ±
-- [[concepts/yas-dogrulama.md]] - YaÅ doÄrulama teknolojileri ve gizlilik dengesi
+- [[concepts/affective-polarisation.md]] - Duygusal kutuplaÃÂma Ã¢ÂÂ siyasi rakiplerin duygusal olarak mesafeli algÃÂ±lanmasÃÂ±
+- [[concepts/ai-generated-disinformation.md]] - AI-Generated Disinformation Ã¢ÂÂ Yapay zeka ile ÃÂ¼retilen dezenformasyon
+- [[concepts/emotional-amplification-loops.md]] - Duygusal amplifikasyon dÃÂ¶ngÃÂ¼leri Ã¢ÂÂ platform algoritmalarÃÂ±nÃÂ±n yÃÂ¼ksek uyarÃÂ±mlÃÂ± duygularÃÂ± gÃÂ¼ÃÂ§lendirmesi
+- [[concepts/cycle-of-distrust.md]] - GÃÂ¼vensizlik dÃÂ¶ngÃÂ¼sÃÂ¼ Ã¢ÂÂ duygusal manipÃÂ¼lasyonun kurumsal gÃÂ¼veni aÃÂÃÂ±ndÃÂ±rmasÃÂ±
+- [[concepts/cocuk-istismari.md]] - Dijital ortamda ÃÂ§ocuk istismarÃÂ±
+- [[concepts/d-cria.md]] - D-CRIA Ã¢ÂÂ UNICEF'in Dijital ÃÂocuk HaklarÃÂ± Etki DeÃÂerlendirme aracÃÂ±
+- [[concepts/dijital-egzos.md]] - Dijital ortamlarda bÃÂ±rakÃÂ±lan veri izleri
+- [[concepts/dijital-haklar.md]] - ÃÂocuklarÃÂ±n dijital ortamda haklarÃÂ± (UNCRC ÃÂ§erÃÂ§evesi)
+- [[concepts/dijital-okuryazarlik.md]] - Dijital beceri ve bilgi; eÃÂitim programÃÂ± araÃÂtÃÂ±rmalarÃÂ±
+- [[concepts/dijital-vatandaslik.md]] - Dijital kullanÃÂ±mda sorumluluk ve katÃÂ±lÃÂ±m bilinci
+- [[concepts/ekran-suresi.md]] - Ekran sÃÂ¼resi araÃÂtÃÂ±rmalarÃÂ± ve AAP rehberi
+- [[concepts/platform-economy-misinformation.md]] - Platform Economy
+- [[concepts/climate-disinformation.md]] - Climate Disinformation - Iklim dezenformasyonu - Platform Economy and Misinformation Ã¢ÂÂ Platform ekonomisinin dezenformasyonla iliÃÂkisi
+- [[concepts/platform-seffaflik.md]] - Platform algoritmalarÃÂ± ÃÂeffaflÃÂ±ÃÂÃÂ±
+- [[concepts/sosyal-medya-yasagi-tartismasi.md]] - YaÃÂ yasaÃÂÃÂ± vs. tasarÃÂ±m dÃÂ¼zenlemesi kÃÂ¼resel tartÃÂ±ÃÂmasÃÂ±
+- [[concepts/yas-dogrulama.md]] - YaÃÂ doÃÂrulama teknolojileri ve gizlilik dengesi
 
 ## Comparisons
-- [[comparisons/yas-limitleri-karsilastirma.md]] - Ãlke yaÅ limitleri ve dÃ¼zenleme modelleri karÅÄ±laÅtÄ±rmasÄ±
+- [[comparisons/yas-limitleri-karsilastirma.md]] - ÃÂlke yaÃÂ limitleri ve dÃÂ¼zenleme modelleri karÃÂÃÂ±laÃÂtÃÂ±rmasÃÂ±
 
 ## Queries
 *No query results filed yet.*
@@ -45,15 +48,15 @@
 **Total pages:** 40 (12 entities, 13 concepts, 1 comparison, 12 newsletters, raw articles)
 
 ## Newsletters
-- [[raw/articles/edmo-signals-noise-issue-19-2026-04.md|Issue 19 (Apr 2026)]] — Introducing Signals & Noise: AI, Hungary elections, platform economy
-- [[raw/articles/edmo-signals-noise-issue-18-2025-06.md|Issue 18 (Jun 2025)]] — Future of the Code, EDMO at UN IGF, election lessons
-- [[raw/articles/edmo-signals-noise-issue-17-2025-03.md|Issue 17 (Mar 2025)]] — Democracy Matters, Facts Matter
-- [[raw/articles/edmo-signals-noise-issue-16-2024-12.md|Issue 16 (Dec 2024)]] — EDMO updates, platform policy developments
-- [[raw/articles/edmo-signals-noise-issue-15-2024-07.md|Issue 15 (Jul 2024)]] — EDMO updates, EU election aftermath
-- [[raw/articles/edmo-signals-noise-issue-14-2024-03.md|Issue 14 (Mar 2024)]] — EDMO updates, EP election prep
-- [[raw/articles/edmo-signals-noise-issue-13-2023-12.md|Issue 13 (Dec 2023)]] — Year-end review
-- [[raw/articles/edmo-signals-noise-issue-12-2023-10.md|Issue 12 (Oct 2023)]] — Israel-Hamas conflict disinformation
-- [[raw/articles/edmo-signals-noise-issue-11-2023-07.md|Issue 11 (Jul 2023)]] — Summer disinformation trends
-- [[raw/articles/edmo-signals-noise-issue-10-2023-03.md|Issue 10 (Mar 2023)]] — Ukraine war disinformation
-- [[raw/articles/edmo-signals-noise-issue-9-2022-12.md|Issue 9 (Dec 2022)]] — 2022 review
-- [[raw/articles/edmo-signals-noise-issue-8-2022-09.md|Issue 8 (Sep 2022)]] — First newsletter issue
+- [[raw/articles/edmo-signals-noise-issue-19-2026-04.md|Issue 19 (Apr 2026)]] â Introducing Signals & Noise: AI, Hungary elections, platform economy
+- [[raw/articles/edmo-signals-noise-issue-18-2025-06.md|Issue 18 (Jun 2025)]] â Future of the Code, EDMO at UN IGF, election lessons
+- [[raw/articles/edmo-signals-noise-issue-17-2025-03.md|Issue 17 (Mar 2025)]] â Democracy Matters, Facts Matter
+- [[raw/articles/edmo-signals-noise-issue-16-2024-12.md|Issue 16 (Dec 2024)]] â EDMO updates, platform policy developments
+- [[raw/articles/edmo-signals-noise-issue-15-2024-07.md|Issue 15 (Jul 2024)]] â EDMO updates, EU election aftermath
+- [[raw/articles/edmo-signals-noise-issue-14-2024-03.md|Issue 14 (Mar 2024)]] â EDMO updates, EP election prep
+- [[raw/articles/edmo-signals-noise-issue-13-2023-12.md|Issue 13 (Dec 2023)]] â Year-end review
+- [[raw/articles/edmo-signals-noise-issue-12-2023-10.md|Issue 12 (Oct 2023)]] â Israel-Hamas conflict disinformation
+- [[raw/articles/edmo-signals-noise-issue-11-2023-07.md|Issue 11 (Jul 2023)]] â Summer disinformation trends
+- [[raw/articles/edmo-signals-noise-issue-10-2023-03.md|Issue 10 (Mar 2023)]] â Ukraine war disinformation
+- [[raw/articles/edmo-signals-noise-issue-9-2022-12.md|Issue 9 (Dec 2022)]] â 2022 review
+- [[raw/articles/edmo-signals-noise-issue-8-2022-09.md|Issue 8 (Sep 2022)]] â First newsletter issue
