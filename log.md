@@ -14,7 +14,7 @@
 
 ## [2026-04-07] ingest | KURATOR 2026-04-07 - Expanded
 - Created: common-sense-media.md, 5rights-foundation.md, btk.md
-- Created: dijital-okuryazarlik.md, cocuk-istismarı.md
+- Created: dijital-okuryazarlik.md, cocuk-istismari.md
 - Created: yas-limitleri-karsilastirma.md
 
 ## [2026-04-07] ingest | KURATOR 2026-04-07 - Media & Concepts
@@ -26,18 +26,13 @@
 - Created raw articles: 5 new articles
 - Updated index.md and log.md
 
-<<<<<<< HEAD
 ## [2026-04-11] ingest | Çocuk & Dijital Bültenler + Akademik Taramalar (Mar-Apr 2026)
-Processed 14 raw files: 7 _cocuk_dijital bülteni, 5 _detayli/_akademik (yalnızca "Digital Restrictions" bölümleri), unicef-digital-rights-2026.md, 2026-03-27_ozel_metodoloji_etik.md (kapsam dışı, atlandı).
-New entities: [[entities/jonathan-haidt.md]], [[entities/esafety-commissioner.md]], [[entities/pew-research-center.md]], [[entities/american-academy-of-pediatrics.md]].
-Updated entities: [[entities/unicef.md]], [[entities/5rights-foundation.md]], [[entities/common-sense-media.md]].
-New concepts: [[concepts/sosyal-medya-yasagi-tartismasi.md]], [[concepts/yas-dogrulama.md]], [[concepts/ekran-suresi.md]], [[concepts/d-cria.md]].
-Updated concepts: [[concepts/dijital-haklar.md]], [[concepts/dijital-okuryazarlik.md]], [[concepts/dijital-vatandaslik.md]].
-Updated comparison: [[comparisons/yas-limitleri-karsilastirma.md]] (Avustralya 3-aylık değerlendirme, küresel yayılım, ABD eyalet modelleri).
-=======
-- **PAT Renewal Sync** (2026-05-05 09:51:07 UTC): New PAT configured and verified. Token renewed after expiry.
->>>>>>> origin/main
+- Processed 14 raw files
+- New entities: jonathan-haidt.md, esafety-commissioner.md, pew-research-center.md, american-academy-of-pediatrics.md
+- New concepts: sosyal-medya-yasagi-tartismasi.md, yas-dogrulama.md, ekran-suresi.md, d-cria.md
+- Updated comparison: yas-limitleri-karsilastirma.md
 
+- **PAT Renewal Sync** (2026-05-05 09:51:07 UTC): New PAT configured and verified. Token renewed after expiry.
 
 ## [2026-05-07] ingest | ENCODE D3.4 Catalogue of Best Practices
 - Raw: [[raw/articles/2026-05-07_encode-d3-4-best-practices.md]] — ENCODE D3.4 katalog özeti
@@ -46,3 +41,11 @@ Updated comparison: [[comparisons/yas-limitleri-karsilastirma.md]] (Avustralya 3
 - Concept: [[concepts/emotional-amplification-loops.md]] — Duygusal amplifikasyon döngüleri
 - Concept: [[concepts/cycle-of-distrust.md]] — Güvensizlik döngüsü
 - PDF kaynak (2.9MB): raw/ dizininde
+
+## [2026-05-14] ingest | EDMO Signals & Noise Issue 19 (Pilot)
+- Raw: [[raw/articles/edmo-signals-noise-issue-19-2026-04.md]] — EDMO Signals & Noise Nisan 2026 bülteni
+- Entity: [[entities/edmo.md]] — EDMO (European Digital Media Observatory)
+- Concept: [[concepts/ai-generated-disinformation.md]] — AI-Generated Disinformation
+- Concept: [[concepts/platform-economy-misinformation.md]] — Platform Economy and Misinformation
+- Created via GitHub API (SSH down workaround)
+- Updated index.md and log.md
