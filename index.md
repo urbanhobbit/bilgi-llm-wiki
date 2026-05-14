@@ -9,6 +9,7 @@
 - [[entities/bbc.md]] - BBC — İngiltere kamu yayıncısı
 - [[entities/btk.md]] - BTK — Türkiye bilişim düzenleyici kurumu
 - [[entities/common-sense-media.md]] - Common Sense Media — ABD dijital içerik araştırma ve savunuculuk kuruluşu
+- [[entities/edmo.md]] - EDMO — AB'nin dezenformasyonla mücadele ağı (European Digital Media Observatory)
 - [[entities/esafety-commissioner.md]] - eSafety Commissioner (Avustralya) — 16 yaş altı sosyal medya yasağı uygulayıcısı
 - [[entities/guardian.md]] - The Guardian — İngiltere gazete
 - [[entities/jonathan-haidt.md]] - Jonathan Haidt — "The Anxious Generation" yazarı, sosyal medya kısıtlamaları savunucusu
@@ -18,6 +19,7 @@
 
 ## Concepts
 - [[concepts/affective-polarisation.md]] - Duygusal kutuplaşma — siyasi rakiplerin duygusal olarak mesafeli algılanması
+- [[concepts/ai-generated-disinformation.md]] - AI-Generated Disinformation — Yapay zeka ile üretilen dezenformasyon
 - [[concepts/emotional-amplification-loops.md]] - Duygusal amplifikasyon döngüleri — platform algoritmalarının yüksek uyarımlı duyguları güçlendirmesi
 - [[concepts/cycle-of-distrust.md]] - Güvensizlik döngüsü — duygusal manipülasyonun kurumsal güveni aşındırması
 - [[concepts/cocuk-istismari.md]] - Dijital ortamda çocuk istismarı
@@ -27,6 +29,7 @@
 - [[concepts/dijital-okuryazarlik.md]] - Dijital beceri ve bilgi; eğitim programı araştırmaları
 - [[concepts/dijital-vatandaslik.md]] - Dijital kullanımda sorumluluk ve katılım bilinci
 - [[concepts/ekran-suresi.md]] - Ekran süresi araştırmaları ve AAP rehberi
+- [[concepts/platform-economy-misinformation.md]] - Platform Economy and Misinformation — Platform ekonomisinin dezenformasyonla ilişkisi
 - [[concepts/platform-seffaflik.md]] - Platform algoritmaları şeffaflığı
 - [[concepts/sosyal-medya-yasagi-tartismasi.md]] - Yaş yasağı vs. tasarım düzenlemesi küresel tartışması
 - [[concepts/yas-dogrulama.md]] - Yaş doğrulama teknolojileri ve gizlilik dengesi
@@ -38,5 +41,5 @@
 *No query results filed yet.*
 
 ---
-**Last updated:** 2026-04-11
-**Total pages:** 25 (11 entities, 10 concepts, 1 comparison, raw articles)
+**Last updated:** 2026-05-14
+**Total pages:** 28 (12 entities, 12 concepts, 1 comparison, raw articles)
