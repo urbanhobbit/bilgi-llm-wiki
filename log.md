@@ -65,3 +65,6 @@
 - Updated entity: [[entities/edmo.md]] with Weekly Pulse wikilinks
 - Updated index.md with Weekly Pulse section (7 entries)
 - Created via GitHub API (SSH down workaround)
+## [2026-05-15] create | EDMO Content Ecosystem summary
+- Created: [[queries/edmo-content-ecosystem.md]] — EDMO Weekly Pulse (7 sayi) + Signals & Noise (12 sayi) kapsamli ozet notu
+- Updated: index.md with Queries section entry
