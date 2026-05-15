@@ -59,3 +59,9 @@
 - Added concept: [[concepts/climate-disinformation.md|Climate Disinformation]]
 - Enriched: Issue 18 with detailed content from EC archive
 - Updated index.md and log.md
+
+## [2026-05-14] ingest | EDMO Weekly Pulse (7 issues, Mar 26 - May 14 2026)
+- Raw articles (7): 2026-05-14, 2026-05-07, 2026-04-30, 2026-04-23, 2026-04-16, 2026-04-01, 2026-03-26
+- Updated entity: [[entities/edmo.md]] with Weekly Pulse wikilinks
+- Updated index.md with Weekly Pulse section (7 entries)
+- Created via GitHub API (SSH down workaround)
