@@ -12,6 +12,7 @@ tags:
   - eui
 sources:
   - raw/articles/edmo-signals-noise-issue-19-2026-04
+  - raw/articles/2026-05-14-edmo-weekly-pulse.md
 ---
 
 # European Digital Media Observatory (EDMO)
@@ -30,7 +31,7 @@ AB'nin en büyük disiplinlerarası dezenformasyonla mücadele ağı. **European
 
 **Yayınlar:**
 - Signals & Noise (aylık bülten)
-- Weekly Pulse (haftalık dezenformasyon trendleri)
+- Weekly Pulse (haftalık dezenformasyon trendleri) — [[raw/articles/2026-05-14-edmo-weekly-pulse.md|May 14]], [[raw/articles/2026-05-07-edmo-weekly-pulse.md|May 7]], [[raw/articles/2026-04-30-edmo-weekly-pulse.md|Apr 30]], [[raw/articles/2026-04-23-edmo-weekly-pulse.md|Apr 23]], [[raw/articles/2026-04-16-edmo-weekly-pulse.md|Apr 16]], [[raw/articles/2026-04-01-edmo-weekly-pulse.md|Apr 1]], [[raw/articles/2026-03-26-edmo-weekly-pulse.md|Mar 26]]
 - Best of Fact-checking Map
 - EDMO Taskforce Reports
 - Media Literacy Digest
