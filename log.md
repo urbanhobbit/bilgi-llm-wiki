@@ -68,3 +68,8 @@
 ## [2026-05-15] create | EDMO Content Ecosystem summary
 - Created: [[queries/edmo-content-ecosystem.md]] — EDMO Weekly Pulse (7 sayi) + Signals & Noise (12 sayi) kapsamli ozet notu
 - Updated: index.md with Queries section entry
+## [2026-05-18] ingest | Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-05-18_cocuk_dijital.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (May 18, 2026)
+- Raw: [[raw/articles/2026-05-14_ozel_metodoloji_etik.md]] — AKADEMİK ÖZEL: Metodoloji, Etik ve Güncel Tartışmalar (May 14, 2026)
+- Updated index.md with new articles
+

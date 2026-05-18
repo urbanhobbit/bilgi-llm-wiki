@@ -65,4 +65,10 @@
 - [[raw/articles/2026-04-23-edmo-weekly-pulse.md|Apr 23, 2026]] - AI Slop: How Greed Is Affecting Democracies
 - [[raw/articles/2026-04-16-edmo-weekly-pulse.md|Apr 16, 2026]] - Orban has been defeated, but what comes next?
 - [[raw/articles/2026-04-01-edmo-weekly-pulse.md|Apr 1, 2026]] - A dystopian electoral campaign will be over soon in Hungary, but disinformation damages are here to stay
-- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|Mar 26, 2026]] - AI (and More) Shaping Gulf War Perceptions in Europe
+|- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|Mar 26, 2026]] - AI (and More) Shaping Gulf War Perceptions in Europe
+
+## KURATOR Bulletins
+- [[raw/articles/2026-05-18_cocuk_dijital.md|May 18, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
+
+## AKADEMİK ÖZEL
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|May 14, 2026]] - Akademik Özel: Metodoloji, Etik ve Güncel Tartışmalar
