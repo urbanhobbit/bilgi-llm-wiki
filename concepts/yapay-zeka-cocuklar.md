@@ -1,5 +1,5 @@
 ---
-title: Dijital Okuryazarlık
+title: Yapay Zeka ve Çocuklar
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
@@ -7,9 +7,9 @@ tags: [kavram]
 sources: []
 ---
 
-# Dijital Okuryazarlık
+# Yapay Zeka ve Çocuklar
 
-Çocukların dijital ortamlarda güvenli ve bilinçli hareket edebilme becerileri, medya okuryazarlığı eğitimi.
+Yapay zeka teknolojilerinin çocuklar üzerindeki etkileri, AI destekli içerik önerileri, eğitimde AI kullanımı.
 
 ## İlgili Kaynaklar
 
