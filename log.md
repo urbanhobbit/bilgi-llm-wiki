@@ -36,3 +36,12 @@
 ## [2026-05-21] ingest | Raw articles batch 8: 10 files
 ## [2026-05-21] ingest | Raw articles batch 9: 10 files
 ## [2026-05-21] ingest | Raw articles batch 10: 2 files
+## [2026-05-23] ingest | KURATOR Haftalık Bülten - 23 Mayıs 2026
+- 6 sources on children's digital safety, online regulation, international policy developments
+- Topics: UK Online Safety Act, 5Rights Framework, Common Sense Media survey, social media bans
+- 5 high priority links, 1 medium priority
+
+## [2026-05-23] ingest | AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026
+- 5 academic sources on populist communication, public opinion, disinformation management
+- Sources: T&F, Springer, OUP, ScienceDirect, EU Council
+- 3 high priority, 2 medium priority
