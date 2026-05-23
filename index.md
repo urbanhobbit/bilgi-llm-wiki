@@ -1,6 +1,6 @@
 # Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-05-21 | Total pages: 112
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-05-23 | Total pages: 112
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -39,4 +39,7 @@
 - [[raw/articles/akademik-yayn-5-972.md|Akademik Yayın (5)]]
 - ... ve 82 kaynak daha
 
-*Toplam: 92 ham kaynak*
+*Toplam: 94 ham kaynak*
+
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR Haftalık Bülten - 23 Mayıs 2026]]
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026]]
