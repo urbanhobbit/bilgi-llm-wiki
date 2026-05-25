@@ -45,3 +45,7 @@
 - 5 academic sources on populist communication, public opinion, disinformation management
 - Sources: T&F, Springer, OUP, ScienceDirect, EU Council
 - 3 high priority, 2 medium priority
+
+## [2026-05-25] ingest | Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-05-25_cocuk_dijital.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (2026-05-25)
+- Updated index.md with new article

@@ -43,3 +43,6 @@
 
 - [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR Haftalık Bülten - 23 Mayıs 2026]]
 - [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026]]
+
+## KURATOR Bulletins
+- [[raw/articles/2026-05-25_cocuk_dijital.md|May 25, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
