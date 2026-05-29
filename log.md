@@ -49,3 +49,13 @@
 ## [2026-05-25] ingest | Weekly Bulletin Integration
 - Raw: [[raw/articles/2026-05-25_cocuk_dijital.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (2026-05-25)
 - Updated index.md with new article
+
+## [2026-05-29] ingest | EDMO Weekly Pulse - 21 May 2026
+- Raw: [[raw/articles/2026-05-21-edmo-weekly-pulse.md]] — Crime, migrants and disinformation: an online banquet for extremists
+- Topics: Anti-migrant disinformation, far-right extremism, Modena/Lelpzig/Southport cases
+- Sections: ON THE RISE (crime-migrant nexus), ZOOM-IN (3 case studies), ELECTION BEAT (Cyprus/Malta/Andalusia), GLOBAL PULSE (fake war images, AI influencers, anti-migrant narratives), ON A DIFFERENT NOTE (AI detection tools failure)
+
+## [2026-05-29] ingest | EDMO Weekly Pulse - 29 May 2026
+- Raw: [[raw/articles/2026-05-29-edmo-weekly-pulse.md]] — AI-Political Influencers: the New Gods of Propaganda and Disinformation?
+- Topics: AI-generated synthetic influencers, Danny Bones (The Node Project/Advance UK), synthetic political content
+- Sections: ON THE RISE (AI political influencers), ZOOM-IN (synthetic content in politics, US AI anger, Meta/Magyar case), ELECTION BEAT (Malta, Cyprus Sandygate), GLOBAL PULSE (flotilla, Ebola, Russian disinfo), ON A DIFFERENT NOTE (Carnegie AI & democracy report)
