@@ -44,5 +44,9 @@
 - [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR Haftalık Bülten - 23 Mayıs 2026]]
 - [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026]]
 
+## EDMO Weekly Pulse
+- [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21, 2026]] - Crime, migrants and disinformation: an online banquet for extremists, a real-world danger for societies
+- [[raw/articles/2026-05-29-edmo-weekly-pulse.md|May 29, 2026]] - AI-Political Influencers: the New Gods of Propaganda and Disinformation?
+
 ## KURATOR Bulletins
 - [[raw/articles/2026-05-25_cocuk_dijital.md|May 25, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
