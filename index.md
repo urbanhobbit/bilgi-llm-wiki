@@ -1,6 +1,6 @@
-# Wiki Index
+|# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-05-23 | Total pages: 112
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-05-30 | Total pages: 114
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -49,4 +49,6 @@
 - [[raw/articles/2026-05-29-edmo-weekly-pulse.md|May 29, 2026]] - AI-Political Influencers: the New Gods of Propaganda and Disinformation?
 
 ## KURATOR Bulletins
+- [[raw/articles/2026-05-30_cocuk_dijital.md|May 30, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
+- [[raw/articles/2026-05-30_akademik_ozel.md|May 30, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-05-25_cocuk_dijital.md|May 25, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
