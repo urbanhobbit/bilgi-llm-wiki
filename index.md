@@ -52,3 +52,6 @@
 - [[raw/articles/2026-05-30_cocuk_dijital.md|May 30, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
 - [[raw/articles/2026-05-30_akademik_ozel.md|May 30, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-05-25_cocuk_dijital.md|May 25, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
+
+
+- [[raw/articles/2026-06-01_cocuk_dijital.md|June 1, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)

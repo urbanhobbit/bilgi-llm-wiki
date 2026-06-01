@@ -59,3 +59,12 @@
 - Raw: [[raw/articles/2026-05-29-edmo-weekly-pulse.md]] — AI-Political Influencers: the New Gods of Propaganda and Disinformation?
 - Topics: AI-generated synthetic influencers, Danny Bones (The Node Project/Advance UK), synthetic political content
 - Sections: ON THE RISE (AI political influencers), ZOOM-IN (synthetic content in politics, US AI anger, Meta/Magyar case), ELECTION BEAT (Malta, Cyprus Sandygate), GLOBAL PULSE (flotilla, Ebola, Russian disinfo), ON A DIFFERENT NOTE (Carnegie AI & democracy report)
+
+## [2026-06-01] ingest | KURATOR Haftalık Bülten - 2026-06-01
+- Raw: [[raw/articles/2026-06-01_cocuk_dijital.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (2026-06-01)
+- 6 academic sources on children's digital safety, online wellbeing, algorithmic addiction, content moderation
+- 6 non-academic sources on global regulatory developments (Malaysia social media ban, KOSA/COPPA 2.0, WHR 2026, EU DSA, UK OSA)
+- Topics: WHR 2026 Ch.3 (Haidt & Rausch), Malaysia under-16 ban, KOSA/COPPA 2.0 Senate vote, Türkiye 2026-2030 Eylem Planı
+- 6 high priority links, 4 medium priority
+- 10 policy recommendations (urgent/short/medium term)
+- Comparative international regulatory analysis with 8-country table
