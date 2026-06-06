@@ -5,6 +5,12 @@
 
 # Wiki Log
 
+## [2026-06-06] ingest | Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-06-06_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni
+- Raw: [[raw/articles/2026-06-06_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme
+- Topics: Turkey social media regulation, AI-generated CSAM, global social media bans, digital rights, DSA, COPPA, populist communication, prebunking misinformation
+- Scrapling test: 40% block rate (4/10 academic sources blocked by bot protection)
+
 ## [2026-05-21] create | Wiki initialized from KURATOR DB
 - Created 14 entity pages
 - Created 6 concept pages
