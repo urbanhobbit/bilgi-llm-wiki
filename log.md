@@ -1,3 +1,8 @@
+## [2026-06-06] ingest | EDMO Weekly Pulse - 4 June 2026
+- Raw: [[raw/articles/2026-06-04-edmo-weekly-pulse.md]] — The same old story – a heat wave of climate disinformation
+- Topics: Climate disinformation ecosystem, May 2026 heatwave, far-end emission scenario revisions, IPCC false resignations
+- Sections: ON THE RISE (climate disinformation ecosystem, carbon vs attention economy), ZOOM-IN (DE FACTO: May 2026 heatwave; MEDDMO: emission scenarios; GADMO: IPCC false resignations), ELECTION BEAT (Malta election website network, Colombia false fraud allegations), GLOBAL PULSE (Trump/Xi banquet clip, AI-generated USS Abraham Lincoln attack), ON A DIFFERENT NOTE (state-backed climate disinformation)
+
 # Wiki Log
 
 ## [2026-05-21] create | Wiki initialized from KURATOR DB
