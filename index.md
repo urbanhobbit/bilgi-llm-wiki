@@ -27,6 +27,7 @@
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 
 ## Raw Articles
+
 - [[raw/articles/akademik-yayn-1-968.md|Akademik Yayın (1)]]
 - [[raw/articles/akademik-yayn-10-977.md|Akademik Yayın (10)]]
 - [[raw/articles/akademik-yayn-11-978.md|Akademik Yayın (11)]]
@@ -37,6 +38,7 @@
 - [[raw/articles/akademik-yayn-3-970.md|Akademik Yayın (3)]]
 - [[raw/articles/akademik-yayn-4-971.md|Akademik Yayın (4)]]
 - [[raw/articles/akademik-yayn-5-972.md|Akademik Yayın (5)]]
+- [[raw/articles/2026-06-08_cocuk_dijital|2026-06-08 KURATOR: Çocuklar ve Dijital Dünya]] - Haftalık Bülten #24/2026
 - ... ve 82 kaynak daha
 
 *Toplam: 94 ham kaynak*

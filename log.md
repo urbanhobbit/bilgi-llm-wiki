@@ -2,6 +2,7 @@
 - Raw: [[raw/articles/2026-06-04-edmo-weekly-pulse.md]] — The same old story – a heat wave of climate disinformation
 - Topics: Climate disinformation ecosystem, May 2026 heatwave, far-end emission scenario revisions, IPCC false resignations
 - Sections: ON THE RISE (climate disinformation ecosystem, carbon vs attention economy), ZOOM-IN (DE FACTO: May 2026 heatwave; MEDDMO: emission scenarios; GADMO: IPCC false resignations), ELECTION BEAT (Malta election website network, Colombia false fraud allegations), GLOBAL PULSE (Trump/Xi banquet clip, AI-generated USS Abraham Lincoln attack), ON A DIFFERENT NOTE (state-backed climate disinformation)
+- **2026-06-08** | Ingest | KURATOR Çocuklar ve Dijital Dünya Bülteni #24 — 20 kaynak (8 akademik + 12 rapor/haber) — WHR 2026, Aura, 5Rights, AB Yaş Doğrulama, IWF CSAM, arXiv
 
 # Wiki Log
 
