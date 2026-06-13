@@ -1,3 +1,10 @@
+## [2026-06-13] ingest | KURATOR + AKADEMİK ÖZEL Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-06-13_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni (53 sources)
+- Raw: [[raw/articles/2026-06-13_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (25 sources)
+- Topics: Social media bans global wave (Greece, US, Indonesia), AI-generated CSAM crisis, Turkey school security & digital disinformation, children's digital rights framework (5Rights/COPPA/DSA), Common Sense Media surveys, Pew Research, IEEE age-appropriate design
+- Scrapling test: 50% block rate (5/10), metadata-based classification used for blocked sources
+- Turkey-specific: Kahramanmaraş school attacks, MİT cybercrime operation, Youth Mental Health Report
+
 ## [2026-06-13] ingest | EDMO Weekly Pulse - 11 June 2026
 - Raw: [[raw/articles/2026-06-11-edmo-weekly-pulse.md]] — Incident or Deliberate Action? It Doesn't Matter: Drone Crashes Are Always Good for Spreading Conspiracy Theories and Fearmongering
 - Topics: Drone crash disinformation, Russo-Ukrainian war, false-flag conspiracy theories, coordinated amplification campaigns
