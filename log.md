@@ -1,3 +1,8 @@
+## [2026-06-13] ingest | EDMO Weekly Pulse - 11 June 2026
+- Raw: [[raw/articles/2026-06-11-edmo-weekly-pulse.md]] — Incident or Deliberate Action? It Doesn't Matter: Drone Crashes Are Always Good for Spreading Conspiracy Theories and Fearmongering
+- Topics: Drone crash disinformation, Russo-Ukrainian war, false-flag conspiracy theories, coordinated amplification campaigns
+- Sections: ON THE RISE (drone crashes as disinformation vectors), ZOOM-IN (Romania/Galați/Baltic case studies), ELECTION BEAT (Armenia election influence operation, Malta Rapid Response System), GLOBAL PULSE (FIFA World Cup disinformation, Israel/Lebanon convent, Kuwait explosion video), ON A DIFFERENT NOTE (Timiș democratic resilience declaration)
+
 ## [2026-06-06] ingest | EDMO Weekly Pulse - 4 June 2026
 - Raw: [[raw/articles/2026-06-04-edmo-weekly-pulse.md]] — The same old story – a heat wave of climate disinformation
 - Topics: Climate disinformation ecosystem, May 2026 heatwave, far-end emission scenario revisions, IPCC false resignations
