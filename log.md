@@ -96,3 +96,10 @@
 - 6 high priority links, 4 medium priority
 - 10 policy recommendations (urgent/short/medium term)
 - Comparative international regulatory analysis with 8-country table
+
+## [2026-06-20] ingest | KURATOR + AKADEMİK ÖZEL Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-06-20_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni (73 sources)
+- Raw: [[raw/articles/2026-06-20_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (19 academic sources)
+- Topics: Greece 15+ social media ban confirmed (Reuters/AP/BBC), AI-CSAM surge (+26000%% IWF), Indonesia first Global South age-appropriate design regulation, IEEE global age-appropriate design trend analysis, Turkey school attacks & digital disinformation, Solo screen time peril, 5Rights/COPPA/DSA developments, Common Sense Media surveys, Pew Research AI use study, Digital Parenting Survey 2026
+- Scrapling test: 60%% block rate (6/10), metadata-based classification used
+- Turkey-specific: Kahramanmaraş school attacks, MIT cybercrime operation (12 suspects), Youth Mental Health Report 2026, Bakan Goktas aciklamalari, secim guvenligi (Bianet)
