@@ -14,6 +14,7 @@ sources:
   - raw/articles/edmo-signals-noise-issue-19-2026-04
   - raw/articles/2026-05-14-edmo-weekly-pulse.md
   - raw/articles/2026-06-04-edmo-weekly-pulse.md
+  - raw/articles/2026-06-18-edmo-weekly-pulse.md
   - raw/articles/2026-06-11-edmo-weekly-pulse.md
 ---
 

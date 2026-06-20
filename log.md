@@ -1,3 +1,8 @@
+## [2026-06-18] ingest | EDMO Weekly Pulse - 18 June 2026
+- Raw: [[raw/articles/2026-06-18-edmo-weekly-pulse.md]] — Dublin, Southport, Belfast: Who Is Fanning the Flames?
+- Topics: Far-right street violence in UK/Ireland, social media amplification, foreign interference, anti-immigrant disinformation
+- Sections: ON THE RISE (Dublin-Southport-Belfast pattern), ZOOM-IN (Latvia crime claims, Paris AI image, Krakow disinfo), ELECTION BEAT (Armenia/Storm-1516, Latvia pre-election), GLOBAL PULSE (Iran claims, Facebook threats, Argentina tech), ON A DIFFERENT NOTE (Nordics pro-Russian hackers)
+
 ## [2026-06-13] ingest | KURATOR + AKADEMİK ÖZEL Weekly Bulletin Integration
 - Raw: [[raw/articles/2026-06-13_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni (53 sources)
 - Raw: [[raw/articles/2026-06-13_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (25 sources)

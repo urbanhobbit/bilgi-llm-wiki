@@ -45,7 +45,8 @@
 - [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026]]
 
 ## EDMO Weekly Pulse
-- [[raw/articles/2026-06-11-edmo-weekly-pulse.md|Jun 11, 2026]] - Incident or Deliberate Action? It Doesn't Matter: Drone Crashes Are Always Good for Spreading Conspiracy Theories and Fearmongering
+  - [[raw/articles/2026-06-18-edmo-weekly-pulse.md|Jun 18, 2026]] - Dublin, Southport, Belfast: Who Is Fanning the Flames?
+  - [[raw/articles/2026-06-11-edmo-weekly-pulse.md|Jun 11, 2026]] - Incident or Deliberate Action? It Doesn't Matter: Drone Crashes Are Always Good for Spreading Conspiracy Theories and Fearmongering
 - [[raw/articles/2026-06-04-edmo-weekly-pulse.md|Jun 4, 2026]] - The same old story – a heat wave of climate disinformation
 - [[raw/articles/2026-05-29-edmo-weekly-pulse.md|May 29, 2026]] - AI-Political Influencers: the New Gods of Propaganda and Disinformation?
 - [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21, 2026]] - Crime, migrants and disinformation: an online banquet for extremists, a real-world danger for societies
