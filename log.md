@@ -977,3 +977,8 @@
 - Source files: 2026-06-11_categorized.json, 2026-06-10_categorized.json, 2026-06-12_categorized.json, 2026-06-14_categorized.json, 2026-06-07_categorized.json, 2026-05-28_categorized.json, akademik_batch_output.json, 2026-06-06_categorized.json, 2026-06-26_categorized_batch2.json, 2026-06-03_categorized.json, 2026-05-23_categorized.json, kurator_batch_output.json, 2026-06-16_categorized.json, 2026-06-23_categorized.json, 2026-06-05_categorized.json, 2026-06-18_categorized_batch2.json, 2026-06-13_categorized.json, 2026-06-19_categorized.json, 2026-06-26_categorized.json, 2026-06-08_categorized.json, 2026-05-20_073415_user_classified.json, 2026-05-19_041500_user_classified.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-26_disinfonomics-the-market-of-lies-an-economic-frame.md]] — Disinfonomics: The Market of Lies — An Economic Framework for Understanding and Undermining Disinformation
+- Source files: 2026-06-26_disinfonomics.json
+- Agent: OKF Ingestion Pipeline
+

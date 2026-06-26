@@ -956,4 +956,5 @@
 - [[raw/articles/2026-06-26_teen-social-media-use-common-sense-media-parent-gu.md|Teen Social Media Use — Common Sense Media Parent Guide and Digital Wellness Resource]]
 - [[raw/articles/2026-06-26_teen-social-media-and-digital-safety-the-new-york-.md|Teen Social Media and Digital Safety — The New York Times Technology Section Analysis]]
 - [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
+- [[raw/articles/2026-06-26_disinfonomics-the-market-of-lies-an-economic-frame.md|Disinfonomics: The Market of Lies — An Economic Framework for Understanding and Undermining Disinformation]]
 
