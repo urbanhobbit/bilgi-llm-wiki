@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (51)
+description: '**Kaynak:** [https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_...](https://index.hu/belfold/2026/valasztas/2026/04/10/o...'
+resource: https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/megerkezett-az-elso-reakcio-a-kremlbol-osszeomlast-josoltak-a-valasztasok-utan/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/megerkezett-az-elso-reakcio-a-kremlbol-osszeomlast-josoltak-a-valasztasok-utan/
 ingested: 2026-05-21
 category: KURATOR

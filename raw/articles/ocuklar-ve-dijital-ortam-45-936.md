@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (45)
+description: '**Kaynak:** [https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-...](https://www.ack.net/education/reps-pass-youth-social...'
+resource: https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-tech-concerns/article5a0029f0-0ed8-4730-8222-017ca1f1c10e.html
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-tech-concerns/article5a0029f0-0ed8-4730-8222-017ca1f1c10e.html
 ingested: 2026-05-21
 category: KURATOR

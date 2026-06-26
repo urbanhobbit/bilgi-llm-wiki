@@ -1,22 +1,26 @@
 ---
-title: "EDMO Weekly Pulse — 21 May 2026"
-source: "EDMO"
-url: "https://edmo.eu/pulse/"
-date: "2026-05-21"
-type: "weekly-pulse-issue"
-issue_date: "21 May 2026"
-sections:
-  - "ON THE RISE"
-  - "ZOOM-IN"
-  - "ELECTION BEAT"
-  - "GLOBAL PULSE"
-  - "ON A DIFFERENT NOTE"
+type: weekly-pulse-issue
+title: EDMO Weekly Pulse — 21 May 2026
+description: '## Overview This edition examines how crime stories involving immigrants
+  are weaponised by far-right extremists and clickbait merchants to spread raci...'
+resource: https://edmo.eu/pulse/
 tags:
-  - disinformation
-  - migration
-  - far-right
-  - europe
-  - weekly-pulse
+- disinformation
+- migration
+- far-right
+- europe
+- weekly-pulse
+timestamp: '2026-05-21T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/pulse/
+date: '2026-05-21'
+issue_date: 21 May 2026
+sections:
+- ON THE RISE
+- ZOOM-IN
+- ELECTION BEAT
+- GLOBAL PULSE
+- ON A DIFFERENT NOTE
 ---
 
 ## Overview

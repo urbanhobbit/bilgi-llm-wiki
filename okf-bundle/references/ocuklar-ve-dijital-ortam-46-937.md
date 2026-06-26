@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (46)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (46)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids-under-14-from-social-media
-tags: [KURATOR, high, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- high
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids...](https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids-under-14-from-social-media)

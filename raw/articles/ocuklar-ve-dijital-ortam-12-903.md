@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (12)
+description: '**Kaynak:** [https://www.theguardian.com/technology/children-social-media...](https://www.theguardian.com/technology/children-social-media)
+  **Kategori...'
+resource: https://www.theguardian.com/technology/children-social-media
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/children-social-media
 ingested: 2026-05-21
 category: KURATOR

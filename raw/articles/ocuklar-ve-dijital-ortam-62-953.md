@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (62)
+description: '**Kaynak:** [https://5rightsfoundation.com/indonesia-joins-global-effort-to-protect-children-...](https://5rightsfoundation.com/indonesia-joins-global...'
+resource: https://5rightsfoundation.com/indonesia-joins-global-effort-to-protect-children-from-unregulated-tec
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.com/indonesia-joins-global-effort-to-protect-children-from-unregulated-tec
 ingested: 2026-05-21
 category: KURATOR

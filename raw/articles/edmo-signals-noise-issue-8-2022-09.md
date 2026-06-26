@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Edmo Signals Noise Issue 8 2022 09
+description: '{ "title": "EDMO updates – 8th Edition, September 2022", "source": "EDMO
+  (European Digital Media Observatory)", "url": "https://ec.europa.eu/newsroom/...'
+resource: https://ec.europa.eu/newsroom/edmo/newsletter-archives/40639
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "EDMO updates – 8th Edition, September 2022",
   "source": "EDMO (European Digital Media Observatory)",

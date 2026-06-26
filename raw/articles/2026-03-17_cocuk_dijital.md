@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu
+description: '**Tarama Tarihi:** 17 Mart 2026 **Küratör:** Akademik Literatür Ajancığı
+  **Hedef:** 1500+ kelime | Akademik + Non-Akademik kaynaklar --- ## 📌 GİRİŞ Bu...'
+resource: https://www.theguardian.com/australia-news/2026/mar/04/australia-social-media-ban-under-16s-three-month-review
+tags:
+- raw
+timestamp: '2026-03-17T00:00:00Z'
+---
+
 # 🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu
 
 **Tarama Tarihi:** 17 Mart 2026  

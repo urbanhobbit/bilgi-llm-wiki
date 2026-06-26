@@ -1,10 +1,13 @@
 ---
 type: Source
 title: Reuters
-description: "**Tür:** medya | **Açıklama:** Uluslararası haber ajansı"
+description: '**Tür:** medya | **Açıklama:** Uluslararası haber ajansı'
 resource: https://www.reuters.com
-tags: [haber, medya, ajans]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- haber
+- medya
+- ajans
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Reuters

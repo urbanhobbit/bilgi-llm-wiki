@@ -1,14 +1,22 @@
 ---
-title: "Emotional Amplification Loops"
+type: concept
+title: Emotional Amplification Loops
+description: '## Definition The mechanism by which platform algorithms designed to
+  maximise engagement systematically amplify high-arousal emotional content (anger,...'
+tags:
+- algorithms
+- emotions
+- social-media
+- platform-governance
+- ENCODE
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-07
 updated: 2026-05-07
-type: concept
-tags: [algorithms, emotions, social-media, platform-governance, ENCODE]
 sources:
-  - "ENCODE D3.4 Catalogue of Best Practices"
+- ENCODE D3.4 Catalogue of Best Practices
 related:
-  - "affective-polarisation"
-  - "cycle-of-distrust"
+- affective-polarisation
+- cycle-of-distrust
 ---
 
 # Emotional Amplification Loops

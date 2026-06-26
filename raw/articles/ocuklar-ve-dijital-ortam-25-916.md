@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (25)
+description: '**Kaynak:** [https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-...](https://5rightsfoundation.com/resource/setting-new-s...'
+resource: https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-privacy-the-childrens-code/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-privacy-the-childrens-code/
 ingested: 2026-05-21
 category: KURATOR

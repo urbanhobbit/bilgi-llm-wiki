@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Akademik Yayın (6)"
-description: "Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale, literatür taraması, teorik framework, hipo"
+title: Akademik Yayın (6)
+description: Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz
+  teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale,
+  literatür taraması, teorik framework, hipo
 resource: https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586
-tags: [AKADEMİK, low, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- AKADEMİK
+- low
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586...](https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586)

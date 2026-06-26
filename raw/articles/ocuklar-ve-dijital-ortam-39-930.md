@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (39)
+description: '**Kaynak:** [https://www.nytimes.com/section/technology/teen-social-media...](https://www.nytimes.com/section/technology/teen-social-media)
+  **Kategori...'
+resource: https://www.nytimes.com/section/technology/teen-social-media
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.nytimes.com/section/technology/teen-social-media
 ingested: 2026-05-21
 category: KURATOR

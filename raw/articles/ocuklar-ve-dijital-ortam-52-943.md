@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (52)
+description: '**Kaynak:** [https://www.politico.eu/article/ukraine-russia-blame-game-over-easter-ceasefire-...](https://www.politico.eu/article/ukraine-russia-blame...'
+resource: https://www.politico.eu/article/ukraine-russia-blame-game-over-easter-ceasefire-violations/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.politico.eu/article/ukraine-russia-blame-game-over-easter-ceasefire-violations/
 ingested: 2026-05-21
 category: KURATOR

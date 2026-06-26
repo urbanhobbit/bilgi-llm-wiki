@@ -1,10 +1,19 @@
 ---
+type: entity
 title: UNU-MERIT
+description: '## Genel Bakış BM Üniversitesi bünyesinde Maastricht merkezli araştırma
+  enstitüsü. Ekonomi, teknoloji ve kalkınma konularında araştırma yapıyor. ## Ço...'
+tags:
+- kuresel
+- iklim
+- dijital
+- egitim
+- kurum
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [kuresel, iklim, dijital, egitim, kurum]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # UNU-MERIT

@@ -1,10 +1,19 @@
 ---
+type: concept
 title: dijital-egzos
+description: '## Tanım Çocukların dijital ortamlarda bıraktığı tüm izler ve veri parçaları.
+  Tıklamalar, konum verileri, etkileşimler, arama geçmişi, uygulama kullan...'
+resource: https://www.ftc.gov
+tags:
+- dijital-haklar
+- koruma
+- kavram
+- veri
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: concept
-tags: [dijital-haklar, koruma, kavram, veri]
-sources: [raw/articles/digital-exhaust-2026.md]
+sources:
+- raw/articles/digital-exhaust-2026.md
 ---
 
 # Dijital Egzos (Digital Exhaust)

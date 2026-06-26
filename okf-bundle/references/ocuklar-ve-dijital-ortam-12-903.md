@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (12)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (12)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://www.theguardian.com/technology/children-social-media
-tags: [KURATOR, medium, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- medium
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.theguardian.com/technology/children-social-media...](https://www.theguardian.com/technology/children-social-media)

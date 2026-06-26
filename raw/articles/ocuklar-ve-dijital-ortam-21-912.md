@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (21)
+description: '**Kaynak:** [https://pubmed.ncbi.nlm.nih.gov/screen-time-children-mental-health...](https://pubmed.ncbi.nlm.nih.gov/screen-time-children-mental-health...'
+resource: https://pubmed.ncbi.nlm.nih.gov/screen-time-children-mental-health
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://pubmed.ncbi.nlm.nih.gov/screen-time-children-mental-health
 ingested: 2026-05-21
 category: KURATOR

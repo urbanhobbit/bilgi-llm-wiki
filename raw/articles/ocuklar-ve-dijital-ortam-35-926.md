@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (35)
+description: '**Kaynak:** [https://tr.trust.org/item/turkey-youth-mental-health-report-2026...](https://tr.trust.org/item/turkey-youth-mental-health-report-2026)
+  **...'
+resource: https://tr.trust.org/item/turkey-youth-mental-health-report-2026
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://tr.trust.org/item/turkey-youth-mental-health-report-2026
 ingested: 2026-05-21
 category: KURATOR

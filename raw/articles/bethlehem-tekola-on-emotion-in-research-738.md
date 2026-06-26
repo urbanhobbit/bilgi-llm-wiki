@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Bethlehem Tekola on emotion in research
+description: '**Kaynak:** [https://x.com/Bethlehemtekola/status/2056464280564727815...](https://x.com/Bethlehemtekola/status/2056464280564727815)
+  **Kategori:** KURA...'
+resource: https://x.com/Bethlehemtekola/status/2056464280564727815
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://x.com/Bethlehemtekola/status/2056464280564727815
 ingested: 2026-05-21
 category: KURATOR

@@ -1,13 +1,17 @@
 ---
-title: "EDMO Weekly Pulse - April 23, 2026"
-source: "EDMO"
-url: "https://edmo.eu/pulse/"
-date: "April 23, 2026"
-type: "weekly-pulse"
+type: weekly-pulse
+title: EDMO Weekly Pulse - April 23, 2026
+description: '**EDMO Weekly Pulse** - April 23, 2026 ## ON THE RISE AI-generated slop
+  content flooding platforms and its impact on democratic processes. Platform mo...'
+resource: https://edmo.eu/pulse/
 tags:
-  - disinformation
-  - europe
-  - edmo
+- disinformation
+- europe
+- edmo
+timestamp: '2026-04-23T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/pulse/
+date: April 23, 2026
 ---
 
 # AI Slop: How Greed Is Affecting Democracies

@@ -1,10 +1,21 @@
 ---
+type: concept
 title: Sosyal Medya Yasağı Tartışması
+description: '## Tanım Çocukların sosyal medyaya erişimini kısıtlamak için uygulanan
+  yasal düzenlemelerin etkinliğine, yöntemine ve meşruiyetine ilişkin küresel pol...'
+tags:
+- yas-limitleri
+- kuresel
+- kavram
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: concept
-tags: [yas-limitleri, kuresel, kavram]
-sources: [raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-17_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md, raw/articles/2026-04-07_cocuk_dijital.md, raw/articles/2026-04-10_detayli.md]
+sources:
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-17_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
+- raw/articles/2026-04-07_cocuk_dijital.md
+- raw/articles/2026-04-10_detayli.md
 ---
 
 # Sosyal Medya Yasağı Tartışması

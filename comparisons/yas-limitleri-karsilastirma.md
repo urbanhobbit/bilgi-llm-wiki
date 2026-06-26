@@ -1,10 +1,20 @@
 ---
+type: comparison
 title: Yaş Limitleri Karşılaştırma
+description: '## Amaç Çocukların sosyal medya ve dijital platformlara erişiminde uygulanan
+  yaş sınırı politikalarının küresel karşılaştırması. Platform bazlı minimu...'
+tags:
+- yas-limitleri
+- kuresel
+- turkiye
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-11
-type: comparison
-tags: [yas-limitleri, kuresel, turkiye]
-sources: [raw/articles/age-limit-comparison-2026.md, raw/articles/2026-03-17_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md, raw/articles/2026-04-10_detayli.md]
+sources:
+- raw/articles/age-limit-comparison-2026.md
+- raw/articles/2026-03-17_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
+- raw/articles/2026-04-10_detayli.md
 ---
 
 # Yaş Limitleri Karşılaştırma

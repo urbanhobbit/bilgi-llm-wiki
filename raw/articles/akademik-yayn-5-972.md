@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Akademik Yayın (5)
+description: '**Kaynak:** [https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.263956...](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.263956)
+  ...'
+resource: https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.263956
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.263956
 ingested: 2026-05-21
 category: AKADEMİK

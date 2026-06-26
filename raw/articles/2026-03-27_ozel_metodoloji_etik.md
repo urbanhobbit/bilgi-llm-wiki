@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: YZ Metodoloji ve Etik - Telafi Taraması
+description: '## 27 Mart 2025 Raporu **Durum:** 20 Mart''tan bu yana 7 günlük gecikme
+  telafi edildi --- ## 🤖 YZ Destekli Hakem Değerlendirmesi ### 1. Akademik Hakem ...'
+resource: https://arxiv.org/html/2602.00319
+tags:
+- raw
+timestamp: '2026-03-27T00:00:00Z'
+---
+
 # YZ Metodoloji ve Etik - Telafi Taraması
 ## 27 Mart 2025 Raporu
 

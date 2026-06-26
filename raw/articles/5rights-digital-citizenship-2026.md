@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 5Rights Digital Citizenship 2026
+description: '{ "title": "5Rights Foundation - Digital Citizenship Framework", "url":
+  "https://5rightsfoundation.org/framework", "summary": "5Rights Foundation''ın d...'
+resource: https://5rightsfoundation.org/framework
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "5Rights Foundation - Digital Citizenship Framework",
   "url": "https://5rightsfoundation.org/framework",

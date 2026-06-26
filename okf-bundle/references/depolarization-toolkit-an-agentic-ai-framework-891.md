@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Depolarization Toolkit: An Agentic AI Framework"
-description: "The German Institute of Development and Sustainability (IDOS), in collaboration with the United Nations Development Programme (UNDP) and DW Akademie, is developing the Depolarization Toolkit — an AI-p"
+title: 'Depolarization Toolkit: An Agentic AI Framework'
+description: The German Institute of Development and Sustainability (IDOS), in collaboration
+  with the United Nations Development Programme (UNDP) and DW Akademie, is developing
+  the Depolarization Toolkit — an AI-p
 resource: https://www.idos-research.de/en/research/description/details/depolarization-toolkit-an-agentic-ai-framework/
-tags: [KURATOR, high, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- high
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.idos-research.de/en/research/description/details/depolarization-tool...](https://www.idos-research.de/en/research/description/details/depolarization-toolkit-an-agentic-ai-framework/)

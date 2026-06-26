@@ -1,10 +1,20 @@
 ---
+type: entity
 title: Common Sense Media
+description: '## Genel Bakış ABD merkezli sivil toplum kuruluşu. Dijital medya ve
+  teknolojinin çocuklar ve aileler üzerindeki etkisini araştırıyor, politika savunuc...'
+resource: https://www.commonsensemedia.org/research/double-edged-sword-how-diverse-communities-of-young-people-think-about-social-media-and-mental-health
+tags:
+- dijital-haklar
+- kurum
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-11
-type: entity
-tags: [dijital-haklar, kurum, kuresel]
-sources: [raw/articles/common-sense-media-2026.md, raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-17_cocuk_dijital.md]
+sources:
+- raw/articles/common-sense-media-2026.md
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-17_cocuk_dijital.md
 ---
 
 # Common Sense Media

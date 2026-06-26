@@ -1,10 +1,13 @@
 ---
 type: Source
 title: TechCrunch
-description: "**Tür:** medya | **Açıklama:** Teknoloji haber sitesi"
+description: '**Tür:** medya | **Açıklama:** Teknoloji haber sitesi'
 resource: https://techcrunch.com
-tags: [teknoloji, haber, girişim]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- teknoloji
+- haber
+- girişim
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # TechCrunch

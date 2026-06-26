@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (41)
+description: '**Kaynak:** [https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/...](https://techcrunch.com/2026/04/08/social-media-ban-childr...'
+resource: https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/
 ingested: 2026-05-21
 category: KURATOR

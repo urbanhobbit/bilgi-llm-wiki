@@ -1,10 +1,17 @@
 ---
+type: entity
 title: Pew Research Center
+description: '## Genel Bakış Washington D.C. merkezli bağımsız kamuoyu araştırma kuruluşu.
+  ABD''li gençlerin ve ebeveynlerin sosyal medya ile teknolojiyle ilgili tut...'
+tags:
+- akademik
+- kuresel
+- kurum
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: entity
-tags: [akademik, kuresel, kurum]
-sources: [raw/articles/2026-04-07_cocuk_dijital.md]
+sources:
+- raw/articles/2026-04-07_cocuk_dijital.md
 ---
 
 # Pew Research Center

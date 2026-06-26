@@ -1,9 +1,13 @@
 ---
 type: Concept
 title: Yapay Zeka ve Çocuklar
-description: Yapay zeka teknolojilerinin çocuklar üzerindeki etkileri, AI destekli içerik önerileri, eğitimde AI kullanımı.
-tags: [yapay zeka, çocuk, teknoloji]
-timestamp: 2026-05-21T00:00:00Z
+description: Yapay zeka teknolojilerinin çocuklar üzerindeki etkileri, AI destekli
+  içerik önerileri, eğitimde AI kullanımı.
+tags:
+- yapay zeka
+- çocuk
+- teknoloji
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Yapay Zeka ve Çocuklar

@@ -1,10 +1,13 @@
 ---
 type: Source
 title: Digital Futures for Children
-description: "**Tür:** akademik | **Açıklama:** LSE/5Rights araştırma merkezi"
+description: '**Tür:** akademik | **Açıklama:** LSE/5Rights araştırma merkezi'
 resource: https://www.digital-futures-for-children.net
-tags: [çocuk, dijital, araştırma]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- çocuk
+- dijital
+- araştırma
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Digital Futures for Children

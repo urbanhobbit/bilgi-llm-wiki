@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (32)
+description: '**Kaynak:** [https://bianet.org/bianet/disiberi-guvenlik/265342-dijital-guvenligin-seyim-sure...](https://bianet.org/bianet/disiberi-guvenlik/265342-d...'
+resource: https://bianet.org/bianet/disiberi-guvenlik/265342-dijital-guvenligin-seyim-surecindeki-onemi
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://bianet.org/bianet/disiberi-guvenlik/265342-dijital-guvenligin-seyim-surecindeki-onemi
 ingested: 2026-05-21
 category: KURATOR

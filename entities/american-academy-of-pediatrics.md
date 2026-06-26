@@ -1,10 +1,17 @@
 ---
+type: entity
 title: American Academy of Pediatrics (AAP)
+description: '## Genel Bakış ABD''li çocuk sağlığı uzmanlarının mesleki örgütü. Dijital
+  medya ve ekran süresi konusunda ebeveynler, hekimler ve politika yapıcılar iç...'
+tags:
+- akademik
+- kurum
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: entity
-tags: [akademik, kurum, kuresel]
-sources: [raw/articles/2026-03-30_cocuk_dijital.md]
+sources:
+- raw/articles/2026-03-30_cocuk_dijital.md
 ---
 
 # American Academy of Pediatrics (AAP)

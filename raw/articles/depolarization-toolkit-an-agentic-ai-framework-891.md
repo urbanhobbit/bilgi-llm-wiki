@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: 'Depolarization Toolkit: An Agentic AI Framework'
+description: '**Kaynak:** [https://www.idos-research.de/en/research/description/details/depolarization-tool...](https://www.idos-research.de/en/research/description...'
+resource: https://www.idos-research.de/en/research/description/details/depolarization-toolkit-an-agentic-ai-framework/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.idos-research.de/en/research/description/details/depolarization-toolkit-an-agentic-ai-framework/
 ingested: 2026-05-21
 category: KURATOR

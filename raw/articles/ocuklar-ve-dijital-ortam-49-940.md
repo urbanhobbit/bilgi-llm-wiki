@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (49)
+description: '**Kaynak:** [https://www.reuters.com/business/media-telecom/greece-expected-announce-social-m...](https://www.reuters.com/business/media-telecom/greec...'
+resource: https://www.reuters.com/business/media-telecom/greece-expected-announce-social-media-ban-children-under-15-2026-
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.reuters.com/business/media-telecom/greece-expected-announce-social-media-ban-children-under-15-2026-
 ingested: 2026-05-21
 category: KURATOR

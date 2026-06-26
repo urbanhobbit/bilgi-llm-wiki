@@ -1,6 +1,16 @@
 ---
-tags: [ekran-suresi, erken-cocukluk, sosyoekonomik-esitsizlik, yapay-zeka]
-sources: [2026-04-11_cocuk_dijital.md]
+type: source
+title: 'Kaynak: 2026-04-11 Çocuk Dijital Bülteni'
+description: '**Kaynak:** raw/articles/2026-04-11_cocuk_dijital.md **Tarih ingested:**
+  2026-04-19 **Tür:** Bülten (tekil kaynak) ## Özet Common Sense Media''nın Şuba...'
+tags:
+- ekran-suresi
+- erken-cocukluk
+- sosyoekonomik-esitsizlik
+- yapay-zeka
+timestamp: '2026-04-11T00:00:00Z'
+sources:
+- 2026-04-11_cocuk_dijital.md
 created: 2026-04-19
 updated: 2026-04-19
 ---

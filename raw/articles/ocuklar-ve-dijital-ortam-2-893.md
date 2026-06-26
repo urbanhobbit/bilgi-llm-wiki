@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (2)
+description: '**Kaynak:** [https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulatio...](https://www.lse.ac.uk/digital-futures-for-children/e...'
+resource: https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulation/home.aspx
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulation/home.aspx
 ingested: 2026-05-21
 category: KURATOR

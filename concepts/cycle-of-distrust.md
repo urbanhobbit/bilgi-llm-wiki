@@ -1,14 +1,22 @@
 ---
-title: "Cycle of Distrust"
+type: concept
+title: Cycle of Distrust
+description: '## Definition (ENCODE D3.4) A feedback loop in which emotionally manipulative
+  narratives erode institutional trust, which in turn increases citizens'' ...'
+tags:
+- trust
+- democracy
+- disinformation
+- emotions
+- ENCODE
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-07
 updated: 2026-05-07
-type: concept
-tags: [trust, democracy, disinformation, emotions, ENCODE]
 sources:
-  - "ENCODE D3.4 Catalogue of Best Practices"
+- ENCODE D3.4 Catalogue of Best Practices
 related:
-  - "affective-polarisation"
-  - "emotional-amplification-loops"
+- affective-polarisation
+- emotional-amplification-loops
 ---
 
 # Cycle of Distrust

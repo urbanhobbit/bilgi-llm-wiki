@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 'KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni'
+description: '**Date:** 2026-06-13 **Week:** 24/2026 **Prepared by:** KURATOR Araştırma
+  Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...'
+resource: https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-america-2026
+tags:
+- raw
+timestamp: '2026-06-13T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni
 
 **Date:** 2026-06-13

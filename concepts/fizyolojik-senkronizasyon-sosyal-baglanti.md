@@ -1,14 +1,23 @@
 ---
-title: "Fizyolojik Senkronizasyon ve Sosyal Bağlantı"
+type: concept
+title: Fizyolojik Senkronizasyon ve Sosyal Bağlantı
+description: '## Tanım Kişilerarası fizyolojik senkronizasyon (IPS), bireyler arasında
+  kalp atışı, nefes alışverişi veya diğer fizyolojik ritimlerin eşzamanlı hale ...'
+tags:
+- kavram
+- physiological-synchrony
+- social-engagement
+- heart-rate
+- face-to-face
+- digital-vs-real
+timestamp: '2026-06-26T14:04:38Z'
 created: 2026-06-26
 updated: 2026-06-26
-type: concept
-tags: [kavram, physiological-synchrony, social-engagement, heart-rate, face-to-face, digital-vs-real]
 sources:
-  - "He et al. (2025) — PNAS Nexus"
+- He et al. (2025) — PNAS Nexus
 related:
-  - "sosyal-medya-genclik"
-  - "cocuk-dijital-katilim"
+- sosyal-medya-genclik
+- cocuk-dijital-katilim
 ---
 
 # Fizyolojik Senkronizasyon ve Sosyal Bağlantı

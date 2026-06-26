@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (69)
+description: '**Kaynak:** [https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-amer...](https://www.commonsensemedia.org/research/the-state-...'
+resource: https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-amer
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-amer
 ingested: 2026-05-21
 category: KURATOR

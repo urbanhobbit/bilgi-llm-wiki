@@ -1,9 +1,13 @@
 ---
+type: entity
 title: IDOS
+description: '**Tür:** akademik | **Açıklama:** Alman Kalkınma ve Sürdürülebilirlik
+  Enstitüsü ## Wiki''deki Kaynaklar (1) - [[raw/articles/depolarization-toolkit-an-...'
+tags:
+- akademik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
-type: entity
-tags: [akademik]
 sources: []
 ---
 

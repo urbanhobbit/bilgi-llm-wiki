@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (46)
+description: '**Kaynak:** [https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids...](https://www.wgbh.org/news/politics/2026-04-08/mass-h...'
+resource: https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids-under-14-from-social-media
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.wgbh.org/news/politics/2026-04-08/mass-house-passes-bill-to-ban-kids-under-14-from-social-media
 ingested: 2026-05-21
 category: KURATOR

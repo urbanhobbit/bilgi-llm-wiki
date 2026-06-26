@@ -1,9 +1,13 @@
 ---
 type: Concept
 title: Çocuklar için Dijital Kısıtlamalar
-description: Çocukların dijital platformlara erişimini sınırlayan yaş limitleri, içerik filtreleri ve ebeveyn kontrol mekanizmaları.
-tags: [kısıtlama, ebeveyn, dijital]
-timestamp: 2026-05-21T00:00:00Z
+description: Çocukların dijital platformlara erişimini sınırlayan yaş limitleri, içerik
+  filtreleri ve ebeveyn kontrol mekanizmaları.
+tags:
+- kısıtlama
+- ebeveyn
+- dijital
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Çocuklar için Dijital Kısıtlamalar

@@ -1,6 +1,17 @@
 ---
-tags: [yapay-zeka, siber-zorbalik, platform-duzenlemeleri, cocuk-guvenlik, iklim]
-sources: [2026-04-09_cocuk_dijital.md]
+type: source
+title: 'Kaynak: 2026-04-09 Çocuk Dijital Bülteni'
+description: '**Kaynak:** raw/articles/2026-04-09_cocuk_dijital.md **Tarih ingested:**
+  2026-04-19 **Tür:** Bülten (çoklu kaynak sentezi) ## Özet 9 Nisan 2026 tarihl...'
+tags:
+- yapay-zeka
+- siber-zorbalik
+- platform-duzenlemeleri
+- cocuk-guvenlik
+- iklim
+timestamp: '2026-04-09T00:00:00Z'
+sources:
+- 2026-04-09_cocuk_dijital.md
 created: 2026-04-19
 updated: 2026-04-19
 ---

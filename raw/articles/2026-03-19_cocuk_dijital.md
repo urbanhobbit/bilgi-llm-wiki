@@ -1,3 +1,13 @@
+---
+type: raw_article
+title: 2026 03 19 Cocuk Dijital
+description: '## Makale 6: The Impact of Youth Digital Citizenship Education: Insights
+  from a Cluster Randomized Controlled Trial Outcome Evaluation of the Be Inter...'
+resource: https://link.springer.com/article/10.1007/s40688-023-00465-5
+tags:
+- raw
+timestamp: '2026-03-19T00:00:00Z'
+---
 
 ## Makale 6: The Impact of Youth Digital Citizenship Education: Insights from a Cluster Randomized Controlled Trial Outcome Evaluation of the Be Internet Awesome (BIA) Curriculum
 

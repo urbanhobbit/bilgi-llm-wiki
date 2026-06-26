@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 2026-04-19 Çocuklar ve Dijital Dünya - Özel Tarama
+description: '## 1. Dijital Kısıtlamalar ve Yaş Sınırları ### Akademik Kaynaklar ####
+  Harvard Law Review - Content Neutrality for Kids: Intermediate Scrutiny for So...'
+resource: https://harvardlawreview.org/print/vol-139/content-neutrality-for-kids-intermediate-scrutiny-for-social-media-age-verification-laws/
+tags:
+- raw
+timestamp: '2026-04-19T00:00:00Z'
+---
+
 # 2026-04-19 Çocuklar ve Dijital Dünya - Özel Tarama
 
 ## 1. Dijital Kısıtlamalar ve Yaş Sınırları

@@ -1,14 +1,23 @@
 ---
-title: "Affective Polarisation"
+type: concept
+title: Affective Polarisation
+description: '## Definition (ENCODE Framework) Affective polarisation refers to the
+  emotional alignment of citizens along in-group/out-group lines, where political
+  ...'
+tags:
+- polarisation
+- emotions
+- democracy
+- social-media
+- ENCODE
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-07
 updated: 2026-05-07
-type: concept
-tags: [polarisation, emotions, democracy, social-media, ENCODE]
 sources:
-  - "ENCODE D3.4 Catalogue of Best Practices"
+- ENCODE D3.4 Catalogue of Best Practices
 related:
-  - "emotional-amplification-loops"
-  - "cycle-of-distrust"
+- emotional-amplification-loops
+- cycle-of-distrust
 ---
 
 # Affective Polarisation

@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: AKADEMİK ÖZEL TARAMA
+description: '## Haftalık Derleme **Tarih:** 20 Haziran 2026 | **Hafta:** 25/2026
+  **Kapsam:** 14-19 Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 keli...'
+resource: https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulation/home.aspx
+tags:
+- raw
+timestamp: '2026-06-20T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 20 Haziran 2026 | **Hafta:** 25/2026

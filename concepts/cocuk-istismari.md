@@ -1,10 +1,19 @@
 ---
+type: concept
 title: cocuk-istismari
+description: '## Tanım Çocukların dijital ortamlarda maruz kaldığı tüm istismar türleri.
+  Fiziksel, psikolojik, cinsel ve ekonomik istismar biçimleri. ## İstismar Tü...'
+resource: https://www.unicef.org
+tags:
+- dijital-haklar
+- koruma
+- kavram
+- turkiye
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: concept
-tags: [dijital-haklar, koruma, kavram, turkiye]
-sources: [raw/articles/child-abuse-digital-2026.md]
+sources:
+- raw/articles/child-abuse-digital-2026.md
 ---
 
 # Dijital Çocuk İstismarı

@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (64)
+description: '**Kaynak:** [https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abu...](https://www.theguardian.com/technology/2026/mar/24/a...'
+resource: https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abuse-videos-images-online-surged-2025-inte
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abuse-videos-images-online-surged-2025-inte
 ingested: 2026-05-21
 category: KURATOR

@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Platform Transparency 2026
+description: '{ "title": "Platform Transparency - Algorithm Accountability", "url":
+  "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"...'
+resource: https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "Platform Transparency - Algorithm Accountability",
   "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",

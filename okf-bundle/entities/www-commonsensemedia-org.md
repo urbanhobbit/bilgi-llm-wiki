@@ -1,10 +1,13 @@
 ---
 type: Source
 title: Common Sense Media
-description: "**Tür:** STK | **Açıklama:** ABD dijital içerik araştırma kuruluşu"
+description: '**Tür:** STK | **Açıklama:** ABD dijital içerik araştırma kuruluşu'
 resource: https://www.commonsensemedia.org
-tags: [medya, ebeveyn, değerlendirme]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- medya
+- ebeveyn
+- değerlendirme
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Common Sense Media

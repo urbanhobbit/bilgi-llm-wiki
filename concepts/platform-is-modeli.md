@@ -1,10 +1,19 @@
 ---
+type: concept
 title: Platform İş Modeli Reformu
+description: '## Tanım Büyük sosyal medya platformlarının kullanıcı verisi ve dikkat
+  ekonomisine dayalı mevcut iş modellerini, daha az bağımlılık yapıcı ve kullanıc...'
+tags:
+- platform-duzenlemeleri
+- algoritma
+- ekonomi
+- kavram
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: concept
-tags: [platform-duzenlemeleri, algoritma, ekonomi, kavram]
-sources: [2026-04-17_cocuk_dijital.md, 2026-04-19_cocuk_dijital.md]
+sources:
+- 2026-04-17_cocuk_dijital.md
+- 2026-04-19_cocuk_dijital.md
 ---
 
 # Platform İş Modeli Reformu

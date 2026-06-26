@@ -1,4 +1,13 @@
-
+---
+type: raw_article
+title: 2026 04 09 Cocuk Dijital
+description: '## Konu: Çocukların dijital ortam deneyimleri --- ### Başlık: Children''s
+  Online Wellbeing in 2026: Persistent Harms and AI-Amplified Risks * **Yazar/K...'
+resource: https://www.weforum.org/stories/2026/03/ai-children-digital-online-safety/
+tags:
+- raw
+timestamp: '2026-04-09T00:00:00Z'
+---
 
 ## Konu: Çocukların dijital ortam deneyimleri
 

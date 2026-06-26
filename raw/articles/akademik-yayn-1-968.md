@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Akademik Yayın (1)
+description: '**Kaynak:** [https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward...](https://5rightsfoundation.com/ieee-analysis-suggests...'
+resource: https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward-age-appropriate-design/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward-age-appropriate-design/
 ingested: 2026-05-21
 category: AKADEMİK

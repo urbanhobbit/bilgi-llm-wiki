@@ -1,11 +1,24 @@
 ---
-title: "ENCODE D3.4 - Catalogue of Best Practices"
-url: "https://encodemotions.eu/d3-4-catalogue-of-best-practices/"
-date: 2026-05-07
 type: raw
-kategori: "research-deliverable"
-tags: [ENCODE, best-practices, disinformation, polarisation, emotions, democracy, EU]
-related: [eu-democracy-shield, dsa]
+title: ENCODE D3.4 - Catalogue of Best Practices
+description: '**Kaynak:** Horizon Europe Projesi ENCODE (Grant Agreement no. 101132698)
+  **Yayın Tarihi:** 3 Nisan 2026 **Yazarlar:** Sorhna Perrot, Erika Staël von ...'
+resource: https://encodemotions.eu/d3-4-catalogue-of-best-practices/
+tags:
+- ENCODE
+- best-practices
+- disinformation
+- polarisation
+- emotions
+- democracy
+- EU
+timestamp: '2026-05-07T00:00:00Z'
+url: https://encodemotions.eu/d3-4-catalogue-of-best-practices/
+date: 2026-05-07
+kategori: research-deliverable
+related:
+- eu-democracy-shield
+- dsa
 ---
 
 # ENCODE D3.4: Catalogue of Best Practices

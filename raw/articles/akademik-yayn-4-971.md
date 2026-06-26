@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Akademik Yayın (4)
+description: '**Kaynak:** [https://www.consilium.europa.eu/en/documents-publications/council-research-paper...](https://www.consilium.europa.eu/en/documents-publica...'
+resource: https://www.consilium.europa.eu/en/documents-publications/council-research-papers/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.consilium.europa.eu/en/documents-publications/council-research-papers/
 ingested: 2026-05-21
 category: AKADEMİK

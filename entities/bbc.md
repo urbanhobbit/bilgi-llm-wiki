@@ -1,10 +1,17 @@
 ---
+type: entity
 title: BBC
+description: '## Genel Bakış İngiltere kamu yayıncısı. Çocuk içeriği üretiminde lider,
+  BBC Kids ve CBBC kanalları. ## Çocuk Dijital Çalışmaları ### BBC Children and...'
+tags:
+- medya
+- ingiltere
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: entity
-tags: [medya, ingiltere, kuresel]
-sources: [raw/articles/bbc-children-online-2026.md]
+sources:
+- raw/articles/bbc-children-online-2026.md
 ---
 
 # BBC - British Broadcasting Corporation

@@ -1,3 +1,13 @@
+---
+type: raw_article
+title: 'KURATOR: Çocuklar ve Dijital Dünya - Haftalık Derleme'
+description: '## 2026-05-09 --- ### Bu Haftanın Öne Çıkanları #### 🔴 Yüksek Öncelikli
+  Gelişmeler **1. ENCODE Projesi: Duygusal Dezenformasyonla Mücadele Kataloğu** ...'
+tags:
+- raw
+timestamp: '2026-05-09T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Derleme
 ## 2026-05-09
 

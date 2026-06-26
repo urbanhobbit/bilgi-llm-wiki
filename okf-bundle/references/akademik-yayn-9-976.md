@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Akademik Yayın (9)"
-description: "Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale, literatür taraması, teorik framework, hipo"
+title: Akademik Yayın (9)
+description: Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz
+  teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale,
+  literatür taraması, teorik framework, hipo
 resource: https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2026.2639567
-tags: [AKADEMİK, low, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- AKADEMİK
+- low
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2026.2639567...](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2026.2639567)

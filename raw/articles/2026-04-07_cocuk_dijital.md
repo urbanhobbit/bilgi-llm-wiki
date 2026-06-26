@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Çocuk & Dijital Bülten — 7 Nisan 2026
+description: '> **Kategori:** Çocuklara Dijital Kısıtlamalar / Digital Restrictions
+  Children > **Tarih:** 7 Nisan 2026 > **Küratör:** Küratör 🗂️ --- ## 1. 🇦🇺 Avustr...'
+resource: https://www.bbc.com/news/articles/cwyp9d3ddqyo
+tags:
+- raw
+timestamp: '2026-04-07T00:00:00Z'
+---
+
 # Çocuk & Dijital Bülten — 7 Nisan 2026
 
 > **Kategori:** Çocuklara Dijital Kısıtlamalar / Digital Restrictions Children  

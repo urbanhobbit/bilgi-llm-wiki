@@ -1,23 +1,27 @@
 ---
-title: "EDMO Weekly Pulse — 18 June 2026"
-source: "EDMO"
-url: "https://edmo.eu/publications/dublin-southport-belfast-who-is-fanning-the-flames/"
-date: "2026-06-18"
-type: "weekly-pulse-issue"
-issue_date: "18 June 2026"
-sections:
-  - "ON THE RISE"
-  - "ZOOM-IN"
-  - "ELECTION BEAT"
-  - "GLOBAL PULSE"
-  - "ON A DIFFERENT NOTE"
+type: weekly-pulse-issue
+title: EDMO Weekly Pulse — 18 June 2026
+description: '## Overview The 18 June 2026 edition examines the recurring pattern
+  of far-right street violence across the UK and Ireland — from Dublin (2023) to Sou...'
+resource: https://edmo.eu/publications/dublin-southport-belfast-who-is-fanning-the-flames/
 tags:
-  - disinformation
-  - europe
-  - weekly-pulse
-  - far-right
-  - uk-ireland
-  - election-disinformation
+- disinformation
+- europe
+- weekly-pulse
+- far-right
+- uk-ireland
+- election-disinformation
+timestamp: '2026-06-18T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/publications/dublin-southport-belfast-who-is-fanning-the-flames/
+date: '2026-06-18'
+issue_date: 18 June 2026
+sections:
+- ON THE RISE
+- ZOOM-IN
+- ELECTION BEAT
+- GLOBAL PULSE
+- ON A DIFFERENT NOTE
 ---
 
 ## Overview

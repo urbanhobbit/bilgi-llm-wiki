@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Akademik Yayın (13)"
-description: "Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale, literatür taraması, teorik framework, hipo"
+title: Akademik Yayın (13)
+description: Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz
+  teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale,
+  literatür taraması, teorik framework, hipo
 resource: https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward-age-appropriate-des
-tags: [AKADEMİK, low, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- AKADEMİK
+- low
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward...](https://5rightsfoundation.com/ieee-analysis-suggests-growing-global-trend-toward-age-appropriate-des)

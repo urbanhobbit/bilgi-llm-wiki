@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (67)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (67)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://www.milliyet.com.tr/sans-oyunlari/milli-piyango-sonuclari/
-tags: [KURATOR, medium, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- medium
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.milliyet.com.tr/sans-oyunlari/milli-piyango-sonuclari/...](https://www.milliyet.com.tr/sans-oyunlari/milli-piyango-sonuclari/)

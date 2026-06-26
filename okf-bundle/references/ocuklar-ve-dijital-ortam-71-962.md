@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (71)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (71)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://techcrunch.com/2026/04/08/social-media-ban-children-
-tags: [KURATOR, high, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- high
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://techcrunch.com/2026/04/08/social-media-ban-children-...](https://techcrunch.com/2026/04/08/social-media-ban-children-)

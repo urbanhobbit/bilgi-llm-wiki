@@ -1,10 +1,20 @@
 ---
+type: concept
 title: Yapay Zeka ve Çocuk Güvenliği
+description: '## Tanım Yapay zeka teknolojilerinin çocukların dijital güvenliğini
+  etkilediği bağlamlar. YZ hem mevcut çevrimiçi zararları güçlendiriyor hem de yeni
+  ...'
+tags:
+- yapay-zeka
+- cocuk-guvenlik
+- deepfake
+- kavram
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: concept
-tags: [yapay-zeka, cocuk-guvenlik, deepfake, kavram, kuresel]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Yapay Zeka ve Çocuk Güvenliği

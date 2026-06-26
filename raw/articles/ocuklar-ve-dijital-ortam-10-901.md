@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (10)
+description: '**Kaynak:** [https://5rights.org/reports/childrens-digital-rights-ai-2026...](https://5rights.org/reports/childrens-digital-rights-ai-2026)
+  **Kategori...'
+resource: https://5rights.org/reports/childrens-digital-rights-ai-2026
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rights.org/reports/childrens-digital-rights-ai-2026
 ingested: 2026-05-21
 category: KURATOR

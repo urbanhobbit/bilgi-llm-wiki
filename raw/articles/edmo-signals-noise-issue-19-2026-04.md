@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Edmo Signals Noise Issue 19 2026 04
+description: '{ "title": "Signals & Noise – Issue 19 (April 2026)", "source": "EDMO
+  (European Digital Media Observatory)", "url": "https://edmo.eu/resources/signals...'
+resource: https://edmo.eu/resources/signals-noise-monthly-newsletter/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "Signals & Noise – Issue 19 (April 2026)",
   "source": "EDMO (European Digital Media Observatory)",

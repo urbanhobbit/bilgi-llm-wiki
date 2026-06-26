@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (9)
+description: '**Kaynak:** [https://www.bbc.com/news/education-childrens-online-safety-2026...](https://www.bbc.com/news/education-childrens-online-safety-2026)
+  **Ka...'
+resource: https://www.bbc.com/news/education-childrens-online-safety-2026
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.bbc.com/news/education-childrens-online-safety-2026
 ingested: 2026-05-21
 category: KURATOR

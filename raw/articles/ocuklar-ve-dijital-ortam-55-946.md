@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (55)
+description: '**Kaynak:** [https://apnews.com/article/greece-social-media-ban-children-15-years-old-digital...](https://apnews.com/article/greece-social-media-ban-c...'
+resource: https://apnews.com/article/greece-social-media-ban-children-15-years-old-digital-law-01234567890
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://apnews.com/article/greece-social-media-ban-children-15-years-old-digital-law-01234567890
 ingested: 2026-05-21
 category: KURATOR

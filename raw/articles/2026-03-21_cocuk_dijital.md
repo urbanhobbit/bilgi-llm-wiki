@@ -1,4 +1,13 @@
-
+---
+type: raw_article
+title: 2026 03 21 Cocuk Dijital
+description: '--- Başlık: New advice to help parents discuss harmful online content
+  - BBC News Yazar/Kurum: BBC News (David Scales, Astrea Academy müdürü) Tarih: 10...'
+resource: https://www.bbc.co.uk/news/articles/crm8wg1wg4go
+tags:
+- raw
+timestamp: '2026-03-21T00:00:00Z'
+---
 
 ---
 Başlık: New advice to help parents discuss harmful online content - BBC News

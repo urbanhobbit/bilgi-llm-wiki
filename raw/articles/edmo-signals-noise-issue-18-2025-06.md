@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Edmo Signals Noise Issue 18 2025 06
+description: '{ "title": "EDMO Updates – The Future of the Code, EDMO at the UN IGF,
+  Lessons from Elections and More", "source": "EDMO (European Digital Media Obser...'
+resource: https://ec.europa.eu/newsroom/edmo/newsletter-archives/65061
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "EDMO Updates – The Future of the Code, EDMO at the UN IGF, Lessons from Elections and More",
   "source": "EDMO (European Digital Media Observatory)",

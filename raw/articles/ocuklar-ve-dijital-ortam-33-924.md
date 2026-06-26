@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (33)
+description: '**Kaynak:** [https://www.cumhuriyet.com.tr/teknoloji/dijital-haklar-ve-secim-guvenligi-214356...](https://www.cumhuriyet.com.tr/teknoloji/dijital-hakl...'
+resource: https://www.cumhuriyet.com.tr/teknoloji/dijital-haklar-ve-secim-guvenligi-2143567
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.cumhuriyet.com.tr/teknoloji/dijital-haklar-ve-secim-guvenligi-2143567
 ingested: 2026-05-21
 category: KURATOR

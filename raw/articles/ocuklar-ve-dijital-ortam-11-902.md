@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (11)
+description: '**Kaynak:** [https://www.commonsensemedia.org/parent-guides/teen-social-media-use...](https://www.commonsensemedia.org/parent-guides/teen-social-media...'
+resource: https://www.commonsensemedia.org/parent-guides/teen-social-media-use
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.commonsensemedia.org/parent-guides/teen-social-media-use
 ingested: 2026-05-21
 category: KURATOR

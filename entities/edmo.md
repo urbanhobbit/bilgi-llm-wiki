@@ -1,21 +1,24 @@
 ---
-title: "European Digital Media Observatory (EDMO)"
+type: entity
+title: European Digital Media Observatory (EDMO)
+description: AB'nin en büyük disiplinlerarası dezenformasyonla mücadele ağı. **European
+  University Institute** (EUI) Florence School of Transnational Governance bü...
+tags:
+- institution
+- eu
+- disinformation
+- fact-checking
+- media-literacy
+- eui
+timestamp: '2026-06-20T14:17:43Z'
 created: 2026-05-14
 updated: 2026-05-14
-type: entity
-tags:
-  - institution
-  - eu
-  - disinformation
-  - fact-checking
-  - media-literacy
-  - eui
 sources:
-  - raw/articles/edmo-signals-noise-issue-19-2026-04
-  - raw/articles/2026-05-14-edmo-weekly-pulse.md
-  - raw/articles/2026-06-04-edmo-weekly-pulse.md
-  - raw/articles/2026-06-18-edmo-weekly-pulse.md
-  - raw/articles/2026-06-11-edmo-weekly-pulse.md
+- raw/articles/edmo-signals-noise-issue-19-2026-04
+- raw/articles/2026-05-14-edmo-weekly-pulse.md
+- raw/articles/2026-06-04-edmo-weekly-pulse.md
+- raw/articles/2026-06-18-edmo-weekly-pulse.md
+- raw/articles/2026-06-11-edmo-weekly-pulse.md
 ---
 
 # European Digital Media Observatory (EDMO)

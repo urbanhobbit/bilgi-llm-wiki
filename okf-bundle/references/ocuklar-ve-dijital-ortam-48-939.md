@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (48)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (48)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://www.reuters.com/business/media-telecom/greece-expected-announce-social-media-ban-children-under-15-2026-04-11/
-tags: [KURATOR, medium, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- medium
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.reuters.com/business/media-telecom/greece-expected-announce-social-m...](https://www.reuters.com/business/media-telecom/greece-expected-announce-social-media-ban-children-under-15-2026-04-11/)

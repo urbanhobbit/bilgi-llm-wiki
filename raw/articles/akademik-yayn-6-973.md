@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Akademik Yayın (6)
+description: '**Kaynak:** [https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586...](https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586)
+  ...'
+resource: https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586
 ingested: 2026-05-21
 category: AKADEMİK

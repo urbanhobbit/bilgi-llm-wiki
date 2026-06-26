@@ -1,10 +1,18 @@
 ---
+type: entity
 title: Dr. Najat Maalla M'jid
+description: '## Genel Bakış BM Genel Sekreteri''nin Çocuklara Karşı Şiddet Özel Temsilcisi.
+  Cenevre''deki BM İnsan Hakları Konseyi''nde çocukların çevrimiçi güvenliği...'
+tags:
+- bm
+- cocuk-hakları
+- siber-zorbalik
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [bm, cocuk-hakları, siber-zorbalik, kuresel]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Dr. Najat Maalla M'jid

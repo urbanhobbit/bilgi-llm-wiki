@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (14)
+description: '**Kaynak:** [https://5rightsfoundation.com/resource/building-a-digital-environment-designed-w...](https://5rightsfoundation.com/resource/building-a-di...'
+resource: https://5rightsfoundation.com/resource/building-a-digital-environment-designed-with-children-in-mind-an-international-best-practices-blueprint
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.com/resource/building-a-digital-environment-designed-with-children-in-mind-an-international-best-practices-blueprint
 ingested: 2026-05-21
 category: KURATOR

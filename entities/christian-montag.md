@@ -1,10 +1,19 @@
 ---
+type: entity
 title: Christian Montag
+description: '## Genel Bakış Ulm Üniversitesi''nde psikolog ve nörobilimci. Sosyal
+  medyanın psikolojik etkileri ve platform bağımlılığı konularında araştırmalar yapı...'
+tags:
+- platform-duzenlemeleri
+- psikoloji
+- algoritma
+- akademisyen
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [platform-duzenlemeleri, psikoloji, algoritma, akademisyen]
-sources: [2026-04-17_cocuk_dijital.md, 2026-04-19_cocuk_dijital.md]
+sources:
+- 2026-04-17_cocuk_dijital.md
+- 2026-04-19_cocuk_dijital.md
 ---
 
 # Christian Montag

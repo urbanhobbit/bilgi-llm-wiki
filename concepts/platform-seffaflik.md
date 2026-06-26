@@ -1,10 +1,20 @@
 ---
+type: concept
 title: platform-seffaflik
+description: '## Tanım Platformların algoritmalarının, veri toplama pratiklerinin
+  ve içerik moderasyon kararlarının şeffaflığı. Çocuklar için özel önem taşıyor. ##
+  ...'
+resource: https://digital-strategy.ec.europa.eu
+tags:
+- dijital-haklar
+- düzenleme
+- kavram
+- algoritmalar
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: concept
-tags: [dijital-haklar, düzenleme, kavram, algoritmalar]
-sources: [raw/articles/platform-transparency-2026.md]
+sources:
+- raw/articles/platform-transparency-2026.md
 ---
 
 # Platform Şeffaflığı (Algorithmic Transparency)

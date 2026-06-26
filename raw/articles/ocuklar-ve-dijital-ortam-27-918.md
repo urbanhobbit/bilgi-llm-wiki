@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (27)
+description: '**Kaynak:** [https://5rightsfoundation.com/greek-prime-minister-urges-eu-regulatory-action-ag...](https://5rightsfoundation.com/greek-prime-minister-u...'
+resource: https://5rightsfoundation.com/greek-prime-minister-urges-eu-regulatory-action-againsalgorithmic-exploitation-of-children/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.com/greek-prime-minister-urges-eu-regulatory-action-againsalgorithmic-exploitation-of-children/
 ingested: 2026-05-21
 category: KURATOR

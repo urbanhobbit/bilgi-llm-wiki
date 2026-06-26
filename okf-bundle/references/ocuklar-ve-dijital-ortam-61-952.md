@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (61)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (61)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-privacy-the-children
-tags: [KURATOR, medium, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- medium
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-...](https://5rightsfoundation.com/resource/setting-new-standards-for-childrens-data-privacy-the-children)

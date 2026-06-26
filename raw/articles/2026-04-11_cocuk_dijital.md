@@ -1,3 +1,13 @@
+---
+type: raw_article
+title: 2026 04 11 Cocuk Dijital
+description: '--- ## Konu: 3) Çocukların dijital ortam deneyimleri ### Kaynak Türü:
+  AKADEMIK OLMAYAN - **Baslik:** Digital Childhood Starts at Age Two: Landmark Stu...'
+resource: https://www.commonsensemedia.org/press-releases/digital-childhood-starts-at-age-two-landmark-study-shows-evolution-of-young-childrens-media-use
+tags:
+- raw
+timestamp: '2026-04-11T00:00:00Z'
+---
 
 ---
 

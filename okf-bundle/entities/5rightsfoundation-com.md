@@ -1,10 +1,13 @@
 ---
 type: Source
 title: 5Rights Foundation
-description: "**Tür:** STK | **Açıklama:** Çocuk dijital hakları organizasyonu (UK)"
+description: '**Tür:** STK | **Açıklama:** Çocuk dijital hakları organizasyonu (UK)'
 resource: https://5rightsfoundation.com
-tags: [çocuk hakları, sivil toplum, dijital]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- çocuk hakları
+- sivil toplum
+- dijital
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # 5Rights Foundation

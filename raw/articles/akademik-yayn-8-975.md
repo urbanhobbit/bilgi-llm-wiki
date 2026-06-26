@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Akademik Yayın (8)
+description: '**Kaynak:** [https://link.springer.com/article/10.1007/s12525-025-00796-6...](https://link.springer.com/article/10.1007/s12525-025-00796-6)
+  **Kategori...'
+resource: https://link.springer.com/article/10.1007/s12525-025-00796-6
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://link.springer.com/article/10.1007/s12525-025-00796-6
 ingested: 2026-05-21
 category: AKADEMİK

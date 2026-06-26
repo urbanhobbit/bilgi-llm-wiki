@@ -1,10 +1,18 @@
 ---
+type: entity
 title: Harvard Law Review
+description: '## Genel Bakış ABD''nin önde gelen hukuk dergilerinden biri. Harvard
+  Hukuk Fakültesi öğrencileri tarafından yönetilir. ## Çocuk Dijital Hakları Alanınd...'
+tags:
+- hukuk
+- yas-limitleri
+- abd
+- akademik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [hukuk, yas-limitleri, abd, akademik]
-sources: [2026-04-19_cocuk_dijital.md]
+sources:
+- 2026-04-19_cocuk_dijital.md
 ---
 
 # Harvard Law Review

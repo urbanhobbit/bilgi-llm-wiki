@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (30)
+description: '**Kaynak:** [https://www.bbc.com/future/article/20260317-how-kids-are-actually-using-ai...](https://www.bbc.com/future/article/20260317-how-kids-are-a...'
+resource: https://www.bbc.com/future/article/20260317-how-kids-are-actually-using-ai
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.bbc.com/future/article/20260317-how-kids-are-actually-using-ai
 ingested: 2026-05-21
 category: KURATOR

@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Bethlehem Tekola on emotion in research"
-description: "Bethlehem Tekola, qualitative research ethics scholar, shares a powerful observation: 'emotion in research is not merely overlooked but actively suppressed by academic norms that privilege detachment "
+title: Bethlehem Tekola on emotion in research
+description: 'Bethlehem Tekola, qualitative research ethics scholar, shares a powerful
+  observation: ''emotion in research is not merely overlooked but actively suppressed
+  by academic norms that privilege detachment '
 resource: https://x.com/Bethlehemtekola/status/2056464280564727815
-tags: [KURATOR, medium, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- medium
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://x.com/Bethlehemtekola/status/2056464280564727815...](https://x.com/Bethlehemtekola/status/2056464280564727815)

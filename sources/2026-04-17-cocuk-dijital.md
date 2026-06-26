@@ -1,6 +1,16 @@
 ---
-tags: [yas-limitleri, platform-duzenlemeleri, algoritma, ahlaki-panik]
-sources: [2026-04-17_cocuk_dijital.md]
+type: source
+title: 'Kaynak: 2026-04-17 Çocuk Dijital Bülteni'
+description: '**Kaynak:** raw/articles/2026-04-17_cocuk_dijital.md **Tarih ingested:**
+  2026-04-19 **Tür:** Bülten (tekil kaynak) ## Özet DW (Deutsche Welle) tarafın...'
+tags:
+- yas-limitleri
+- platform-duzenlemeleri
+- algoritma
+- ahlaki-panik
+timestamp: '2026-04-17T00:00:00Z'
+sources:
+- 2026-04-17_cocuk_dijital.md
 created: 2026-04-19
 updated: 2026-04-19
 ---

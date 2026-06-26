@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (37)
+description: '**Kaynak:** [https://www.ftc.gov/enforcement/rules/practice-regulations/childrens-online-priv...](https://www.ftc.gov/enforcement/rules/practice-regul...'
+resource: https://www.ftc.gov/enforcement/rules/practice-regulations/childrens-online-privacy-protection-rule
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.ftc.gov/enforcement/rules/practice-regulations/childrens-online-privacy-protection-rule
 ingested: 2026-05-21
 category: KURATOR

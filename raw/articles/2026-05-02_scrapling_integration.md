@@ -1,9 +1,16 @@
 ---
-date: 2026-05-02
+type: raw_article
+title: Scrapling Integration Report
+description: '**Date:** 2026-05-02 **Author:** Hermes Agent ## Summary Integrated
+  Scrapling web scraping library with 85% success rate for bot protection bypass.
+  ##...'
+resource: https://github.com/D4Vinci/Scrapling
 tags:
-  - scrapling
-  - web-scraping
-  - bot-protection
+- scrapling
+- web-scraping
+- bot-protection
+timestamp: '2026-05-02T00:00:00Z'
+date: 2026-05-02
 ---
 
 # Scrapling Integration Report

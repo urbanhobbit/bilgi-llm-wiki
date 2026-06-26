@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (6)
+description: '**Kaynak:** [https://5rightsfoundation.org/children-digital-rights-framework...](https://5rightsfoundation.org/children-digital-rights-framework)
+  **Ka...'
+resource: https://5rightsfoundation.org/children-digital-rights-framework
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://5rightsfoundation.org/children-digital-rights-framework
 ingested: 2026-05-21
 category: KURATOR

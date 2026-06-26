@@ -1,9 +1,13 @@
 ---
+type: entity
 title: Common Sense Media
+description: '**Tür:** STK | **Açıklama:** ABD dijital içerik araştırma kuruluşu ##
+  Wiki''deki Kaynaklar (5) - [[raw/articles/ocuklar-ve-dijital-ortam-5-896.md|Çocuk...'
+tags:
+- STK
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
-type: entity
-tags: [STK]
 sources: []
 ---
 

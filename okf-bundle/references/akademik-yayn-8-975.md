@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Akademik Yayın (8)"
-description: "Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale, literatür taraması, teorik framework, hipo"
+title: Akademik Yayın (8)
+description: Bu akademik yayın, araştırma metodolojisi, veri toplama yöntemleri, analiz
+  teknikleri ve bulguların yorumlanması konusunda detaylı bilgi sunmaktadır. Makale,
+  literatür taraması, teorik framework, hipo
 resource: https://link.springer.com/article/10.1007/s12525-025-00796-6
-tags: [AKADEMİK, low, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- AKADEMİK
+- low
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://link.springer.com/article/10.1007/s12525-025-00796-6...](https://link.springer.com/article/10.1007/s12525-025-00796-6)

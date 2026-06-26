@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Çocuklar ve Dijital Dünya - Telafi Taraması
+description: '## 27 Mart 2025 + 30 Mart 2025 Birleştirilmiş Rapor **Durum:** 25 Mart''tan
+  bu yana 5 günlük gecikme telafi edildi --- ## 📋 Yürürlüğe Giren Düzenlemele...'
+resource: https://www.independent.co.uk/news/world/australasia/australia-social-media-ban-results-under-16-b2944500.html
+tags:
+- raw
+timestamp: '2026-03-30T00:00:00Z'
+---
+
 # Çocuklar ve Dijital Dünya - Telafi Taraması
 ## 27 Mart 2025 + 30 Mart 2025 Birleştirilmiş Rapor
 

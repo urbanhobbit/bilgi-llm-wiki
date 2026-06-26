@@ -1,10 +1,18 @@
 ---
+type: concept
 title: Ekran Süresi
+description: '## Tanım Çocukların ekran tabanlı medyayla (TV, tablet, akıllı telefon,
+  bilgisayar) geçirdiği toplam zaman. Uzun yıllar politika tartışmalarının odak ...'
+tags:
+- akademik
+- kavram
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: concept
-tags: [akademik, kavram, kuresel]
-sources: [raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md]
+sources:
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
 ---
 
 # Ekran Süresi

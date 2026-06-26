@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (43)
+description: '**Kaynak:** [https://www.wcvb.com/article/doctor-kids-social-media-screen-time-new-law/709441...](https://www.wcvb.com/article/doctor-kids-social-medi...'
+resource: https://www.wcvb.com/article/doctor-kids-social-media-screen-time-new-law/70944105
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.wcvb.com/article/doctor-kids-social-media-screen-time-new-law/70944105
 ingested: 2026-05-21
 category: KURATOR

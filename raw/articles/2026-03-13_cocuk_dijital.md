@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Çocuklar ve Dijital Dünya Özel Tarama Raporu
+description: '**Tarih:** 13 Mart 2026 **Küratör:** Küratör 🗂️ **Hedef:** 1500+ kelime
+  | Detaylı analiz ve çocuk hakları perspektifinden değerlendirme --- ## 1. Avus...'
+resource: https://www.theguardian.com/australia-news/2025/dec/09/australia-under-16-social-media-ban-begins-apps-listed
+tags:
+- raw
+timestamp: '2026-03-13T00:00:00Z'
+---
+
 # Çocuklar ve Dijital Dünya Özel Tarama Raporu
 
 **Tarih:** 13 Mart 2026  

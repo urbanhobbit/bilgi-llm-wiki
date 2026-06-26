@@ -1,17 +1,26 @@
 ---
-title: "Sosyal Kutuplaşma ve Dijital Platformlar"
+type: concept
+title: Sosyal Kutuplaşma ve Dijital Platformlar
+description: '## Tanım Sosyal kutuplaşma, bireylerin ve grupların siyasi, ideolojik
+  veya duygusal hatlar boyunca birbirinden uzaklaşmasıdır. Dijital platformlar, öz...'
+tags:
+- kavram
+- polarisation
+- social-media
+- algorithms
+- youth
+- ENCODE
+timestamp: '2026-06-26T14:04:38Z'
 created: 2026-06-26
 updated: 2026-06-26
-type: concept
-tags: [kavram, polarisation, social-media, algorithms, youth, ENCODE]
 sources:
-  - "Larreguy & Tiburcio (2026) — Nature Human Behaviour"
-  - "ENCODE D3.4 Catalogue of Best Practices"
+- Larreguy & Tiburcio (2026) — Nature Human Behaviour
+- ENCODE D3.4 Catalogue of Best Practices
 related:
-  - "affective-polarisation"
-  - "cycle-of-distrust"
-  - "sosyal-medya-genclik"
-  - "dijital-okuryazarlik"
+- affective-polarisation
+- cycle-of-distrust
+- sosyal-medya-genclik
+- dijital-okuryazarlik
 ---
 
 # Sosyal Kutuplaşma ve Dijital Platformlar

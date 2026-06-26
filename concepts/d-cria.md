@@ -1,10 +1,19 @@
 ---
+type: concept
 title: D-CRIA (Digital Child Rights Impact Assessment)
+description: '## Tanım UNICEF Innocenti Office of Research''ün 2025''te yayımladığı
+  araç kutusu. Teknoloji şirketlerine ve politika yapıcılara dijital ürün ve hizmetl...'
+tags:
+- dijital-haklar
+- kavram
+- kuresel
+- akademik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: concept
-tags: [dijital-haklar, kavram, kuresel, akademik]
-sources: [raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/unicef-digital-rights-2026.md]
+sources:
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/unicef-digital-rights-2026.md
 ---
 
 # D-CRIA — Digital Child Rights Impact Assessment

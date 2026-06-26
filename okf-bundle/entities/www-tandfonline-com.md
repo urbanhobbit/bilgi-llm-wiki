@@ -1,10 +1,13 @@
 ---
 type: Source
 title: Taylor & Francis Online
-description: "**Tür:** akademik | **Açıklama:** Akademik yayıncı"
+description: '**Tür:** akademik | **Açıklama:** Akademik yayıncı'
 resource: https://www.tandfonline.com
-tags: [akademik, yayıncı, dergi]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- akademik
+- yayıncı
+- dergi
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Taylor & Francis

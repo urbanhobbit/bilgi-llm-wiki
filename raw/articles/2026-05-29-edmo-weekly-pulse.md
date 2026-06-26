@@ -1,24 +1,29 @@
 ---
-title: "EDMO Weekly Pulse — 29 May 2026"
-source: "EDMO"
-url: "https://edmo.eu/pulse/"
-date: "2026-05-29"
-type: "weekly-pulse-issue"
-issue_date: "29 May 2026"
-sections:
-  - "ON THE RISE"
-  - "ZOOM-IN"
-  - "ELECTION BEAT"
-  - "GLOBAL PULSE"
-  - "ON A DIFFERENT NOTE"
+type: weekly-pulse-issue
+title: EDMO Weekly Pulse — 29 May 2026
+description: '## Overview This edition explores the rise of AI-generated synthetic
+  political influencers as a new weapon for extremist propaganda, focusing on the
+  c...'
+resource: https://edmo.eu/pulse/
 tags:
-  - disinformation
-  - ai-generated-content
-  - synthetic-influencers
-  - far-right
-  - elections
-  - europe
-  - weekly-pulse
+- disinformation
+- ai-generated-content
+- synthetic-influencers
+- far-right
+- elections
+- europe
+- weekly-pulse
+timestamp: '2026-05-29T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/pulse/
+date: '2026-05-29'
+issue_date: 29 May 2026
+sections:
+- ON THE RISE
+- ZOOM-IN
+- ELECTION BEAT
+- GLOBAL PULSE
+- ON A DIFFERENT NOTE
 ---
 
 ## Overview

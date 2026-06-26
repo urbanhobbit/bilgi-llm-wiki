@@ -1,10 +1,21 @@
 ---
+type: concept
 title: Dijital Haklar
+description: '## Tanım Çocukların dijital ortamda sahip oldukları hakların [[Çocuk
+  Hakları Sözleşmesi]]''ne (UNCRC) uygun şekilde dijital ortama uyarlanmış hali. Tem...'
+resource: https://www.ohchr.org
+tags:
+- dijital-haklar
+- kuresel
+- kavram
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-11
-type: concept
-tags: [dijital-haklar, kuresel, kavram]
-sources: [raw/articles/unicef-digital-rights-2026.md, raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-16_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md]
+sources:
+- raw/articles/unicef-digital-rights-2026.md
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-16_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
 ---
 
 # Dijital Haklar

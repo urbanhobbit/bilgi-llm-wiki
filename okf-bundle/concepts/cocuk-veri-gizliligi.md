@@ -1,9 +1,13 @@
 ---
 type: Concept
 title: Çocuk Veri Gizliliği
-description: Çocukların kişisel verilerinin dijital platformlarda toplanması, işlenmesi ve korunmasına ilişkin düzenlemeler ve etik tartışmalar.
-tags: [veri, gizlilik, çocuk]
-timestamp: 2026-05-21T00:00:00Z
+description: Çocukların kişisel verilerinin dijital platformlarda toplanması, işlenmesi
+  ve korunmasına ilişkin düzenlemeler ve etik tartışmalar.
+tags:
+- veri
+- gizlilik
+- çocuk
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Çocuk Veri Gizliliği

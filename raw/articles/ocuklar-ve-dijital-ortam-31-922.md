@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (31)
+description: '**Kaynak:** [https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-tee...](https://www.pewresearch.org/internet/2026/02/24/what...'
+resource: https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-teens-ai-use/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-teens-ai-use/
 ingested: 2026-05-21
 category: KURATOR

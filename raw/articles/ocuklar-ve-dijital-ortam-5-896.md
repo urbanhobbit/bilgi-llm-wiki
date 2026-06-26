@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (5)
+description: '**Kaynak:** [https://www.commonsensemedia.org/research/2026-national-survey-kids-technology...](https://www.commonsensemedia.org/research/2026-nationa...'
+resource: https://www.commonsensemedia.org/research/2026-national-survey-kids-technology
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.commonsensemedia.org/research/2026-national-survey-kids-technology
 ingested: 2026-05-21
 category: KURATOR

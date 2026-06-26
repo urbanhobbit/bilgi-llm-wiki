@@ -1,10 +1,17 @@
 ---
+type: entity
 title: Guardian
+description: '## Genel Bakış İngiltere merkezli gazete. Liberal siyasi görüş. Dijital
+  haklar ve çocukların dijital deneyimleri konularında kapsamlı raporlama yapıyo...'
+tags:
+- medya
+- ingiltere
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: entity
-tags: [medya, ingiltere, kuresel]
-sources: [raw/articles/guardian-children-digital-2026.md]
+sources:
+- raw/articles/guardian-children-digital-2026.md
 ---
 
 # The Guardian

@@ -1,15 +1,18 @@
 ---
-title: "Climate Disinformation (İklim Dezenformasyonu)"
+type: concept
+title: Climate Disinformation (İklim Dezenformasyonu)
+description: İklim değişikliğiyle ilgili dezenformasyon. EDMO, iklim dezenformasyonuyla
+  mücadele için özel eğitim serileri düzenliyor. **EDMO Training Series on Cl...
+tags:
+- climate
+- disinformation
+- environment
+- training
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-14
 updated: 2026-05-14
-type: concept
-tags:
-  - climate
-  - disinformation
-  - environment
-  - training
 sources:
-  - raw/articles/edmo-signals-noise-issue-18-2025-06
+- raw/articles/edmo-signals-noise-issue-18-2025-06
 ---
 
 # Climate Disinformation

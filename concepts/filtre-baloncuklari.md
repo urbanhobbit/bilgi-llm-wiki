@@ -1,10 +1,19 @@
 ---
+type: concept
 title: Filtre Balonları (Filter Bubbles)
+description: '## Tanım Algoritmaların kullanıcılara yalnızca geçmiş ilgi alanlarıyla
+  uyumlu içerikleri göstermesi sonucu oluşan bilgi izolasyonu. Kullanıcı farklı b...'
+tags:
+- algoritma
+- platform-tasarimi
+- kavram
+- iklim
+- ruh-sagligi
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: concept
-tags: [algoritma, platform-tasarimi, kavram, iklim, ruh-sagligi]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Filtre Balonları (Filter Bubbles)

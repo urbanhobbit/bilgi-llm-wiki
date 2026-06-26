@@ -1,10 +1,13 @@
 ---
 type: Source
 title: Bianet
-description: "**Tür:** medya | **Açıklama:** Bağımsız İletişim Ağı (Türkiye)"
+description: '**Tür:** medya | **Açıklama:** Bağımsız İletişim Ağı (Türkiye)'
 resource: https://bianet.org
-tags: [haber, medya, türkiye]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- haber
+- medya
+- türkiye
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Bianet

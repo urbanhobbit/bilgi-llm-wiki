@@ -1,27 +1,31 @@
 ---
-title: "EDMO Weekly Pulse — 4 June 2026"
-source: "EDMO"
-url: "https://edmo.eu/pulse/"
-date: "2026-06-04"
-type: "weekly-pulse-issue"
-issue_date: "4 June 2026"
-sections:
-  - "ON THE RISE"
-  - "ZOOM-IN"
-  - "ELECTION BEAT"
-  - "GLOBAL PULSE"
-  - "ON A DIFFERENT NOTE"
+type: weekly-pulse-issue
+title: EDMO Weekly Pulse — 4 June 2026
+description: '## Overview This edition examines climate disinformation as a recurring
+  and highly organized phenomenon, timed around the May 2026 European heatwave. ...'
+resource: https://edmo.eu/pulse/
 tags:
-  - disinformation
-  - climate
-  - climate-denial
-  - heatwave
-  - elections
-  - malta
-  - colombia
-  - ai-generated-content
-  - europe
-  - weekly-pulse
+- disinformation
+- climate
+- climate-denial
+- heatwave
+- elections
+- malta
+- colombia
+- ai-generated-content
+- europe
+- weekly-pulse
+timestamp: '2026-06-04T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/pulse/
+date: '2026-06-04'
+issue_date: 4 June 2026
+sections:
+- ON THE RISE
+- ZOOM-IN
+- ELECTION BEAT
+- GLOBAL PULSE
+- ON A DIFFERENT NOTE
 ---
 
 ## Overview

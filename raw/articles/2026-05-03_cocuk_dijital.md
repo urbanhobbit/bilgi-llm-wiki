@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Taslağı
+description: '**Tarih:** 3 Mayıs 2026 Pazar | **Tarama:** 3 Mayıs 2026, 08:00 (TSİ)
+  --- ## İçindekiler 1. [Dijital Kısıtlamalar ve Yaş Sınırları](#1-dijital-kısıtla...'
+resource: https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/
+tags:
+- raw
+timestamp: '2026-05-03T00:00:00Z'
+---
+
 # 🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Taslağı
 **Tarih:** 3 Mayıs 2026 Pazar | **Tarama:** 3 Mayıs 2026, 08:00 (TSİ)
 

@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (60)
+description: '**Kaynak:** [https://www.theguardian.com/technology/2025/sep/21/chatbot-site-depicting-child-...](https://www.theguardian.com/technology/2025/sep/21/c...'
+resource: https://www.theguardian.com/technology/2025/sep/21/chatbot-site-depicting-child-sexual-abuse-images-
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/2025/sep/21/chatbot-site-depicting-child-sexual-abuse-images-
 ingested: 2026-05-21
 category: KURATOR

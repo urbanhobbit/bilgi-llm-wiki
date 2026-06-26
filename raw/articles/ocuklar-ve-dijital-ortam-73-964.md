@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (73)
+description: '**Kaynak:** [https://www.theguardian.com/technology/2026/feb/10/britain-kids-online-law-prote...](https://www.theguardian.com/technology/2026/feb/10/b...'
+resource: https://www.theguardian.com/technology/2026/feb/10/britain-kids-online-law-prote
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/2026/feb/10/britain-kids-online-law-prote
 ingested: 2026-05-21
 category: KURATOR

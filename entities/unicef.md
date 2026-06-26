@@ -1,10 +1,20 @@
 ---
+type: entity
 title: UNICEF
+description: '## Genel Bakış United Nations Children''s Fund (UNICEF), çocuk haklarını
+  koruma ve ilerletme mandate''ına sahip uluslararası kuruluş. Çocukların dijital...'
+tags:
+- dijital-haklar
+- kurum
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-11
-type: entity
-tags: [dijital-haklar, kurum, kuresel]
-sources: [raw/articles/unicef-digital-rights-guidelines-2026.md, raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md, raw/articles/unicef-digital-rights-2026.md]
+sources:
+- raw/articles/unicef-digital-rights-guidelines-2026.md
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
+- raw/articles/unicef-digital-rights-2026.md
 ---
 
 # UNICEF

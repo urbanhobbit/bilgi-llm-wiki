@@ -1,10 +1,18 @@
 ---
+type: entity
 title: Internet Watch Foundation (IWF)
+description: '## Genel Bakış Birleşik Krallık merkezli, çevrimiçi çocuk cinsel istismarı
+  materyallerini (CSAM) tespit edip kaldıran sivil toplum kuruluşu. Dünya gen...'
+tags:
+- cocuk-guvenlik
+- yapay-zeka
+- kuresel
+- kurum
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [cocuk-guvenlik, yapay-zeka, kuresel, kurum]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Internet Watch Foundation (IWF)

@@ -1,10 +1,18 @@
 ---
+type: entity
 title: Dünya Ekonomik Forumu (WEF)
+description: '## Genel Bakış Cenevre merkezli uluslararası kamu-özel ortaklık platformu.
+  Yılık Davos toplantısıyla bilinir; küresel riskler, teknoloji ve kalkınma k...'
+tags:
+- kuresel
+- politika
+- yapay-zeka
+- cocuk-guvenlik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [kuresel, politika, yapay-zeka, cocuk-guvenlik]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Dünya Ekonomik Forumu (WEF)

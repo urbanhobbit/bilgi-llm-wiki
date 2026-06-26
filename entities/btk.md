@@ -1,10 +1,18 @@
 ---
+type: entity
 title: BTK
+description: '## Genel Bakış Türkiye''de bilişim ve iletişim teknolojileri düzenleyici
+  kurumu. 5809 sayılı Kanun''a göre kurulan bağımsız düzenleyici kurumlardan. ## ...'
+resource: https://www.btk.gov.tr
+tags:
+- kurum
+- turkiye
+- düzenleyici
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
 updated: 2026-04-07
-type: entity
-tags: [kurum, turkiye, düzenleyici]
-sources: [raw/articles/btk-dijital-regulation-2026.md]
+sources:
+- raw/articles/btk-dijital-regulation-2026.md
 ---
 
 # BTK - Bilgi Teknolojileri ve İletişim Kurumu

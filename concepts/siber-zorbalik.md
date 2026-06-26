@@ -1,10 +1,20 @@
 ---
+type: concept
 title: Siber Zorbalık
+description: '## Tanım Dijital platformlar aracılığıyla gerçekleştirilen kasıtlı,
+  tekrarlayan zarar verici davranışlar. Taciz, aşağılama, tehdit, kimliğe bürünme,
+  d...'
+tags:
+- cocuk-guvenlik
+- yapay-zeka
+- ruh-sagligi
+- kavram
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: concept
-tags: [cocuk-guvenlik, yapay-zeka, ruh-sagligi, kavram, kuresel]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Siber Zorbalık

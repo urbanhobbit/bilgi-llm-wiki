@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 'KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni'
+description: '**Date:** 2026-06-08 **Week:** 24/2026 **Prepared by:** KURATOR Araştırma
+  Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...'
+resource: https://arxiv.org/abs/2605.00368
+tags:
+- raw
+timestamp: '2026-06-08T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni
 
 **Date:** 2026-06-08

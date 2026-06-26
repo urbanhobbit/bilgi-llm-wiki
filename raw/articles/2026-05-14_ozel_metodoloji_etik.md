@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: AKADEMİK ÖZEL TARAMA
+description: '## Metodoloji, Etik ve Güncel Tartışmalar **Tarih:** 14 Mayıs 2026 |
+  **Kapsam:** Ocak 2025 – Mayıs 2026 **Kaynak:** arXiv (cs.SI, cs.CY, cs.CL, cs.AI)...'
+resource: https://arxiv.org/abs/2605.07409
+tags:
+- raw
+timestamp: '2026-05-14T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Metodoloji, Etik ve Güncel Tartışmalar
 **Tarih:** 14 Mayıs 2026 | **Kapsam:** Ocak 2025 – Mayıs 2026

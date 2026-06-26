@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Akademik Yayın (12)
+description: '**Kaynak:** [https://www.sciencedirect.com/science/article/pii/S2666560325000714...](https://www.sciencedirect.com/science/article/pii/S26665603250007...'
+resource: https://www.sciencedirect.com/science/article/pii/S2666560325000714
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.sciencedirect.com/science/article/pii/S2666560325000714
 ingested: 2026-05-21
 category: AKADEMİK

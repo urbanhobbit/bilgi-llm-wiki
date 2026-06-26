@@ -1,10 +1,18 @@
 ---
+type: concept
 title: Yaş Doğrulama Teknolojileri
+description: '## Tanım Kullanıcıların belirli bir yaşın üzerinde olduğunu doğrulamak
+  için platformlar tarafından kullanılan teknik yöntemler. "Yaş güvencesi" (age a...'
+tags:
+- yas-limitleri
+- kavram
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: concept
-tags: [yas-limitleri, kavram, kuresel]
-sources: [raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-17_cocuk_dijital.md]
+sources:
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-17_cocuk_dijital.md
 ---
 
 # Yaş Doğrulama Teknolojileri

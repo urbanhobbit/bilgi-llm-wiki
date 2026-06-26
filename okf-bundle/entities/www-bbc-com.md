@@ -1,10 +1,13 @@
 ---
 type: Source
 title: BBC
-description: "**Tür:** medya | **Açıklama:** İngiltere kamu yayıncısı"
+description: '**Tür:** medya | **Açıklama:** İngiltere kamu yayıncısı'
 resource: https://www.bbc.com
-tags: [haber, medya, birleşik krallık]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- haber
+- medya
+- birleşik krallık
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # BBC

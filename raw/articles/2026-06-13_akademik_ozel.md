@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: AKADEMİK ÖZEL TARAMA
+description: '## Haftalık Derleme **Tarih:** 13 Haziran 2026 | **Hafta:** 24/2026
+  **Kapsam:** Mayıs-Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 keli...'
+resource: https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-teens-ai-use
+tags:
+- raw
+timestamp: '2026-06-13T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 13 Haziran 2026 | **Hafta:** 24/2026

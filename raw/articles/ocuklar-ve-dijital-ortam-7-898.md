@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (7)
+description: '**Kaynak:** [https://www.theguardian.com/technology/2026/feb/28/children-social-media-usage-r...](https://www.theguardian.com/technology/2026/feb/28/c...'
+resource: https://www.theguardian.com/technology/2026/feb/28/children-social-media-usage-record
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/2026/feb/28/children-social-media-usage-record
 ingested: 2026-05-21
 category: KURATOR

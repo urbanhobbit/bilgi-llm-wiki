@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 2026 04 21 Cocuk Dijital
+description: '### Kaynak 9: Digital Ecosystems, Children, and Adolescents: Technical
+  Report * **Baslik:** Digital Ecosystems, Children, and Adolescents: Technical R...'
+resource: https://publications.aap.org/pediatrics/article/157/2/e2025075321/206128/Digital-Ecosystems-Children-and-Adolescents
+tags:
+- raw
+timestamp: '2026-04-21T00:00:00Z'
+---
+
 ### Kaynak 9: Digital Ecosystems, Children, and Adolescents: Technical Report
 
 *   **Baslik:** Digital Ecosystems, Children, and Adolescents: Technical Report

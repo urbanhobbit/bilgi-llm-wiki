@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: AKADEMİK ÖZEL TARAMA
+description: '## Haftalık Derleme **Tarih:** 23 Mayıs 2026 | **Hafta:** 22/2026 **Kapsam:**
+  Mayıs 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 kelime) Bu haf...'
+resource: https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567
+tags:
+- raw
+timestamp: '2026-05-23T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 23 Mayıs 2026 | **Hafta:** 22/2026

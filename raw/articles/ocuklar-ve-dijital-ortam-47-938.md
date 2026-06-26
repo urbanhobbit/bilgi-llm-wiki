@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (47)
+description: '**Kaynak:** [https://www.retirement.media/solo-screen-time-is-a-unique-peril-for-young-childr...](https://www.retirement.media/solo-screen-time-is-a-u...'
+resource: https://www.retirement.media/solo-screen-time-is-a-unique-peril-for-young-children-already-at-risk/
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.retirement.media/solo-screen-time-is-a-unique-peril-for-young-children-already-at-risk/
 ingested: 2026-05-21
 category: KURATOR

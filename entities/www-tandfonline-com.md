@@ -1,9 +1,13 @@
 ---
+type: entity
 title: Taylor & Francis
+description: '**Tür:** akademik | **Açıklama:** Akademik yayıncı ## Wiki''deki Kaynaklar
+  (5) - [[raw/articles/akademik-yayn-3-970.md|Akademik Yayın (3)]] - [[raw/art...'
+tags:
+- akademik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
-type: entity
-tags: [akademik]
 sources: []
 ---
 

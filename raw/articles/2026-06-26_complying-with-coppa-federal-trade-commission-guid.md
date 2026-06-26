@@ -1,0 +1,35 @@
+---
+type: raw_article
+title: Complying with COPPA — Federal Trade Commission Guidance for Businesses on
+  Children's Online Privacy
+description: The Federal Trade Commission's comprehensive guidance on complying with
+  the Children's Online Privacy Protection Act (COPPA) provides essential regulatory
+  information for any business operating a webs...
+resource: https://www.ftc.gov/tips-advice/business-guidance/complying-coppa
+tags:
+- kurator
+- high
+timestamp: '2026-06-26T15:22:33Z'
+source_file: kurator_batch_output.json
+category: KURATOR
+priority: high
+---
+
+# Complying with COPPA — Federal Trade Commission Guidance for Businesses on Children's Online Privacy
+
+**Source:** [https://www.ftc.gov/tips-advice/business-guidance/complying-coppa](https://www.ftc.gov/tips-advice/business-guidance/complying-coppa)
+
+## Summary
+
+The Federal Trade Commission's comprehensive guidance on complying with the Children's Online Privacy Protection Act (COPPA) provides essential regulatory information for any business operating a website, online service, mobile application, or connected device that collects personal information from children under 13. The guidance covers all major COPPA requirements including the obligation to provide clear and comprehensive privacy notices describing what data is collected, how it is used, and with whom it is shared; the requirement to obtain verifiable parental consent before collecting, using, or disclosing personal information from children; the duty to implement reasonable data security measures appropriate to the sensitivity of the information collected; limitations on data retention requiring that children's personal information be kept only as long as reasonably necessary; and the requirement to provide parents with the ability to review and request deletion of their children's data. The FTC actively enforces COPPA through civil penalty actions and has brought numerous high-profile enforcement actions resulting in multi-million dollar penalties against companies including Google (YouTube), TikTok, Musical.ly, and others for violations. The guidance is regularly updated to address emerging technologies and business models.
+
+## Key Points
+
+- COPPA requires verifiable parental consent before collecting data from children under 13
+- Clear privacy notices, data security, and retention limitations mandated
+- FTC actively enforces COPPA with significant penalties against major technology companies
+- Rule being updated to address AI, connected toys, and evolving digital ecosystem
+
+## Turkey Context
+
+Bu içerik, Türkiye'de çocukların dijital haklarına ve çevrimiçi güvenliğine ilişkin politika geliştirme çalışmaları için önemli bir referans kaynağı ve tartışma zemini oluşturmaktadır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, bu düzenlemelerin günümüz dijital ekosisteminin hızla değişen koşullarında yetersiz kaldığı görülmektedir. Çocukların dijital platformlarda karşılaştıkları risklerin çeşitlenmesi ve yapay zeka teknolojilerinin yaygınlaşması, KVKK kapsamındaki korumaların güçlendirilmesini ve çocuklara özgü daha spesifik düzenlemelerin hayata geçirilmesini zorunlu kılmaktadır. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet düzenlemeleri ve çevrimiçi çocuk güvenliği konusunda kilit bir düzenleyici kurum olarak faaliyet göstermektedir. BTK'nın zararlı içeriklerin filtrelenmesi, internet güvenliğinin sağlanması ve çocukların çevrimiçi ortamlarda karşılaşabilecekleri risklere karşı korunmasına yönelik çalışmaları devam etmektedir. Ancak kurumun mevcut yaklaşımı daha çok reaktif içerik kaldırma ve filtreleme odaklı olup, çocukların veri gizliliği, algoritmik manipülasyondan korunması ve yaşa uygun tasarım standartlarının belirlenmesi gibi proaktif koruma alanlarında daha kapsamlı bir düzenleme çerçevesine ihtiyaç duyulmaktadır. Milli Eğitim Bakanlığı (MEB), dijital vatandaşlık, medya okuryazarlığı ve siber güvenlik eğitimlerini müfredata dahil ederek öğrencilerin dijital ortamlarda bilinçli ve güvenli hareket etmelerini hedeflemektedir. Ancak bu eğitimlerin yapay zeka okuryazarlığı, algoritmik farkındalık ve çevrimiçi mahremiyet yönetimi gibi güncel konuları da kapsayacak şekilde güncellenmesi ve çağın gerekliliklerine uygun hale getirilmesi gerekmektedir. Öğretmenlerin dijital pedagoji becerilerinin geliştirilmesi ve okullarda dijital güvenlik kültürünün oluşturulması da öncelikli alanlar arasında yer almaktadır. Türkiye'nin bu alandaki uluslararası gelişmeleri yakından takip etmesi, başarılı uygulama örneklerinden ders çıkarması ve kendi sosyo-kültürel bağlamına, hukuk sistemine ve dijital ekosistemine uygun, dengeli ve etkili düzenlemeleri hayata geçirmesi büyük önem taşımaktadır. Bu kapsamda, çocukların dijital haklarını ve çevrimiçi güvenliğini koruyan, ancak ifade özgürlüğü, bilgiye erişim hakkı ve dijital katılım gibi temel hakları orantısız şekilde kısıtlamayan, çocukların görüşlerini dikkate alan ve teknolojik gelişmelere uyum sağlayabilecek esneklikte bir düzenleyici çerçeve oluşturulması önerilmektedir. Bu çerçevenin oluşturulmasında başta BTK, KVKK Kurumu, MEB, Aile ve Sosyal Hizmetler Bakanlığı ve Sağlık Bakanlığı olmak üzere tüm ilgili paydaşların koordineli bir şekilde çalışması gerekmektedir. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, Türkiye'de çocukların internet ve akıllı telefon kullanım oranları her yıl istikrarlı bir şekilde artmaktadır. 6-15 yaş grubundaki çocukların büyük çoğunluğu düzenli olarak internete erişmekte, sosyal medya platformlarında aktif olarak yer almakta ve dijital oyun oynamaktadır. Bu veriler, çocukların dijital ortamlarda geçirdikleri sürenin ve karşılaştıkları risklerin boyutunun anlaşılması açısından önemli bir temel oluşturmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları, aile eğitim programları ve risk altındaki çocukların tespitine yönelik projeler yürütmektedir. Bakanlığın bu alandaki çalışmalarının daha sistematik, ölçülebilir ve yaptırım odaklı hale getirilmesi, ayrıca diğer kamu kurumları ve sivil toplum kuruluşlarıyla koordinasyonun güçlendirilmesi önem arz etmektedir. Sağlık Bakanlığı verileri, çocuklarda artan ekran süresinin obezite, uyku bozuklukları, dikkat eksikliği, göz yorgunluğu ve ruh sağlığı sorunlarıyla ilişkili olduğunu göstermektedir. Bakanlığın çocuk sağlığı politikalarının dijital sağlık boyutunu da kapsayacak şekilde güncellenmesi ve pediatristlere yönelik dijital sağlık rehberlerinin geliştirilmesi gerekmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi ortamlarda karşılaştıkları risklerin giderek çeşitlendiğini ve derinleştiğini, bu alanda kapsamlı ve acil politikalar geliştirilmesi gerektiğini vurgulamaktadır. Dijital haklar, çevrimiçi güvenlik ve çocuk katılımı konularında bütüncül bir ulusal strateji oluşturulması ve bu stratejinin uluslararası standartlar ve en iyi uygulamalar çerçevesinde şekillendirilmesi önerilmektedir.

@@ -1,9 +1,13 @@
 ---
+type: entity
 title: 5Rights Foundation
+description: '**Tür:** STK | **Açıklama:** Çocuk dijital hakları organizasyonu (UK)
+  ## Wiki''deki Kaynaklar (13) - [[raw/articles/ocuklar-ve-dijital-ortam-14-905.md|...'
+tags:
+- STK
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
-type: entity
-tags: [STK]
 sources: []
 ---
 

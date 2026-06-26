@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: COCUKLAR ve DIJITAL DUNYA - OZEL TARAMA (17 Nisan 2026)
+description: '## Konu: Dijital kısıtlamalar ve yaş sınırları ### Kaynak: DW (Deutsche
+  Welle) **Baslik:** Social media age limits: Well-intentioned but ineffective? ...'
+resource: https://www.dw.com/en/do-social-media-age-limits-work-tiktok-instagram-cyberbullying-depression-kids-children-australia/a-76713278
+tags:
+- raw
+timestamp: '2026-04-17T00:00:00Z'
+---
+
 # COCUKLAR ve DIJITAL DUNYA - OZEL TARAMA (17 Nisan 2026)
 
 ## Konu: Dijital kısıtlamalar ve yaş sınırları

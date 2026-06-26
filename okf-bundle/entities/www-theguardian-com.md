@@ -1,10 +1,13 @@
 ---
 type: Source
 title: The Guardian
-description: "**Tür:** medya | **Açıklama:** İngiltere merkezli gazete"
+description: '**Tür:** medya | **Açıklama:** İngiltere merkezli gazete'
 resource: https://www.theguardian.com
-tags: [haber, medya, birleşik krallık]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- haber
+- medya
+- birleşik krallık
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # The Guardian

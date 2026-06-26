@@ -1,30 +1,34 @@
 ---
-title: "EDMO Weekly Pulse — 11 June 2026"
-source: "EDMO"
-url: "https://edmo.eu/pulse/"
-date: "2026-06-11"
-type: "weekly-pulse-issue"
-issue_date: "11 June 2026"
-sections:
-  - "ON THE RISE"
-  - "ZOOM-IN"
-  - "ELECTION BEAT"
-  - "GLOBAL PULSE"
-  - "ON A DIFFERENT NOTE"
+type: weekly-pulse-issue
+title: EDMO Weekly Pulse — 11 June 2026
+description: '## Overview This edition examines how drone crashes on the fringes of
+  the Russo-Ukrainian war become vectors for disinformation and conspiracy theorie...'
+resource: https://edmo.eu/pulse/
 tags:
-  - disinformation
-  - ukraine
-  - drones
-  - romania
-  - elections
-  - armenia
-  - malta
-  - fwc26
-  - israel
-  - lebanon
-  - kuwait
-  - europe
-  - weekly-pulse
+- disinformation
+- ukraine
+- drones
+- romania
+- elections
+- armenia
+- malta
+- fwc26
+- israel
+- lebanon
+- kuwait
+- europe
+- weekly-pulse
+timestamp: '2026-06-11T00:00:00Z'
+source: EDMO
+url: https://edmo.eu/pulse/
+date: '2026-06-11'
+issue_date: 11 June 2026
+sections:
+- ON THE RISE
+- ZOOM-IN
+- ELECTION BEAT
+- GLOBAL PULSE
+- ON A DIFFERENT NOTE
 ---
 
 ## Overview

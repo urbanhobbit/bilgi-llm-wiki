@@ -1,10 +1,19 @@
 ---
+type: concept
 title: Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)
+description: '## Tanım Dijital vatandaşlık eğitiminin (DVE) 0-8 yaş grubuna uyarlanmış
+  biçimi. Bu dönemde dijital cihazlara erken ve yoğun maruz kalınmasına rağmen ...'
+tags:
+- dijital-vatandaslik
+- erken-cocukluk
+- egitim
+- kavram
+- akademik
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: concept
-tags: [dijital-vatandaslik, erken-cocukluk, egitim, kavram, akademik]
-sources: [2026-04-19_cocuk_dijital.md]
+sources:
+- 2026-04-19_cocuk_dijital.md
 ---
 
 # Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)

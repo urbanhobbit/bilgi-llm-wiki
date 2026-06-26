@@ -1,10 +1,17 @@
 ---
+type: entity
 title: Jonathan Haidt
+description: '## Genel Bakış ABD''li sosyal psikolog ve NYU Stern School of Business
+  öğretim üyesi. "The Anxious Generation: How the Great Rewiring of Childhood Is C...'
+tags:
+- yas-limitleri
+- akademik
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: entity
-tags: [yas-limitleri, akademik, kuresel]
-sources: [raw/articles/2026-03-17_cocuk_dijital.md]
+sources:
+- raw/articles/2026-03-17_cocuk_dijital.md
 ---
 
 # Jonathan Haidt

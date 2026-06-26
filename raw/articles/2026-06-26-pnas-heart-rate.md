@@ -1,12 +1,21 @@
 ---
-title: "Heart rate synchrony as a marker of real-world social engagement"
-source_url: "https://academic.oup.com/pnasnexus/article/5/6/pgag181/8713053"
-authors: "Hanlu He, J. Christensen, A. Sørensen, Ivana Konvalinka, Stephen M. Fleming"
-published: "2025-12-25"
-venue: "PNAS Nexus"
 type: raw
-doi: "10.1093/pnasnexus/pgag181"
-tags: [social-engagement, physiological-synchrony, heart-rate, real-world, social-connection]
+title: Heart rate synchrony as a marker of real-world social engagement
+description: '**Authors:** Hanlu He, J. Christensen, A. Sørensen, Ivana Konvalinka,
+  Stephen M. Fleming **Published:** 25 December 2025 **Venue:** PNAS Nexus **DOI:*...'
+resource: https://academic.oup.com/pnasnexus/article/5/6/pgag181/8713053
+tags:
+- social-engagement
+- physiological-synchrony
+- heart-rate
+- real-world
+- social-connection
+timestamp: '2026-06-26T00:00:00Z'
+source_url: https://academic.oup.com/pnasnexus/article/5/6/pgag181/8713053
+authors: Hanlu He, J. Christensen, A. Sørensen, Ivana Konvalinka, Stephen M. Fleming
+published: '2025-12-25'
+venue: PNAS Nexus
+doi: 10.1093/pnasnexus/pgag181
 ---
 
 # Heart rate synchrony as a marker of real-world social engagement

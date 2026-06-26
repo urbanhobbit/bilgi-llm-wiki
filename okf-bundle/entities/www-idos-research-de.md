@@ -1,10 +1,14 @@
 ---
 type: Source
 title: IDOS Research
-description: "**Tür:** akademik | **Açıklama:** Alman Kalkınma ve Sürdürülebilirlik Enstitüsü"
+description: '**Tür:** akademik | **Açıklama:** Alman Kalkınma ve Sürdürülebilirlik
+  Enstitüsü'
 resource: https://www.idos-research.de
-tags: [araştırma, almanya, kalkınma]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- araştırma
+- almanya
+- kalkınma
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # IDOS

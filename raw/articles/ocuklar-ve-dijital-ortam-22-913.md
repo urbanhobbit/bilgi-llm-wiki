@@ -1,4 +1,12 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (22)
+description: '**Kaynak:** [https://www.ftc.gov/tips-advice/business-guidance/complying-coppa...](https://www.ftc.gov/tips-advice/business-guidance/complying-coppa)
+  ...'
+resource: https://www.ftc.gov/tips-advice/business-guidance/complying-coppa
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.ftc.gov/tips-advice/business-guidance/complying-coppa
 ingested: 2026-05-21
 category: KURATOR

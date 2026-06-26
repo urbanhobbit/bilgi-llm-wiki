@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: Guardian Children Digital 2026
+description: '{ "title": "The Guardian - Children''s Digital Rights Campaign", "url":
+  "https://www.theguardian.com/technology/children-digital-rights", "summary": "T...'
+resource: https://www.theguardian.com/technology/children-digital-rights
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
+---
+
 {
   "title": "The Guardian - Children's Digital Rights Campaign",
   "url": "https://www.theguardian.com/technology/children-digital-rights",

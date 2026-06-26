@@ -1,12 +1,22 @@
 ---
-title: "Political polarization in low- and middle-income countries"
-source_url: "https://www.nature.com/articles/s41562-026-02507-3"
-authors: "Horacio Larreguy & Ernesto Tiburcio"
-published: "2026-06-22"
-venue: "Nature Human Behaviour"
 type: raw
-doi: "10.1038/s41562-026-02507-3"
-tags: [polarization, LMICs, social-media, echo-chambers, democracy, affective-polarization]
+title: Political polarization in low- and middle-income countries
+description: '**Authors:** Horacio Larreguy & Ernesto Tiburcio **Published:** 22 June
+  2026 **Venue:** Nature Human Behaviour **DOI:** 10.1038/s41562-026-02507-3 ## ...'
+resource: https://www.nature.com/articles/s41562-026-02507-3
+tags:
+- polarization
+- LMICs
+- social-media
+- echo-chambers
+- democracy
+- affective-polarization
+timestamp: '2026-06-26T00:00:00Z'
+source_url: https://www.nature.com/articles/s41562-026-02507-3
+authors: Horacio Larreguy & Ernesto Tiburcio
+published: '2026-06-22'
+venue: Nature Human Behaviour
+doi: 10.1038/s41562-026-02507-3
 ---
 
 # Political polarization in low- and middle-income countries

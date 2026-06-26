@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (42)
+description: '**Kaynak:** [https://whitelist.video/blog/child-safety-regulations-worldwide-2026...](https://whitelist.video/blog/child-safety-regulations-worldwide-...'
+resource: https://whitelist.video/blog/child-safety-regulations-worldwide-2026
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://whitelist.video/blog/child-safety-regulations-worldwide-2026
 ingested: 2026-05-21
 category: KURATOR

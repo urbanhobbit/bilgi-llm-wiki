@@ -1,9 +1,13 @@
 ---
 type: Concept
 title: Sosyal Medya ve Gençlik
-description: Sosyal medya platformlarının çocuklar ve gençlerin ruh sağlığı, sosyal gelişimi ve kimlik oluşumu üzerindeki etkileri.
-tags: [sosyal medya, gençlik, dijital]
-timestamp: 2026-05-21T00:00:00Z
+description: Sosyal medya platformlarının çocuklar ve gençlerin ruh sağlığı, sosyal
+  gelişimi ve kimlik oluşumu üzerindeki etkileri.
+tags:
+- sosyal medya
+- gençlik
+- dijital
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Sosyal Medya ve Gençlik

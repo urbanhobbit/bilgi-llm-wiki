@@ -1,15 +1,24 @@
 ---
-title: "ENCODE Project"
+type: entity
+title: ENCODE Project
+description: '**Full Title:** Unveiling Emotional Dimensions of Politics to Foster
+  European Democracy **Program:** Horizon Europe (Grant No. 101132698) **Coordinato...'
+tags:
+- EU
+- Horizon-Europe
+- research-project
+- democracy
+- emotions
+- disinformation
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-07
 updated: 2026-05-07
-type: entity
-tags: [EU, Horizon-Europe, research-project, democracy, emotions, disinformation]
 sources:
-  - "https://encodemotions.eu/"
-  - "https://encodemotions.eu/d3-4-catalogue-of-best-practices/"
+- https://encodemotions.eu/
+- https://encodemotions.eu/d3-4-catalogue-of-best-practices/
 related:
-  - "eu-democracy-shield"
-  - "digital-services-act"
+- eu-democracy-shield
+- digital-services-act
 ---
 
 # ENCODE Project

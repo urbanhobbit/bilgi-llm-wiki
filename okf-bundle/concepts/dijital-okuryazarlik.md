@@ -1,9 +1,13 @@
 ---
 type: Concept
 title: Dijital Okuryazarlık
-description: Çocukların dijital ortamlarda güvenli ve bilinçli hareket edebilme becerileri, medya okuryazarlığı eğitimi.
-tags: [okuryazarlık, eğitim, dijital]
-timestamp: 2026-05-21T00:00:00Z
+description: Çocukların dijital ortamlarda güvenli ve bilinçli hareket edebilme becerileri,
+  medya okuryazarlığı eğitimi.
+tags:
+- okuryazarlık
+- eğitim
+- dijital
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # Dijital Okuryazarlık

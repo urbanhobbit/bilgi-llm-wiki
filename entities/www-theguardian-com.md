@@ -1,9 +1,13 @@
 ---
+type: entity
 title: The Guardian
+description: '**Tür:** medya | **Açıklama:** İngiltere merkezli gazete ## Wiki''deki
+  Kaynaklar (20) - [[raw/articles/ocuklar-ve-dijital-ortam-4-895.md|Çocuklar ve Di...'
+tags:
+- medya
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
-type: entity
-tags: [medya]
 sources: []
 ---
 

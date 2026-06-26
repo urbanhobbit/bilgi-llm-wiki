@@ -1,10 +1,17 @@
 ---
+type: entity
 title: Dr. Asma Adnane
+description: '## Genel Bakış Loughborough Üniversitesi bünyesinde çevrimiçi güvenlik
+  alanında araştırmacı. Platform sorumluluğu ve erken çocukluk dijital güvenliği ...'
+tags:
+- platform-duzenlemeleri
+- cocuk-guvenlik
+- akademisyen
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-19
 updated: 2026-04-19
-type: entity
-tags: [platform-duzenlemeleri, cocuk-guvenlik, akademisyen]
-sources: [2026-04-09_cocuk_dijital.md]
+sources:
+- 2026-04-09_cocuk_dijital.md
 ---
 
 # Dr. Asma Adnane

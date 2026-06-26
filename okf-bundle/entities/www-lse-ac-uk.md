@@ -1,10 +1,13 @@
 ---
 type: Source
 title: London School of Economics
-description: "**Tür:** akademik | **Açıklama:** London School of Economics"
+description: '**Tür:** akademik | **Açıklama:** London School of Economics'
 resource: https://www.lse.ac.uk
-tags: [akademik, araştırma, üniversite]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- akademik
+- araştırma
+- üniversite
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 # LSE

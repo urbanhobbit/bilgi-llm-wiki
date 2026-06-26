@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: AKADEMİK ÖZEL TARAMA
+description: '## Haftalık Derleme **Tarih:** 6 Haziran 2026 | **Hafta:** 23/2026 **Kapsam:**
+  Mayıs-Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 kelim...'
+resource: https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/
+tags:
+- raw
+timestamp: '2026-06-06T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 6 Haziran 2026 | **Hafta:** 23/2026

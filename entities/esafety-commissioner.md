@@ -1,10 +1,19 @@
 ---
+type: entity
 title: eSafety Commissioner (Avustralya)
+description: '## Genel Bakış Avustralya hükümetinin çevrimiçi güvenlik düzenleyici
+  kurumu. Komiseri Julie Inman Grant liderliğinde, "Online Safety Amendment (Social...'
+tags:
+- yas-limitleri
+- kurum
+- kuresel
+timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
 updated: 2026-04-11
-type: entity
-tags: [yas-limitleri, kurum, kuresel]
-sources: [raw/articles/2026-03-13_cocuk_dijital.md, raw/articles/2026-03-17_cocuk_dijital.md, raw/articles/2026-03-30_cocuk_dijital.md]
+sources:
+- raw/articles/2026-03-13_cocuk_dijital.md
+- raw/articles/2026-03-17_cocuk_dijital.md
+- raw/articles/2026-03-30_cocuk_dijital.md
 ---
 
 # eSafety Commissioner (Avustralya)

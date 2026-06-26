@@ -1,10 +1,15 @@
 ---
 type: Article
-title: "Çocuklar ve Dijital Ortam (45)"
-description: "Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı, ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır. İçerik, dijital vatandaşlık, çevrimiçi davr"
+title: Çocuklar ve Dijital Ortam (45)
+description: Bu kaynak, çocukların dijital ortamda güvenliği, sosyal medya kullanımı,
+  ekran süresi yönetimi ve platform politikaları hakkında kapsamlı bilgi sunmaktadır.
+  İçerik, dijital vatandaşlık, çevrimiçi davr
 resource: https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-tech-concerns/article5a0029f0-0ed8-4730-8222-017ca1f1c10e.html
-tags: [KURATOR, high, yazarli]
-timestamp: 2026-05-21T00:00:00Z
+tags:
+- KURATOR
+- high
+- yazarli
+timestamp: 2026-05-21 00:00:00+00:00
 ---
 
 **Kaynak:** [https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-...](https://www.ack.net/education/reps-pass-youth-social-media-ban-over-privacy-big-tech-concerns/article5a0029f0-0ed8-4730-8222-017ca1f1c10e.html)

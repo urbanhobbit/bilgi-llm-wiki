@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (28)
+description: '**Kaynak:** [https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-a...](https://www.theguardian.com/technology/2025/nov/12/t...'
+resource: https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.theguardian.com/technology/2025/nov/12/tech-companies-child-safety-agencies-test-ai-tools-abuse-images-ability
 ingested: 2026-05-21
 category: KURATOR

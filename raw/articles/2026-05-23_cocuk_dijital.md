@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 'KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni'
+description: '**Tarih:** 2026-05-23 **Hafta:** 22/2026 **Hazırlayan:** KURATOR Araştırma
+  Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...'
+resource: https://www.digital-futures-for-children.net/events/child-rights-regulation
+tags:
+- raw
+timestamp: '2026-05-23T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni
 
 **Tarih:** 2026-05-23

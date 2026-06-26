@@ -1,4 +1,11 @@
 ---
+type: raw_article
+title: Çocuklar ve Dijital Ortam (1)
+description: '**Kaynak:** [https://www.digital-futures-for-children.net/events/child-rights-regulation...](https://www.digital-futures-for-children.net/events/child...'
+resource: https://www.digital-futures-for-children.net/events/child-rights-regulation
+tags:
+- raw
+timestamp: '2026-06-06T09:02:50Z'
 source_url: https://www.digital-futures-for-children.net/events/child-rights-regulation
 ingested: 2026-05-21
 category: KURATOR

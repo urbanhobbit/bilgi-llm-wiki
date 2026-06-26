@@ -1,3 +1,14 @@
+---
+type: raw_article
+title: 🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni
+description: '**Tarih:** 8 Mayıs 2026 | **Hazırlayan:** Küratör 🗂️ --- ## 📋 İçindekiler
+  1. [Akademik Kaynaklar](#akademik-kaynaklar) - [Nansen vd. — "From Phreaking...'
+resource: https://arxiv.org/abs/2605.00368
+tags:
+- raw
+timestamp: '2026-05-08T00:00:00Z'
+---
+
 # 🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni
 **Tarih:** 8 Mayıs 2026 | **Hazırlayan:** Küratör 🗂️
 
