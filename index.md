@@ -23,6 +23,8 @@
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 
@@ -54,6 +56,8 @@
 - [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21, 2026]] - Crime, migrants and disinformation: an online banquet for extremists, a real-world danger for societies
 
 ## KURATOR Bulletins
+- [[raw/articles/2026-06-26-nature-polarization.md|Jun 26, 2026]] — Political polarization in low- and middle-income countries (Larreguy & Tiburcio, Nature Hum. Behav.)
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Jun 26, 2026]] — Heart rate synchrony as a marker of real-world social engagement (He et al., PNAS Nexus)
 - [[raw/articles/2026-06-20_cocuk_dijital.md|Jun 20, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
 - [[raw/articles/2026-06-20_akademik_ozel.md|Jun 20, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-06-13_cocuk_dijital.md|Jun 13, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)

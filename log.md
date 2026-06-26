@@ -75,3 +75,11 @@
 - 6 high priority (URGENT), 4 medium priority, 2 low priority links
 - 7 priority-based policy recommendations
 - Comparative international ban table (7 countries)
+
+## [2026-06-26] ingest | Manual Article Ingestion
+- Raw: [[raw/articles/2026-06-26-nature-polarization.md]] — Political polarization in low- and middle-income countries (Larreguy & Tiburcio, Nature Hum. Behav.)
+- Raw: [[raw/articles/2026-06-26-pnas-heart-rate.md]] — Heart rate synchrony as a marker of real-world social engagement (He et al., PNAS Nexus)
+- Concepts: Sosyal Kutuplaşma ve Dijital Platformlar, Fizyolojik Senkronizasyon ve Sosyal Bağlantı
+- Topics: Political polarization in LMICs (echo chambers, biased media, elite rhetoric), physiological synchrony as social engagement marker
+- Source: User-submitted Nature + PNAS Nexus links via Telegram
+- Turkey context: Gençlerde algoritmik kutuplaşma, ekran süresinin fizyolojik etkileri, medya okuryazarlığı
