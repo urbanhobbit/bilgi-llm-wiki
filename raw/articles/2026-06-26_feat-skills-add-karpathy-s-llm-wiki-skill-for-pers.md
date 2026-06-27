@@ -40,3 +40,16 @@ Türkiye'de açık kaynak yapay zeka araçlarının kullanımı her geçen yıl 
 KVKK (6698 sayılı Kanun) kapsamında, yapay zeka modellerinin eğitim verilerinin yönetimi ve kişisel verilerin korunması konuları, LLM Wiki gibi bilgi tabanı sistemlerinde dikkate alınması gereken önemli düzenleyici çerçevelerdir. Kişisel Verileri Koruma Kurulu'nun 2024 yılında yayınladığı yapay zeka ve veri işleme konulu rehber, özellikle büyük dil modellerinin eğitiminde kullanılan verilerin anonimleştirilmesi ve veri minimizasyonu ilkelerine vurgu yapmaktadır. Ayrıca, Dijital Hizmetler Kanunu kapsamında getirilen yükümlülükler, yapay zeka tabanlı sistemlerin şeffaflık ve hesap verebilirlik gereksinimlerini etkilemektedir.
 
 Sonuç olarak, Hermes Agent'a eklenen bu LLM Wiki yeteneği, Türkiye'nin yapay zeka ekosisteminde bilgi yönetimi ve araştırma verimliliği açısından önemli bir araç olarak değerlendirilebilir. Açık kaynak topluluklarının bu tür katkıları teşvik etmesi ve yerelleştirme çalışmaları, Türkiye'nin küresel yapay zeka yarışında rekabetçi konumunu güçlendirecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-02_scrapling_integration.md|Scrapling Integration Report]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-github-archive-download.md|Bilgi LLM Wiki - GitHub Archive Download]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-main.md|Bilgi LLM Wiki - Raw Articles (main)]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-master.md|Bilgi LLM Wiki - Raw Articles (master)]]
+- [[raw/articles/2026-06-26_github-pull-request-5100-nousresearch-hermes-agent.md|GitHub Pull Request #5100 - NousResearch/hermes-ag]]

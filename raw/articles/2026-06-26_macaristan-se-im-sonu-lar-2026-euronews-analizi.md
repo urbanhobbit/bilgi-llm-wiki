@@ -33,3 +33,16 @@ Euronews'un 13 Nisan 2026 tarihli haberinde, Macaristan parlamento seçimlerinin
 ## Turkey Context
 
 Macaristan seçim sonuçları, Türkiye'deki seçim güvenliği tartışmaları açısından önemli karşılaştırmalı veriler sunmaktadır. Türkiye'de Yüksek Seçim Kurulu (YSK) seçim sürecinin yönetilmesinden sorumlu ana kurum iken, Macaristan'da Ulusal Seçim Ofisi benzer görevleri üstlenmektedir. Her iki ülkede de seçim güvenliği konusunda tartışmalar yaşanmakta, özellikle dijital oy verme sistemleri ve seçim sonuçlarının elektronik iletimi güvenlik endişelerini beraberinde getirmektedir. Türkiye'de BTK tarafından uygulanan sosyal medya düzenlemeleri, seçim dönemlerinde dezenformasyonla mücadele kapsamında önem kazanırken, Macaristan'da da benzer şekilde medya kuruluşları üzerinde hükümet etkisi tartışmaları bulunmaktadır. 5651 sayılı İnternet Kanunu kapsamında Türkiye'de uygulanan içerik denetim mekanizmaları, Macaristan'daki medya düzenlemeleriyle paralellikler göstermekle birlikte, Türkiye'deki düzenlemeler daha kapsamlı ve merkezi bir yapıya sahiptir. RTÜK'ün seçim dönemlerinde yayın akışını düzenleme yetkisi, Macaristan'daki Medya Konseyi'nin yetkileriyle karşılaştırılabilir niteliktedir. KVKK ise her iki ülkede de seçim dönemlerinde kişisel verilerin korunması konusunda önemli bir düzenleyici rol üstlenmektedir. Türkiye, Macaristan örneğinden hareketle, seçim güvenliği konusunda daha şeffaf ve uluslararası standartlara uygun politikalar geliştirme fırsatına sahiptir. Özellikle seçim gözlemciliği, bağımsız medya denetimi ve sivil toplum katılımı konularında Macaristan deneyiminden çıkarımlar yapılması mümkündür.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
+- [[raw/articles/2026-06-26_euronews-hungary-election-results-and-analysis.md|Euronews: Hungary Election Results and Analysis]]
+- [[raw/articles/2026-06-26_from-insider-to-rival-how-magyar-became-orb-n-s-mo.md|From insider to rival: How Magyar became Orbán's m]]

@@ -43,3 +43,18 @@ TUIK verilerine gore, Turkiye'de hanelerin %95,5'i internete erisim saglayabilme
 UNICEF Turkiye, cocuklarin dijital ortamda karsilastigi riskler ve bu risklere karsi koruyucu mekanizmalarin gelistirilmesi konusunda calismalar yurutmektedir. UNICEF'in raporlari, Turkiye'deki cocuklarin cevrimici guvenligi konusunda onemli veriler sunmaktadir. Yerel arastirmalar da Turkiye'de cocuklarin sosyal medya kullanim aliskanliklari ve dijital okuryazarlik seviyeleri uzerine onemli bulgular ortaya koymaktadir.
 
 Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak icin kapsamli bir ulusal strateji gelistirilmesi gerekmektedir. Bu strateji, KVKK ile uyumlu veri koruma politikalari, MEB'in dijital okuryazarlik mustakileri, BTK'nin icerik denetleme mekanizmalari ve Aile Bakanligi'nin ebeveyn rehberligi programlarini entegre etmelidir. Ayrica, sosyal medya platformlarinin cocuk kullanicilari icin ozel guvenlik ayarlari ve yas dogrulama sistemleri gelistirmesi tesvik edilmelidir. Turkiye, Avrupa Birligi Dijital Hizmetler Kanunu (DSA) ile uyum surecinde, cocuk haklari temelli bir dijital politika cercevesi olusturma firsatina sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_3908887.md|3908887]]
+- [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]
+- [[raw/articles/2026-06-26_aa-okul-sald-r-lar-soru-turmas-ve-i-erik-payla-mla.md|AA: Okul Saldırıları Soruşturması ve İçerik Paylaş]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887.md|Article from www.aa.com.tr: 3908887]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3909800.md|Article from www.aa.com.tr: 3909800]]

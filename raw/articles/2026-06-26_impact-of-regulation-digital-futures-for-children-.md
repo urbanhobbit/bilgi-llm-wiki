@@ -39,3 +39,20 @@ LSE bünyesindeki Digital Futures for Children (DFC) merkezinin yürüttüğü b
 ## Turkey Context
 
 LSE DFC merkezinin bu kapsamlı düzenleme etki analizi, Türkiye'nin çocuk çevrimiçi güvenlik politikaları için önemli dersler içermektedir. UK'in Online Safety Act (OSA) ve AB'nin Digital Services Act (DSA) gibi kapsamlı düzenlemeleri karşısında, Türkiye'nin çocukları dijital ortamda korumaya yönelik mevzuatı oldukça dağınık ve parçalıdır. 5651 sayılı Kanun, 6698 sayılı KVKK, 5809 sayılı Elektronik Haberleşme Kanunu ve 7253 sayılı Sosyal Medya Yasası, çocuk korumasına ilişkin hükümler içermekle birlikte, UK'deki gibi entegre bir çocuk çevrimiçi güvenlik yasası bulunmamaktadır. Araştırmanın 70 platformu kapsayan analiz yöntemi, Türkiye'de faaliyet gösteren sosyal medya platformlarının çocuk güvenliği uygulamalarının bağımsız bir denetim mekanizmasıyla değerlendirilmesi gerektiğini göstermektedir. BTK'nın düzenleyici kapasitesi ve bağımsızlığı, UK'deki Ofcom benzeri bir yapıya kıyasla sınırlı kalmaktadır. MEB, Aile Bakanlığı ve BTK arasında koordinasyonu sağlayacak bir kurumlararası yapının oluşturulması, DFC raporunun ortaya koyduğu bütüncül yaklaşımın Türkiye'de uygulanabilmesi için kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

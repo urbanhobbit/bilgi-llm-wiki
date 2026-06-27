@@ -32,3 +32,16 @@ This content covers current developments in geopolitics, technology, and public 
 ## Turkey Context
 
 Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan etkilenen ülkelerin başında gelmektedir. Dışişleri Bakanlığı, bölgesel krizlerde aktif diplomasi yürütürken, değişen küresel ticaret dinamiklerine uyum sağlanmaya çalışılmaktadır. Türkiye'nin çok boyutlu dış politikası, özellikle Ukrayna-Rusya savaşı, Orta Doğu'daki güç dengeleri ve Doğu Akdeniz'deki enerji rekabeti bağlamında önemli sınamalarla karşı karşıyadır. BTK'nın sosyal medya ve internet düzenlemeleri, ifade özgürlüğü ile ulusal güvenlik arasındaki hassas dengeyi yansıtmaktadır. Özellikle seçim dönemlerinde dezenformasyonla mücadele kapsamında alınan tedbirler, hem yurt içinde hem de uluslararası alanda tartışma konusu olmaktadır. TÜİK verilerine göre enflasyon ve istihdam oranları, ekonominin kırılganlıklarını ortaya koymaktadır. Türkiye'nin yapısal reformları hızlandırması, yargı bağımsızlığını güçlendirmesi ve dış politikada öngörülebilirliği artırması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
+- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
+- [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-im-sonu-lar-muhalefet-zaferi-ve.md|Macaristan 2026 Seçim Sonuçları: Muhalefet Zaferi ]]
+- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-telex-hu.md|Macaristan Seçim Sonuçları - Telex.hu]]

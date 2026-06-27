@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-05-03T00:00:00Z'
 ---
 
+## İçindekiler 1. [Dijital Kısıtlamalar ve Yaş Sınırları](#1-dijital-kısıtla...'
+resource: https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/
+tags:
+- raw
+timestamp: '2026-05-03T00:00:00Z'
+---
+
 # 🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Taslağı
 **Tarih:** 3 Mayıs 2026 Pazar | **Tarama:** 3 Mayıs 2026, 08:00 (TSİ)
 
@@ -207,3 +214,34 @@ Yazı genel okuyucu kitlesine hitap eden, akademik derinlikten yoksun bir kamu b
 | 6 | UNICEF Innocenti — BIC Raporu | Akademik Politika | Katılım/Vatandaşlık |
 | 7 | ELTE PPK — Digital Parenting | Akademik (Psikoloji) | Deneyimler |
 | 8 | ICO — Switched on to Privacy | Resmî Araştırma | Deneyimler |
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/techcrunch-com.md|Techcrunch Com]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
+- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
+- [[raw/articles/2026-06-26_social-media-ban-children.md|Social Media Ban Children ]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

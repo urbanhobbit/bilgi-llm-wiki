@@ -33,3 +33,23 @@ BBC News reports on Greece's plan to ban social media for children under 15, mar
 ## Turkey Context
 
 Bu social media konulu makale, Türkiye'de çocukların dijital haklarına ilişkin politika geliştirme çalışmaları için önemli bir referans kaynağıdır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunmasına yönelik hükümler bulunmakla birlikte, bu alandaki düzenlemelerin günümüz dijital ekosisteminin ihtiyaçlarını karşılayacak şekilde güncellenmesi gerekmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri kapsamında çocukların zararlı içeriklerden korunmasına yönelik çalışmalar yürütmektedir. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı, öğrencileri dijital ortamlarda karşılaşabilecekleri risklere karşı bilinçlendirmeyi hedeflemektedir. Türkiye İstatistik Kurumu (TÜİK) verileri, çocukların internet ve sosyal medya kullanımında önemli artışlar olduğunu göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları devam etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi risklerden korunması için kapsamlı bir ulusal strateji geliştirilmesi gerektiğini vurgulamaktadır. Türkiye'nin bu alandaki uluslararası gelişmeleri yakından takip etmesi ve kendi sosyo-kültürel bağlamına uygun düzenlemeleri hayata geçirmesi önem arz etmektedir. Bu kapsamda, çocukların dijital haklarını koruyan, ancak ifade özgürlüğünü ve bilgiye erişim hakkını orantısız şekilde kısıtlamayan dengeli bir düzenleyici çerçeve oluşturulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

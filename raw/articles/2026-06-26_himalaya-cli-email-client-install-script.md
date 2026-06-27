@@ -33,3 +33,11 @@ Bu belge, Himalaya CLI e-posta istemcisinin kurulum betiğidir (install.sh). Him
 ## Turkey Context
 
 Himalaya CLI e-posta istemcisi gibi açık kaynak araçlar, Türkiye'deki geliştirici topluluğu ve sistem yöneticileri tarafından kullanılabilmektedir. Türkiye'de açık kaynak yazılım kullanımı, Kamuda Açık Kaynak Kodlu Yazılım Politikası kapsamında teşvik edilmektedir. Dijital Dönüşüm Ofisi'nin açık kaynak stratejisi ve TÜBİTAK'ın açık kaynak destek programları, yerli yazılım geliştiricilerin açık kaynak araçları benimsemesini kolaylaştırmaktadır. Himalaya'nın e-posta güvenliği (IMAP/SMTP over TLS) ve gizlilik odaklı yapısı, KVKK uyumu açısından kurumsal kullanıcılar için avantaj sağlayabilir. Bu kurulum betiği, doğrudan araştırma veya çocuk güvenliği ile ilgili olmadığından GENEL kategorisinde değerlendirilmiş olup, rutin teknoloji izleme kapsamında kaydedilmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_hermes-agent-llm-wiki-skill-documentation-skill-md.md|Hermes Agent - LLM Wiki Skill Documentation (SKILL]]

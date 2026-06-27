@@ -33,3 +33,25 @@ This Guardian article explores the evolving landscape of children's digital righ
 ## Turkey Context
 
 Çocukların dijital hakları ve çevrimiçi güvenliği konusundaki uluslararası gelişmeler, Türkiye'deki düzenleyici çerçeve açısından önemli referans noktaları sunmaktadır. Türkiye'de 5651 sayılı İnternet Kanunu çocukların zararlı içeriklerden korunmasına yönelik hükümler içermekle birlikte, kapsamlı bir çocuk odaklı dijital düzenleme henüz bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunması konusunda ulusal bir eylem planı üzerinde çalışmaktadır. BTK, çocuklar için güvenli internet hizmeti sunmakta olup, ebeveynlere filtreleme ve içerik kontrolü imkanı sağlamaktadır. Milli Eğitim Bakanlığı, dijital okuryazarlık ve çevrimiçi güvenlik konularını müfredata entegre etme çalışmalarını sürdürmektedir. KVKK, çocukların kişisel verilerinin korunması konusunda özel düzenlemeler getirmiş olup, 18 yaş altı bireylerin verilerinin işlenmesinde ebeveyn onamı zorunluluğu bulunmaktadır. Türkiye'de sosyal medya platformlarının çocuk kullanıcılara yönelik uygulamaları, son dönemde kamuoyunun gündeminde yer almaktadır. 15 yaş altı sosyal medya kullanımının yasaklanması tartışmaları, Türkiye'de dijital düzenlemelerin çocuk odaklı olarak güncellenmesi gerektiğini göstermektedir. Türkiye'de çocukların dijital hakları konusunda farkındalık artarken, akademik araştırmalar ve sivil toplum kuruluşlarının çalışmaları bu alandaki politika geliştirme süreçlerine katkı sağlamaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

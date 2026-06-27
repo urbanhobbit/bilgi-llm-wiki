@@ -33,3 +33,24 @@ Yunanistan, 15 yaş altı çocuklar için sosyal medya kullanımını yasaklayan
 ## Turkey Context
 
 Yunanistan'ın 15 yaş altı çocuklar için sosyal medya yasağı planı, Türkiye'nin dijital düzenleme politikaları açısından önemli ve kapsamlı bir karşılaştırma fırsatı sunmaktadır. Türkiye'de de çocukların sosyal medya kullanımına ilişkin tartışmalar uzun süredir devam etmekte, ancak henüz Yunanistan'daki kadar kapsamlı ve sert bir yasal düzenleme hayata geçirilmemiştir. Türkiye'de 2021 yılında yürürlüğe giren sosyal medya yasası daha çok platformların Türkiye'de yasal temsilci bulundurması, içerik kaldırma ve kullanıcı verilerinin yerel sunucularda depolanması gibi konulara odaklanmış, çocukların korunmasına yönelik spesifik ve yaş bazlı bir yasak getirmemiştir. Bununla birlikte, Türkiye'de Bilgi Teknolojileri ve İletişim Kurumu (BTK) ve Aile ve Sosyal Hizmetler Bakanlığı çocukların dijital güvenliği konusunda çeşitli farkındalık kampanyaları ve eğitim programları yürütmekte, ancak bu çabalar yasal yasaklardan ziyade bilinçlendirme ve rehberlik odaklı kalmaktadır. Yunanistan'ın bu hamlesi, Türkiye'deki politika yapıcılar için de önemli bir referans noktası ve emsal oluşturabilir. Özellikle son yıllarda Türkiye'de çocuklar arasında sosyal medya bağımlılığı, siber zorbalık, dijital mahremiyet ihlalleri ve çevrimiçi istismar gibi sorunların endişe verici şekilde artması, daha kapsamlı ve etkili düzenlemelerin gerekliliğini açıkça ortaya koymaktadır. Ancak Türkiye'nin mevcut siyasi ikliminde, sosyal medya düzenlemeleri genellikle ifade özgürlüğü, muhalif seslerin kısıtlanması ve iktidarın dijital alandaki denetimini artırma bağlamında tartışılmakta, çocuk koruma odaklı bir yaklaşım çoğu zaman ikinci planda kalmaktadır. Oysa Yunanistan örneği, çocukların dijital dünyada korunmasının günlük siyasi tartışmaların ötesinde, evrensel bir çocuk hakları ve kamu sağlığı meselesi olarak ele alınabileceğini göstermektedir. Türkiye'nin dijital okuryazarlık altyapısını güçlendirerek, okul müfredatına dijital güvenlik derslerini entegre ederek ve yaş bazlı erişim kontrollerini hayata geçirerek, Yunanistan'ın bu cesur adımını yakından takip etmesi ve kendi sosyokültürel koşullarına uyarlaması beklenebilir. Bununla birlikte, Türkiye'deki düzenleyici kurumların bağımsızlığı, uygulama kapasitesi ve dijital haklar konusundaki toplumsal hassasiyetler göz önüne alındığında, bu tür bir yasağın uygulanabilirliği ve olası yan etkileri dikkatle değerlendirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-reuters-com.md|Www Reuters Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect.md|Article from www.reuters.com: greece expect]]
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expected-annou.md|Article from www.reuters.com: greece expected anno]]
+- [[raw/articles/2026-06-26_genel-reuters-com.md|GENEL - reuters.com]]
+- [[raw/articles/2026-06-26_greece-expect.md|Greece Expect]]
+- [[raw/articles/2026-06-26_greece-expected-announce-social-m.md|Greece Expected Announce Social M]]

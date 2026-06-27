@@ -32,3 +32,24 @@ priority: high
 ## Turkey Context
 
 Türkiye açısından değerlendirildiğinde, 5rights Vakfı'nın çocukların dijital haklarına yönelik çalışmaları, özellikle 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve Dijital Hizmetler Kanunu tartışmaları bağlamında büyük önem taşımaktadır. Türkiye'de çocukların çevrimiçi ortamda korunmasına yönelik mevcut düzenlemeler, uluslararası standartlarla uyumlu hale getirilme sürecindedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık müfredatını güncelleme çalışmalarını sürdürürken, Aile ve Sosyal Hizmetler Bakanlığı da çocukların çevrimiçi risklerden korunmasına yönelik farkındalık programları yürütmektedir. TÜİK verilerine göre Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranı %82,7'ye ulaşmış durumdadır. Bu oran, dijital düzenlemelerin aciliyetini ortaya koymaktadır. UNICEF Türkiye raporları, çocukların çevrimiçi ortamda karşılaştığı risklere dikkat çekmekte ve kapsamlı bir ulusal strateji oluşturulması çağrısında bulunmaktadır. BTK'nın (Bilgi Teknolojileri ve İletişim Kurumu) bu alandaki düzenleyici rolü, özellikle sosyal medya platformlarının çocuk kullanıcılara yönelik politikalarının denetlenmesi açısından kritiktir. Türkiye'nin AB Dijital Hizmetler Yasası ile uyumlu bir Dijital Hizmetler Kanunu hazırlığı, çocukların çevrimiçi güvenliğini merkeze alan bir yaklaşımla şekillendirilmelidir. Bu bağlamda, 5rights modelinin temel prensipleri olan yaşa uygun tasarım, şeffaflık ve hesap verebilirlik ilkeleri, Türkiye'nin dijital düzenleme çerçevesine entegre edilebilir. Ayrıca, yerel araştırmaların ve TÜİK istatistiklerinin politika yapım sürecinde daha etkin kullanılması, kanıta dayalı düzenlemelerin geliştirilmesine katkı sağlayacaktır. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

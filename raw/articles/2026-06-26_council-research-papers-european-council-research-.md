@@ -34,3 +34,20 @@ The Council of the European Union's research papers repository serves as a centr
 ## Turkey Context
 
 Avrupa Birliği Konseyi'nin araştırma yayınları, Türkiye'nin AB uyum sürecinde dijital düzenlemeler açısından kritik bir referans kaynağıdır. Türkiye'nin AB müktesebatına uyum çalışmaları kapsamında, Dijital Hizmetler Kanunu (7412 sayılı) ve Kişisel Verilerin Korunması Kanunu (6698 sayılı) gibi düzenlemeler, AB'nin DSA ve GDPR düzenlemeleriyle uyumlu hale getirilmeye çalışılmaktadır. AB Konseyi'nin çocukların çevrimiçi güvenliği, platform sorumluluğu ve yapay zeka düzenlemesi konularındaki araştırma raporları, Türkiye'nin kendi ulusal düzenlemelerini şekillendirirken referans aldığı önemli kaynaklardır. BTK ve KVKK Kurumu'nun AB düzenlemeleriyle uyum çalışmaları, özellikle sınır ötesi veri akışı ve platform denetimi konularında Konsey araştırmalarından yararlanmaktadır. AB Konseyi'nin DSA ve GDPR etki değerlendirmeleri, Türkiye'nin dijital düzenleme altyapısını güçlendirirken takip edebileceği bir yol haritası sunmaktadır. Türkiye'de çocuk hakları ve dijital güvenlik alanında yapılacak düzenlemelerin AB standartlarıyla uyumlu olması, uluslararası rekabetçilik ve yatırım ortamı açısından kritik önem taşımaktadır. Türkiye'nin AB dijital tek pazar entegrasyonu sürecinde, Konsey araştırmaları hem teknik standartlar hem de düzenleyici çerçeve açısından yol gösterici niteliktedir. Türkiye'nin AB ile dijital diyalog mekanizmaları kapsamında, Konsey araştırma yayınlarının izlenmesi ve ulusal düzenlemelere entegre edilmesi önerilmektedir. AB Konseyi'nin çocuk hakları ve dijital ortamda çocuk korumasına ilişkin yayınları, Türkiye'deki Aile ve Sosyal Hizmetler Bakanlığı ve MEB politikaları için önemli bir referans çerçevesi oluşturmaktadır. Türkiye'de Dijital Hizmetler Kanunu'nun ikincil mevzuat çalışmaları, AB Konseyi'nin DSA uygulama rehberlerinden ve çocuk hakları etki değerlendirmesi metodolojilerinden yararlanmaktadır. Türkiye'nin AB ile dijital diyalog mekanizmaları kapsamında, Konsey araştırma yayınlarının düzenli olarak izlenmesi ve ulusal düzenlemelere entegre edilmesi, uyum sürecinin hızlandırılmasına katkı sağlayacaktır. AB Konseyi'nin araştırma yayınları, Türkiye'deki düzenleyici kurumlar için hem teknik standartlar hem de politika çerçevesi açısından yol gösterici niteliktedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
+- [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]
+- [[raw/articles/2026-06-26_council-of-the-eu-research-papers.md|Council of the EU - Research Papers]]
+- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
+- [[raw/articles/2026-06-26_eu-council-research-papers-european-policy-researc.md|EU Council Research Papers: European Policy Resear]]

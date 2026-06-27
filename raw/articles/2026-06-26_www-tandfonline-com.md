@@ -32,3 +32,23 @@ Information, Communication & Society dergisinde 2026 yılında yayımlanan bu ak
 ## Turkey Context
 
 Bu tür akademik çalışmalar, Türkiye'de dijital iletişim ve yapay zeka politikalarının şekillendirilmesinde önemli bir rehber rolü oynamaktadır. Türkiye'de YÖK'ün koordinasyonunda yürütülen yapay zeka araştırmalarının, uluslararası akademik literatürle entegrasyonu ve bu tür çalışmalardan elde edilen bulguların ulusal politikalara yansıtılması büyük önem taşımaktadır. TÜBİTAK'ın desteklediği bilimsel araştırma projelerinin, dijital iletişim ve yapay zeka etiği alanlarına daha fazla kaynak ayırması gerekmektedir. 2022 yılında yayımlanan Ulusal Yapay Zeka Stratejisi'nin güncellenmesi sürecinde, bu tür akademik çalışmaların bulgularının dikkate alınması ve stratejinin etik boyutunun güçlendirilmesi önerilmektedir. KVKK kapsamında değerlendirildiğinde, yapay zeka sistemlerinin veri işleme süreçlerinde şeffaflık ve hesap verebilirlik ilkelerinin güçlendirilmesi, Türk vatandaşlarının dijital haklarının korunması açısından kritiktir. Kişisel Verileri Koruma Kurulu'nun yapay zeka sistemlerinin veri işleme faaliyetlerine yönelik rehberler yayımlaması ve denetim mekanizmalarını geliştirmesi gerekmektedir. MEB'in dijital okuryazarlık müfredatının, yapay zeka okuryazarlığını da kapsayacak şekilde güncellenmesi ve öğrencilerin algoritmik içerikleri eleştirel bir gözle değerlendirebilme becerilerinin geliştirilmesi gerekmektedir. Aile Bakanlığı'nın çocukların çevrimiçi güvenliği politikalarının, akademik araştırmaların bulguları ışığında sürekli güncellenmesi ve yapay zeka kaynaklı riskleri de kapsayacak şekilde genişletilmesi elzemdir. BTK'nın internet düzenlemeleri konusunda bilimsel temellere dayalı karar alma süreçlerini güçlendirmesi ve akademiyle düzenli işbirliği mekanizmaları kurması önerilmektedir. Ayrıca, Türk üniversitelerinin Information, Communication & Society gibi prestijli uluslararası dergilerde yayın yapma kapasitesinin artırılması, Türkiye'nin bu alandaki küresel akademik tartışmalara katkısını güçlendirecek ve ulusal politika yapıcıların güncel akademik bilgiye erişimini kolaylaştıracaktır. YÖK'ün bu tür yayınları teşvik eden özel burs ve ödül programları oluşturması da faydalı olacaktır. Dijital dönüşüm çağında Türkiye'nin yapay zeka politikalarının bilimsel temellere dayandırılması, uluslararası standartlarla uyumlu hale getirilmesi ve etik ilkeler çerçevesinde şekillendirilmesi, hem toplumsal fayda hem de ekonomik rekabetçilik açısından stratejik bir öncelik olarak değerlendirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
+- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]

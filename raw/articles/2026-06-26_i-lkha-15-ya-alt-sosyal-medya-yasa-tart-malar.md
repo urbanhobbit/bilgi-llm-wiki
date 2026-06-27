@@ -33,3 +33,18 @@ priority: high
 ## Turkey Context
 
 15 yaş altı sosyal medya yasağı tartışmaları, Türkiye'de çocukların dijital ortamlarda korunması konusundaki politika geliştirme süreçlerinin bir parçasıdır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital güvenliği için kapsamlı bir eylem planı üzerinde çalışmaktadır. BTK'nın Güvenli İnternet Hizmeti, çocuklar için filtreleme ve içerik kontrolü imkanı sunmaktadır. Ancak, yasak yaklaşımının etkinliği ve uygulanabilirliği konusunda uzmanlar arasında görüş ayrılıkları bulunmaktadır. Dijital okuryazarlık eğitimi, yasaklayıcı önlemlere alternatif olarak önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
+- [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]
+- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
+- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
+- [[raw/articles/2026-06-26_kurator-ilkha-com.md|KURATOR - ilkha.com]]

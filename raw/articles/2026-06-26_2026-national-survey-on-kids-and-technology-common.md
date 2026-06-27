@@ -33,3 +33,24 @@ Common Sense Media's 2026 National Survey on Kids and Technology provides compre
 ## Turkey Context
 
 Bu commonsensemedia konulu makale, Türkiye'de çocukların dijital haklarına ilişkin politika geliştirme çalışmaları için önemli bir referans kaynağıdır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunmasına yönelik hükümler bulunmakla birlikte, bu alandaki düzenlemelerin günümüz dijital ekosisteminin ihtiyaçlarını karşılayacak şekilde güncellenmesi gerekmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri kapsamında çocukların zararlı içeriklerden korunmasına yönelik çalışmalar yürütmektedir. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı, öğrencileri dijital ortamlarda karşılaşabilecekleri risklere karşı bilinçlendirmeyi hedeflemektedir. Türkiye İstatistik Kurumu (TÜİK) verileri, çocukların internet ve sosyal medya kullanımında önemli artışlar olduğunu göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları devam etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi risklerden korunması için kapsamlı bir ulusal strateji geliştirilmesi gerektiğini vurgulamaktadır. Türkiye'nin bu alandaki uluslararası gelişmeleri yakından takip etmesi ve kendi sosyo-kültürel bağlamına uygun düzenlemeleri hayata geçirmesi önem arz etmektedir. Bu kapsamda, çocukların dijital haklarını koruyan, ancak ifade özgürlüğünü ve bilgiye erişim hakkını orantısız şekilde kısıtlamayan dengeli bir düzenleyici çerçeve oluşturulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

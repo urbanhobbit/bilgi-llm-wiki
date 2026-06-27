@@ -36,3 +36,27 @@ Türkiye'de çocukların dijital güvenliği ve sosyal medya koruması konusu, K
 Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Koruma Stratejisi kapsamında, dijital ortamda çocukların maruz kaldığı risklere karşı farkındalık çalışmaları yürütülmektedir. UNICEF Türkiye'nin raporları, Türkiye'de çocukların dijital hakları konusunda kapsamlı bir politika çerçevesine ihtiyaç olduğunu vurgulamaktadır. Sağlık Bakanlığı'nın Ergen Ruh Sağlığı Stratejisi (2024-2028), dijital detoks programlarını ve ekran süresi yönetimini önermektedir. TÜBİTAK bünyesinde yürütülen araştırma projeleri, çocukların dijital davranışları ve çevrimiçi risk algıları üzerine veri sağlamaktadır. Bilgi Teknolojileri ve İletişim Kurumu'nun (BTK) internet güvenliği politikaları, çocukların korunmasına yönelik filtreleme ve izleme mekanizmalarını içermektedir.
 
 Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benzer düzenleme çabaları için önemli bir referans noktası oluşturmaktadır. Türkiye'nin Avrupa Birliği uyum sürecinde, çocukların dijital ortamda korunmasına yönelik standartları AB mevzuatı ile uyumlu hale getirmesi beklenmektedir. Türkiye'de çocukların dijital hakları konusunda çok aktörlü bir yaklaşım benimsenmeli, sivil toplum kuruluşları, akademik kurumlar ve özel sektör sürece dahil edilmelidir. Dijital okuryazarlık eğitiminin MEB müfredatına entegrasyonu güçlendirilmeli, ebeveyn farkındalık programları yaygınlaştırılmalı ve çocuklar için güvenli dijital alanlar oluşturulması teşvik edilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
+- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
+- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
+- [[raw/articles/2026-06-26_massachusetts-house-passes-youth-social-media-ban-.md|Massachusetts House Passes Youth Social Media Ban ]]
+- [[raw/articles/2026-06-26_youth-social-media-ban-passes-state-legislature-ov.md|Youth Social Media Ban Passes State Legislature Ov]]

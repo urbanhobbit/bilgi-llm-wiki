@@ -33,3 +33,16 @@ Euronews reports on the dramatic political transition in Hungary as incoming Pri
 ## Turkey Context
 
 Euronews'in Péter Magyar ve Macaristan'daki siyasi dönüşüm haberleri, Türkiye'deki siyasi geçiş süreçleri ve hukukun üstünlüğü tartışmaları açısından önemli bir referans noktasıdır. Magyar'ın Orbán döneminde kurumlara yerleştirilen siyasi atanmışların görevden alınması talebi, Türkiye'de de kamu yönetiminde liyakat ve kurumsal bağımsızlık tartışmalarını akla getirmektedir. Orbán'ın 14 yıllık iktidarı boyunca Macaristan Anayasa Mahkemesi, yargı organları, medya düzenleyici kuruluşları ve kamu iktisadi teşebbüsleri iktidara yakın isimlerle doldurulmuş, benzer bir süreç Türkiye'de de çeşitli dönemlerde tartışma konusu olmuştur. Macaristan'ın AB ile olan hukukun üstünlüğü ihtilafları, Türkiye'nin AB ile ilişkilerinde karşılaştığı benzer eleştiriler açısından önemli karşılaştırmalı dersler sunmaktadır. Türkiye'de Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında kamu kurumlarının ve siyasi partilerin veri işleme faaliyetleri denetlenmekte olup, siyasi atamaların veri güvenliği ve mahremiyet üzerindeki etkileri değerlendirilmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), medya ve iletişim alanında düzenleyici kurum olarak bağımsızlığı ve tarafsızlığı tartışılan kurumlar arasında yer almaktadır. Milli Eğitim Bakanlığı (MEB), eğitim müfredatının siyasi etkilerden arındırılması konusunda Macaristan'daki reform sürecini yakından takip etmektedir. Magyar'ın AB fonlarının serbest bırakılması için üstlendiği yargı reformu taahhütleri, Türkiye'nin AB müzakerelerinde referans alabileceği somut bir reform takvimi sunmaktadır. Özellikle yargı bağımsızlığı, ifade özgürlüğü ve medya çoğulculuğu alanlarında atılacak adımlar, Türkiye'deki benzer reform tartışmaları için model teşkil edebilir. Ayrıca, Macaristan seçim sürecinde sosyal medya platformlarında dezenformasyonla mücadele kapsamında uygulanan yöntemler, Türkiye'de 5651 sayılı Kanun ve BTK düzenlemeleri çerçevesinde yürütülen çalışmalar için önemli içgörüler sağlamaktadır. Macaristan'da medya kuruluşlarının bağımsızlığının yeniden tesis edilmesi süreci, Türkiye'de medya özgürlüğü ve RTÜK'ün rolü konusundaki tartışmalara da ışık tutabilecek niteliktedir. Yeni Macaristan hükümetinin dış politikada benimseyeceği pozisyonlar, özellikle Türkiye-AB ilişkileri, enerji işbirliği ve NATO genişlemesi konularında Türkiye'nin çıkarlarını doğrudan etkileyecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
+- [[raw/articles/2026-06-26_euronews-hungary-election-results-and-analysis.md|Euronews: Hungary Election Results and Analysis]]
+- [[raw/articles/2026-06-26_from-insider-to-rival-how-magyar-became-orb-n-s-mo.md|From insider to rival: How Magyar became Orbán's m]]

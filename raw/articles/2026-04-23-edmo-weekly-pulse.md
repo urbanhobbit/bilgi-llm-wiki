@@ -24,3 +24,18 @@ AI-generated slop content flooding platforms and its impact on democratic proces
 
 ---
 _Source: [EDMO Weekly Pulse Archive](https://edmo.eu/pulse/)_
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/edmo.md|Edmo]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|EDMO Weekly Pulse - March 26, 2026]]
+- [[raw/articles/2026-04-01-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 1, 2026]]
+- [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
+- [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]
+- [[raw/articles/2026-05-07-edmo-weekly-pulse.md|EDMO Weekly Pulse - May 7, 2026]]

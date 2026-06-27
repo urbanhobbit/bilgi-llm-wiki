@@ -35,3 +35,14 @@ Türkiye'de akademik araştırma kültürü, duyguların araştırma sürecindek
 - Özellikle hassas topluluk araştırmalarında geçerli
 - Türkiye'de araştırmacı refahı ihmal ediliyor
 - Duyguyu metodolojik kaynak olarak görmek gerekli
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]

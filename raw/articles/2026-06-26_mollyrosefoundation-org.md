@@ -33,3 +33,22 @@ Molly Rose Vakfı tarafından Nisan 2026'da yayımlanan bu araştırma raporu, A
 ## Turkey Context
 
 Avustralya'nın 16 yaş altı çocuklara sosyal medya yasağı getirmesi, Türkiye'deki dijital çocuk koruma politikaları açısından önemli çıkarımlar sunmaktadır. Türkiye'de 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunmasına yönelik düzenlemeler bulunmakla birlikte, bu düzenlemeler sosyal medya kullanımını doğrudan sınırlandırmamaktadır. Dijital Hizmetler Kanunu çerçevesinde sosyal medya platformlarının çocuk kullanıcılara karşı sorumlulukları netleştirilmelidir. Türkiye'de Milli Eğitim Bakanlığı (MEB), Bilgi Teknolojileri ve İletişim Kurumu (BTK) ve Aile ve Sosyal Hizmetler Bakanlığı'nın koordineli bir şekilde çalışarak çocukların dijital güvenliğini sağlaması gerekmektedir. TÜİK verilerine göre, Türkiye'de 6-15 yaş arası çocukların yaklaşık %70'i düzenli olarak internet kullanmakta ve büyük çoğunluğu sosyal medya platformlarında aktif yer almaktadır. UNICEF Türkiye raporları, çocukların dijital platformlarda karşılaştıkları risklerin giderek arttığını ve mevcut koruma mekanizmalarının yetersiz kaldığını göstermektedir. Türkiye'de yaş doğrulama sistemlerinin etkinliği tartışmalıdır ve mevcut uygulamalar genellikle çocukların beyanına dayanmaktadır. Avustralya modelinden ilham alarak Türkiye'de de benzer bir yaş sınırlaması getirilmesi düşünülebilir, ancak bu düzenlemenin anayasal çerçevede ifade özgürlüğü ve bilgiye erişim hakkı ile dengelenmesi gerekmektedir. MEB'in dijital okuryazarlık programları kapsamında yürüttüğü Güvenli İnternet Hizmeti ve EBA platformu üzerinden sunulan dijital vatandaşlık eğitimleri, çocukların bilinçli sosyal medya kullanımını teşvik etmekte ancak bu programların kapsamı ve etkinliği daha da genişletilmelidir. BTK'nın 5651 sayılı Kanun kapsamındaki düzenleyici rolü, Avustralya modeliyle karşılaştırıldığında daha çok içerik denetimi odaklı olup, yaş doğrulama ve platform sorumluluğu konularında yeni düzenlemelere ihtiyaç duyulmaktadır. Avrupa Birliği'nin Dijital Hizmetler Yasası (DSA), çocuk kullanıcıların korunmasında yaş doğrulama, risk değerlendirmesi ve şeffaflık raporlaması gibi kapsamlı yükümlülükler getirirken, Türkiye'nin mevcut düzenlemeleri bu standartların oldukça gerisinde kalmaktadır. Politika önerisi olarak, Türkiye'nin öncelikle kapsamlı bir dijital okuryazarlık müfredatı oluşturması, ebeveyn bilinçlendirme programları geliştirmesi ve sosyal medya platformlarının çocuk kullanıcılara yönelik tasarım değişikliklerine zorlanması önerilmektedir. Ayrıca, BTK bünyesinde çocuk dijital güvenliği birimi kurulması ve bu birimin düzenli denetimler yapması sağlanmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]
+- [[raw/articles/2026-06-26_australia-social-media-ban-research-briefing-molly.md|Australia Social Media Ban Research Briefing - Mol]]
+- [[raw/articles/2026-06-26_kurator-mollyrosefoundation-org.md|KURATOR - mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_molly-rose-foundation-australia-social-media-ban-r.md|Molly Rose Foundation: Australia Social Media Ban ]]
+- [[raw/articles/2026-06-26_mrf-australia-social-media-ban-research-b.md|Mrf Australia Social Media Ban Research B]]

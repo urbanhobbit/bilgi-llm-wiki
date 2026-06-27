@@ -32,3 +32,22 @@ priority: high
 ## Turkey Context
 
 5Rights'ın yapay zeka ve çocuk hakları raporu, Türkiye'de henüz yeterince ele alınmayan kritik bir alana ışık tutmaktadır. Türkiye'de yapay zeka stratejisi ve ulusal yapay zeka politikaları geliştirilmekle birlikte, bu politikaların çocuk hakları boyutu ihmal edilmektedir. KVKK kapsamında otomatik karar alma sistemlerine ilişkin düzenlemeler bulunsa da, bu düzenlemeler çocuklara özgü korumalar içermemektedir. MEB'in dijital eğitim politikaları yapay zeka okuryazarlığını kapsayacak şekilde henüz güncellenmemiştir. BTK'nın yapay zeka düzenlemeleri konusunda henüz somut bir adımı bulunmamaktadır. Türkiye'de çocukların yapay zeka araçlarına erişimi ve bu araçların çocuklar üzerindeki etkilerine ilişkin kapsamlı bir araştırma bulunmamaktadır. TÜİK verileri, gençlerin yapay zeka uygulamalarını yoğun olarak kullandığını göstermekte ancak bu kullanımın riskleri ve korunma mekanizmaları hakkında veri sağlamamaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk koruma politikaları, yapay zeka kaynaklı riskleri henüz kapsamamaktadır. UNICEF Türkiye'nin çocuk hakları raporları, yapay zeka teknolojilerinin çocuklar üzerindeki etkilerinin araştırılması çağrısında bulunmaktadır. 5Rights'ın bu raporu, Türkiye'deki politika yapıcılar için yapay zeka düzenlemelerinde çocuk haklarının merkeze alınması gerektiğini gösteren önemli bir referans belgedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-children-s-digital-rights-and-a.md|5Rights Foundation - Children's Digital Rights and]]
+- [[raw/articles/2026-06-26_article-from-5rights-org-childrens-digital-rights-.md|Article from 5rights.org: childrens digital rights]]
+- [[raw/articles/2026-06-26_children-s-digital-rights-and-ai-report-2026-5righ.md|Children's Digital Rights and AI Report 2026 - 5ri]]
+- [[raw/articles/2026-06-26_children-s-digital-rights-and-artificial-intellige.md|Children's Digital Rights and Artificial Intellige]]
+- [[raw/articles/2026-06-26_children-s-digital-rights-in-the-age-of-ai-5rights.md|Children's Digital Rights in the Age of AI — 5Righ]]

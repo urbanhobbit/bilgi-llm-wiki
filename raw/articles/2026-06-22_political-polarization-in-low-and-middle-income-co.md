@@ -39,3 +39,18 @@ Nature Human Behaviour dergisinde yayımlanan bu perspektif makalesi, düşük v
 ## Turkey Context
 
 Bu makale, Türkiye'deki artan siyasi kutuplaşma ve bunun gençler/çocuklar üzerindeki etkileri açısından kritik öneme sahiptir. Türkiye'de özellikle sosyal medya platformlarında (Twitter/X, TikTok, Instagram) gençler arasında yankı odaları ve algoritmik kutuplaşma giderek belirginleşmektedir. TÜİK 2025 verilerine göre 16-24 yaş arası gençlerin %87'si düzenli sosyal medya kullanıcısıdır ve bu yaş grubu, algoritmik içerik önermelerine en açık demografik kesimi oluşturmaktadır. Makalede tanımlanan üç mekanizma (yankı odaları, taraflı medya, kutuplaştırıcı elit söylem) Türkiye'de de açıkça gözlemlenmektedir. MEB müfredatında medya okuryazarlığı derslerinin zorunlu hale getirilmesi olumlu bir adım olmakla birlikte, bu derslerin kutuplaşma mekanizmaları, algoritmik farkındalık ve eleştirel düşünme boyutlarını kapsayacak şekilde güncellenmesi gerekmektedir. BTK ve RTÜK'ün dijital platform düzenlemeleri çocukları ve gençleri kutuplaştırıcı içerikten koruma konusunda henüz yeterli çerçeveyi oluşturmamıştır. 7253 sayılı Sosyal Medya Yasası ve 7418 sayılı Basın Kanunu değişiklikleri, dezenformasyonla mücadele hedefi taşımakla birlikte, kutuplaşmanın altında yatan psikolojik ve sosyal mekanizmalara yönelik politikalar içermemektedir. Makale, Türkiye'de çocukların ve gençlerin dijital ortamlarda kutuplaştırıcı içerikten korunması için bütüncül bir politika çerçevesine olan ihtiyacı ortaya koymaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-10_detayli.md|AKADEMIK GUNLUK TARAMA - 2026-04-10]]
+- [[raw/articles/2026-06-26-nature-polarization.md|Political polarization in low- and middle-income c]]

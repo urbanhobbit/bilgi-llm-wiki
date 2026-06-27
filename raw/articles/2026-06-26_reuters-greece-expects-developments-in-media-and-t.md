@@ -33,3 +33,16 @@ Reuters reports on Greece's expectations regarding developments in the media and
 ## Turkey Context
 
 Yunanistan'daki medya ve teknoloji sektörü gelişmeleri, Türkiye ile karşılaştırmalı bir perspektiften değerlendirilebilir. İki ülke de Akdeniz bölgesinde benzer dijital dönüşüm süreçlerinden geçmektedir. Yunanistan'ın AB Dijital Hizmetler Yasası'nı uygulama deneyimi, Türkiye'nin AB müktesebatına uyum süreci açısından önemli referanslar sunmaktadır. Türkiye'de RTÜK ve BTK'nın regülasyon alanındaki rolleri, Yunanistan'daki EETT (Yunanistan Telekomünikasyon ve Posta Komisyonu) ile karşılaştırılabilir. İki ülke arasındaki dijital medya düzenlemelerinin karşılaştırılması, bölgesel medya politikaları ve ifade özgürlüğü standartları açısından önemli akademik çalışma alanı sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-reuters-com.md|Www Reuters Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect.md|Article from www.reuters.com: greece expect]]
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expected-annou.md|Article from www.reuters.com: greece expected anno]]
+- [[raw/articles/2026-06-26_genel-reuters-com.md|GENEL - reuters.com]]
+- [[raw/articles/2026-06-26_greece-expect.md|Greece Expect]]
+- [[raw/articles/2026-06-26_greece-expected-announce-social-m.md|Greece Expected Announce Social M]]

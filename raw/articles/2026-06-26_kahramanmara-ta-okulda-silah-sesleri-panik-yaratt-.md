@@ -32,3 +32,16 @@ T24 haber sitesinin aktardığına göre, Kahramanmaraş'ta bir okulda silah ses
 ## Turkey Context
 
 Kahramanmaraş'ta bir okulda silah sesleri duyulması, Türkiye'de okul güvenliği politikalarının yeniden değerlendirilmesini zorunlu kılan önemli bir olaydır. Milli Eğitim Bakanlığı (MEB), okul güvenliği konusunda daha önce hayata geçirilen 'Okul Güvenliği Eylem Planı' kapsamında, okul girişlerinde güvenlik kameraları, okul polisi uygulaması ve acil durum tatbikatları gibi önlemleri uygulamaya koymuş, ancak Kahramanmaraş olayı bu önlemlerin yeterliliğini sorgulatmıştır. İçişleri Bakanlığı'na bağlı emniyet birimleri, okul çevrelerinde şüpheli şahıs ve araçlara yönelik denetimlerini artırmış, okul giriş ve çıkış saatlerinde güvenlik personeli bulundurulması uygulaması yaygınlaştırılmıştır. 2025 yılında TBMM'de kurulan Okul Saldırılarını Araştırma Komisyonu, bu tür olayların önlenmesine yönelik kapsamlı bir rapor hazırlamış, raporda okul güvenlik personelinin eğitimi, okul binalarının fiziksel güvenlik altyapısının güçlendirilmesi, psikososyal destek hizmetlerinin yaygınlaştırılması ve şiddet eğilimli öğrencilerin erken tespiti gibi önerilerde bulunulmuştur. Aile ve Sosyal Hizmetler Bakanlığı, travma sonrası psikolojik destek hizmetlerini koordine etmekte, okullarda rehberlik ve psikolojik danışmanlık hizmetlerinin güçlendirilmesi için MEB ile ortak çalışmalar yürütmektedir. 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun kapsamında, okul saldırılarıyla ilgili sosyal medyada paylaşılan provokatif içeriklerin tespiti ve kaldırılması için BTK ve emniyet birimleri koordineli çalışma yürütmektedir. Ayrıca, KVKK (Kişisel Verileri Koruma Kurumu), okullarda öğrenci verilerinin güvenliğine yönelik denetimlerini sıkılaştırmış, okul kayıt sistemlerinde kişisel verilerin korunmasına dair ek tedbirler alınmasını istemiştir. 6698 sayılı KVKK kapsamında, okulların öğrenci ve veli verilerini işlerken açık rıza almaları, veri güvenliğini sağlamaları ve veri ihlali durumunda Kişisel Verileri Koruma Kurulu'na bildirim yapmaları gerekmektedir. Okul güvenliği konusundaki bu gelişmeler, Türkiye'de eğitim hakkının güvenli bir ortamda kullanılmasının sağlanmasına yönelik çok boyutlu bir kamu politikası yaklaşımını gerektirmektedir. MEB müfredatında dijital vatandaşlık ve medya okuryazarlığı derslerinin yanı sıra, akran zorbalığı ve şiddetin önlenmesine yönelik eğitim içeriklerine daha fazla yer verilmesi planlanmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-secim-dezenform.md|Article from t24.com.tr: yapay zeka secim dezenfor]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-seyim-dezenform.md|Article from t24.com.tr: yapay zeka seyim dezenfor]]
+- [[raw/articles/2026-06-26_genel-t24-com-tr.md|GENEL - t24.com.tr]]

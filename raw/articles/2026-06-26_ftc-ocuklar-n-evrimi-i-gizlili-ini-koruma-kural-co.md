@@ -33,3 +33,23 @@ Söz konusu çalışma, çocukların çevrimiçi ortamlarda karşılaştıkları
 ## Turkey Context
 
 Türkiye açısından değerlendirildiğinde, çocukların çevrimiçi güvenliği ve dijital hakları konusu son yıllarda giderek daha fazla önem kazanmaktadır. Kişisel Verileri Koruma Kurumu (KVKK), bu kapsamda dijital platformlarda çocuk kullanıcıların verilerinin korunmasına yönelik denetimlerini artırmış durumdadır. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik eğitimlerini müfredata entegre etme çalışmalarına hız vermiştir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet düzenlemeleri ve sosyal medya platformlarının denetimi konusunda aktif rol üstlenmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda karşılaştığı riskler konusunda farkındalık kampanyaları yürütmekte ve ebeveyn rehberlik hizmetleri sunmaktadır. TÜİK verilerine göre, Türkiye'de 6-15 yaş arası çocukların internet kullanım oranı her geçen yıl artış göstermekte olup, bu durum dijital düzenlemelerin önemini artırmaktadır. Türkiye'de 2025-2026 döneminde sosyal medya kullanımına yönelik yeni düzenlemeler gündeme gelmiştir. 13 yaş altı çocukların sosyal medya kullanımının kısıtlanmasına yönelik tartışmalar, MEB ve BTK'nın ortak çalışmalarıyla şekillenmektedir. Aile Bakanlığı, dijital bağımlılıkla mücadele kapsamında ebeveynlere yönelik rehberlik hizmetleri sunarken, KVKK da çocukların kişisel verilerinin korunmasına yönelik denetimlerini artırmıştır. TÜİK'in yayınladığı Çocuklarda Bilişim Teknolojileri Kullanım Araştırması, 6-15 yaş grubundaki çocukların yüzde 82'sinin düzenli olarak internet kullandığını göstermektedir. Bu oran, dijital düzenlemelerin önemini bir kez daha ortaya koymaktadır. Ayrıca, Türkiye'de çocukların çevrimiçi ortamda karşılaştıkları risklere karşı farkındalık yaratmak amacıyla çeşitli sivil toplum kuruluşları da aktif çalışmalar yürütmektedir. MEB'in dijital okuryazarlık müfredatı, öğrencilerin bilinçli teknoloji kullanımı konusunda donanımlı hale gelmesini hedeflemektedir. Sonuç olarak, küresel çapta çocukların dijital güvenliğine yönelik artan farkındalık, Türkiye'de de ilgili kurumların harekete geçmesini sağlamaktadır. Ayrıca bu konunun Türkiye açısından önemi, ilgili kamu kurumlarının koordineli çalışmasını gerektirmektedir. BTK'nın düzenleyici rolü, MEB'in eğitim politikaları ve Aile Bakanlığı'nın koruyucu hizmetleri bu bağlamda birbirini tamamlamaktadır. UNICEF Türkiye'nin çocuk hakları ve dijital güvenlik alanındaki çalışmaları da bu ekosistemin önemli bir parçasını oluşturmaktadır. TÜİK verileri, Türkiye'de dijital dönüşümün hızını ve bu alandaki düzenlemelerin önemini gözler önüne sermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-ftc-gov.md|Www Ftc Gov]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-childrens-online-privacy-.md|Article from www.ftc.gov: childrens online privacy]]
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-complying-coppa.md|Article from www.ftc.gov: complying coppa]]
+- [[raw/articles/2026-06-26_blocked-404-www-ftc-gov.md|Blocked (404) - www.ftc.gov]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-coppa-ft.md|Children's Online Privacy Protection Rule (COPPA) ]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-ftc-enfo.md|Children's Online Privacy Protection Rule — FTC En]]

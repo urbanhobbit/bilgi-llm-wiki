@@ -33,3 +33,15 @@ Cumhuriyet reports on educators in Kadıköy who held a protest stating that the
 ## Turkey Context
 
 Eğitimcilerin Kadıköy'deki protestosu, Türkiye'de eğitim politikalarının okul şiddeti üzerindeki etkisine dikkat çekmektedir. Eğitim-Sen, Türk Eğitim-Sen ve Eğitim-İş gibi sendikalar, okul şiddetinin önlenmesi için kapsamlı politikalar geliştirilmesi çağrısı yapmaktadır. Milli Eğitim Bakanlığı'nın 2023-2024 eğitim politikaları, okul güvenliği konusunda yetersiz bulunmaktadır. Türkiye'de okul psikolojik danışmanlık hizmetlerinin yetersizliği, öğrenci başına düşen rehber öğretmen sayısının OECD ortalamasının altında olması, şiddet olaylarının önlenmesinde önemli bir engel oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-04-07T00:00:00Z'
 ---
 
+## 1. 🇦🇺 Avustr...'
+resource: https://www.bbc.com/news/articles/cwyp9d3ddqyo
+tags:
+- raw
+timestamp: '2026-04-07T00:00:00Z'
+---
+
 # Çocuk & Dijital Bülten — 7 Nisan 2026
 
 > **Kategori:** Çocuklara Dijital Kısıtlamalar / Digital Restrictions Children  
@@ -111,3 +118,26 @@ timestamp: '2026-04-07T00:00:00Z'
 ## 🔑 Anahtar Kelimeler
 
 `digital restriction children`, `social media age ban`, `Australia under-16 ban`, `parental controls`, `screen time regulation`, `kids online safety`, `age verification`, `digital parenting`, `social media mental health teens`
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]
+- [[raw/articles/2026-06-26_bbc-children-s-digital-safety-and-online-learning.md|BBC - Children's Digital Safety and Online Learnin]]

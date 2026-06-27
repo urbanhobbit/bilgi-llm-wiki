@@ -43,3 +43,22 @@ TUIK verilerine gore, Turkiye'de hanelerin %95,5'i internete erisim saglayabilme
 UNICEF Turkiye, cocuklarin dijital ortamda karsilastigi riskler ve bu risklere karsi koruyucu mekanizmalarin gelistirilmesi konusunda calismalar yurutmektedir. UNICEF'in raporlari, Turkiye'deki cocuklarin cevrimici guvenligi konusunda onemli veriler sunmaktadir. Yerel arastirmalar da Turkiye'de cocuklarin sosyal medya kullanim aliskanliklari ve dijital okuryazarlik seviyeleri uzerine onemli bulgular ortaya koymaktadir.
 
 Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak icin kapsamli bir ulusal strateji gelistirilmesi gerekmektedir. Bu strateji, KVKK ile uyumlu veri koruma politikalari, MEB'in dijital okuryazarlik mustakileri, BTK'nin icerik denetleme mekanizmalari ve Aile Bakanligi'nin ebeveyn rehberligi programlarini entegre etmelidir. Ayrica, sosyal medya platformlarinin cocuk kullanicilari icin ozel guvenlik ayarlari ve yas dogrulama sistemleri gelistirmesi tesvik edilmelidir. Turkiye, Avrupa Birligi Dijital Hizmetler Kanunu (DSA) ile uyum surecinde, cocuk haklari temelli bir dijital politika cercevesi olusturma firsatina sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

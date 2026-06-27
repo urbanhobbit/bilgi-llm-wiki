@@ -33,3 +33,22 @@ London School of Economics and Political Science (LSE) bünyesinde 5Rights ortak
 ## Turkey Context
 
 LSE Digital Futures for Children merkezinin çocuk hakları odaklı dijital düzenleme yaklaşımı, Türkiye için önemli politika çıkarımları sunmaktadır. Türkiye'de çocukların dijital ortamdaki haklarının korunmasına yönelik mevcut düzenlemeler parçalı bir yapı arz etmekte olup, DFC'nin savunduğu bütüncül 'Child Rights by Design' yaklaşımı henüz Türk mevzuatında tam anlamıyla karşılık bulmamıştır. Kişisel Verileri Koruma Kurumu (KVKK), 6698 sayılı Kanun kapsamında çocukların kişisel verilerinin işlenmesine ilişkin belirli hükümler içerse de, bu hükümler çocukların dijital ortamda karşılaştığı çok boyutlu riskleri (mahremiyet ihlalleri, algoritmik ayrımcılık, ticari sömürü) kapsayacak şekilde genişletilmemiştir. Milli Eğitim Bakanlığı (MEB), EBA ve diğer dijital eğitim platformları üzerinden milyonlarca çocuğun verisini işlemekte, ancak bu platformların çocuk hakları tasarımı ilkelerine uygunluğu konusunda bağımsız bir denetim mekanizması ve şeffaf bir raporlama sistemi bulunmamaktadır. Bilgi Teknolojileri ve İletişim Kurumu (BTK), 5651 sayılı Kanun çerçevesinde çevrimiçi içerik denetimi yapmakta olup, bu denetim daha çok içerik yasaklama ve filtreleme odaklıdır; çocukların ifade özgürlüğü, bilgiye erişim ve dijital ortama katılım hakları yeterince dikkate alınmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Hizmetleri Genel Müdürlüğü, çocukların çevrimiçi korunmasına yönelik farkındalık çalışmaları yürütse de, DFC'nin vurguladığı gibi çocukların dijital ortama aktif katılımı ve seslerinin politika süreçlerine dâhil edilmesi konusunda kurumsal bir mekanizma eksiktir. Sağlık Bakanlığı, dijital bağımlılık ve çocuk sağlığı üzerine çalışmalar yaparken, TÜİK verileri Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranının her yıl arttığını ve 2024 itibarıyla %82'ye ulaştığını göstermektedir. UNICEF Türkiye, dijital okuryazarlık, çevrimiçi çocuk koruma ve politika geliştirme alanlarında teknik destek sağlamakta; ancak DFC modelindeki gibi bağımsız, üniversite temelli bir araştırma ve savunuculuk merkezinin Türkiye'de de kurulması, politika yapıcılar için kanıta dayalı, güncel ve kültürel bağlama duyarlı rehberlik sağlayacaktır. Türkiye'nin AB Dijital Hizmetler Yasası (DSA) gibi kapsamlı düzenlemelere uyum sürecinde, DFC'nin çocuk odaklı yaklaşımından ve küresel araştırma veri tabanından yararlanması, ulusal dijital politikanın çocuk hakları temelinde güçlendirilmesine katkı sunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

@@ -33,3 +33,15 @@ TRT Haber reports on US military activities, including the USS George H.W. Bush 
 ## Turkey Context
 
 ABD'nin askeri yeniden konuşlandırma faaliyetleri, Türkiye'nin güvenlik politikaları açısından yakından izlenmektedir. ABD'nin Suriye'deki askeri üslerini devretmesi, Türkiye'nin sınır güvenliği ve PKK/YPG ile mücadelesi açısından önemli sonuçlar doğurabilir. Hint Okyanusu'ndaki ABD uçak gemisi varlığı, Türkiye'nin deniz güvenliği stratejileri ve Mavi Vatan doktrini bağlamında değerlendirilmektedir. Milli Savunma Bakanlığı, bölgesel güvenlik dinamiklerindeki değişimleri analiz ederek Türkiye'nin savunma pozisyonunu güncellemektedir. Türkiye'nin NATO müttefiki olarak ittifakın Hint Okyanusu ve Ortadoğu'daki güvenlik stratejilerine katkısı da bu bağlamda değerlendirilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

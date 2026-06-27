@@ -33,3 +33,18 @@ TRT Haber'in fotoğraf galerisi, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı ka
 ## Turkey Context
 
 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Türkiye'de çocuk hakları bilincinin toplumsal düzeyde pekiştirilmesi açısından önemli bir sembolik gündür. Ancak 23 Nisan kutlamalarının sembolik boyutu ile Türkiye'de çocukların karşılaştığı yapısal sorunlar arasında belirgin bir uçurum bulunmaktadır. TÜİK 2024 verilerine göre, Türkiye'de çocuk yoksulluğu oranı %28,6'ya yükselmiş, çocuk işçiliği ve çocuk evlilikleri konusundaki mücadele yetersiz kalmıştır. Dijital dünyada çocuk hakları bağlamında, 23 Nisan etkinliklerinin çocukların dijital katılım haklarını ve çevrimiçi güvenliklerini de kapsayacak şekilde genişletilmesi gerekmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Hakları Stratejisi kapsamında 23 Nisan'ın 'Dijital Çocuk Hakları Günü' olarak da kutlanması önerisi, çocukların dijital dünyadaki varlığına dikkat çekmek açısından değerlendirilebilir. MEB'in dijital vatandaşlık müfredatında 23 Nisan'ın anlam ve önemine yer verilmesi, çocukların hem ulusal kimliklerini hem de dijital haklarını anlamalarına katkı sağlayabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

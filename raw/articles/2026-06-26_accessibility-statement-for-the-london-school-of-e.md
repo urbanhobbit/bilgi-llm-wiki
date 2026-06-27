@@ -31,3 +31,15 @@ London School of Economics (LSE) tarafından yayımlanan kapsamlı web erişileb
 ## Turkey Context
 
 LSE'nin web erişilebilirlik bildirimi, Türkiye'deki dijital erişilebilirlik standartları ve uygulamaları açısından önemli bir referans noktası ve karşılaştırma ölçütü oluşturmaktadır. Türkiye'de web erişilebilirliği konusu, özellikle 2020'li yılların başından itibaren daha fazla gündeme gelmeye başlamış olsa da henüz istenen seviyeye ulaşamamıştır. 2018 yılında yürürlüğe giren Engelli Bireylerin Bilgi ve İletişim Teknolojilerine Erişimine İlişkin Yönetmelik, kamu kurumlarının web sitelerinin erişilebilirlik standartlarına uygun olmasını yasal olarak zorunlu kılmaktadır. Ancak sahadaki uygulamalara bakıldığında, Türkiye'deki birçok kamu kurumu ve üniversitenin web sitesi henüz tam anlamıyla erişilebilir durumda değildir. LSE'nin bu bildirimi, erişilebilirliğin yalnızca bir yasal zorunluluk değil, aynı zamanda kapsayıcı bir dijital toplum inşa etmenin temel bir unsuru olduğunu vurgulamaktadır. Türkiye'de yaklaşık 9 milyon engelli birey yaşamaktadır ve bu bireylerin dijital hizmetlere erişimde yaşadığı sorunlar, eğitim, istihdam, sağlık ve sosyal hayata katılım gibi temel alanlarda ciddi eşitsizliklere yol açmaktadır. Özellikle üniversitelerin web sitelerinde görme engelli kullanıcılar için ekran okuyucu uyumluluğunun sağlanması, işitme engelliler için video içeriklerin işaret dili ile sunulması veya en azından altyazı eklenmesi gibi düzenlemeler halen büyük ölçüde eksiktir. LSE'nin erişilebilirlik eksikliklerini şeffaf bir şekilde listeleyerek kamuoyuyla paylaşması, Türkiye'deki kurumlar için örnek teşkil edebilecek bir uygulamadır. Türkiye'de birçok kurum, erişilebilirlik sorunlarını ya hiç raporlamamakta ya da eksiklikleri gizleme eğilimi göstermektedir. Ayrıca, Türkiye'deki üniversitelerin uluslararası erişilebilirlik standartlarına (WCAG 2.1 gibi) uyum sağlaması, küresel akademik rekabet gücü ve uluslararası öğrenci çekme kapasitesi açısından da önem taşımaktadır. Dijital erişilebilirlik, aynı zamanda Türkiye'nin de taraf olduğu Birleşmiş Milletler Engelli Hakları Sözleşmesi'nin 9. maddesi kapsamındaki uluslararası yükümlülüklerin bir gereğidir. E-devlet kapısı gibi kritik kamu hizmetlerinin erişilebilirliği ise ayrı bir önem taşımakta ve bu alandaki iyileştirmeler, milyonlarca engelli vatandaşın temel hizmetlere erişimini doğrudan etkilemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-report-a-page-aspx.md|Article from www.lse.ac.uk: report a page.aspx]]

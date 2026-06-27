@@ -33,3 +33,18 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, TRT tarafından Beştepe Millet Kongre ve
 ## Turkey Context
 
 Cumhurbaşkanı Erdoğan'ın 23 Nisan Çocuk Bayramı vesilesiyle yaptığı bu konuşma, Türkiye'nin çocuk hakları söylemi ve savaş mağduru çocuklara yönelik dış politika yaklaşımının önemli bir yansımasıdır. Erdoğan'ın özellikle Filistinli ve Lübnanlı çocuklara atıfta bulunması, Türkiye'nin bölgesel krizlerde çocukların korunmasına verdiği siyasi ve insani önemi göstermekle birlikte, bu söylemin somut politika çıktılarına ve kurumsal mekanizmalara dönüşüp dönüşmediği eleştirel bir incelemeyi hak etmektedir. Aile ve Sosyal Hizmetler Bakanlığı, Türkiye'deki korunmaya muhtaç çocuklara yönelik sosyal hizmet modelleri geliştirirken, savaş mağduru çocukların Türkiye'deki hukuki statüsü, eğitime erişimi, psikososyal destek ihtiyaçları ve uzun vadeli entegrasyonuna ilişkin kapsamlı ve güncel bir veri tabanı ile izleme mekanizması bulunmamaktadır. Türkiye, Suriye iç savaşı başta olmak üzere bölgesel çatışmalardan kaçan yaklaşık 1,6 milyonu çocuk olmak üzere milyonlarca sığınmacıya ev sahipliği yapmakta olup, bu çocukların travma sonrası iyileşme, kaliteli eğitime erişim ve çocuk işçiliğinden korunma gibi temel haklarının sağlanması konusunda önemli yapısal zorluklar devam etmektedir. Milli Eğitim Bakanlığı, geçici koruma altındaki çocukların eğitim sistemine entegrasyonu konusunda önemli adımlar atmış (örneğin, geçici eğitim merkezlerinin Milli Eğitim Bakanlığı'na devri, Türkçe dil desteği programları), ancak bu çocukların okullaşma oranları, okul terk oranları ve akademik başarı düzeyleri konusunda TÜİK tarafından düzenli ve ayrıştırılmış veri yayımlanmamaktadır. Sağlık Bakanlığı, savaş travması yaşayan çocuklara yönelik ruh sağlığı hizmetlerini genişletme çabalarına rağmen, bu hizmetlere erişimde coğrafi ve ekonomik eşitsizlikler belirgin şekilde devam etmektedir. UNICEF Türkiye, mülteci ve sığınmacı çocukların eğitim, koruma ve sağlık hizmetlerine erişimi konusunda Birleşmiş Milletler kuruluşları ve sivil toplumla iş birliği içinde teknik destek sağlamakta, ancak bu desteğin sürdürülebilirliği ulusal bütçe tahsisatları ve uluslararası fon akışına bağlı olarak değişkenlik göstermektedir. Bilgi Teknolojileri ve İletişim Kurumu'nun çocukların medyada temsili konusundaki düzenleyici rolü, Erdoğan'ın konuşmasında vurguladığı çocuk odaklı söylemin ulusal medyada ne ölçüde karşılık bulduğunun bağımsız olarak izlenmesi açısından kritik önem taşımaktadır. TRT'nin 48 yıldır kesintisiz düzenlediği Uluslararası 23 Nisan Çocuk Şenliği, kültürel diplomasi ve kamu diplomasisi aracı olarak değerli bir gelenek olmakla birlikte, bu tür sembolik ve dönemsel etkinliklerin ötesinde çocuk haklarının sürekli, sistematik ve bağımsız şekilde izlenmesi, raporlanması ve iyileştirilmesine yönelik kurumsal mekanizmaların (örneğin, bağımsız bir Çocuk Hakları Ombudsmanlığı) güçlendirilmesi gerekmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

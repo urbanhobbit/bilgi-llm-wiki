@@ -32,3 +32,16 @@ This content covers current developments in geopolitics, technology, and public 
 ## Turkey Context
 
 Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan etkilenen ülkelerin başında gelmektedir. Dışişleri Bakanlığı, bölgesel krizlerde aktif diplomasi yürütürken, değişen küresel ticaret dinamiklerine uyum sağlanmaya çalışılmaktadır. Türkiye'nin çok boyutlu dış politikası, özellikle Ukrayna-Rusya savaşı, Orta Doğu'daki güç dengeleri ve Doğu Akdeniz'deki enerji rekabeti bağlamında önemli sınamalarla karşı karşıyadır. BTK'nın sosyal medya ve internet düzenlemeleri, ifade özgürlüğü ile ulusal güvenlik arasındaki hassas dengeyi yansıtmaktadır. Özellikle seçim dönemlerinde dezenformasyonla mücadele kapsamında alınan tedbirler, hem yurt içinde hem de uluslararası alanda tartışma konusu olmaktadır. TÜİK verilerine göre enflasyon ve istihdam oranları, ekonominin kırılganlıklarını ortaya koymaktadır. Türkiye'nin yapısal reformları hızlandırması, yargı bağımsızlığını güçlendirmesi ve dış politikada öngörülebilirliği artırması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-hungary-election-orb.md|Article from www.politico.com: hungary election or]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]
+- [[raw/articles/2026-06-26_cuban-president-fear-trump-00868372.md|Cuban President Fear Trump 00868372]]

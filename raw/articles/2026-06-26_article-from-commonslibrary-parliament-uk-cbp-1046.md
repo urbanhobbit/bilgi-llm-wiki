@@ -37,3 +37,17 @@ Türkiye'de dijital dönüşüm araştırmaları ve akademik metodoloji konusund
 KVKK kapsamında kişisel verilerin korunması alanında yapılan akademik çalışmalar, Türkiye'nin Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sürecini değerlendirmektedir. Dijital Hizmetler Kanunu'nun akademik analizi, Türkiye'nin dijital düzenleme yaklaşımını anlamak için kritik öneme sahiptir. Bu akademik çalışmalar, Türkiye'deki politika yapıcılar için kanıta dayalı karar alma süreçlerine katkı sağlamaktadır. Araştırma etiği ve veri gizliliği konuları, Türkiye'de artan dijital araştırma faaliyetleriyle birlikte daha fazla önem kazanmaktadır.
 
 Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılığıyla küresel araştırma ağlarına entegre olmaktadır. Bu bağlamda, çalışmanın metodolojik yaklaşımı ve bulguları, Türkiye'deki benzer araştırmalar için değerli bir referans teşkil etmektedir. Yerel araştırmacıların uluslararası yayınlara katkısı, Türkiye'nin bilimsel üretkenliği açısından önemli bir göstergedir. Boğaziçi Üniversitesi, ODTÜ, İstanbul Üniversitesi ve Sabancı Üniversitesi gibi kurumlar, dijital dönüşüm ve veri bilimi alanlarında öncü araştırmalar yürütmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
+- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
+- [[raw/articles/2026-06-26_uk-parliament-commons-library-research-briefing-on.md|UK Parliament Commons Library: Research Briefing o]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468.md|UK Parliament Research Briefing CBP-10468]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

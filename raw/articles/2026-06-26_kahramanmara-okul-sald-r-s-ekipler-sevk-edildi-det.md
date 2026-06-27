@@ -33,3 +33,15 @@ Kahramanmaraş'taki okul saldırısı olayının daha detaylı versiyonu olan bu
 ## Turkey Context
 
 Bu olay, Türkiye'de okul saldırılarına karşı acil müdahale kapasitesinin test edildiği bir örnektir. 17 Nisan 2026 tarihinde Kahramanmaraş ve Şanlıurfa'da eş zamanlı okul saldırıları yaşanması, organize bir saldırı modeline işaret etmektedir. İçişleri Bakanı'nın olay sonrası yaptığı açıklamada, 'sosyal medyada olayı öven ve teşvik eden paylaşımlar yapan 12 kişi hakkında soruşturma başlatıldığı' belirtilmiştir. Bu durum, Dijital Hizmetler Kanunu kapsamında sosyal medya platformlarının zararlı içerikleri kaldırma yükümlülüğünü ve BTK'nın düzenleyici rolünü yeniden gündeme getirmiştir. Okul saldırılarının sosyal medyada yayılması, çocukların şiddet içeriğine maruz kalması riskini artırmakta ve bu da doğrudan KURATOR kapsamına girmektedir. MEB'in Okul Güvenliği Genelgesi kapsamında kriz iletişim protokolleri bulunmakla birlikte, sosyal medya kaynaklı dezenformasyonla mücadelede okul yönetimlerinin hazırlık düzeyi sorgulanmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-secim-dezenform.md|Article from t24.com.tr: yapay zeka secim dezenfor]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-seyim-dezenform.md|Article from t24.com.tr: yapay zeka seyim dezenfor]]
+- [[raw/articles/2026-06-26_genel-t24-com-tr.md|GENEL - t24.com.tr]]

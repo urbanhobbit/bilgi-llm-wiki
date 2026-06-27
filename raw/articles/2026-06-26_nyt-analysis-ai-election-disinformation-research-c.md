@@ -34,3 +34,21 @@ This New York Times analytical feature critically examines the emerging academic
 ## Turkey Context
 
 New York Times'ın yapay zeka kaynaklı seçim dezenformasyonu araştırmalarını ele alan analizi, Türkiye'de bu alanda yürütülen akademik çalışmalar ve kamuoyu tartışmaları için son derece güncel ve önemli bir metodolojik referans kaynağıdır. Türkiye'de 2023 cumhurbaşkanlığı ve parlamento seçimleri ile 2024 yerel seçimleri sürecinde yapay zeka üretimi içeriğin siyasi iletişimde kullanımı ve potansiyel dezenformasyon etkileri önemli tartışmalara yol açmıştır. TÜBİTAK'ın 1001 programı kapsamında desteklenen yapay zeka ve dezenformasyon konulu araştırma projelerinde, NYT analizinde bahsedilen deneysel tasarımlar, doğal dil işleme yöntemleri ve ağ analizi metodolojileri kullanılmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında İstanbul Üniversitesi Enformatik Bölümü, Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümü Yapay Zeka Laboratuvarı, ODTÜ Enformatik Enstitüsü ve Sabancı Üniversitesi Veri Analitiği Araştırma Merkezi sayılabilir. KVKK kapsamında, dezenformasyon araştırmalarında kullanılan sosyal medya verilerinin kişisel veri niteliği ve işlenme şartları önemli hukuki ve etik tartışmalara yol açmaktadır. TÜBİTAK'ın 2024 yılı araştırma öncelikleri arasında yapay zeka etiği ve dezenformasyonla mücadele yer almakla birlikte, bu alanda metodolojik standartların belirlenmesi ve araştırma etiği kurallarının güncellenmesi konusunda henüz kapsamlı bir çalışma bulunmamaktadır. Türkiye'de yapay zeka ve seçim dezenformasyonu araştırmalarında metodolojik kapasitenin artırılması için TÜBİTAK ve YÖK işbirliğinde disiplinlerarası araştırma ağları ve eğitim programları kurulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/new-york-times.md|New York Times]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-html.md|Ai Election Disinformation Study.Html]]
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-new-york-times.md|AI Election Disinformation Study - New York Times]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-ai-election-disinform.md|Article from www.nytimes.com: ai election disinfor]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-teen-social-media.md|Article from www.nytimes.com: teen social media]]
+- [[raw/articles/2026-06-26_genel-nytimes-com.md|GENEL - nytimes.com]]

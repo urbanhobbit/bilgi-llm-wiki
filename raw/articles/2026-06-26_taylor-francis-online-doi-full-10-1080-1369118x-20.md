@@ -41,3 +41,21 @@ MEB, Saglik Bakanligi ve Aile Bakanligi gibi kamu kurumlari, arastirma etigi ve 
 TUIK verilerine gore, Turkiye'de arastirma ve gelistirme harcamalari her gecen yil artmaktadir. Universitelerdeki arastirma etigi kurullari, ozellikle cocuklarla yapilan calismalarda ve hassas verilerin islenmesinde onemli bir denetim mekanizmasi olarak calismaktadir.
 
 Turkiye'de arastirma etigi ve metodolojisi alaninda yapilan calismalar, uluslararasi standartlarla uyumlu hale getirilmelidir. Ozellikle cocuk katilimcili arastirmalarda, etik onay surecleri ve bilgilendirilmis onam mekanizmalari guclendirilmelidir. TUBITAK ve YOK'un arastirma etigi yonergeleri, dijital veri toplama ve yapay zeka destekli arastirma yontemlerini kapsayacak sekilde guncellenmelidir. Universite-sanayi isbirligi kapsaminda teknoloji transfer ofisleri, arastirma sonuclarinin toplumsal faydaya donusmesinde kritik bir rol oynamaktadir. Istanbul Bilgi Universitesi Teknoloji Transfer Ofisi gibi yapilar, akademik bilginin ticarilestirilmesi ve toplumsal faydaya donusturulmesi icin onemli bir model olusturmaktadir. Turkiye'nin bu alandaki calismalari, uluslararasi standartlarla uyumlu bir sekilde ilerlemekte ve cocuklarin dijital haklarinin korunmasina yonelik onemli katkilar saglamaktadir. Dijital donusumun hizlandigi bu donemde, tum paydaslarin isbirligi icinde calismasi, daha guvenli bir dijital gelecek insa edilmesine yardimci olacaktir. Bu kapsamda, kamu kurumlari, ozel sektor ve sivil toplum kuruluslarinin ortak projeler gelistirmesi ve bilgi paylasiminda bulunmasi onem arz etmektedir. Dijital okuryazarlik egitimi, yas dogrulama sistemleri ve ebeveyn farkindaligi, cocuklarin cevrimici guvenligini saglamada temel bilesenler olarak one cikmaktadir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
+- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]

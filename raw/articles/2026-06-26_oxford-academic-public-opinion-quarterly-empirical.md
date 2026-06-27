@@ -33,3 +33,21 @@ This Oxford Academic article published in Public Opinion Quarterly (POQ) present
 ## Turkey Context
 
 Oxford Academic'de yayımlanan Public Opinion Quarterly makalesi, Türkiye'deki anket metodolojisi araştırmaları için önemli bir referans noktasıdır. Türkiye'de TÜİK (Türkiye İstatistik Kurumu) tarafından yürütülen hanehalkı araştırmalarında kullanılan anket metodolojileri, POQ'da yayımlanan çalışmalardaki standartlarla karşılaştırıldığında, özellikle karma modlu anket tasarımı, ölçüm değişmezliği testleri ve toplam anket hatası (TSE) çerçevesi açısından önemli gelişim alanları bulunmaktadır. TÜBİTAK'ın Sosyal ve Beşeri Bilimler Araştırma Grubu (SOBAG) tarafından desteklenen anket metodolojisi projelerinde, POQ standartlarında yayın yapma kapasitesi sınırlı sayıda araştırmacıda bulunmaktadır. YÖK'ün araştırma etiği yönergeleri kapsamında anket araştırmalarında katılımcı onamı, veri gizliliği ve bilimsel dürüstlük standartları belirlenmiş olmakla birlikte, POQ'nun gerektirdiği metodolojik şeffaflık (örneklem çerçevesi detayları, yanıt oranları, ağırlıklandırma prosedürleri, güven aralıkları) konusunda Türk akademik dergilerinde henüz aynı standart uygulanmamaktadır. Türkiye'de anket araştırmalarında veri paylaşımı ve açık bilim uygulamaları, TÜBİTAK'ın Açık Bilim Politikası (2024) kapsamında teşvik edilmekle birlikte, bu uygulamaların POQ seviyesinde bir metodolojik şeffaflık standardına ulaşması için ek çalışma gerekmektedir. Ankara Üniversitesi Siyasal Bilgiler Fakültesi, ODTÜ Sosyoloji Bölümü ve Koç Üniversitesi Siyaset Bilimi Bölümü, anket metodolojisi konusunda uluslararası yayınlar yapmakla birlikte, bu alandaki metodolojik kapasitenin Türkiye geneline yaygınlaştırılması için TÜBİTAK ve YÖK işbirliğinde kapsamlı bir metodoloji eğitim programı gerekmektedir. Türkiye'de anket metodolojisi alanında kapasite geliştirme için TÜBİTAK ve YÖK işbirliğinde POQ standartlarında bir metodoloji yaz okulu düzenlenmesi, bu alandaki akademik yayın kalitesini artıracaktır. TÜİK'in hanehalkı araştırmalarında kullandığı anket metodolojilerinin POQ standartlarına uyum açısından değerlendirilmesi, Türkiye'de resmi istatistik üretiminde metodolojik kalitenin artırılmasına katkıda bulunacaktır. YÖK Tez Merkezi'nde anket metodolojisi konusunda yazılan lisansüstü tezlerin POQ'nun belirlediği metodolojik raporlama standartlarına uyumu konusunda bir değerlendirme çalışması, Türkiye'deki anket araştırmalarının mevcut durumunu ortaya koyacak ve iyileştirme alanlarını belirleyecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

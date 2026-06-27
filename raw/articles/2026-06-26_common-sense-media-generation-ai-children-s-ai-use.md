@@ -34,3 +34,22 @@ Common Sense Media's 'Generation AI' report examines children's use of and perce
 ## Turkey Context
 
 Common Sense Media'nın Generation AI raporu, Türkiye'de çocukların yapay zeka kullanımı konusunda yürütülecek araştırmalar için kapsamlı bir metodolojik model sunmaktadır. Türkiye'de TÜBİTAK'ın 2025 yılı araştırma öncelikleri arasında yapay zeka okuryazarlığı ve çocuk-AI etkileşimi konuları yer almakla birlikte, bu alanda Common Sense Media'nın kullandığı karma yöntemli tasarımların (nicel anket + nitel odak grup) kullanımı henüz yaygınlaşmamıştır. YÖK'ün 2024 yılında yayımladığı 'Yapay Zeka Çağında Yükseköğretim' raporu, çocukların yapay zeka ile etkileşimi konusunda araştırma yapılmasını önermekte, ancak bu araştırmalarda kullanılacak metodolojik standartlar konusunda bir çerçeve sunmamaktadır. Türkiye'de İstanbul Üniversitesi Enformatik Bölümü, Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü ve Bahçeşehir Üniversitesi Yapay Zeka Araştırma Merkezi, çocuk ve yapay zeka konusunda çalışmalar yürütmekte, ancak bu çalışmalarda kullanılan ölçeklerin yaşa uygun geliştirilmesi ve psikometrik doğrulaması konusunda Common Sense Media standartlarına henüz ulaşılamamıştır. KVKK kapsamında, çocukların yapay zeka araçlarıyla etkileşiminden elde edilen verilerin araştırma amaçlı kullanımı, 6698 sayılı Kanun'un 6. maddesinde tanımlanan özel nitelikli kişisel veri kategorisinde değerlendirilmekte olup, bu durum araştırma tasarımında ek etik ve yasal koruma önlemleri gerektirmektedir. Türkiye'de yapay zeka okuryazarlığı eğitimi, MEB'in 2024-2025 müfredat değişiklikleri kapsamında ortaokul ve lise düzeyinde başlatılmış, ancak bu eğitimin etkililiğinin değerlendirilmesi için Common Sense Media benzeri kapsamlı bir araştırma henüz yapılmamıştır. Türkiye'de çocukların AI okuryazarlığı konusunda yapılacak araştırmalarda, Common Sense Media'nın Generation AI raporunda kullanılan karma yöntemli tasarım (ulusal anket + odak grup) temel alınabilir. MEB'in 2024-2025 müfredatına eklediği AI okuryazarlığı derslerinin etkililiğinin değerlendirilmesi için Common Sense Media'nın geliştirdiği yaşa uygun AI okuryazarlığı ölçeklerinin Türkçeye uyarlanması ve psikometrik doğrulamasının yapılması önemli bir araştırma ihtiyacıdır. TÜBİTAK'ın 2025 yılı AI araştırma öncelikleri kapsamında çocuk-AI etkileşimi konusunda desteklenecek projelerde, Common Sense Media'nın gelişimsel çerçevesinin kullanılması, araştırmaların teorik temelini güçlendirecektir. Türkiye'de AI okuryazarlığındaki sosyoekonomik eşitsizliklerin incelenmesi, Common Sense Media'nın uyguladığı eşitlik odaklı analiz çerçevesi kullanılarak gerçekleştirilebilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

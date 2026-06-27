@@ -33,3 +33,16 @@ Politico Europe'un kapsamlı analiz yazısı, 2026 Macaristan parlamento seçiml
 ## Turkey Context
 
 Macaristan seçimlerinin Politico Europe tarafından analizi, Türkiye'deki seçim süreçleri ve demokratik standartlar açısından önemli karşılaştırmalı perspektifler sunmaktadır. Türkiye'de seçim güvenliği tartışmaları, özellikle 2017 anayasa referandumu ve 2018, 2023 genel seçimleri sürecinde yoğunlaşmıştır. YSK'nın tarafsızlığı ve seçim sürecinin şeffaflığı konusundaki tartışmalar, Macaristan'daki benzer tartışmalarla paralellik göstermektedir. 5651 sayılı İnternet Kanunu kapsamında Türkiye'de uygulanan sosyal medya düzenlemeleri, Macaristan'daki medya kontrol mekanizmalarıyla birlikte değerlendirildiğinde, her iki ülkenin de dijital çağda seçim güvenliği ve ifade özgürlüğü arasında denge kurma çabası içinde olduğu görülmektedir. BTK'nın sosyal medya platformlarına yönelik düzenlemeleri, seçim dönemlerinde yabancı müdahaleleri engelleme amacı taşırken, uluslararası platformların Türkiye pazarından çekilme riskini de beraberinde getirmektedir. RTÜK'ün seçim dönemlerinde yayıncılık ilkeleri kapsamında aldığı kararlar, Macaristan Medya Konseyi'nin uygulamalarıyla benzer eleştirilere maruz kalmaktadır. MEB bünyesinde yürütülen medya okuryazarlığı ve dijital vatandaşlık eğitimleri, seçmenlerin bilinçlendirilmesi açısından önemli olmakla birlikte, bu eğitimlerin müfredatının güncellenmesi ve kapsamının genişletilmesi gerekmektedir. KVKK ise seçim dönemlerinde veri koruma ihlallerine karşı daha proaktif bir yaklaşım benimsemeli ve siyasi partilerin veri işleme faaliyetlerini yakından denetlemelidir. Sonuç olarak, Macaristan seçim deneyimi, Türkiye'ye seçim güvenliği politikalarını gözden geçirme ve uluslararası standartlarla uyumlaştırma konusunda değerli dersler sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

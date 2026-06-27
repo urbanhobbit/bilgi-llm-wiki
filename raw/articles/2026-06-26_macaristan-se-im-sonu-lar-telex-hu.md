@@ -33,3 +33,13 @@ Macar haber sitesi Telex.hu'nun bu haberi, 2026 parlamento seçimlerinde Tisza P
 ## Turkey Context
 
 Macaristan seçimlerine yüksek katılım oranı, Türkiye'de seçim katılımı ve siyasi katılım kültürü açısından karşılaştırmalı bir örnek sunmaktadır. Türkiye'de genel seçimlerde katılım oranı %85-90 aralığında seyrederken, Macaristan'daki seçim katılımı da benzer şekilde yüksektir. Macaristan'da muhalefetin birleşerek iktidarı değiştirmesi, Türkiye'de muhalefet partileri arasındaki işbirliği tartışmaları için bir model olarak değerlendirilmektedir. Ancak iki ülkenin siyasal sistemleri (Türkiye'de cumhurbaşkanlığı hükümet sistemi, Macaristan'da parlamenter sistem) arasındaki farklılıklar, doğrudan karşılaştırmaları sınırlamaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
+- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
+- [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]
+- [[raw/articles/2026-06-26_macar-valasztas-eredmenyek.md|Macar Valasztas Eredmenyek]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-im-sonu-lar-muhalefet-zaferi-ve.md|Macaristan 2026 Seçim Sonuçları: Muhalefet Zaferi ]]

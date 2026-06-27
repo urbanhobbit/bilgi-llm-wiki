@@ -32,3 +32,27 @@ This resource addresses critical aspects of children's digital rights and online
 ## Turkey Context
 
 Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son yıllarda önemli bir gündem maddesi haline gelmiştir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin işlenmesi özel bir önem taşımaktadır — özellikle 18 yaş altı bireylerin açık rızasının geçerliliği ve veli izni gerekliliği konuları halen tartışmalıdır. MEB (Milli Eğitim Bakanlığı), 2023-2026 Dijital Dönüşüm Stratejisi kapsamında okullarda dijital okuryazarlık eğitimini zorunlu hale getirmiş, ancak uygulamada bölgesel eşitsizlikler devam etmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik Çocuk Koruma Kanunu'nda değişiklik çalışmalarını sürdürmektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), sosyal medya platformlarına yönelik düzenlemeler kapsamında 16 yaş altı kullanıcılar için ebeveyn izni zorunluluğu getirilmesini değerlendirmektedir. TÜİK 2025 Çocuk Araştırması verilerine göre Türkiye'de 6-15 yaş grubundaki çocukların %73'ü düzenli olarak internet kullanmakta, %45'i ise sosyal medya hesabına sahiptir. UNICEF Türkiye'nin hazırladığı 2025 Dijital Çocuk Raporu, Türkiye'de çocukların karşılaştığı çevrimiçi risklerin (siber zorbalık, cinsel istismar içerikleri, mahremiyet ihlalleri) arttığını göstermektedir. Politik öneri olarak: Türkiye'nin kapsamlı bir Çocuk Dijital Güvenlik Yasası çıkarması, yaş doğrulama sistemlerini hayata geçirmesi ve okul müfredatında dijital vatandaşlık eğitimini güçlendirmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-reuters-com.md|Www Reuters Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect.md|Article from www.reuters.com: greece expect]]
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expected-annou.md|Article from www.reuters.com: greece expected anno]]
+- [[raw/articles/2026-06-26_genel-reuters-com.md|GENEL - reuters.com]]
+- [[raw/articles/2026-06-26_greece-expect.md|Greece Expect]]
+- [[raw/articles/2026-06-26_greece-expected-announce-social-m.md|Greece Expected Announce Social M]]

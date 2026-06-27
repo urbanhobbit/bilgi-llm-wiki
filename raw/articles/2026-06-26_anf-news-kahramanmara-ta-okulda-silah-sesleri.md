@@ -33,3 +33,14 @@ ANF News (Firat News Agency) reports on the Kahramanmaraş school incident where
 ## Turkey Context
 
 ANF Haber Ajansı'nın kahramanmaraş okul saldırısı haberciliği, Türkiye'de farklı medya perspektiflerinin olayı nasıl çerçevelediğini göstermektedir. ANF, Türkiye'deki Kürt siyasi hareketine yakınlığıyla bilinen bir haber ajansıdır. Ajansın haberciliği, Türkiye'de medya çeşitliliği ve farklı siyasi perspektiflerin temsili açısından değerlendirilmektedir. ANF'ye erişim, zaman zaman BTK tarafından getirilen erişim engelleri nedeniyle kısıtlanmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-anfnews-com-kahramanmarasta-okuld.md|Article from www.anfnews.com: kahramanmarasta okul]]
+- [[raw/articles/2026-06-26_kahramanmara-ta-okulda-silah-sesleri.md|Kahramanmaraş'ta Okulda Silah Sesleri]]
+- [[raw/articles/2026-06-26_kahramanmarasta-okulda-silah-sesleri.md|Kahramanmarasta Okulda Silah Sesleri]]
+- [[raw/articles/2026-06-26_kurator-anfnews-com.md|KURATOR - anfnews.com]]

@@ -35,3 +35,26 @@ Türkiye'de çocukların dijital güvenliği ve sosyal medya koruması konusu, K
 Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Koruma Stratejisi kapsamında, dijital ortamda çocukların maruz kaldığı risklere karşı farkındalık çalışmaları yürütülmektedir. UNICEF Türkiye'nin raporları, Türkiye'de çocukların dijital hakları konusunda kapsamlı bir politika çerçevesine ihtiyaç olduğunu vurgulamaktadır. Sağlık Bakanlığı'nın Ergen Ruh Sağlığı Stratejisi (2024-2028), dijital detoks programlarını ve ekran süresi yönetimini önermektedir. TÜBİTAK bünyesinde yürütülen araştırma projeleri, çocukların dijital davranışları ve çevrimiçi risk algıları üzerine veri sağlamaktadır. Bilgi Teknolojileri ve İletişim Kurumu'nun (BTK) internet güvenliği politikaları, çocukların korunmasına yönelik filtreleme ve izleme mekanizmalarını içermektedir.
 
 Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benzer düzenleme çabaları için önemli bir referans noktası oluşturmaktadır. Türkiye'nin Avrupa Birliği uyum sürecinde, çocukların dijital ortamda korunmasına yönelik standartları AB mevzuatı ile uyumlu hale getirmesi beklenmektedir. Türkiye'de çocukların dijital hakları konusunda çok aktörlü bir yaklaşım benimsenmeli, sivil toplum kuruluşları, akademik kurumlar ve özel sektör sürece dahil edilmelidir. Dijital okuryazarlık eğitiminin MEB müfredatına entegrasyonu güçlendirilmeli, ebeveyn farkındalık programları yaygınlaştırılmalı ve çocuklar için güvenli dijital alanlar oluşturulması teşvik edilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

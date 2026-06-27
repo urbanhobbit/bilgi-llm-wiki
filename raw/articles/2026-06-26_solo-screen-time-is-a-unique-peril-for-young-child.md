@@ -32,3 +32,26 @@ This resource addresses critical aspects of children's digital rights and online
 ## Turkey Context
 
 Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son yıllarda önemli bir gündem maddesi haline gelmiştir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin işlenmesi özel bir önem taşımaktadır — özellikle 18 yaş altı bireylerin açık rızasının geçerliliği ve veli izni gerekliliği konuları halen tartışmalıdır. MEB (Milli Eğitim Bakanlığı), 2023-2026 Dijital Dönüşüm Stratejisi kapsamında okullarda dijital okuryazarlık eğitimini zorunlu hale getirmiş, ancak uygulamada bölgesel eşitsizlikler devam etmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik Çocuk Koruma Kanunu'nda değişiklik çalışmalarını sürdürmektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), sosyal medya platformlarına yönelik düzenlemeler kapsamında 16 yaş altı kullanıcılar için ebeveyn izni zorunluluğu getirilmesini değerlendirmektedir. TÜİK 2025 Çocuk Araştırması verilerine göre Türkiye'de 6-15 yaş grubundaki çocukların %73'ü düzenli olarak internet kullanmakta, %45'i ise sosyal medya hesabına sahiptir. UNICEF Türkiye'nin hazırladığı 2025 Dijital Çocuk Raporu, Türkiye'de çocukların karşılaştığı çevrimiçi risklerin (siber zorbalık, cinsel istismar içerikleri, mahremiyet ihlalleri) arttığını göstermektedir. Politik öneri olarak: Türkiye'nin kapsamlı bir Çocuk Dijital Güvenlik Yasası çıkarması, yaş doğrulama sistemlerini hayata geçirmesi ve okul müfredatında dijital vatandaşlık eğitimini güçlendirmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-retirement-media-solo-screen-time.md|Article from www.retirement.media: solo screen tim]]
+- [[raw/articles/2026-06-26_kurator-retirement-media.md|KURATOR - retirement.media]]
+- [[raw/articles/2026-06-26_solo-screen-time-a-unique-peril-for-young-children.md|Solo Screen Time: A Unique Peril for Young Childre]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-44-935.md|Çocuklar ve Dijital Ortam (44)]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-47-938.md|Çocuklar ve Dijital Ortam (47)]]

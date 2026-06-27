@@ -33,3 +33,20 @@ priority: normal
 ## Turkey Context
 
 Ali Yalçın'ın sanal ortamda organize edilmiş bir terör hadisesiyle karşı karşıya olunduğuna dair açıklaması, Türkiye'nin dijital güvenlik ve terörle mücadele politikaları açısından büyük önem taşımaktadır. Sosyal medya platformlarında örgütlenen grupların toplumsal huzuru bozmaya yönelik faaliyetleri, güvenlik birimlerinin yakın takibi altındadır. BTK (Bilgi Teknolojileri ve İletişim Kurumu), terör örgütlerinin sosyal medya propagandasının tespiti ve engellenmesi için gelişmiş algoritmik sistemler kullanmaktadır. KVKK (Kişisel Verileri Koruma Kurumu), terör soruşturmalarında kişisel verilerin hukuka uygun şekilde toplanması ve işlenmesi konusunda düzenleyici rol oynamaktadır. MEB (Milli Eğitim Bakanlığı), öğrencilere dijital ortamda radikalleşme risklerine karşı farkındalık eğitimleri vermekte, güvenli internet kullanımı konusunda rehberlik hizmetleri sunmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, gençlerin çevrimiçi ortamda radikal grupların etkisine girmesini önlemek için ailelere rehberlik hizmetleri ve danışmanlık desteği sunmaktadır. TÜİK verileri, genç nüfusun sosyal medya kullanım alışkanlıkları ve çevrimiçi radikalleşme riskleri konusunda önemli istatistikler sunmaktadır. UNICEF Türkiye, çocukların ve gençlerin çevrimiçi ortamda şiddet içeriklerinden ve radikalleşmeden korunması için ulusal ve uluslararası düzeyde savunuculuk çalışmaları yürütmektedir. Vatandaşların şüpheli hesapları ve içerikleri 112 Acil Çağrı Merkezi ve emniyet birimlerine bildirmesi, dijital güvenliğin sağlanmasında kritik bir rol oynamaktadır. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ali-yalcin-sanal-ortamda-organize-edilmis-bir-tero.md|Ali Yalcin Sanal Ortamda Organize Edilmis Bir Tero]]
+- [[raw/articles/2026-06-26_article-from-www-dha-com-tr-ali-yalcin-sanal-ortam.md|Article from www.dha.com.tr: ali yalcin sanal orta]]
+- [[raw/articles/2026-06-26_dha-ali-yal-n-sanal-ortamda-organize-edilmi-ter-r-.md|DHA: Ali Yalçın - Sanal Ortamda Organize Edilmiş T]]
+- [[raw/articles/2026-06-26_genel-dha-com-tr.md|GENEL - dha.com.tr]]

@@ -32,3 +32,22 @@ priority: high
 ## Turkey Context
 
 BBC'nin çocukların yapay zeka kullanımına ilişkin bu haberi, Türkiye'deki dijital dönüşüm politikaları açısından önemli çıkarımlar sunmaktadır. Türkiye'de çocukların yapay zeka araçlarına erişimi ve kullanım alışkanlıkları konusunda kapsamlı ulusal veri bulunmamakla birlikte, TÜİK'in hanelerde bilişim teknolojileri kullanım araştırması, çocukların dijital araçlara erişiminin hızla arttığını göstermektedir. Milli Eğitim Bakanlığı'nın (MEB) dijital okuryazarlık müfredatına yapay zeka okuryazarlığının entegre edilmesi, bu alandaki en önemli politika ihtiyaçlarından biridir. 6698 sayılı KVKK kapsamında çocukların kişisel verilerinin korunması ayrı bir önem taşımakta olup, özellikle yapay zeka sistemlerinin çocuk kullanıcılardan veri toplaması konusunda daha sıkı düzenlemeler gerekmektedir. Türkiye'nin hazırlıklarını sürdürdüğü Dijital Hizmetler Kanunu'nun, AB'nin Dijital Hizmetler Yasası (DSA) ile uyumlu bir şekilde çocukların çevrimiçi korunmasını güçlendirmesi beklenmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamda korunmasına yönelik farkındalık kampanyaları, ebeveynlerin yapay zeka okuryazarlığını da kapsayacak şekilde genişletilmelidir. UNICEF Türkiye'nin bu konudaki teknik destek ve rehberliği, politika yapım sürecinde değerlendirilmelidir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), internet kullanımının düzenlenmesi ve çocukların zararlı içeriklerden korunması için GÃ¼venli İnternet Hizmeti'ni yürütmektedir. Ayrıca, sosyal medya platformlarının çocuk kullanıcılara yönelik politikalarını denetlemektedir. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Ayrıca bu konu, Türkiye'nin dijital dönüşüm politikaları ve uluslararası yükümlülükleri çerçevesinde değerlendirilmektedir. KVKK kapsamında kişisel verilerin korunması, BTK düzenlemeleri ve MEB'in dijital okuryazarlık programları bu alandaki temel politika araçlarını oluşturmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik çalışmalarını sürdürmekte, TÜİK tarafından yayınlanan istatistikler ise Türkiye'de internet ve sosyal medya kullanımının her geçen yıl arttığını göstermektedir. UNICEF Türkiye de bu alanda önemli projeler yürütmekte ve politika önerileri sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

@@ -32,3 +32,24 @@ priority: medium
 ## Turkey Context
 
 Molly Rose Foundation'ın Avustralya sosyal medya yasağı araştırması, Türkiye'deki benzer düzenleme tartışmaları için önemli kanıta dayalı veriler sunmaktadır. Avustralya'nın 16 yaş altı çocuklar için sosyal medya yasağı, Türkiye'de de tartışılan sosyal medya düzenlemeleri açısından önemli bir uluslararası örnek teşkil etmektedir. KVKK (Kişisel Verileri Koruma Kurumu), çocukların kişisel verilerinin korunması konusunda benzer düzenlemeler için hazırlık çalışmaları yürütmektedir. MEB (Milli Eğitim Bakanlığı), dijital okuryazarlık eğitimini yaygınlaştırarak çocukların bilinçli sosyal medya kullanımını teşvik etmekte, okullarda sosyal medya farkındalığı eğitimleri düzenlemektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), sosyal medya platformlarının yaş doğrulama mekanizmaları konusunda teknik düzenlemeler yapmakta ve platformların bu yükümlülüklere uyumunu denetlemektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların sosyal medya bağımlılığından korunması için ailelere yönelik rehberlik hizmetleri ve dijital ebeveynlik eğitim programları sunmaktadır. TÜİK verilerine göre Türkiye'de çocukların sosyal medya kullanım oranı giderek artmakta olup, bu durum kapsamlı bir düzenleme ihtiyacını ortaya koymaktadır. UNICEF Türkiye, çocukların dijital haklarının korunması ve sosyal medyanın çocuklar üzerindeki etkilerinin araştırılması için akademik çalışmaları desteklemekte ve politika önerileri geliştirmektedir. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Ayrıca bu konu, Türkiye'nin dijital dönüşüm politikaları ve uluslararası yükümlülükleri çerçevesinde değerlendirilmektedir. KVKK kapsamında kişisel verilerin korunması, BTK düzenlemeleri ve MEB'in dijital okuryazarlık programları bu alandaki temel politika araçlarını oluşturmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik çalışmalarını sürdürmekte, TÜİK tarafından yayınlanan istatistikler ise Türkiye'de internet ve sosyal medya kullanımının her geçen yıl arttığını göstermektedir. UNICEF Türkiye de bu alanda önemli projeler yürütmekte ve politika önerileri sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]
+- [[raw/articles/2026-06-26_kurator-mollyrosefoundation-org.md|KURATOR - mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_molly-rose-foundation-australia-social-media-ban-r.md|Molly Rose Foundation: Australia Social Media Ban ]]
+- [[raw/articles/2026-06-26_mollyrosefoundation-org.md|mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_mrf-australia-social-media-ban-research-b.md|Mrf Australia Social Media Ban Research B]]

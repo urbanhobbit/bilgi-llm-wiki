@@ -35,3 +35,17 @@ This article published in Telematics and Informatics Reports (a ScienceDirect jo
 ## Turkey Context
 
 Türkiye'de dijital teknolojilerin toplumsal etkileri üzerine yapılan akademik çalışmalar, uluslararası literatürle paralellik göstermektedir. Telematics and Informatics Reports gibi dergilerde yayınlanan araştırmalar, Türkiye'de dijital bölünmüşlük, çevrimiçi davranış kalıpları ve teknoloji benimseme süreçlerine ilişkin önemli bulgular sunmaktadır. TÜİK'in 2025 'Hanehalkı Bilişim Teknolojileri Kullanım Araştırması', Türkiye'de internet kullanım oranının %88,3'e ulaştığını, ancak dijital becerilerdeki eşitsizliklerin devam ettiğini göstermektedir. ULAKBİM'in Türk akademisyenler için sağladığı uluslararası yayın desteği ve abonelik anlaşmaları, bu tür dergilere erişimi kolaylaştırmaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında desteklediği dijital dönüşüm projeleri, Türkiye'de bu alandaki araştırma kapasitesini artırmaktadır. Türk üniversitelerinde yürütülen dijital sosyoloji ve bilişim çalışmaları, uluslararası dergilerde giderek daha fazla yer bulmaktadır. ScienceDirect gibi platformlara erişim kısıtlamaları, Türk araştırmacıların güncel literatüre erişiminde zorluklar yaratmakta ve açık erişim politikalarının önemini vurgulamaktadır. Bu bağlamda, ulusal ve uluslararası akademik işbirliklerinin güçlendirilmesi ve bilgiye açık erişimin teşvik edilmesi kritik önem taşımaktadır. TÜİK'in 2025 Hanehalkı Bilişim Teknolojileri Kullanım Araştırması, Türkiye'de hanelerin %96,2'sinde internete erişim imkanı bulunduğunu, ancak dijital becerilerde cinsiyet, yaş ve bölgesel farklılıkların devam ettiğini göstermektedir. ULAKBİM'in Türk akademisyenler için sağladığı ulusal ve uluslararası veri tabanlarına erişim hizmeti, ScienceDirect gibi platformlardaki akademik yayınlara ulaşımı kolaylaştırmaktadır. TÜBİTAK'ın Açık Erişim Politikası ve Dergipark platformu, Türkiye'de akademik yayıncılığın dijital dönüşümünü desteklemektedir. Türk üniversitelerinde dijital sosyoloji, bilişim etiği ve teknoloji yönetimi alanlarında yürütülen lisansüstü tez çalışmaları, bu dergide yayınlanan makalelerle benzer temaları işlemektedir. YÖK'ün uluslararası yayın teşvik programı, Türk araştırmacıların ScienceDirect gibi prestijli platformlarda yayın yapmasını desteklemektedir. Türkiye'de akademik bilgiye erişim altyapısının güçlendirilmesi, araştırma kalitesinin artırılması için kritik önem taşımaktadır. Türkiye'de dijital dönüşümün toplumsal etkileri üzerine yapılan akademik çalışmaların uluslararası dergilerde yayınlanma oranı, son beş yılda önemli artış göstermiştir. YÖK'ün uluslararası yayın teşvik programı ve TÜBİTAK'ın açık erişim politikaları, Türk araştırmacıların küresel akademik üretime katkısını artırmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
+- [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
+- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
+- [[raw/articles/2026-06-26_the-effects-of-social-media-restriction-meta-analy.md|The effects of social media restriction: Meta-anal]]
+- [[raw/articles/akademik-yayn-12-979.md|Akademik Yayın (12)]]

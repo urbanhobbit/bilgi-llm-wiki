@@ -115,3 +115,21 @@ Climate disinformation from state actors is part of broader campaigns of manipul
 *Paolo Cesarini, Editorial Director | Tommaso Canetta, Editor-in-Chief | Editorial Staff: Elena Coden, Paula Gori, Elena Maggi*
 
 *This edition draws in part on automated translation and reflects information available as of 3 June 2026. Later developments may not be included.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/climate-disinformation.md|Climate Disinformation (İklim Dezenformasyonu)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/edmo.md|Edmo]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|EDMO Weekly Pulse - March 26, 2026]]
+- [[raw/articles/2026-04-01-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 1, 2026]]
+- [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
+- [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
+- [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]

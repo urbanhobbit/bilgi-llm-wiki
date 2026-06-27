@@ -30,3 +30,22 @@ Bianet'te yayımlanan bu kapsamlı analiz yazısı, dijital güvenliğin seçim 
 ## Turkey Context
 
 Bianet'in bu analizi, Türkiye açısından son derece güncel ve önemli bir konuyu ele almaktadır. Türkiye'de seçim güvenliği uzun yıllardır kamuoyunun gündeminde olan hassas bir başlıktır. Özellikle 2017 anayasa değişikliği referandumu ve sonraki genel seçimlerde, elektronik oy sayım sistemleri, YSK'nın siber altyapısı ve seçim verilerinin bütünlüğü sıkça tartışılmıştır. Muhalefet partileri ve sivil toplum kuruluşları, seçim süreçlerinde daha fazla şeffaflık ve bağımsız denetim talep etmektedir. Türkiye'de dijital güvenlik açısından en kritik konulardan biri, seçmen kütüklerinin güncellenmesi ve oy verme işlemlerinin kayıt altına alınmasıdır. 2023 cumhurbaşkanlığı seçimleri öncesinde ve sonrasında, YSK'nın veri tabanına yönelik siber saldırı iddiaları gündeme gelmiş, bu durum seçim güvenliği tartışmalarını daha da alevlendirmiştir. Seçim günü yaşanan usulsüzlük iddiaları, dijital altyapının güvenilirliğine duyulan güveni doğrudan etkilemektedir. Ayrıca, sosyal medya platformlarında seçim dönemlerinde yoğunlaşan dezenformasyon faaliyetleri, Türkiye'de dijital okuryazarlığın ve bağımsız doğrulama mekanizmalarının önemini bir kez daha ortaya koymaktadır. Türkiye'de 2023 seçimleri öncesinde yabancı kaynaklı siber müdahale iddiaları ve bot hesaplar üzerinden yürütülen manipülasyon kampanyaları geniş yankı uyandırmış, bu durum ulusal siber güvenlik stratejilerinin gözden geçirilmesine yol açmıştır. Teyit.org ve Doğruluk Payı gibi bağımsız doğrulama platformları seçim dönemlerinde yoğun bir mesai harcamakta ancak dezenformasyonun hızına yetişmekte zorlanmaktadır. YSK'nın dijital altyapısına yönelik bağımsız denetim çağrıları, seçim güvenliği tartışmalarının merkezinde yer almaktadır. Türkiye'de siyasi partiler arasındaki güvensizlik ortamı, seçim sistemlerinin dijital bileşenlerine duyulan şüpheyi daha da artırmaktadır. Bu güvensizlik, aynı zamanda seçim sonuçlarının meşruiyeti konusunda toplumsal bir kutuplaşmaya da yol açmaktadır. Sonuç olarak, Bianet'in vurguladığı gibi, Türkiye'de seçim süreçlerinin dijital güvenliği yalnızca teknik bir konu değil, demokratik meşruiyetin temel taşlarından biridir ve bu alanda atılacak adımlar, halkın seçimlere ve demokratik kurumlara olan güvenini doğrudan belirleyecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bianet-org.md|Bianet]]
+- [[entities/bianet-org.md|Bianet Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_265342-dijital-guvenligin-secim-surecindeki-onemi.md|265342 Dijital Guvenligin Secim Surecindeki Onemi]]
+- [[raw/articles/2026-06-26_265342-dijital-guvenligin-seyim-surecindeki-onemi.md|265342 Dijital Guvenligin Seyim Surecindeki Onemi]]
+- [[raw/articles/2026-06-26_article-from-bianet-org-265342-dijital-guvenligin-.md|Article from bianet.org: 265342 dijital guvenligin]]
+- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-bianet.md|Dijital Güvenliğin Seçim Sürecindeki Önemi — Biane]]
+- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-bianet-a.md|Dijital Güvenliğin Seçim Sürecindeki Önemi — Biane]]

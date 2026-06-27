@@ -32,3 +32,21 @@ Avrupa Birliği Dijital Hizmetler Yasası (DSA) Paketi, AB genelinde çevrimiçi
 ## Turkey Context
 
 AB Dijital Hizmetler Yasası (DSA) Paketi, Türkiye'nin dijital düzenleme politikaları açısından hem bir normatif referans modeli hem de AB adaylık süreci ve Gümrük Birliği'nin güncellenmesi müzakereleri kapsamında uyum yükümlülüğü doğuran bir çerçeve olarak değerlendirilmelidir. Türkiye, AB aday ülke statüsü ve mevcut ticari entegrasyon düzeyi göz önüne alındığında, DSA'nın getirdiği düzenleyici standartlara kademeli olarak uyum sağlama yönünde stratejik bir yönelim içinde olmalıdır. Ancak Türkiye'nin mevcut dijital düzenleme yaklaşımı, DSA'nın temel aldığı insan hakları odaklı, orantılı, şeffaf, çok paydaşlı ve bağımsız denetim mekanizmalarına dayalı modelden önemli ölçüde farklılaşmaktadır. 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun ve ilgili ikincil düzenlemeler, DSA'nın aksine daha çok içerik yasaklama, erişim engelleme ve idari yaptırım odaklı bir yaklaşım benimsemekte; şeffaflık raporlaması, risk değerlendirmesi ve kullanıcı itiraz mekanizmaları gibi DSA'nın temel yapı taşları Türk mevzuatında ya hiç bulunmamakta ya da yetersiz düzeyde düzenlenmektedir. Bilgi Teknolojileri ve İletişim Kurumu'nun (BTK) DSA'daki Dijital Hizmetler Koordinatörü modeliyle kısmen örtüşen yetkileri bulunmakla birlikte, kurumsal bağımsızlık, şeffaflık, hesap verebilirlik ve paydaş katılımı standartları açısından önemli farklılıklar bulunmaktadır. DSA'nın çocuklara yönelik hedefli reklam yasağı, karanlık desen yasağı, algoritmik şeffaflık, platformların sistematik risk değerlendirmesi yapma yükümlülüğü ve bağımsız denetim gibi yenilikçi ve ileri düzey hükümleri, Türk mevzuatında henüz karşılık bulmamıştır. Kişisel Verileri Koruma Kurumu (KVKK), DSA'daki reklam şeffaflığı, profil oluşturma yasakları ve kullanıcı rızasına ilişkin hükümlerle kısmen örtüşen düzenlemeler yapma potansiyeline sahip olmakla birlikte, bu alandaki yetkisi ve kurumlar arası koordinasyon mekanizmaları sınırlıdır. Ticaret Bakanlığı'nın e-ticaret düzenlemeleri, DSA'nın pazar yeri şeffaflığı, satıcı doğrulama ve ürün izlenebilirliği hükümleriyle uyumlu hale getirilebilir. Milli Eğitim Bakanlığı'nın dijital eğitim platformlarında kullanılan algoritmaların ve kişiselleştirilmiş öğrenme sistemlerinin çocuklar üzerindeki etkisi, DSA'daki sistematik risk değerlendirme ve azaltım yükümlülükleri model alınarak bağımsız bir etki değerlendirmesi ve denetime tabi tutulabilir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların çevrimiçi ortamda korunmasına ilişkin politikaları, DSA'nın çocuk hakları temelli, risk odaklı ve katılımcı yaklaşımıyla uyumlu hale getirilmelidir. TÜİK'in dijital platform kullanımı, çevrimiçi riskler ve çocukların dijital deneyimlerine ilişkin düzenli ve ayrıştırılmış veri toplama kapasitesinin ve metodolojisinin geliştirilmesi, DSA benzeri bir düzenlemenin etkin şekilde uygulanması, izlenmesi ve değerlendirilmesi için ön koşuldur. UNICEF Türkiye'nin çocuk hakları ve dijital ortam konusundaki teknik uzmanlığı ve savunuculuk deneyimi, Türkiye'nin DSA'ya uyum sürecinde ve ulusal dijital politikanın çocuk hakları temelinde yeniden yapılandırılmasında önemli bir kaynak ve ortaklık fırsatı oluşturabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
+- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
+- [[raw/articles/2026-06-26_eu-digital-strategy-digital-services-act-package.md|EU Digital Strategy: Digital Services Act Package]]
+- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
+- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

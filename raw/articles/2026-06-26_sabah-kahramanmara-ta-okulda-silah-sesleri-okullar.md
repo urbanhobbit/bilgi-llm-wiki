@@ -33,3 +33,13 @@ Sabah reports that schools were closed in Kahramanmaraş following gunshot incid
 ## Turkey Context
 
 Sabah gazetesinin haberine göre, Kahramanmaraş'taki okul saldırısı sonrası okulların kapatılması, Türkiye'de acil durum yönetimi ve okul güvenliği protokollerinin bir parçasıdır. Milli Eğitim Bakanlığı, benzer olayların tekrarlanmaması için okullarda güvenlik önlemlerini artırma kararı almıştır. Bu tedbirler, öğrenci ve öğretmenlerin can güvenliğini sağlamayı hedeflemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-sabah-com-tr-kahraman-maramsada-o.md|Article from www.sabah.com.tr: kahraman maramsada ]]
+- [[raw/articles/2026-06-26_kahraman-maramsada-okulda-silah-sesleri-nedeniyle-.md|Kahraman Maramsada Okulda Silah Sesleri Nedeniyle ]]
+- [[raw/articles/2026-06-26_kurator-sabah-com-tr.md|KURATOR - sabah.com.tr]]

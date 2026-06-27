@@ -34,3 +34,24 @@ This systematic review by Bliuc, Yilmaz, and Norrie (2026) examines the emotiona
 ## Turkey Context
 
 Türkiye'de popülist siyasal iletişimin duygusal mantığı, özellikle sosyal medya platformlarının yaygın kullanımı bağlamında kritik bir araştırma alanıdır. Bu çalışma, Türkiye'deki siyasi kutuplaşma ve popülist söylem dinamiklerini anlamak için önemli bir teorik çerçeve sunmaktadır. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında, siyasi partilerin seçmen verilerini hedefleme amaçlı kullanımı ve duygusal temelli mikro-hedefleme stratejileri, Türkiye'de giderek artan bir düzenleme ihtiyacını ortaya koymaktadır. 2024 yılında kabul edilen Dijital Hizmetler Kanunu (7412 sayılı), sosyal medya platformlarının siyasi içerik denetimi ve şeffaflık yükümlülüklerini düzenlemekte, ancak popülist duygusal iletişimin algoritmik amplifikasyonu konusunda henüz yeterli düzenleme bulunmamaktadır. RTÜK'ün yayın hizmeti ilkeleri kapsamında dijital platformlarda siyasi reklam ve içerik denetimi, bu bağlamda önem kazanmaktadır. TÜBİTAK'ın 2025 yılında başlattığı 'Dijital Siyasal İletişim ve Kutuplaşma' araştırma programı, Türkiye'de popülist söylemin duygusal mekanizmalarını incelemeyi hedeflemektedir. Ayrıca, İletişim Başkanlığı bünyesinde yürütülen dezenformasyonla mücadele çalışmaları, duygusal temelli yanlış bilginin yayılımını engellemeye yönelik önlemleri içermektedir. AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde Türkiye'nin, popülist iletişimin algoritmik yayılımını sınırlandıracak düzenlemeler yapması beklenmektedir. Bu bağlamda, sosyal medya platformlarının siyasi içerik denetimi, duygusal manipülasyonu önleyecek şeffaflık mekanizmaları ve kullanıcıların medya okuryazarlığının güçlendirilmesi, Türkiye'nin dijital demokrasi geleceği için kritik politika alanlarıdır. Türkiye'de siyasi partilerin sosyal medya stratejileri, özellikle 2023 cumhurbaşkanlığı seçimleri ve 2024 yerel seçimleri sürecinde duygusal iletişimin yoğun olarak kullanıldığını göstermektedir. Türkiye'deki siyasi partiler, seçmen kitlelerini mobilize etmek için öfke, kızgınlık ve kolektivist duygulara hitap eden mesaj stratejilerini benimsemektedir. Bu bağlamda, Dijital Hizmetler Kanunu (7412 sayılı) kapsamında platformların siyasi içerik denetimi ve algoritmik şeffaflık yükümlülükleri, popülist duygusal iletişimin kontrol altına alınmasında kritik öneme sahiptir. RTÜK'ün dijital platformlarda yayın ilkeleri denetimi, siyasi reklam ve propaganda içeriklerinin düzenlenmesinde önemli bir rol oynamaktadır. İletişim Başkanlığı bünyesindeki Stratejik İletişim ve Kriz Yönetimi birimleri, duygusal temelli dezenformasyon kampanyalarına karşı proaktif mücadele yürütmektedir. Akademik alanda, İstanbul Bilgi Üniversitesi, Sabancı Üniversitesi ve Koç Üniversitesi bünyesinde yürütülen siyasal iletişim araştırmaları, Türkiye'de popülist duygusal iletişimin dinamiklerini incelemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
+- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]

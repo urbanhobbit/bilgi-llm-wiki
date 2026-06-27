@@ -39,3 +39,12 @@ Euroconsumers tarafından Haziran 2026'da yayımlanan bu 4 sayfalık politika ra
 ## Turkey Context
 
 Euroconsumers'ın 'Yasağın Ötesinde' başlıklı bu raporu, Türkiye'de son dönemde artan sosyal medya yasağı tartışmalarına alternatif bir politika çerçevesi sunmaktadır. Raporun en önemli katkısı, mevcut düzenlemelerin etkin uygulanması vurgusudur. Türkiye'de 6698 sayılı KVKK ve 5651 sayılı Kanun kapsamında çocukları koruyucu hükümler bulunmasına rağmen, bu hükümlerin uygulanmasında ciddi eksiklikler yaşanmaktadır. Raporun 'sadece yeni yaş sınırı getirmek sorunu çözmez' tespiti, Türkiye'de 13 yaş altı sosyal medya yasağı tartışmalarına doğrudan ışık tutmaktadır. Mevcut yaş sınırlamalarının bile etkin uygulanamadığı bir ortamda, daha katı sınırlamaların başarılı olması beklenmemelidir. Raporun önerdiği 'çocuklara yönelik davranışsal reklamcılığın yasaklanması' çağrısı, Türkiye'de henüz tartışılmamış bir konudur. Kişisel Verileri Koruma Kurulu'nun (KVKK) çocukların kişisel verilerinin işlenmesine ilişkin rehberi, raporun önerdiği çocuk merkezli tasarım ilkelerini içermemektedir. 'Çocukların kuralları şekillendirmesine izin verin' önerisi, Türkiye'de çocuk katılımının en zayıf olduğu alanlardan birine işaret etmektedir. MEB ve Aile Bakanlığı'nın politika yapım süreçlerine çocukların doğrudan katılımını sağlayacak mekanizmalar oluşturulmalıdır. Raporun 'pozitif sürtünme' kavramı, Türkiye'deki platform düzenlemelerinde henüz yer bulmamış yenilikçi bir yaklaşımdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]

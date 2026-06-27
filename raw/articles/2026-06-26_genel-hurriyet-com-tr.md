@@ -30,3 +30,16 @@ Macaristan seçimleri, Avrupa siyasetinde yaşanan dönüşüm ve Viktor Orban'�
 ## Turkey Context
 
 Macaristan seçim sonuçları, Türkiye-AB ilişkileri ve Avrupa'daki siyasi dönüşüm açısından önemli sinyaller taşımaktadır. Orban döneminde geliştirilen ikili ilişkilerin yeni dönemde nasıl şekilleneceği merak konusudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-kahramanmarasta-o.md|Article from www.hurriyet.com.tr: kahramanmarasta ]]
+- [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-secim-guvenligi-v.md|Article from www.hurriyet.com.tr: secim guvenligi ]]
+- [[raw/articles/2026-06-26_h-rriyet-kahramanmara-ta-okulda-silah-sesleri.md|Hürriyet: Kahramanmaraş'ta Okulda Silah Sesleri ]]
+- [[raw/articles/2026-06-26_h-rriyet-se-im-g-venli-i-ve-dezenformasyon.md|Hürriyet: Seçim Güvenliği ve Dezenformasyon ]]
+- [[raw/articles/2026-06-26_kahramanmara-ta-okulda-silah-sesi-h-rriyet.md|Kahramanmaraş'ta Okulda Silah Sesi - Hürriyet]]

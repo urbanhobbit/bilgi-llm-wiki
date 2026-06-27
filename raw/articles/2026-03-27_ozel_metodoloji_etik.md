@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-03-27T00:00:00Z'
 ---
 
+## 🤖 YZ Destekli Hakem Değerlendirmesi ### 1. Akademik Hakem ...'
+resource: https://arxiv.org/html/2602.00319
+tags:
+- raw
+timestamp: '2026-03-27T00:00:00Z'
+---
+
 # YZ Metodoloji ve Etik - Telafi Taraması
 ## 27 Mart 2025 Raporu
 
@@ -134,3 +141,16 @@ timestamp: '2026-03-27T00:00:00Z'
 ---
 
 *Küratör tarafından telafi taraması olarak derlendi*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
+- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-18_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]

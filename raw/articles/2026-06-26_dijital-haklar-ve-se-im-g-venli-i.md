@@ -33,3 +33,17 @@ Cumhuriyet gazetesinin teknoloji bölümünde yayımlanan bu analiz, dijital hak
 ## Turkey Context
 
 Türkiye'de dijital haklar ve seçim güvenliği konusu, özellikle 2023 seçimleri sonrasında daha da önem kazanmıştır. 5651 sayılı İnternet Kanunu'na eklenen 'dezenformasyonla mücadele' düzenlemeleri, seçim dönemlerinde sosyal medya içeriklerinin denetimini artırmıştır. BTK'nın sosyal medya yasası kapsamında Twitter, YouTube, Instagram gibi platformlara getirdiği yükümlülükler, bu platformların seçim dönemlerindeki rolünü doğrudan etkilemektedir. RTÜK, seçim dönemlerinde geleneksel medyaya yönelik yayın ilkeleri belirlerken, dijital yayın platformları ve sosyal medya için de benzer düzenlemeler gündeme gelmektedir. KVKK, seçim dönemlerinde siyasi partiler ve adaylar tarafından vatandaşların kişisel verilerinin işlenmesi, hedefli siyasal iletişim ve mikro hedefleme faaliyetleri konusunda düzenleyici rol üstlenmektedir. Türkiye'de seçim güvenliği denildiğinde akla gelen en önemli kurumlardan biri olan YSK, dijital dönüşüm sürecinde siber güvenlik önlemlerini artırmakta ve seçim sonuçlarının güvenli iletimi için yeni protokoller geliştirmektedir. Dijital hakların korunması açısından, vatandaşların seçim dönemlerinde doğru bilgiye erişim hakkı, dezenformasyona karşı korunma ve özel hayatın gizliliği gibi temel hakların güvence altına alınması büyük önem taşımaktadır. Türkiye'nin bu alanda Avrupa Birliği'nin Dijital Hizmetler Yasası (DSA) gibi düzenlemeleri referans alarak daha kapsamlı bir dijital haklar çerçevesi oluşturması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

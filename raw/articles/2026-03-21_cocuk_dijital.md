@@ -9,6 +9,14 @@ tags:
 timestamp: '2026-03-21T00:00:00Z'
 ---
 
+Başlık: New advice to help parents discuss harmful online content
+  - BBC News Yazar/Kurum: BBC News (David Scales, Astrea Academy müdürü) Tarih: 10...'
+resource: https://www.bbc.co.uk/news/articles/crm8wg1wg4go
+tags:
+- raw
+timestamp: '2026-03-21T00:00:00Z'
+---
+
 ---
 Başlık: New advice to help parents discuss harmful online content - BBC News
 Yazar/Kurum: BBC News (David Scales, Astrea Academy müdürü)
@@ -22,3 +30,16 @@ YORUM (200+ kelime):
 BBC News'in bu haberi, ebeveynlerin ve eğitimcilerin çocukların dijital dünyadaki güvenliği konusundaki derin endişelerini ve somut beklentilerini açıkça ortaya koymaktadır. Astrea Academy müdürü David Scales'ın 16 yaş altı için sosyal medya yasağı ve okullarda telefon yasağı önerileri, dijital kısıtlamalar konusundaki toplumsal talebin somut bir örneğidir. Bu tür öneriler, çocukların fiziksel ve ruhsal sağlığını koruma amacı taşımakla birlikte, çocukların dijital vatandaşlık hakları ve katılım özgürlükleri bağlamında tartışılması gereken önemli konuları gündeme getirmektedir. Türkiye'deki benzer tartışmalar göz önüne alındığında, bu haber, ebeveynlerin ve eğitimcilerin çocukları internetin zararlı içeriklerinden koruma konusundaki ortak kaygılarını yansıtmaktadır. Ancak, sadece yasaklayıcı yaklaşımlar yerine, çocuklara dijital okuryazarlık becerileri kazandırılması, eleştirel medya kullanımı konusunda rehberlik edilmesi ve ebeveynlerin çocuklarıyla açık iletişim kurmalarının teşvik edilmesi gibi daha bütüncül stratejilerin gerekliliği de gözden kaçırılmamalıdır. Bu haber, politika yapıcıların hem koruma hem de katılım ilkelerini dengeleyen, yaşa ve gelişim düzeyine uygun çözümler üretme zorunluluğunu bir kez daha vurgulamaktadır.
 
 Kategori etiketi: kısıtlama
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]

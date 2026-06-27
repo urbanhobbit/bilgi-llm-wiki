@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-08T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...'
+resource: https://arxiv.org/abs/2605.00368
+tags:
+- raw
+timestamp: '2026-06-08T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni
 
 **Date:** 2026-06-08
@@ -543,3 +550,36 @@ UK Online Safety Act deneyimi, Türkiye'deki benzer düzenleme çalışmaları i
 
 *Bu bülten KURATOR araştırma otomasyon sistemi tarafından 2026-06-08 tarihinde hazırlanmıştır.*
 *Kaynaklar: arXiv (12 akademik makale), World Happiness Report 2026, Aura Gençlik Raporu, 5Rights Foundation, Avrupa Komisyonu, FTC, ParentZone, IWF, The Guardian, LSE.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/internet-watch-foundation.md|Internet Watch Foundation (IWF)]]
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
+- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

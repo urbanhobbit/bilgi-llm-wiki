@@ -33,3 +33,18 @@ Hungarian news sources report on the historic 2026 parliamentary elections, whic
 ## Turkey Context
 
 Macaristan'daki 2026 parlamento seçimleri ve Viktor Orbán'ın tarihi yenilgisi, Türkiye'nin de yakından izlediği önemli bir siyasi gelişmedir. Orbán döneminde Türkiye ile Macaristan arasında gelişen yakın diplomatik ilişkiler, iki ülke arasındaki ticaret hacminin 4 milyar doların üzerine çıkmasına ve enerji alanında işbirliğinin derinleşmesine katkı sağlamıştır. Orbán'ın AB içinde Türkiye'nin pozisyonuna verdiği destek, özellikle 2016 göç anlaşması ve AB genişlemesi konularında belirleyici olmuştur. Yeni Başbakan Péter Magyar'ın iktidara gelmesiyle birlikte Macaristan'ın AB içindeki tutumu ve Türkiye-AB ilişkilerindeki pozisyonu önemli ölçüde değişebilir. Yeni hükümetin dış politika öncelikleri arasında AB ile ilişkilerin normalleştirilmesi, hukukun üstünlüğü reformları ve şeffaflık önlemleri yer almakta olup, bu değişim AB genişlemesi, göç politikaları ve enerji güvenliği konularında Türkiye'nin çıkarlarını doğrudan etkileyebilecek potansiyele sahiptir. Ayrıca, Macaristan seçim sürecinde yaşanan dezenformasyonla mücadele deneyimleri, Türkiye için de önemli dersler içermektedir. Türkiye'de seçim dönemlerinde dezenformasyonla mücadele kapsamında Bilgi Teknolojileri ve İletişim Kurumu (BTK) ve emniyet birimleri tarafından çeşitli önlemler alınmakta, 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun ve 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında sosyal medya platformlarında yalan haber ve manipülatif içeriklerin tespiti ve kaldırılması için çalışmalar yürütülmektedir. Milli Eğitim Bakanlığı (MEB) ise medya okuryazarlığı ve dijital vatandaşlık eğitimini müfredata dahil ederek daha bilinçli bir seçmen kitlesinin oluşmasına katkı sağlamayı hedeflemektedir. Orbán'ın 14 yıllık iktidarının sona ermesiyle, Türkiye'nin AB içindeki en güçlü müttefiklerinden birini kaybetmesi, Ankara'nın Brüksel stratejisini yeniden gözden geçirmesini gerektirebilir. Yeni Macaristan hükümetinin İsrail-Filistin politikası, enerji diplomasisi ve NATO yükümlülükleri konusunda alacağı pozisyonlar da Türkiye'nin bölgesel çıkarları açısından yakından izlenmelidir. Türkiye'nin AB üyelik sürecinin geleceği açısından bakıldığında, Macaristan'da iktidar değişikliği AB içindeki genişleme yanlısı blokta önemli bir değişim yaratabilir. Ankara'nın yeni Macaristan hükümetiyle kuracağı ikili ilişkiler, önümüzdeki dönemde dış politika öncelikleri arasında yer alacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
+- [[raw/articles/2026-06-26_genel-index-hu.md|GENEL - index.hu]]
+- [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]
+- [[raw/articles/2026-06-26_index-hu-belfold-2026-valasztas-2026-orszaggyu.md|Index.hu - belfold 2026 valasztas 2026 orszaggyu]]
+- [[raw/articles/2026-06-26_index-hu-first-kremlin-reaction-orb-n-s-election-c.md|Index.hu: First Kremlin Reaction - Orbán's Electio]]

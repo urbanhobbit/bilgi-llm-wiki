@@ -32,3 +32,16 @@ Anadolu Ajansı'nın aktardığına göre, okul saldırılarıyla ilgili sosyal 
 ## Turkey Context
 
 Okul saldırılarıyla ilgili sosyal medyada suç içerikli paylaşım yapan 12 kişi hakkında başlatılan adli soruşturma, Türkiye'de dijital platformların düzenlenmesi ve siber suçlarla mücadele kapsamında önemli bir gelişmedir. 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi Hakkında Kanun, internet ortamında işlenen suçlarla mücadelede temel yasal çerçeveyi oluşturmakta, BTK (Bilgi Teknolojileri ve İletişim Kurumu) bu kanun kapsamında düzenleyici ve denetleyici rol üstlenmektedir. Emniyet Genel Müdürlüğü'ne bağlı Siber Suçlarla Mücadele Daire Başkanlığı, sosyal medya platformlarında suç teşkil eden içeriklerin tespiti, takibi ve adli makamlara iletilmesi sürecinde kritik görev yapmaktadır. 5237 sayılı Türk Ceza Kanunu'nun (TCK) 213-217. maddeleri arasında düzenlenen 'Kamu Barışına Karşı Suçlar' kapsamında, halkı korku ve paniğe sürükleyici içeriklerin paylaşılması suç olarak tanımlanmaktadır. Ayrıca, TCK'nın 125. maddesi kapsamında hakaret, 134. maddesi kapsamında özel hayatın gizliliğini ihlal ve 217/A maddesi kapsamında halkı yanıltıcı bilgiyi alenen yayma suçları da bu kapsamda değerlendirilebilmektedir. 5271 sayılı Ceza Muhakemesi Kanunu (CMK) kapsamında, dijital delillerin toplanması ve muhafazası usulüne uygun olarak yapılmaktadır. KVKK (Kişisel Verileri Koruma Kurumu), soruşturma sürecinde kişisel verilerin işlenmesi ve saklanmasına ilişkin usul ve esasları belirlemekte, mağdur ve şüpheli haklarının korunmasını sağlamaktadır. Sosyal medya platformlarının Türkiye'deki temsilcilikleri, 5651 sayılı Kanun'un ek maddeleri kapsamında, yasa dışı içeriklerin kaldırılması ve kullanıcı verilerinin yetkili makamlarla paylaşılması konularında yükümlülük altındadır. Bu platformların Türkiye'deki yasal temsilcilerinin belirlenmesi ve sorumluluklarının tanımlanması, BTK tarafından yürütülen düzenleyici sürecin önemli bir parçasını oluşturmaktadır. Adalet Bakanlığı koordinasyonunda yürütülen soruşturmalarda, dijital delillerin toplanması, analizi ve mahkemede kullanılabilir hale getirilmesi sürecinde adli bilişim uzmanları görev almaktadır. Ayrıca, MEB (Milli Eğitim Bakanlığı), okullarda dijital vatandaşlık ve medya okuryazarlığı eğitimini güçlendirme çalışmalarını sürdürmekte, öğrencilerin sosyal medya kullanımında bilinçli davranmaları ve yasa dışı içeriklerden kaçınmaları konusunda farkındalık programları düzenlemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_3908887.md|3908887]]
+- [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]
+- [[raw/articles/2026-06-26_aa-okul-sald-r-lar-soru-turmas-ve-i-erik-payla-mla.md|AA: Okul Saldırıları Soruşturması ve İçerik Paylaş]]
+- [[raw/articles/2026-06-26_anadolu-ajansi-gundem-okul-saldirilariyla-ilgili-s.md|Anadolu Ajansi - gundem okul saldirilariyla ilgili]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887.md|Article from www.aa.com.tr: 3908887]]

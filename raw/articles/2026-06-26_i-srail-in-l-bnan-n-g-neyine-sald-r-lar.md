@@ -32,3 +32,21 @@ priority: normal
 ## Turkey Context
 
 İsrail'in Lübnan'ın güneyine yönelik saldırıları, Türkiye'nin Orta Doğu politikası ve insani diplomasi anlayışı açısından yakından izlenen bir gelişmedir. Türkiye, saldırıları şiddetle kınayarak uluslararası topluma acil müdahale çağrısında bulunmuştur. Cumhurbaşkanı Erdoğan, savaşların bedelini en çok masum çocukların ödediğini vurgulayarak uluslararası kamuoyunu harekete geçmeye davet etmiştir. MEB (Milli Eğitim Bakanlığı), bölgedeki çatışmalardan etkilenen çocukların Türkiye'de eğitime erişimi için insani yardım programları yürütmektedir. KVKK (Kişisel Verileri Koruma Kurumu), savaş bölgelerinden gelen sığınmacıların kişisel verilerinin korunması konusunda özel düzenlemeler yapmıştır. BTK (Bilgi Teknolojileri ve İletişim Kurumu), savaş propagandası ve dezenformasyonla mücadele kapsamında sosyal medya platformlarında gerekli tedbirleri almaktadır. Aile ve Sosyal Hizmetler Bakanlığı, savaş mağduru çocuklara ve ailelerine psikososyal destek hizmetleri sunmakta, geçici barınma ve insani yardım sağlamaktadır. TÜİK verileri, Türkiye'de geçici koruma altındaki bölge ülkelerinden gelen çocuk sayısı ve bu çocukların eğitim ile sosyal hizmetlere erişim durumları hakkında önemli istatistikler sunmaktadır. UNICEF Türkiye, savaştan etkilenen çocukların korunması, eğitim haklarının sağlanması ve psikososyal destek ihtiyaçlarının karşılanması için Aile ve Sosyal Hizmetler Bakanlığı ile iş birliği halinde çalışmaktadır. Türkiye'nin insani diplomasi anlayışı, bölgesel krizlerde çocukların korunmasını önceliklendirmekte ve uluslararası platformlarda bu konuda liderlik rolü üstlenmektedir. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

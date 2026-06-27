@@ -32,3 +32,22 @@ Common Sense Media's 2026 national survey provides comprehensive data on childre
 ## Turkey Context
 
 Common Sense Media'nın araştırmaları, Türkiye'de çocukların medya kullanımına ilişkin kapsamlı veri toplama ihtiyacını bir kez daha ortaya koymaktadır. TÜİK'in hanelerde bilişim teknolojileri kullanımı araştırması çocukların internet erişimine ilişkin temel veriler sağlasa da, çocukların platform bazlı kullanım alışkanlıkları, karşılaştıkları riskler ve dijital refah düzeyleri hakkında yeterli bilgi sunmamaktadır. RTÜK'ün medya okuryazarlığı çalışmaları ve MEB'in dijital vatandaşlık eğitimi programları daha veri odaklı hale getirilebilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

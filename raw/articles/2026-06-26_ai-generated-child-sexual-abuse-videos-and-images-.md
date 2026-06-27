@@ -33,3 +33,21 @@ The Guardian'da yayınlanan bu makale, yapay zeka tarafından üretilen çocuk c
 ## Turkey Context
 
 AI tarafından üretilen çocuk istismar materyalleri, Türkiye'de de giderek büyüyen bir dijital güvenlik tehdididir. Türkiye'de 5651 sayılı İnternet Ortamında Düzenlemeler Hakkında Kanun ve 2024'te yürürlüğe giren Dijital Hizmetler Kanunu kapsamında çocuk istismarı içeriklerinin kaldırılması ve erişimin engellenmesi düzenlenmektedir. Ancak AI üretimi CSAM'nin tespiti ve kaldırılması, mevcut yasal çerçevenin ötesinde teknik ve hukuki kapasite gerektirmektedir. BTK'nın içerik denetimi ve erişim engelleme mekanizmaları, geleneksel CSAM için tasarlanmış olup AI üretimi materyallerin tespitinde yetersiz kalabilmektedir. Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı'nın bu alandaki kapasitesi ve uluslararası işbirliği düzeyi kritik öneme sahiptir. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin korunması, AI modellerinin eğitim verilerinde çocuk görüntülerinin kullanımı açısından yeni düzenlemeler gerektirmektedir. Türkiye'nin 2024'te kabul ettiği Yapay Zeka Stratejisi'nde (2024-2028) AI etik ve güvenlik konularına yer verilmekle birlikte, AI kaynaklı CSAM ile mücadeleye özgü bir politika henüz bulunmamaktadır. UNICEF Türkiye ve BTK işbirliğiyle yürütülen çocukların çevrimiçi korunması programları kapsamında, AI kaynaklı tehditlere karşı farkındalık artırma çalışmaları başlatılmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

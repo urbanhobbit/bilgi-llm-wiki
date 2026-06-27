@@ -33,3 +33,20 @@ BBC Future tarafından Mart 2026'da yayımlanan bu makale, çocukların yapay ze
 ## Turkey Context
 
 BBC Future'un çocukların yapay zeka kullanımına ilişkin makalesi, Türkiye'deki dijital eğitim politikaları açısından kritik öneme sahiptir. Türkiye'de Milli Eğitim Bakanlığı'nın (MEB) müfredatında yapay zeka okuryazarlığı henüz yeterli düzeyde yer almamaktadır. 6698 sayılı KVKK kapsamında yapay zeka sistemlerinin çocukların kişisel verilerini işlemesine ilişkin özel düzenlemeler bulunmamakta, bu da önemli bir hukuki boşluk yaratmaktadır. Dijital Hizmetler Kanunu'nun yapay zeka platformlarını da kapsayacak şekilde genişletilmesi ve çocuk kullanıcıların korunmasına yönelik özel hükümler eklenmesi gerekmektedir. TÜİK verilerine göre, Türkiye'de çocukların teknoloji kullanım oranları her geçen yıl artmakta ve yapay zeka araçlarına erişim kolaylaşmaktadır. UNICEF Türkiye raporları, çocukların yapay zeka ile etkileşiminde karşılaştıkları risklerin yeterince araştırılmadığını ve bu alanda kapsamlı politikalara ihtiyaç duyulduğunu göstermektedir. BTK'nın yapay zeka platformlarını denetleme kapasitesi artırılmalı ve çocuklara yönelik içeriklerin yaşa uygunluğu düzenli olarak kontrol edilmelidir. Aile ve Sosyal Hizmetler Bakanlığı, ebeveynleri yapay zeka araçlarının çocuklar üzerindeki potansiyel etkileri konusunda bilinçlendirmeli ve rehberlik materyalleri geliştirmelidir. Türkiye'deki akademik araştırmalar, çocukların yapay zeka ile etkileşiminin eğitsel fırsatlar sunduğu kadar gizlilik, güvenlik ve etik riskler de barındırdığını ortaya koymaktadır. Politika önerisi olarak, Türkiye'nin yapay zeka okuryazarlığını müfredata entegre etmesi, çocuklara yönelik yapay zeka araçları için güvenlik standartları belirlemesi ve bu araçların denetimini sağlayacak yasal bir çerçeve oluşturması önerilmektedir. Ayrıca, yapay zeka platformlarının çocuk kullanıcı verilerini toplaması ve işlemesi konusunda KVKK kapsamında özel düzenlemeler yapılmalıdır. Milli Eğitim Bakanlığı'nın (MEB) yapay zeka destekli eğitim araçlarını müfredata entegre etme çabaları kapsamında, TÜBİTAK'ın yapay zeka araştırmalarına ayırdığı kaynaklar artırılmalı; dijital okuryazarlık müfredatına yapay zeka etiği ve güvenli kullanım modülleri eklenmelidir. Bu sayede çocuklar hem yapay zekanın fırsatlarından yararlanabilir hem de potansiyel risklere karşı bilinçli hale gelebilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

@@ -32,3 +32,15 @@ Parent Zone, Birleşik Krallık merkezli bir dijital ebeveynlik kuruluşu olup, 
 ## Turkey Context
 
 Parent Zone gibi kuruluşların çalışmaları, Türkiye'de dijital ebeveynlik konusunda farkındalık oluşturulması açısından değerli referanslar sunmaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın dijital ebeveynlik programları benzer bir yaklaşım benimsemektedir. MEB'in 'Güvenli İnternet Kullanımı' eğitimleri ve BTK'nın 'Güvenli Çocuk' internet sitesi ebeveynlere yönelik rehberlik hizmetleri sunmaktadır. TÜİK verilerine göre Türkiye'de ebeveynlerin çoğu çocuklarının internet kullanımını denetlemekte zorlanmaktadır. KVKK'nın çocuk verilerinin korunmasına yönelik düzenlemeleri ve Sağlık Bakanlığı'nın ekran maruziyeti kılavuzları dijital ebeveynlik stratejilerinin önemli parçalarını oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-parenting-social-media.md|Digital Parenting Social Media]]
+- [[raw/articles/2026-06-26_digital-parenting-survey-2026.md|Digital Parenting Survey 2026]]
+- [[raw/articles/2026-06-26_digital-parenting-survey-2026-parent-zone-research.md|Digital Parenting Survey 2026 - Parent Zone Resear]]
+- [[raw/articles/2026-06-26_digital-parenting-survey-2026-parent-zone-uk.md|Digital Parenting Survey 2026 - Parent Zone UK]]

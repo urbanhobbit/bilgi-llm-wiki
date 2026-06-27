@@ -35,3 +35,21 @@ IEEE Europe's comprehensive analysis of the global policy and technical shift to
 ## Turkey Context
 
 IEEE Europe'un yaşa uygun dijital tasarım ve çocukluk döneminin korunmasına yönelik analizi, Türkiye'de dijital düzenleme ve çocuk hakları alanında yürütülen akademik çalışmalar için önemli bir metodolojik referans oluşturmaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında desteklenen çocuk hakları ve dijital güvenlik konulu projelerde, IEEE'in teknik standart geliştirme metodolojisi ve karşılaştırmalı politika analizi çerçevesi referans alınmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında İstanbul Üniversitesi Hukuk Fakültesi Bilişim Hukuku Anabilim Dalı, Ankara Üniversitesi Hukuk Fakültesi Bilişim Hukuku Araştırma Merkezi ve ODTÜ Bilişim Enstitüsü sayılabilir. KVKK (6698 sayılı Kanun) kapsamında, çocukların dijital ortamlarda korunması ve yaşa uygun tasarım ilkeleri arasındaki ilişki önemli hukuki değerlendirmeler gerektirmektedir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında dijital güvenlik ve çocuk hakları yer almakla birlikte, yaşa uygun tasarım standartlarının Türkiye'de uygulanması konusunda henüz kapsamlı bir akademik çalışma bulunmamaktadır. ULAKBİM'in DergiPark ve TR Dizin platformlarında, çocuk hakları ve dijital güvenlik konulu akademik yayınlar artmakla birlikte, teknik standartlar ve politika analizi metodolojilerini birleştiren disiplinlerarası çalışmalar sınırlı sayıdadır. Türkiye'de yaşa uygun dijital tasarım standartlarının geliştirilmesi için TÜBİTAK, BTK ve ULAKBİM işbirliğinde bir çalışma grubu kurulması ve IEEE metodolojilerinin Türkiye bağlamına uyarlanması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-europe-ieee-org-saving-childhood-a-gl.md|Article from europe.ieee.org: saving childhood a g]]
+- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-a-global-shift-toward.md|IEEE Europe: Saving Childhood - A Global Shift Tow]]
+- [[raw/articles/2026-06-26_kurator-europe-ieee-org.md|KURATOR - europe.ieee.org]]
+- [[raw/articles/2026-06-26_saving-childhood-a-global-shift-toward-age-appropr.md|Saving Childhood A Global Shift Toward Age Appropr]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-24-915.md|Çocuklar ve Dijital Ortam (24)]]

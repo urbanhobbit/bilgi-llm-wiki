@@ -34,3 +34,21 @@ This IEEE Europe policy analysis article documents the global regulatory shift t
 ## Turkey Context
 
 IEEE Europe'un yaşa uygun dijital tasarım analizi, Türkiye'nin çocuk-odaklı dijital düzenleme çalışmaları için önemli bir karşılaştırmalı politika araştırması modeli sunmaktadır. Türkiye'de BTK (Bilgi Teknolojileri ve İletişim Kurumu) tarafından yürütülen güvenli internet hizmetleri, IEEE Europe'un analiz ettiği uluslararası standartlarla uyumlaştırılma potansiyeli taşımaktadır. TÜBİTAK'ın desteklediği dijital düzenleme araştırmaları, IEEE Europe'un kullandığı karşılaştırmalı politika analizi metodolojisinin Türkiye bağlamına uyarlanması konusunda önemli bir referans noktasıdır. YÖK'ün 2024 yılı akademik yayın öncelikleri arasında çocuk hakları ve dijital teknolojiler konusu yer almakta, ancak bu alanda yapılan araştırmaların IEEE Europe standartlarında karşılaştırmalı politika analizi metodolojisi kullanması konusunda sistematik bir teşvik bulunmamaktadır. Türkiye'de ODTÜ Bilgisayar Mühendisliği Bölümü, İstanbul Üniversitesi Hukuk Fakültesi Bilişim Hukuku Anabilim Dalı ve Ankara Üniversitesi Hukuk Fakültesi Bilişim Hukuku Araştırma Merkezi, dijital düzenleme ve çocuk hakları konusunda akademik çalışmalar yürütmekte, ancak bu çalışmaların IEEE Europe'un kullandığı teknik standart analizi boyutundan yoksun olduğu görülmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2025 yılı Çocuk Hakları Stratejisi kapsamında, dijital platformların çocuk dostu tasarımı konusunda çalışmalar başlatılmış, ancak bu çalışmalarda IEEE 2089-2021 standardının kullanımı konusunda henüz bir adım atılmamıştır. KVKK'nın 2024 yılında yayımladığı 'Çocukların Kişisel Verilerinin Korunması' rehberi, yaşa uygun tasarım ilkelerine atıfta bulunmakla birlikte, bu ilkelerin teknik uygulaması konusunda IEEE standartlarına referans vermemektedir. Türkiye'nin AB Dijital Hizmetler Yasası (DSA) uyum süreci kapsamında, yaşa uygun tasarım standartlarının ulusal mevzuata entegrasyonu için IEEE Europe'un analiz ettiği karşılaştırmalı politika çerçevesi kullanılabilir. BTK'nın 2025 yılı güvenli internet hizmetleri stratejisinin, IEEE Europe'un belirlediği uluslararası standartlar ve en iyi uygulamalar çerçevesinde güncellenmesi, Türkiye'nin dijital düzenleme altyapısının uluslararası normlarla uyumunu artıracaktır. Türkiye'de akademik araştırma merkezlerinin yaşa uygun tasarım konusunda IEEE standartlarına atıfta bulunan yayın sayısının artırılması, bu alandaki ulusal kapasitenin geliştirilmesine katkıda bulunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-europe-ieee-org-saving-childhood-a-gl.md|Article from europe.ieee.org: saving childhood a g]]
+- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-through-age-appropria.md|IEEE Europe: Saving Childhood Through Age-Appropri]]
+- [[raw/articles/2026-06-26_kurator-europe-ieee-org.md|KURATOR - europe.ieee.org]]
+- [[raw/articles/2026-06-26_saving-childhood-a-global-shift-toward-age-appropr.md|Saving Childhood A Global Shift Toward Age Appropr]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-24-915.md|Çocuklar ve Dijital Ortam (24)]]

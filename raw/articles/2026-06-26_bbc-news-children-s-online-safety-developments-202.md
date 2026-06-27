@@ -32,3 +32,21 @@ BBC News'in çocukların çevrimiçi güvenliğine ilişkin 2026 yılı kapsamı
 ## Turkey Context
 
 BBC'nin çocukların çevrimiçi güvenliğine ilişkin haberciliği, Türkiye'deki medyanın bu konudaki yaklaşımıyla karşılaştırıldığında önemli farklılıklar göstermektedir. Türkiye'de çocukların çevrimiçi güvenliği konusu genellikle sansasyonel haberlerle sınırlı kalmakta, sistematik ve politika odaklı bir habercilik anlayışı yeterince gelişmemiştir. KVKK kapsamında çocukların kişisel verilerinin korunması gündemde olsa da, medyada bu konunun kamuoyunu bilinçlendirecek şekilde ele alınması sınırlıdır. BTK'nın düzenlemeleri ve internet filtreleme uygulamaları medyada geniş yer bulurken, çocuk hakları temelli bir perspektiften habercilik yaygın değildir. MEB'in dijital eğitim politikaları kapsamında yürütülen bilinçlendirme çalışmaları medyada yeterince yer almamaktadır. Türkiye'de 15 yaş altı sosyal medya yasağı tartışmaları medyada geniş yankı bulmuş, ancak BBC'nin yaptığı gibi çok yönlü ve uzman görüşlerine dayalı bir habercilik sergilenememiştir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk koruma politikaları ve çevrimiçi güvenlik çalışmaları medyada daha fazla yer almalıdır. TÜİK verileri ve UNICEF Türkiye raporları, çocukların çevrimiçi güvenliği konusunda kamuoyunu bilinçlendirmek için medya tarafından daha etkin kullanılmalıdır. BBC'nin haberlerinde gördüğümüz gibi, çocukların çevrimiçi güvenliği konusunda bağımsız, kapsamlı ve politika odaklı habercilik Türkiye'de de geliştirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

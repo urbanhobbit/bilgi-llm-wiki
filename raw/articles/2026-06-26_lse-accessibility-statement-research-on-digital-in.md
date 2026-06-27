@@ -34,3 +34,20 @@ This LSE accessibility statement provides a comprehensive overview of how one of
 ## Turkey Context
 
 LSE'nin erişilebilirlik bildirimi, Türkiye'deki akademik kurumlar için önemli bir metodolojik referans noktası sunmaktadır. YÖK (Yükseköğretim Kurulu), 2020 yılında yayımladığı 'Engelsiz Üniversite' genelgesi ile yükseköğretim kurumlarında erişilebilirlik standartlarının belirlenmesini hedeflemiş olsa da, bu standartların araştırma metodolojisine entegrasyonu konusunda henüz LSE seviyesinde kapsamlı bir çerçeve bulunmamaktadır. TÜBİTAK'ın desteklediği araştırma projelerinde erişilebilirlik kriterleri genellikle teknik altyapıyla sınırlı kalmakta, araştırma çıktılarının erişilebilirliği nadiren değerlendirilmektedir. Türkiye'deki üniversite araştırma merkezleri arasında ODTÜ Engelsiz ODTÜ Birimi, Boğaziçi Üniversitesi Engelli Öğrenci Birimi ve Koç Üniversitesi Kapsayıcılık Ofisi, erişilebilirlik konusunda çalışmalar yürütmekle birlikte, bu çalışmaların araştırma metodolojisine entegrasyonu konusunda sistematik bir yaklaşım geliştirilememiştir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında, engelli bireylerin araştırma verilerinin işlenmesi hassas veri kategorisinde değerlendirilmekte olup, bu durum akademik araştırmalarda ek etik kurul onayı gerektirmektedir. Türkiye'de açık bilim ve veri paylaşımı uygulamaları, DergiPark ve Aperta gibi platformlar üzerinden yürütülmekle birlikte, bu platformların erişilebilirlik standartları WCAG uyumu açısından henüz uluslararası düzeye ulaşmamıştır. TÜBİTAK'ın 2024 yılında başlattığı Açık Bilim Politikası kapsamında araştırma verilerinin erişilebilir formatlarda paylaşılması teşvik edilmekte, ancak bu konuda zorunlu standartlar henüz belirlenmemiştir. Türkiye'de akademik yayın etiği kapsamında erişilebilirlik, genellikle göz ardı edilen bir boyut olarak kalmakta, dergilerin büyük çoğunluğu erişilebilir PDF ve alternatif format sunmamaktadır. Türkiye'de Engelsiz Üniversite Birimi bulunan yükseköğretim kurumlarının sayısı her geçen yıl artmakla birlikte, bu birimlerin araştırma metodolojisi ve etiği alanında sağladığı katkı sınırlı kalmaktadır. LSE örneğinde olduğu gibi kapsamlı bir erişilebilirlik politikasının tüm akademik faaliyetlere entegre edilmesi, Türk yükseköğretim sisteminde henüz başlangıç aşamasındadır. TÜBİTAK'ın 2024 yılı Açık Bilim Politikası'nın erişilebilirlik boyutu, araştırma verilerinin yanı sıra araştırma çıktılarının da erişilebilir formatlarda sunulmasını teşvik etmektedir. Bu bağlamda, YÖK ve TÜBİTAK işbirliğinde Türk üniversiteleri için bir erişilebilir araştırma yayıncılığı rehberi hazırlanması, akademik yayın etiği standartlarının yükseltilmesine önemli katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

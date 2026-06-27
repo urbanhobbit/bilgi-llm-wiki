@@ -33,3 +33,10 @@ priority: low
 ## Turkey Context
 
 İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi, Türkiye'de yükseköğretim kurumlarının teknoloji transfer kapasitesini artırmaya yönelik çabaların bir parçasıdır. TÜBİTAK'ın TTO destek programları ve Kalkınma Bakanlığı'nın teknoloji geliştirme bölgeleri politikaları, üniversite kaynaklı teknolojilerin ticarileştirilmesini teşvik etmektedir. Türkiye'de 2024 itibarıyla 50'den fazla üniversitede TTO bulunmakta olup, Bilgi Üniversitesi TTO'su özellikle sosyal bilimler ve teknoloji kesişimindeki projelere odaklanmasıyla farklılaşmaktadır. Dijital Dönüşüm Ofisi ve Sanayi ve Teknoloji Bakanlığı'nın teknoloji odaklı kalkınma hedefleri kapsamında, üniversite TTO'larının stratejik önemi giderek artmaktadır. MEB'in mesleki eğitim politikaları ve üniversite-sanayi işbirliği projeleri, TTO'ların faaliyet alanını genişletmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_i-stanbul-bilgi-niversitesi-teknoloji-transfer-ofi.md|İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofi]]
+- [[raw/articles/2026-06-26_teknoloji-transfer-ofisi-ara-t-rma-i-stanbul-bilgi.md|Teknoloji Transfer Ofisi - Araştırma | İstanbul Bi]]

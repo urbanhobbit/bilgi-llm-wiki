@@ -33,3 +33,14 @@ LSE'nin (London School of Economics) personel politikaları sayfasında yer alan
 ## Turkey Context
 
 LSE'nin Modern Kölelik Yasası kapsamındaki beyanı, Türkiye'deki üniversitelerin ve kurumların etik tedarik zinciri yönetimi ve insan hakları politikaları için bir model oluşturabilir. Türkiye'de 2024'te kabul edilen İnsan Hakları Eylem Planı kapsamında işletmelerin insan haklarına saygı yükümlülüğü bulunmakla birlikte, modern kölelik ve insan ticaretiyle mücadeleye yönelik spesifik bir kurumsal raporlama yükümlülüğü henüz bulunmamaktadır. Bu belge, KURATOR kapsamından ziyade AKADEMIK OZEL kategorisinde değerlendirilmiştir. Ancak çocuk işçiliği ve zorla çalıştırma konuları, dolaylı olarak çocuk haklarıyla ilişkilidir. Türkiye'de TÜİK 2024 verilerine göre çocuk işçiliği oranı %4,8 olarak kaydedilmiş olmakla birlikte, kayıt dışı çalışan çocukların sayısının bu oranın çok üzerinde olduğu tahmin edilmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk işçiliğiyle mücadele programları kapsamında, üniversitelerin tedarik zincirlerinde çocuk işçiliği riskini değerlendirmesi ve raporlaması teşvik edilebilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]

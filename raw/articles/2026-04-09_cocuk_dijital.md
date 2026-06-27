@@ -9,6 +9,14 @@ tags:
 timestamp: '2026-04-09T00:00:00Z'
 ---
 
+### Başlık: Children''s
+  Online Wellbeing in 2026: Persistent Harms and AI-Amplified Risks * **Yazar/K...'
+resource: https://www.weforum.org/stories/2026/03/ai-children-digital-online-safety/
+tags:
+- raw
+timestamp: '2026-04-09T00:00:00Z'
+---
+
 ## Konu: Çocukların dijital ortam deneyimleri
 
 ---
@@ -164,3 +172,22 @@ Makalenin, dijital iklim öğreniminin modern eğitim için bir katalizör olabi
 Sosyal medyanın, iklim anlatısını "ne yanlış?"tan "ne yapabiliriz?"e kaydırmak için kilit bir yer olabileceği fikri, platformların sadece bir sorun kaynağı değil, aynı zamanda çözümün bir parçası olabileceği potansiyelini göstermektedir. Yetişkin rehberliği ve dijital okuryazarlıkla birlikte sosyal medyanın yapıcı diyaloglara ve kanıta dayalı eylemlere yol açabileceği vurgusu, RESAID projesinin dezenformasyonla mücadele stratejilerine olumlu bir katılım perspektifi eklemektedir. Çocukların, yanlış bilgilendirmeyle mücadele eden ve psikolojik direnci teşvik eden değişim aracıları haline gelebileceği fikri, onların dijital vatandaşlık rolünü daha da güçlendirmektedir.
 
 Bu makale, Türkiye'nin de çocukların dijital refahını ve iklim krizine karşı direncini desteklerken, dijital ortamın hem zorluklarını hem de fırsatlarını bütüncül bir yaklaşımla ele alması gerektiğini göstermektedir. Medya okuryazarlığı ve eleştirel düşünme becerileri, çocukların dijital dünyada hem kendilerini korumaları hem de olumlu değişim yaratmaları için temel araçlar olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/asma-adnane.md|Dr. Asma Adnane]]
+- [[entities/unu-merit.md|UNU-MERIT]]
+- [[entities/wef.md|Wef]]

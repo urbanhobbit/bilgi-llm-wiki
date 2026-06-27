@@ -42,3 +42,20 @@ TUIK verilerine gore, Turkiye'de hanelerin %95,5'i internete erisim saglayabilme
 UNICEF Turkiye, cocuklarin dijital ortamda karsilastigi riskler ve bu risklere karsi koruyucu mekanizmalarin gelistirilmesi konusunda calismalar yurutmektedir. UNICEF'in raporlari, Turkiye'deki cocuklarin cevrimici guvenligi konusunda onemli veriler sunmaktadir. Yerel arastirmalar da Turkiye'de cocuklarin sosyal medya kullanim aliskanliklari ve dijital okuryazarlik seviyeleri uzerine onemli bulgular ortaya koymaktadir.
 
 Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak icin kapsamli bir ulusal strateji gelistirilmesi gerekmektedir. Bu strateji, KVKK ile uyumlu veri koruma politikalari, MEB'in dijital okuryazarlik mustakileri, BTK'nin icerik denetleme mekanizmalari ve Aile Bakanligi'nin ebeveyn rehberligi programlarini entegre etmelidir. Ayrica, sosyal medya platformlarinin cocuk kullanicilari icin ozel guvenlik ayarlari ve yas dogrulama sistemleri gelistirmesi tesvik edilmelidir. Turkiye, Avrupa Birligi Dijital Hizmetler Kanunu (DSA) ile uyum surecinde, cocuk haklari temelli bir dijital politika cercevesi olusturma firsatina sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

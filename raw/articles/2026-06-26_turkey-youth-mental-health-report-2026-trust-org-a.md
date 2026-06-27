@@ -33,3 +33,24 @@ The Trust.org report on Turkey's youth mental health in 2026 provides a comprehe
 ## Turkey Context
 
 Trust.org'un Türkiye gençlik ruh sağlığı raporu, Türkiye'de dijitalleşmenin gençler üzerindeki psikolojik etkilerine dair önemli veriler sunmaktadır. Bu bağlamda Türkiye'nin çocukları dijital risklerden korumaya yönelik mevzuat altyapısı değerlendirildiğinde, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, bu düzenlemelerin günümüz dijital ekosisteminde yetersiz kaldığı görülmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri ve çevrimiçi çocuk güvenliği konusunda önemli bir düzenleyici rol üstlenmektedir. Ancak BTK'nın mevcut çalışmaları daha çok zararlı içeriklerin filtrelenmesine odaklanmakta olup, çocukların veri gizliliği ve algoritmik manipülasyondan korunması konularında kapsamlı bir düzenleme ihtiyacı devam etmektedir. Raporda Türk gençlerinin %67'sinin sosyal medyada idealize edilmiş bir imaj oluşturma baskısı hissetmesi, bu alanda acil müdahale gerektiğini göstermektedir. TÜİK verileri, Türkiye'de 16-24 yaş grubunda internet kullanım oranının %95'i aştığını ortaya koymaktadır. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı kapsamında öğrencilere dijital okuryazarlık, siber güvenlik ve çevrimiçi mahremiyet konularında eğitim verilmektedir. Ancak bu eğitimlerin güncellenmesi ve yapay zeka çağının gerekliliklerine uygun hale getirilmesi gerekmektedir. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranı her yıl artmakta olup, çocukların büyük bir kısmı sosyal medya platformlarında aktif olarak yer almaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları yürütmekle birlikte, bu çalışmaların daha sistematik ve yaptırım odaklı hale getirilmesi önem arz etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi ortamlarda karşılaştıkları risklerin giderek arttığını ve bu alanda acil politikalar geliştirilmesi gerektiğini vurgulamaktadır. MEB'in müfredatında dijital iyi olma hali (digital well-being) konusuna yeterli yer verilmemesi önemli bir eksikliktir. Türkiye'nin, bu rapordaki bulgular doğrultusunda okul temelli dijital ruh sağlığı programları geliştirmesi, öğretmenleri bu konuda eğitmesi ve BTK aracılığıyla platformların genç kullanıcılar üzerindeki psikolojik etkilerini düzenlemesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-tr-trust-org-turkey-youth-mental-heal.md|Article from tr.trust.org: turkey youth mental hea]]
+- [[raw/articles/2026-06-26_kurator-tr-trust-org.md|KURATOR - tr.trust.org]]
+- [[raw/articles/2026-06-26_turkey-youth-mental-health-report-2026.md|Turkey Youth Mental Health Report 2026]]
+- [[raw/articles/2026-06-26_turkey-youth-mental-health-report-2026-trust-org-c.md|Turkey Youth Mental Health Report 2026 — Trust.org]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-35-926.md|Çocuklar ve Dijital Ortam (35)]]

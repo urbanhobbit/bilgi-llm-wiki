@@ -32,3 +32,16 @@ POLITICO analyzes Cuban President Miguel Díaz-Canel's concerns regarding the po
 ## Turkey Context
 
 Küba Devlet Başkanı Miguel Díaz-Canel'in Trump yönetiminin olası geri dönüşüne ilişkin endişeleri, Türkiye açısından ABD dış politikasındaki süreksizliklerin yarattığı riskleri anlamak bakımından önemli bir örnek teşkil etmektedir. Türkiye, ABD başkanlık seçimleri sonrası dış politika değişikliklerinin doğrudan etkilediği ülkelerden biridir. Önceki Trump yönetimi döneminde Türkiye-ABD ilişkileri, S-400 krizi, Suriye politikasındaki anlaşmazlıklar, İran yaptırımları ve Halkbank davası gibi konularda ciddi sınamalardan geçmiştir. Biden yönetimi döneminde ise daha öngörülebilir ancak yapısal sorunlardan arınmamış bir ilişki biçimi izlenmiştir. ABD başkanlık seçimlerinin sonucu, Türkiye-ABD ilişkilerinin yönünü belirlemede kritik rol oynayacaktır. Dışişleri Bakanlığı, olası senaryolara karşı diplomatik hazırlıklarını sürdürmekte, Milli Güvenlik Kurulu (MGK) bünyesinde ABD politikalarındaki olası değişimlerin Türkiye'nin güvenlik ve ekonomi politikalarına etkileri değerlendirilmektedir. Ticaret Bakanlığı, ABD yönetim değişikliğinin gümrük tarifeleri, ticaret anlaşmaları ve yaptırım rejimleri üzerindeki olası etkilerini analiz etmektedir. Küba örneği, yaptırım rejimlerinin hedef ülke ekonomileri ve halkları üzerindeki yıkıcı etkilerini göstermesi bakımından, Türkiye'nin İran ve Rusya gibi yaptırımlara maruz kalan ülkelerle ilişkilerinde dikkate alması gereken bir vaka çalışması niteliğindedir. Türkiye'nin ABD ile müttefiklik ilişkisini sürdürürken, yaptırım rejimlerinin etkisini azaltmaya yönelik diplomatik ve ekonomik araçları çeşitlendirme stratejisi, bu tür uluslararası gelişmeler ışığında şekillenmektedir. Ayrıca, Türkiye'nin yaptırımlara maruz kalan ülkelerle ticari ilişkilerini sürdürme çabaları, Hazine ve Maliye Bakanlığı ile Ticaret Bakanlığı'nın koordinasyonunda yürütülen risk yönetimi stratejileri kapsamında değerlendirilmektedir. Küba'daki gelişmeler, yaptırım rejimlerinin insani etkileri konusunda uluslararası kamuoyunda artan farkındalığa da işaret etmektedir. Türkiye'nin Birleşmiş Milletler Genel Kurulu'nda Küba'ya uygulanan ambargoya karşı oy kullanma pozisyonu, uluslararası hukuk ve egemenlik ilkelerine bağlılığını yansıtmaktadır. Türkiye'nin bağımsız dış politika anlayışı, bu tür konularda ilkeli duruşunu korumasını sağlamaktadır ve bu anlayış, Türkiye'nin uluslararası alandaki saygınlığını pekiştirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-hungary-election-orb.md|Article from www.politico.com: hungary election or]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]

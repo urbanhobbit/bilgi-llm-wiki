@@ -33,3 +33,16 @@ Macaristan'ın önde gelen haber sitesi Index.hu'nun canlı blog yayını, 2026 
 ## Turkey Context
 
 Macaristan seçimleri ve Kremlin'in tepkisi, Türkiye açısından önemli karşılaştırmalı analiz fırsatları sunmaktadır. Türkiye'de de seçim süreçlerinde yabancı aktörlerin etkisi ve uluslararası tepkiler sıkça tartışılmaktadır. Macaristan'da Viktor Orbán'ın uzun süreli iktidarı ile Türkiye'deki siyasi yapı arasında benzerlikler bulunmakla birlikte, seçim sistemleri açısından önemli farklılıklar mevcuttur. Türkiye'de %10 olan seçim barajı 2022'de %7'ye düşürülmüşken, Macaristan'da karma seçim sistemi uygulanmaktadır. Macaristan seçimlerinde olduğu gibi Türkiye'de de seçim güvenliği, dijital dezenformasyon ve yabancı müdahale iddiaları gündeme gelmektedir. 5651 sayılı İnternet Kanunu kapsamında Türkiye'de uygulanan sosyal medya düzenlemeleri, seçim dönemlerinde dezenformasyonla mücadelede önemli bir araç olarak görülmekle birlikte, ifade özgürlüğü tartışmalarını da beraberinde getirmektedir. BTK ve RTÜK'ün seçim dönemlerinde medya ve sosyal platformlar üzerindeki denetim yetkisi, Macaristan'daki medya düzenlemeleriyle karşılaştırıldığında benzerlikler ve farklılıklar göstermektedir. Türkiye, Macaristan örneğinden hareketle, seçim güvenliği konusunda uluslararası işbirliğinin önemini kavramalı ve dijital seçim güvenliği protokollerini uluslararası standartlara uygun şekilde geliştirmelidir. Ayrıca, seçim süreçlerinin şeffaflığı ve denetlenebilirliği konusunda Macaristan ve Türkiye arasındaki karşılaştırmalı analizler, her iki ülke için de değerli politika çıkarımları sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
+- [[raw/articles/2026-06-26_genel-index-hu.md|GENEL - index.hu]]
+- [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]
+- [[raw/articles/2026-06-26_index-hu-belfold-2026-valasztas-2026-orszaggyu.md|Index.hu - belfold 2026 valasztas 2026 orszaggyu]]
+- [[raw/articles/2026-06-26_index-hu-first-kremlin-reaction-orb-n-s-election-c.md|Index.hu: First Kremlin Reaction - Orbán's Electio]]

@@ -33,3 +33,13 @@ Politico EU provides analysis of European political developments, policy debates
 ## Turkey Context
 
 Politico EU'nun Avrupa siyaseti analizi, Türkiye-AB ilişkilerinin mevcut durumu ve geleceği açısından önemli çıkarımlar sunmaktadır. AB'nin iç siyasi dinamikleri ve kurumsal reform süreçleri, Türkiye'nin üyelik perspektifini doğrudan etkilemektedir. AB'nin genişleme politikası ve koşulluluk mekanizmaları, Türkiye'nin müzakere sürecinde belirleyici faktörlerdir. Dışişleri Bakanlığı AB Başkanlığı, AB'deki siyasi gelişmeleri yakından takip ederek Türkiye'nin müzakere stratejisini güncellemektedir. Türkiye'nin AB ile ilişkileri, Gümrük Birliği'nin güncellenmesi, vize serbestisi diyaloğu ve yüksek düzeyli diyalog mekanizmaları çerçevesinde yürütülmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

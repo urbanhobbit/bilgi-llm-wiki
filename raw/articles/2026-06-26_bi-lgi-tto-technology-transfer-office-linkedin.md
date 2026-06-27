@@ -33,3 +33,12 @@ priority: low
 ## Turkey Context
 
 İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi, Türkiye'de üniversite-sanayi işbirliğinin ve teknoloji transferinin önemli bir örneğidir. TÜBİTAK 1711 Yapay Zekâ Ekosistem Çağrısı kapsamında 5 öncelikli alanın (Akıllı Üretim Sistemleri, Akıllı Tarım, Finans Teknolojileri, İklim Değişikliği, Sağlık Teknolojileri) desteklenmesi, Türkiye'nin teknoloji politikalarının önceliklerini yansıtmaktadır. Türkiye'de üniversite TTO'larının sayısı son 10 yılda önemli ölçüde artmış olmakla birlikte, etkinlikleri konusunda standart bir değerlendirme mekanizması bulunmamaktadır. Bilgi Üniversitesi TTO'su, özellikle sosyal bilimler ve teknoloji kesişimindeki projeleriyle farklılaşmaktadır. KVKK kapsamında teknoloji transfer süreçlerinde kişisel verilerin korunması (6698 sayılı Kanun), özellikle yapay zeka projelerinde önemli bir uyum gerekliliğidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_b-lg-tto-technology-transfer-office-linkedin.md|BÄ°LGÄ° TTO (Technology Transfer Office) | LinkedI]]
+- [[raw/articles/2026-06-26_bilgi-university-technology-transfer-office-linked.md|Bilgi University Technology Transfer Office - Link]]

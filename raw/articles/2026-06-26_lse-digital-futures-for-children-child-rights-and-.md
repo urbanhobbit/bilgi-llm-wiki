@@ -35,3 +35,22 @@ The LSE Digital Futures for Children research programme's events and publication
 ## Turkey Context
 
 LSE Dijital Çocukluk Araştırmaları Merkezi'nin çocuk hakları ve dijital düzenleme konulu araştırma programı, Türkiye'de çocuk hakları ve dijital teknoloji alanında yürütülen akademik çalışmalar için önemli bir metodolojik referans ve model oluşturmaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında desteklenen çocuk hakları ve dijital düzenleme konulu araştırma projelerinde, LSE'nin kullandığı çocuk katılımlı araştırma yöntemleri ve hak temelli etki değerlendirmesi metodolojileri referans alınmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında İstanbul Bilgi Üniversitesi Çocuk Çalışmaları Birimi (SOÇA), Ankara Üniversitesi Çocuk Kültürü Araştırma ve Uygulama Merkezi (ÇOKAUM), Hacettepe Üniversitesi Çocuk ve Medya Araştırmaları Merkezi ve ODTÜ Çocuk ve Medya Araştırmaları Merkezi sayılabilir. KVKK (6698 sayılı Kanun) kapsamında, çocukların dijital hakları ve veri koruması arasındaki ilişki önemli hukuki değerlendirmeler gerektirmektedir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında çocuk hakları ve dijital düzenleme yer almakla birlikte, çocuk katılımlı araştırma yöntemleri konusunda metodolojik kapasite geliştirme programlarına ihtiyaç bulunmaktadır. YÖK'ün 2024 verilerine göre, Türkiye'de çocuk hakları alanında faaliyet gösteren 20'den fazla araştırma merkezi bulunmasına rağmen, bu merkezlerin dijital düzenleme ve çocuk katılımı konularında LSE seviyesinde metodolojik kapasiteye sahip olması için TÜBİTAK ve YÖK işbirliğinde uluslararası işbirliği ve eğitim programları düzenlenmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

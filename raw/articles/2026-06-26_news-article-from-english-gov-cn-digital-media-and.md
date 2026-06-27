@@ -33,3 +33,14 @@ This article from english.gov.cn covers significant developments in the realm of
 ## Turkey Context
 
 Bu haber, Türkiye'deki dijital düzenleme tartışmaları açısından önemli çıkarımlar sunmaktadır. Türkiye'de internet yönetişimi ve dijital platform düzenlemeleri, 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun çerçevesinde yürütülmektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), Türkiye'de internet düzenlemelerinden sorumlu ana kurum olarak faaliyet göstermektedir. 6698 sayılı KVKK (Kişisel Verilerin Korunması Kanunu), AB Genel Veri Koruma Tüzüğü (GDPR) ile uyumlu olarak 2016 yılında yürürlüğe girmiş olup, dijital platformların veri işleme faaliyetlerini düzenlemektedir. Son dönemde Türkiye'de sosyal medya düzenlemeleri kapsamında getirilen temsilci bulundurma zorunluluğu ve içerik çıkarma yükümlülükleri, platformların Türkiye pazarındaki operasyonlarını önemli ölçüde etkilemiştir. Türkiye'nin dijital dönüşüm politikaları, Cumhurbaşkanlığı Dijital Dönüşüm Ofisi koordinasyonunda yürütülmekte olup, bu politikaların uluslararası standartlarla uyumlaştırılması konusunda çalışmalar devam etmektedir. Türkiye'de ifade özgürlüğü ve içerik düzenlemesi arasındaki denge, Anayasa Mahkemesi ve Avrupa İnsan Hakları Mahkemesi kararları ışığında şekillenmektedir. Bu bağlamda, uluslararası gelişmelerin takip edilmesi ve Türkiye'nin dijital düzenleme çerçevesinin güncellenmesi önem taşımaktadır. Dijital platformların Türkiye'deki kullanım oranlarının artması ve sosyal medyanın toplumsal olaylardaki rolü, düzenleyici kurumların politika geliştirme süreçlerinde uluslararası örnekleri dikkate almasını gerektirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-english-www-gov-cn-content-ws697416b4.md|Article from english.www.gov.cn: content WS697416b]]
+- [[raw/articles/2026-06-26_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]
+- [[raw/articles/2026-06-26_genel-english-gov-cn.md|GENEL - english.gov.cn]]

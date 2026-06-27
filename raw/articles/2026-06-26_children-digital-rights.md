@@ -32,3 +32,24 @@ The Guardian reports on UK and international developments regarding children's o
 ## Turkey Context
 
 Türkiye, Birleşik Krallık'ın Çevrimiçi Güvenlik Yasası'na benzer bir düzenleme sürecinden geçmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın hazırladığı sosyal medya düzenlemesi, 15 yaş altı kullanıcılar için kapsamlı koruma önlemleri getirmeyi hedeflemektedir. KVKK kurumu, İngiltere'nin Bilgi Komiserliği Ofisi (ICO) ile işbirliği içinde çocukların veri mahremiyeti standartlarını geliştirme çalışmaları yürütmektedir. Türkiye'nin BTK düzenlemeleri ile İngiliz Ofcom modeli arasında önemli benzerlikler bulunmakla birlikte, Türkiye'de bağımsız düzenleyici kurumların kapasitesi ve yaptırım gücü konusunda iyileştirme ihtiyacı devam etmektedir. MEB'in dijital okuryazarlık müfredatı, İngiltere'deki RSHE standartlarına kıyasla daha sınırlı kalmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

@@ -33,3 +33,15 @@ Anadolu Ajansı reports on the investigation into school attacks in Kahramanmara
 ## Turkey Context
 
 AA'nın haberine göre, okul saldırılarıyla ilgili suç içerikli paylaşım yapan 12 kişi hakkında soruşturma başlatılmıştır. Bu gelişme, Türkiye'de 5651 sayılı İnternet Kanunu kapsamında sosyal medya içeriklerinin denetiminin önemini bir kez daha ortaya koymaktadır. BTK, şiddet içerikli paylaşımların yayılmasını önlemek için sosyal medya platformlarıyla koordinasyon halinde çalışmaktadır. KVKK kapsamında, soruşturma sürecinde şüphelilerin dijital verilerinin işlenmesi ve delil olarak kullanılması, veri koruma ilkeleri çerçevesinde yürütülmektedir. Kamu Denetçiliği Kurumu (Ombudsmanlık), saldırıların ardından idari süreçlerin denetimini üstlenmiştir. Türkiye'de sosyal medya platformlarının içerik moderasyonu konusundaki yükümlülükleri, 2022 yılında yürürlüğe giren sosyal medya düzenlemeleriyle artırılmıştır. Bu olay, Türkiye'de dijital içerik düzenlemesi ile ifade özgürlüğü arasındaki hassas dengenin korunması gerektiğini göstermektedir. Ayrıca, okul güvenliği önlemlerinin artırılması ve öğrencilere yönelik psikososyal destek hizmetlerinin güçlendirilmesi konusunda kamuoyunda artan beklentiler bulunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_3908887.md|3908887]]
+- [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]
+- [[raw/articles/2026-06-26_anadolu-ajansi-gundem-okul-saldirilariyla-ilgili-s.md|Anadolu Ajansi - gundem okul saldirilariyla ilgili]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887.md|Article from www.aa.com.tr: 3908887]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3909800.md|Article from www.aa.com.tr: 3909800]]

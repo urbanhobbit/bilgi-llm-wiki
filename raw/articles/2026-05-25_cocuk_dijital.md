@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-05-25T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...'
+resource: https://arxiv.org/abs/2505.00054
+tags:
+- raw
+timestamp: '2026-05-25T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni
 
 **Tarih:** 2026-05-25
@@ -453,3 +460,29 @@ Türkiye, çocukların çevrimiçi korunması alanında önemli adımlar atmakla
 
 ---
 *Bu bülten KURATOR araştırma projesi kapsamında hazırlanmıştır. Kaynaklara erişimde sorun yaşanması durumunda lütfen iletişime geçiniz.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
+- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

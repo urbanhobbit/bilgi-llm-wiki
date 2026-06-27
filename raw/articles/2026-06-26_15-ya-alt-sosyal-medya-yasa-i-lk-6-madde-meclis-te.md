@@ -33,3 +33,20 @@ TBMM Genel Kurulu'nda görüşülen 15 yaş altı sosyal medya yasağı teklifin
 ## Turkey Context
 
 TBMM'de kabul edilen ilk 6 madde, Türkiye'nin çocukları dijital ortamda koruma konusunda yasal bir dönüm noktasıdır. KVKK'nın 6698 sayılı Kanunu kapsamında çocukların kişisel verilerinin işlenmesi konusunda ebeveyn izni zaten aranmakta olup, yeni düzenleme bu prensibi sosyal medya platformlarına da taşımaktadır. BTK'nın düzenleyici rolü ve MEB'in dijital okuryazarlık müfredatı ile uyumlu olması beklenen bu yasa, Türkiye'yi çocuk hakları alanında öncü ülkeler arasına yerleştirebilir. TÜİK'in 2025 yılı hanehalkı bilişim teknolojileri kullanım araştırması verileri, 6-15 yaş grubunda sosyal medya kullanımının giderek arttığını göstermektedir. UNICEF Türkiye'nin çocuk haklarına ilişkin raporları, bu tür yasal düzenlemelerin önemini vurgulamaktadır. Ayrıca düzenlemenin oyun platformlarını da kapsaması, dijital oyun bağımlılığı ve çocuk güvenliği konularında bütüncül bir yaklaşım sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]
+- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
+- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
+- [[raw/articles/2026-06-26_i-lkha-15-ya-alt-sosyal-medya-yasa-tart-malar.md|İlkha: 15 Yaş Altı Sosyal Medya Yasağı Tartışmalar]]
+- [[raw/articles/2026-06-26_kurator-ilkha-com.md|KURATOR - ilkha.com]]

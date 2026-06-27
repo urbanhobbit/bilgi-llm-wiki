@@ -33,3 +33,19 @@ Common Sense Media is a nonprofit organization dedicated to helping families and
 ## Turkey Context
 
 Common Sense Media'nın çocukların dijital medya kullanımına yönelik çalışmaları, Türkiye'de benzer alanlarda faaliyet gösteren kuruluşlar için bir model oluşturmaktadır. Türkiye'de BTK'nın Güvenli İnternet Hizmeti ve İnternet Bilgi İhbar Merkezi (İBİM) benzer işlevler görmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunması için çalışmalar yürütmektedir. Türkiye'de medya okuryazarlığı eğitimi, Milli Eğitim Bakanlığı müfredatında yer almakta olup, sivil toplum kuruluşları da bu alanda farkındalık çalışmaları yapmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-commonsense-my-site-com-contactsuppor.md|Article from commonsense.my.site.com: contactsuppo]]
+- [[raw/articles/2026-06-26_common-sense-media-member-support-contact.md|Common Sense Media - Member Support Contact]]
+- [[raw/articles/2026-06-26_kurator-commonsense-my-site-com.md|KURATOR - commonsense.my.site.com]]
+- [[raw/articles/2026-06-26_member-support.md|Member Support]]

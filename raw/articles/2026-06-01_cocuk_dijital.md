@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-01T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu haftanın bülteni, çocukların dijital dünyad...'
+resource: https://arxiv.org/abs/2602.13989
+tags:
+- raw
+timestamp: '2026-06-01T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni
 
 **Date:** 2026-06-01
@@ -368,3 +375,29 @@ Türkiye, çocukların çevrimiçi güvenliği konusunda henüz kapsamlı bir ya
 *Bu bülten, KURATOR araştırma otomasyon sistemi tarafından 1 Haziran 2026 tarihinde hazırlanmıştır.*
 *Kaynaklar: arXiv, AP News, World Happiness Report, Better Internet for Kids, EU Digital Strategy, ParentZone, Ofcom*
 *Dosya: /home/E/Bulten_Havuzu/cocuk_dijital/2026-06-01_cocuk_dijital.md*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
+- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

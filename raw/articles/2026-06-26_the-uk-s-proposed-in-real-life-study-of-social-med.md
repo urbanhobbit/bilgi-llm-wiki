@@ -34,3 +34,24 @@ priority: medium
 ## Turkey Context
 
 Türkiye'de bu kategorideki gelişme, ilgili kurumlar tarafından değerlendirilmektedir. KVKK, kişisel verilerin korunması kapsamında gerekli düzenlemeleri yaparken, BTK dijital platformların denetimini sürdürmektedir. MEB, konuyla ilgili eğitim müfredatında güncellemeler yapmakta, Aile ve Sosyal Hizmetler Bakanlığı ise sosyal politikalar geliştirmektedir. TÜİK, konuyla ilgili istatistiksel veriler sağlayarak politika yapıcılara rehberlik etmektedir. Türkiye'de bu konuyla ilgili olarak Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında önemli düzenlemeler bulunmaktadır. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, bu durum dijital düzenlemelerin önemini daha da artırmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Ayrıca bu konu, Türkiye'nin dijital dönüşüm politikaları ve uluslararası yükümlülükleri çerçevesinde değerlendirilmektedir. KVKK kapsamında kişisel verilerin korunması, BTK düzenlemeleri ve MEB'in dijital okuryazarlık programları bu alandaki temel politika araçlarını oluşturmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik çalışmalarını sürdürmekte, TÜİK tarafından yayınlanan istatistikler ise Türkiye'de internet ve sosyal medya kullanımının her geçen yıl arttığını göstermektedir. UNICEF Türkiye de bu alanda önemli projeler yürütmekte ve politika önerileri sunmaktadır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
+- [[raw/articles/2026-06-26_grimoire-manor-analysis-uk-proposed-in-real-life-s.md|Grimoire Manor Analysis: UK Proposed 'In Real Life]]
+- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
+- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
+- [[raw/articles/2026-06-26_the-uks-proposed-in-real-life-study.md|The Uks Proposed In Real Life Study]]

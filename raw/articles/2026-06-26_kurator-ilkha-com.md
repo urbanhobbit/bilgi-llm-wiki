@@ -32,3 +32,22 @@ priority: high
 ## Turkey Context
 
 Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar son dönemde hız kazanmıştır. Aile ve Sosyal Hizmetler Bakanlığı koordinasyonunda hazırlanan 'Çocukların Dijital Ortamlarda Korunması Ulusal Eylem Planı' kapsamında sosyal medya platformlarına yaş doğrulama ve ebeveyn onay mekanizması getirilmesi öngörülmektedir. TÜİK 2025 verilerine göre 6-15 yaş arası çocukların %76'sı internet kullanmaktadır. MEB'in 'Dijital Vatandaşlık' dersi müfredatı, çocuklara çevrimiçi güvenlik ve dijital haklar konusunda eğitim vermeyi hedeflemektedir. UNICEF Türkiye'nin 2025 raporu, dijital eşitsizlik ve çocukların çevrimiçi risklere maruziyeti konusunda önemli bulgular sunmuştur. KVKK'nın 2026 yılında yayımladığı rehber, çocukların kişisel verilerinin işlenmesinde açık rıza şartını genişleterek 16 yaş altı için ek koruma getirmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
+- [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]
+- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
+- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
+- [[raw/articles/2026-06-26_i-lkha-15-ya-alt-sosyal-medya-yasa-tart-malar.md|İlkha: 15 Yaş Altı Sosyal Medya Yasağı Tartışmalar]]

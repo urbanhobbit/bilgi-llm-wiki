@@ -67,3 +67,21 @@ Synthetic political influencers — flawless and infallible — duplicate human 
 **AI and Democracy: Mapping the Intersections** (Carnegie report) — AI influences democracy through multiple entry points: elections, citizen deliberation, government services, social cohesion. All face threats related to influence, integrity, and bias, but also present opportunities for targeted interventions.
 
 *Editorial Director: Paolo Cesarini. Editor-in-Chief: Tommaso Canetta. Editorial Staff: Elena Coden, Paula Gori, Elena Maggi.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/edmo.md|Edmo]]
+- [[entities/nordis.md|NORDIS]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|EDMO Weekly Pulse - March 26, 2026]]
+- [[raw/articles/2026-04-01-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 1, 2026]]
+- [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
+- [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
+- [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]

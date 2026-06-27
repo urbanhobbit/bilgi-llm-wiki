@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-05-23T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...'
+resource: https://www.digital-futures-for-children.net/events/child-rights-regulation
+tags:
+- raw
+timestamp: '2026-05-23T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni
 
 **Tarih:** 2026-05-23
@@ -236,3 +243,32 @@ BBC'nin analizi, Türkiye'deki benzer düzenleme tartışmalarına uluslararası
 
 *KURATOR Haftalık Bülten - 23 Mayıs 2026*
 *Bir sonraki bülten: 30 Mayıs 2026 Cumartesi*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation.md|Child Rights Regulation]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

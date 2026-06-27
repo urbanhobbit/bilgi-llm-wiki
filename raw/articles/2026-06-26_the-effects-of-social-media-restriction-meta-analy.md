@@ -34,3 +34,20 @@ SSM - Mental Health dergisinde yayımlanan ve Açık Erişim (CC BY lisansı) ol
 ## Turkey Context
 
 Türkiye'de sosyal medya kullanımı ve ruh sağlığı ilişkisi, özellikle genç nüfus arasında artan dijital bağımlılık endişeleriyle birlikte akademik ilgi gören bir alan haline gelmiştir. Bu meta-analiz çalışması, Türkiye'de sosyal medya düzenlemelerine yönelik politika geliştirme süreçlerinde kanıta dayalı bir temel sunmaktadır. TÜBİTAK'ın Sağlık Bilimleri Araştırma Destek Grubu (SBAG) ve Sosyal ve Beşeri Bilimler Araştırma Destek Grubu (SOBAG), bu alandaki disiplinlerarası çalışmaları desteklemektedir. YÖK'ün 2023'te yayımladığı 'Dijital Dönüşüm ve Yükseköğretim' strateji belgesi, üniversitelerde dijital iyi oluş ve medya okuryazarlığı çalışmalarının önemini vurgulamaktadır. KVKK açısından, sosyal medya platformlarının kullanıcı verilerini toplama ve işleme süreçleri, özellikle ruh sağlığı araştırmalarında hassas veri kategorisi kapsamında değerlendirilmektedir. BTK'nın 2024 yılında yayımladığı 'Dijital Bağımlılıkla Mücadele Strateji Belgesi', bu meta-analizin bulgularıyla örtüşen politika hedefleri içermektedir. MEB'in 2023 müfredat revizyonunda dijital okuryazarlık ve bilinçli teknoloji kullanımı derslerine yer verilmesi, bu tür kanıta dayalı çalışmaların eğitim politikalarına entegrasyonu açısından önemlidir. Türkiye'de akademik araştırmaların bu tür meta-analiz çalışmalarını örnek alarak kanıt sentezi kapasitesini geliştirmesi, Türk akademisinin uluslararası rekabet gücünü artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
+- [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
+- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
+- [[raw/articles/2026-06-26_sciencedirect-article-s2666560325000714-telematics.md|ScienceDirect article S2666560325000714 (Telematic]]
+- [[raw/articles/akademik-yayn-12-979.md|Akademik Yayın (12)]]

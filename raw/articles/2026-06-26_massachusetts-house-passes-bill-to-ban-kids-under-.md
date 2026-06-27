@@ -33,3 +33,26 @@ WGBH News reports that the Massachusetts House of Representatives has passed a l
 ## Turkey Context
 
 Massachusetts'in 14 yaş altı çocuklara sosyal medya yasağı getiren yasa tasarısı, Türkiye'deki benzer düzenleme çalışmaları için önemli bir referanstır. Bu bağlamda Türkiye'nin çocukları dijital risklerden korumaya yönelik mevzuat altyapısı değerlendirildiğinde, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, bu düzenlemelerin günümüz dijital ekosisteminde yetersiz kaldığı görülmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri ve çevrimiçi çocuk güvenliği konusunda önemli bir düzenleyici rol üstlenmektedir. Ancak BTK'nın mevcut çalışmaları daha çok zararlı içeriklerin filtrelenmesine odaklanmakta olup, çocukların veri gizliliği ve algoritmik manipülasyondan korunması konularında kapsamlı bir düzenleme ihtiyacı devam etmektedir. Tasarıdaki bağımlılık yapıcı tasarım özelliklerinin yasaklanması ve algoritmik öneri sistemlerinin kronolojik akışla değiştirilmesi hükümleri, Türkiye'de BTK'nın sosyal medya düzenlemeleri için değerlendirilebilir. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı kapsamında öğrencilere dijital okuryazarlık, siber güvenlik ve çevrimiçi mahremiyet konularında eğitim verilmektedir. Ancak bu eğitimlerin güncellenmesi ve yapay zeka çağının gerekliliklerine uygun hale getirilmesi gerekmektedir. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranı her yıl artmakta olup, çocukların büyük bir kısmı sosyal medya platformlarında aktif olarak yer almaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları yürütmekle birlikte, bu çalışmaların daha sistematik ve yaptırım odaklı hale getirilmesi önem arz etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi ortamlarda karşılaştıkları risklerin giderek arttığını ve bu alanda acil politikalar geliştirilmesi gerektiğini vurgulamaktadır. TÜİK verileri, Türkiye'de 14 yaş altı çocukların sosyal medya kullanım oranının ABD'ye benzer seviyelerde olduğunu göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-wgbh-org-mass-house-passes-bill-t.md|Article from www.wgbh.org: mass house passes bill ]]
+- [[raw/articles/2026-06-26_kurator-wgbh-org.md|KURATOR - wgbh.org]]
+- [[raw/articles/2026-06-26_mass-house-passes-bill-to-ban-kids-under-14-from-s.md|Mass House Passes Bill To Ban Kids Under 14 From S]]
+- [[raw/articles/2026-06-26_www-wgbh-org.md|www.wgbh.org]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-46-937.md|Çocuklar ve Dijital Ortam (46)]]

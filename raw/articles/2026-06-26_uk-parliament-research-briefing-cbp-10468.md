@@ -32,3 +32,22 @@ priority: medium
 ## Turkey Context
 
 Birleşik Krallık Parlamentosu Kütüphanesi'nin araştırma belgesi, Türkiye için çocuk çevrimiçi güvenliği politikaları açısından önemli karşılaştırmalı veriler sunmaktadır. KVKK (Kişisel Verileri Koruma Kurumu), İngiltere'nin Veri Koruma Yasası ve Çevrimiçi Güvenlik Yasası (Online Safety Act) ile uyumlu düzenlemeler geliştirmekte, özellikle çocukların kişisel verilerinin korunmasında uluslararası standartları referans almaktadır. MEB (Milli Eğitim Bakanlığı), dijital okuryazarlık ve çevrimiçi güvenlik eğitimini müfredata entegre etme çalışmalarında İngiltere örneğini incelemekte, bu ülkedeki en iyi uygulamaları Türkiye koşullarına uyarlamaktadır. BTK (Bilgi Teknolojileri ve İletişim Kurumu), çevrimiçi içerik düzenlemesi konusunda İngiltere'nin Ofcom modelini değerlendirmekte, bu modelin Türkiye'de uygulanabilirliğini araştırmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların çevrimiçi ortamda korunmasına yönelik ulusal stratejisini güncellemekte, İngiltere'nin çocuk çevrimiçi güvenliği konusundaki deneyimlerinden yararlanmaktadır. TÜİK verileri, Türkiye'de çocukların internet kullanım oranlarının İngiltere ile benzer seviyelere ulaştığını ve bu nedenle benzer koruma mekanizmalarının geliştirilmesi gerektiğini göstermektedir. UNICEF Türkiye, uluslararası en iyi uygulamaların Türkiye'ye uyarlanması konusunda teknik destek sağlamakta ve politika yapıcılara rehberlik etmektedir. Türkiye'de bu konuyla ilgili olarak Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında önemli düzenlemeler bulunmaktadır. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, bu durum dijital düzenlemelerin önemini daha da artırmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Ayrıca bu konunun Türkiye açısından önemi, ilgili kamu kurumlarının koordineli çalışmasını gerektirmektedir. BTK'nın düzenleyici rolü, MEB'in eğitim politikaları ve Aile Bakanlığı'nın koruyucu hizmetleri bu bağlamda birbirini tamamlamaktadır. UNICEF Türkiye'nin çocuk hakları ve dijital güvenlik alanındaki çalışmaları da bu ekosistemin önemli bir parçasını oluşturmaktadır. TÜİK verileri, Türkiye'de dijital dönüşümün hızını ve bu alandaki düzenlemelerin önemini gözler önüne sermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
+- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
+- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
+- [[raw/articles/2026-06-26_uk-parliament-commons-library-research-briefing-on.md|UK Parliament Commons Library: Research Briefing o]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

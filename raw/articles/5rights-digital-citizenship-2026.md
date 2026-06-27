@@ -22,3 +22,18 @@ timestamp: '2026-06-06T09:02:50Z'
     "uk"
   ]
 }
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-children-s-digital-rights-frame.md|5Rights Foundation: Children's Digital Rights Fram]]
+- [[raw/articles/2026-06-26_5rightsfoundation-org.md|5rightsfoundation.org]]
+- [[raw/articles/2026-06-26_article-from-5rightsfoundation-org-children-digita.md|Article from 5rightsfoundation.org: children digit]]
+- [[raw/articles/2026-06-26_children-digital-rights-framework.md|Children Digital Rights Framework]]
+- [[raw/articles/2026-06-26_children-s-digital-rights-framework-5rights-founda.md|Children's Digital Rights Framework (5Rights Found]]

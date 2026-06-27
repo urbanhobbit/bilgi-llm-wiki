@@ -34,3 +34,21 @@ Pew Research Center's survey report on parents' perspectives on their teens' AI 
 ## Turkey Context
 
 Pew Research Center'ın ebeveynlerin gençlerin yapay zeka kullanımına ilişkin tutumları araştırması, Türkiye'de benzer bir araştırmanın yapılması için önemli bir metodolojik model sunmaktadır. Türkiye'de ebeveynlerin çocuklarının yapay zeka kullanımına yönelik tutumları konusunda sistematik bir ulusal araştırma bulunmamakta olup, Pew'in kullandığı olasılık temelli örnekleme paneli metodolojisi ve güvenilir anket geliştirme süreçleri Türkiye'de uygulanabilecek en uygun yöntemdir. TÜBİTAK'ın 2025 yılı araştırma öncelikleri arasında yapay zeka toplumsal etkileri ve dijital ebeveynlik konuları yer almakta, ancak Pew benzeri kapsamlı bir ulusal anket çalışması için henüz bir proje başlatılmamıştır. Türkiye'de İstanbul Üniversitesi İletişim Fakültesi ve Hacettepe Üniversitesi İletişim Fakültesi, ebeveyn medya aracılığı konusunda akademik çalışmalar yürütmekle birlikte, bu çalışmaların Pew standartlarında bir ulusal temsiliyet ve metodolojik şeffaflık düzeyine ulaşması gerekmektedir. TÜİK'in Hanehalkı Bilişim Teknolojileri Kullanım Araştırması 2025 yılı anketinde yapay zeka kullanımına ilişkin sorular eklenmesi gündeme gelmiş, ancak bu soruların ebeveyn tutumlarını ölçecek şekilde tasarlanması konusunda Pew'in metodolojik yaklaşımı önemli bir referans oluşturmaktadır. YÖK'ün 2024 yılında yayımladığı 'Yapay Zeka ve Ebeveynlik' tematik araştırma çağrısı, bu alanda akademik çalışmaları teşvik etmekle birlikte, bu çalışmalarda kullanılacak anket metodolojilerinin geçerlilik ve güvenilirlik standartları konusunda bir çerçeve sunmamıştır. Türkiye'de ebeveynlerin çocuklarının AI kullanımına yönelik tutumlarını ölçmek için Pew metodolojisini temel alan bir ulusal araştırma, TÜBİTAK'ın 1001 programı kapsamında desteklenebilir. TÜİK'in Hanehalkı Bilişim Teknolojileri Kullanım Araştırması 2025 anketine eklenecek AI tutum sorularının, Pew'in kullandığı bilişsel test ve pilot çalışma süreçlerinden geçirilmesi, soruların geçerliliğini ve güvenilirliğini artıracaktır. YÖK'ün 2024 yılı Yapay Zeka ve Ebeveynlik araştırma çağrısı kapsamında desteklenecek projelerde Pew'in örnekleme ve ağırlıklandırma metodolojisinin kullanılması, bu projelerin uluslararası dergilerde yayınlanma olasılığını artıracaktır. Türkiye'de ebeveyn AI okuryazarlığı ve çocukların AI kullanımının izlenmesi konusunda yapılacak araştırmalar, Pew'in geliştirdiği anket çerçevesini temel alarak Türkiye bağlamına uyarlayabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pew-research-center.md|Pew Research Center]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
+- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
+- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
+- [[raw/articles/2026-06-26_pew-research-parents-on-teens-and-technology.md|Pew Research: Parents on Teens and Technology]]

@@ -33,3 +33,17 @@ Cumhuriyet gazetesinde yayınlanan bu haber, dijital haklar ve seçim güvenliğ
 ## Turkey Context
 
 Dijital haklar ve seçim güvenliği, Türkiye'de demokratik süreçlerin dijital boyutunun korunması açısından kritik öneme sahiptir. Türkiye'de 2024'te yürürlüğe giren Dijital Hizmetler Kanunu, seçim dönemlerinde dezenformasyonla mücadele ve sosyal medya platformlarının şeffaflık yükümlülüklerini düzenlemektedir. BTK'nın seçim dönemlerinde sosyal medya platformlarına yönelik denetimleri ve erişim engelleme kararları, ifade özgürlüğü ve seçim güvenliği arasındaki denge tartışmalarını beraberinde getirmektedir. KVKK kapsamında seçmen verilerinin korunması (6698 sayılı Kanun), siyasi partilerin ve kampanya ekiplerinin kişisel veri işleme faaliyetlerini düzenlemektedir. 2024 yerel seçimleri ve 2028 genel seçimleri öncesinde, dijital seçim güvenliği konusunda kapsamlı bir strateji belgesinin hazırlanması önerilmektedir. YSK'nın seçim süreçlerinde dijital güvenlik önlemleri ve siber saldırılara karşı koruma kapasitesi, uluslararası standartlarla uyumlu hale getirilmelidir. Bu haber GENEL kategorisinde değerlendirilmiş olup, doğrudan çocuk hakları veya akademik metodoloji ile ilgili olmadığı için KURATOR veya AKADEMIK OZEL kategorilerine dahil edilmemiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

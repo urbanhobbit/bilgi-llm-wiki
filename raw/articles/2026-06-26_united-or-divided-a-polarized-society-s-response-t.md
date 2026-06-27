@@ -34,3 +34,22 @@ Feinstein and Ben-David (2026) investigate how polarized societies respond to ex
 ## Turkey Context
 
 Türkiye'de kutuplaşma ve dış tehditler karşısında kamuoyu dinamikleri, bu çalışmanın bulgularıyla doğrudan ilişkilidir. Türkiye, özellikle 2010'lu yıllardan itibaren artan siyasi kutuplaşma olgusuyla karşı karşıyadır ve bu kutuplaşma, dış politika krizleri ve güvenlik tehditleri karşısında kamuoyunun nasıl şekillendiğini anlamayı kritik hale getirmektedir. Araştırma Bulguları, toplumsal kutuplaşmanın yoğun olduğu ülkelerde bile dış tehditlerin geçici bir 'bayrak etrafında birleşme' etkisi yaratabildiğini göstermektedir. Türkiye'de 2015-2016 terör saldırıları, 2016 darbe girişimi ve sınır ötesi askeri operasyonlar dönemlerinde benzer dinamikler gözlemlenmiştir. TÜİK'in 2025 'Yaşam Memnuniyeti Araştırması', Türk toplumunun siyasi kutuplaşma düzeyinin Avrupa ortalamasının üzerinde olduğunu göstermektedir. Boğaziçi Üniversitesi ve Koç Üniversitesi bünyesinde yürütülen 'Türkiye'de Siyasi Kutuplaşma' araştırmaları, bu alandaki yerli literatüre önemli katkılar sağlamaktadır. Dış politika krizlerinin Türkiye'deki kutuplaşma dinamikleri üzerindeki etkisi, özellikle sosyal medya platformlarında yürütülen dezenformasyon kampanyaları bağlamında ayrıca incelenmelidir. Türkiye'de ulusal güvenlik konularında siyasi partiler arasındaki uzlaşı düzeyi, dış tehditlerin kutuplaşmayı aşma potansiyeline işaret etmektedir. Türkiye'de 2016 darbe girişimi sonrası gözlemlenen 'bayrak etrafında birleşme' etkisi, Feinstein ve Ben-David'in bulgularıyla karşılaştırmalı olarak analiz edilebilir. 15 Temmuz sonrası dönemde siyasi partiler arasında kısa süreli bir uzlaşı gözlemlenmiş, ancak bu birliktelik kalıcı olmamış ve mevcut kutuplaşma dinamikleri yeniden belirgin hale gelmiştir. Türkiye'de sınır ötesi askeri operasyonlar dönemlerinde kamuoyunun dış politika konularında sergilediği tutum, araştırmanın bulgularıyla tutarlılık göstermektedir. KONDA ve Metropoll gibi anket şirketlerinin araştırmaları, Türkiye'de dış politika krizlerinin iç siyasetteki kutuplaşmayı geçici olarak askıya aldığını, ancak kalıcı bir uzlaşı yaratmadığını göstermektedir. Bu bulgular, Türkiye'de siyasi kutuplaşmanın yapısal doğasını ve dış tehditlerin birleştirici etkisinin sınırlarını ortaya koymaktadır. Türkiye'de sosyal medya platformlarında dış politika krizleri sırasında yürütülen dezenformasyon kampanyaları, kutuplaşma dinamiklerini daha da karmaşık hale getirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

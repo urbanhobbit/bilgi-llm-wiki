@@ -41,3 +41,15 @@ MEB, Saglik Bakanligi ve Aile Bakanligi gibi kamu kurumlari, arastirma etigi ve 
 TUIK verilerine gore, Turkiye'de arastirma ve gelistirme harcamalari her gecen yil artmaktadir. Universitelerdeki arastirma etigi kurullari, ozellikle cocuklarla yapilan calismalarda ve hassas verilerin islenmesinde onemli bir denetim mekanizmasi olarak calismaktadir.
 
 Turkiye'de arastirma etigi ve metodolojisi alaninda yapilan calismalar, uluslararasi standartlarla uyumlu hale getirilmelidir. Ozellikle cocuk katilimcili arastirmalarda, etik onay surecleri ve bilgilendirilmis onam mekanizmalari guclendirilmelidir. TUBITAK ve YOK'un arastirma etigi yonergeleri, dijital veri toplama ve yapay zeka destekli arastirma yontemlerini kapsayacak sekilde guncellenmelidir. Universite-sanayi isbirligi kapsaminda teknoloji transfer ofisleri, arastirma sonuclarinin toplumsal faydaya donusmesinde kritik bir rol oynamaktadir. Istanbul Bilgi Universitesi Teknoloji Transfer Ofisi gibi yapilar, akademik bilginin ticarilestirilmesi ve toplumsal faydaya donusturulmesi icin onemli bir model olusturmaktadir. Turkiye'nin bu alandaki calismalari, uluslararasi standartlarla uyumlu bir sekilde ilerlemekte ve cocuklarin dijital haklarinin korunmasina yonelik onemli katkilar saglamaktadir. Dijital donusumun hizlandigi bu donemde, tum paydaslarin isbirligi icinde calismasi, daha guvenli bir dijital gelecek insa edilmesine yardimci olacaktir. Bu kapsamda, kamu kurumlari, ozel sektor ve sivil toplum kuruluslarinin ortak projeler gelistirmesi ve bilgi paylasiminda bulunmasi onem arz etmektedir. Dijital okuryazarlik egitimi, yas dogrulama sistemleri ve ebeveyn farkindaligi, cocuklarin cevrimici guvenligini saglamada temel bilesenler olarak one cikmaktadir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bi-lgi-tto-technology-transfer-office-linkedin.md|BİLGİ TTO (Technology Transfer Office) - LinkedIn]]
+- [[raw/articles/2026-06-26_bilgi-university-technology-transfer-office-linked.md|Bilgi University Technology Transfer Office - Link]]

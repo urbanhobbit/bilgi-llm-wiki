@@ -22,3 +22,9 @@ timestamp: '2026-06-06T09:02:50Z'
     "duzenleyici"
   ]
 }
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/btk.md|Btk]]

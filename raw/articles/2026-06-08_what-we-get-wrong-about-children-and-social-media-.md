@@ -38,3 +38,15 @@ LSE Media@LSE blogunda yayımlanan bu önemli analizde Dr. Velislava Hillman, ç
 ## Turkey Context
 
 Dr. Hillman'ın LSE'de yayımlanan bu çığır açıcı analizi, Türkiye'deki çocuk ve sosyal medya tartışmalarına derinlemesine bir akademik perspektif sunmaktadır. Türkiye'de çocukların sosyal medya kullanımına ilişkin tartışmalar genellikle iki kutupludur: bir tarafta tamamen yasaklama eğilimi, diğer tarafta dijital okuryazarlık yoluyla bilinçli kullanım savunusu. Hillman'ın 'platformların çocukların dikkatini metalaştırması' tezi, Türkiye'deki tartışmalarda nadiren yer bulan bir perspektiftir. MEB'in 2023'te başlattığı 'Dijital Bağımlılıkla Mücadele' programı, daha çok bağımlılık odaklı olup, platformların iş modeli ve ticari tasarımının eleştirel analizini içermemektedir. TÜİK 2025 verilerine göre Türkiye'de 6-15 yaş grubunda internette geçirilen ortalama süre günde 3,2 saate ulaşırken, bu zamanın büyük kısmı sosyal medya platformlarında geçmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın 'Güvenli İnternet Kullanımı' rehberleri, Hillman'ın vurguladığı yapısal eleştiriyi yansıtmaktan uzaktır. Makalenin çocuklara fiziksel alan, zaman ve özerklik kazandırılması çağrısı, Türkiye'de giderek daralan çocuk oyun alanları ve artan ekran süresi gerçeğiyle örtüşmektedir. Türkiye'de dijital dönüşüm politikalarının, Hillman'ın sorguladığı 'kaçınılmaz dijital gelecek' anlatısını sorgusuz kabul etmesi eleştirel bir incelemeyi hak etmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]

@@ -33,3 +33,15 @@ Politico reports on former US President Donald Trump's announcement of a blockad
 ## Turkey Context
 
 Trump'ın Hürmüz Boğazı ablukası duyurusu, Türkiye'nin enerji güvenliği açısından kritik bir gelişmedir. Türkiye, petrol ihtiyacının önemli bir bölümünü Ortadoğu ülkelerinden karşılamakta olup, Hürmüz Boğazı'ndan geçen enerji ticaretindeki herhangi bir kesinti doğrudan Türkiye ekonomisini etkileyecektir. Enerji ve Tabii Kaynaklar Bakanlığı, olası bir kriz durumunda stratejik petrol rezervlerini kullanma ve alternatif tedarik kaynaklarına yönelme planlarını devreye sokmuştur. Türkiye'nin Ceyhan petrol terminali ve enerji koridorları, alternatif güzergâh olarak uluslararası enerji piyasasında önem kazanmaktadır. Dışişleri Bakanlığı, bölgedeki gerilimin düşürülmesi için diplomatik girişimlerini sürdürmektedir. Türkiye, Ukrayna savaşında oynadığı arabuluculuk rolüne benzer şekilde İran-ABD gerginliğinde de diyalog kanallarını açık tutmaya çalışmaktadır. Olası bir enerji krizinin Türkiye ekonomisine etkileri, cari açık, enflasyon ve büyüme hedefleri açısından risk oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-hungary-election-orb.md|Article from www.politico.com: hungary election or]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]

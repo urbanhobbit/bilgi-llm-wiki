@@ -33,3 +33,16 @@ The European Commission's Digital Services Act (DSA) package represents the most
 ## Turkey Context
 
 AB Dijital Hizmetler Yasası (DSA), Türkiye'nin kendi dijital platform düzenleme çerçevesi için önemli bir model oluşturmaktadır. Türkiye'de 5651 sayılı İnternet Kanunu ve sosyal medya düzenlemeleri, AB standartlarına uyum açısından değerlendirilmektedir. BTK, DSA benzeri bir düzenleyici çerçevenin Türkiye'de uygulanabilirliği konusunda çalışmalar yürütmektedir. KVKK, DSA ile GDPR arasındaki etkileşimi göz önünde bulundurarak Türkiye'nin veri koruma mevzuatını güncelleme ihtiyacını değerlendirmektedir. Rekabet Kurumu, Dijital Piyasalar Yasası (DMA) benzeri rekabet düzenlemelerinin Türkiye'de uygulanması konusunda sektör araştırmaları yapmaktadır. Türkiye'nin AB DSA'sına uyum süreci, AB müktesebatına uyum çalışmaları kapsamında ilerlemektedir. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi, Türkiye'nin dijital düzenleme çerçevesinin AB standartlarıyla uyumlaştırılması için koordinasyon görevi yürütmektedir. DSA'nın çok büyük platformlar için getirdiği risk değerlendirmesi ve bağımsız denetim yükümlülükleri, Türkiye'de faaliyet gösteren küresel teknoloji şirketlerini de etkilemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
+- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
+- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
+- [[raw/articles/2026-06-26_the-digital-services-act-shaping-europe-s-digital-.md|The Digital Services Act | Shaping Europe’s digita]]
+- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

@@ -30,3 +30,18 @@ Macaristan seçimleri, Avrupa siyasetinde yaşanan dönüşüm ve Viktor Orban'�
 ## Turkey Context
 
 Macaristan seçim sonuçları, Türkiye-AB ilişkileri ve Avrupa'daki siyasi dönüşüm açısından önemli sinyaller taşımaktadır. Orban döneminde geliştirilen ikili ilişkilerin yeni dönemde nasıl şekilleneceği merak konusudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/new-york-times.md|New York Times]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-html.md|Ai Election Disinformation Study.Html]]
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-new-york-times.md|AI Election Disinformation Study - New York Times]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-ai-election-disinform.md|Article from www.nytimes.com: ai election disinfor]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-teen-social-media.md|Article from www.nytimes.com: teen social media]]
+- [[raw/articles/2026-06-26_new-york-times-ai-election-disinformation-study-ac.md|New York Times: AI Election Disinformation Study -]]

@@ -38,3 +38,13 @@ OECD tarafından geliştirilen PISA 2029 Medya ve Yapay Zeka Okuryazarlığı (M
 ## Turkey Context
 
 OECD'nin PISA 2029 MAIL Değerlendirme Çerçevesi, Türkiye'nin eğitim politikaları için stratejik öneme sahiptir. Türkiye, PISA değerlendirmelerinde genellikle OECD ortalamasının altında performans göstermektedir ve yeni MAIL değerlendirmesi, dijital okuryazarlık alanındaki mevcut eksiklikleri daha da görünür kılabilir. MEB'in 2023'te güncellediği öğretim programlarında dijital okuryazarlık ve medya okuryazarlığı ayrı dersler olarak yer almakla birlikte, yapay zeka okuryazarlığı henüz müfredata entegre edilmemiştir. PISA 2029'a kadar geçecek sürede Türkiye'nin müfredatını MAIL çerçevesiyle uyumlu hale getirmesi için kapsamlı bir reform gerekmektedir. TÜİK verilerine göre Türkiye'de 15 yaş grubundaki öğrencilerin %89'u günlük internet kullanıcısı olmasına rağmen, sadece %34'ü okulda medya okuryazarlığı eğitimi aldığını belirtmektedir. MEB'in 2025-2029 Stratejik Planı'nda dijital becerilerin geliştirilmesi bir öncelik alanı olarak belirlenmiş olsa da, PISA 2029 MAIL değerlendirmesinin kapsamı ve gereklilikleri konusunda henüz somut bir hazırlık çalışması bulunmamaktadır. OECD belgesine Scrapling'in erişememesi (403 Cloudflare), akademik ve politika belgelerine erişimdeki dijital engellerin bir göstergesidir. Türkiye'de bu tür uluslararası değerlendirme çerçevelerine erişim için alternatif kanalların (resmi OECD yayınları, kütüphane abonelikleri) kullanılması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

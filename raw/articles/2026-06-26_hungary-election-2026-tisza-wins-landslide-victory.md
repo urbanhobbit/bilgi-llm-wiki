@@ -33,3 +33,17 @@ Euractiv reports comprehensively on the 2026 Hungarian parliamentary elections, 
 ## Turkey Context
 
 Euractiv'in Macaristan seçim analizi, Brüksel-Türkiye ilişkileri açısından da önemli çıkarımlar sunmaktadır. Viktor Orbán'ın yenilgisi, AB içinde Türkiye'nin en önemli destekçilerinden birini kaybetmesi anlamına gelmektedir. Orbán, özellikle 2016 AB-Türkiye göç anlaşmasının savunulması, Türkiye'nin AB üyelik sürecinde genişleme yanlısı pozisyon alınması ve Kıbrıs konusunda Türkiye lehine tutum sergilenmesi gibi kritik konularda Ankara'ya destek vermiştir. Yeni Başbakan Péter Magyar'ın AB yanlısı ve hukukun üstünlüğü odaklı söylemleri, Türkiye-AB ilişkilerinin mevcut dinamiklerini değiştirebilir. Magyar'ın AB fonlarının serbest bırakılması karşılığında üstleneceği reform taahhütleri, Türkiye'nin AB üyelik müzakerelerinde referans alabileceği bir model oluşturabilir. Öte yandan, Macaristan seçim sürecinde dijital dezenformasyonla mücadele konusunda edinilen deneyimler, Türkiye'deki benzer çalışmalar için değerli içgörüler sunmaktadır. Türkiye'de Bilgi Teknolojileri ve İletişim Kurumu (BTK), 5651 sayılı Kanun çerçevesinde seçim dönemlerinde sosyal medya platformlarında manipülatif içeriklerin tespiti ve kaldırılması için aktif çalışmalar yürütmektedir. Kişisel Verileri Koruma Kurumu (KVKK), siyasi partilerin seçmen verilerini işleme süreçlerini denetlemekte, veri ihlalleri durumunda idari para cezaları uygulamaktadır. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık müfredatı kapsamında öğrencilerin eleştirel medya okuryazarlığı becerilerini geliştirmeyi hedeflemekte, bu da uzun vadede daha bilinçli bir seçmen kitlesi oluşmasına katkı sağlamaktadır. Macaristan'da yaşanan siyasi dönüşüm, Türkiye'deki siyasi partiler ve kamuoyu tarafından da yakından takip edilmektedir. Özellikle iktidar değişikliğinin ardından Macaristan'ın yargı bağımsızlığı, medya özgürlüğü ve sivil toplum alanında atacağı adımlar, Türkiye'nin AB ile ilişkilerinde benzer reformların tartışıldığı bir dönemde örnek teşkil edebilir. Ayrıca, Macaristan'ın Ukrayna'ya askeri ve mali destek konusundaki tutumunun değişmesi, Türkiye'nin Karadeniz güvenliği ve tahıl koridoru anlaşması bağlamındaki çıkarlarını da etkileyebilecektir. Türkiye açısından bir diğer önemli boyut, Macaristan'ın Türk Devletleri Teşkilatı'ndaki gözlemci üye statüsünün yeni hükümet tarafından nasıl ele alınacağıdır. Orbán döneminde Macaristan, Türk Devletleri Teşkilatı ile yakın ilişkiler geliştirmiş ve Türkiye'nin Orta Asya'daki diplomatik girişimlerine destek vermiştir. Yeni hükümetin bu politikayı sürdürüp sürdürmeyeceği merak konusudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-euractiv-com-hungary-election-tis.md|Article from www.euractiv.com: hungary election ti]]
+- [[raw/articles/2026-06-26_euractiv-hungary-election-tisza-wins-444-seats.md|Euractiv: Hungary Election - Tisza Wins 444 Seats]]
+- [[raw/articles/2026-06-26_euractiv-section-europe-politics-hungary-election-.md|Euractiv - section europe politics hungary electio]]
+- [[raw/articles/2026-06-26_genel-euractiv-com.md|GENEL - euractiv.com]]
+- [[raw/articles/2026-06-26_hungary-election-tisza-wins-444-seats.md|Hungary Election Tisza Wins 444 Seats]]

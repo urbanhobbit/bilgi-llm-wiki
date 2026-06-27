@@ -34,3 +34,20 @@ Mike Males' Substack analytical piece examines data from official US health agen
 ## Turkey Context
 
 Mike Males'in Substack analizi ve ABD sağlık kurumu anket verilerine uyguladığı ikincil veri analizi metodolojisi, Türkiye'de sağlık araştırmaları ve epidemiyolojik veri analizi alanında çalışan akademisyenler için önemli bir metodolojik referans ve eleştirel analiz örneği sunmaktadır. TÜBİTAK'ın SBAG ve SOBAG grupları tarafından desteklenen sağlık araştırmaları ve epidemiyoloji projelerinde, ikincil veri analizi metodolojileri sıklıkla kullanılmaktadır. Türkiye'de bu alanda önde gelen akademik merkezler arasında Hacettepe Üniversitesi Tıp Fakültesi Halk Sağlığı Anabilim Dalı, İstanbul Üniversitesi Tıp Fakültesi Halk Sağlığı Anabilim Dalı, Ankara Üniversitesi Tıp Fakültesi Halk Sağlığı Anabilim Dalı ve Sağlık Bilimleri Üniversitesi sayılabilir. Türkiye'de Sağlık Bakanlığı'nın yürüttüğü ulusal sağlık araştırmaları (Türkiye Sağlık Araştırması, Küresel Gençlik Tütün Araştırması vb.), ikincil analiz için önemli veri kaynakları sunmakla birlikte, bu verilerin Males'in yaptığı gibi eleştirel ve bağımsız analizi yaygın değildir. KVKK (6698 sayılı Kanun) kapsamında, sağlık verilerinin ikincil kullanımı ve araştırma amaçlı işlenmesi, hassas veri statüsü nedeniyle ek güvenceler gerektirmektedir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında halk sağlığı ve epidemiyoloji yer almakla birlikte, ikincil veri analizi metodolojisi konusunda kapasite geliştirme programlarına ihtiyaç bulunmaktadır. Türkiye'de sağlık araştırmalarında ikincil veri analizi kapasitesinin artırılması için TÜBİTAK ve Sağlık Bakanlığı işbirliğinde ulusal sağlık verilerine erişim ve analiz programları geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
+- [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]
+- [[raw/articles/2026-06-26_mike-males-substack-our-top-health-agency-surveys-.md|Mike Males (Substack): Our Top Health Agency Surve]]
+- [[raw/articles/2026-06-26_our-top-health-agency-s-surveys-found-what-really-.md|Our top health agency’s surveys found what really ]]
+- [[raw/articles/2026-06-26_our-top-health-agencys-surveys-found.md|Our Top Health Agencys Surveys Found]]

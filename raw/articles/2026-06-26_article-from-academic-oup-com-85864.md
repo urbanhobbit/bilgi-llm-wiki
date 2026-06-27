@@ -37,3 +37,19 @@ Türkiye'de dijital dönüşüm araştırmaları ve akademik metodoloji konusund
 KVKK kapsamında kişisel verilerin korunması alanında yapılan akademik çalışmalar, Türkiye'nin Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sürecini değerlendirmektedir. Dijital Hizmetler Kanunu'nun akademik analizi, Türkiye'nin dijital düzenleme yaklaşımını anlamak için kritik öneme sahiptir. Bu akademik çalışmalar, Türkiye'deki politika yapıcılar için kanıta dayalı karar alma süreçlerine katkı sağlamaktadır. Araştırma etiği ve veri gizliliği konuları, Türkiye'de artan dijital araştırma faaliyetleriyle birlikte daha fazla önem kazanmaktadır.
 
 Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılığıyla küresel araştırma ağlarına entegre olmaktadır. Bu bağlamda, çalışmanın metodolojik yaklaşımı ve bulguları, Türkiye'deki benzer araştırmalar için değerli bir referans teşkil etmektedir. Yerel araştırmacıların uluslararası yayınlara katkısı, Türkiye'nin bilimsel üretkenliği açısından önemli bir göstergedir. Boğaziçi Üniversitesi, ODTÜ, İstanbul Üniversitesi ve Sabancı Üniversitesi gibi kurumlar, dijital dönüşüm ve veri bilimi alanlarında öncü araştırmalar yürütmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

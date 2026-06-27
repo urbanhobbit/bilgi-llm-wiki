@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-05-23T00:00:00Z'
 ---
 
+## YÖNETİCİ ÖZETİ (200-300 kelime) Bu haf...'
+resource: https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567
+tags:
+- raw
+timestamp: '2026-05-23T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 23 Mayıs 2026 | **Hafta:** 22/2026
@@ -163,3 +170,23 @@ Makale, ScienceDirect koruması nedeniyle erişilemez durumdadır. DOI veya PII 
 
 *AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026*
 *Bir sonraki tarama: 30 Mayıs 2026*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
+- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]
+- [[raw/articles/2026-06-26_1369118x-2026-2639567.md|1369118X.2026.2639567]]

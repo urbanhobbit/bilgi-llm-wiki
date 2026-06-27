@@ -33,3 +33,24 @@ priority: high
 ## Turkey Context
 
 PubMed'de yayımlanan ekran süresi ve çocuk ruh sağlığı araştırması, Türkiye'deki çocuk sağlığı politikaları açısından önemli bilimsel veriler sunmaktadır. Araştırma bulguları, Türkiye'de de çocukların giderek artan ekran süresinin ruh sağlığı üzerindeki etkilerinin anlaşılması açısından kritik öneme sahiptir. MEB (Milli Eğitim Bakanlığı), okullarda ekran süresi yönetimi ve dijital detoks programları konusunda öğrenci ve velilere rehberlik hizmetleri sunmakta, sağlıklı dijital alışkanlıkların geliştirilmesi için müfredat çalışmaları yapmaktadır. KVKK (Kişisel Verileri Koruma Kurumu), çocukların dijital platformlardaki verilerinin korunması ve mahremiyet haklarının gözetilmesi konusunda düzenleyici rolünü sürdürmektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), çocukların ekran süresini yönetmeye yardımcı ebeveyn kontrol araçları ve Güvenli İnternet Hizmeti sunmakta, ailelerin çocuklarının dijital kullanımını izlemesine olanak tanımaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocuklarda dijital bağımlılığın önlenmesi için aile eğitim programları, danışmanlık hizmetleri ve farkındalık kampanyaları düzenlemektedir. TÜİK verilerine göre Türkiye'de çocukların günlük ortalama ekran süresi giderek artmakta olup, bu durum çocuk sağlığı açısından endişe yaratmaktadır. UNICEF Türkiye, çocukların sağlıklı dijital alışkanlıklar geliştirmesi için MEB ve Sağlık Bakanlığı ile iş birliği yapmakta, kanıta dayalı politika önerileri geliştirmektedir. Bilimsel araştırmaların politika yapım sürecinde daha etkin kullanılması, kanıta dayalı düzenlemelerin geliştirilmesine katkı sağlayacaktır. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
+- [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]
+- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
+- [[raw/articles/2026-06-26_pubmed-screen-time-and-children-s-mental-health-re.md|PubMed: Screen Time and Children's Mental Health -]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]

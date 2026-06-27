@@ -33,3 +33,15 @@ Gülistan Doku dosyasında önemli bir gelişme yaşandı. Sağlık Bakanlığı
 ## Turkey Context
 
 Gülistan Doku davası, Türkiye'de kayıp kadın cinayetlerinin ve kurumsal örtbas etme mekanizmalarının çarpıcı bir örneğini oluşturmaktadır. 2020 yılının Ocak ayında kaybolan Munzur Üniversitesi öğrencisi genç bir kadının dosyası, yıllar sonra ancak kararlı bir kadın başsavcının atanmasıyla yeniden canlandırılabilmiştir. Bu durum, Türk yargı sisteminde bireysel inisiyatifin ve mesleki kararlılığın kritik önemini bir kez daha ortaya koymaktadır. Dosyada en dikkat çekici hususlardan biri, dönemin Tunceli Valisi Tuncay Sonel'in oğlunun soruşturmada şüpheli olarak yer alması ve valinin bizzat kendisi hakkında delilleri yok etme suçlamasıyla işlem başlatılmasıdır. Bu, Türkiye'de siyasi nüfuz sahibi ailelerin adalet karşısında ayrıcalıklı olmadığı izlenimini verse de sürecin nasıl sonuçlanacağı büyük önem taşımaktadır. Geçmişte yüksek profilli davalarda benzer iddiaların akim kaldığına sıkça tanık olunmuştur. Sağlık Bakanlığı'nın hastane kayıtlarının silindiği iddiası üzerine soruşturma başlatması, dosyadaki delil karartma şüphelerini daha da derinleştirmektedir. Türkiye'de sağlık kurumlarının adli vakalarda kayıt tutma ve delil saklama yükümlülüğü bulunmasına rağmen, bu tür iddiaların ortaya çıkması sistemik ve yapısal bir soruna işaret etmektedir. Hastane kayıtlarının silinmesi, adli süreçte geri dönülemez zararlara yol açabilecek ciddi bir suçtur. Gülistan Doku davası, Türkiye'de kadına yönelik şiddet ve kayıp kadın vakalarında adaletin tecellisi için kamu denetiminin, bağımsız yargının ve sivil toplum baskısının ne kadar hayati olduğunu göstermektedir. Dava, aynı zamanda devlet kurumları arası koordinasyon eksikliğini ve bazı vakalarda kurumların delilleri karartma veya görmezden gelme eğilimini de gözler önüne sermektedir. Türkiye'de kayıp kadın vakaları ve kadın cinayetleriyle mücadelede daha etkili yasal mekanizmaların ve kurumsal denetim sistemlerinin oluşturulması gerektiği, Gülistan Doku davasıyla bir kez daha açıkça anlaşılmaktadır. Dava sürecinin şeffaf bir şekilde yürütülmesi ve tüm sorumluların adalet önünde hesap vermesi, Türkiye'de hukukun üstünlüğü ve kadın hakları açısından tarihi bir dönüm noktası olma potansiyeli taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

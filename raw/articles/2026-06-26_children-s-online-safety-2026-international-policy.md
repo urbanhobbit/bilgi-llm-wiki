@@ -34,3 +34,23 @@ This BBC News article covers international developments in children's online saf
 ## Turkey Context
 
 BBC'nin çocuk çevrimiçi güvenliği haber analizi, Türkiye'deki benzer düzenleme tartışmalarına uluslararası bir perspektif sunmaktadır. Türkiye'de 2025 yılında TBMM'ye sunulan 15 yaş altı sosyal medya kullanımının sınırlandırılmasına ilişkin yasa teklifi, küresel eğilimle paralellik göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın koordinasyonunda yürütülen düzenleme çalışmaları, Yunanistan, Avustralya ve Birleşik Krallık'taki benzer yasaları referans almaktadır. MEB'in okullarda dijital vatandaşlık eğitimi müfredatı, çocukların çevrimiçi risklere karşı bilinçlenmesini hedeflemektedir. Ancak uzmanlar, yasaklayıcı yaklaşımların tek başına yeterli olmadığını, eğitim ve farkındalık çalışmalarıyla desteklenmesi gerektiğini vurgulamaktadır. Türkiye'de çocukların sosyal medya kullanımına ilişkin düzenlemelerin, ifade özgürlüğü ve bilgiye erişim haklarıyla dengelenmesi gerekmektedir. Dijital Haklar Derneği ve Alternatif Bilişim gibi sivil toplum kuruluşları, düzenlemelerin çocuk hakları ve dijital özgürlükler dengesini gözetmesi gerektiğini savunmaktadır. BTK ve RTÜK'ün düzenleyici rolleri, çocukların çevrimiçi güvenliğini sağlarken aşırı müdahaleden kaçınmayı gerektirmektedir. BBC'nin küresel çocuk çevrimiçi güvenliği haber analizi, Türkiye'nin ulusal düzenleme çalışmalarını uluslararası bağlama oturtmaktadır. Yunanistan'ın 15 yaş altı sosyal medya yasağını uygulamaya koyan ilk AB ülkesi olması, Türkiye'deki benzer düzenleme tartışmaları için önemli bir referans oluşturmaktadır. Avustralya'nın 16 yaş altı sosyal medya yasağının ilk yıl sonuçlarının değerlendirilmesi, Türkiye'deki politika yapıcılar için ampirik veri sağlayacaktır. Türkiye'de çocukların çevrimiçi güvenliğine yönelik düzenlemeler, uluslararası gelişmelerle eşgüdümlü olarak ilerlemektedir. BTK ve RTÜK'ün ortak çalışmaları, sosyal medya platformlarının çocuk koruma yükümlülüklerine uyumunu denetlemektedir. MEB'in okullarda uyguladığı 'Güvenli İnternet Kullanımı' eğitim programı, 2025 yılı itibarıyla 10 milyondan fazla öğrenciye ulaşmıştır. Türkiye'de yasaklayıcı yaklaşımların yanı sıra eğitim, farkındalık ve dijital okuryazarlığın güçlendirilmesi, çocukların çevrimiçi güvenliğinin sağlanmasında tamamlayıcı bir rol oynamaktadır. Türkiye'de sosyal medya platformlarının çocuk kullanıcılara yönelik sorumlulukları, uluslararası standartlarla uyumlu hale getirilmelidir. BTK ve RTÜK'ün ortak yürüttüğü çalışmalar, platformların çocuk koruma yükümlülüklerine uyumunu denetlemekte ve küresel gelişmeleri yakından izlemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

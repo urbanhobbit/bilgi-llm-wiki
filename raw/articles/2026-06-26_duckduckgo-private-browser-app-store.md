@@ -33,3 +33,11 @@ Apple App Store'da yer alan DuckDuckGo Private Browser uygulama sayfası, gizlil
 ## Turkey Context
 
 DuckDuckGo Private Browser gibi gizlilik odaklı tarayıcılar, Türkiye'de artan dijital gizlilik farkındalığı bağlamında önem kazanmaktadır. KVKK'nın (6698 sayılı Kanun) kişisel verilerin korunmasına ilişkin hükümleri, kullanıcıların çevrimiçi gizliliklerini koruma konusunda bilinçlenmesini teşvik etmektedir. Türkiye'de BTK'nın internet düzenlemeleri ve erişim engelleme kararları, gizlilik odaklı tarayıcıların kullanımını etkileyebilmektedir. Özellikle çocukların ve gençlerin çevrimiçi gizliliğini korumak amacıyla, DuckDuckGo gibi izleme koruması sunan tarayıcıların kullanımı ebeveynler tarafından değerlendirilmelidir. MEB'in Dijital Vatandaşlık müfredatı kapsamında, gizlilik odaklı araçlar ve güvenli tarama alışkanlıkları konusunda eğitim verilmesi önerilmektedir. Türkiye'de internet kullanıcılarının büyük çoğunluğu (%85+) varsayılan tarayıcıları kullanmakta olup, gizlilik odaklı alternatiflerin farkındalığı sınırlıdır. Bu uygulama, doğrudan çocuk güvenliği veya akademik araştırma ile ilgili olmadığı için GENEL kategorisinde değerlendirilmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-05-30T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...'
+resource: https://www.digital-futures-for-children.net/events/child-rights-regulation
+tags:
+- raw
+timestamp: '2026-05-30T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni
 
 **Tarih:** 2026-05-30
@@ -453,3 +460,38 @@ Türkiye, çocukların çevrimiçi korunması alanında önemli adımlar atmakla
 ---
 
 *Bu bülten KURATOR araştırma projesi kapsamında hazırlanmıştır. Kaynakların %60 engel oranı (>%50 eşik değeri) nedeniyle metadata tabanlı sınıflandırma yöntemi kullanılmıştır. Kaynaklara erişimde sorun yaşanması durumunda lütfen iletişime geçiniz.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/bianet-org.md|Bianet]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation.md|Child Rights Regulation]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

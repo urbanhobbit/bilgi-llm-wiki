@@ -33,3 +33,19 @@ This PubMed-indexed research synthesis examines the relationship between childre
 ## Turkey Context
 
 PubMed'de indekslenen ekran süresi-çocuk ruh sağlığı araştırmaları, Türkiye'de bu alanda yürütülen akademik çalışmalar için kritik bir metodolojik referans noktasıdır. TÜBİTAK'ın Sosyal ve Beşeri Bilimler Araştırma Grubu (SOBAG) tarafından desteklenen çocuk ve dijital medya projelerinde, PubMed'deki metodolojik standartlar referans alınmaktadır. Türkiye'de Hacettepe Üniversitesi Çocuk Sağlığı Enstitüsü, İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Çocuk Psikiyatrisi Anabilim Dalı ve Koç Üniversitesi Sağlık Bilimleri Fakültesi, ekran süresi ve çocuk ruh sağlığı konusunda uluslararası yayınlar yapmaktadır. Ancak Türkiye'deki araştırmalarda kullanılan metodolojiler, PubMed standartlarındaki boylamsal tasarımlar ve ekolojik anlık değerlendirme gibi ileri yöntemler açısından henüz yeterli düzeyde değildir. TÜBİTAK'ın 2024 yılı araştırma öncelikleri arasında çocuk sağlığı ve dijital teknolojiler yer almakta, ancak metodolojik kapasitenin artırılması için özel bir program bulunmamaktadır. Türkiye'de ekran süresi araştırmalarında en sık kullanılan yöntem kesitsel anket çalışmalarıdır; boylamsal tasarımlar ve dijital iz verisi analizi gibi ileri yöntemler sınırlı sayıda çalışmada kullanılmaktadır. KVKK kapsamında çocukların dijital izlerinin araştırma amaçlı kullanımı, ebeveyn onamı ve veri minimizasyonu ilkeleri çerçevesinde özel düzenlemelere tabidir. YÖK'ün Tez Merkezi verilerine göre, 2020-2024 döneminde ekran süresi ve çocuk ruh sağlığı konusunda yazılan lisansüstü tezlerin sayısı önemli ölçüde artmış, ancak bu tezlerde kullanılan metodolojilerin PubMed standartlarına uyumu konusunda sistematik bir değerlendirme yapılmamıştır. Türkiye'de TÜBİTAK'ın 1001 ve 1002 programları kapsamında desteklenen çocuk ve ekran süresi projelerinin metodolojik kalitesinin artırılması için PubMed standartlarında boylamsal tasarım ve dijital iz verisi analizi eğitim programlarına ihtiyaç bulunmaktadır. Sağlık Bakanlığı'nın 2023 yılında yayımladığı Çocuk ve Ergen Ruh Sağlığı Eylem Planı'nda ekran süresi araştırmalarına atıfta bulunulmuş, ancak bu araştırmalarda kullanılması önerilen metodolojik standartlar belirtilmemiştir. Türkiye'de çocuk psikiyatrisi alanında yapılan uluslararası yayınların sayısı artsa da, bu yayınlarda kullanılan metodolojilerin PubMed'de indekslenen üst düzey dergilerin standartlarına uyumu konusunda sistematik bir değerlendirme yapılmamıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
+- [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]
+- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-ni.md|Screen Time and Children's Mental Health — PubMed/]]

@@ -33,3 +33,15 @@ Cumhuriyet reports on the detention of 8 students in İzmir on allegations of pr
 ## Turkey Context
 
 İzmir'de 8 öğrencinin okul saldırısı hazırlığı iddiasıyla gözaltına alınması, Türkiye'de okul güvenliği konusundaki endişeleri artırmıştır. Milli Eğitim Bakanlığı, okullarda güvenlik önlemlerini artırma kararı almış, okul girişlerinde güvenlik taraması uygulamasını yaygınlaştırmıştır. BTK, sosyal medya platformlarında okul saldırılarını teşvik eden veya özendiren içeriklerin tespiti ve kaldırılması için acil müdahale protokolleri oluşturmuştur. Psikolojik Danışmanlık ve Rehberlik (PDR) hizmetlerinin okullardaki etkinliği, bu olayların ardından yeniden değerlendirilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

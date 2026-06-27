@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-13T00:00:00Z'
 ---
 
+## YÖNETİCİ ÖZETİ (200-300 keli...'
+resource: https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-teens-ai-use
+tags:
+- raw
+timestamp: '2026-06-13T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 13 Haziran 2026 | **Hafta:** 24/2026
@@ -294,3 +301,37 @@ Common Sense Media anketleri, büyük örneklem ve standartlaştırılmış yön
 - bbc.com
 
 **Not:** %50'den fazlası erişilebilir olduğu için erişilebilen URL'lerde metadata tabanlı sınıflandırmaya gerek duyulmamıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
+- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
+- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
+- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]
+- [[raw/articles/2026-06-26_pew-research-parents-on-teens-and-technology.md|Pew Research: Parents on Teens and Technology]]

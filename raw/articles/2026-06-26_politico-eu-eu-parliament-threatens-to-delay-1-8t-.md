@@ -33,3 +33,15 @@ Politico EU reports on the European Parliament's threat to delay negotiations on
 ## Turkey Context
 
 AB bütçe müzakerelerindeki gecikme, Türkiye'nin AB fonlarına erişimi ve mali işbirliği açısından önemli sonuçlar doğurabilecek bir gelişmedir. Türkiye, AB katılım öncesi mali yardım araçları (IPA) kapsamında önemli miktarda fon kullanmaktadır. Yeni bütçe döneminde IPA fonlarının yeniden yapılandırılması, Türkiye'nin AB fonlarından yararlanma koşullarını etkileyebilir. Türkiye'nin AB üyelik sürecindeki mevcut durum, fon dağıtımında siyasi koşulluluk ilkesinin uygulanması konusunda belirsizlik yaratmaktadır. AB bütçesinde hukukun üstünlüğü koşulluluğu, Türkiye-AB ilişkilerinde hassas bir konu olmaya devam etmektedir. Türkiye'de AB fonlarının kullanımı, Strateji ve Bütçe Başkanlığı ile AB Başkanlığı koordinasyonunda yürütülmektedir. Hazine ve Maliye Bakanlığı, AB fonlarının etkin kullanımı için denetim mekanizmalarını güçlendirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

@@ -33,3 +33,13 @@ Türkiye'de sosyal medya kullanımında 15 yaş sınırı getiren düzenleme ile
 ## Turkey Context
 
 Sosyal medya düzenlemesine uymayan platformlara getirilecek ağır yaptırımlar, Türkiye'nin dijital düzenleme konusundaki kararlılığını göstermektedir. KVKK'nın 6698 sayılı Kanunu kapsamında kişisel verilerin korunması ihlallerine uygulanan idari para cezaları, sosyal medya platformları için de emsal teşkil etmektedir. BTK'nın internet içerik düzenlemeleri ve erişim engelleme yetkileri, yeni düzenlemede de referans alınmaktadır. TÜİK verileri, Türkiye'de sosyal medya kullanım oranının genç nüfusta %90'ın üzerinde olduğunu göstermektedir. MEB'in okullarda uyguladığı dijital vatandaşlık eğitimi, bu düzenlemenin eğitim ayağını oluşturmaktadır. Sağlık Bakanlığı'nın çocuklarda dijital bağımlılıkla mücadele programları da düzenlemenin sağlık boyutunu desteklemektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_sosyal-medyada-yeni-donem-15-yas.md|Sosyal Medyada Yeni Donem 15 Yas ]]
+- [[raw/articles/2026-06-26_sosyal-medyada-yeni-donem-15-yas-siniri-ve-agir-ya.md|Sosyal Medyada Yeni Donem 15 Yas Siniri Ve Agir Ya]]

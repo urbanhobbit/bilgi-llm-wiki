@@ -33,3 +33,15 @@ TRT Haber'in arama sayfası, Kahramanmaraş ve Şanlıurfa'daki okul saldırıla
 ## Turkey Context
 
 17 Nisan 2026'da Kahramanmaraş ve Şanlıurfa'da eş zamanlı yaşanan okul saldırıları, Türkiye'de okul güvenliği politikalarının yeniden gözden geçirilmesini zorunlu kılmıştır. İki ilde eş zamanlı saldırıların organize bir yapıya işaret etmesi, İçişleri Bakanlığı ve MEB'in ortak güvenlik protokollerini acilen güncellemesine yol açmıştır. Olay sonrası MEB, tüm okullarda güvenlik taramalarının artırılması ve okul psikolojik danışmanlık hizmetlerinin güçlendirilmesi yönünde genelge yayımlamıştır. Ancak okul güvenliğinin sadece fiziksel önlemlerle sağlanamayacağı, sosyal medyada yayılan şiddet içeriklerinin ve dijital platformlardaki zararlı akımların da çocuk güvenliğini tehdit ettiği unutulmamalıdır. BTK'nın sosyal medya platformlarından şiddet içerikli paylaşımların kaldırılması talepleri ve Dijital Hizmetler Kanunu kapsamındaki düzenlemeler, okul güvenliğinin dijital boyutuna ilişkin önemli adımlardır. UNICEF Türkiye'nin okul temelli şiddetle mücadele programı kapsamında geliştirdiği 'Güvenli Okul' modeli, fiziksel ve dijital güvenlik önlemlerini entegre eden bütüncül bir yaklaşım sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

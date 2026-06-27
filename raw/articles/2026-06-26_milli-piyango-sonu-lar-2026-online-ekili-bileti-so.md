@@ -32,3 +32,22 @@ priority: normal
 ## Turkey Context
 
 Milli Piyango sonuçlarının yayımlanması, Türkiye'de şans oyunları sektörünün dijitalleşmesi ve tüketici hakları açısından değerlendirilebilir. KVKK (Kişisel Verileri Koruma Kurumu), çevrimiçi şans oyunları platformlarında kişisel verilerin korunması ve kullanıcı gizliliği konusunda 6698 sayılı Kanun kapsamında sıkı düzenlemeler yapmıştır. MEB (Milli Eğitim Bakanlığı), okullarda bağımlılıkla mücadele eğitimi kapsamında kumar ve şans oyunları bağımlılığı konusunda farkındalık çalışmaları yürütmekte, öğrencilere ve velilere yönelik bilinçlendirme seminerleri düzenlemektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), yasa dışı bahis ve şans oyunları sitelerine erişimin engellenmesi için çalışmalar yapmakta, bu sitelerin tespiti ve kapatılması için kolluk kuvvetleriyle iş birliği yürütmektedir. Aile ve Sosyal Hizmetler Bakanlığı, kumar bağımlılığıyla mücadele kapsamında danışmanlık ve rehabilitasyon hizmetleri sunmakta, bağımlı bireylerin ve ailelerinin desteklenmesi için ALO 191 Uyuşturucu ve Bağımlılık Danışma Hattı üzerinden hizmet vermektedir. TÜİK verileri, Türkiye'de şans oyunları sektörünün büyüklüğü, katılımcı profili ve hane harcamaları içindeki payı hakkında önemli istatistikler sunmaktadır. UNICEF Türkiye, çocukların ve gençlerin kumar ve şans oyunlarının zararlarından korunması için farkındalık programlarını desteklemekte, ailelere yönelik rehberlik materyalleri geliştirmektedir. Dijital platformlarda şans oyunları reklamlarının çocukları hedef almaması için daha sıkı düzenlemeler gerekmektedir. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ac-haberi-duyurdu-survivor-sabriye-eng-l-y-kan-l-m.md|Acı haberi duyurdu! Survivor Sabriye Şengül'ü yıka]]
+- [[raw/articles/2026-06-26_aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-.md|Aci Haberi Duyurdu Survivor Sabriye Sengulu Yikan ]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd.md|Article from www.milliyet.com.tr: aci haberi duyur]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-milli-piyango-son.md|Article from www.milliyet.com.tr: milli piyango so]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-secim-donemi-deze.md|Article from www.milliyet.com.tr: secim donemi dez]]

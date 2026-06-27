@@ -46,3 +46,20 @@ Human social behaviour unfolds in complex real-world environments influenced by 
 ## See Also
 - [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]
+- [[raw/articles/2026-06-26_akademi-k-academic-oup-com.md|AKADEMİK - academic.oup.com]]

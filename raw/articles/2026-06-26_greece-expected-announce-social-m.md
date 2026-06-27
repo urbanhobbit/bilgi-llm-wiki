@@ -32,3 +32,19 @@ This content covers current developments in geopolitics, technology, and public 
 ## Turkey Context
 
 Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan etkilenen ülkelerin başında gelmektedir. Dışişleri Bakanlığı, bölgesel krizlerde aktif diplomasi yürütürken, değişen küresel ticaret dinamiklerine uyum sağlanmaya çalışılmaktadır. Türkiye'nin çok boyutlu dış politikası, özellikle Ukrayna-Rusya savaşı, Orta Doğu'daki güç dengeleri ve Doğu Akdeniz'deki enerji rekabeti bağlamında önemli sınamalarla karşı karşıyadır. BTK'nın sosyal medya ve internet düzenlemeleri, ifade özgürlüğü ile ulusal güvenlik arasındaki hassas dengeyi yansıtmaktadır. Özellikle seçim dönemlerinde dezenformasyonla mücadele kapsamında alınan tedbirler, hem yurt içinde hem de uluslararası alanda tartışma konusu olmaktadır. TÜİK verilerine göre enflasyon ve istihdam oranları, ekonominin kırılganlıklarını ortaya koymaktadır. Türkiye'nin yapısal reformları hızlandırması, yargı bağımsızlığını güçlendirmesi ve dış politikada öngörülebilirliği artırması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-reuters-com.md|Www Reuters Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect.md|Article from www.reuters.com: greece expect]]
+- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expected-annou.md|Article from www.reuters.com: greece expected anno]]
+- [[raw/articles/2026-06-26_genel-reuters-com.md|GENEL - reuters.com]]
+- [[raw/articles/2026-06-26_greece-expect.md|Greece Expect]]
+- [[raw/articles/2026-06-26_greece-expected-announce-social-media-ban-children.md|Greece Expected Announce Social Media Ban Children]]

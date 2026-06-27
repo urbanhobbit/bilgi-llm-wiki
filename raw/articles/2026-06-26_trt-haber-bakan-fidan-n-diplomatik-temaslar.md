@@ -33,3 +33,13 @@ TRT Haber reports on Turkish Foreign Minister Hakan Fidan's diplomatic engagemen
 ## Turkey Context
 
 Bakan Fidan'ın Birleşik Krallık'taki temasları, Türkiye'nin Brexit sonrası Avrupa güvenlik mimarisindeki konumunu güçlendirme çabalarının bir parçasıdır. Görüşmelerde gündeme gelen konular arasında Türkiye-İngiltere Serbest Ticaret Anlaşması'nın güncellenmesi, savunma sanayii işbirliği ve düzensiz göçle mücadele yer almaktadır. Fidan'ın Lordlar Kamarası ve Avam Kamarası üyeleriyle yaptığı görüşmeler, Türkiye'nin uluslararası platformlardaki etkinliğini artırma stratejisini yansıtmaktadır. Türkiye'nin Ukrayna savaşında oynadığı arabuluculuk rolü ve Karadeniz Tahıl Koridoru girişimi, uluslararası toplumda takdir görmüştür. Dışişleri Bakanlığı, Türkiye'nin bölgesel ve küresel meselelerdeki arabuluculuk kapasitesini geliştirmek için diplomatik altyapı yatırımlarını sürdürmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

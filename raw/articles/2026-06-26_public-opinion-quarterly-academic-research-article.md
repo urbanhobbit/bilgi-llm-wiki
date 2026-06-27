@@ -33,3 +33,23 @@ This academic article, published in Public Opinion Quarterly (POQ), a leading pe
 ## Turkey Context
 
 Public Opinion Quarterly (POQ) gibi uluslararası saygın akademik dergilerde yayımlanan metodolojik çalışmalar, Türkiye'deki kamuoyu araştırmaları ve siyasal iletişim alanında çalışan araştırmacılar için önemli bir referans noktası oluşturmaktadır. Türkiye'de siyasal iletişim ve kamuoyu araştırmaları alanında TÜBİTAK destekli projeler, üniversiteler bünyesindeki araştırma merkezleri (İstanbul Bilgi Üniversitesi Gözlemcilik ve Kamuoyu Araştırmaları Merkezi, Koç Üniversitesi Toplumsal Cinsiyet ve Kadın Çalışmaları Araştırma Merkezi, Sabancı Üniversitesi İstanbul Politikalar Merkezi gibi) ve özel araştırma şirketleri uluslararası standartlarda metodolojiler benimsemeye çalışmaktadır. Ancak Türkiye'de anket ve kamuoyu yoklamalarının güvenilirliği konusunda zaman zaman ciddi tartışmalar yaşanmakta, farklı sonuçlar veren anketler kamuoyunda kafa karışıklığına yol açmaktadır. TÜİK ve Yüksek Seçim Kurulu (YSK) gibi resmi kurumların veri toplama ve raporlama standartlarının uluslararası akademik normlarla uyumlu hale getirilmesi, araştırma kalitesinin artırılmasında kritik önem taşımaktadır. Türkiye'de akademik yayın etiği, araştırma metodolojisi ve veri yönetimi konusunda Yükseköğretim Kurulu (YÖK) ve üniversiteler bünyesinde yürütülen çalışmalar devam etmekle birlikte, saha araştırmalarında veri kalitesi, örneklem temsiliyeti, yanıtlama oranları ve dijital anket yöntemlerinin güvenilirliği gibi metodolojik konularda daha fazla iyileştirmeye ihtiyaç duyulmaktadır. Dijitalleşen dünyada anket yöntemlerinin dönüşüm geçirdiği göz önüne alındığında, Türkiye'deki araştırmacıların çevrimiçi anket metodolojileri, büyük veri analizi, makine öğrenmesi ve yapay zeka destekli araştırma araçları konusunda yetkinliklerini artırmaları gerekmektedir. Ayrıca, Türkiye'de akademik araştırmaların açık bilim prensipleri çerçevesinde şeffaflaştırılması, veri paylaşımı ve araştırma tekrarlanabilirliğinin teşvik edilmesi, uluslararası akademik toplulukla entegrasyonu güçlendirecektir. Türk üniversitelerinin uluslararası sıralamalardaki konumunun iyileştirilmesi, uluslararası işbirliklerinin artırılması ve akademik yayın kalitesinin yükseltilmesi, ülkenin bilimsel rekabet gücü açısından stratejik öneme sahiptir. Türkiye'de anket şirketlerinin bağlı olduğu Araştırmacılar Derneği (ARAŞTIRMA) ve TÜİK'in belirlediği etik ilkeler, kamuoyu araştırmalarının kalite standartlarını belirlemekte ve sektörün profesyonelleşmesine katkı sağlamaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

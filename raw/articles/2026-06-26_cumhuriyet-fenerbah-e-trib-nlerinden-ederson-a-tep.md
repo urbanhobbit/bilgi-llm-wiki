@@ -30,3 +30,15 @@ Cumhuriyet reports on Fenerbahçe fans reacting to player Ederson during a match
 ## Turkey Context
 
 Fenerbahçe tribünlerinin tepkisi, Türkiye'de spor karşılaşmalarında taraftar davranışlarının ve sporcu-performans ilişkisinin bir yansımasıdır. Türkiye'de spor müsabakaları, 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun çerçevesinde düzenlenmektedir. Ayrıca, sosyal medyada sporculara yönelik nefret söylemi ve hakaret içerikli paylaşımlar, BTK ve ilgili kurumlar tarafından denetlenmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

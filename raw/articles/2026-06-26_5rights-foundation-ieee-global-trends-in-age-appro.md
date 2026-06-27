@@ -35,3 +35,25 @@ The 5Rights Foundation's analytical report on IEEE research examining growing gl
 ## Turkey Context
 
 5Rights Foundation ve IEEE işbirliğiyle hazırlanan yaşa uygun dijital tasarım analizi, Türkiye'de çocuk hakları ve dijital düzenleme alanında yürütülen akademik çalışmalar ve politika tartışmaları için önemli bir metodolojik referans modeli sunmaktadır. Türkiye'de 2024 yılında gündeme gelen Dijital Oyun ve Sosyal Medya Düzenlemesi tartışmaları kapsamında, IEEE ve 5Rights Foundation'ın geliştirdiği yaşa uygun tasarım ilkeleri ve metodolojik çerçeve önem kazanmaktadır. TÜBİTAK'ın 1001 programı kapsamında desteklenen çocuk hakları ve dijital teknoloji konulu projelerde, yaşa uygun tasarım metodolojileri referans alınmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında İstanbul Bilgi Üniversitesi Çocuk Çalışmaları Birimi (SOÇA), Ankara Üniversitesi Çocuk Kültürü Araştırma ve Uygulama Merkezi (ÇOKAUM) ve ODTÜ Çocuk ve Medya Araştırmaları Merkezi sayılabilir. KVKK (6698 sayılı Kanun) kapsamında, çocukların dijital platformlarda kişisel verilerinin korunması ve yaşa uygun tasarım ilkeleri arasındaki ilişki önemli hukuki değerlendirmeler gerektirmektedir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında çocuk hakları ve dijital güvenlik yer almakla birlikte, yaşa uygun tasarım standartlarının Türkiye bağlamına uyarlanması konusunda henüz kapsamlı bir akademik çalışma veya politika geliştirme süreci bulunmamaktadır. ULAKBİM'in DergiPark platformunda, çocuk hakları ve dijital medya konulu akademik yayınlar artmakla birlikte, IEEE ve 5Rights Foundation metodolojilerini Türkiye bağlamında uygulayan çalışmalar sınırlı sayıdadır. Türkiye'de yaşa uygun dijital tasarım standartlarının geliştirilmesi için TÜBİTAK, BTK ve KVKK işbirliğinde disiplinlerarası bir çalışma grubu kurulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]
+- [[raw/articles/2026-06-26_article-from-5rightsfoundation-com-building-a-digi.md|Article from 5rightsfoundation.com: building a dig]]

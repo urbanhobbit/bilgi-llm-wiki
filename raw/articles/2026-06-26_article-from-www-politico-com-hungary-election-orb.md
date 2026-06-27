@@ -37,3 +37,13 @@ Türkiye'de güncel gelişmeler bağlamında değerlendirildiğinde, küresel tr
 Sivil toplum kuruluşları ve düşünce kuruluşlarının raporları, politika yapıcılar için alternatif perspektifler sağlamaktadır. Türkiye'nin çok yönlü dış politikası ve bölgesel işbirlikleri, küresel gelişmelerin Türkiye'ye etkisini şekillendiren önemli faktörlerdir. Türkiye'nin Avrupa Birliği ile ilişkileri, NATO üyeliği ve bölgesel işbirlikleri, konunun uluslararası boyutunu anlamak için önemli çerçeveler sunmaktadır. Yerel medya ve akademik yayınlar aracılığıyla konunun Türkiye'deki yansımaları düzenli olarak izlenmektedir.
 
 Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikaları ve Hazine ve Maliye Bakanlığı'nın teşvik programları aracılığıyla yönetilmektedir. Türkiye'nin ihracat odaklı büyüme stratejisi ve lojistik avantajları, küresel tedarik zincirlerindeki değişimlerden etkilenmektedir. Savunma sanayiinde yerli üretim hamlesi ve teknoloji girişimciliği ekosistemi, Türkiye'nin dijital dönüşüm potansiyelini göstermektedir. Bu bağlamda, ilgili gelişmelerin Türkiye'deki yansımaları ve politika çıkarımları kamuoyu ve karar alıcılar için önem taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]
+- [[raw/articles/2026-06-26_cuban-president-fear-trump-00868372.md|Cuban President Fear Trump 00868372]]

@@ -35,3 +35,27 @@ This international best practices blueprint from 5Rights Foundation sets out a p
 ## Turkey Context
 
 5Rights Vakfı'nın uluslararası iyi uygulama rehberi, Türkiye'de çocukların dijital ortamda korunmasına yönelik düzenlemeler için somut bir politika çerçevesi sunmaktadır. Türkiye'de 2024 yılında kabul edilen Dijital Hizmetler Kanunu (7412 sayılı), platformların çocuk kullanıcılara karşı sorumluluklarını düzenlemekte, ancak yaşa uygun tasarım standartları konusunda henüz ayrıntılı düzenlemeler bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanı'nın 2025 yılında duyurduğu sosyal medya düzenlemesi çerçevesi, 15 yaş altı çocukların platform kullanımını sınırlandırmayı hedeflemektedir. MEB'in Dijital Okuryazarlık Stratejisi (2025-2030), çocukların güvenli internet kullanımı ve dijital vatandaşlık becerilerinin geliştirilmesini öngörmektedir. BTK'nın düzenleyici sorumlulukları arasında platformların çocuk koruma yükümlülüklerini denetlemek de bulunmaktadır. Bu raporda önerilen çocuk hakları etki değerlendirmeleri (CRIA), Türkiye'deki düzenleyici süreçlere entegre edilebilir. Birleşik Krallık'ın Age Appropriate Design Code ve Brezilya'nın yaşa uygun tasarım yasası, Türkiye için önemli politika referanslarıdır. UNICEF Türkiye'nin bu alandaki teknik desteği, ulusal düzenlemelerin uluslararası standartlarla uyumlu hale getirilmesinde kritik rol oynayabilir. Türkiye'de çocuk dostu dijital ortamın inşası için çok paydaşlı bir yaklaşım benimsenmeli ve sivil toplum kuruluşları sürece dahil edilmelidir. 5Rights Vakfı'nın iyi uygulama rehberi, Türkiye'de Aile ve Sosyal Hizmetler Bakanlığı koordinasyonunda yürütülen sosyal medya düzenlemesi çalışmalarına doğrudan katkı sağlayabilecek niteliktedir. MEB Dijital Vatandaşlık Eğitimi programı kapsamında 2025-2026 yılında 25.000 öğretmene dijital okuryazarlık eğitimi verilmiştir. BTK'nın internet güvenliği düzenlemeleri kapsamında 'Güvenli İnternet Hizmeti' (GİH) profilleri, çocuk kullanıcılar için filtreleme ve içerik sınırlaması sağlamaktadır. UNICEF Türkiye, 5Rights'ın uluslararası rehberinin Türkiye'de uygulanması için teknik destek sağlamaya hazır olduğunu belirtmiştir. Türkiye'de faaliyet gösteren sosyal medya platformlarının yerel temsilcilikleri, çocuk kullanıcılara yönelik ürün tasarımında yaşa uygunluk prensiplerini benimsemeye başlamıştır. Türkiye'de çocuk dostu dijital ortamın inşası için kamu-özel sektör-sivil toplum işbirliğini temel alan çok paydaşlı bir ulusal strateji geliştirilmesi önerilmektedir. Bu strateji, 5Rights modelindeki dört temel yapı taşını temel alarak Türkiye'nin ihtiyaçlarına uyarlanmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

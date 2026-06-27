@@ -35,3 +35,22 @@ This Bianet article examines the critical role of digital security during electi
 ## Turkey Context
 
 Bianet'in dijital güvenlik ve seçim süreçleri analizi, Türkiye'de 2023 cumhurbaşkanlığı seçimleri ve 2024 yerel seçimleri deneyimleri ışığında önem kazanmaktadır. YSK (Yüksek Seçim Kurulu)'nun seçim güvenliği protokolleri, dijital platformlarda dezenformasyonla mücadeleyi de kapsamaktadır. İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), seçim dönemlerinde sosyal medyada dolaşıma giren yanlış bilgilere karşı aktif bir şekilde kamuoyunu bilgilendirmektedir. 5651 sayılı İnternet Yasası kapsamında, seçim dönemlerinde sosyal medya platformlarının şeffaflık yükümlülükleri ve siyasi reklam denetimi artırılmıştır. BTK'nın seçim dönemlerinde uyguladığı ek güvenlik önlemleri arasında, siber saldırılara karşı kritik altyapının korunması ve sosyal medya hesaplarının ele geçirilmesine karşı önlemler bulunmaktadır. TÜBİTAK'ın siber güvenlik araştırma projeleri, seçim altyapısının güvenliğinin artırılmasına katkı sağlamaktadır. Türkiye'de seçim dönemlerinde dezenformasyonla mücadele, ifade özgürlüğü sınırlamaları tartışmalarını da beraberinde getirmektedir. Dijital güvenlik ve seçim bütünlüğü arasındaki denge, Türkiye'nin demokratik olgunluğunun önemli bir göstergesidir. AB'nin seçim güvenliği standartları ve DSA düzenlemeleri, Türkiye için bir referans modeli oluşturmaktadır. Bianet'in seçim ve dijital güvenlik analizi, Türkiye'de seçim güvenliği tartışmalarına önemli bir katkı sunmaktadır. 2023 cumhurbaşkanlığı seçimleri öncesinde ve sonrasında sosyal medya platformlarında dolaşıma giren dezenformasyon içeriklerine ilişkin DMM'nin yaptığı açıklamalar, 2024 yerel seçimlerinde daha sistematik bir yaklaşıma dönüşmüştür. YSK'nın seçim güvenliği protokolleri kapsamında, sosyal medya platformlarının seçim dönemlerinde uyması gereken ek yükümlülükler belirlenmiştir. TÜBİTAK BİLGEM Siber Güvenlik Enstitüsü, seçim altyapısının siber saldırılara karşı korunması için teknik çözümler geliştirmektedir. AB'nin seçim güvenliği standartları ve DSA düzenlemeleri, Türkiye için önemli bir referans modeli oluşturmaktadır. Dijital haklar aktivistleri, seçim güvenliği önlemlerinin ifade özgürlüğünü ve bilgiye erişim hakkını orantısız şekilde sınırlamaması gerektiğini vurgulamaktadır. Türkiye'de seçim dönemlerinde dezenformasyonla mücadele ile ifade özgürlüğü arasındaki hassas denge, demokratik olgunluğun önemli bir göstergesidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bianet-org.md|Bianet]]
+- [[entities/bianet-org.md|Bianet Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_265342-dijital-guvenligin-secim-surecindeki-onemi.md|265342 Dijital Guvenligin Secim Surecindeki Onemi]]
+- [[raw/articles/2026-06-26_265342-dijital-guvenligin-seyim-surecindeki-onemi.md|265342 Dijital Guvenligin Seyim Surecindeki Onemi]]
+- [[raw/articles/2026-06-26_article-from-bianet-org-265342-dijital-guvenligin-.md|Article from bianet.org: 265342 dijital guvenligin]]
+- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-bianet.md|Dijital Güvenliğin Seçim Sürecindeki Önemi — Biane]]
+- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-bianet-a.md|Dijital Güvenliğin Seçim Sürecindeki Önemi — Biane]]

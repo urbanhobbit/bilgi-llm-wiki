@@ -43,3 +43,18 @@ TUIK verilerine gore, Turkiye'de hanelerin %95,5'i internete erisim saglayabilme
 UNICEF Turkiye, cocuklarin dijital ortamda karsilastigi riskler ve bu risklere karsi koruyucu mekanizmalarin gelistirilmesi konusunda calismalar yurutmektedir. UNICEF'in raporlari, Turkiye'deki cocuklarin cevrimici guvenligi konusunda onemli veriler sunmaktadir. Yerel arastirmalar da Turkiye'de cocuklarin sosyal medya kullanim aliskanliklari ve dijital okuryazarlik seviyeleri uzerine onemli bulgular ortaya koymaktadir.
 
 Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak icin kapsamli bir ulusal strateji gelistirilmesi gerekmektedir. Bu strateji, KVKK ile uyumlu veri koruma politikalari, MEB'in dijital okuryazarlik mustakileri, BTK'nin icerik denetleme mekanizmalari ve Aile Bakanligi'nin ebeveyn rehberligi programlarini entegre etmelidir. Ayrica, sosyal medya platformlarinin cocuk kullanicilari icin ozel guvenlik ayarlari ve yas dogrulama sistemleri gelistirmesi tesvik edilmelidir. Turkiye, Avrupa Birligi Dijital Hizmetler Kanunu (DSA) ile uyum surecinde, cocuk haklari temelli bir dijital politika cercevesi olusturma firsatina sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
+- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
+- [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-by-country-wiki.md|Social Media Age Verification Laws by Country - Wi]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]

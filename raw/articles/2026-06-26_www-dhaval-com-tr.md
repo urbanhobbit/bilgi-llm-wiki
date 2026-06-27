@@ -33,3 +33,18 @@ Bu haber, Kahramanmaraş ve Şanlıurfa'da meydana gelen okul saldırılarını 
 ## Turkey Context
 
 Kahramanmaraş ve Şanlıurfa'da meydana gelen okul saldırıları, Türkiye'de çocuk güvenliği politikalarının hem fiziksel hem de dijital boyutlarıyla yeniden değerlendirilmesi gerektiğini göstermektedir. Bu olaylar, 6698 sayılı KVKK kapsamında çocukların kişisel verilerinin korunması kadar, onların fiziksel güvenliğinin de devlet tarafından sağlanması gerektiğini hatırlatmaktadır. Dijital Hizmetler Kanunu çerçevesinde, sosyal medya platformlarında okul saldırılarıyla ilgili şiddet içerikli paylaşımların denetlenmesi ve bu tür içeriklerin yayılmasının engellenmesi için daha etkin mekanizmalar oluşturulmalıdır. MEB, okul güvenliği politikalarını güncellemeli ve her okulda kapsamlı bir kriz yönetim planı uygulanmasını zorunlu hale getirmelidir. BTK'nın dijital platformlarda çocukları hedef alan şiddet içerikli yayınlara karşı denetim mekanizmalarını güçlendirmesi ve bu tür içeriklerin hızlı bir şekilde kaldırılmasını sağlaması gerekmektedir. TÜİK verileri, Türkiye'de okul çağındaki çocukların büyük bir bölümünün düzenli olarak internet ve sosyal medya kullandığını göstermektedir. UNICEF Türkiye raporları, okullarda şiddet olaylarının çocukların psikolojik gelişimi üzerinde uzun vadeli olumsuz etkiler yarattığını ve bu tür olaylara maruz kalan çocukların akademik başarılarının düştüğünü ortaya koymaktadır. Aile ve Sosyal Hizmetler Bakanlığı, okul saldırılarından etkilenen çocuklara yönelik psikososyal destek hizmetlerini yaygınlaştırmalı ve travma sonrası iyileşme süreçlerini desteklemelidir. Politika önerisi olarak, Türkiye'nin okul güvenliği konusunda bütüncül bir ulusal strateji geliştirmesi, fiziksel güvenlik önlemlerini dijital güvenlik politikalarıyla entegre etmesi ve okullarda düzenli güvenlik tatbikatları yapılması önerilmektedir. Ayrıca, dijital platformlarda şiddet içerikli paylaşımların tespiti ve kaldırılması için yapay zeka destekli denetim sistemlerinin kurulması gerekmektedir. MEB'in okul güvenliği protokolleri kapsamında tüm okullarda güvenlik kamerası ve okul polisi uygulaması yaygınlaştırılmalı; İçişleri Bakanlığı'nın okul çevresi güvenlik tedbirleri acil eylem planıyla güçlendirilmeli ve saldırılardan etkilenen öğrencilere Milli Eğitim Bakanlığı ile Sağlık Bakanlığı koordinasyonunda psikolojik destek sağlanmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-dhaval-com-tr-kahramanmarasta-ve-.md|Article from www.dhaval.com.tr: kahramanmarasta ve]]
+- [[raw/articles/2026-06-26_dha-kahramanmara-ve-anl-urfa-da-okul-sald-r-s.md|DHA: Kahramanmaraş ve Şanlıurfa'da Okul Saldırısı]]
+- [[raw/articles/2026-06-26_kahramanmara-ta-ve-anl-urfa-da-okul-sald-r-s.md|Kahramanmaraş'ta ve Şanlıurfa'da Okul Saldırısı]]
+- [[raw/articles/2026-06-26_kahramanmarasta-ve-sanliurfa-da-okul-saldirisi.md|Kahramanmarasta Ve Sanliurfa Da Okul Saldirisi]]
+- [[raw/articles/2026-06-26_kurator-dhaval-com-tr.md|KURATOR - dhaval.com.tr]]

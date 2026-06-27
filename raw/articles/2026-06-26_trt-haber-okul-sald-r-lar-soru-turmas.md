@@ -33,3 +33,16 @@ TRT Haber reports on the investigation into school attacks in Kahramanmaraş and
 ## Turkey Context
 
 Kahramanmaraş ve Şanlıurfa'daki okul saldırıları, Türkiye'de okul güvenliği ve dijital içerik düzenlemesi konusundaki tartışmaları yeniden alevlendirmiştir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), saldırıların ardından sosyal medya platformlarında şiddet içerikli paylaşımların yayılmasını önlemek amacıyla acil müdahale mekanizmalarını devreye sokmuştur. 5651 sayılı İnternet Kanunu kapsamında, şiddeti teşvik eden ve terör propagandası içeren içeriklere erişim engeli getirilmesi süreci hızlandırılmıştır. KVKK (Kişisel Verilerin Korunması Kanunu) kapsamında, saldırganların dijital ayak izlerinin incelenmesi ve olay öncesi iletişim kayıtlarının analiz edilmesi sürecinde veri koruma ilkeleri ile güvenlik ihtiyaçları arasında denge kurulmaya çalışılmaktadır. Milli Eğitim Bakanlığı, okullarda güvenlik önlemlerinin artırılması kapsamında yeni bir genelge yayımlamış, okul girişlerinde güvenlik taraması ve kamera sistemlerinin zorunlu hale getirilmesi kararlaştırılmıştır. TBMM'de kurulan Araştırma Komisyonu, okul şiddetinin nedenlerini araştırmakta ve çözüm önerileri geliştirmektedir. Türkiye'de okul şiddeti vakalarının son yıllarda artış göstermesi, eğitim politikalarının ve sosyal medya düzenlemelerinin gözden geçirilmesini zorunlu kılmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, öğrencilere yönelik psikososyal destek programlarını genişletme kararı almıştır. Bu olaylar, Türkiye'de dijital okuryazarlık eğitiminin önemini bir kez daha ortaya koymuş, Milli Eğitim Bakanlığı müfredata dijital güvenlik ve medya okuryazarlığı derslerinin eklenmesi çalışmalarını hızlandırmıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

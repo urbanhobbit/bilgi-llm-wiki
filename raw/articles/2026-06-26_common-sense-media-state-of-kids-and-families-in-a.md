@@ -35,3 +35,22 @@ Common Sense Media's 'The State of Kids and Families in America 2026' report emp
 ## Turkey Context
 
 Common Sense Media'nın 'Amerika'da Çocukların ve Ailelerin Durumu 2026' raporu ve kullandığı kapsamlı anket araştırması metodolojisi, Türkiye'de aile ve çocuk medya araştırmaları alanında çalışan akademisyenler için önemli bir metodolojik referans ve karşılaştırma noktası oluşturmaktadır. TÜBİTAK'ın SOBAG ve SBAG grupları tarafından desteklenen çocuk ve dijital medya konulu araştırma projelerinde, Common Sense Media'nın geliştirdiği ve valide ettiği ölçekler ve anket metodolojileri sıklıkla referans alınmakta ve Türkiye bağlamına uyarlanmaktadır. Türkiye'de bu alanda önde gelen araştırma merkezleri arasında İstanbul Üniversitesi İletişim Fakültesi Dijital Medya Araştırmaları Merkezi, Ankara Üniversitesi İletişim Araştırmaları Merkezi (İLAM), Marmara Üniversitesi İletişim Fakültesi Medya ve Dijital Çalışmalar Merkezi ve Üsküdar Üniversitesi Dijital Medya ve Çocuk Araştırmaları Merkezi sayılabilir. Ancak Türkiye'de yürütülen araştırmalarda kullanılan metodolojiler, Common Sense Media'nın kullandığı ulusal temsiliyet sağlayan olasılık temelli örnekleme, valide edilmiş ölçekler ve gelişmiş istatistiksel modelleme açısından henüz istenen düzeye ulaşamamıştır. KVKK (6698 sayılı Kanun) kapsamında, ailelerin ve çocukların medya kullanım alışkanlıklarına ilişkin kişisel verilerin araştırma amaçlı toplanması ve işlenmesi, açık rıza, veri minimizasyonu ve amaçla sınırlılık ilkeleri çerçevesinde özel düzenlemelere tabidir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında aile ve dijital medya etkileşimi yer almakla birlikte, bu alanda boylamsal ve ulusal temsiliyet sağlayan büyük ölçekli araştırma altyapısı kurulmasına yönelik özel bir program bulunmamaktadır. ULAKBİM'in DergiPark platformunda, çocuk ve medya konulu akademik dergiler ve makaleler yayınlanmakla birlikte, bu araştırmaların metodolojik kalitesinin Common Sense Media standartlarına yükseltilmesi için TÜBİTAK desteğiyle ulusal bir çocuk medya araştırmaları paneli ve veri altyapısı kurulması önemli katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

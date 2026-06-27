@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-03-30T00:00:00Z'
 ---
 
+## 📋 Yürürlüğe Giren Düzenlemele...'
+resource: https://www.independent.co.uk/news/world/australasia/australia-social-media-ban-results-under-16-b2944500.html
+tags:
+- raw
+timestamp: '2026-03-30T00:00:00Z'
+---
+
 # Çocuklar ve Dijital Dünya - Telafi Taraması
 ## 27 Mart 2025 + 30 Mart 2025 Birleştirilmiş Rapor
 
@@ -97,3 +104,18 @@ timestamp: '2026-03-30T00:00:00Z'
 ---
 
 *Küratör tarafından telafi taraması olarak derlendi*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/american-academy-of-pediatrics.md|American Academy of Pediatrics (AAP)]]
+- [[entities/unicef.md|UNICEF]]

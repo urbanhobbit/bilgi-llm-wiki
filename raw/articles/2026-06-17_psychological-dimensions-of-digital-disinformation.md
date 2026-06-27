@@ -38,3 +38,14 @@ Stanford OJS'de yayımlanan bu akademik makale, dijital dezenformasyonun uluslar
 ## Turkey Context
 
 Stanford Üniversitesi'nin bu disiplinlerarası çalışması, Türkiye bağlamında dijital dezenformasyon tartışmalarına önemli bir akademik zemin sunmaktadır. Türkiye'de 5651 sayılı İnternet Ortamında Yayın ve Düzenleme Kanunu ve 2020'de kabul edilen Sosyal Medya Yasası (7253 sayılı Kanun), dezenformasyonla mücadelede temel yasal çerçeveyi oluşturmaktadır. Ancak bu düzenlemelerin daha çok içerik kaldırma ve sosyal medya platformlarına yükümlülük getirme odaklı olduğu, makalede vurgulanan psikolojik savunmasızlıklar ve bilişsel mekanizmalarla mücadele konusunda yetersiz kaldığı görülmektedir. 2022'de kabul edilen ve 'dezenformasyonla mücadele' kapsamında geniş yetkiler tanıyan 7418 sayılı Basın Kanunu değişikliği, ifade özgürlüğü endişelerini beraberinde getirmiştir. TÜİK 2026 Hanehalkı Bilişim Teknolojileri Kullanım Araştırması'na göre Türkiye'de internet kullanıcılarının %72'si doğruluğundan emin olmadığı bilgilerle karşılaşmaktadır. BTK ve Bilgi Teknolojileri ve İletişim Kurumu'nun bu alandaki politikaları daha çok teknik altyapı odaklı olup, medya okuryazarlığı ve psikolojik dayanıklılık eğitimlerine yeterli kaynak ayrılmamaktadır. MEB müfredatında dijital okuryazarlık derslerinin zorunlu hale getirilmesi olumlu bir adım olmakla birlikte, makalede vurgulanan bilişsel yanlılıklar ve duygusal manipülasyon konularını kapsayacak şekilde güncellenmesi gerekmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

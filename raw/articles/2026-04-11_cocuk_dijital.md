@@ -9,6 +9,14 @@ tags:
 timestamp: '2026-04-11T00:00:00Z'
 ---
 
+## Konu: 3) Çocukların dijital ortam deneyimleri ### Kaynak Türü:
+  AKADEMIK OLMAYAN - **Baslik:** Digital Childhood Starts at Age Two: Landmark Stu...'
+resource: https://www.commonsensemedia.org/press-releases/digital-childhood-starts-at-age-two-landmark-study-shows-evolution-of-young-childrens-media-use
+tags:
+- raw
+timestamp: '2026-04-11T00:00:00Z'
+---
+
 ---
 
 ## Konu: 3) Çocukların dijital ortam deneyimleri
@@ -31,3 +39,22 @@ Bu Common Sense Media raporu, küçük çocukların gelişen dijital deneyimleri
 Raporun platformlar arasındaki "denetim boşluğu" tespiti kritik bir gözlemdir. YouTube ve TikTok için ebeveynlerin birlikte izleme oranlarındaki keskin fark, ebeveynlerin genellikle içerik denetimi ve güvenliği için benzersiz zorluklar sunan daha yeni, algoritma güdümlü içerik biçimlerine ayak uydurmakta zorlandığını gösteriyor. Yapay zekanın öğrenme için erken benimsenmesi, potansiyel olarak faydalı olsa da, veri gizliliği, algoritmik önyargı ve eğitimsel etkileşimlerin kalitesi hakkında soruları gündeme getiriyor; bunlar daha fazla araştırma için uygun alanlardır. Ekran süresindeki sosyoekonomik eşitsizlik, dijital erişimin ve maruziyetin eşit olmadığını, mevcut eğitimsel ve gelişimsel boşlukları potansiyel olarak artırdığını düşündüren önemli bir diğer endişedir.
 
 Rapor, mevcut ortamı ve ebeveyn endişelerini etkili bir şekilde özetlerken, pratik olsa da tavsiyeleri ebeveyn sorumluluğunu vurguluyor. Platformların kendilerinin çocuk dostu tasarım ve etik güvenceler uygulaması için daha geniş bir ihtiyaç var. Bu rapor, mevcut eğilimleri anlamak için güçlü bir ampirik temel görevi görüyor, ancak çocukların refahını gerçekten desteklemek için dijital ekosistemde sistemik değişiklikler çağrısında bulunuyor. Mevcut gerçeklerin ve zorlukların veri odaklı bir anlık görüntüsünü sunarak "çocukların dijital ortam deneyimleri" hakkındaki tartışmaları besliyor.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]
+- [[raw/articles/2026-06-26_2026-national-survey-on-kids-and-technology-common.md|2026 National Survey on Kids and Technology — Comm]]

@@ -33,3 +33,27 @@ The 5Rights Foundation reports on an IEEE analysis suggesting a growing global t
 ## Turkey Context
 
 IEEE analizinin yaşa uygun tasarım düzenlemelerindeki küresel eğilimi belgelemesi, Türkiye için önemli bir politika fırsatına işaret etmektedir. Bu bağlamda Türkiye'nin çocukları dijital risklerden korumaya yönelik mevzuat altyapısı değerlendirildiğinde, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, bu düzenlemelerin günümüz dijital ekosisteminde yetersiz kaldığı görülmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri ve çevrimiçi çocuk güvenliği konusunda önemli bir düzenleyici rol üstlenmektedir. Ancak BTK'nın mevcut çalışmaları daha çok zararlı içeriklerin filtrelenmesine odaklanmakta olup, çocukların veri gizliliği ve algoritmik manipülasyondan korunması konularında kapsamlı bir düzenleme ihtiyacı devam etmektedir. IEEE'nin bu alandaki teknik otoritesi, Türkiye'deki düzenleyicilerin yaşa uygun tasarım standartlarını benimsemesi için güçlü bir gerekçe sağlamaktadır. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı kapsamında öğrencilere dijital okuryazarlık, siber güvenlik ve çevrimiçi mahremiyet konularında eğitim verilmektedir. Ancak bu eğitimlerin güncellenmesi ve yapay zeka çağının gerekliliklerine uygun hale getirilmesi gerekmektedir. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranı her yıl artmakta olup, çocukların büyük bir kısmı sosyal medya platformlarında aktif olarak yer almaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları yürütmekle birlikte, bu çalışmaların daha sistematik ve yaptırım odaklı hale getirilmesi önem arz etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi ortamlarda karşılaştıkları risklerin giderek arttığını ve bu alanda acil politikalar geliştirilmesi gerektiğini vurgulamaktadır. Türkiye'nin, IEEE'nin önerdiği birlikte çalışabilirlik çerçevelerine uyum sağlaması, ulusal düzenlemelerin uluslararası standartlarla uyumlu olmasını garanti edecektir. BTK, KVKK ve Türk Standartları Enstitüsü'nün işbirliğiyle Türkiye'ye özgü yaşa uygun tasarım standartlarının geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

@@ -33,3 +33,20 @@ The EU Council research papers repository represents a significant collection of
 ## Turkey Context
 
 Avrupa Konseyi araştırma yayınları, Türkiye'nin AB müzakere süreci ve akademik işbirliği bağlamında önemli bir metodolojik kaynak niteliğindedir. TÜBİTAK'ın AB Çerçeve Programları kapsamında yürüttüğü projelerde, EU Council'in kullandığı politika araştırması metodolojileri Türk akademisyenler için referans alınmaktadır. YÖK'ün uluslararasılaşma stratejisi kapsamında Türk üniversitelerinin AB araştırma ağlarına katılımı teşvik edilmekte, bu bağlamda EU Council araştırma yayınlarındaki metodolojik standartların takip edilmesi önem kazanmaktadır. Türkiye'deki üniversite araştırma merkezlerinden İstanbul Bilgi Üniversitesi AB Enstitüsü, Ankara Üniversitesi AB Araştırma Merkezi ve ODTÜ AB Çalışmaları Merkezi, AB politika araştırmaları konusunda çalışmalar yürütmekte, ancak kullanılan metodolojilerin EU Council standartlarıyla uyumlaştırılması konusunda sistematik bir çalışma bulunmamaktadır. KVKK kapsamında, AB Genel Veri Koruma Tüzüğü (GDPR) ile uyum süreci, araştırma verilerinin sınır ötesi transferi konusunda önemli metodolojik sorunlar yaratmaktadır. Türk araştırmacıların AB fonlu projelerde veri paylaşımı yaparken KVKK ve GDPR arasındaki uyum sorunları, araştırma metodolojisini doğrudan etkilemektedir. TÜBİTAK'ın desteklediği uluslararası işbirlikli projelerde, politika araştırması metodolojilerinin standartlaştırılması konusunda henüz kapsamlı bir rehber bulunmamaktadır. Türkiye'de akademik yayın etiği konusunda YÖK'ün 2022 yılında güncellediği Yayın Etiği Yönergesi, politika araştırmalarında şeffaflık ve metodolojik titizlik konusunda temel standartları belirlemekle birlikte, AB standartlarıyla tam uyum henüz sağlanamamıştır. Türkiye'de AB araştırma fonlarına erişim, TÜBİTAK'ın Ufuk Avrupa Ulusal İrtibat Noktaları aracılığıyla desteklenmekte, ancak AB standartlarında politika araştırması metodolojisi konusunda uzmanlaşmış araştırmacı sayısı sınırlı kalmaktadır. YÖK'ün 2024 yılı verilerine göre, Türkiye'de AB çalışmaları alanında faaliyet gösteren 20'den fazla araştırma merkezi bulunmakla birlikte, bu merkezlerin EU Council araştırma yayınlarındaki metodolojik standartları sistematik olarak takip etmesini sağlayacak bir koordinasyon mekanizması bulunmamaktadır. TÜBİTAK'ın 2219-A Yurt Dışı Doktora Sonrası Araştırma Bursu kapsamında AB kurumlarında araştırma yapmak üzere gönderilen araştırmacıların edindikleri metodolojik deneyimin Türkiye'ye transferi, politika araştırması metodolojilerinin geliştirilmesi için önemli bir fırsat sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
+- [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]
+- [[raw/articles/2026-06-26_council-of-the-eu-research-papers.md|Council of the EU - Research Papers]]
+- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
+- [[raw/articles/2026-06-26_council-research-papers-european-council-research-.md|Council Research Papers - European Council (Resear]]

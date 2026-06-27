@@ -33,3 +33,22 @@ LSE's website issue reporting system represents an institutional mechanism for d
 ## Turkey Context
 
 LSE'nin raporlama sistemi, Türkiye'deki yükseköğretim kurumlarının dijital hizmet platformlarında kullanıcı katılımı ve şeffaflık mekanizmalarının geliştirilmesi için önemli bir model sunmaktadır. YÖK'ün 2023 yılında başlattığı 'Dijital Üniversite' dönüşüm programı kapsamında, Türk üniversitelerinin web platformlarında kullanıcı geri bildirim sistemlerinin kurulması teşvik edilmekle birlikte, bu sistemlerin LSE'nin kullandığı güvenli raporlama protokolleri ve sorun kategorizasyonu seviyesinde olması nadirdir. TÜBİTAK'ın desteklediği dijital dönüşüm projelerinde, kurumsal hesap verebilirlik ve şeffaflık mekanizmalarının araştırılması konusunda metodolojik çalışmalar sınırlı sayıda bulunmaktadır. Türkiye'de ODTÜ Bilgi İşlem Daire Başkanlığı ve İstanbul Teknik Üniversitesi Bilgi İşlem Merkezi, kurumsal dijital hizmet platformlarının yönetimi konusunda çalışmalar yürütmekle birlikte, bu platformlarda LSE seviyesinde bir kullanıcı raporlama ve şeffaflık sistemi bulunmamaktadır. KVKK'nın 6698 sayılı Kanun kapsamında veri sorumlularına yüklediği 'veri güvenliği ihlali bildirimi' yükümlülüğü, LSE'nin raporlama sistemine benzer bir mekanizma gerektirmekle birlikte, bu yükümlülüğün uygulanması konusunda Türk yükseköğretim kurumlarında henüz standartlaşma sağlanamamıştır. Türkiye'de akademik kurumların dijital platformlarının kullanıcı geri bildirim mekanizmalarını inceleyen araştırmalar, YÖK ve TÜBİTAK işbirliğinde desteklenmekte olup, bu araştırmaların LSE örneğini referans alması önerilmektedir. Türkiye'de dijital etik ve platform şeffaflığı konusunda yapılan akademik yayınlar, İstanbul Bilgi Üniversitesi Bilişim ve Teknoloji Hukuku Enstitüsü ve Ankara Üniversitesi Hukuk Fakültesi Bilişim Hukuku Anabilim Dalı'nda yoğunlaşmakta, ancak bu yayınların kurumsal raporlama sistemleri metodolojisi konusundaki katkısı sınırlıdır. Türkiye'de üniversitelerin dijital platformlarında kullanıcı geri bildirim sistemlerinin kurulması, YÖK'ün Dijital Üniversite programı kapsamında LSE modeli referans alınarak teşvik edilmelidir. KVKK'nın 6698 sayılı Kanun kapsamında veri ihlali bildirim yükümlülüğü, LSE raporlama sistemine benzer mekanizmaların Türk yükseköğretim kurumlarında yaygınlaştırılmasını gerektirmektedir. Türkiye'de dijital etik ve platform şeffaflığı konusunda yapılan akademik çalışmaların sayısının artırılması, bu alandaki metodolojik bilgi birikiminin geliştirilmesine katkıda bulunacaktır. TÜBİTAK'ın desteklediği dijital dönüşüm projelerinde kurumsal hesap verebilirlik ve şeffaflık mekanizmalarının araştırılması, Türk yükseköğretim kurumlarının dijital yönetişim kapasitesini artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

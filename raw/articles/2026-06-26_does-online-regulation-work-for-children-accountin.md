@@ -35,3 +35,28 @@ This event page from the LSE Digital Futures for Children research centre examin
 ## Turkey Context
 
 Türkiye'de çocukların çevrimiçi düzenlemelerden nasıl etkilendiği, son dönemde artan sosyal medya düzenlemeleri bağlamında kritik bir önem kazanmıştır. LSE Dijital Gelecekler Merkezi'nin bu çalışması, Türkiye'de 2024 yılında kabul edilen Dijital Hizmetler Kanunu ve 15 yaş altı sosyal medya yasağı tartışmalarına doğrudan ışık tutmaktadır. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin korunması, dijital düzenlemelerin çocuk hakları üzerindeki etkisinin değerlendirilmesi için önemli bir çerçeve sunmaktadır. Milli Eğitim Bakanlığı'nın (MEB) Dijital Vatandaşlık Eğitimi programı, çocukların güvenli internet kullanımını teşvik etmekte, ancak düzenlemelerin etkinliğinin ölçülmesi konusunda henüz yeterli mekanizma bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın 'Çocuk ve Sosyal Medya İzleme' platformu, çocukların dijital ortamdaki deneyimlerini izlemeyi hedeflemektedir. UNICEF Türkiye'nin 2025 Çocuk Barometresi raporu, Türkiye'deki çocukların %85'inin düzenli olarak sosyal medya kullandığını, ancak ebeveyn denetim mekanizmalarının yetersiz olduğunu göstermektedir. Sağlık Bakanlığı'nın 'Ergen Ruh Sağlığı Stratejisi' (2024-2028), dijital platformların çocuk sağlığı üzerindeki etkilerini izlemeyi hedeflemektedir. Bu bağlamda, Türkiye'de çocuk hakları etki değerlendirmelerinin düzenleyici süreçlere entegre edilmesi, uluslararası iyi uygulama örneklerine dayalı olarak önerilmektedir. Türkiye'nin çocuk çevrimiçi güvenliği düzenlemeleri, LSE merkezinin önerdiği çocuk hakları etki değerlendirmesi (CRIA) modelinden önemli ölçüde yararlanabilir. MEB'in Dijital Vatandaşlık Eğitimi programı kapsamında 2025-2026 eğitim yılında 5 milyondan fazla öğrenciye dijital okuryazarlık eğitimi verilmiştir. Aile ve Sosyal Hizmetler Bakanlığı'nın 'Çocuk ve Sosyal Medya İzleme' platformu, çocukların dijital deneyimlerine ilişkin veri toplama kapasitesini geliştirmektedir. Sağlık Bakanlığı'nın 2024-2028 Ergen Ruh Sağlığı Stratejisi, dijital platform kullanımının çocuk sağlığı üzerindeki etkilerini izlemeyi hedeflemektedir. UNICEF Türkiye'nin 2025 raporuna göre, Türkiye'de 12-17 yaş grubundaki gençlerin günlük ortalama sosyal medya kullanım süresi 3,5 saattir. Bu veriler, düzenlemelerin etkisinin bilimsel yöntemlerle değerlendirilmesi gerektiğini göstermektedir. TBMM Dijital Mecralar Komisyonu'nun 2025 yılı raporu, çocukların çevrimiçi güvenliğine yönelik düzenlemelerin etki analizinin yapılmasını önermiştir. Türkiye'de çocuk hakları temelli bir düzenleyici etki değerlendirme sisteminin kurulması, uluslararası standartlarla uyum açısından kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

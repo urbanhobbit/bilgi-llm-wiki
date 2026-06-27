@@ -34,3 +34,17 @@ Euronews provides an in-depth biographical and political profile of Viktor Orbá
 ## Turkey Context
 
 Euronews'in Viktor Orbán profili, Türkiye'deki siyasi tartışmalar ve Türk dış politikası açısından önemli bir referans noktasıdır. Orbán'ın otoriter merkezileşme modeli ile Türkiye'de 2017 cumhurbaşkanlığı hükümet sistemine geçiş sonrası yaşanan kurumsal dönüşüm arasında dikkat çekici paralellikler bulunmaktadır. Her iki ülkede de medya sahiplik yapısının iktidara yakın iş insanlarının elinde yoğunlaşması, yargı bağımsızlığı tartışmaları ve sivil toplum alanının daraltılması gibi benzer dinamikler gözlemlenmiştir. Orbán'ın Türkiye ile kurduğu yakın ilişkiler, özellikle enerji diplomasisi ve savunma sanayii işbirliği alanlarında somut sonuçlar doğurmuştur. Orbán, AB içinde Türkiye'nin en güçlü savunucularından biri olarak, göç anlaşmasının uygulanması, AB genişlemesi ve Türkiye'ye yönelik mali yardımların onaylanması gibi kritik konularda Ankara'ya destek vermiştir. Orbán'ın siyasi düşüşü, Türkiye'nin AB içindeki en önemli müttefikini kaybetmesi anlamına gelmekle birlikte, Macaristan'daki demokratik dönüşümün Türkiye'deki reform tartışmalarına olumlu yansımaları olabileceği değerlendirilmektedir. Türkiye'deki kurumlar açısından bakıldığında, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ve Kişisel Verileri Koruma Kurumu (KVKK), seçim süreçlerinde dezenformasyon ve veri güvenliği konularında benzer zorluklarla karşılaşmaktadır. Milli Eğitim Bakanlığı (MEB) tarafından yürütülen medya okuryazarlığı programları, Macaristan deneyiminden çıkarılan dersler ışığında güncellenebilir. Orbán'ın kullandığı popülist söylem ve ulusal egemenlik vurgusu, Türkiye'de de benzer siyasi dil kullanılmakla birlikte, iki ülkedeki siyasi sistemlerin farklılıkları nedeniyle sonuçları farklı olmuştur. Orbán'ın 14 yıllık iktidarının seçim yoluyla sona ermesi, otoriterleşme eğilimlerinin geri döndürülebilir olduğunu gösteren önemli bir örnek teşkil etmektedir. Türkiye'de bu gelişme, siyasi sistemin dayanıklılığı, muhalefet stratejileri ve demokratik geçiş süreçleri konularında akademik ve siyasi çevrelerde geniş tartışmalara yol açmıştır. Ayrıca, Orbán'ın enerji politikaları ve Türkiye'den doğal gaz sevkiyatı konusundaki işbirliği, Macaristan'ın enerji arz güvenliğinde Türkiye'nin oynadığı kritik rolü göstermektedir. Yeni hükümetin enerji diplomasisinde nasıl bir pozisyon alacağı, Türkiye'nin bölgesel enerji merkezi olma hedefleri açısından belirleyici olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
+- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
+- [[raw/articles/2026-06-26_euronews-hungary-election-results-and-analysis.md|Euronews: Hungary Election Results and Analysis]]
+- [[raw/articles/2026-06-26_from-insider-to-rival-how-magyar-became-orb-n-s-mo.md|From insider to rival: How Magyar became Orbán's m]]

@@ -33,3 +33,21 @@ TechCrunch'ta yayınlanan bu makale, dünya genelinde çocuklar için sosyal med
 ## Turkey Context
 
 TechCrunch'ın küresel sosyal medya yasakları karşılaştırması, Türkiye'nin bu alandaki politikalarını uluslararası bağlamda değerlendirmek için önemli bir referanstır. Türkiye'de 2024'te yürürlüğe giren Dijital Hizmetler Kanunu, AB'nin DSA'sı ile uyumlu bir çerçeve sunmakla birlikte, Avustralya veya Yunanistan gibi doğrudan yaş sınırı yasağı getirmemektedir. BTK'nın sosyal medya platformlarına yönelik düzenlemeleri daha çok içerik denetimi ve veri yerelleştirme odaklıdır. TÜİK 2024 verilerine göre, Türkiye'de 16-24 yaş grubunda sosyal medya kullanım oranı %95'i aşarken, 13-15 yaş grubunda bu oranın %75'e yaklaştığı tahmin edilmektedir. MEB'in 2024'te güncellediği Dijital Vatandaşlık müfredatı, sosyal medya kullanımına ilişkin farkındalık eğitimlerini içermekle birlikte, müfredatın uygulamadaki etkinliği konusunda kapsamlı bir değerlendirme bulunmamaktadır. KVKK'nın çocukların kişisel verilerinin korunmasına ilişkin düzenlemeleri (6698 sayılı Kanun madde 6), sosyal medya platformlarının veri işleme faaliyetlerini sınırlandırmaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın dijital bağımlılıkla mücadele programları kapsamında sosyal medya kullanımının düzenlenmesine yönelik farkındalık çalışmaları bulunmakla birlikte, Türkiye'nin yasak temelli bir yaklaşım yerine düzenleme ve eğitim temelli bir strateji izlediği görülmektedir. Bu stratejinin etkinliği, özellikle 2025-2026 döneminde artan çocuk çevrimiçi güvenliği endişeleri bağlamında yeniden değerlendirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/techcrunch-com.md|Techcrunch Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-03_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Tas]]
+- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
+- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

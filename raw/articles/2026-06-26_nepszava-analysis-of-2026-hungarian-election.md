@@ -33,3 +33,13 @@ Nepszava, a leading Hungarian news outlet, provides in-depth analysis of the 202
 ## Turkey Context
 
 Macaristan'daki bağımsız medyanın seçim sürecindeki rolü, Türkiye'deki medya ortamı açısından önemli bir karşılaştırma örneği sunmaktadır. Nepszava gibi bağımsız gazetelerin seçim döneminde yolsuzluk iddialarını ortaya çıkarması, Türkiye'de bağımsız medyanın karşılaştığı zorluklar bağlamında değerlendirilmektedir. Türkiye'de gazetecilik meslek örgütleri, Macaristan örneğini medya özgürlüğü ve bağımsız gazeteciliğin önemi açısından referans göstermektedir. İki ülke arasındaki medya sahipliği yapısı ve düzenleyici çerçeveler, RTÜK ve Macaristan Medya Kurulu arasında karşılaştırmalı analizlere konu olmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_2261234-macar-valasztas-2026-vizsgalat.md|2261234 Macar Valasztas 2026 Vizsgalat]]
+- [[raw/articles/2026-06-26_article-from-nepszava-hu-2261234-macar-valasztas-2.md|Article from nepszava.hu: 2261234 macar valasztas ]]
+- [[raw/articles/2026-06-26_genel-nepszava-hu.md|GENEL - nepszava.hu]]

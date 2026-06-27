@@ -30,3 +30,15 @@ Macaristan seçimleri, Avrupa siyasetinde yaşanan dönüşüm ve Viktor Orban'�
 ## Turkey Context
 
 Macaristan seçim sonuçları, Türkiye-AB ilişkileri ve Avrupa'daki siyasi dönüşüm açısından önemli sinyaller taşımaktadır. Orban döneminde geliştirilen ikili ilişkilerin yeni dönemde nasıl şekilleneceği merak konusudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
+- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
+- [[raw/articles/2026-06-26_macar-valasztas-eredmenyek.md|Macar Valasztas Eredmenyek]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-im-sonu-lar-muhalefet-zaferi-ve.md|Macaristan 2026 Seçim Sonuçları: Muhalefet Zaferi ]]
+- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-telex-hu.md|Macaristan Seçim Sonuçları - Telex.hu]]

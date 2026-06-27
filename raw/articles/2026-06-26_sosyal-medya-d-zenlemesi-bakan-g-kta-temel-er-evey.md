@@ -33,3 +33,16 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuklara yönelik 
 ## Turkey Context
 
 Türkiye'de 15 yaş altı sosyal medya düzenlemesi, KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin korunması prensipleriyle doğrudan ilişkilidir. Aile ve Sosyal Hizmetler Bakanlığı ile Ulaştırma ve Altyapı Bakanlığı'nın koordinasyonunda yürütülen bu düzenleme, Dijital Hizmetler Kanunu (DSA) ile uyumlu bir yaklaşım sergilemektedir. MEB'in dijital vatandaşlık eğitimi müfredatı ve BTK'nın çocukların internet kullanımına yönelik politikalarıyla entegre bir yapı öngörülmektedir. TÜİK verilerine göre Türkiye'de 6-15 yaş grubunda internet kullanım oranı %80'in üzerindedir ve bu durum düzenlemenin aciliyetini ortaya koymaktadır. Sağlık Bakanlığı'nın çocuklarda ekran maruziyetine ilişkin yayımladığı kılavuzlar da düzenlemeye temel teşkil etmektedir. UNICEF Türkiye raporları, çocukların dijital ortamlarda karşılaştıkları riskler konusunda kapsamlı veri sağlamaktadır. Türkiye'deki bu düzenleme, AB'nin Dijital Hizmetler Yasası ve İngiltere'nin Çevrimiçi Güvenlik Yasası gibi uluslararası örneklere paralel olarak şekillenmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bak.md|Sosyal Medya Duzenlemesi Bak]]
+- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bakan-goktas-temel-cercev.md|Sosyal Medya Duzenlemesi Bakan Goktas Temel Cercev]]

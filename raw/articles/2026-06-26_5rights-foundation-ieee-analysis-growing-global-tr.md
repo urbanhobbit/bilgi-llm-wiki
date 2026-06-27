@@ -34,3 +34,26 @@ The 5Rights Foundation's analysis of IEEE research identifies a growing global r
 ## Turkey Context
 
 5Rights Foundation'ın IEEE analizi, Türkiye'de yaşa uygun dijital tasarım standartlarının geliştirilmesi için önemli bir metodolojik referans noktası sunmaktadır. Türkiye'de BTK (Bilgi Teknolojileri ve İletişim Kurumu) tarafından yürütülen güvenli internet hizmetleri ve yaş doğrulama çalışmaları, IEEE'nin belirlediği teknik standartlarla uyumlaştırılma potansiyeli taşımaktadır. YÖK'ün 2023 yılında yayımladığı 'Dijital Dönüşüm ve Yükseköğretim' raporu kapsamında, yaşa uygun dijital hizmet tasarımı konusunda Türk üniversitelerinde araştırma merkezlerinin kurulması teşvik edilmektedir. TÜBİTAK'ın desteklediği projelerde, IEEE 2089-2021 standardının Türkiye bağlamına uyarlanması konusunda henüz kapsamlı bir araştırma bulunmamaktadır. Türkiye'de ODTÜ Bilgisayar Mühendisliği Bölümü, İstanbul Teknik Üniversitesi Bilgisayar ve Bilişim Fakültesi ve Koç Üniversitesi Bilgisayar Mühendisliği Bölümü, insan-bilgisayar etkileşimi ve kullanıcı deneyimi araştırmaları konusunda uluslararası yayınlar yapmakla birlikte, yaşa uygun tasarım konusunda IEEE standartlarının Türkiye'ye uyarlanması konusunda çalışmalar sınırlıdır. Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Hizmetleri Genel Müdürlüğü, dijital platformların çocuk dostu tasarımı konusunda çalışmalar yürütmekte, ancak bu çalışmalarda IEEE standartlarının kullanımı konusunda henüz bir işbirliği başlatılmamıştır. Türkiye'de akademik yayın etiği kapsamında yaşa uygun tasarım araştırmaları, çocuk katılımcılarla yapılan kullanıcı deneyimi çalışmalarında özel etik kurul onayı gerektirmektedir. Türkiye'de yaşa uygun dijital tasarım standartlarının geliştirilmesi için IEEE 2089-2021 standardının Türkçeye çevrilmesi ve Türkiye bağlamına uyarlanması, BTK ve TÜBİTAK işbirliğinde yürütülebilecek önemli bir projedir. YÖK'ün 2023 Dijital Dönüşüm raporunda belirtilen yaşa uygun tasarım araştırma merkezlerinin kurulması hedefi, IEEE standartlarını referans alan bir araştırma gündemiyle desteklenmelidir. KVKK'nın Çocuk Kişisel Verileri rehberinde IEEE standartlarına atıfta bulunulması, yaşa uygun tasarım ilkelerinin hukuki ve teknik boyutlarını bütünleştiren bir yaklaşımın benimsenmesini sağlayacaktır. Aile Bakanlığı'nın dijital platform denetimlerinde IEEE 2089-2021 standardının kullanılması, Türkiye'de çocuk dostu dijital hizmet tasarımının teşvik edilmesine katkıda bulunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]
+- [[raw/articles/2026-06-26_article-from-5rightsfoundation-com-building-a-digi.md|Article from 5rightsfoundation.com: building a dig]]

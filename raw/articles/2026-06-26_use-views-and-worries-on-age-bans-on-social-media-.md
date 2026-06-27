@@ -39,3 +39,17 @@ Bu EU Kids Online raporu, Türkiye'de sosyal medyaya yaş sınırlaması getiril
 Türkiye'deki yasal çerçeve açısından: KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) çocukların çevrimiçi verilerini korumayı hedeflerken, 7412 sayılı Dijital Hizmetler Kanunu platform düzenlemelerini içermektedir. Ancak bu düzenlemeler henüz AB'nin Dijital Hizmetler Yasası (DSA) seviyesinde kapsamlı bir çocuk koruma mekanizması sunmamaktadır. Raporun en önemli bulgularından biri, çocukların %45'inin yaş yasağının kendilerini daha güvende hissettirmeyeceğini söylemesidir. Bu, Türkiye'de yasak odaklı politikaların çocukların gerçek ihtiyaçlarını tam olarak karşılamayabileceğini göstermektedir. 
 
 Raporda önerilen "güvenlik-by-design" (tasarım gereği güvenlik) yaklaşımı, BTK ve RTÜK'ün platform düzenlemelerinde referans alabileceği somut bir modeldir. Düşük sosyoekonomik düzeydeki çocukların çevrimiçi risklere iki kat daha fazla maruz kaldığı bulgusu, Türkiye'deki dijital uçurum ve sosyoekonomik eşitsizlikler bağlamında ayrıca önemlidir. MEB'in dijital okuryazarlık müfredatı, TÜBİTAK'ın çocuk ve dijital güvenlik projeleri ve Aile ve Sosyal Hizmetler Bakanlığı'nın "Çocuk ve Sosyal Medya İzleme" platformu gibi mekanizmalar, yasak yerine eğitim ve farkındalık odaklı bir yaklaşımı desteklemektedir. UNICEF Türkiye verilerine göre, Türkiye'de çocukların internet kullanım oranları AB ortalamasının üzerindedir ve bu nedenle Türkiye'nin AB dijital düzenlemeleriyle uyumlu, çocuk hakları temelli bir politika izlemesi büyük önem taşımaktadır. Ayrıca raporda komplo teorilerinin çocuklar arasında en yaygın görülen zararlı içerik türü olduğu (%21) bulgusu, Türkiye'de dezenformasyonla mücadele politikaları açısından ayrıca değerlendirilmelidir. Sonuç olarak, EU Kids Online raporu Türkiye'deki politika yapıcılara çocukların dijital haklarını korurken onların katılım, bilgi edinme ve sosyal bağlantı kurma haklarını da gözeten dengeli bir düzenleme yaklaşımı benimsemeleri gerektiğini hatırlatmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]

@@ -40,3 +40,16 @@ Türk Bilgisayar ve Bilimsel İletişim Derneği (TBİD) ile Türkiye Akademik Y
 - Araştırma metodolojisi
 - Akademik etik
 - Veri gizliliği
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
+- [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
+- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
+- [[raw/articles/2026-06-26_sciencedirect-article-s2666560325000714-telematics.md|ScienceDirect article S2666560325000714 (Telematic]]
+- [[raw/articles/2026-06-26_the-effects-of-social-media-restriction-meta-analy.md|The effects of social media restriction: Meta-anal]]

@@ -33,3 +33,16 @@ Politico EU examines Germany's ongoing debate about nuclear energy following its
 ## Turkey Context
 
 Almanya'nın nükleer enerji tartışması, Türkiye'nin nükleer enerji politikaları açısından önemli bir karşılaştırma örneği sunmaktadır. Türkiye, Akkuyu Nükleer Santrali ile nükleer enerji üretimine başlamış olup, Sinop ve İğneada'da yeni nükleer santral projeleri planlamaktadır. Enerji ve Tabii Kaynaklar Bakanlığı, nükleer enerjiyi enerji arz güvenliği ve karbon nötr hedefleri açısından stratejik öneme sahip olarak değerlendirmektedir. Almanya'nın nükleerden çıkış kararı ve bu kararın enerji krizi sonrası sorgulanması, Türkiye'nin nükleer tercihi için önemli dersler içermektedir. Nükleer santrallerin güvenlik, atık yönetimi ve maliyet boyutları, Türkiye'de kamuoyunda tartışılmaya devam etmektedir. Türkiye'nin enerji politikaları, nükleer enerjiyi yenilenebilir enerji kaynaklarıyla birlikte çeşitlendirilmiş bir portföyün parçası olarak konumlandırmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

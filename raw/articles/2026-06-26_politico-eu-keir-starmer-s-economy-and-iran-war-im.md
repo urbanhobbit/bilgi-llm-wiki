@@ -33,3 +33,15 @@ Politico EU examines how UK Prime Minister Keir Starmer is navigating economic c
 ## Turkey Context
 
 Keir Starmer hükümetinin ekonomik politikaları ve İran krizinin Birleşik Krallık siyasetine etkisi, Türkiye-İngiltere ilişkileri açısından yakından takip edilmektedir. İki ülke arasındaki ticaret hacmi ve savunma sanayii işbirliği, Brexit sonrası imzalanan Serbest Ticaret Anlaşması ile güçlendirilmiştir. İran krizinin küresel enerji fiyatlarına etkisi, Türkiye ekonomisini de doğrudan etkilemektedir. Türkiye, İngiltere ile savunma sanayii alanında önemli işbirliği projeleri yürütmektedir. İngiltere'deki siyasi gelişmeler, Türkiye'nin Avrupa güvenlik mimarisindeki konumunu ve ikili ilişkilerin geleceğini şekillendirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

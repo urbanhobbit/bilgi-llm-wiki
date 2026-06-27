@@ -32,3 +32,16 @@ This content covers current developments in geopolitics, technology, and public 
 ## Turkey Context
 
 Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan etkilenen ülkelerin başında gelmektedir. Dışişleri Bakanlığı, bölgesel krizlerde aktif diplomasi yürütürken, değişen küresel ticaret dinamiklerine uyum sağlanmaya çalışılmaktadır. Türkiye'nin çok boyutlu dış politikası, özellikle Ukrayna-Rusya savaşı, Orta Doğu'daki güç dengeleri ve Doğu Akdeniz'deki enerji rekabeti bağlamında önemli sınamalarla karşı karşıyadır. BTK'nın sosyal medya ve internet düzenlemeleri, ifade özgürlüğü ile ulusal güvenlik arasındaki hassas dengeyi yansıtmaktadır. Özellikle seçim dönemlerinde dezenformasyonla mücadele kapsamında alınan tedbirler, hem yurt içinde hem de uluslararası alanda tartışma konusu olmaktadır. TÜİK verilerine göre enflasyon ve istihdam oranları, ekonominin kırılganlıklarını ortaya koymaktadır. Türkiye'nin yapısal reformları hızlandırması, yargı bağımsızlığını güçlendirmesi ve dış politikada öngörülebilirliği artırması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
+- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-imleri-detayl-se-im-analizi-ve-.md|Macaristan 2026 Seçimleri: Detaylı Seçim Analizi v]]
+- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]
+- [[raw/articles/2026-06-26_magyar-v-laszt-s-2026-eredm-nyek-n4g.md|Magyar Választás 2026 Eredmények - N4G]]

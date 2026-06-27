@@ -32,3 +32,22 @@ priority: high
 ## Turkey Context
 
 Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar son dönemde hız kazanmıştır. Aile ve Sosyal Hizmetler Bakanlığı koordinasyonunda hazırlanan 'Çocukların Dijital Ortamlarda Korunması Ulusal Eylem Planı' kapsamında sosyal medya platformlarına yaş doğrulama ve ebeveyn onay mekanizması getirilmesi öngörülmektedir. TÜİK 2025 verilerine göre 6-15 yaş arası çocukların %76'sı internet kullanmaktadır. MEB'in 'Dijital Vatandaşlık' dersi müfredatı, çocuklara çevrimiçi güvenlik ve dijital haklar konusunda eğitim vermeyi hedeflemektedir. UNICEF Türkiye'nin 2025 raporu, dijital eşitsizlik ve çocukların çevrimiçi risklere maruziyeti konusunda önemli bulgular sunmuştur. KVKK'nın 2026 yılında yayımladığı rehber, çocukların kişisel verilerinin işlenmesinde açık rıza şartını genişleterek 16 yaş altı için ek koruma getirmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-dhaval-com-tr-kahramanmarasta-ve-.md|Article from www.dhaval.com.tr: kahramanmarasta ve]]
+- [[raw/articles/2026-06-26_dha-kahramanmara-ve-anl-urfa-da-okul-sald-r-s.md|DHA: Kahramanmaraş ve Şanlıurfa'da Okul Saldırısı]]
+- [[raw/articles/2026-06-26_kahramanmara-ta-ve-anl-urfa-da-okul-sald-r-s.md|Kahramanmaraş'ta ve Şanlıurfa'da Okul Saldırısı]]
+- [[raw/articles/2026-06-26_kahramanmarasta-ve-sanliurfa-da-okul-saldirisi.md|Kahramanmarasta Ve Sanliurfa Da Okul Saldirisi]]
+- [[raw/articles/2026-06-26_www-dhaval-com-tr.md|www.dhaval.com.tr]]

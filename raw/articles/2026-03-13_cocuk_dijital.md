@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-03-13T00:00:00Z'
 ---
 
+## 1. Avus...'
+resource: https://www.theguardian.com/australia-news/2025/dec/09/australia-under-16-social-media-ban-begins-apps-listed
+tags:
+- raw
+timestamp: '2026-03-13T00:00:00Z'
+---
+
 # Çocuklar ve Dijital Dünya Özel Tarama Raporu
 
 **Tarih:** 13 Mart 2026  
@@ -236,3 +243,37 @@ Common Sense Media'nın vurguladığı gibi, çocuklar zaten platformlarını y�
 **Toplam Kelime Sayısı:** ~3,200 kelime  
 **Kaynak Sayısı:** 6 ana kaynak (akademik + sivil toplum + haber)  
 **Kategoriler:** KISITLAMA (3), KATILIM (2), DENEYIM (4)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+- [[entities/x-com.md|X (Twitter)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-images-surged-in-2.md|AI-Generated Child Sexual Abuse Images Surged in 2]]

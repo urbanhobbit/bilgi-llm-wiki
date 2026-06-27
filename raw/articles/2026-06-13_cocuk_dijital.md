@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-13T00:00:00Z'
 ---
 
+## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...'
+resource: https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-america-2026
+tags:
+- raw
+timestamp: '2026-06-13T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bülteni
 
 **Date:** 2026-06-13
@@ -471,3 +478,41 @@ Bakan Göktaş'ın açıklamaları, Türkiye'de çocuk koruma politikalarının 
 
 *Bu bülten KURATOR araştırma otomasyon sistemi tarafından 2026-06-13 tarihinde hazırlanmıştır.*
 *Kaynaklar: Common Sense Media, Pew Research Center, BBC Future, 5Rights Foundation, The Guardian, IWF, IEEE Europe, FTC, ICO, TechCrunch, Wikipedia, T24, TRT Haber, Anadolu Ajansı, Bianet, LSE Digital Futures for Children, AP, Reuters, GBH News, WhitelistVideo, MIT, Turkey Youth Mental Health Report.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/bianet-org.md|Bianet]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/internet-watch-foundation.md|Internet Watch Foundation (IWF)]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]
+- [[raw/articles/2026-06-26_2026-national-survey-on-kids-and-technology-common.md|2026 National Survey on Kids and Technology — Comm]]

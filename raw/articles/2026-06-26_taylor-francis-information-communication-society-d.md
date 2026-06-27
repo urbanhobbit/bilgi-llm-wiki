@@ -34,3 +34,21 @@ This Taylor & Francis article published in Information, Communication & Society 
 ## Turkey Context
 
 Taylor & Francis'in Information, Communication & Society dergisinde yayımlanan bu makale, Türkiye'de dijital sosyoloji ve iletişim araştırmaları için önemli bir metodolojik referans noktasıdır. Türkiye'de TÜBİTAK tarafından desteklenen ULAKBİM TR Dizin kapsamında indekslenen iletişim dergileri, Information, Communication & Society'nin metodolojik standartlarına henüz ulaşmamış olup, özellikle hesaplamalı sosyal bilim yöntemlerinin (web scraping, ağ analizi, doğal dil işleme) kullanımı sınırlıdır. YÖK'ün 2024 yılında yayımladığı 'Sosyal Bilimlerde Dijital Dönüşüm' raporu, sosyal bilim araştırmalarında dijital yöntemlerin kullanımının artırılmasını önermekte, ancak bu yöntemlerin Information, Communication & Society seviyesinde uygulanması için gerekli altyapı ve uzmanlık Türkiye'de sınırlı sayıda araştırma merkezinde bulunmaktadır. ODTÜ Sosyoloji Bölümü, Koç Üniversitesi Medya ve Görsel Sanatlar Bölümü ve İstanbul Bilgi Üniversitesi İletişim Fakültesi, hesaplamalı sosyal bilim yöntemleri konusunda uluslararası yayınlar yapmakla birlikte, bu yöntemlerin Türkiye'deki iletişim araştırmalarında yaygınlaştırılması için TÜBİTAK ve YÖK işbirliğinde kapsamlı bir metodoloji eğitim programı gerekmektedir. KVKK kapsamında dijital iz verilerinin araştırma amaçlı kullanımı, 6698 sayılı Kanun'un 6. maddesi ve ilgili yönetmelikler çerçevesinde özel düzenlemelere tabidir. Türkiye'de dijital veri araştırmalarında etik kurul onayı süreçleri, özellikle sosyal medya verilerinin kullanımı konusunda henüz standartlaşmamış olup, bu durum Information, Communication & Society gibi uluslararası dergilerde yayın yapmayı zorlaştırmaktadır. Türkiye'de hesaplamalı sosyal bilim yöntemlerinin iletişim araştırmalarında yaygınlaştırılması için ODTÜ, Koç Üniversitesi ve İstanbul Bilgi Üniversitesi'nin bu alandaki deneyiminden yararlanılarak ulusal bir metodoloji ağı kurulabilir. TÜBİTAK'ın 1001 programı kapsamında dijital sosyoloji projelerine öncelik verilmesi, Türkiye'de Information, Communication & Society standartlarında yayın yapma kapasitesini artıracaktır. KVKK'nın dijital veri araştırmaları için özel bir etik kurul rehberi yayımlaması, Türk araştırmacıların uluslararası dergilerde yayın yaparken karşılaştığı etik kurul onayı engellerini azaltacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
+- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]

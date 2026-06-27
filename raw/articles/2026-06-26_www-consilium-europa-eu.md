@@ -32,3 +32,24 @@ Avrupa Birliği Konseyi'nin araştırma makaleleri sayfası, AB kurumlarının p
 ## Turkey Context
 
 AB Konseyi'nin araştırma makaleleri, Türkiye'nin yapay zeka ve dijital düzenlemeler alanındaki politika geliştirme süreçleri için önemli bir referans kaynağı niteliğindedir. Türkiye, AB aday ülkesi olarak bu araştırmaların sonuçlarını yakından takip etmeli ve ulusal düzenlemelerini AB müktesebatına uyumlu hale getirmelidir. Özellikle yapay zeka kaynaklı çocuk istismarı içeriklerinin tespiti ve önlenmesi konusunda AB'nin geliştirdiği çerçeveler, Türkiye'nin BTK ve TÜBİTAK gibi kurumları için yol gösterici olabilir. AB'nin Yapay Zeka Yasası'nda belirlediği risk bazlı sınıflandırma sistemi, Türkiye'nin kendi ulusal yapay zeka stratejisini oluştururken kullanabileceği en önemli modellerden biridir. KVKK kapsamında kişisel verilerin korunması ve yapay zeka sistemlerinin şeffaflığı konularında AB standartlarının yakalanması, Türkiye'nin dijital dönüşüm hedefleri ve uluslararası rekabetçiliği açısından kritik öneme sahiptir. AB Konseyi'nin araştırmalarında ele alınan algoritmik şeffaflık ve hesap verebilirlik ilkeleri, Türkiye'deki sosyal medya platformlarının düzenlenmesi ve içerik denetimi süreçlerine ışık tutabilir. Özellikle sosyal medya yasası kapsamında platformlara getirilen yükümlülüklerin, AB'nin Dijital Hizmetler Yasası ile uyumlaştırılması, hem Türk kullanıcıların haklarının korunmasını güçlendirecek hem de uluslararası platformların Türkiye'deki operasyonlarını kolaylaştıracaktır. Aile Bakanlığı'nın çocuk koruma politikalarının, AB'nin Dijital Hizmetler Yasası ve Yapay Zeka Yasası gibi düzenlemeleriyle uyumlu hale getirilmesi, uluslararası işbirliğini ve veri paylaşımını kolaylaştıracaktır. TÜBİTAK ve YÖK'ün AB Konseyi'nin araştırma programlarına daha aktif katılımı, Türk akademisyenlerin bu politika belgelerinin hazırlanmasına katkı sağlamasına olanak tanıyacaktır. Ayrıca, Türkiye'nin Ufuk Avrupa programına katılımı kapsamında yapay zeka araştırmalarına daha fazla kaynak ayırması ve AB ile ortak araştırma projeleri geliştirmesi önerilmektedir. Türkiye'nin dijital egemenlik ve veri yerelliği politikalarını AB standartlarıyla uyumlu bir şekilde tasarlaması, uzun vadede hem yatırım ortamını iyileştirecek hem de uluslararası veri akışını kolaylaştıracaktır. MEB'in dijital okuryazarlık müfredatının AB'nin Dijital Eğitim Eylem Planı ile uyumlu hale getirilmesi de bu sürecin önemli bir parçasıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
+- [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]
+- [[raw/articles/2026-06-26_council-of-the-eu-research-papers.md|Council of the EU - Research Papers]]
+- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
+- [[raw/articles/2026-06-26_council-research-papers-european-council-research-.md|Council Research Papers - European Council (Resear]]

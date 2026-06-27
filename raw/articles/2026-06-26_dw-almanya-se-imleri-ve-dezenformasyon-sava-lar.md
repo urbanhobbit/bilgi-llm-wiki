@@ -33,3 +33,18 @@ Deutsche Welle (DW) reports on German elections and the disinformation wars surr
 ## Turkey Context
 
 DW'nin Almanya seçimleri ve dezenformasyon haberciliği, Türkiye'deki benzer tartışmalar için önemli karşılaştırma noktaları sunmaktadır. Almanya'nın NetzDG (Ağ Uygulama Yasası) ile sosyal medya platformlarını düzenleme deneyimi, Türkiye'nin 5651 sayılı Kanun kapsamındaki düzenlemeleriyle karşılaştırılmaktadır. Türkiye'de seçim dönemlerinde dezenformasyonla mücadele konusunda YSK ve BTK koordineli çalışmaktadır. Almanya'nın yalan haberle mücadele stratejileri, Türkiye'de Teyit.org gibi doğrulama platformları için model oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/dw.md|Dw]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-17_cocuk_dijital.md|COCUKLAR ve DIJITAL DUNYA - OZEL TARAMA (17 Nisan ]]
+- [[raw/articles/2026-06-26_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw.md|Almanya Seçimleri ve Dezenformasyon Savaşları - DW]]
+- [[raw/articles/2026-06-26_article-from-www-dw-com-s-69784532.md|Article from www.dw.com: s 69784532]]
+- [[raw/articles/2026-06-26_genel-dw-com.md|GENEL - dw.com]]
+- [[raw/articles/2026-06-26_s-69784532.md|S 69784532]]

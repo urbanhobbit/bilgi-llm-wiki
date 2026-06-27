@@ -33,3 +33,15 @@ Euractiv reports on the 2026 Hungarian election results, with the Tisza Party wi
 ## Turkey Context
 
 Euractiv'in Macaristan seçim analizi, Türkiye-AB ilişkilerinde hukukun üstünlüğü ve demokrasi standartları konusundaki tartışmalar açısından önemli çıkarımlar sunmaktadır. Macaristan'da muhalefetin seçim zaferi, AB'nin koşulluluk mekanizmalarının etkinliği konusunda Türkiye'deki tartışmaları da etkilemektedir. Türkiye'deki akademik çevreler, AB'nin Macaristan'a yönelik hukukun üstünlüğü prosedürlerini Türkiye'nin AB süreci açısından analiz etmektedir. Macaristan'da medya özgürlüğü ve yargı bağımsızlığı alanındaki reform beklentileri, Türkiye'deki benzer tartışmalar için karşılaştırma örneği oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-euractiv-com-hungary-election-tis.md|Article from www.euractiv.com: hungary election ti]]
+- [[raw/articles/2026-06-26_euractiv-section-europe-politics-hungary-election-.md|Euractiv - section europe politics hungary electio]]
+- [[raw/articles/2026-06-26_genel-euractiv-com.md|GENEL - euractiv.com]]
+- [[raw/articles/2026-06-26_hungary-election-2026-tisza-wins-landslide-victory.md|Hungary Election 2026: TISZA Wins Landslide Victor]]
+- [[raw/articles/2026-06-26_hungary-election-tisza-wins-444-seats.md|Hungary Election Tisza Wins 444 Seats]]

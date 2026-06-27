@@ -25,3 +25,17 @@ Bu çalışma, Emre'nin "çocuk katılımı ve dijital vatandaşlık" konusundak
 - **Kategori etiketi:** katılım/dijital vatandaşlık
 
 ---
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]
+- [[raw/articles/2026-06-26_digital-business-models-in-the-regulatory-era-spri.md|Digital Business Models in the Regulatory Era (Spr]]
+- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
+- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]
+- [[raw/articles/akademik-yayn-8-975.md|Akademik Yayın (8)]]

@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-06T00:00:00Z'
 ---
 
+## YÖNETİCİ ÖZETİ (200-300 kelim...'
+resource: https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/
+tags:
+- raw
+timestamp: '2026-06-06T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 6 Haziran 2026 | **Hafta:** 23/2026
@@ -319,3 +326,19 @@ Makale, üç farklı ülkede (Hindistan, Güney Afrika, ABD) yürütülen anket 
 - Çocuklarda ekran süresi müdahale çalışmaları
 - Siyasal iletişimde yapay zeka kullanımı
 - İnternet altyapısı ve erişim politikaları
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

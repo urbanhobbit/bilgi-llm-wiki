@@ -32,3 +32,20 @@ BBC News covers international developments in children's online safety education
 ## Turkey Context
 
 BBC'nin ele aldığı dijital okuryazarlık eğitimi konusu, Türkiye'de MEB'in 2023-2026 Dijital Dönüşüm Stratejisi kapsamında önemli bir yer tutmaktadır. Türkiye'de okullarda dijital okuryazarlık dersleri seçmeli olarak verilmekte, ancak haftalık ders saati ve içerik derinliği açısından Avrupa ülkelerinin gerisinde kalınmaktadır. Finlandiya ve Estonya'daki medya okuryazarlığı modelleri Türkiye için referans noktasıdır. ChatGPT gibi yapay zeka araçlarının eğitimde kullanımına ilişkin MEB'in henüz kapsamlı bir kılavuz yayınlamamış olması, öğretmenler arasında belirsizliğe yol açmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]
+- [[raw/articles/2026-06-26_bbc-children-s-digital-safety-and-online-learning.md|BBC - Children's Digital Safety and Online Learnin]]

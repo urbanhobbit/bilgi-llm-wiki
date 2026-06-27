@@ -33,3 +33,15 @@ Politico EU reports on the leadership race for the UN Food and Agriculture Organ
 ## Turkey Context
 
 BM Gıda ve Tarım Örgütü (FAO) liderlik yarışı, Türkiye'nin tarım politikaları ve gıda güvenliği stratejileri açısından önem taşımaktadır. Türkiye, FAO'nun önemli bir üyesi olup, tarımsal kalkınma ve gıda güvenliği konularında örgütle işbirliği yürütmektedir. Tarım ve Orman Bakanlığı, FAO ile ortak projeler kapsamında sürdürülebilir tarım, kuraklık yönetimi ve gıda israfının önlenmesi konularında çalışmalar yapmaktadır. Türkiye'nin FAO nezdindeki diplomatik etkinliği, küresel gıda güvenliği politikalarının şekillenmesinde söz sahibi olmasını sağlamaktadır. İklim değişikliğinin tarım üzerindeki etkileri, Türkiye'nin FAO ile işbirliğinde öncelikli alanlar arasında yer almaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

@@ -33,3 +33,15 @@ Cumhuriyet reports on new developments in the Gulistan Doku case, involving the 
 ## Turkey Context
 
 Gülistan Doku davasındaki silinen hastane kayıtları iddiası, Türkiye'de sağlık hizmetlerinde şeffaflık ve hesap verebilirlik tartışmalarını yeniden alevlendirmiştir. Sağlık Bakanlığı'nın konuya ilişkin açıklaması, kamuoyunda tatmin edici bulunmamıştır. KVKK kapsamında, hasta kayıtlarının silinmesi veya değiştirilmesi, kişisel verilerin korunması ilkelerine aykırılık teşkil etmektedir. Türkiye'de hasta hakları, Hasta Hakları Yönetmeliği çerçevesinde düzenlenmektedir. Adli süreçte, silinen kayıtların adli bilişim yöntemleriyle kurtarılması ve delil olarak kullanılması beklenmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

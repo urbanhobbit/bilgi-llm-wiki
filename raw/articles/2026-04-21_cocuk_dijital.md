@@ -23,3 +23,13 @@ American Academy of Pediatrics'in bu teknik raporu, dijital ekosistemlerin çocu
 American Academy of Pediatrics'in "Dijital Ekosistemler, Çocuklar ve Ergenler: Teknik Rapor"u, çocukların dijital ortam deneyimlerini sağlık ve gelişim perspektifinden ele alması açısından oldukça değerlidir. Raporun, dijital ekosistem kavramını geniş bir yelpazede tanımlaması, çocukların maruz kaldığı teknolojik çeşitliliğin kapsamını ortaya koymaktadır. Özellikle "çocuk merkezli tasarım" ilkesinin vurgulanması, dijital ürün ve hizmetlerin geliştirilmesinde çocukların özel ihtiyaçlarının ve gelişimsel özelliklerinin göz önünde bulundurulmasının kritik önemini göstermektedir. Gizlilik, güvenlik ve anlamlı deneyimlerin bu tasarımın temel unsurları olarak belirlenmesi, çocukların dijital dünyada sağlıklı bir şekilde büyümesi için gerekli olan yapısal çerçeveyi sunmaktadır. Raporun bakıcıların rolüne dikkat çekmesi, ebeveynlerin ve diğer bakım sağlayıcılarının çocukların dijital deneyimlerini yönetmede ne kadar merkezi bir konumda olduğunu hatırlatmaktadır. Ayrıca, algoritmik şeffaflık çağrısı, teknoloji şirketlerinin hesap verebilirliğini artırmaya yönelik önemli bir adımdır ve çocukların dijital ortamda karşılaştığı içeriğin nasıl şekillendiğini anlamak için hayati önem taşımaktadır. En dikkat çekici noktalardan biri, fiziksel alanlara ve yüz yüze etkileşimlere yapılan vurgudur. Dijital deneyimlerin geleneksel çocukluk aktivitelerini gölgede bırakmaması için kütüphaneler, parklar gibi "üçüncü alanlara" yatırım yapılması gerektiği önerisi, çocukların dengeli bir yaşam sürmesi için dijital dünyanın ötesindeki gerçek dünya deneyimlerinin de korunması gerektiğinin altını çizmektedir. Bu rapor, dijital teknolojinin çocuklar üzerindeki etkilerine bütünsel bir bakış sunarak, politika yapıcılar, ebeveynler ve teknoloji geliştiricileri için önemli çıkarımlar içermektedir.
 
 ---
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/american-academy-of-pediatrics.md|American Academy Of Pediatrics]]

@@ -33,3 +33,23 @@ Dijital çağda çocukların ekran süresi, sosyal medya kullanımı ve çevrimi
 ## Turkey Context
 
 Türkiye açısından değerlendirildiğinde, çocukların çevrimiçi güvenliği ve dijital hakları konusu son yıllarda giderek daha fazla önem kazanmaktadır. Kişisel Verileri Koruma Kurumu (KVKK), bu kapsamda dijital platformlarda çocuk kullanıcıların verilerinin korunmasına yönelik denetimlerini artırmış durumdadır. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik eğitimlerini müfredata entegre etme çalışmalarına hız vermiştir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet düzenlemeleri ve sosyal medya platformlarının denetimi konusunda aktif rol üstlenmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda karşılaştığı riskler konusunda farkındalık kampanyaları yürütmekte ve ebeveyn rehberlik hizmetleri sunmaktadır. TÜİK verilerine göre, Türkiye'de 6-15 yaş arası çocukların internet kullanım oranı her geçen yıl artış göstermekte olup, bu durum dijital düzenlemelerin önemini artırmaktadır. Türkiye'de 2025-2026 döneminde sosyal medya kullanımına yönelik yeni düzenlemeler gündeme gelmiştir. 13 yaş altı çocukların sosyal medya kullanımının kısıtlanmasına yönelik tartışmalar, MEB ve BTK'nın ortak çalışmalarıyla şekillenmektedir. Aile Bakanlığı, dijital bağımlılıkla mücadele kapsamında ebeveynlere yönelik rehberlik hizmetleri sunarken, KVKK da çocukların kişisel verilerinin korunmasına yönelik denetimlerini artırmıştır. TÜİK'in yayınladığı Çocuklarda Bilişim Teknolojileri Kullanım Araştırması, 6-15 yaş grubundaki çocukların yüzde 82'sinin düzenli olarak internet kullandığını göstermektedir. Bu oran, dijital düzenlemelerin önemini bir kez daha ortaya koymaktadır. Ayrıca, Türkiye'de çocukların çevrimiçi ortamda karşılaştıkları risklere karşı farkındalık yaratmak amacıyla çeşitli sivil toplum kuruluşları da aktif çalışmalar yürütmektedir. MEB'in dijital okuryazarlık müfredatı, öğrencilerin bilinçli teknoloji kullanımı konusunda donanımlı hale gelmesini hedeflemektedir. Sonuç olarak, küresel çapta çocukların dijital güvenliğine yönelik artan farkındalık, Türkiye'de de ilgili kurumların harekete geçmesini sağlamaktadır. Ayrıca bu konunun Türkiye açısından önemi, ilgili kamu kurumlarının koordineli çalışmasını gerektirmektedir. BTK'nın düzenleyici rolü, MEB'in eğitim politikaları ve Aile Bakanlığı'nın koruyucu hizmetleri bu bağlamda birbirini tamamlamaktadır. UNICEF Türkiye'nin çocuk hakları ve dijital güvenlik alanındaki çalışmaları da bu ekosistemin önemli bir parçasını oluşturmaktadır. TÜİK verileri, Türkiye'de dijital dönüşümün hızını ve bu alandaki düzenlemelerin önemini gözler önüne sermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

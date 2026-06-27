@@ -32,3 +32,14 @@ DHA reports on Ali Yalçın's statement describing the school attacks as a 'terr
 ## Turkey Context
 
 Ali Yalçın'ın 'sanal ortamda organize edilmiş terör hadisesi' tanımı, Türkiye'de dijital platformların güvenlik üzerindeki etkisine dikkat çekmektedir. BTK, sanal ortamda organize edilen suç faaliyetlerinin tespiti ve önlenmesi için çalışmalarını yoğunlaştırmıştır. 5651 sayılı Kanun kapsamında, terör propagandası ve şiddeti teşvik eden içeriklerin tespiti ve kaldırılması için acil müdahale mekanizmaları devreye sokulmuştur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ali-yal-n-sanal-ortamda-organize-edilmi-bir-ter-r-.md|Ali Yalçın: Sanal ortamda organize edilmiş bir ter]]
+- [[raw/articles/2026-06-26_ali-yalcin-sanal-ortamda-organize-edilmis-bir-tero.md|Ali Yalcin Sanal Ortamda Organize Edilmis Bir Tero]]
+- [[raw/articles/2026-06-26_article-from-www-dha-com-tr-ali-yalcin-sanal-ortam.md|Article from www.dha.com.tr: ali yalcin sanal orta]]
+- [[raw/articles/2026-06-26_genel-dha-com-tr.md|GENEL - dha.com.tr]]

@@ -33,3 +33,16 @@ Telex.hu, a leading Hungarian news outlet, provides detailed coverage of the 202
 ## Turkey Context
 
 Telex.hu'nun Macaristan seçim haberciliği, Türkiye'deki dijital medya ortamı ve seçim haberciliği açısından karşılaştırmalı bir örnek sunmaktadır. Türkiye'de de benzer şekilde bağımsız dijital haber platformları, seçim dönemlerinde canlı yayın ve anlık analiz hizmeti sunmaktadır. Teyit.org gibi doğrulama platformları ve bağımsız haber siteleri, Türkiye'de seçim haberlerinin doğrulanması ve dezenformasyonla mücadele konusunda önemli rol oynamaktadır. Macaristan'da bağımsız medyanın güçlenmesi, Türkiye'de medya çeşitliliği ve bağımsız gazetecilik tartışmaları için bir referans oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
+- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
+- [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]
+- [[raw/articles/2026-06-26_macar-valasztas-eredmenyek.md|Macar Valasztas Eredmenyek]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-im-sonu-lar-muhalefet-zaferi-ve.md|Macaristan 2026 Seçim Sonuçları: Muhalefet Zaferi ]]

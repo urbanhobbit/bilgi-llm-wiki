@@ -34,3 +34,18 @@ Mike Males' Substack analysis examines methodological issues in youth mental hea
 ## Turkey Context
 
 Mike Males'in sağlık kurumu anketlerine yönelik metodolojik eleştirisi, Türkiye'de gençlik ruh sağlığı araştırmalarında kullanılan anket metodolojilerinin değerlendirilmesi için önemli bir referans noktası sunmaktadır. Türkiye'de Sağlık Bakanlığı ve TÜİK tarafından yürütülen gençlik ruh sağlığı araştırmalarında, Males'in eleştirdiği metodolojik sorunların (soru ifadesi etkileri, örneklem çerçevesi kapsamı, yanıt oranı düşüşü) benzer şekilde mevcut olduğu değerlendirilmektedir. TÜBİTAK'ın desteklediği gençlik araştırmalarında, Males'in kullandığı meta-analitik metodolojik inceleme yaklaşımı nadiren kullanılmakta, anket verilerinin metodolojik sınırlılıkları genellikle yeterince tartışılmamaktadır. Türkiye'de Hacettepe Üniversitesi Ruh Sağlığı Araştırmaları Merkezi ve İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Çocuk Psikiyatrisi Anabilim Dalı, gençlik ruh sağlığı konusunda uluslararası yayınlar yapmakla birlikte, bu yayınlarda Males'in vurguladığı ölçüm değişmezliği (measurement invariance) ve klinik anlamlılık gibi metodolojik konular yeterince ele alınmamaktadır. YÖK'ün 2023 yılında yayımladığı 'Araştırma Yöntemleri ve Etik' rehberi, anket araştırmalarında metodolojik titizlik konusunda temel standartları belirlemekle birlikte, Males'in eleştirdiği ileri metodolojik sorunlar (soru ifadesi zaman serisi etkileri, ölçüm değişmezliği testleri) konusunda yeterli rehberlik sağlamamaktadır. Türkiye'de açık bilim ve veri paylaşımı uygulamalarının gençlik ruh sağlığı araştırmalarında yaygınlaştırılması, Males benzeri bağımsız metodolojik eleştirilerin yapılabilmesi için temel bir ön koşul olup, TÜBİTAK'ın 2024 Açık Bilim Politikası bu alanda önemli bir adım olarak değerlendirilmektedir. Türkiye'de Sağlık Bakanlığı ve TÜİK tarafından yürütülen gençlik ruh sağlığı araştırmalarında, Males'in eleştirdiği soru ifadesi tutarlılığı ve ölçüm değişmezliği konularına daha fazla dikkat edilmesi gerekmektedir. TÜBİTAK'ın desteklediği gençlik araştırmalarında, anket verilerinin metodolojik sınırlılıklarının Males'in yaptığı gibi sistematik olarak raporlanması, bu araştırmaların bilimsel kalitesini ve şeffaflığını artıracaktır. Türkiye'de ergen ruh sağlığı araştırmalarında kullanılan ölçeklerin ölçüm değişmezliği testlerinden geçirilmesi, farklı demografik gruplar arasında yapılan karşılaştırmaların geçerliliğini güvence altına alacaktır. YÖK'ün 2023 tarihli Araştırma Yöntemleri ve Etik rehberinin Males'in vurguladığı ileri metodolojik konuları (ölçüm değişmezliği, soru ifadesi zaman serisi etkileri) kapsayacak şekilde güncellenmesi, Türkiye'de anket araştırmalarının metodolojik kalitesini yükseltecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
+- [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]
+- [[raw/articles/2026-06-26_mike-males-substack-secondary-analysis-of-us-healt.md|Mike Males Substack: Secondary Analysis of US Heal]]
+- [[raw/articles/2026-06-26_our-top-health-agency-s-surveys-found-what-really-.md|Our top health agency’s surveys found what really ]]
+- [[raw/articles/2026-06-26_our-top-health-agencys-surveys-found.md|Our Top Health Agencys Surveys Found]]

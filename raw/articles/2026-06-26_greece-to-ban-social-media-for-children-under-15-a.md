@@ -33,3 +33,23 @@ The Associated Press reports that Greece is preparing to announce a comprehensiv
 ## Turkey Context
 
 AP News'in Yunanistan'ın 15 yaş altı sosyal medya yasağı haberine göre, bu gelişme Türkiye için de önemli bir politika örneği oluşturmaktadır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunması mevcut olmakla birlikte, Yunanistan'ın planladığı gibi kapsamlı bir yaş sınırlaması Türkiye'de henüz gündeme gelmemiştir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), sosyal medya platformlarının düzenlenmesinde önemli bir role sahiptir. Milli Eğitim Bakanlığı (MEB), dijital vatandaşlık eğitimi kapsamında öğrencilere sosyal medya kullanımının riskleri konusunda farkındalık kazandırmaktadır. Türkiye İstatistik Kurumu (TÜİK) verileri, Türkiye'de 15 yaş altı çocukların sosyal medya kullanım oranının Avrupa ortalamasının üzerinde olduğunu göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların sosyal medya kullanımına yönelik rehberlik çalışmaları yürütmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi risklerden korunması için kapsamlı düzenlemelerin önemini vurgulamaktadır. Türkiye'nin, Yunanistan'ın bu girişimini yakından takip ederek kendi sosyo-kültürel bağlamına uygun bir model geliştirmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-apnews-com-greece-social-media-ban-ch.md|Article from apnews.com: greece social media ban c]]
+- [[raw/articles/2026-06-26_greece-set-to-announce-social-media-ban-for-childr.md|Greece Set to Announce Social Media Ban for Childr]]
+- [[raw/articles/2026-06-26_greece-social-media-ban-children-15-years-old-digi.md|Greece Social Media Ban Children 15 Years Old Digi]]
+- [[raw/articles/2026-06-26_kurator-apnews-com.md|KURATOR - apnews.com]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-55-946.md|Çocuklar ve Dijital Ortam (55)]]

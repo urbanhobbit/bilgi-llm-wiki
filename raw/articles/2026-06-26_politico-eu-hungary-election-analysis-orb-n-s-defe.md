@@ -33,3 +33,15 @@ Politico EU provides comprehensive coverage and analysis of the 2026 Hungarian p
 ## Turkey Context
 
 Macaristan seçimlerindeki iktidar değişikliği, Türkiye'deki siyasi sistem tartışmaları açısından önemli bir karşılaştırma örneği sunmaktadır. Orbán'ın uzun süreli iktidarının seçim yoluyla sona ermesi, otoriterleşme eğilimlerinin demokratik mekanizmalarla tersine çevrilebileceğini göstermesi açısından dikkat çekicidir. Türkiye'de benzer şekilde güçlü başkanlık sistemi ve uzun süreli iktidar tartışmaları yaşanmaktadır. Macaristan'da medya düzenlemeleri, yargı bağımsızlığı ve sivil toplum alanındaki kısıtlamalar ile Türkiye'deki uygulamalar arasında karşılaştırmalı analizler yapılmaktadır. AB'nin Macaristan'a yönelik hukukun üstünlüğü mekanizmaları, Türkiye-AB ilişkilerinde de referans alınmaktadır. Macaristan örneği, Türkiye'de demokrasi ve hukukun üstünlüğü konusunda yürütülen akademik tartışmalarda sıkça karşılaştırma unsuru olarak kullanılmaktadır. Türkiye'deki siyasi partiler ve düşünce kuruluşları, Macaristan seçim sonuçlarını kendi siyasi stratejileri açısından analiz etmektedir. Macaristan'da muhalefetin başarısı, Türkiye'de muhalefet partileri tarafından demokratik değişimin mümkün olduğuna dair bir örnek olarak gösterilmektedir. AB'nin Macaristan'daki siyasi dönüşüme yaklaşımı, Türkiye'nin AB üyelik süreci ve müzakere çerçevesi açısından da önemli sinyaller taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

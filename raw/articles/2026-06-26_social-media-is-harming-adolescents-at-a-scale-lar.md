@@ -34,3 +34,18 @@ The World Happiness Report 2026, in a chapter authored by Jonathan Haidt and Zac
 ## Turkey Context
 
 World Happiness Report'un 2026 yılı raporunda Jonathan Haidt ve Zachary Rausch tarafından hazırlanan bu bölüm, Türkiye'deki çocuk ve gençlerin dijital refahı konusunda son derece önemli ve acil bir uyarı niteliği taşımaktadır. Türkiye'de genç nüfusun toplam nüfusa oranının Avrupa ülkelerine kıyasla çok daha yüksek olduğu düşünüldüğünde, sosyal medyanın ergen ruh sağlığı üzerindeki kitlesel etkileri Türkiye'de çok daha büyük bir demografik kesimi ilgilendirmektedir. TÜİK verilerine göre Türkiye'de 15-24 yaş arası genç nüfus yaklaşık 13 milyon kişidir ve bu gençlerin büyük çoğunluğu sosyal medya platformlarını aktif olarak kullanmaktadır. Raporda vurgulanan sosyal medyanın bağımlılık yapıcı tasarım özellikleri, algoritmik içerik önerme sistemleri ve sosyal karşılaştırma mekanizmaları, Türkiye'deki gençler için de aynı derecede geçerli risk faktörleridir. Türkiye'de Milli Eğitim Bakanlığı ve Sağlık Bakanlığı'nın koordineli bir şekilde yürüttüğü çocuk ve genç ruh sağlığı politikaları, sosyal medyanın olumsuz etkilerini henüz yeterince kapsamamaktadır. Raporda sunulan dokuz kanıt hattı, Türkiye'deki politika yapıcılar için bir yol haritası niteliğindedir: öncelikle çocukların sosyal medya kullanımına ilişkin kapsamlı ulusal veri toplanması, platformların Türkiye'deki genç kullanıcılar üzerindeki etkilerinin bağımsız araştırmalarla incelenmesi, okul müfredatına dijital okuryazarlık ve eleştirel medya becerilerinin entegre edilmesi ve yaş doğrulama mekanizmalarının zorunlu hale getirilmesi gerekmektedir. Ayrıca, Türkiye'de Aile ve Sosyal Hizmetler Bakanlığı'nın sosyal medya platformlarının genç kullanıcılara yönelik tasarımlarını denetleme yetkisi ile donatılması ve bu alanda bağımsız bir dijital çocuk koruma kurumunun oluşturulması önerilmektedir. Rapordaki en çarpıcı bulgulardan biri olan sosyal medya şirketlerinin kendi iç araştırmalarında dahi çocuklara verdikleri zararı kabul etmeleri, Türkiye'de bu şirketlere karşı yasal yaptırım mekanizmalarının güçlendirilmesi ve bağımsız denetim süreçlerinin oluşturulması gerektiğini açıkça ortaya koymaktadır. Bu bağlamda, Türkiye'nin gerekli yasal ve kurumsal düzenlemeleri hayata geçirerek genç neslin dijital refahını koruma altına alması, sadece bir çocuk hakları meselesi değil, aynı zamanda bir kamu sağlığı ve milli güvenlik önceliği olarak ele alınmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]

@@ -39,3 +39,22 @@ PNAS Nexus'te yayımlanan bu deneysel çalışma, gerçek dünya sosyal etkileş
 ## Turkey Context
 
 Bu çalışma, Türkiye'de çocukların ve gençlerin dijital sosyalleşme ile yüz yüze sosyalleşme arasındaki farklılıkların anlaşılması açısından önemlidir. Türkiye'de gençler arasında dijital platformlarda geçirilen süre (günde ortalama 4.2 saat sosyal medya, TÜİK 2025) artarken, yüz yüze sosyal etkileşim süreleri azalmaktadır. Çalışmanın temel bulgusu olan fizyolojik senkronizasyonun yüz yüze etkileşimde ortaya çıkması, dijital iletişimin fizyolojik düzeydeki sosyal bağ kurma kapasitesinin sınırlı olabileceğini düşündürmektedir. MEB'in son yıllarda okullarda sosyal-duygusal öğrenme (SEL) programlarını yaygınlaştırma çabaları, bu çalışmanın bulgularıyla desteklenmektedir. Ancak Türkiye'de çocukların ekran süresi ve dijital sosyalleşme alışkanlıklarının fizyolojik etkilerine yönelik kapsamlı bir araştırma bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı ile Sağlık Bakanlığı'nın çocuk sağlığı politikalarında dijital sosyalleşmenin fizyolojik etkilerine yer verilmesi, bu alandaki politika boşluğunu dolduracaktır. Çalışmanın akustik ortamın sosyal bağ kurmadaki rolüne dair bulguları, Türkiye'deki okul ortamlarının fiziksel tasarımı ve gürültü politikaları açısından da dikkate alınmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]
+- [[raw/articles/2026-06-26_akademi-k-academic-oup-com.md|AKADEMİK - academic.oup.com]]

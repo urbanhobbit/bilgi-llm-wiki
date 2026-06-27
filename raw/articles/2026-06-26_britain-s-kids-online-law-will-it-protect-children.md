@@ -34,3 +34,24 @@ This Guardian article examines the implementation and effectiveness of Britain's
 ## Turkey Context
 
 Birleşik Krallık'ın Çevrimiçi Güvenlik Yasası (Online Safety Act), Türkiye'deki benzer düzenlemeler için önemli bir referans modeli oluşturmaktadır. Türkiye'de 2024 yılında kabul edilen Dijital Hizmetler Kanunu (7412 sayılı) ve 2025'te gündeme gelen 15 yaş altı sosyal medya kullanımının sınırlandırılması tartışmaları, UK modeline benzer bir düzenleyici yaklaşımı yansıtmaktadır. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 2025'te açıkladığı 'sosyal medya düzenlemesi' çerçevesi, 15 yaş altı çocukların sosyal medya platformlarına erişimini ebeveyn iznine tabi kılmayı hedeflemektedir. MEB'in Dijital Okuryazarlık Stratejisi (2025-2030), çocukların güvenli internet kullanımı ve medya okuryazarlığı becerilerinin geliştirilmesini öngörmektedir. BTK'nın düzenleyici rolü, platformların yaş doğrulama yükümlülükleri ve içerik denetimi konusunda kritik önem taşımaktadır. Türkiye'de çocukların çevrimiçi güvenliğine yönelik düzenlemelerin etkinliği, İngiltere deneyiminden alınacak derslerle güçlendirilebilir. Yaş doğrulama teknolojilerinin sınırları, platformların uyum maliyetleri ve aşırı engelleme riskleri, Türkiye'deki düzenleyici süreçte dikkate alınması gereken önemli unsurlardır. Türkiye'de 2025 yılında Meclis gündemine gelen 15 yaş altı sosyal medya kullanımının sınırlandırılmasına yönelik yasa teklifi, Birleşik Krallık'ın Online Safety Act modelinden önemli ölçüde etkilenmiştir. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, düzenlemenin temel çerçevesini oluşturduklarını ve ilk 6 maddenin Meclis'ten geçtiğini duyurmuştur. MEB'in 2025-2030 Dijital Okuryazarlık Stratejisi ve BTK'nın uygulama yönetmelikleri, yaş doğrulama sistemlerinin teknik standartlarını belirlemektedir. Türkiye'de sosyal medya platformlarının çocuk kullanıcılara yönelik tasarım yükümlülükleri, İngiltere'deki Age Appropriate Design Code (Çocuk Kodu) ile uyumlu hale getirilmelidir. İstanbul Bilgi Üniversitesi Bilişim ve Teknoloji Hukuku Enstitüsü, çocukların çevrimiçi korunmasına yönelik düzenlemelerin hukuki çerçevesi üzerine kapsamlı çalışmalar yürütmektedir. Türkiye'deki düzenleme sürecinde, aşırı engelleme riskleri ve ifade özgürlüğü endişeleri dikkate alınarak dengeli bir yaklaşım benimsenmesi gerekmektedir Türkiye'de 2025 yılı itibarıyla yürürlüğe giren yeni düzenlemeler, UK Online Safety Act modelini yakından takip etmektedir. İstanbul Bilgi Üniversitesi Bilişim ve Teknoloji Hukuku Enstitüsü'nün 2025 raporu, çocukların çevrimiçi korunmasına yönelik düzenlemelerin hukuki çerçevesini kapsamlı şekilde analiz etmiş ve UK modeli ile Türkiye arasındaki uyum potansiyelini değerlendirmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

@@ -33,3 +33,16 @@ The German Institute of Development and Sustainability (IDOS), in collaboration 
 ## Turkey Context
 
 Türkiye'de siyasi kutuplaşma, özellikle 2010'lu yıllardan itibaren toplumsal ayrışmanın en kritik boyutlarından biri haline gelmiştir. Bu bağlamda IDOS, UNDP ve DW Akademie işbirliğiyle geliştirilen Depolarization Toolkit, Türkiye'deki kutuplaşma karşıtı çalışmalar için önemli bir model sunmaktadır. Türkiye'de kutuplaşma ile mücadelede geleneksel olarak sivil toplum kuruluşları, üniversiteler ve bazı kamu kurumları çeşitli diyalog ve uzlaştırma programları yürütmektedir. Ancak bu çalışmaların çoğu ölçeklenebilirlik sorunu yaşamakta ve belirli bölgelerle sınırlı kalmaktadır. IDOS'un geliştirdiği çoklu-ajan yapay zeka mimarisi, bu ölçeklenebilirlik sorununa teknolojik bir çözüm sunmaktadır. Türkiye'de benzer bir yaklaşımın uygulanabilmesi için TÜBİTAK ve kalkınma ajansları bünyesinde yapay zeka destekli kutuplaşma karşıtı araçların geliştirilmesi düşünülebilir. Özellikle yerel seçim dönemlerinde ve referandum süreçlerinde artan kutuplaşma, bu tür araçların ihtiyacını daha da belirgin kılmaktadır. RTÜK ve BTK gibi düzenleyici kurumların medya ve iletişim politikaları kapsamında, yapay zeka destekli kutuplaşma izleme ve müdahale araçlarını değerlendirmeleri faydalı olacaktır. Ayrıca, Avrupa Birliği'nin Dijital Hizmetler Yasası (DSA) çerçevesinde platformlardan beklenen dezenformasyon ve kutuplaşma ile mücadele yükümlülükleri, Türkiye'nin uyum sürecinde bu tür yenilikçi araçları dikkate almasını gerektirmektedir. UNDP Türkiye ofisinin bu alandaki potansiyel rolü de değerlendirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-idos-research-de.md|IDOS]]
+- [[entities/www-idos-research-de.md|Www Idos Research De]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/depolarization-toolkit-an-agentic-ai-framework-891.md|Depolarization Toolkit: An Agentic AI Framework]]

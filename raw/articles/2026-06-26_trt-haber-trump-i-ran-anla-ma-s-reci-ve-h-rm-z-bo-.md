@@ -33,3 +33,15 @@ TRT Haber reports on developments in US-Iran relations, including potential agre
 ## Turkey Context
 
 Trump-İran anlaşma süreci ve Hürmüz Boğazı'ndaki gelişmeler, Türkiye'nin enerji güvenliği ve dış ticareti açısından kritik öneme sahiptir. Türkiye, enerji ihtiyacının önemli bir bölümünü ithal etmekte olup, Hürmüz Boğazı'ndan geçen petrol ve doğalgaz ticaretindeki herhangi bir aksama doğrudan Türkiye ekonomisini etkileyecektir. Dışişleri Bakanı Hakan Fidan, bölgedeki gerilimin düşürülmesi için Türkiye'nin arabuluculuk rolü üstlenebileceğini sinyallemiştir. Türkiye, İran ile ekonomik ilişkilerini çeşitlendirme politikası izlemekte olup, yaptırım rejimlerinin Türkiye-İran ticaretine etkileri yakından takip edilmektedir. Enerji ve Tabii Kaynaklar Bakanlığı, olası bir krize karşı enerji arz güvenliği senaryolarını güncellemektedir. Türkiye'nin Ceyhan limanı ve enerji koridorları, alternatif güzergâh olarak önem kazanmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

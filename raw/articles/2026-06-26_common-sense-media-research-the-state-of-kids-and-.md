@@ -42,3 +42,21 @@ TUIK verilerine gore, Turkiye'de hanelerin %95,5'i internete erisim saglayabilme
 UNICEF Turkiye, cocuklarin dijital ortamda karsilastigi riskler ve bu risklere karsi koruyucu mekanizmalarin gelistirilmesi konusunda calismalar yurutmektedir. UNICEF'in raporlari, Turkiye'deki cocuklarin cevrimici guvenligi konusunda onemli veriler sunmaktadir. Yerel arastirmalar da Turkiye'de cocuklarin sosyal medya kullanim aliskanliklari ve dijital okuryazarlik seviyeleri uzerine onemli bulgular ortaya koymaktadir.
 
 Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak icin kapsamli bir ulusal strateji gelistirilmesi gerekmektedir. Bu strateji, KVKK ile uyumlu veri koruma politikalari, MEB'in dijital okuryazarlik mustakileri, BTK'nin icerik denetleme mekanizmalari ve Aile Bakanligi'nin ebeveyn rehberligi programlarini entegre etmelidir. Ayrica, sosyal medya platformlarinin cocuk kullanicilari icin ozel guvenlik ayarlari ve yas dogrulama sistemleri gelistirmesi tesvik edilmelidir. Turkiye, Avrupa Birligi Dijital Hizmetler Kanunu (DSA) ile uyum surecinde, cocuk haklari temelli bir dijital politika cercevesi olusturma firsatina sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

@@ -31,3 +31,15 @@ Bu bağlantı, NousResearch kuruluşuna ait hermes-agent deposundaki 5100 numara
 ## Turkey Context
 
 Bu GitHub pull request sayfası, NousResearch/hermes-agent açık kaynak projesinde yapılan bir kod değişikliğini göstermekte olup, doğrudan Türkiye ile ilgili bir bağlantı veya içerik içermemektedir. Bununla birlikte, bu bağlantının Türkiye bağlamında değerlendirilmesi, ülkedeki açık kaynak yazılım geliştirme kültürü ve teknoloji ekosistemi açısından anlamlı olabilir. Türkiye'de açık kaynak yazılım geliştirme topluluğu son yıllarda önemli bir büyüme göstermiş, özellikle kamu kurumlarının açık kaynak çözümlere yönelmesi ve yerli yazılım girişimlerinin artmasıyla birlikte bu alandaki ilgi giderek artmıştır. Ancak, Türkiye'den küresel açık kaynak projelere yapılan katkıların sayısı ve niteliği, gelişmiş ülkelerle karşılaştırıldığında henüz istenen seviyede değildir. Bu durumun başlıca nedenleri arasında, üniversite müfredatında açık kaynak kültürünün yeterince yer almaması, yazılım geliştiricilerin uluslararası projelere katkı sağlama konusunda teşvik edilmemesi ve büyük teknoloji şirketlerinin Ar-Ge merkezlerinin Türkiye'de sınırlı sayıda olması sayılabilir. Ayrıca, Türkiye'deki hızlı enflasyon ve döviz kuru dalgalanmaları, yazılım geliştiricilerin maaşlarının uluslararası standartların oldukça altında kalmasına neden olmakta ve bu da beyin göçünü hızlandırmaktadır. Türkiye'den başarılı açık kaynak projeleri ve geliştiriciler çıkmasına rağmen, bu alandaki potansiyelin tam anlamıyla değerlendirilebilmesi için daha kapsamlı eğitim politikalarına, sektörel teşviklere ve uluslararası iş birliklerine ihtiyaç duyulmaktadır. Bu GitHub bağlantısı, düşük öncelikli ve doğrudan Türkiye bağlantısı olmayan bir teknik referans olarak sınıflandırılmıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-02_scrapling_integration.md|Scrapling Integration Report]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-github-archive-download.md|Bilgi LLM Wiki - GitHub Archive Download]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-main.md|Bilgi LLM Wiki - Raw Articles (main)]]
+- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-master.md|Bilgi LLM Wiki - Raw Articles (master)]]
+- [[raw/articles/2026-06-26_feat-skills-add-karpathy-s-llm-wiki-skill-for-pers.md|feat(skills): add Karpathy's llm-wiki skill for pe]]

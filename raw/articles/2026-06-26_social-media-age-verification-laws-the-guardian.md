@@ -33,3 +33,22 @@ The Guardian'da yayınlanan bu makale, sosyal medya yaş doğrulama yasalarında
 ## Turkey Context
 
 Türkiye'de sosyal medya yaş doğrulaması konusu, 2024'te yürürlüğe giren Dijital Hizmetler Kanunu (DHK) çerçevesinde tartışılmaktadır. 7253 sayılı İnternet Ortamında Düzenlemeler Hakkında Kanun'da yapılan son değişiklikler, sosyal ağ sağlayıcılarına 16 yaş altı kullanıcılar için ebeveyn izni doğrulaması getirme yükümlülüğü öngörmektedir. Ancak bu düzenlemenin uygulanabilirliği konusunda ciddi endişeler bulunmaktadır. BTK'nın sosyal medya platformlarına yönelik düzenleyici rolü, ifade özgürlüğü ve mahremiyet dengesi açısından tartışmalıdır. KVKK kapsamında çocukların kişisel verilerinin işlenmesinde (madde 6 ve 12) açık rıza şartı aranmakla birlikte, biyometrik yaş doğrulama gibi hassas veri işleme faaliyetleri ek güvenceler gerektirmektedir. Türkiye'de sosyal medya kullanıcılarının %35'ini 18 yaş altı bireyler oluşturmaktadır (TÜİK 2024 Hanehalkı Bilişim Teknolojileri Kullanım Araştırması). MEB'in Dijital Vatandaşlık müfredatında yaş doğrulama ve çevrimiçi güvenlik konularına yer verilmesi olumlu olmakla birlikte, uygulamada teknoloji okuryazarlığı eğitimlerinin yetersiz kaldığı görülmektedir. UNICEF Türkiye'nin 2024 raporu, Türkiye'de çocukların çevrimiçi mahremiyet hakları konusunda farkındalığın düşük olduğunu vurgulamaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

@@ -33,3 +33,24 @@ This article from www.trthaber.com examines trthaber in the context of children'
 ## Turkey Context
 
 Bu trthaber konulu makale, Türkiye'de çocukların dijital haklarına ilişkin politika geliştirme çalışmaları için önemli bir referans kaynağıdır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunmasına yönelik hükümler bulunmakla birlikte, bu alandaki düzenlemelerin günümüz dijital ekosisteminin ihtiyaçlarını karşılayacak şekilde güncellenmesi gerekmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri kapsamında çocukların zararlı içeriklerden korunmasına yönelik çalışmalar yürütmektedir. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı, öğrencileri dijital ortamlarda karşılaşabilecekleri risklere karşı bilinçlendirmeyi hedeflemektedir. Türkiye İstatistik Kurumu (TÜİK) verileri, çocukların internet ve sosyal medya kullanımında önemli artışlar olduğunu göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları devam etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi risklerden korunması için kapsamlı bir ulusal strateji geliştirilmesi gerektiğini vurgulamaktadır. Türkiye'nin bu alandaki uluslararası gelişmeleri yakından takip etmesi ve kendi sosyo-kültürel bağlamına uygun düzenlemeleri hayata geçirmesi önem arz etmektedir. Bu kapsamda, çocukların dijital haklarını koruyan, ancak ifade özgürlüğünü ve bilgiye erişim hakkını orantısız şekilde kısıtlamayan dengeli bir düzenleyici çerçeve oluşturulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]
+- [[raw/articles/2026-06-26_76609-htm.md|76609.Htm]]

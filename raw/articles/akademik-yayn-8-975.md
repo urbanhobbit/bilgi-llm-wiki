@@ -41,3 +41,16 @@ Türk Bilgisayar ve Bilimsel İletişim Derneği (TBİD) ile Türkiye Akademik Y
 - Araştırma metodolojisi
 - Akademik etik
 - Veri gizliliği
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
+- [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]
+- [[raw/articles/2026-06-26_digital-business-models-in-the-regulatory-era-spri.md|Digital Business Models in the Regulatory Era (Spr]]
+- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
+- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]

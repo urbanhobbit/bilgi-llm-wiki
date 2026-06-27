@@ -33,3 +33,24 @@ Massachusetts Temsilciler Meclisi, Nisan 2026'da 14 yaş altı çocukların sosy
 ## Turkey Context
 
 Massachusetts eyaletinin 14 yaş altı çocuklara sosyal medya yasağı getiren yasa tasarısı, Türkiye'deki dijital çocuk koruma tartışmalarına yeni bir boyut kazandırmaktadır. Türkiye'de 6698 sayılı KVKK kapsamında çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, sosyal medya kullanımının yaşa bağlı olarak sınırlandırılması konusunda henüz kapsamlı bir düzenleme mevcut değildir. Dijital Hizmetler Kanunu'nun güncellenmesi sürecinde, Massachusetts modeli dikkate alınarak 14 yaş altı çocuklar için sosyal medya hesabı açma yasağı getirilmesi değerlendirilebilir. MEB'in dijital okuryazarlık müfredatı, çocukların sosyal medya kullanımının bilinçli bir şekilde yönetilmesini sağlamalıdır. TÜİK'in 2025 yılı Çocuklarda Bilişim Teknolojileri Kullanım Araştırması'na göre, 6-15 yaş grubundaki çocukların %82'si düzenli olarak internet kullanmakta ve bunların büyük bir kısmı sosyal medya platformlarında aktiftir. UNICEF Türkiye'nin çocukların dijital güvenliği konulu raporları, çevrimiçi risklerin arttığını ve mevcut koruma önlemlerinin yetersiz kaldığını ortaya koymaktadır. BTK'nın düzenleyici rolü, sosyal medya platformlarının çocuk kullanıcılara yönelik uygulamalarını denetleme kapasitesini artırmalıdır. Aile ve Sosyal Hizmetler Bakanlığı, ebeveynlere yönelik dijital farkındalık programlarını yaygınlaştırmalı ve çocukların çevrimiçi ortamlarda karşılaştığı riskler konusunda rehberlik hizmetleri sunmalıdır. Türkiye'de akademik araştırmalar, sosyal medya bağımlılığının ergenler arasında giderek arttığını ve bu durumun akademik başarı, sosyal ilişkiler ve ruh sağlığı üzerinde olumsuz etkiler yarattığını göstermektedir. Türkiye'nin 2021 yılında yürürlüğe giren sosyal medya yasası, platformlara Türkiye'de temsilci bulundurma ve içerik kaldırma yükümlülüğü getirmiş ancak çocuk kullanıcıların korunmasına yönelik yaş bazlı düzenlemeler içermemiştir. RTÜK'ün çevrimiçi yayın platformları üzerindeki denetim yetkisi, Massachusetts modelindeki gibi yaş doğrulama sistemlerinin zorunlu kılınması ve bağımsız denetim mekanizmalarının kurulması yönünde genişletilebilir. Türkiye'de mevcut yaş doğrulama sistemleri, dijital platformlarda genellikle kullanıcı beyanına dayanmakta olup, Massachusetts'in öngördüğü üçüncü taraf doğrulama hizmetleri gibi bağımsız ve güvenilir mekanizmalar henüz yaygınlaşmamıştır. Politika önerisi olarak, Türkiye'nin yaşa dayalı sosyal medya düzenlemesi getirmesi, platformların çocuk kullanıcı verilerini toplamasını sınırlandırması ve ebeveyn denetim araçlarının kullanımını zorunlu hale getirmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-wgbh-org-mass-house-passes-bill-t.md|Article from www.wgbh.org: mass house passes bill ]]
+- [[raw/articles/2026-06-26_kurator-wgbh-org.md|KURATOR - wgbh.org]]
+- [[raw/articles/2026-06-26_mass-house-passes-bill-to-ban-kids-under-14-from-s.md|Mass House Passes Bill To Ban Kids Under 14 From S]]
+- [[raw/articles/2026-06-26_massachusetts-house-passes-bill-to-ban-kids-under-.md|Massachusetts House Passes Bill to Ban Kids Under ]]
+- [[raw/articles/ocuklar-ve-dijital-ortam-46-937.md|Çocuklar ve Dijital Ortam (46)]]

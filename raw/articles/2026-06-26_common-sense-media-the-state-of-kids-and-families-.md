@@ -34,3 +34,24 @@ Common Sense Media's 'State of Kids and Families in America 2026' represents a m
 ## Turkey Context
 
 Common Sense Media'nın ulusal anket araştırması, Türkiye'de çocuk ve aile dijital medya araştırmaları için önemli bir metodolojik referans oluşturmaktadır. TÜİK'in Hanehalkı Bilişim Teknolojileri Kullanım Araştırması, Common Sense Media'nın yaklaşımına kısmen benzer bir metodoloji kullanmakla birlikte, aile içi dinamikler, ebeveyn-çocuk etkileşimi ve medya multitasking gibi konularda aynı derinlikte veri toplamamaktadır. TÜBİTAK'ın desteklediği çocuk ve dijital medya araştırmalarında, Common Sense Media'nın kullandığı tabakalı örnekleme, bilişsel görüşme ve psikometrik analiz gibi ileri metodolojilerin kullanımı sınırlıdır. Türkiye'de Hacettepe Üniversitesi İletişim Fakültesi, Ankara Üniversitesi İletişim Araştırmaları Merkezi ve Marmara Üniversitesi İletişim Fakültesi, aile ve medya araştırmaları konusunda çalışmalar yürütmekte, ancak bu çalışmalarda kullanılan anket metodolojilerinin Common Sense Media standartlarında psikometrik doğrulama süreçlerinden geçirilmesi nadirdir. YÖK'ün araştırma etiği yönergeleri kapsamında, çocuklarla yapılan araştırmalarda ebeveyn onamı, çocuk rızası ve yaşa uygun veri toplama yöntemleri konusunda belirlenmiş standartlar bulunmakla birlikte, bu standartların Common Sense Media'nın uyguladığı titizlikle karşılaştırılması gerekmektedir. Türkiye'de dijital medya araştırmalarında kullanılan örneklem çerçeveleri genellikle kentsel bölgelere odaklanmakta, kırsal ve dezavantajlı grupları yeterince temsil etmemektedir. Türkiye'de çocuk ve aile dijital medya araştırmalarında kullanılan anket metodolojilerinin Common Sense Media standartlarında psikometrik doğrulama süreçlerinden geçirilmesi, bu alandaki akademik yayınların uluslararası dergilerde kabul edilme oranını artıracaktır. TÜİK ve TÜBİTAK işbirliğinde Türkiye'ye özgü bir ulusal çocuk ve aile medya araştırması geliştirilmesi, Common Sense Media'nın metodolojik yaklaşımı referans alınarak gerçekleştirilebilir. YÖK'ün araştırma etiği yönergelerinin, Common Sense Media'nın çocuk katılımcılarla araştırma yaparken uyguladığı etik standartlar düzeyine yükseltilmesi, Türkiye'de çocuklarla yapılan dijital medya araştırmalarının kalitesini ve etik uygunluğunu artıracaktır. Common Sense Media'nın ekolojik sistemler teorisi temelli metodolojik çerçevesinin Türkiye'deki aile medya araştırmalarında kullanılması, Türk ailelerinin dijital medya dinamiklerinin daha bütüncül bir şekilde anlaşılmasını sağlayacaktır. Türkiye'de bu alanda yapılacak boylamsal araştırmalar, aile dijital medya ekolojisindeki değişimlerin zaman içinde izlenmesine olanak tanıyacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

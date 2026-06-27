@@ -32,3 +32,28 @@ This resource addresses critical aspects of children's digital rights and online
 ## Turkey Context
 
 Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son yıllarda önemli bir gündem maddesi haline gelmiştir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin işlenmesi özel bir önem taşımaktadır — özellikle 18 yaş altı bireylerin açık rızasının geçerliliği ve veli izni gerekliliği konuları halen tartışmalıdır. MEB (Milli Eğitim Bakanlığı), 2023-2026 Dijital Dönüşüm Stratejisi kapsamında okullarda dijital okuryazarlık eğitimini zorunlu hale getirmiş, ancak uygulamada bölgesel eşitsizlikler devam etmektedir. Aile ve Sosyal Hizmetler Bakanlığı, çocukların dijital ortamlarda korunmasına yönelik Çocuk Koruma Kanunu'nda değişiklik çalışmalarını sürdürmektedir. BTK (Bilgi Teknolojileri ve İletişim Kurumu), sosyal medya platformlarına yönelik düzenlemeler kapsamında 16 yaş altı kullanıcılar için ebeveyn izni zorunluluğu getirilmesini değerlendirmektedir. TÜİK 2025 Çocuk Araştırması verilerine göre Türkiye'de 6-15 yaş grubundaki çocukların %73'ü düzenli olarak internet kullanmakta, %45'i ise sosyal medya hesabına sahiptir. UNICEF Türkiye'nin hazırladığı 2025 Dijital Çocuk Raporu, Türkiye'de çocukların karşılaştığı çevrimiçi risklerin (siber zorbalık, cinsel istismar içerikleri, mahremiyet ihlalleri) arttığını göstermektedir. Politik öneri olarak: Türkiye'nin kapsamlı bir Çocuk Dijital Güvenlik Yasası çıkarması, yaş doğrulama sistemlerini hayata geçirmesi ve okul müfredatında dijital vatandaşlık eğitimini güçlendirmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

@@ -33,3 +33,11 @@ Gazdas.hu, a Hungarian economic news portal, analyzes the market reaction to the
 ## Turkey Context
 
 Macaristan seçim sonrası piyasa tepkileri, Türkiye'deki ekonomik politika belirsizliklerinin piyasalar üzerindeki etkisi açısından karşılaştırmalı bir örnek sunmaktadır. Türkiye'de de seçim dönemlerinde piyasa dalgalanmaları yaşanmakta, TL kuru ve BIST 100 endeksi siyasi gelişmelere duyarlılık göstermektedir. Macaristan'da iktidar değişikliği sonrası AB fonlarına erişimin artması beklentisi, Türkiye'de de AB ile ilişkilerin ekonomik boyutuna ilişkin tartışmaları gündeme getirmektedir. Türkiye Cumhuriyet Merkez Bankası (TCMB) ve Hazine ve Maliye Bakanlığı, siyasi gelişmelerin piyasalara etkisini yakından izlemektedir. Türkiye'de seçim sonrası dönemde uygulanan ekonomi politikaları, Macaristan'daki yeni hükümetin ekonomi programı ile karşılaştırılmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-gazdas-hu-macar-piacok-valasztas-utan.md|Article from gazdas.hu: macar piacok valasztas uta]]
+- [[raw/articles/2026-06-26_genel-gazdas-hu.md|GENEL - gazdas.hu]]
+- [[raw/articles/2026-06-26_macar-piacok-valasztas-utan.md|Macar Piacok Valasztas Utan]]

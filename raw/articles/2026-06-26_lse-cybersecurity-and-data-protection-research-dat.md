@@ -34,3 +34,20 @@ LSE's institutional cybersecurity and data protection documentation page outline
 ## Turkey Context
 
 LSE'nin siber güvenlik ve veri koruma dokümantasyonu, Türkiye'deki üniversitelerde araştırma verisi güvenliği ve siber güvenlik metodolojisi alanında yürütülen çalışmalar için önemli bir metodolojik referans oluşturmaktadır. TÜBİTAK'ın BİLGEM ve diğer birimleri tarafından yürütülen siber güvenlik araştırmalarında, uluslararası standartlar (ISO 27001) referans alınmaktadır. Türkiye'de bu alanda faaliyet gösteren başlıca akademik merkezler arasında ODTÜ Bilişim Enstitüsü Siber Güvenlik Araştırma Merkezi, İstanbul Teknik Üniversitesi Siber Güvenlik Laboratuvarı, Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümü Siber Güvenlik Araştırma Grubu ve TOBB ETÜ Siber Güvenlik Araştırma ve Uygulama Merkezi sayılabilir. YÖK'ün belirlediği araştırma verisi yönetimi politikaları ve üniversite etik kurullarının veri güvenliği değerlendirme kriterleri, LSE'nin metodolojik çerçevesiyle karşılaştırıldığında henüz yeterli düzeyde değildir. KVKK (6698 sayılı Kanun) kapsamında, araştırma verilerinin güvenliği ve veri ihlali bildirim yükümlülükleri, üniversiteler için önemli uyum gereklilikleri getirmektedir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında siber güvenlik ve veri koruma yer almakla birlikte, akademik araştırma ortamlarına özgü güvenlik metodolojileri konusunda kapsamlı bir ulusal rehber henüz bulunmamaktadır. Türkiye'de üniversitelerin araştırma verisi güvenliği kapasitesinin artırılması için TÜBİTAK, YÖK ve KVKK işbirliğinde LSE metodolojisine benzer ulusal bir araştırma verisi güvenliği çerçevesi ve rehberi geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

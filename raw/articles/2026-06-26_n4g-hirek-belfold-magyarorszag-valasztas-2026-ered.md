@@ -43,3 +43,18 @@ TUIK verilerine gore, Turkiye'de internet kullanimi her gecen yil artmakta ve di
 UNICEF Turkiye, cocuk haklari ve dijital guvenlik konularinda calismalar yurutmektedir. Yerel arastirmalar, Turkiye'nin dijital donusum surecinde karsilastigi firsatlar ve zorluklari ortaya koymaktadir.
 
 Turkiye, Avrupa Birligi uyum sureci ve kuresel dijital donusum baglaminda, uluslararasi politika gelismelerini yakindan takip etmekte ve kendi dijital politikalarini bu cercevede sekillendirmektedir. Dijital Hizmetler Kanunu calismalari ve KVKK uygulamalari, Turkiye'nin dijital alandaki duzenleyici cercevesini guclendirmektedir. Ozellikle sosyal medya platformlarinin duzenlenmesi, cevrimici icerik denetimi ve dijital guvenlik konulari, Turkiye'nin dijital politikasinin temel ayaklarini olusturmaktadir. MEB'in dijital okuryazarlik programlari ve Aile Bakanligi'nin dijital ebeveynlik rehberleri, cocuklarin ve ailelerin dijital ortamda korunmasina yonelik onemli adimlardir. 23 Nisan Ulusal Egemenlik ve Cocuk Bayrami gibi ozel gunler, Turkiye'de cocuk haklarina verilen onemin sembolik gostergeleridir. Turkiye'nin bu alandaki calismalari, uluslararasi standartlarla uyumlu bir sekilde ilerlemekte ve cocuklarin dijital haklarinin korunmasina yonelik onemli katkilar saglamaktadir. Dijital donusumun hizlandigi bu donemde, tum paydaslarin isbirligi icinde calismasi, daha guvenli bir dijital gelecek insa edilmesine yardimci olacaktir. Bu kapsamda, kamu kurumlari, ozel sektor ve sivil toplum kuruluslarinin ortak projeler gelistirmesi ve bilgi paylasiminda bulunmasi onem arz etmektedir. Dijital okuryazarlik egitimi, yas dogrulama sistemleri ve ebeveyn farkindaligi, cocuklarin cevrimici guvenligini saglamada temel bilesenler olarak one cikmaktadir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
+- [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]
+- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-imleri-detayl-se-im-analizi-ve-.md|Macaristan 2026 Seçimleri: Detaylı Seçim Analizi v]]
+- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]

@@ -32,3 +32,21 @@ priority: high
 ## Turkey Context
 
 5Rights Foundation'ın çocuk hakları çerçevesi, Türkiye'de dijital çocuk haklarına ilişkin mevcut düzenlemelerin önemli ölçüde geliştirilmesi gerektiğini ortaya koymaktadır. KVKK, çocukların kişisel verilerinin korunmasında genel bir çerçeve sunmakla birlikte, 5Rights'ın önerdiği gibi çocuk hakları temelli bir yaklaşımı benimsememektedir. MEB'in dijital eğitim politikaları, çocukların dijital hakları konusunda farkındalık yaratmayı amaçlasa da, bu hakların uygulanmasına yönelik somut mekanizmalar içermemektedir. BTK'nın internet düzenlemelerinde çocukların dijital haklarının korunmasına yönelik özel hükümler sınırlıdır. Türkiye'de 15 yaş altı sosyal medya kullanımının yasaklanması tartışmaları, 5Rights'ın yaşa uygun tasarım ve çocuk katılımı ilkeleriyle uyumlu bir şekilde ele alınmalıdır. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk koruma politikaları, 5Rights'ın önerdiği gibi çocukların dijital ortamlardaki haklarını da kapsayacak şekilde genişletilmelidir. TÜİK verileri, çocukların internet kullanımının hızla arttığını göstermektedir; bu durum, 5Rights'ın geliştirdiği gibi kapsamlı bir dijital haklar çerçevesinin Türkiye'de de oluşturulmasını zorunlu kılmaktadır. UNICEF Türkiye'nin çocuk haklarına ilişkin raporları, 5Rights'ın uluslararası çerçevesinin Türkiye'de uygulanmasının önemini vurgulamaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rightsfoundation-org.md|5rightsfoundation.org]]
+- [[raw/articles/2026-06-26_article-from-5rightsfoundation-org-children-digita.md|Article from 5rightsfoundation.org: children digit]]
+- [[raw/articles/2026-06-26_children-digital-rights-framework.md|Children Digital Rights Framework]]
+- [[raw/articles/2026-06-26_children-s-digital-rights-framework-5rights-founda.md|Children's Digital Rights Framework (5Rights Found]]
+- [[raw/articles/5rights-digital-citizenship-2026.md|5Rights Digital Citizenship 2026]]

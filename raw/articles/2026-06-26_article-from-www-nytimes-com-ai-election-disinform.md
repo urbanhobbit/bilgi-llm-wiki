@@ -37,3 +37,21 @@ Türkiye'de dijital dönüşüm araştırmaları ve akademik metodoloji konusund
 KVKK kapsamında kişisel verilerin korunması alanında yapılan akademik çalışmalar, Türkiye'nin Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sürecini değerlendirmektedir. Dijital Hizmetler Kanunu'nun akademik analizi, Türkiye'nin dijital düzenleme yaklaşımını anlamak için kritik öneme sahiptir. Bu akademik çalışmalar, Türkiye'deki politika yapıcılar için kanıta dayalı karar alma süreçlerine katkı sağlamaktadır. Araştırma etiği ve veri gizliliği konuları, Türkiye'de artan dijital araştırma faaliyetleriyle birlikte daha fazla önem kazanmaktadır.
 
 Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılığıyla küresel araştırma ağlarına entegre olmaktadır. Bu bağlamda, çalışmanın metodolojik yaklaşımı ve bulguları, Türkiye'deki benzer araştırmalar için değerli bir referans teşkil etmektedir. Yerel araştırmacıların uluslararası yayınlara katkısı, Türkiye'nin bilimsel üretkenliği açısından önemli bir göstergedir. Boğaziçi Üniversitesi, ODTÜ, İstanbul Üniversitesi ve Sabancı Üniversitesi gibi kurumlar, dijital dönüşüm ve veri bilimi alanlarında öncü araştırmalar yürütmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/new-york-times.md|New York Times]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-html.md|Ai Election Disinformation Study.Html]]
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-new-york-times.md|AI Election Disinformation Study - New York Times]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-teen-social-media.md|Article from www.nytimes.com: teen social media]]
+- [[raw/articles/2026-06-26_genel-nytimes-com.md|GENEL - nytimes.com]]
+- [[raw/articles/2026-06-26_new-york-times-ai-election-disinformation-study-ac.md|New York Times: AI Election Disinformation Study -]]

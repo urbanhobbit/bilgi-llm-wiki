@@ -33,3 +33,14 @@ Bethlehem Tekola, qualitative research ethics scholar, shares a powerful observa
 ## Turkey Context
 
 Türkiye'de akademik araştırma kültürü, duyguların araştırma sürecindeki rolünü genellikle göz ardı etmekte ya da 'nesnellik' adına bastırmaktadır. Özellikle sosyal bilimlerde, özellikle de hassas topluluklarla (göçmenler, mülteciler, dezavantajlı gruplar) yapılan araştırmalarda araştırmacının duygusal deneyimi sistematik olarak dışlanmaktadır. TÜBİTAK ve YÖK'ün etik kurul yönergeleri, araştırma sürecinde duygusal güvenlik ve araştırmacı refahı konusunda sınırlı düzenleme içermektedir. Oysa Türkiye'de mülteci çalışmaları, toplumsal cinsiyet araştırmaları ve şiddet çalışmaları gibi sahalarda araştırmacılar yoğun duygusal yük taşımaktadır. Bu bağlamda, Tekola'nın eleştirisi Türkiye akademisi için de son derece geçerlidir: Duyguları araştırma dışına itmek yerine, bunları metodolojik bir kaynak olarak gören yaklaşımların geliştirilmesi gerekmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

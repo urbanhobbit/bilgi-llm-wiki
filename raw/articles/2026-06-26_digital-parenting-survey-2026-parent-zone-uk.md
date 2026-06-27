@@ -33,3 +33,19 @@ Parent Zone UK tarafından yürütülen Dijital Ebeveynlik Araştırması 2026, 
 ## Turkey Context
 
 Parent Zone UK'nin Dijital Ebeveynlik Araştırması, Türkiye'de benzer kapsamlı bir araştırmanın gerekliliğini ortaya koymaktadır. TÜİK 2024 verileri Türkiye'de hanehalkı internet erişimi ve çocukların internet kullanımına ilişkin temel istatistikler sunmakla birlikte, ebeveynlerin dijital ebeveynlik tutumları, endişeleri ve stratejileri konusunda kapsamlı bir ulusal araştırma bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın Aile Araştırmaları kapsamında dijital ebeveynlik konusuna yer vermesi, kanıta dayalı politika geliştirme açısından önemli olacaktır. MEB'in veli bilgilendirme çalışmaları ve okul-veli işbirliği programları kapsamında, dijital ebeveynlik eğitimlerinin yaygınlaştırılması gerekmektedir. Türkiye'de ebeveynlerin %70'inden fazlasının çocuklarının ekran kullanımını denetlemede zorlandığını belirttiği çeşitli araştırmalarda ortaya konmuştur. KVKK'nın çocuk verilerinin korunmasına ilişkin düzenlemeleri (6698 sayılı Kanun), ebeveynlerin çocuklarının verileri üzerindeki kontrolünü artırmaktadır. Sağlık Bakanlığı'nın çocuk sağlığı ve gelişimi programları kapsamında, dijital ebeveynlik rehberlerinin hazırlanması ve yaygınlaştırılması önerilmektedir. Türkiye'de dijital ebeveynlik konusunda akademik araştırmaların sayısı artsa da, ulusal temsiliyeti olan boylamsal bir araştırma eksikliği hissedilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-parenting-and-social-media-parent-zone.md|Digital Parenting and Social Media - Parent Zone]]
+- [[raw/articles/2026-06-26_digital-parenting-social-media.md|Digital Parenting Social Media]]
+- [[raw/articles/2026-06-26_digital-parenting-survey-2026.md|Digital Parenting Survey 2026]]
+- [[raw/articles/2026-06-26_digital-parenting-survey-2026-parent-zone-research.md|Digital Parenting Survey 2026 - Parent Zone Resear]]

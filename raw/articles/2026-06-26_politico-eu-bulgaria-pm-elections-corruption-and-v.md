@@ -33,3 +33,15 @@ Politico EU reports on Bulgaria's ongoing political crisis as the country heads 
 ## Turkey Context
 
 Bulgaristan'daki seçim süreci ve yolsuzluk sorunları, Türkiye'nin komşusu ve AB üyesi bir ülkedeki siyasi gelişmeler açısından önem taşımaktadır. Bulgaristan'da yaşayan Türk azınlığın siyasi temsili ve Hak ve Özgürlükler Partisi'nin rolü, Türkiye-Bulgaristan ilişkilerinde önemli bir boyuttur. Bulgaristan'daki siyasi istikrarsızlık, Türkiye ile ikili ticaret ve enerji işbirliğini etkilemektedir. AB'nin Bulgaristan'daki hukukun üstünlüğü ve yolsuzlukla mücadele mekanizmaları, Türkiye'nin AB sürecinde de referans alınmaktadır. İki ülke arasındaki ticaret hacmi ve enerji işbirliği, Bulgaristan'daki siyasi istikrardan doğrudan etkilenmektedir. Türkiye-Bulgaristan sınırı, düzensiz göç ve ticaret akışları açısından kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

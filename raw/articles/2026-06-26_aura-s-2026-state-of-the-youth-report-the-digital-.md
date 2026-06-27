@@ -33,3 +33,14 @@ Aura's 2026 State of the Youth Report introduces a groundbreaking Digital Wellbe
 ## Turkey Context
 
 Aura'nın 2026 Gençlik Raporu'nda tanıtılan Dijital Refah Endeksi, Türkiye'deki çocuk ve gençlerin teknoloji kullanımına ilişkin politika tartışmalarına önemli bir katkı sunmaktadır. Raporun temel bulgusu olan 'çocukların telefonlarını nasıl kullandığının, ne kadar süre kullandıklarından daha önemli olduğu' tespiti, Türkiye'deki ekran süresi odaklı tartışmalara yeni bir boyut kazandırmaktadır. Türkiye'de Milli Eğitim Bakanlığı ve Sağlık Bakanlığı'nın çocukların dijital medya kullanımına ilişkin mevcut politikaları genellikle süre sınırlamaları ve yasaklara odaklanmakta, kullanım kalitesi ve bağlamını yeterince dikkate almamaktadır. TÜİK verileri, Türkiye'de 6-15 yaş arası çocukların düzenli internet kullanım oranlarının her yıl arttığını göstermekle birlikte, bu kullanımın niteliği hakkında yeterli veri bulunmamaktadır. Aura raporunda vurgulanan dijital refahı koruyucu faktörler — güçlü çevrimdışı sosyal bağlantılar, teknoloji kullanımı konusunda destekleyici ebeveyn tutumları ve pasif tüketim yerine yaratıcı dijital aktiviteler — Türkiye'deki ailelere ve eğitimcilere somut rehberlik sağlamaktadır. Türkiye'de Aile ve Sosyal Hizmetler Bakanlığı'nın yürüttüğü 'Güvenli İnternet Kullanımı' kampanyaları, bu raporun bulguları ışığında yeniden yapılandırılabilir ve dijital refah odaklı bir yaklaşıma dönüştürülebilir. MEB'in müfredatında yer alan dijital okuryazarlık derslerinin içeriği, ekran süresi yönetiminden dijital refahın çok boyutlu bir şekilde ele alınmasına doğru genişletilmelidir. Ayrıca, Türkiye'de çocukların dijital iyi oluş halini ölçmek için ulusal bir Dijital Refah Endeksi geliştirilmesi, kanıta dayalı politika yapımı açısından değerli bir araç olacaktır. Raporun altını çizdiği gibi, yasaklar ve süre sınırlamaları tek başına yeterli değildir; çocukların teknolojiyle sağlıklı bir ilişki geliştirebilmeleri için nitelikli dijital deneyimlere, yaratıcı platformlara ve destekleyici yetişkin rehberliğine ihtiyaçları vardır. Türkiye'de bu alanda yapılacak akademik araştırmalar ve kamu politikaları, Aura raporunun sunduğu Dijital Refah Endeksi çerçevesinden ilham alarak, çocukların teknoloji kullanımını yasaklar ve süre sınırlamaları yerine dijital refahı merkeze alan bütüncül bir yaklaşımla yeniden ele almalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

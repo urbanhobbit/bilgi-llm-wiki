@@ -32,3 +32,23 @@ London School of Economics bünyesinde faaliyet gösteren Digital Futures for Ch
 ## Turkey Context
 
 Türkiye'de dijital çocuk hakları konusundaki akademik çalışmalar sınırlı olup, LSE DFC merkezi gibi kurumsal yapılanmalar bulunmamaktadır. KVKK kapsamında çocukların özel nitelikli kişisel verileri koruma altına alınmış olsa da, dijital platformlarda çocukların maruz kaldığı risklere ilişkin kapsamlı bir veri koruma rejimi oluşturulamamıştır. BTK'nın internet düzenlemeleri daha çok erişim engelleme ve filtreleme odaklı olup, çocuk hakları temelli bütüncül bir yaklaşım benimsenmemiştir. MEB'in dijital dönüşüm politikaları kapsamında çocukların çevrimiçi güvenliğine ilişkin farkındalık çalışmaları yürütülmekle birlikte, müfredatta dijital haklar eğitimine yeterli yer verilmemektedir. Türkiye'de 2024 yılında TBMM'de görüşülen dijital platform düzenlemeleri, çocuk koruma boyutunu yeterince ele almamıştır. Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Hizmetleri Genel Müdürlüğü, çevrimiçi çocuk istismarıyla mücadele konusunda BTK ve emniyet birimleriyle iş birliği yapmaktadır ancak önleyici mekanizmalar zayıftır. TÜİK verilerine göre 6-15 yaş grubunda internet kullanım oranı %80'in üzerine çıkmış durumdadır ve bu durum çocukların dijital haklarının korunmasını acil bir politika önceliği haline getirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

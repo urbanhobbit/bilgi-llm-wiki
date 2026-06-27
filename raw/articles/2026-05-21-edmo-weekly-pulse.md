@@ -62,3 +62,20 @@ Street crimes, crowd killings and other acts of violence continue to feed false,
 **Major AI Image Detection Tools Mislead Online Users, Often Classifying Authentic Images as Fake** (NewsGuard audit published by IDMO) — Major AI image detection tools frequently misclassify authentic images as fake, undermining trust in digital verification.
 
 *Editorial Director: Paolo Cesarini. Editor-in-Chief: Tommaso Canetta. Editorial Staff: Elena Coden, Paula Gori, Elena Maggi.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/edmo.md|Edmo]]
+- [[entities/nordis.md|NORDIS]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|EDMO Weekly Pulse - March 26, 2026]]
+- [[raw/articles/2026-04-01-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 1, 2026]]
+- [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
+- [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
+- [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]

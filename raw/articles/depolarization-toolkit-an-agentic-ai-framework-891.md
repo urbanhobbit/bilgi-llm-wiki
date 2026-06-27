@@ -34,3 +34,16 @@ Türkiye'de siyasi kutuplaşma, özellikle 2010'lu yıllardan itibaren toplumsal
 - Hedef kitle: kalkınma çalışanları, medya profesyonelleri ve kamu iletişimcileri
 - Eylem planları, risk değerlendirmeleri, simülasyonlar ve dallanan senaryolar üretebiliyor
 - Proje 2026'da devam ediyor ve kamuya açık olarak sunulacak
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-idos-research-de.md|IDOS]]
+- [[entities/www-idos-research-de.md|Www Idos Research De]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_depolarization-toolkit-an-agentic-ai-framework.md|Depolarization Toolkit: An Agentic AI Framework]]

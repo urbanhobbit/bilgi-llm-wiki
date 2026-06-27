@@ -37,3 +37,12 @@ Everything in Moderation platformunda yayımlanan bu analiz, Birleşik Krallık'
 ## Turkey Context
 
 Birleşik Krallığın 16 yaş altı sosyal medya yasağı tartışmaları, Türkiye'deki dijital düzenleme gündemiyle doğrudan ilişkilidir. Türkiye'de 2024'te gündeme gelen 13 yaş altı sosyal medya kullanımının yasaklanması tartışmaları, UK modeline benzer bir yaklaşımı yansıtmıştır. Ancak Türkiye'de bu tartışma, UK'dekinden farklı olarak daha çok aile mahremiyeti ve dini değerlerin korunması ekseninde yürütülmüş, UK'deki gibi çocuk hakları ve platform tasarımı odaklı bir tartışma zemini oluşmamıştır. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) çocukların kişisel verilerinin korunması konusunda genel hükümler içermekle birlikte, UK'in Age-Appropriate Design Code (Çocuk Kodları) gibi yaşa uygun tasarım standartlarını içermemektedir. MEB'in dijital bağımlılıkla mücadele programları ve Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamlarda korunmasına yönelik çalışmaları, UK'in kapsamlı Online Safety Act düzenlemesi karşısında parçalı ve koordinasyonsuz kalmaktadır. Türkiye'de yaş sınırlaması getirilmesi durumunda, UK'deki tartışmalara benzer şekilde uygulanabilirlik sorunları, teknik altyapı eksikliği ve ifade özgürlüğü endişeleri gündeme gelecektir. BTK'nın bu konuda henüz kapsamlı bir politika çerçevesi oluşturmadığı görülmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]

@@ -37,3 +37,21 @@ Türkiye'de dijital dönüşüm araştırmaları ve akademik metodoloji konusund
 KVKK kapsamında kişisel verilerin korunması alanında yapılan akademik çalışmalar, Türkiye'nin Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sürecini değerlendirmektedir. Dijital Hizmetler Kanunu'nun akademik analizi, Türkiye'nin dijital düzenleme yaklaşımını anlamak için kritik öneme sahiptir. Bu akademik çalışmalar, Türkiye'deki politika yapıcılar için kanıta dayalı karar alma süreçlerine katkı sağlamaktadır. Araştırma etiği ve veri gizliliği konuları, Türkiye'de artan dijital araştırma faaliyetleriyle birlikte daha fazla önem kazanmaktadır.
 
 Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılığıyla küresel araştırma ağlarına entegre olmaktadır. Bu bağlamda, çalışmanın metodolojik yaklaşımı ve bulguları, Türkiye'deki benzer araştırmalar için değerli bir referans teşkil etmektedir. Yerel araştırmacıların uluslararası yayınlara katkısı, Türkiye'nin bilimsel üretkenliği açısından önemli bir göstergedir. Boğaziçi Üniversitesi, ODTÜ, İstanbul Üniversitesi ve Sabancı Üniversitesi gibi kurumlar, dijital dönüşüm ve veri bilimi alanlarında öncü araştırmalar yürütmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

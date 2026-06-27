@@ -33,3 +33,18 @@ Whitelist.blog'da yayınlanan bu makale, dünya genelinde çocuk güvenliği dü
 ## Turkey Context
 
 Whitelist.blog'un küresel çocuk güvenliği düzenlemeleri analizi, Türkiye'nin bu alandaki mevzuatının uluslararası standartlarla uyumunu değerlendirmek için önemli bir çerçeve sunmaktadır. Türkiye'de 2024'te yürürlüğe giren Dijital Hizmetler Kanunu, AB'nin DSA'sı ile uyumlu olarak çocuk koruma hükümleri içermekle birlikte, kapsamlı bir çocuk çevrimiçi güvenliği yasası henüz bulunmamaktadır. BTK'nın düzenleyici rolü, sosyal medya platformlarının çocuk kullanıcılara yönelik politikalarını denetleme kapasitesi açısından geliştirilmelidir. 5651 sayılı Kanun kapsamında zararlı içeriklerin kaldırılması ve erişimin engellenmesi mekanizmaları bulunmakla birlikte, bu mekanizmaların çocuk odaklı bir yaklaşımla güncellenmesi gerekmektedir. KVKK (6698 sayılı Kanun), çocukların kişisel verilerinin korunmasında AB GDPR'si ile büyük ölçüde uyumlu olmakla birlikte, çocuklara özgü veri koruma hükümleri (COPPA benzeri) konusunda ek düzenlemelere ihtiyaç duyulmaktadır. MEB'in Dijital Vatandaşlık müfredatı ve Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk hakları stratejisi, çocukların çevrimiçi güvenliğini artırmaya yönelik önemli adımlar olmakla birlikte, bu politikaların koordinasyonu ve etkinliğinin ölçülmesi konusunda kapsamlı bir mekanizma bulunmamaktadır. Türkiye'nin çocuk çevrimiçi güvenliği politikalarının, uluslararası en iyi uygulamalar ve Türkiye'nin sosyo-kültürel bağlamı dikkate alınarak güncellenmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
+- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
+- [[raw/articles/2026-06-26_kurator-whitelist-video.md|KURATOR - whitelist.video]]
+- [[raw/articles/2026-06-26_ma-social-media-ban-for-under-14s-what-parents-nee.md|MA Social Media Ban for Under 14s: What Parents Ne]]

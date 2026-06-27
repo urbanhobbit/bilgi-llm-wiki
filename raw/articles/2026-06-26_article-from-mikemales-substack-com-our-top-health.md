@@ -37,3 +37,17 @@ Türkiye'de dijital dönüşüm araştırmaları ve akademik metodoloji konusund
 KVKK kapsamında kişisel verilerin korunması alanında yapılan akademik çalışmalar, Türkiye'nin Avrupa Birliği Genel Veri Koruma Tüzüğü'ne (GDPR) uyum sürecini değerlendirmektedir. Dijital Hizmetler Kanunu'nun akademik analizi, Türkiye'nin dijital düzenleme yaklaşımını anlamak için kritik öneme sahiptir. Bu akademik çalışmalar, Türkiye'deki politika yapıcılar için kanıta dayalı karar alma süreçlerine katkı sağlamaktadır. Araştırma etiği ve veri gizliliği konuları, Türkiye'de artan dijital araştırma faaliyetleriyle birlikte daha fazla önem kazanmaktadır.
 
 Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılığıyla küresel araştırma ağlarına entegre olmaktadır. Bu bağlamda, çalışmanın metodolojik yaklaşımı ve bulguları, Türkiye'deki benzer araştırmalar için değerli bir referans teşkil etmektedir. Yerel araştırmacıların uluslararası yayınlara katkısı, Türkiye'nin bilimsel üretkenliği açısından önemli bir göstergedir. Boğaziçi Üniversitesi, ODTÜ, İstanbul Üniversitesi ve Sabancı Üniversitesi gibi kurumlar, dijital dönüşüm ve veri bilimi alanlarında öncü araştırmalar yürütmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]
+- [[raw/articles/2026-06-26_mike-males-substack-our-top-health-agency-surveys-.md|Mike Males (Substack): Our Top Health Agency Surve]]
+- [[raw/articles/2026-06-26_mike-males-substack-secondary-analysis-of-us-healt.md|Mike Males Substack: Secondary Analysis of US Heal]]
+- [[raw/articles/2026-06-26_our-top-health-agency-s-surveys-found-what-really-.md|Our top health agency’s surveys found what really ]]
+- [[raw/articles/2026-06-26_our-top-health-agencys-surveys-found.md|Our Top Health Agencys Surveys Found]]

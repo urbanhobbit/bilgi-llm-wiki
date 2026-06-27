@@ -8,6 +8,13 @@ tags:
 timestamp: '2026-05-09T00:00:00Z'
 ---
 
+### Bu Haftanın Öne Çıkanları #### 🔴 Yüksek Öncelikli
+  Gelişmeler **1. ENCODE Projesi: Duygusal Dezenformasyonla Mücadele Kataloğu** ...'
+tags:
+- raw
+timestamp: '2026-05-09T00:00:00Z'
+---
+
 # KURATOR: Çocuklar ve Dijital Dünya - Haftalık Derleme
 ## 2026-05-09
 
@@ -80,3 +87,17 @@ Bu bültende yer alan kaynaklar, hafta boyunca toplanan 5 link arasından KURATO
 **Son Güncelleme:** 2026-05-09  
 **Kurator Skoru:** 3/5 yüksek öncelikli içerik  
 **Sonraki Bülten:** 2026-05-16
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/encode-project.md|ENCODE Project]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]

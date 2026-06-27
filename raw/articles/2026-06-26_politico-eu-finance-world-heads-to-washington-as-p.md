@@ -33,3 +33,16 @@ Politico EU reports on global finance leaders converging on Washington for IMF/W
 ## Turkey Context
 
 IMF/Dünya Bankası toplantıları, Türkiye ekonomisi ve uluslararası finansal pozisyonu açısından kritik öneme sahiptir. Türkiye, son yıllarda uyguladığı ekonomi politikaları ve faiz indirimleri sonrası uluslararası finans kuruluşlarıyla ilişkilerini yeniden şekillendirmektedir. Hazine ve Maliye Bakanı Mehmet Şimşek'in liderliğinde yürütülen ortodoks ekonomi politikalarına dönüş, uluslararası yatırımcı güvenini artırmıştır. Türkiye'nin IMF ile teknik işbirliği devam etmekle birlikte, ülke IMF fonlarına başvurmamıştır. Washington toplantılarında Türkiye'nin ekonomik görünümü ve yatırım fırsatları uluslararası yatırımcılara sunulmaktadır. Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) para politikası tercihleri ve enflasyonla mücadele stratejisi, uluslararası finans çevrelerinde yakından izlenmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ap-1-8-trilyon-avroluk-b-t-e-g-r-melerini-2027-ye-.md|AP 1,8 Trilyon Avroluk Bütçe Görüşmelerini 2027'ye]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
+- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]

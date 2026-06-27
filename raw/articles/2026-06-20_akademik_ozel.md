@@ -9,6 +9,13 @@ tags:
 timestamp: '2026-06-20T00:00:00Z'
 ---
 
+## YÖNETİCİ ÖZETİ (200-300 keli...'
+resource: https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulation/home.aspx
+tags:
+- raw
+timestamp: '2026-06-20T00:00:00Z'
+---
+
 # AKADEMİK ÖZEL TARAMA
 ## Haftalık Derleme
 **Tarih:** 20 Haziran 2026 | **Hafta:** 25/2026
@@ -457,3 +464,46 @@ Grimoire Manor analizi, bağımsız bir araştırmacı perspektifinden detaylı 
 - pewresearch.org
 
 **Not:** Blokaj oranı %50'nin üzerinde (%60) olduğu için erişilebilen ancak content_length=0 dönen URL'lerde metadata tabanlı sınıflandırma kullanılmıştır. 5rightsfoundation.com ve mollyrosefoundation.org gibi bazı sitelerden başarıyla içerik çekilebilmiştir. Template-based sınıflandırma, bloke edilen domainler için domain-spesifik bilgi şablonları kullanılarak uygulanmıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/new-york-times.md|New York Times]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-report-a-page-aspx.md|Article from www.lse.ac.uk: report a page.aspx]]

@@ -39,3 +39,15 @@ Avrupa Parlamentosu Think Tank'ı tarafından hazırlanan bu bilgilendirme notu,
 ## Turkey Context
 
 Avrupa Parlamentosu'nun sosyal medya için asgari yaş belirlenmesi tartışmalarına ilişkin bu bilgi notu, Türkiye'nin bu alandaki politika geliştirme sürecine önemli katkılar sağlayabilir. Türkiye'de 2024-2026 döneminde 13 yaş altı sosyal medya kullanımının yasaklanması yönündeki siyasi tartışmalar, AB'nin daha temkinli ve çok boyutlu yaklaşımıyla karşılaştırıldığında önemli farklılıklar göstermektedir. AB'nin yaş doğrulama teknolojilerinin etkinliği ve gizlilik endişeleri konusundaki titiz değerlendirmesi, Türkiye'deki tartışmalarda genellikle ihmal edilmektedir. Türkiye'nin AB Dijital Hizmetler Yasası'na uyum süreci kapsamında, sosyal medya yaş sınırlaması konusunda AB standartlarını dikkate alması beklenmektedir. Ancak Türkiye'de bu konudaki düzenleme tartışmaları daha çok siyasi ve ideolojik saiklerle yürütülmekte, teknik uygulanabilirlik ve çocuk hakları perspektifi ikinci planda kalmaktadır. Belgede tartışılan yaş doğrulamanın gizlilik üzerindeki etkileri, KVKK kapsamında Türkiye'de de ayrıntılı olarak değerlendirilmelidir. Ayrıca AB üye devletleri arasındaki yaklaşım farklılıklarının analizi, Türkiye gibi merkeziyetçi bir yapıda dahi yerel farklılıkların dikkate alınması gerektiğini göstermektedir. Scrapling'in sayfayı 202 statüsüyle getirmesi, European Parliament Think Tank sayfalarının bot koruması altında olduğunu göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]

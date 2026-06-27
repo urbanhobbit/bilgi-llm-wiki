@@ -34,3 +34,19 @@ The Grimoire Manor Substack analytical piece provides a detailed and critical ex
 ## Turkey Context
 
 Grimoire Manor Substack analizi ve İngiltere'nin önerilen 'Gerçek Hayatta' (In Real Life) çalışmasına yönelik metodolojik eleştirisi, Türkiye'de dijital çocukluk araştırmaları ve politika geliştirme süreçleri için önemli bir metodolojik referans ve uyarı niteliği taşımaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında desteklenen çocuk ve dijital medya konulu araştırma projelerinde, Grimoire Manor analizinde tartışılan metodolojik zorluklar ve kalite kriterleri dikkate alınmalıdır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında Ankara Üniversitesi İletişim Fakültesi, Hacettepe Üniversitesi Çocuk Sağlığı Enstitüsü, İstanbul Üniversitesi İletişim Fakültesi ve Bahçeşehir Üniversitesi Medya ve İletişim Çalışmaları Merkezi sayılabilir. Türkiye'de dijital çocukluk araştırmalarında karşılaşılan metodolojik zorluklar arasında ekran süresi ölçümünün geçerliliği, iyi oluş (well-being) sonuçlarının çok boyutlu tanımlanması ve nedensel ilişkilerin kurulmasındaki güçlükler yer almaktadır. KVKK (6698 sayılı Kanun) kapsamında, çocukların dijital davranışlarına ilişkin verilerin araştırma amaçlı toplanması ve işlenmesi, ebeveyn onamı ve veri minimizasyonu ilkeleri çerçevesinde özel düzenlemelere tabidir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında çocuk ve dijital teknoloji yer almakla birlikte, araştırma metodolojisi kalitesinin artırılmasına yönelik özel bir program bulunmamaktadır. Türkiye'de dijital çocukluk araştırmalarının metodolojik kalitesinin artırılması için TÜBİTAK ve YÖK işbirliğinde araştırma tasarımı, ölçüm ve analiz konularında standartlar ve eğitim programları geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
+- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
+- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
+- [[raw/articles/2026-06-26_the-uk-s-proposed-in-real-life-study-of-social-med.md|The UK's Proposed "In Real Life" Study of Social M]]
+- [[raw/articles/2026-06-26_the-uks-proposed-in-real-life-study.md|The Uks Proposed In Real Life Study]]

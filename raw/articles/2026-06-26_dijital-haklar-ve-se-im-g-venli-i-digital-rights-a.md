@@ -34,3 +34,21 @@ Cumhuriyet newspaper's analysis of the intersection between digital rights and e
 ## Turkey Context
 
 Cumhuriyet'in dijital haklar ve seçim güvenliği analizi, Türkiye'deki dijital dönüşüm ve demokratik katılım arasındaki ilişkiyi ele almaktadır. Türkiye'de seçim dönemlerinde dijital platformların kullanımı, 5651 sayılı İnternet Kanunu ve ilgili yönetmeliklerle düzenlenmektedir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu), seçmen verilerinin işlenmesi ve siyasi partiler tarafından kullanılması konusunda önemli sınırlamalar getirmektedir. 2023 seçimleri, Türkiye'de dijital siyasal iletişimin dönüm noktası olmuş ve sosyal medya platformlarının seçim sonuçları üzerindeki etkisi geniş çapta tartışılmıştır. TÜİK verilerine göre, Türkiye'de aktif sosyal medya kullanıcı sayısı 70 milyonu aşmış durumdadır ve bu da dijital platformları seçim kampanyalarının vazgeçilmez bir aracı haline getirmektedir. AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde, Türkiye'de siyasi reklam şeffaflığı ve hedefleme sınırlamaları konusunda yeni düzenlemeler beklenmektedir. Sivil toplum kuruluşları ve dijital haklar savunucuları, seçim dönemlerinde dijital hakların korunması ve ifade özgürlüğünün güvence altına alınması için çalışmalarını sürdürmektedir. Cumhuriyet gazetesinin analizi, Türkiye'de dijital haklar ve seçim güvenliği arasındaki dengeyi ele alması açısından değerlidir. 2023 cumhurbaşkanlığı seçimleri, Türkiye'de sosyal medya platformlarının siyasal iletişimdeki belirleyici rolünü açıkça ortaya koymuştur. Seçim dönemlerinde sosyal medya platformlarının siyasi reklam politikaları ve şeffaflık raporlaması, BTK'nın denetimine tabidir. KVKK Kurumu, seçim dönemlerinde kişisel verilerin siyasi amaçlı kullanımına ilişkin özel düzenlemeler yapma yetkisine sahiptir. Türkiye'de faaliyet gösteren teyit.org ve doğrulukpayı.com gibi doğrulama platformları, seçim dönemlerinde dezenformasyonla mücadelede önemli bir rol oynamaktadır. Sivil toplum kuruluşları, seçim dönemlerinde dijital hakların izlenmesi ve raporlanması için bağımsız gözlem mekanizmaları kurmaktadır. Türkiye'nin AB DSA ile uyum süreci kapsamında, siyasi reklam şeffaflığı, hedefleme sınırlamaları ve platform sorumluluğu konularında yeni düzenlemeler yapması beklenmektedir. Dijital hakların korunması ve seçim güvenliğinin sağlanması arasındaki denge, Türkiye'nin demokratik geleceği için kritik bir konudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib.md|Article from www.cumhuriyet.com.tr: fenerbahce tri]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d.md|Article from www.cumhuriyet.com.tr: gulistan doku ]]
+- [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-izmir-de-okul-s.md|Article from www.cumhuriyet.com.tr: izmir de okul ]]

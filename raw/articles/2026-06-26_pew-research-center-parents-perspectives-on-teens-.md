@@ -35,3 +35,21 @@ Pew Research Center's comprehensive survey examining parents' perspectives and a
 ## Turkey Context
 
 Pew Araştırma Merkezi'nin ebeveynlerin gençlerin yapay zeka kullanımına ilişkin perspektifleri konulu anket araştırması ve kullandığı olasılık temelli anket metodolojisi, Türkiye'de bu alanda yürütülen akademik çalışmalar için önemli bir metodolojik referans modeli oluşturmaktadır. TÜBİTAK'ın SOBAG ve 1001 programları kapsamında desteklenen yapay zeka okuryazarlığı ve ebeveyn-çocuk teknoloji etkileşimi konulu araştırma projelerinde, Pew'in anket metodolojisi ve ölçekleri referans alınmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında İstanbul Üniversitesi İletişim Fakültesi, Ankara Üniversitesi İletişim Fakültesi, Yıldız Teknik Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü ve Bahçeşehir Üniversitesi Yapay Zeka ve Veri Bilimi Merkezi sayılabilir. Ancak Türkiye'de Pew Araştırma Merkezi'nin kullandığı ölçekte ulusal temsiliyet sağlayan olasılık temelli anket panelleri ve gelişmiş ağırlıklandırma metodolojileri maalesef henüz yaygınlaşmamıştır. KVKK (6698 sayılı Kanun) kapsamında, ebeveynlerin ve gençlerin yapay zeka kullanımına ilişkin hassas verilerinin araştırma amaçlı toplanması, açık rıza ve aydınlatma yükümlülüğü çerçevesinde özel düzenlemelere tabidir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında yapay zeka ve toplum etkileşimi yer almakla birlikte, bu alanda Pew standartlarında ulusal temsiliyet sağlayan anket araştırması altyapısı kurulmasına yönelik henüz somut bir adım atılmamıştır. TÜİK'in hanehalkı bilişim teknolojileri kullanım araştırması, yapay zeka kullanımına ilişkin sınırlı veri sağlamaktadır. Türkiye'de ebeveynlerin gençlerin yapay zeka kullanımına ilişkin güvenilir veri üretilmesi için TÜBİTAK ve TÜİK işbirliğinde Pew metodolojisine benzer ulusal bir araştırma programı başlatılması önerilmektedir. ULAKBİM'in DergiPark ve TR Dizin platformlarında, yapay zeka ve ebeveyn perspektifleri konulu akademik yayınların sayısı artmakla birlikte, kullanılan metodolojilerin Pew standartlarına yükseltilmesi için metodolojik rehberler ve eğitim programları hazırlanması faydalı olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pew-research-center.md|Pew Research Center]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
+- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
+- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]
+- [[raw/articles/2026-06-26_pew-research-parents-on-teens-and-technology.md|Pew Research: Parents on Teens and Technology]]

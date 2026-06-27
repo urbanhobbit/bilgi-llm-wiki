@@ -34,3 +34,22 @@ Common Sense Media's 'Generation AI' research report provides a methodologically
 ## Turkey Context
 
 Common Sense Media'nın 'Generation AI' raporu ve kullandığı karma yöntem araştırma metodolojisi, Türkiye'de çocukların yapay zeka ile etkileşimi konusunda yürütülen akademik çalışmalar için önemli bir metodolojik referans ve model oluşturmaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında desteklenen yapay zeka okuryazarlığı ve çocuk-teknoloji etkileşimi konulu araştırma projelerinde, Common Sense Media'nın geliştirdiği ölçekler ve metodolojik yaklaşımlar referans alınmaktadır. Türkiye'de bu alanda çalışan başlıca akademik merkezler arasında ODTÜ Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü, Boğaziçi Üniversitesi Eğitim Teknolojileri Bölümü, İstanbul Üniversitesi-Cerrahpaşa Adli Tıp ve Adli Bilişim Anabilim Dalı ve Bahçeşehir Üniversitesi Yapay Zeka ve Veri Bilimi Uygulama ve Araştırma Merkezi sayılabilir. KVKK (6698 sayılı Kanun) kapsamında, çocukların yapay zeka sistemleriyle etkileşiminden elde edilen verilerin korunması ve işlenmesi, özellikle profilleme ve otomatik karar verme bağlamında önemli hukuki ve etik sorular gündeme getirmektedir. TÜBİTAK'ın 2024 yılı araştırma öncelikleri arasında yapay zeka ve çocuk yer almakla birlikte, çocuklarla yapay zeka araştırmalarına özgü etik protokoller ve metodolojik standartlar konusunda henüz kapsamlı bir ulusal kılavuz bulunmamaktadır. ULAKBİM'in DergiPark ve TR Dizin platformlarında, çocuk ve yapay zeka konulu akademik yayınların sayısı artmakla birlikte, karma yöntem ve katılımcı tasarım gibi ileri metodolojileri kullanan çalışmalar sınırlıdır. Türkiye'de çocuk-yapay zeka etkileşimi araştırmalarının metodolojik kalitesinin artırılması için TÜBİTAK ve YÖK işbirliğinde ulusal bir araştırma ağı ve etik protokol çerçevesi geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

@@ -40,3 +40,13 @@ SAUFEX tarafından yayımlanan bu kapsamlı rapor, dezenformasyonu ekonomik bir 
 ## Turkey Context
 
 Bu rapor, Türkiye'deki dezenformasyon ekosisteminin anlaşılması için önemli bir analitik çerçeve sunmaktadır. Türkiye'de 7418 sayılı Basın Kanunu değişikliği ve 'dezenformasyonla mücadele' kapsamındaki düzenlemeler, raporun 'Başarısız Çözümler' bölümünde tartışılan sorunlu yaklaşımlarla paralellik göstermektedir. Rapordaki 'Platformların Açık Artırma Evi Olarak İşleyişi' analizi, Türkiye'de sosyal medya platformlarının algoritmik içerik önermelerinin dezenformasyonu nasıl beslediğini anlamak için kullanılabilir. Özellikle gençler arasında TikTok ve X/Twitter'da yayılan dezenformasyonun ekonomik teşviklerle ilişkisi, raporun platform ekonomisi analiziyle açıklanabilir. BTK ve RTÜK'ün düzenleyici yaklaşımları, raporun 'Rulebooks and Tattletales' bölümündeki uyarılarla örtüşmektedir: kuralların varlığı tek başına yeterli değildir, doğru teşvik yapıları oluşturulmalıdır. Rapordaki Transaction Table Framework (TTF) aracı, Türkiye'deki dezenformasyon vakalarının sistematik analizi için uyarlanabilir. MEB müfredatında dijital okuryazarlık ve eleştirel düşünme eğitimlerinin güçlendirilmesi, raporun talep tarafı müdahale önerileriyle uyumludur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

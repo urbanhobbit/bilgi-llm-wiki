@@ -33,3 +33,16 @@ Milliyet reports on election period disinformation and election security measure
 ## Turkey Context
 
 Milliyet'in seçim güvenliği haberciliği, Türkiye'de demokratik süreçlerin korunmasına yönelik kamuoyu farkındalığının artmasına katkı sağlamaktadır. YSK'nın seçim güvenliği tedbirleri ve BTK'nın dijital platform denetimleri, Türkiye'de seçimlerin güvenli bir şekilde yürütülmesi için kritik öneme sahiptir. 2022 yılında kabul edilen 'Basın Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun' ile dezenformasyonla mücadele kapsamında yeni düzenlemeler getirilmiştir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ac-haberi-duyurdu-survivor-sabriye-eng-l-y-kan-l-m.md|Acı haberi duyurdu! Survivor Sabriye Şengül'ü yıka]]
+- [[raw/articles/2026-06-26_aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-.md|Aci Haberi Duyurdu Survivor Sabriye Sengulu Yikan ]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd.md|Article from www.milliyet.com.tr: aci haberi duyur]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-milli-piyango-son.md|Article from www.milliyet.com.tr: milli piyango so]]
+- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-secim-donemi-deze.md|Article from www.milliyet.com.tr: secim donemi dez]]

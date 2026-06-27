@@ -32,3 +32,25 @@ The Guardian gazetesinin 10 Şubat 2026 tarihli haberine göre, Birleşik Krall�
 ## Turkey Context
 
 Birleşik Krallık'ın çevrimiçi çocuk koruma yasası, Türkiye'deki benzer düzenleme çalışmaları için önemli bir referans model oluşturmaktadır. Türkiye'de KVKK kapsamında çocukların kişisel verilerinin korunmasına yönelik düzenlemeler bulunsa da, Birleşik Krallık'taki kadar kapsamlı bir çevrimiçi güvenlik yasası mevcut değildir. BTK'nın internet düzenlemeleri daha çok içerik denetimi ve erişim engelleme odaklı olup, çocuk hakları temelli bir yaklaşım benimsenmemiştir. MEB'in dijital eğitim politikaları kapsamında çocukların çevrimiçi güvenliği konusunda farkındalık çalışmaları yürütülse de, bu çalışmalar yasal düzenlemelerle desteklenmemektedir. Türkiye'de 2024-2025 yıllarında 15 yaş altı sosyal medya kullanımının yasaklanmasına yönelik tartışmalar yoğunlaşmış, ancak henüz yasal bir düzenleme yapılmamıştır. TÜİK'in 2024 Çocuk İstatistikleri Raporu'na göre 6-15 yaş grubundaki çocukların %82'si düzenli olarak internet kullanmakta, %65'i ise sosyal medya platformlarında aktif yer almaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın çevrimiçi çocuk istismarıyla mücadele politikaları, Guardian'da ele alınan kapsamlı düzenleyici yaklaşımın Türkiye'de de benimsenmesi gerektiğini göstermektedir. UNICEF Türkiye, çocukların çevrimiçi ortamlarda korunması için ulusal bir eylem planı oluşturulması çağrısında bulunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/guardian.md|Guardian]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/www-theguardian-com.md|Www Theguardian Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-13_cocuk_dijital.md|Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-03-17_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abu.md|Ai Generated Child Sexual Abu]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-content-on-the-ris.md|AI-Generated Child Sexual Abuse Content on the Ris]]
+- [[raw/articles/2026-06-26_ai-generated-child-sexual-abuse-imagery-growing-on.md|AI-Generated Child Sexual Abuse Imagery: Growing O]]

@@ -35,3 +35,15 @@ Türkiye'de güncel gelişmeler bağlamında değerlendirildiğinde, küresel tr
 Sivil toplum kuruluşları ve düşünce kuruluşlarının raporları, politika yapıcılar için alternatif perspektifler sağlamaktadır. Türkiye'nin çok yönlü dış politikası ve bölgesel işbirlikleri, küresel gelişmelerin Türkiye'ye etkisini şekillendiren önemli faktörlerdir. Türkiye'nin Avrupa Birliği ile ilişkileri, NATO üyeliği ve bölgesel işbirlikleri, konunun uluslararası boyutunu anlamak için önemli çerçeveler sunmaktadır. Yerel medya ve akademik yayınlar aracılığıyla konunun Türkiye'deki yansımaları düzenli olarak izlenmektedir.
 
 Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikaları ve Hazine ve Maliye Bakanlığı'nın teşvik programları aracılığıyla yönetilmektedir. Türkiye'nin ihracat odaklı büyüme stratejisi ve lojistik avantajları, küresel tedarik zincirlerindeki değişimlerden etkilenmektedir. Savunma sanayiinde yerli üretim hamlesi ve teknoloji girişimciliği ekosistemi, Türkiye'nin dijital dönüşüm potansiyelini göstermektedir. Bu bağlamda, ilgili gelişmelerin Türkiye'deki yansımaları ve politika çıkarımları kamuoyu ve karar alıcılar için önem taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
+- [[raw/articles/2026-06-26_eu-digital-strategy-digital-services-act-package.md|EU Digital Strategy: Digital Services Act Package]]
+- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
+- [[raw/articles/2026-06-26_the-digital-services-act-shaping-europe-s-digital-.md|The Digital Services Act | Shaping Europe’s digita]]
+- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

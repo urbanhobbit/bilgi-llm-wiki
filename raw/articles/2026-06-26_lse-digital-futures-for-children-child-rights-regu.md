@@ -34,3 +34,22 @@ The London School of Economics and Political Science (LSE) Digital Futures for C
 ## Turkey Context
 
 LSE Digital Futures for Children araştırma merkezinin çocuk hakları düzenlemesi etkinliği, Türkiye'de çocuk dijital hakları araştırmaları için önemli bir akademik referans noktasıdır. YÖK'ün 2023 yılında yayımladığı 'Çocuk Hakları ve Dijital Dünya' raporu, Türkiye'deki üniversitelerin bu alandaki araştırma kapasitesini artırma hedefini belirlemiş, ancak LSE'nin kullandığı disiplinlerarası metodolojik çeşitliliğe (hukuk, sosyoloji, psikoloji, medya çalışmaları, bilgisayar bilimi) sahip araştırma merkezleri Türkiye'de sınırlıdır. TÜBİTAK'ın desteklediği çocuk ve dijital teknolojiler araştırmaları, LSE Digital Futures for Children'ın kullandığı katılımcı araştırma yaklaşımları (çocukların seslerini merkeze alan yöntemler) konusunda henüz yeterli düzeyde değildir. Türkiye'de İstanbul Bilgi Üniversitesi Çocuk Çalışmaları Birimi (ÇOÇA), Ankara Üniversitesi Çocuk Kültürü Araştırma ve Uygulama Merkezi (ÇOKAUM) ve Hacettepe Üniversitesi Çocuk ve Gençlik Araştırmaları Uygulama ve Araştırma Merkezi, çocuk araştırmaları konusunda çalışmalar yürütmekle birlikte, bu merkezlerin dijital haklar odaklı çalışmaları LSE seviyesinde henüz yeterli değildir. KVKK'nın 2024 yılında yayımladığı 'Çocukların Kişisel Verilerinin Korunması' rehberi, çocuk hakları temelli bir yaklaşım benimsemiş olmakla birlikte, bu rehberin akademik araştırma metodolojilerine entegrasyonu konusunda LSE Digital Futures for Children'ın çalışmaları önemli bir model oluşturmaktadır. Türkiye'de çocuk katılımlı araştırma yöntemlerinin yaygınlaştırılması için etik kurul süreçlerinin çocuk hakları temelli olarak yeniden yapılandırılması, YÖK'ün 2025 yılı hedefleri arasında yer almaktadır. Türkiye'de çocuk dijital hakları araştırmalarında LSE Digital Futures for Children'ın katılımcı araştırma yaklaşımının benimsenmesi, çocukların seslerini merkeze alan araştırmaların sayısını ve kalitesini artıracaktır. YÖK'ün 2025 yılı hedefleri arasında yer alan çocuk katılımlı araştırma yöntemlerinin yaygınlaştırılması için etik kurul süreçlerinin yeniden yapılandırılması, LSE modelinin Türkiye'ye uyarlanmasıyla gerçekleştirilebilir. TÜBİTAK'ın desteklediği çocuk ve dijital teknolojiler araştırmalarında, LSE'nin kullandığı disiplinlerarası metodolojik çeşitliliğin teşvik edilmesi, bu alandaki araştırma kalitesini uluslararası standartlara yükseltecektir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
+- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
+- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

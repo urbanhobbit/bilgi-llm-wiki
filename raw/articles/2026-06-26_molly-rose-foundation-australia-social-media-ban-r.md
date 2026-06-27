@@ -34,3 +34,21 @@ This Molly Rose Foundation research briefing provides a rigorous academic analys
 ## Turkey Context
 
 Molly Rose Foundation'ın Avustralya sosyal medya yasağı araştırma brifingi, Türkiye'de benzer politika tartışmaları için önemli bir metodolojik çerçeve sunmaktadır. Türkiye'de 2025 yılında gündeme gelen 16 yaş altına sosyal medya yasağı tartışmaları, Avustralya modelini referans almış ancak bu konuda kapsamlı bir akademik etki değerlendirmesi yapılmamıştır. TÜBİTAK'ın desteklediği sosyal medya ve gençlik araştırmalarında, Avustralya benzeri yasakların etkililik analizi konusunda henüz sistematik bir araştırma programı bulunmamaktadır. Türkiye'deki üniversitelerde Bahçeşehir Üniversitesi İletişim Fakültesi, İstanbul Üniversitesi İletişim Fakültesi ve Ankara Üniversitesi İletişim Araştırmaları Merkezi, sosyal medya düzenlemeleri konusunda akademik çalışmalar yürütmekle birlikte, bu çalışmaların politika yapıcılarla etkileşimi sınırlıdır. KVKK kapsamında, çocukların sosyal medya kullanımının düzenlenmesi, kişisel verilerin korunması ile çocuk hakları arasındaki dengeyi ilgilendiren önemli bir metodolojik tartışma alanıdır. Bilgi Teknolojileri ve İletişim Kurumu (BTK) tarafından 2024 yılında başlatılan yaş doğrulama sistemi çalışmaları, Avustralya modelinin Türkiye'ye uyarlanması açısından önemli olmakla birlikte, bu sistemin etkililiği konusunda bağımsız akademik araştırma bulunmamaktadır. YÖK'ün 2024 yılı verilerine göre, Türkiye'de sosyal medya ve gençlik konusunda yılda ortalama 50'den fazla lisansüstü tez tamamlanmakta, ancak bu tezlerin politika etkisi değerlendirilmemektedir. Türkiye'de sosyal medya yasakları konusunda yapılan akademik çalışmalar genellikle hukuki boyuta odaklanmakta, Molly Rose Foundation'ın kullandığı çok disiplinli metodolojik yaklaşım (halk sağlığı + gelişim psikolojisi + dijital sosyoloji) nadiren benimsenmektedir. TÜBİTAK'ın 2025 yılında başlatmayı planladığı Dijital Gençlik Araştırma Programı kapsamında, Avustralya modelinin Türkiye'ye uyarlanabilirliğinin değerlendirilmesi için Molly Rose Foundation'ın metodolojik çerçevesinin kullanılması, politika yapıcılara sağlam bir kanıt temeli sunacaktır. Türkiye'de yaş doğrulama teknolojilerinin etkililiği konusunda bağımsız akademik araştırma yapılması, bu alandaki politika tartışmalarının daha sağlıklı bir zeminde yürütülmesini sağlayacaktır. Molly Rose Foundation'ın kullandığı eşitlik odaklı analiz çerçevesinin Türkiye bağlamında uygulanması, sosyal medya düzenlemelerinin dezavantajlı gruplar üzerindeki etkilerinin daha iyi anlaşılmasını sağlayacaktır. Türkiye'de bu alanda politika yapıcılar ve akademisyenler arasında diyaloğun artırılması, kanıta dayalı düzenleme süreçlerinin güçlendirilmesine katkıda bulunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]
+- [[raw/articles/2026-06-26_australia-social-media-ban-research-briefing-molly.md|Australia Social Media Ban Research Briefing - Mol]]
+- [[raw/articles/2026-06-26_kurator-mollyrosefoundation-org.md|KURATOR - mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_mollyrosefoundation-org.md|mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_mrf-australia-social-media-ban-research-b.md|Mrf Australia Social Media Ban Research B]]

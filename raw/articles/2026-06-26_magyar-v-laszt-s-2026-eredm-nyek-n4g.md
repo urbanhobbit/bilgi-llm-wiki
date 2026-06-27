@@ -33,3 +33,17 @@ Hungarian election results coverage from N4G provides detailed official election
 ## Turkey Context
 
 Macaristan seçim sonuçları ve TISZA'nın ezici zaferi, Türkiye-Macaristan ilişkilerinin geleceği açısından kritik bir dönüşüm noktasını işaret etmektedir. Viktor Orbán iktidarı boyunca Türkiye ile Macaristan arasındaki diplomatik, ekonomik ve kültürel bağlar önemli ölçüde güçlenmiş, iki ülke arasındaki ticaret hacmi 2010'dan bu yana üç kat artarak 4 milyar doları aşmıştır. Orbán, AB-Türkiye ilişkilerinde Ankara'nın en güçlü savunucularından biri olmuş, özellikle 18 Mart 2016 Göç Anlaşması'nın uygulanması ve Türkiye'nin AB üyelik sürecinin canlı tutulması konularında belirleyici bir rol oynamıştır. Yeni hükümetin dış politika öncelikleri, AB genişlemesi, göç politikaları ve enerji güvenliği konularında Türkiye'nin çıkarlarını doğrudan etkileyebilecektir. Péter Magyar liderliğindeki TISZA hükümetinin AB normlarına dönüş vaadi, Türkiye'nin AB'ye uyum sürecinde referans alabileceği bir reform modeli sunabilir. Macaristan seçim sürecinde dezenformasyonla mücadele konusunda edinilen deneyimler, Türkiye'deki ilgili kurumlar için önemli dersler içermektedir. Türkiye'de seçim dönemlerinde Bilgi Teknolojileri ve İletişim Kurumu (BTK) koordinasyonunda, 5651 sayılı İnternet Yasası kapsamında sosyal medya platformlarında yalan haber ve manipülatif içeriklerin tespit ve kaldırılması için çalışmalar yürütülmektedir. Ayrıca Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca, siyasi partiler ve kampanya ekiplerinin seçmen verilerini işleme esasları denetlenmektedir. Milli Eğitim Bakanlığı (MEB), müfredata entegre ettiği medya okuryazarlığı ve dijital vatandaşlık dersleriyle öğrencilerin manipülatif içeriklere karşı dirençli hale gelmesini hedeflemektedir. Macaristan'daki seçim deneyiminin bir diğer önemli boyutu, seçim güvenliği ve oy verme süreçlerinin şeffaflığıdır. Türkiye'de Yüksek Seçim Kurulu (YSK) ve ilgili kurumlar, seçim güvenliğini sağlamak amacıyla çeşitli teknolojik altyapılar kullanmakta ve uluslararası gözlemcilerin katılımına açık bir süreç yürütmektedir. Macaristan'daki siyasi dönüşümün Türkiye'nin bölgesel politikalarına yansımaları da önemlidir. Özellikle enerji işbirliği ve Türk Devletleri Teşkilatı ile ilişkiler bağlamında, yeni Macaristan hükümetinin Macaristan'ın Gözlemci Üye statüsüne yaklaşımı merak konusudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
+- [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]
+- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
+- [[raw/articles/2026-06-26_macaristan-2026-se-imleri-detayl-se-im-analizi-ve-.md|Macaristan 2026 Seçimleri: Detaylı Seçim Analizi v]]
+- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]

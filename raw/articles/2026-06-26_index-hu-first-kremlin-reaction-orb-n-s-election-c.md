@@ -33,3 +33,15 @@ Index.hu, a major Hungarian news portal, reports on the Kremlin's first reaction
 ## Turkey Context
 
 Kremlin'in Macaristan seçimlerine tepkisi, Türkiye-Rusya ilişkileri açısından da önemli sinyaller taşımaktadır. Rusya'nın Avrupa ülkelerindeki siyasi değişimlere verdiği tepkiler, Türkiye'nin Rusya ile ilişkilerinde dikkate alınmaktadır. Türkiye, Ukrayna savaşı bağlamında Rusya ile dengeli bir ilişki yürütürken, NATO müttefiki olarak ittifak yükümlülüklerini de yerine getirmektedir. Macaristan'da Rusya yanlısı bir hükümetin seçim kaybetmesi, Türkiye'nin Rusya ile ilişkilerinde izlediği denge politikası açısından bir referans noktası oluşturmaktadır. Dışişleri Bakanlığı, Macaristan'daki siyasi değişimin bölgesel dinamiklere etkisini analiz etmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
+- [[raw/articles/2026-06-26_genel-index-hu.md|GENEL - index.hu]]
+- [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]
+- [[raw/articles/2026-06-26_index-hu-belfold-2026-valasztas-2026-orszaggyu.md|Index.hu - belfold 2026 valasztas 2026 orszaggyu]]
+- [[raw/articles/2026-06-26_izraelben-is-reagaltak-a-tisza-part-gyozelmere.md|Izraelben Is Reagaltak A Tisza Part Gyozelmere]]

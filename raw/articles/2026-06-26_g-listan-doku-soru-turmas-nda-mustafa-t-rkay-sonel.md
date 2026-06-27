@@ -33,3 +33,21 @@ priority: normal
 ## Turkey Context
 
 Gülistan Doku soruşturması, Türkiye'de adalet ve sağlık sistemlerinin kesişim noktasında önemli bir dava olarak kamuoyunun gündeminde yer almaktadır. KVKK (Kişisel Verileri Koruma Kurumu), hastane kayıtlarının silindiği iddiaları kapsamında hasta verilerinin korunması konusunda soruşturma başlatmıştır. 6698 sayılı Kanun, sağlık verilerini özel nitelikli kişisel veri olarak sınıflandırmakta ve bunların korunması için ek güvenceler sağlamaktadır. Sağlık Bakanlığı, hastane kayıtlarının silindiği iddialarına ilişkin idari soruşturma açmış ve kayıtların mevzuata uygun şekilde arşivlendiğini açıklamıştır. MEB (Milli Eğitim Bakanlığı), bu tür davaların okullarda hukuk ve etik eğitimi kapsamında öğrencilere aktarılması için müfredat düzenlemesi yapmıştır. BTK (Bilgi Teknolojileri ve İletişim Kurumu), dava süreciyle ilgili sosyal medyada yayılan yanlış bilgilerle mücadele etmekte, dezenformasyonla mücadele kapsamında gerekli tedbirleri almaktadır. Aile ve Sosyal Hizmetler Bakanlığı, adli süreçlerde çocukların üstün yararının gözetilmesi için adli görüşmeci desteği sağlamakta ve mağdur çocuklara psikososyal destek sunmaktadır. TÜİK verileri, Türkiye'de adli süreçlerin uzunluğu ve mağdur hakları konusunda kamuoyunda artan farkındalığı göstermektedir. UNICEF Türkiye, çocuk adalet sisteminin güçlendirilmesi ve çocuk mağdurların korunması için Adalet Bakanlığı ile iş birliği yürütmektedir. Dava sürecinin şeffaf bir şekilde yürütülmesi ve tüm iddiaların aydınlatılması, toplumun adalete olan güveni açısından kritik önem taşımaktadır. Türkiye bağlamında değerlendirildiğinde, KVKK kapsamında kişisel verilerin korunması ve BTK düzenlemeleri kapsamında dijital güvenlik konuları ön plana çıkmaktadır. MEB ve Aile Bakanlığı'nın bu alandaki çalışmaları da dikkate alınmalıdır. Türkiye açısından değerlendirildiğinde, bu konu KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında önemli yansımalara sahiptir. Ayrıca Dijital Hizmetler Kanunu çerçevesinde getirilen düzenlemeler, Türkiye'nin AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde önemli bir adımı temsil etmektedir. Milli Eğitim Bakanlığı (MEB), dijital okuryazarlık ve çevrimiçi güvenlik konularında müfredat geliştirme çalışmalarını sürdürmekte, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ise internet kullanımına ilişkin düzenlemeler ve denetimler yapmaktadır. Aile ve Sosyal Hizmetler Bakanlığı, çocukların ve ailelerin dijital ortamlarda korunmasına yönelik politikalar geliştirmektedir. Sağlık Bakanlığı, dijital bağımlılık ve ekran süresinin sağlık üzerindeki etkileri konusunda çalışmalar yürütmektedir. TÜİK verilerine göre Türkiye'de internet kullanım oranları her geçen yıl artmakta olup, hanelerin yaklaşık yüzde 95'inde internet erişimi bulunmaktadır. UNICEF Türkiye de çocukların dijital hakları konusunda çeşitli projeler yürütmekte ve politika önerileri sunmaktadır. Bu çalışmaların etkinliği, ilgili kurumlar arası koordinasyonun güçlendirilmesi ve uluslararası iyi uygulamaların Türkiye bağlamına uyarlanmasıyla artırılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

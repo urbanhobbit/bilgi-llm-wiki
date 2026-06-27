@@ -34,3 +34,20 @@ This UK House of Commons Library research briefing (CBP-10468) provides a compre
 ## Turkey Context
 
 Birleşik Krallık Avam Kamarası Kütüphanesi'nin araştırma brifingi, Türkiye'deki yasama süreçlerinde kanıta dayalı politika araştırması metodolojisinin geliştirilmesi için önemli bir model sunmaktadır. Türkiye Büyük Millet Meclisi (TBMM) Araştırma Merkezi, benzer brifingler hazırlamakla birlikte, kullanılan metodolojilerin sistematik derleme ilkelerine uyumu konusunda UK Commons Library standartlarının gerisinde kalmaktadır. TÜBİTAK'ın desteklediği politika araştırmalarında, kanıta dayalı karar alma metodolojilerinin yaygınlaştırılması için 2023 yılında başlatılan Kamu Politikaları Araştırma Destek Programı, bu alandaki akademik kapasiteyi artırmayı hedeflemektedir. Türkiye'deki üniversitelerde İstanbul Politikalar Merkezi (İPM), TEPAV ve EDAM gibi düşünce kuruluşları, politika araştırmaları konusunda çalışmalar yürütmekle birlikte, kullanılan metodolojilerin sistematik derleme standartlarına uyumu konusunda henüz UK Commons Library seviyesinde bir yaklaşım benimsenmemiştir. TBMM'nin yasama süreçlerinde akademik araştırmaların kullanımı, 2020 yılında kurulan Dijital Mecralar Komisyonu gibi yapılar aracılığıyla artmakla birlikte, bu süreçlerde kullanılan araştırma metodolojilerinin şeffaflığı ve sistematikliği konusunda standartlaşma bulunmamaktadır. YÖK'ün 2023 yılında yayımladığı 'Araştırma Odaklı Misyon Farklılaşması' programı kapsamında, politika araştırmalarının metodolojik kapasitesinin artırılması bir hedef olarak belirlenmiş, ancak bu alanda somut ilerleme sınırlı kalmıştır. TBMM Araştırma Merkezi'nin UK Commons Library benzeri sistematik derleme metodolojisi geliştirmesi, yasama süreçlerinin kanıt temelini güçlendirecektir. Türkiye'de yasama süreçlerine akademik girdi sağlanması konusunda TBMM bünyesinde 2018 yılında kurulan Dijital Mecralar Komisyonu ve benzeri yapılar, akademik araştırmaların politika yapımında kullanımını artırmakla birlikte, bu süreçlerde kullanılan araştırma metodolojilerinin şeffaflığı konusunda standartlaşma sağlanamamıştır. TÜBİTAK'ın Kamu Politikaları Araştırma Destek Programı kapsamında desteklenen projelerin, UK Commons Library metodolojisini referans alarak raporlama yapması teşvik edilmeli, bu sayede Türkiye'de kanıta dayalı politika yapımının metodolojik kalitesi artırılmalıdır. TBMM bünyesinde faaliyet gösteren Araştırma Merkezi'nin personel kapasitesi ve metodolojik altyapısının güçlendirilmesi, UK Commons Library standartlarında araştırma brifingleri üretilmesini mümkün kılacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
+- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
+- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468.md|UK Parliament Research Briefing CBP-10468]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

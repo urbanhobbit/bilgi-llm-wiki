@@ -34,3 +34,13 @@ Harvard Kennedy School Misinformation Review'de yayımlanan bu saha çalışmas�
 ## Turkey Context
 
 Harvard öncülüğündeki bu saha çalışması Türkiye'de dezenformasyonla mücadele politikaları için önemli bilgiler sunmaktadır. İletişim Başkanlığı ve BTK'nın dezenformasyonla mücadele çalışmaları prebunking gibi önleyici stratejileri de kapsamalıdır. MEB'in medya okuryazarlığı dersleri prebunking yaklaşımıyla uyumludur. 5651 sayılı Kanun kapsamında sosyal medya platformlarının dezenformasyonla mücadele yükümlülükleri bulunmaktadır. Türkiye'de medya okuryazarlığı eğitiminin güçlendirilmesi ve prebunking gibi kanıta dayalı yöntemlerin yaygınlaştırılması önem taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]

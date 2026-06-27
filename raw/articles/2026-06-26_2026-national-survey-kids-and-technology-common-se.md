@@ -34,3 +34,25 @@ Common Sense Media's 2026 National Survey on Kids and Technology provides compre
 ## Turkey Context
 
 Common Sense Media'nın ulusal anketi, Türkiye'de çocukların teknoloji kullanımına ilişkin veri toplama çalışmaları için önemli bir metodolojik referans oluşturmaktadır. TÜİK'in 2025 'Hanehalkı Bilişim Teknolojileri Kullanım Araştırması', Türkiye'de 6-15 yaş grubundaki çocukların %73'ünün düzenli olarak internet kullandığını göstermektedir. Ancak Türkiye'de çocukların dijital davranışlarına ilişkin kapsamlı boylamsal veri eksikliği bulunmaktadır. ULAKBİM'in 'Çocuk ve Ergenlerde Dijital Davranışlar' projesi (2025), 1.200 ergen üzerinde yapılan bir çalışmayla bu boşluğu doldurmayı hedeflemektedir. Sağlık Bakanlığı'nın 'Ergen Ruh Sağlığı Stratejisi' (2024-2028), çocukların ekran süresi ve dijital medya kullanımının ruh sağlığı üzerindeki etkilerini izlemeyi öngörmektedir. UNICEF Türkiye'nin Çocuk Barometresi raporları, çocukların dijital deneyimlerine ilişkin sınırlı veri sunmaktadır. Türkiye'de Common Sense Media benzeri bağımsız, kapsamlı ve sürekli bir çocuk-dijital araştırma kuruluşunun eksikliği hissedilmektedir. Bu boşluğun doldurulması için TÜBİTAK, MEB ve sivil toplum kuruluşlarının işbirliğiyle ulusal bir çocuk ve dijital teknoloji izleme platformu kurulması önerilmektedir. TÜİK'in 2025 Hanehalkı Bilişim Teknolojileri Kullanım Araştırması verilerine göre, Türkiye'de 6-15 yaş grubu çocukların internet kullanım oranı bir önceki yıla göre %5 artış göstermiştir. ULAKBİM'in 2025 yılında tamamladığı 'Çocuk ve Ergenlerde Dijital Davranışlar' projesi, Türkiye'de 1.200 ergen üzerinde yapılan boylamsal bir çalışmayla çocukların dijital alışkanlıklarını analiz etmiştir. Proje bulguları, Türkiye'de ergenlerin %67'sinin günde 3 saatten fazla sosyal medya kullandığını ve dijital bağımlılık riski taşıdığını göstermektedir. Sağlık Bakanlığı Ruh Sağlığı Dairesi'nin 2024-2028 stratejik planı, çocuk ve ergenlerde dijital bağımlılığın önlenmesine yönelik erken müdahale programlarını içermektedir. Yeşilay'ın 'Dijital Bağımlılıkla Mücadele' programı ve Türkiye Bağımlılıkla Mücadele Eğitim (TBM) programı, okullarda dijital bağımlılık farkındalığı oluşturmayı hedeflemektedir. Türkiye'de Common Sense Media benzeri kapsamlı ve sürekli bir çocuk-dijital araştırma kuruluşunun eksikliği, veri temelli politika geliştirmeyi zorlaştırmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]
+- [[raw/articles/2026-06-26_2026-national-survey-on-kids-and-technology-common.md|2026 National Survey on Kids and Technology — Comm]]

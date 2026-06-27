@@ -35,3 +35,23 @@ Common Sense Media's 2026 National Survey on Kids and Technology employs sophist
 ## Turkey Context
 
 Common Sense Media'nın 2026 Ulusal Çocuk ve Teknoloji Anketi ve kullandığı gelişmiş anket metodolojisi, Türkiye'de çocukların dijital teknoloji kullanımı konusunda yürütülen akademik çalışmalar için önemli bir metodolojik referans modeli oluşturmaktadır. TÜBİTAK'ın SOBAG grubu tarafından desteklenen çocuk ve dijital medya konulu araştırma projelerinde, Common Sense Media'nın ölçekleri ve metodolojik yaklaşımları sıklıkla referans alınmaktadır. Türkiye'de bu alanda önde gelen araştırma merkezleri arasında İstanbul Üniversitesi İletişim Fakültesi Dijital Medya Araştırmaları Merkezi, Ankara Üniversitesi İletişim Araştırmaları Merkezi, Marmara Üniversitesi Medya ve Dijital Çalışmalar Merkezi ve Üsküdar Üniversitesi Dijital Medya ve Çocuk Araştırmaları Merkezi sayılabilir. Ancak Türkiye'de yürütülen araştırmalarda Common Sense Media'nın kullandığı ölçekte ulusal temsiliyet sağlayan olasılık temelli örnekleme, boylamsal tasarım ve gelişmiş istatistiksel modelleme henüz yaygınlaşmamıştır. KVKK kapsamında, çocukların teknoloji kullanım alışkanlıklarına ilişkin verilerin araştırma amaçlı toplanması, ebeveyn onamı ve veri minimizasyonu ilkeleri çerçevesinde özel düzenlemelere tabidir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında çocuk ve dijital teknoloji yer almakla birlikte, bu alanda ulusal temsiliyet sağlayan büyük ölçekli bir araştırma paneli kurulmasına yönelik henüz somut bir adım atılmamıştır. Türkiye'de çocukların teknoloji kullanımına ilişkin güvenilir ve karşılaştırılabilir veri üretilmesi için TÜBİTAK ve TÜİK işbirliğinde Common Sense Media metodolojisine benzer ulusal bir araştırma programı başlatılması önerilmektedir. ULAKBİM'in DergiPark ve TR Dizin platformlarında, çocuk ve teknoloji konulu akademik yayınların metodolojik kalitesinin artırılması için uluslararası standartlarda metodolojik rehberler hazırlanması faydalı olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-11_cocuk_dijital.md|2026 04 11 Cocuk Dijital]]
+- [[raw/articles/2026-06-13_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-20_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-and-technology-common-se.md|2026 National Survey: Kids and Technology (Common ]]
+- [[raw/articles/2026-06-26_2026-national-survey-kids-technology.md|2026 National Survey Kids Technology]]

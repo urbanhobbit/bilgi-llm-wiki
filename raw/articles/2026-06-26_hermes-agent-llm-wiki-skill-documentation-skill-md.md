@@ -33,3 +33,12 @@ Bu belge, Hermes Agent projesinin LLM Wiki (Karpathy's LLM Wiki) becerisinin SKI
 ## Turkey Context
 
 Karpathy'nin LLM Wiki deseni, Türkiye'de akademik araştırma ve bilgi yönetimi için yenilikçi bir yaklaşım sunmaktadır. Türkiye'de üniversitelerde ve araştırma merkezlerinde bilgi yönetimi genellikle geleneksel not alma ve dosyalama sistemlerine dayanmaktadır. Bu wiki yaklaşımı, araştırmacıların birikimli bilgi tabanı oluşturmasına, kaynaklar arasında bağlantılar kurmasına ve bilgiyi yeniden keşfetme zahmetinden kurtulmasına olanak tanımaktadır. TÜBİTAK'ın açık bilim politikaları ve araştırma verisi yönetimi çağrıları kapsamında, LLM Wiki benzeri yapılandırılmış bilgi tabanlarının kullanımı teşvik edilebilir. YÖK'ün dijital dönüşüm hedefleri doğrultusunda, üniversitelerde araştırma bilgi sistemlerinin geliştirilmesi önem kazanmaktadır. Obsidian tabanlı bu sistemin Türkçe dil desteği ve Türkiye'deki araştırmacılar tarafından benimsenmesi, yerelleştirme çalışmaları ve topluluk katkılarıyla mümkün olabilir. AKADEMIK OZEL kategorisinde değerlendirilen bu belge, araştırma metodolojisi ve bilgi yönetimi açısından önemli bir kaynaktır. Türkiye'de sosyal bilimler ve dijital beşeri bilimler alanında çalışan araştırmacılar için LLM Wiki yaklaşımı, disiplinlerarası bilgi sentezi ve uzun vadeli araştırma projeleri için değerli bir araç olabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_himalaya-cli-email-client-install-script.md|Himalaya CLI Email Client - Install Script]]

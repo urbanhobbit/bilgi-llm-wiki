@@ -33,3 +33,16 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuklara yönelik 
 ## Turkey Context
 
 Bakan Göktaş'ın açıklamaları, Türkiye'de çocukların dijital haklarının korunmasına yönelik kapsamlı bir yasal düzenleme sürecinin işlediğini göstermektedir. KVKK'nın 6698 sayılı Kanunu çerçevesinde çocukların kişisel verilerinin işlenmesine ilişkin özel hükümler bulunmakla birlikte, yeni düzenleme sosyal medya platformlarını daha doğrudan düzenlemeyi hedeflemektedir. MEB'in okullarda uyguladığı dijital vatandaşlık ve güvenli internet eğitimi programları, bu yasal düzenlemenin eğitim ayağını oluşturmaktadır. Sağlık Bakanlığı'nın çocuklarda ekran bağımlılığına ilişkin yayımladığı araştırmalar ve rehberler, düzenlemenin bilimsel temelini güçlendirmektedir. TÜİK verilerine göre Türkiye'de çocukların internet kullanım yaşı giderek düşmektedir. UNICEF Türkiye'nin çocuk hakları izleme raporları da benzer önlemleri tavsiye etmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bakan-goktas-cocukl.md|Bakan Goktas Cocukl]]
+- [[raw/articles/2026-06-26_bakan-goktas-cocuklara-yonelik-sosyal-medya-duzenl.md|Bakan Goktas Cocuklara Yonelik Sosyal Medya Duzenl]]

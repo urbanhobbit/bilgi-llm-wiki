@@ -32,3 +32,16 @@ POLITICO reports on the massive cybersecurity preparations underway in the Unite
 ## Turkey Context
 
 2026 FIFA Dünya Kupası için ABD'nin yürüttüğü kapsamlı siber güvenlik hazırlıkları, Türkiye'nin gelecekte ev sahipliği yapmayı planladığı büyük spor organizasyonları için önemli dersler içermektedir. Türkiye'nin 2036 Avrupa Şampiyonası adaylığı ve diğer uluslararası etkinlikler düşünüldüğünde, siber güvenlik altyapısının güçlendirilmesi stratejik bir öncelik olarak değerlendirilmelidir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), Türkiye'de siber güvenlik politikalarının belirlenmesinde ve uygulanmasında kilit rol oynamaktadır. BTK'nın USOM (Ulusal Siber Olaylara Müdahale Merkezi) koordinasyonunda yürüttüğü çalışmalar, kritik altyapıların korunması ve siber tehditlere karşı erken uyarı sistemlerinin geliştirilmesini kapsamaktadır. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi'nin koordine ettiği Ulusal Siber Güvenlik Stratejisi ve Eylem Planı (2024-2028), büyük organizasyonların siber güvenliğine ilişkin özel önlemler içermektedir. Kişisel Verileri Koruma Kurumu (KVKK), büyük etkinliklerde katılımcı ve seyircilerin kişisel verilerinin korunmasına yönelik düzenlemeler yapmaktadır. Milyonlarca kişinin verisinin işlendiği bu tür organizasyonlarda, 6698 sayılı KVKK kapsamında veri sorumlularının yükümlülükleri ve veri ihlali durumunda uygulanacak yaptırımlar önem kazanmaktadır. Ayrıca, Milli Eğitim Bakanlığı (MEB) tarafından okullarda yürütülen dijital okuryazarlık ve siber güvenlik farkındalığı eğitimleri, uzun vadede Türkiye'nin siber güvenlik kapasitesinin artırılmasına katkı sağlamaktadır. Türkiye'nin uluslararası siber güvenlik işbirliği mekanizmalarına katılımı, NATO ve Avrupa Konseyi bünyesindeki siber savunma çalışmaları, büyük organizasyonların güvenliği için kritik öneme sahiptir. Türkiye'nin 2022 yılında KKTC'de düzenlenen İslami Dayanışma Oyunları'nda elde ettiği siber güvenlik deneyimi, gelecekteki büyük organizasyonlar için referans teşkil etmektedir. Ayrıca, Türkiye'nin kritik altyapıları koruma konusunda geliştirdiği ulusal standartlar, uluslararası işbirliği platformlarında paylaşılmakta ve diğer ülkeler için model oluşturmaktadır. Türkiye'nin siber güvenlik alanında yetişmiş insan kaynağı kapasitesinin artırılması, üniversitelerdeki siber güvenlik bölümlerinin yaygınlaştırılması ve TÜBİTAK destekli araştırma projeleri, bu alandaki stratejik hedefler arasında yer almaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
+- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-hungary-election-orb.md|Article from www.politico.com: hungary election or]]
+- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]

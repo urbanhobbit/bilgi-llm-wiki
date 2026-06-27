@@ -33,3 +33,15 @@ TRT Haber reports on Israeli airstrikes targeting southern Lebanon, marking a si
 ## Turkey Context
 
 İsrail'in Lübnan'a yönelik hava saldırıları, Türkiye'nin Ortadoğu politikası açısından kritik bir dönemeçte gerçekleşmektedir. Dışişleri Bakanı Hakan Fidan, saldırıları kınayarak bölgesel istikrarın korunması çağrısında bulunmuştur. Türkiye, Birleşmiş Milletler nezdinde İsrail'in uluslararası hukuk ihlallerine karşı girişimlerini sürdürmektedir. Cumhurbaşkanı Erdoğan, İsrail'in Filistin ve Lübnan'daki saldırılarına karşı Türkiye'nin diplomatik girişimlerini yoğunlaştıracağını açıklamıştır. Bu gelişmeler, Türkiye'nin İslam İşbirliği Teşkilatı ve diğer uluslararası platformlardaki insiyatiflerini etkilemektedir. Ayrıca, bölgedeki gerilimin enerji fiyatlarına ve ticaret yollarına olası etkileri, Türkiye ekonomisi açısından risk faktörü oluşturmaktadır. Türkiye'nin Lübnan'daki insani yardım kuruluşları aracılığıyla bölge halkına desteği sürmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

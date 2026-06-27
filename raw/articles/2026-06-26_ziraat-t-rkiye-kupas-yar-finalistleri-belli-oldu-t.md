@@ -32,3 +32,16 @@ TRT Haber Spor'un aktardığına göre, Ziraat Türkiye Kupası'nda yarı finali
 ## Turkey Context
 
 Ziraat Türkiye Kupası, Türk futbolunun en köklü ve geniş katılımlı organizasyonlarından biri olarak, sportif rekabetin yanı sıra ekonomik, sosyal ve kültürel boyutlarıyla da önem taşımaktadır. Türkiye Futbol Federasyonu (TFF) tarafından organize edilen kupa, 1962-63 sezonundan bu yana düzenlenmekte ve Türk futbol tarihinin en önemli arşivlerinden birini oluşturmaktadır. Kupanın yarı final aşaması, futbol kamuoyunda büyük ilgiyle takip edilmekte, maçların yayın hakları ve sponsorluk gelirleri Türk futbol ekonomisine önemli katkı sağlamaktadır. Gençlik ve Spor Bakanlığı ile TFF arasındaki koordinasyon, kupanın düzenlenmesinde önemli rol oynamaktadır. Ziraat Türkiye Kupası, alt liglerde mücadele eden takımlar için Süper Lig ekipleriyle rekabet edebilme ve maddi kazanç elde etme fırsatı sunmaktadır. Kupanın düzenlenmesinde 5894 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanun çerçevesinde hareket edilmekte, TFF'nin düzenleyici ve denetleyici rolü öne çıkmaktadır. Kupa müsabakalarında güvenlik önlemleri, İçişleri Bakanlığı ve emniyet birimlerinin koordinasyonunda yürütülmekte, 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun kapsamında maç güvenliği sağlanmaktadır. Ziraat Bankası'nın sponsorluğu, kamu bankalarının spora verdiği desteğin önemli bir örneğini oluşturmaktadır. Türkiye'de futbol ekonomisinin sürdürülebilirliği için kupa organizasyonlarının gelirlerinin artırılması, yayın haklarının değerlendirilmesi ve kulüplerin mali disiplininin sağlanması önem taşımaktadır. TFF'nin Kulüp Lisans Talimatı kapsamında, kupaya katılan kulüplerin mali kriterleri karşılaması gerekmektedir. Ayrıca, kupa müsabakaları, genç yeteneklerin keşfedilmesi, teknik direktörlerin taktiksel becerilerini sergilemesi ve uluslararası arenada deneyim kazanması açısından da kritik bir platform işlevi görmektedir. Kupanın galibi olacak takım, UEFA Avrupa Ligi'ne katılım hakkı elde edecek ve bu da kulüp gelirlerine önemli katkı sağlayacaktır.  Türkiye'de futbol ekonomisinin sürdürülebilirliği açısından, kupa organizasyonlarının gelirlerinin artırılması, yayın haklarının değerlendirilmesi ve kulüplerin mali disiplininin sağlanması büyük önem taşımaktadır. TFF ve Spor Bakanlığı, futbolun tabana yayılması ve alt liglerin desteklenmesi için kupa gelirlerinden belirli bir payın ayrılmasını öngören yeni bir model üzerinde çalışmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

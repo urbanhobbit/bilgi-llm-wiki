@@ -33,3 +33,23 @@ This New York Times article reports on a major academic study examining AI-gener
 ## Turkey Context
 
 New York Times'ta haberleştirilen AI kaynaklı seçim dezenformasyonu araştırması, Türkiye'de yürütülen benzer çalışmalar için önemli bir metodolojik çerçeve sunmaktadır. Türkiye'de 2024 yerel seçimleri öncesinde yapay zeka ile üretilmiş dezenformasyon içeriklerinin tespiti konusunda TÜBİTAK BİLGEM ve bazı üniversitelerde çalışmalar yürütülmüş, ancak bu çalışmalarda kullanılan deneysel metodolojiler NYT'nin haberleştirdiği araştırmanın standartlarına henüz ulaşmamıştır. YÖK'ün 2024 yılında yayımladığı 'Yapay Zeka ve Etik' genelgesi kapsamında, yapay zeka araştırmalarında etik kurul onayı ve katılımcı koruması konusunda yeni standartlar belirlenmiştir. Türkiye'de İstanbul Bilgi Üniversitesi Bilişim ve Teknoloji Hukuku Enstitüsü, ODTÜ Enformatik Enstitüsü ve Sabancı Üniversitesi Veri ve Toplum Araştırmaları Merkezi, AI dezenformasyonu konusunda akademik çalışmalar yürütmekte, ancak bu çalışmalarda kullanılan sinyal tespit teorisi ve deneysel tasarım metodolojilerinin uluslararası standartlara uyumu konusunda sistematik bir değerlendirme bulunmamaktadır. KVKK kapsamında, AI dezenformasyonu araştırmalarında katılımcı verilerinin korunması ve yapay zeka ile üretilmiş içeriklerin araştırma amaçlı kullanımı, veri minimizasyonu ve amaca bağlılık ilkeleri çerçevesinde özel dikkat gerektirmektedir. TÜBİTAK'ın 2025 yılı araştırma öncelikleri arasında yapay zeka etiği ve dezenformasyonla mücadele yer almakta, ancak bu alanda metodolojik kapasite geliştirme programı bulunmamaktadır. Türkiye'de 2024 yerel seçimleri ve 2023 cumhurbaşkanlığı seçimleri sırasında AI dezenformasyonu vakaları raporlanmış olmakla birlikte, bu vakaların sistematik deneysel araştırması henüz yapılmamıştır. TÜBİTAK BİLGEM'in geliştirdiği dezenformasyon tespit araçlarının, NYT'de haberleştirilen araştırmadaki sinyal tespit teorisi temelli deneysel metodolojiyle değerlendirilmesi, bu araçların etkililiği konusunda daha güvenilir kanıtlar sağlayacaktır. YÖK'ün 2024 Yapay Zeka ve Etik genelgesi, AI dezenformasyon araştırmaları için etik kurul onay süreçlerini düzenlemekle birlikte, bu araştırmalarda kullanılacak deneysel metodolojiler için teknik standartlar belirlememiştir. Türkiye'de AI okuryazarlığı ve dezenformasyon farkındalığı konusunda yapılacak deneysel çalışmalar, NYT'de haberleştirilen araştırmanın metodolojik çerçevesinden yararlanabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/new-york-times.md|New York Times]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-html.md|Ai Election Disinformation Study.Html]]
+- [[raw/articles/2026-06-26_ai-election-disinformation-study-new-york-times.md|AI Election Disinformation Study - New York Times]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-ai-election-disinform.md|Article from www.nytimes.com: ai election disinfor]]
+- [[raw/articles/2026-06-26_article-from-www-nytimes-com-teen-social-media.md|Article from www.nytimes.com: teen social media]]
+- [[raw/articles/2026-06-26_genel-nytimes-com.md|GENEL - nytimes.com]]

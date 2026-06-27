@@ -33,3 +33,22 @@ The Federal Trade Commission's enforcement page for the Children's Online Privac
 ## Turkey Context
 
 Bu child safety konulu makale, Türkiye'de çocukların dijital haklarına ilişkin politika geliştirme çalışmaları için önemli bir referans kaynağıdır. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında çocukların kişisel verilerinin korunmasına yönelik hükümler bulunmakla birlikte, bu alandaki düzenlemelerin günümüz dijital ekosisteminin ihtiyaçlarını karşılayacak şekilde güncellenmesi gerekmektedir. Bilgi Teknolojileri ve İletişim Kurumu (BTK), internet içerik düzenlemeleri kapsamında çocukların zararlı içeriklerden korunmasına yönelik çalışmalar yürütmektedir. Milli Eğitim Bakanlığı'nın (MEB) dijital vatandaşlık müfredatı, öğrencileri dijital ortamlarda karşılaşabilecekleri risklere karşı bilinçlendirmeyi hedeflemektedir. Türkiye İstatistik Kurumu (TÜİK) verileri, çocukların internet ve sosyal medya kullanımında önemli artışlar olduğunu göstermektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocukların dijital ortamlarda korunmasına yönelik farkındalık çalışmaları devam etmektedir. UNICEF Türkiye raporları, çocukların çevrimiçi risklerden korunması için kapsamlı bir ulusal strateji geliştirilmesi gerektiğini vurgulamaktadır. Türkiye'nin bu alandaki uluslararası gelişmeleri yakından takip etmesi ve kendi sosyo-kültürel bağlamına uygun düzenlemeleri hayata geçirmesi önem arz etmektedir. Bu kapsamda, çocukların dijital haklarını koruyan, ancak ifade özgürlüğünü ve bilgiye erişim hakkını orantısız şekilde kısıtlamayan dengeli bir düzenleyici çerçeve oluşturulması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-ftc-gov.md|Www Ftc Gov]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-childrens-online-privacy-.md|Article from www.ftc.gov: childrens online privacy]]
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-complying-coppa.md|Article from www.ftc.gov: complying coppa]]
+- [[raw/articles/2026-06-26_blocked-404-www-ftc-gov.md|Blocked (404) - www.ftc.gov]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-coppa-ft.md|Children's Online Privacy Protection Rule (COPPA) ]]
+- [[raw/articles/2026-06-26_childrens-online-privacy-protection-rule.md|Childrens Online Privacy Protection Rule]]

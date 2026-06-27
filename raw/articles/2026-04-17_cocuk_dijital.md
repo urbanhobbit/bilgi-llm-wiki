@@ -37,3 +37,28 @@ Bu makale, çocukların dijital dünyayla ilişkisi konusunda önemli bir tartı
 Makalede çocukların beyin gelişimlerinin henüz tamamlanmamış olması nedeniyle öz-düzenleme yeteneklerinin zayıf olduğu tespiti, dijital kısıtlamaların arkasındaki önemli bir bilimsel gerekçeyi sunuyor. Ancak, bu durumun sadece yaş sınırlamalarıyla değil, platformların kendiliğinden daha az bağımlılık yapıcı tasarlanmasıyla da ele alınması gerektiği vurgulanıyor. TikTok'un Çin versiyonu Douyin'deki 40 dakikalık kullanım süresi sınırı gibi örnekler, bu yönde atılabilecek adımların mümkün olduğunu gösteriyor.
 
 Sonuç olarak, makale, çocukları dijital risklerden korumak için yaş sınırlamalarının tek başına yeterli olmadığını, platformların iş modellerinin ve algoritmalarının köklü bir şekilde yeniden düşünülmesi ve düzenlenmesi gerektiğini güçlü bir şekilde savunuyor. Bu da Emre'nin RESAID (Bilgi Bozuklukları) projesi için özellikle platform düzenlemeleri ve doğrulama mekanizmaları açısından değerli bir bakış açısı sunuyor. Ayrıca, DİJİTAL (Çocuklara Dijital Kısıtlamalar) projesi kapsamında "platform yaş doğrulaması" ve "ekran süresi düzenlemesi" gibi konulara da doğrudan ışık tutuyor.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/christian-montag.md|Christian Montag]]
+- [[entities/dw.md|DW (Deutsche Welle)]]
+- [[entities/dw.md|Dw]]
+- [[entities/nina-kolleck.md|Nina Kolleck]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw.md|Almanya Seçimleri ve Dezenformasyon Savaşları - DW]]
+- [[raw/articles/2026-06-26_article-from-www-dw-com-s-69784532.md|Article from www.dw.com: s 69784532]]
+- [[raw/articles/2026-06-26_dw-almanya-se-imleri-ve-dezenformasyon-sava-lar.md|DW: Almanya Seçimleri ve Dezenformasyon Savaşları]]
+- [[raw/articles/2026-06-26_genel-dw-com.md|GENEL - dw.com]]
+- [[raw/articles/2026-06-26_s-69784532.md|S 69784532]]

@@ -33,3 +33,16 @@ Anadolu Ajansı'nın okul saldırılarıyla ilgili suç içerikli paylaşımlar 
 ## Turkey Context
 
 Türkiye'de okul saldırıları sonrası sosyal medyada yayılan şiddet içerikli paylaşımlarla mücadele, dijital çocuk güvenliğinin önemli bir boyutunu oluşturmaktadır. İçişleri Bakanlığı'nın Siber Suçlarla Mücadele Daire Başkanlığı koordinasyonunda yürütülen operasyonlar, sosyal medya platformlarının içerik denetimi konusunda Türkiye'nin artan kapasitesini göstermektedir. Ancak bu tür operasyonların caydırıcılık etkisi ve önleyici boyutu konusunda daha fazla araştırmaya ihtiyaç bulunmaktadır. KVKK kapsamında kişisel verilerin korunması (6698 sayılı Kanun) ile kamu güvenliği arasındaki denge, özellikle sosyal medya içeriklerinin tespiti ve delil olarak kullanılması sürecinde hassas bir konudur. MEB'in okullarda uygulamaya koyduğu Dijital Okuryazarlık ve Güvenlik dersi kapsamında, öğrencilere sosyal medyada şiddet içeren paylaşımlarla karşılaştıklarında nasıl davranmaları gerektiği konusunda eğitim verilmesi olumlu bir adımdır. Bununla birlikte, bu eğitimlerin etkinliğinin ölçülmesi ve müfredatın güncellenmesi süreklilik arz etmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_3908887.md|3908887]]
+- [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]
+- [[raw/articles/2026-06-26_aa-okul-sald-r-lar-soru-turmas-ve-i-erik-payla-mla.md|AA: Okul Saldırıları Soruşturması ve İçerik Paylaş]]
+- [[raw/articles/2026-06-26_anadolu-ajansi-gundem-okul-saldirilariyla-ilgili-s.md|Anadolu Ajansi - gundem okul saldirilariyla ilgili]]
+- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887.md|Article from www.aa.com.tr: 3908887]]

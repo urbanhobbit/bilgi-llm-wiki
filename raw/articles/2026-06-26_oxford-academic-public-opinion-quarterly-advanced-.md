@@ -34,3 +34,20 @@ This Public Opinion Quarterly article published through Oxford Academic addresse
 ## Turkey Context
 
 Oxford Academic / Public Opinion Quarterly dergisinde yayınlanan anket metodolojisi makalesi, Türkiye'de kamuoyu araştırmaları ve sosyal bilimlerde anket metodolojisi alanında çalışan akademisyenler için kritik bir referans kaynağıdır. TÜBİTAK'ın SOBAG grubu tarafından desteklenen anket araştırması projelerinde, POQ'da tartışılan modern metodolojik yaklaşımlar ve kalite standartları referans alınmaktadır. Türkiye'de bu alanda önde gelen akademik merkezler arasında İstanbul Üniversitesi İstatistik Uygulama ve Araştırma Merkezi (İSTATMER), ODTÜ Sosyoloji Bölümü Anket Araştırmaları Laboratuvarı ve Koç Üniversitesi Toplumsal Cinsiyet ve Kadın Çalışmaları Araştırma ve Uygulama Merkezi sayılabilir. Türkiye'de anket araştırmalarında karşılaşılan en önemli metodolojik zorluklar arasında düşen yanıt oranları, mobil iletişim çağında güç örnekleme çerçevelerinin oluşturulması ve online panellerin temsiliyeti yer almaktadır. KVKK (6698 sayılı Kanun) kapsamında, anket araştırmalarında kişisel verilerin toplanması ve işlenmesi, açık rıza ve aydınlatma yükümlülüğü çerçevesinde özel düzenlemelere tabidir. TÜBİTAK'ın 2024 araştırma öncelikleri arasında sosyal bilimler metodolojisi yer almakla birlikte, anket araştırmaları metodolojisinde kapasite geliştirme programlarına ihtiyaç bulunmaktadır. ULAKBİM'in DergiPark ve TR Dizin platformlarında, anket metodolojisi konulu akademik yayınlar sınırlı sayıda olup, Türkiye'de kamuoyu araştırmalarında metodolojik kalitenin artırılması için TÜBİTAK ve TÜİK işbirliğinde metodolojik standartlar ve eğitim programları geliştirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

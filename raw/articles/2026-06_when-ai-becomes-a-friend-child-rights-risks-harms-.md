@@ -39,3 +39,19 @@ UNICEF tarafından Haziran 2026'da yayımlanan bu politika belgesi, yapay zeka s
 ## Turkey Context
 
 UNICEF'in AI sohbet robotları ve çocuk hakları raporu, Türkiye için kritik öneme sahiptir. Türkiye'de özellikle gençler arasında ChatGPT, Character.AI ve benzeri sohbet robotlarının kullanımı hızla yaygınlaşırken, bu platformların çocuk hakları üzerindeki etkilerine yönelik kapsamlı bir düzenleme bulunmamaktadır. KVKK'nın (6698 sayılı Kanun) çocukların kişisel verilerinin işlenmesine ilişkin hükümleri, AI sistemlerinin yarattığı yeni riskleri kapsayacak şekilde güncellenmemiştir. Türkiye'nin 2021'de onayladığı Yapay Zeka Stratejisi (2021-2025), çocuk hakları perspektifini içermemekte, daha çok ekonomik rekabetçilik ve teknolojik gelişim odaklıdır. MEB'in müfredatında AI okuryazarlığı henüz yer almamakta, çocukların AI sistemleriyle etkileşiminin riskleri konusunda ebeveyn ve öğretmen farkındalığı sınırlı kalmaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk koruma politikaları, fiziksel ve çevrimiçi istismar odaklı olup, AI destekli duygusal manipülasyon ve bağımlılık gibi yeni nesil riskleri kapsamamaktadır. UNICEF'in altı ülke karşılaştırmalı analizi, Türkiye'nin bu alanda henüz yolun başında olduğunu göstermektedir. Rapordaki AI güvenliği için işletmelere yönelik tavsiyeler, Türkiye'de faaliyet gösteren teknoloji şirketleri için de bağlayıcı standartlar haline getirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/unicef.md|Unicef]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-rights-guidelines-update-2026.md|Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-06-26_unicef-digital-rights-guidelines-update-2026.md|UNICEF Digital Rights Guidelines Update 2026]]
+- [[raw/articles/unicef-digital-rights-2026.md|Unicef Digital Rights 2026]]
+- [[raw/articles/unicef-digital-rights-guidelines-2026.md|Unicef Digital Rights Guidelines 2026]]

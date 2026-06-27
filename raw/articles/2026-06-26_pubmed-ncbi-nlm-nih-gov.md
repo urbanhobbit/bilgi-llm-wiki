@@ -33,3 +33,21 @@ Bu PubMed çalışması, çocuklarda ekran süresi ile ruh sağlığı arasında
 ## Turkey Context
 
 Türkiye'de çocuklarda ekran süresi ve ruh sağlığı ilişkisi üzerine yapılan akademik çalışmalar son yıllarda kayda değer bir artış göstermiş olsa da, PubMed'de yayımlanan bu kapsamlı araştırma düzeyinde metodolojik standardizasyon sağlanması konusunda hâlâ önemli eksiklikler bulunmaktadır. TÜBİTAK'ın 1001 ve 1003 programları kapsamında dijital bağımlılık ve çocuk ruh sağlığı alanında desteklediği projeler bulunmakla birlikte, özellikle boylamsal desenli ve geniş örneklemli çalışmaların sayısı uluslararası standartların oldukça gerisindedir. YÖK'ün üniversiteler arası araştırma etik kurullarına yönelik belirlediği standartlar, özellikle çocuk katılımcıların yer aldığı çalışmalarda bilgilendirilmiş onam süreçlerini oldukça sıkı şekilde düzenlemektedir. Ancak bu durum bazen araştırma sürecini önemli ölçüde yavaşlatmakta ve uluslararası yayın süreçlerinde ciddi gecikmelere yol açmaktadır. KVKK yani 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, özellikle çocuklara ait dijital davranış verilerinin işlenmesi, veli izni, veri minimizasyonu ve amaçla sınırlılık ilkeleri çerçevesinde titizlikle ele alınmalıdır. Türkiye'de üniversite etik kurulları, çocuklarla yapılan araştırmalarda KVKK'nın 6. maddesindeki özel nitelikli veri kategorilerine uygunluk denetimini giderek daha sıkı bir şekilde uygulamaktadır. AB ülkelerinde GDPR çerçevesinde yürütülen benzer çalışmalarla kıyaslandığında, Türkiye'de araştırma metodolojisi standartlarının AB müktesebatına uyumlaştırılması sürecinin henüz tamamlanmadığı görülmektedir. Özellikle Almanya ve Hollanda'daki boylamsal kohort çalışmaları ALSPAC ve Generation R gibi referans niteliğindeki araştırmalar, Türkiye'deki benzer girişimler için önemli bir model teşkil etmektedir. TÜBİTAK'ın son dönemde açık bilim politikalarını ve uluslararası veri paylaşımını teşvik etmesi, uluslararası akademik standartlara uyum açısından olumlu bir gelişme olarak değerlendirilmelidir. Türkiye'de dijital sağlık araştırmalarının kalitesinin artırılması için disiplinlerarası iş birliği modellerinin güçlendirilmesi ve uluslararası konsorsiyumlara katılımın teşvik edilmesi büyük önem taşımaktadır. Bununla birlikte, Türkiye'deki üniversitelerin etik kurul onay süreçlerinin dijitalleştirilmesi ve standartlaştırılması, araştırma verimliliğini artıracak önemli bir adım olacaktır. Mevcut durumda her üniversitenin farklı etik kurul formatları ve değerlendirme kriterleri kullanması, özellikle çok merkezli çalışmalarda önemli zaman kayıplarına neden olmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
+- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
+- [[raw/articles/2026-06-26_pubmed-screen-time-and-children-s-mental-health-re.md|PubMed: Screen Time and Children's Mental Health -]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-ni.md|Screen Time and Children's Mental Health — PubMed/]]

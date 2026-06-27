@@ -24,3 +24,15 @@ timestamp: '2026-03-16T00:00:00Z'
 ### Children want to shape their rights in the digital world | OHCHR
 * URL: https://www.ohchr.org/en/stories/2025/11/children-want-shape-their-rights-digital-world
 * Description: Through focus group discussions conducted by partner organizations such as 5Rights Foundation, Digital Futures for Children at the London School of Economics, and members of Child Rights Connect’s global civil society network, children around the world are learning about their rights in digital spaces through a newly created child-friendly summary of General comment No.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
