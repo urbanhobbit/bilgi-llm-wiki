@@ -55,6 +55,8 @@
 - [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21, 2026]] - Crime, migrants and disinformation: an online banquet for extremists, a real-world danger for societies
 
 ## KURATOR Bulletins
+- [[raw/articles/2026-06-27_cocuk_dijital.md|Jun 27, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
+- [[raw/articles/2026-06-27_akademik_ozel.md|Jun 27, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-06-20_cocuk_dijital.md|Jun 20, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
 - [[raw/articles/2026-06-20_akademik_ozel.md|Jun 20, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-06-13_cocuk_dijital.md|Jun 13, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)

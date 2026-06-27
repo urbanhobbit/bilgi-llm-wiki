@@ -1,3 +1,10 @@
+## [2026-06-27] ingest | KURATOR + AKADEMİK ÖZEL Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-06-27_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni (13 sources, Week 26/2026)
+- Raw: [[raw/articles/2026-06-27_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (10 academic sources)
+- Topics: UK social media ban split reactions, Greek PM Mitsotakis algorithmic exploitation call, UNICEF AI chatbot child rights risk report, LSE DFC regulation impact analysis (2017-2026), Euroconsumers 'Beyond the Ban' report, EPRS minimum age for social media, LSE Media@LSE children & social media critique, Pew Research teens AI use, BBC Future kids AI use, Common Sense Media State of Kids report, TechCrunch social media bans tracker, Turkey Bakan Göktaş under-15 regulation, Nature Human Behaviour polarization in LMICs, PNAS Nexus heart rate synchrony as social engagement marker
+- Scrapling test: 10% block rate (1/10), full extraction viable
+- Turkey-specific: Bakan Göktaş 15 yaş altı düzenleme temel çerçeve duyurusu, Akşam haberi, KVKK/MEB/BTK politika değerlendirmeleri
+
 ## [2026-06-25] ingest | EDMO Weekly Pulse - 25 June 2026
 - Raw: [[raw/articles/2026-06-25-edmo-weekly-pulse.md]] — The World Cup of Hypersexualized Fakes?
 - Topics: AI-generated hypersexualized content during FIFA World Cup, platform monetization of AI disinformation, Kylian Mbappé pro-Russian conspiracy theory, Meta removing fake hockey fan pages (Stanley Cup), U.S. border/Ebola World Cup claims, Malta election fact-check, Russia disinformation before Armenia vote, Russian fake migrant stories in Ukraine, data poisoning of AI models, German court Google AI liability ruling
