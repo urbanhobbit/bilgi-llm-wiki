@@ -87,3 +87,12 @@
 - 6 high priority (URGENT), 4 medium priority, 2 low priority links
 - 7 priority-based policy recommendations
 - Comparative international ban table (7 countries)
+## [2026-06-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-27_psychological-dimensions-of-digital-disinformation.md]] — Psychological Dimensions of Digital Disinformation in International Relations
+- Raw: [[raw/articles/2026-06-27_impact-of-regulation-on-children-s-digital-lives-d.md]] — Impact of regulation on children's digital lives - Digital Futures for Children centre
+- Raw: [[raw/articles/2026-06-08_what-we-get-wrong-about-children-and-social-media.md]] — What we get wrong about children and social media
+- Raw: [[raw/articles/2026-06-27_debate-on-setting-a-minimum-age-for-social-media-e.md]] — Debate on setting a minimum age for social media - European Parliament Think Tank
+- Raw: [[raw/articles/2026-06-27_linkedin-shared-content.md]] — LinkedIn Shared Content
+- Source files: 2026-06-27_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+

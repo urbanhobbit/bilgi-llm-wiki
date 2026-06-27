@@ -65,3 +65,9 @@
 - [[raw/articles/2026-05-30_akademik_ozel.md|May 30, 2026]] - AKADEMİK ÖZEL Haftalık Derleme
 - [[raw/articles/2026-05-25_cocuk_dijital.md|May 25, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
 - [[raw/articles/2026-06-01_cocuk_dijital.md|June 1, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)
+- [[raw/articles/2026-06-27_psychological-dimensions-of-digital-disinformation.md|Psychological Dimensions of Digital Disinformation in International Relations]]
+- [[raw/articles/2026-06-27_impact-of-regulation-on-children-s-digital-lives-d.md|Impact of regulation on children's digital lives - Digital Futures for Children centre]]
+- [[raw/articles/2026-06-08_what-we-get-wrong-about-children-and-social-media.md|What we get wrong about children and social media]]
+- [[raw/articles/2026-06-27_debate-on-setting-a-minimum-age-for-social-media-e.md|Debate on setting a minimum age for social media - European Parliament Think Tank]]
+- [[raw/articles/2026-06-27_linkedin-shared-content.md|LinkedIn Shared Content]]
+
