@@ -83,3 +83,10 @@ A German court ruled that Google's AI summary constitutes distinct content attri
 ---
 
 *Editorial Director: Paolo Cesarini, Editor-in-Chief: Tommaso Canetta. Editorial Staff: Elena Coden, Paula Gori, Elena Maggi. This edition draws in part on automated translation and reflects information available as of 24 June 2026.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

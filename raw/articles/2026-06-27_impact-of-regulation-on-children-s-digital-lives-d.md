@@ -39,3 +39,23 @@ LSE bünyesindeki Digital Futures for Children (DFC) araştırma merkezi tarafı
 ## Turkey Context
 
 LSE DFC merkezinin düzenleme etkisi araştırma projesi, Türkiye'nin çocuk dijital hakları alanındaki düzenleyici çerçevesinin uluslararası standartlarla karşılaştırılması açısından önemli bir referans kaynağıdır. Türkiye'de 2017-2026 döneminde UK ve AB'deki gibi kapsamlı bir çocuk dijital güvenlik düzenlemesi bulunmamaktadır. 6698 sayılı KVKK, GDPR'den esinlenmekle birlikte, çocukların veri koruma haklarına ilişkin özel hükümleri sınırlıdır. 5651 sayılı Kanun ve 7253 sayılı Sosyal Medya Yasası, UK Online Safety Act veya AB DSA'nın kapsam ve derinliğine ulaşamamaktadır. MEB'in dijital okuryazarlık müfredatı ve Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk koruma politikaları, düzenleme odaklı değil, daha çok bilinçlendirme odaklı bir yaklaşım benimsemektedir. DFC projesinin iki aşamalı yapısı, Türkiye'de de benzer uzun vadeli araştırma programlarının oluşturulması için model teşkil edebilir. TÜBİTAK'ın sosyal bilimler araştırma fonları kapsamında çocuk dijital hakları odaklı kapsamlı projelerin desteklenmesi, Türkiye'de bu alandaki bilgi boşluğunun doldurulmasına katkı sağlayacaktır. Projenin UNCRC Genel Yorum No. 25'in uygulanmasını haritalandırma çalışması, Türkiye'nin de taraf olduğu BM Çocuk Hakları Sözleşmesi'nin dijital boyutunun iç hukuka aktarılması için yol gösterici niteliktedir. BTK, KVKK Kurumu ve Aile ve Sosyal Hizmetler Bakanlığı arasında çocuk dijital hakları odaklı koordinasyon mekanizmasının oluşturulması, Türkiye'nin bu alandaki düzenleyici kapasitesini artıracaktır. Ayrıca, Türk üniversitelerinde LSE DFC benzeri disiplinlerarası araştırma merkezlerinin kurulması, uluslararası akademik işbirliği ve bilgi transferini kolaylaştıracaktır. MEB'in hizmet içi eğitim programlarında dijital çocuk hakları ve düzenleme okuryazarlığı konularına yer verilmesi, öğretmenlerin bu alandaki farkındalığını artıracaktır. Son olarak, Türkiye'de çocuk dijital hakları alanında faaliyet gösteren sivil toplum kuruluşlarının DFC benzeri araştırma merkezleriyle işbirliği yapması, uluslararası standartların Türkiye bağlamına uyarlanmasını hızlandıracaktır. TÜBİTAK'ın ARDEB programları kapsamında LSE DFC benzeri disiplinlerarası araştırma merkezlerinin kurulmasını teşvik edecek özel bir çağrı açılması, Türkiye'de bu alandaki akademik kapasitenin gelişmesine önemli katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-05-30_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+- [[raw/articles/2026-06-26_article-from-www-digital-futures-for-children-net-.md|Article from www.digital-futures-for-children.net:]]
+- [[raw/articles/2026-06-26_child-ri.md|Child Ri]]
+- [[raw/articles/2026-06-26_child-rights-regulation-digital-futures-for-childr.md|Child Rights Regulation — Digital Futures for Chil]]

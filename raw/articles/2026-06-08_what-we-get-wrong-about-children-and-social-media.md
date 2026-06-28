@@ -39,3 +39,21 @@ Media@LSE platformunda 8 Haziran 2026'da yayımlanan bu analiz, Goldsmiths Üniv
 ## Turkey Context
 
 Media@LSE'de yayımlanan bu kapsamlı analiz, Türkiye'de çocukların sosyal medya kullanımına yönelik düzenleme tartışmalarına önemli bir felsefi ve politik çerçeve sunmaktadır. Türkiye'de 13 yaş altı sosyal medya yasağı tartışmaları devam ederken, Hillman'ın 'güç eşitsizliği' ve 'eylemlilik/agency' kavramları etrafında şekillenen argümanları, politika yapıcılar için değerli bir perspektif sağlamaktadır. 6698 sayılı KVKK kapsamında çocukların kişisel verilerinin korunmasına ilişkin hükümler, Hillman'ın vurguladığı 'platformların yapısal gücü' karşısında çocukları korumada yetersiz kalmaktadır. 5651 sayılı Kanun ve 7253 sayılı Sosyal Medya Yasası, çocukların dijital ortamda karşılaştığı güç eşitsizliklerini değil, daha çok içerik denetimini düzenlemektedir. MEB'in dijital okuryazarlık müfredatı, Hillman'ın vurguladığı 'platform tasarımı ve eylemlilik ilişkisi' konusunu henüz kapsamamakta, daha çok güvenli internet kullanımı ve siber zorbalık gibi geleneksel konulara odaklanmaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk politikaları, çocukların dijital ortamda eylemliliklerini kullanma kapasitelerini güçlendirecek programları içermemektedir. Analizde vurgulanan 'katılım artık bir seçim değil' argümanı, Türkiye'de özellikle ergenler arasında sosyal medya kullanımının %92'lere ulaştığı dikkate alındığında daha da anlamlı hale gelmektedir. Hillman'ın araba kullanma, alkol tüketimi ve pornografi erişimi gibi alanlardaki yaş sınırlamalarıyla yaptığı analoji, sosyal medya yasaklarının 'çocukları susturma' değil, 'yapısal eşitsizliklere karşı koruma' olarak görülmesi gerektiğini savunmaktadır. Bu perspektif, Türkiye'deki yasak tartışmalarının daha derin bir felsefi ve hukuki temele oturtulmasına katkı sağlayabilir. BTK'nın düzenleyici yaklaşımının, platformların çocuk kullanıcılar üzerindeki yapısal gücünü dengeleyecek şekilde yeniden tasarlanması gerekmektedir. Ayrıca, TBMM Dijital Mecralar Komisyonu'nun bu perspektifi dikkate alarak, yasaklayıcı tedbirlerin yanında platform tasarım standartlarını da içeren kapsamlı bir çocuk çevrimiçi güvenlik yasası hazırlığına başlaması önerilmektedir. TÜİK verilerine göre Türkiye'de 12-17 yaş arası gençlerin neredeyse tamamının sosyal medya kullandığı düşünüldüğünde, Hillman'ın analizi Türkiye'deki politika yapıcılar için acil bir eylem çağrısı niteliği taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-08_what-we-get-wrong-about-children-and-social-media-.md|What we get wrong about children and social media ]]

@@ -305,3 +305,26 @@ EPRS politika belgeleri, AB kurumlarının standart politika analizi metodolojis
 - europarl.europa.eu (202 - sınırlı erişim)
 
 **Not:** Blokaj oranı %10 olup %50 eşiğinin altındadır. Bu nedenle tam metin çekimi ve doğrudan analiz mümkün olmuştur. Sadece OECD PISA MAIL sayfası (403) ve EU Parliament (202) erişim kısıtlaması nedeniyle metadata tabanlı sınıflandırma kullanılmıştır. 9/10 oranında erişilebilirlik, bu haftanın bülteninin yüksek veri kalitesiyle hazırlanmasını sağlamıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]

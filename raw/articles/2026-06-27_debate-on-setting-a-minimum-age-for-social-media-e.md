@@ -39,3 +39,17 @@ Avrupa Parlamentosu Düşünce Kuruluşu (EPRS) tarafından 2026'da yayımlanan 
 ## Turkey Context
 
 Avrupa Parlamentosu Düşünce Kuruluşu'nun sosyal medya asgari yaş sınırı brifingi, Türkiye'nin bu alandaki politika geliştirme çalışmaları için kritik bir referans kaynağıdır. Türkiye'de 2024 yılında gündeme gelen 13 yaş altı sosyal medya yasağı önerisi, AB'nin potansiyel düzenlemesiyle benzerlik taşımakla birlikte, Türkiye'nin AB üyesi olmaması nedeniyle DSA ve GDPR gibi düzenlemelerin doğrudan uygulanamaması önemli bir farklılık oluşturmaktadır. 6698 sayılı KVKK, GDPR'den esinlenmekle birlikte, yaş sınırlaması ve yaş doğrulama konusunda özel hükümler içermemektedir. 7253 sayılı Sosyal Medya Yasası, platformlara Türkiye'de temsilci bulundurma ve kullanıcı verilerini yerel sunucularda tutma yükümlülüğü getirmekle birlikte, yaş sınırlamasına ilişkin hükümler içermemektedir. Brifingde vurgulanan yaş doğrulama teknolojilerinin gizlilik endişeleri, Türkiye'de e-Devlet altyapısının yaş doğrulama amaçlı kullanılma potansiyelini akla getirmekle birlikte, KVKK kapsamında kişisel verilerin korunması ve ölçülülük ilkesi açısından dikkatli bir değerlendirme gerektirmektedir. MEB'in dijital okuryazarlık müfredatı, AB çapında olası bir yaş sınırlaması düzenlemesinin çocuklar üzerindeki etkilerini anlamalarına yardımcı olacak şekilde güncellenmelidir. Aile ve Sosyal Hizmetler Bakanlığı'nın çocuk politikaları, AB düzeyindeki tartışmaları takip edecek ve Türkiye bağlamında uyarlayacak kapasiteye sahip olmalıdır. BTK'nın düzenleyici kapasitesinin, AB'deki Dijital Hizmetler Koordinatörü benzeri bir yapılanma ile güçlendirilmesi, olası bir yaş sınırlaması düzenlemesinin etkin bir şekilde uygulanması için önem taşımaktadır. TÜİK verilerine göre Türkiye'de 6-15 yaş arası çocukların günlük ortalama ekran süresinin 3,5 saati aştığı düşünüldüğünde, AB düzeyindeki düzenleme tartışmalarının yakından takip edilmesi ve ulusal politikaların bu gelişmelere paralel olarak güncellenmesi gerekmektedir. Ayrıca, Türkiye'deki üniversitelerin AB hukuku ve dijital düzenleme alanındaki araştırma merkezlerinin EPRS brifingini detaylı olarak incelemesi ve Türkiye bağlamında karşılaştırmalı bir analiz yayımlaması, politika yapıcılar için değerli bir kaynak oluşturacaktır. Türkiye'nin AB'ye uyum sürecinde dijital düzenleme alanındaki müktesebatı iç hukuka aktarma çalışmaları kapsamında, EPRS brifinginde ele alınan hususların dikkate alınması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_debate-on-setting-a-minimum-age-for-social-media-t.md|Debate on setting a minimum age for social media |]]
