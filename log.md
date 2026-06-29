@@ -113,3 +113,8 @@
 - Source files: 2026-06-26_user_shared_pnas_lnqa.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-29_democrats-project-2029-goes-after-tech-companies-w.md]] — Democrats' 'Project 2029' goes after tech companies with online safety plan
+- Source files: 2026-06-29_project2029_online_safety.json
+- Agent: OKF Ingestion Pipeline
+

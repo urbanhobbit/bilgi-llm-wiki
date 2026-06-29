@@ -75,4 +75,5 @@
 - [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]
 - [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text could offer informative tools for behavioral science]]
 - [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research]]
+- [[raw/articles/2026-06-29_democrats-project-2029-goes-after-tech-companies-w.md|Democrats' 'Project 2029' goes after tech companies with online safety plan]]
 
