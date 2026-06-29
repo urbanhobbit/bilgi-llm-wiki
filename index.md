@@ -73,4 +73,6 @@
 - [[raw/articles/2021-03-16_machine-learning-modeling-a-new-way-to-do-quantita.md|Machine Learning Modeling: A New Way to do Quantitative Research in Social Sciences in the Era of AI]]
 - [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md|Shackle or hammer? How polarisation influences political corruption]]
 - [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]
+- [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text could offer informative tools for behavioral science]]
+- [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research]]
 

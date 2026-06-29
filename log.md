@@ -107,3 +107,9 @@
 - Source files: 2026-06-26_user_shared_wiley.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md]] — Large Language Models based on historical text could offer informative tools for behavioral science
+- Raw: [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md]] — Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research
+- Source files: 2026-06-26_user_shared_pnas_lnqa.json
+- Agent: OKF Ingestion Pipeline
+
