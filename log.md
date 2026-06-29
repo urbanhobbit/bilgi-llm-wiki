@@ -102,3 +102,8 @@
 - Source files: 2026-06-26_user_shared_articles.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-12-10_visualizing-qualitative-research.md]] — Visualizing Qualitative Research
+- Source files: 2026-06-26_user_shared_wiley.json
+- Agent: OKF Ingestion Pipeline
+
