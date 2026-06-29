@@ -118,3 +118,8 @@
 - Source files: 2026-06-29_project2029_online_safety.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-29_kids-over-clicks-project-2029-comprehensive-online.md]] — Kids Over Clicks — Project 2029 Comprehensive Online Safety Agenda
+- Source files: 2026-06-29_kids_over_clicks_project2029.json
+- Agent: OKF Ingestion Pipeline
+
