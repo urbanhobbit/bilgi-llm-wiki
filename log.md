@@ -96,3 +96,9 @@
 - Source files: 2026-06-27_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2021-03-16_machine-learning-modeling-a-new-way-to-do-quantita.md]] — Machine Learning Modeling: A New Way to do Quantitative Research in Social Sciences in the Era of AI
+- Raw: [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md]] — Shackle or hammer? How polarisation influences political corruption
+- Source files: 2026-06-26_user_shared_articles.json
+- Agent: OKF Ingestion Pipeline
+

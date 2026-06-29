@@ -70,4 +70,6 @@
 - [[raw/articles/2026-06-08_what-we-get-wrong-about-children-and-social-media.md|What we get wrong about children and social media]]
 - [[raw/articles/2026-06-27_debate-on-setting-a-minimum-age-for-social-media-e.md|Debate on setting a minimum age for social media - European Parliament Think Tank]]
 - [[raw/articles/2026-06-27_linkedin-shared-content.md|LinkedIn Shared Content]]
+- [[raw/articles/2021-03-16_machine-learning-modeling-a-new-way-to-do-quantita.md|Machine Learning Modeling: A New Way to do Quantitative Research in Social Sciences in the Era of AI]]
+- [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md|Shackle or hammer? How polarisation influences political corruption]]
 
