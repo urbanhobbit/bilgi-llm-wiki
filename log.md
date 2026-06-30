@@ -123,3 +123,16 @@
 - Source files: 2026-06-29_kids_over_clicks_project2029.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-06-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-29_children-are-adopting-ai-technologies-more-than-th.md]] — Children are adopting AI technologies more than three times faster than adults — UNICEF Statement
+- Raw: [[raw/articles/2026-06-30_machine-learning-modeling-a-new-way-to-do-quantita.md]] — Machine Learning Modeling: A New Way to do Quantitative Research in Social Sciences in the Era of AI
+- Raw: [[raw/articles/2026-06-30_taylor-francis-academic-article-social-sciences.md]] — Taylor & Francis Academic Article (Social Sciences)
+- Raw: [[raw/articles/2026-06-30_wiley-online-library-public-administration-review-.md]] — Wiley Online Library — Public Administration Review Article
+- Raw: [[raw/articles/2026-06-30_large-language-models-llm-in-computational-social-.md]] — Large language models (LLM) in computational social science: prospects, current state, and challenges
+- Raw: [[raw/articles/2026-06-30_large-language-models-based-on-historical-text-cou.md]] — Large Language Models based on historical text could offer informative tools for behavioral science | PNAS
+- Raw: [[raw/articles/2026-06-30_large-n-qualitative-analysis-lnqa-causal-generaliz.md]] — Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research
+- Raw: [[raw/articles/2026-06-30_democrats-project-2029-goes-after-tech-companies-w.md]] — Democrats' 'Project 2029' goes after tech companies with online safety plan
+- Raw: [[raw/articles/2026-06-30_kids-over-clicks-project-2029.md]] — Kids Over Clicks — Project 2029
+- Source files: 2026-06-30_categorized.json, 2026-06-29_unicef_children_ai_adoption.json
+- Agent: OKF Ingestion Pipeline
+
