@@ -136,3 +136,10 @@
 - Source files: 2026-06-30_categorized.json, 2026-06-29_unicef_children_ai_adoption.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-01_uk-government-takes-aim-at-manipulative-digital-de.md]] — UK Government takes aim at manipulative digital design practices
+- Raw: [[raw/articles/2026-07-01_llm-wiki-karpathy-s-knowledge-base-pattern.md]] — LLM Wiki - Karpathy's Knowledge Base Pattern
+- Raw: [[raw/articles/2026-07-01_defining-web-pages-web-sites-and-web-captures-inte.md]] — Defining Web pages, Web sites and Web captures | Internet Archive Blogs
+- Source files: 2026-07-01_categorized.json
+- Agent: OKF Ingestion Pipeline
+

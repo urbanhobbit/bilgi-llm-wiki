@@ -86,4 +86,7 @@
 - [[raw/articles/2026-06-30_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research]]
 - [[raw/articles/2026-06-30_democrats-project-2029-goes-after-tech-companies-w.md|Democrats' 'Project 2029' goes after tech companies with online safety plan]]
 - [[raw/articles/2026-06-30_kids-over-clicks-project-2029.md|Kids Over Clicks — Project 2029]]
+- [[raw/articles/2026-07-01_uk-government-takes-aim-at-manipulative-digital-de.md|UK Government takes aim at manipulative digital design practices]]
+- [[raw/articles/2026-07-01_llm-wiki-karpathy-s-knowledge-base-pattern.md|LLM Wiki - Karpathy's Knowledge Base Pattern]]
+- [[raw/articles/2026-07-01_defining-web-pages-web-sites-and-web-captures-inte.md|Defining Web pages, Web sites and Web captures | Internet Archive Blogs]]
 
