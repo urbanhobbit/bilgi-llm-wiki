@@ -143,3 +143,8 @@
 - Source files: 2026-07-01_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-01_children-are-adopting-ai-technologies-more-than-th.md]] — Children are adopting AI technologies more than three times faster than adults
+- Source files: 2026-07-01_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+
