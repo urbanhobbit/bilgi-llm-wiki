@@ -43,3 +43,24 @@ MEB'in 2025 itibarıyla ortaokul ve lisede zorunlu hale getirdiği Dijital Vatan
 Aile ve Sosyal Hizmetler Bakanlığı'nın 2024-2028 Çocuk Hakları Strateji Belgesi, çocukların dijital ortamlarda korunmasını öncelikli alan olarak belirlemiş olmakla birlikte, yapay zeka teknolojilerinin çocuklar üzerindeki etkilerine ilişkin spesifik bir eylem planı içermemektedir. Sağlık Bakanlığı'nın 2026 başında yayımladığı 'Dijital Bağımlılıkla Mücadele Stratejisi' ise daha çok sosyal medya ve oyun bağımlılığına odaklanmakta, AI tabanlı araçların bağımlılık potansiyelini ihmal etmektedir.
 
 BTK'nın internet düzenlemeleri kapsamında çocuk profili uygulaması (16 yaş altı kullanıcılar için otomatik kısıtlı erişim) önemli bir adım olmakla birlikte, AI araçlarının çocuklar tarafından kullanımını denetlemekte yetersiz kalmaktadır. Türkiye'nin, UNICEF'in İlk Küresel Yapay Zeka Yönetişimi Diyaloğı'nda aktif rol alması ve çocuk haklarını merkeze alan bir AI yönetişim çerçevesinin oluşturulmasına katkı sağlaması önerilmektedir. Ayrıca TÜBİTAK'ın koordine ettiği ulusal AI stratejisi kapsamında, çocukların AI kullanımına ilişkin Türkiye'ye özgü veri toplama çalışmalarının başlatılması ve bu verilerin politika yapım sürecine entegre edilmesi kritik önem taşımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/unicef.md|Unicef]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-rights-guidelines-update-2026.md|Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-06-26_unicef-digital-rights-guidelines-update-2026.md|UNICEF Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-06-29_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than th]]
+- [[raw/articles/2026-06_when-ai-becomes-a-friend-child-rights-risks-harms-.md|When AI becomes a friend: Child rights risks, harm]]
+- [[raw/articles/unicef-digital-rights-2026.md|Unicef Digital Rights 2026]]

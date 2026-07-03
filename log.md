@@ -148,3 +148,8 @@
 - Source files: 2026-07-01_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-07_quantitative-qualitative-and-mixed-methodologies-i.md]] — Quantitative, Qualitative, and Mixed Methodologies in Digital Social Sciences (OA Book)
+- Source files: 2026-06-29_oa_book_digital_methods.json
+- Agent: OKF Ingestion Pipeline
+

@@ -90,4 +90,5 @@
 - [[raw/articles/2026-07-01_llm-wiki-karpathy-s-knowledge-base-pattern.md|LLM Wiki - Karpathy's Knowledge Base Pattern]]
 - [[raw/articles/2026-07-01_defining-web-pages-web-sites-and-web-captures-inte.md|Defining Web pages, Web sites and Web captures | Internet Archive Blogs]]
 - [[raw/articles/2026-07-01_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than three times faster than adults]]
+- [[raw/articles/2026-07-07_quantitative-qualitative-and-mixed-methodologies-i.md|Quantitative, Qualitative, and Mixed Methodologies in Digital Social Sciences (OA Book)]]
 
