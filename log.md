@@ -1,3 +1,8 @@
+## [2026-07-04] ingest | EDMO Weekly Pulse - 03 July 2026
+- Raw: [[raw/articles/2026-07-03-edmo-weekly-pulse.md]] — Climate Change Denialism, and How to Shoot the Messenger to Ignore the Message
+- Topics: Climate denialism & chromatic change conspiracy theory during European heatwave, misleading claims about solar panel environmental footprint, air conditioner urban heat island effects, UK-Moldovan operation uncovering $107M Russian crypto election interference, false claims about The Hague recognizing Crimea annexation, grooming gang disinformation in Britain, refugee religious composition myth-debunking, Google Gemini AI video generator disinformation risks
+- Sections: ON THE RISE (Climate change denialism & chromatic map conspiracy), ZOOM-IN (Poland climate denialism, solar energy myths, AC urban heat), ELECTION BEAT (Moldova $107M crypto vote-buying operation), GLOBAL PULSE (Crimea Hague ruling misrepresentation, UK grooming gang numbers, refugee religion claims, Gemini AI video risks), ON A DIFFERENT NOTE (Preliminary ruling on child protection from pornographic content)
+
 ## [2026-06-27] ingest | KURATOR + AKADEMİK ÖZEL Weekly Bulletin Integration
 - Raw: [[raw/articles/2026-06-27_cocuk_dijital.md]] — KURATOR Haftalık Araştırma Bülteni (13 sources, Week 26/2026)
 - Raw: [[raw/articles/2026-06-27_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (10 academic sources)
