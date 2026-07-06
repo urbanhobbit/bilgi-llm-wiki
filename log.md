@@ -158,3 +158,8 @@
 - Source files: 2026-06-29_oa_book_digital_methods.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md]] — Affective polarization and the support for populist and technocratic governance
+- Source files: 2026-07-06_sage-polarization-support.json
+- Agent: OKF Ingestion Pipeline
+

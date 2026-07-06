@@ -27,3 +27,14 @@ tags: [cocuk-dijital, haftalik-bulten, social-media-regulations, ai-safety, proj
 ## Türkiye Bağlamı
 
 Türkiye'de bu hafta üç önemli gelişme öne çıkmaktadır: (1) CHP'nin 15 yaş altı sosyal medya düzenlemesini Anayasa Mahkemesi'ne taşıması, (2) MEB 'Okulda Telefon Yok' pilot uygulamasının 10 ilde 200 okulda başarılı sonuçlar vermesi (başarıda %8 artış, dikkat dağınıklığında %25 azalma), (3) Sağlık Bakanlığı Dijital Bağımlılıkla Mücadele Eylem Planı'nın uygulanması.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]

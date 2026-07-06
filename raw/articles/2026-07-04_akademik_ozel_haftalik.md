@@ -37,3 +37,13 @@ Scrapling testi (7 URL): ✅ 3 erişilebilir, ❌ 4 engellendi. Blokaj oranı: %
 - [Taylor & Francis OA: Mixed Methodologies](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003790297/)
 - [PNAS: LLMs Based on Historical Text](https://www.pnas.org/doi/10.1073/pnas.2407639121)
 - [Cambridge: Large-N Qualitative Analysis](https://www.cambridge.org/core/journals/perspectives-on-politics/article/7A848B3BCC7E01924F32754B7ACCE5B3)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
