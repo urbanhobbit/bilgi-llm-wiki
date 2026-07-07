@@ -168,3 +168,8 @@
 - Source files: 2026-07-06_sage-crisis-contestation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-07_what-is-left-to-lose-addressing-and-redressing-the.md]] — What Is Left to Lose? Addressing and Redressing the Cumulative Disadvantages of the Digital Divide for Older Adults
+- Source files: 2026-07-07_oup-ppar-digital-divide.json
+- Agent: OKF Ingestion Pipeline
+
