@@ -95,4 +95,5 @@
 - [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populist and technocratic governance]]
 - [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for a future yet to come]]
 - [[raw/articles/2026-07-07_what-is-left-to-lose-addressing-and-redressing-the.md|What Is Left to Lose? Addressing and Redressing the Cumulative Disadvantages of the Digital Divide for Older Adults]]
+- [[raw/articles/2026-07-07_public-policy-aging-report-volume-36-issue-1-artic.md|Public Policy & Aging Report, Volume 36, Issue 1, Article 14]]
 

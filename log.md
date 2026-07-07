@@ -173,3 +173,8 @@
 - Source files: 2026-07-07_oup-ppar-digital-divide.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-07_public-policy-aging-report-volume-36-issue-1-artic.md]] — Public Policy & Aging Report, Volume 36, Issue 1, Article 14
+- Source files: 2026-07-07_oup-ppar-aging-policy.json
+- Agent: OKF Ingestion Pipeline
+
