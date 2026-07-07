@@ -163,3 +163,8 @@
 - Source files: 2026-07-06_sage-polarization-support.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md]] — Forum: Crisis and contestation – Boundary work for a future yet to come
+- Source files: 2026-07-06_sage-crisis-contestation.json
+- Agent: OKF Ingestion Pipeline
+
