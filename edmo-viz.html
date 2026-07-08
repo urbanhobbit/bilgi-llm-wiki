@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EDMO Knowledge Graph</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.0/cytoscape.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dagre@0.8.5/dist/dagre.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/cytoscape-dagre@1.6.1/cytoscape-dagre.min.js"></script>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:#0f172a; color:#e2e8f0; overflow:hidden; }
+#cy { width:100vw; height:100vh; }
+#controls { position:fixed; top:16px; left:50%; transform:translateX(-50%); z-index:100; display:flex; gap:8px; flex-wrap:wrap; justify-content:center; background:rgba(15,23,42,0.85); backdrop-filter:blur(12px); padding:10px 18px; border-radius:12px; border:1px solid #334155; }
+#controls label { font-size:13px; color:#94a3b8; }
+#controls select, #controls button { background:#1e293b; color:#e2e8f0; border:1px solid #475569; border-radius:6px; padding:6px 12px; font-size:13px; cursor:pointer; }
+#controls button:hover { background:#334155; }
+#controls button.active { background:#8b5cf6; border-color:#8b5cf6; }
+#stats { position:fixed; bottom:16px; left:16px; z-index:100; font-size:12px; color:#64748b; background:rgba(15,23,42,0.8); backdrop-filter:blur(8px); padding:8px 14px; border-radius:8px; border:1px solid #334155; }
+#legend { position:fixed; bottom:16px; right:16px; z-index:100; font-size:12px; background:rgba(15,23,42,0.85); backdrop-filter:blur(8px); padding:12px 16px; border-radius:8px; border:1px solid #334155; }
+#legend .row { display:flex; align-items:center; gap:8px; margin:3px 0; }
+#legend .dot { width:12px; height:12px; border-radius:50%; }
+#detail { position:fixed; top:50%; right:24px; transform:translateY(-50%); z-index:100; background:rgba(15,23,42,0.92); backdrop-filter:blur(12px); padding:16px 20px; border-radius:10px; border:1px solid #334155; max-width:280px; display:none; }
+#detail h3 { font-size:15px; margin-bottom:6px; }
+#detail p { font-size:13px; color:#94a3b8; line-height:1.4; }
+#detail a { color:#8b5cf6; text-decoration:none; }
+#detail a:hover { text-decoration:underline; }
+#checkbox-bar { position:fixed; top:76px; left:50%; transform:translateX(-50%); z-index:100; display:flex; gap:10px; flex-wrap:wrap; justify-content:center; background:rgba(15,23,42,0.8); backdrop-filter:blur(8px); padding:8px 16px; border-radius:10px; border:1px solid #334155; }
+.checkbox-item { display:flex; align-items:center; gap:5px; font-size:12px; cursor:pointer; }
+.checkbox-item input { cursor:pointer; }
+.checkbox-dot { width:8px; height:8px; border-radius:50%; display:inline-block; }
+</style>
+</head>
+<body>
+<div id="cy"></div>
+
+<div id="controls">
+  <label>Layout:</label>
+  <select id="layout-select">
+    <option value="cola">Force-Directed</option>
+    <option value="concentric" selected>Concentric</option>
+    <option value="breadthfirst">Breadth-First</option>
+    <option value="circle">Circle</option>
+    <option value="grid">Grid</option>
+  </select>
+  <button id="reset-btn">⟲ Reset View</button>
+  <button id="toggle-labels">◉ Toggle Labels</button>
+</div>
+
+<div id="checkbox-bar"></div>
+<div id="detail"></div>
+<div id="stats"></div>
+<div id="legend">
+  <div class="row"><span class="dot" style="background:#8b5cf6"></span> Institution</div>
+  <div class="row"><span class="dot" style="background:#6366f1"></span> Hub</div>
+  <div class="row"><span class="dot" style="background:#a855f7"></span> Concept</div>
+  <div class="row"><span class="dot" style="background:#10b981"></span> Weekly Pulse</div>
+  <div class="row"><span class="dot" style="background:#14b8a6"></span> Signals &amp; Noise</div>
+</div>
+
+<script>
+const nodes = [{"id": "edmo", "label": "European Digital Media Observatory", "type": "institution", "url": "https://edmo.eu", "date": "", "desc": "AB'nin disiplinlerarası dezenformasyonla mücadele ağı. 28 AB/AEA ülkesinde 15 hub koordine ediyor."}, {"id": "admo", "label": "ADMO", "type": "hub", "url": "", "date": "", "desc": "Hırvatistan / Slovenya"}, {"id": "becid", "label": "BECID", "type": "hub", "url": "", "date": "", "desc": "Belçika"}, {"id": "benedmo", "label": "BENEDMO", "type": "hub", "url": "", "date": "", "desc": "Belçika / Hollanda"}, {"id": "brod", "label": "BROD", "type": "hub", "url": "", "date": "", "desc": "Romanya / Bulgaristan"}, {"id": "cedmo", "label": "CEDMO", "type": "hub", "url": "", "date": "", "desc": "Çekya / Slovakya / Polonya"}, {"id": "de-facto", "label": "DE FACTO", "type": "hub", "url": "", "date": "", "desc": "Portekiz"}, {"id": "edmo-belux", "label": "EDMO BELUX", "type": "hub", "url": "", "date": "", "desc": "Belçika / Lüksemburg"}, {"id": "edmo-ireland", "label": "EDMO IRELAND", "type": "hub", "url": "", "date": "", "desc": "İrlanda"}, {"id": "fact", "label": "FACT", "type": "hub", "url": "", "date": "", "desc": "Birleşik Krallık"}, {"id": "gadmo", "label": "GADMO", "type": "hub", "url": "", "date": "", "desc": "Almanya / Avusturya / İsviçre"}, {"id": "hdmo", "label": "HDMO", "type": "hub", "url": "", "date": "", "desc": "Yunanistan / Güney Kıbrıs"}, {"id": "iberifier", "label": "IBERIFIER", "type": "hub", "url": "", "date": "", "desc": "İspanya / Portekiz"}, {"id": "idmo", "label": "IDMO", "type": "hub", "url": "", "date": "", "desc": "İtalya"}, {"id": "meddmo", "label": "MEDDMO", "type": "hub", "url": "", "date": "", "desc": "Kıbrıs / Malta"}, {"id": "nordis", "label": "NORDIS", "type": "hub", "url": "", "date": "", "desc": "İskandinav ülkeleri"}, {"id": "ai-gen-disinfo", "label": "AI-Generated\nDisinformation", "type": "concept", "url": "", "date": "", "desc": "Yapay zeka araçlarıyla üretilen dezenformasyon. Deepfake, sentetik medya, bilişsel savaş."}, {"id": "climate-disinfo", "label": "Climate\nDisinformation", "type": "concept", "url": "", "date": "", "desc": "İklim değişikliği dezenformasyonu. Kromatik değişim komplosu, güneş enerjisi mitleri."}, {"id": "platform-economy", "label": "Platform Economy &\nMisinformation", "type": "concept", "url": "", "date": "", "desc": "Platform şirketlerinin kâr odaklı modellerinin dezenformasyon ekosistemini beslemesi."}, {"id": "election-interference", "label": "Election\nInterference", "type": "concept", "url": "", "date": "", "desc": "Seçim müdahalesi ve dezenformasyonu. Moldova, Romanya, Macaristan, ABD seçimleri."}, {"id": "far-right-migration", "label": "Far-Right &\nMigration", "type": "concept", "url": "", "date": "", "desc": "Aşırı sağ ve göçmen karşıtı dezenformasyon. Grooming çeteleri, mülteci mitleri."}, {"id": "geopolitical-disinfo", "label": "Geopolitical\nDisinformation", "type": "concept", "url": "", "date": "", "desc": "Ukrayna/Rusya savaşı, Kırım egemenliği, İsrail/Gazza, silah komploları."}, {"id": "synthetic-media", "label": "Synthetic Media\n& AI Content", "type": "concept", "url": "", "date": "", "desc": "Sentetik influencer'lar, AI video üreteçleri, hiper-gerçekçi sahte görüntüler."}, {"id": "media-literacy", "label": "Media Literacy\n& Fact-Checking", "type": "concept", "url": "", "date": "", "desc": "Medya okuryazarlığı eğitimleri, doğrulama platformları, toplumsal dayanıklılık."}, {"id": "wp-2026-03-26", "label": "Mar 26", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "26 Mar 2026", "desc": "EDMO Weekly Pulse — 26 Mar 2026"}, {"id": "wp-2026-04-01", "label": "Apr 1", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "1 Apr 2026", "desc": "EDMO Weekly Pulse — 1 Apr 2026"}, {"id": "wp-2026-04-16", "label": "Apr 16", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "16 Apr 2026", "desc": "EDMO Weekly Pulse — 16 Apr 2026"}, {"id": "wp-2026-04-23", "label": "Apr 23", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "23 Apr 2026", "desc": "EDMO Weekly Pulse — 23 Apr 2026"}, {"id": "wp-2026-04-30", "label": "Apr 30", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "30 Apr 2026", "desc": "EDMO Weekly Pulse — 30 Apr 2026"}, {"id": "wp-2026-05-07", "label": "May 7", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "7 May 2026", "desc": "EDMO Weekly Pulse — 7 May 2026"}, {"id": "wp-2026-05-14", "label": "May 14", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "14 May 2026", "desc": "EDMO Weekly Pulse — 14 May 2026"}, {"id": "wp-2026-05-21", "label": "May 21", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "21 May 2026", "desc": "EDMO Weekly Pulse — 21 May 2026"}, {"id": "wp-2026-05-29", "label": "May 29", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "29 May 2026", "desc": "EDMO Weekly Pulse — 29 May 2026"}, {"id": "wp-2026-06-04", "label": "Jun 4", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "4 Jun 2026", "desc": "EDMO Weekly Pulse — 4 Jun 2026"}, {"id": "wp-2026-06-11", "label": "Jun 11", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "11 Jun 2026", "desc": "EDMO Weekly Pulse — 11 Jun 2026"}, {"id": "wp-2026-06-18", "label": "Jun 18", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "18 Jun 2026", "desc": "EDMO Weekly Pulse — 18 Jun 2026"}, {"id": "wp-2026-06-25", "label": "Jun 25", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "25 Jun 2026", "desc": "EDMO Weekly Pulse — 25 Jun 2026"}, {"id": "wp-2026-07-03", "label": "Jul 3", "type": "weekly-pulse", "url": "https://edmo.eu/pulse/", "date": "3 Jul 2026", "desc": "EDMO Weekly Pulse — 3 Jul 2026"}, {"id": "sn-08", "label": "S&N #8", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2022-09", "desc": "Signals & Noise — Issue 8"}, {"id": "sn-09", "label": "S&N #9", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2022-12", "desc": "Signals & Noise — Issue 9"}, {"id": "sn-10", "label": "S&N #10", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2023-03", "desc": "Signals & Noise — Issue 10"}, {"id": "sn-11", "label": "S&N #11", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2023-07", "desc": "Signals & Noise — Issue 11"}, {"id": "sn-12", "label": "S&N #12", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2023-10", "desc": "Signals & Noise — Issue 12"}, {"id": "sn-13", "label": "S&N #13", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2023-12", "desc": "Signals & Noise — Issue 13"}, {"id": "sn-14", "label": "S&N #14", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2024-03", "desc": "Signals & Noise — Issue 14"}, {"id": "sn-15", "label": "S&N #15", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2024-07", "desc": "Signals & Noise — Issue 15"}, {"id": "sn-16", "label": "S&N #16", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2024-12", "desc": "Signals & Noise — Issue 16"}, {"id": "sn-17", "label": "S&N #17", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2025-03", "desc": "Signals & Noise — Issue 17"}, {"id": "sn-18", "label": "S&N #18", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2025-06", "desc": "Signals & Noise — Issue 18"}, {"id": "sn-19", "label": "S&N #19", "type": "signals-noise", "url": "https://edmo.eu/resources/signals-noise-monthly-newsletter/", "date": "2026-04", "desc": "Signals & Noise — Issue 19"}];
+const edges = [{"src": "admo", "tgt": "edmo", "label": "hub"}, {"src": "becid", "tgt": "edmo", "label": "hub"}, {"src": "benedmo", "tgt": "edmo", "label": "hub"}, {"src": "brod", "tgt": "edmo", "label": "hub"}, {"src": "cedmo", "tgt": "edmo", "label": "hub"}, {"src": "de-facto", "tgt": "edmo", "label": "hub"}, {"src": "edmo-belux", "tgt": "edmo", "label": "hub"}, {"src": "edmo-ireland", "tgt": "edmo", "label": "hub"}, {"src": "fact", "tgt": "edmo", "label": "hub"}, {"src": "gadmo", "tgt": "edmo", "label": "hub"}, {"src": "hdmo", "tgt": "edmo", "label": "hub"}, {"src": "iberifier", "tgt": "edmo", "label": "hub"}, {"src": "idmo", "tgt": "edmo", "label": "hub"}, {"src": "meddmo", "tgt": "edmo", "label": "hub"}, {"src": "nordis", "tgt": "edmo", "label": "hub"}, {"src": "ai-gen-disinfo", "tgt": "edmo", "label": "related"}, {"src": "climate-disinfo", "tgt": "edmo", "label": "related"}, {"src": "platform-economy", "tgt": "edmo", "label": "related"}, {"src": "election-interference", "tgt": "edmo", "label": "related"}, {"src": "far-right-migration", "tgt": "edmo", "label": "related"}, {"src": "geopolitical-disinfo", "tgt": "edmo", "label": "related"}, {"src": "synthetic-media", "tgt": "edmo", "label": "related"}, {"src": "media-literacy", "tgt": "edmo", "label": "related"}, {"src": "ai-gen-disinfo", "tgt": "synthetic-media", "label": "overlaps"}, {"src": "ai-gen-disinfo", "tgt": "platform-economy", "label": "feeds"}, {"src": "synthetic-media", "tgt": "platform-economy", "label": "monetized"}, {"src": "synthetic-media", "tgt": "election-interference", "label": "used_in"}, {"src": "election-interference", "tgt": "far-right-migration", "label": "amplifies"}, {"src": "election-interference", "tgt": "geopolitical-disinfo", "label": "includes"}, {"src": "geopolitical-disinfo", "tgt": "far-right-migration", "label": "connected"}, {"src": "climate-disinfo", "tgt": "media-literacy", "label": "countered_by"}, {"src": "platform-economy", "tgt": "media-literacy", "label": "requires"}, {"src": "wp-2026-03-26", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-03-26", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-03-26", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-03-26", "tgt": "geopolitical-disinfo", "label": "topic"}, {"src": "wp-2026-04-01", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-04-01", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-04-16", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-04-16", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-04-23", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-04-23", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-04-23", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-04-23", "tgt": "platform-economy", "label": "topic"}, {"src": "wp-2026-04-30", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-04-30", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-04-30", "tgt": "geopolitical-disinfo", "label": "topic"}, {"src": "wp-2026-05-07", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-05-07", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-05-07", "tgt": "geopolitical-disinfo", "label": "topic"}, {"src": "wp-2026-05-14", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-05-14", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-05-14", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-05-14", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-05-14", "tgt": "geopolitical-disinfo", "label": "topic"}, {"src": "wp-2026-05-14", "tgt": "media-literacy", "label": "topic"}, {"src": "wp-2026-05-21", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-05-21", "tgt": "far-right-migration", "label": "topic"}, {"src": "wp-2026-05-29", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-05-29", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-05-29", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-05-29", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-05-29", "tgt": "far-right-migration", "label": "topic"}, {"src": "wp-2026-06-04", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-06-04", "tgt": "climate-disinfo", "label": "topic"}, {"src": "wp-2026-06-04", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-06-11", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-06-11", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-06-11", "tgt": "geopolitical-disinfo", "label": "topic"}, {"src": "wp-2026-06-11", "tgt": "brod", "label": "region"}, {"src": "wp-2026-06-18", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-06-18", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-06-18", "tgt": "far-right-migration", "label": "topic"}, {"src": "wp-2026-06-18", "tgt": "fact", "label": "region"}, {"src": "wp-2026-06-25", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-06-25", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-06-25", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-06-25", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-07-03", "tgt": "edmo", "label": "published"}, {"src": "wp-2026-07-03", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "wp-2026-07-03", "tgt": "synthetic-media", "label": "topic"}, {"src": "wp-2026-07-03", "tgt": "climate-disinfo", "label": "topic"}, {"src": "wp-2026-07-03", "tgt": "election-interference", "label": "topic"}, {"src": "wp-2026-07-03", "tgt": "brod", "label": "region"}, {"src": "sn-08", "tgt": "edmo", "label": "published"}, {"src": "sn-09", "tgt": "edmo", "label": "published"}, {"src": "sn-10", "tgt": "edmo", "label": "published"}, {"src": "sn-11", "tgt": "edmo", "label": "published"}, {"src": "sn-12", "tgt": "edmo", "label": "published"}, {"src": "sn-13", "tgt": "edmo", "label": "published"}, {"src": "sn-14", "tgt": "edmo", "label": "published"}, {"src": "sn-15", "tgt": "edmo", "label": "published"}, {"src": "sn-16", "tgt": "edmo", "label": "published"}, {"src": "sn-17", "tgt": "edmo", "label": "published"}, {"src": "sn-18", "tgt": "edmo", "label": "published"}, {"src": "sn-18", "tgt": "election-interference", "label": "topic"}, {"src": "sn-18", "tgt": "media-literacy", "label": "topic"}, {"src": "sn-18", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "sn-18", "tgt": "climate-disinfo", "label": "topic"}, {"src": "sn-19", "tgt": "edmo", "label": "published"}, {"src": "sn-19", "tgt": "election-interference", "label": "topic"}, {"src": "sn-19", "tgt": "media-literacy", "label": "topic"}, {"src": "sn-19", "tgt": "ai-gen-disinfo", "label": "topic"}, {"src": "sn-19", "tgt": "platform-economy", "label": "topic"}];
+
+const COLORS = {"institution": "#8b5cf6", "hub": "#6366f1", "concept": "#a855f7", "weekly-pulse": "#10b981", "signals-noise": "#14b8a6"};
+
+let cy;
+
+function initCy(layoutName, showTypes) {
+  if (cy) cy.destroy();
+  
+  const filtered = showTypes
+    ? nodes.filter(n => showTypes.includes(n.type))
+    : nodes;
+  const filteredIds = new Set(filtered.map(n => n.id));
+  const filteredEdges = edges.filter(e => filteredIds.has(e.src) && filteredIds.has(e.tgt));
+  
+  cy = cytoscape({
+    container: document.getElementById('cy'),
+    style: [
+      {
+        selector: 'node',
+        style: {
+          'background-color': 'data(color)',
+          'label': 'data(label)',
+          'color': '#e2e8f0',
+          'font-size': '11px',
+          'text-valign': 'bottom',
+          'text-halign': 'center',
+          'text-margin-y': 6,
+          'width': el => el.data('type') === 'institution' ? 60 : el.data('type') === 'hub' ? 42 : 36,
+          'height': el => el.data('type') === 'institution' ? 60 : el.data('type') === 'hub' ? 42 : 36,
+          'border-width': 2,
+          'border-color': '#1e293b',
+          'shape': el => { switch(el.data('type')) {
+            case 'institution': return 'star';
+            case 'hub': return 'hexagon';
+            case 'concept': return 'diamond';
+            default: return 'ellipse';
+          }},
+        }
+      },
+      {
+        selector: 'edge',
+        style: {
+          'width': 1.5,
+          'line-color': '#475569',
+          'target-arrow-color': '#475569',
+          'target-arrow-shape': 'triangle',
+          'curve-style': 'bezier',
+          'arrow-scale': 0.7,
+        }
+      },
+      {
+        selector: 'edge[label]',
+        style: {
+          'label': 'data(label)',
+          'font-size': '9px',
+          'color': '#64748b',
+          'text-background-color': '#0f172a',
+          'text-background-opacity': 0.8,
+          'text-background-padding': 2,
+        }
+      },
+      {
+        selector: 'node:selected',
+        style: { 'border-color': '#fbbf24', 'border-width': 3 }
+      }
+    ],
+    elements: [
+      ...filtered.map(n => ({
+        data: { ...n, color: COLORS[n.type] || '#94a3b8' }
+      })),
+      ...filteredEdges.map(e => ({
+        data: { source: e.src, target: e.tgt, label: e.label }
+      }))
+    ],
+    layout: { name: layoutName === 'cola' ? 'grid' : layoutName },
+    wheelSensitivity: 0.3,
+  });
+
+  if (layoutName === 'cola') {
+    // fallback: use concentric centered on edmo
+    cy.layout({ name: 'concentric', concentric: el => el.id() === 'edmo' ? 0 : 1, levelWidth: () => 1 }).run();
+  }
+  
+  cy.on('tap', 'node', function(evt) {
+    const n = evt.target.data();
+    const d = document.getElementById('detail');
+    d.style.display = 'block';
+    let html = `<h3>${n.label.replace(/\n/g, '<br>')}</h3>`;
+    html += `<p style="color:#${COLORS[n.type]?.slice(1) || '94a3b8'};font-size:11px;text-transform:uppercase">${n.type}</p>`;
+    if (n.desc) html += `<p style="margin-top:6px">${n.desc}</p>`;
+    if (n.date) html += `<p style="margin-top:4px;font-size:12px;color:#64748b">📅 ${n.date}</p>`;
+    if (n.url) html += `<p style="margin-top:6px"><a href="${n.url}" target="_blank">🔗 Source</a></p>`;
+    d.innerHTML = html;
+  });
+  
+  cy.on('tap', function(evt) {
+    if (evt.target === cy) document.getElementById('detail').style.display = 'none';
+  });
+  
+  updateStats(filtered.length, filteredEdges.length);
+}
+
+function updateStats(n, e) {
+  document.getElementById('stats').textContent = `${n} nodes · ${e} edges · ${nodes.length} total`;
+}
+
+// ── Type checkboxes ──
+const typeInfo = [
+  { key: 'institution', label: 'Institution', color: '#8b5cf6' },
+  { key: 'hub', label: 'Hubs', color: '#6366f1' },
+  { key: 'concept', label: 'Concepts', color: '#a855f7' },
+  { key: 'weekly-pulse', label: 'Weekly Pulse', color: '#10b981' },
+  { key: 'signals-noise', label: 'Signals & Noise', color: '#14b8a6' },
+];
+const activeTypes = new Set(typeInfo.map(t => t.key));
+
+const bar = document.getElementById('checkbox-bar');
+typeInfo.forEach(ti => {
+  const div = document.createElement('div');
+  div.className = 'checkbox-item';
+  div.innerHTML = `<input type="checkbox" checked><span class="checkbox-dot" style="background:${ti.color}"></span>${ti.label}`;
+  div.querySelector('input').addEventListener('change', function() {
+    if (this.checked) activeTypes.add(ti.key);
+    else activeTypes.delete(ti.key);
+    const layout = document.getElementById('layout-select').value;
+    initCy(layout, Array.from(activeTypes));
+  });
+  bar.appendChild(div);
+});
+
+// ── Layout switcher ──
+document.getElementById('layout-select').addEventListener('change', function() {
+  initCy(this.value, Array.from(activeTypes));
+});
+
+document.getElementById('reset-btn').addEventListener('click', function() {
+  cy.fit(undefined, 50);
+  cy.center();
+});
+
+let labelsVisible = true;
+document.getElementById('toggle-labels').addEventListener('click', function() {
+  labelsVisible = !labelsVisible;
+  cy.nodes().style('label', labelsVisible ? 'data(label)' : '');
+  this.textContent = labelsVisible ? '◉ Toggle Labels' : '◯ Toggle Labels';
+});
+
+// ── Init ──
+initCy('concentric', Array.from(activeTypes));
+</script>
+</body>
+</html>
