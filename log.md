@@ -1,3 +1,10 @@
+## [2026-07-08] ingest | EDMO Knowledge Graph integration
+- New concepts: [[concepts/election-interference-disinformation.md]], [[concepts/far-right-migration-disinformation.md]], [[concepts/geopolitical-disinformation.md]], [[concepts/synthetic-media-ai-content.md]], [[concepts/media-literacy-fact-checking.md]]
+- New hub entities: [[entities/becid.md]], [[entities/benedmo.md]], [[entities/brod.md]], [[entities/cedmo.md]], [[entities/de-facto.md]], [[entities/edmo-belux.md]], [[entities/edmo-ireland.md]], [[entities/fact.md]], [[entities/gadmo.md]], [[entities/hdmo.md]], [[entities/iberifier.md]], [[entities/idmo.md]], [[entities/meddmo.md]]
+- Updated index.md with all EDMO Weekly Pulse (14) and Signals & Noise (12) articles
+- Updated entities/edmo.md with wikilinks to all 15 hubs
+- Generated EDMO knowledge graph: https://urbanhobbit.github.io/bilgi-llm-wiki/edmo-viz.html (50 nodes, 70 edges)
+
 ## [2026-07-04] ingest | EDMO Weekly Pulse - 03 July 2026
 - Raw: [[raw/articles/2026-07-03-edmo-weekly-pulse.md]] — Climate Change Denialism, and How to Shoot the Messenger to Ignore the Message
 - Topics: Climate denialism & chromatic change conspiracy theory during European heatwave, misleading claims about solar panel environmental footprint, air conditioner urban heat island effects, UK-Moldovan operation uncovering $107M Russian crypto election interference, false claims about The Hague recognizing Crimea annexation, grooming gang disinformation in Britain, refugee religious composition myth-debunking, Google Gemini AI video generator disinformation risks

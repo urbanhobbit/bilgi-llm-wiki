@@ -39,3 +39,11 @@ The concepts of crisis and contestation have become ubiquitous in International 
 ## Turkey Context
 
 Makale Türk akademisyenleri (Esra Dilek, Özge Onursal-Beşgül) içermesi açısından dikkat çekici. Crisis ve contestation kavramlarının uluslararası ilişkilerdeki yeri Türkiye bağlamında da okunabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]

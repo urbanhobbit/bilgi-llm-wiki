@@ -44,3 +44,21 @@ KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında yaşlı bi
 Aile ve Sosyal Hizmetler Bakanlığı'nın 2024-2028 Yaşlanma Vizyonu Belgesi, 'dijital yaşlılık' kavramını gündeme taşıyarak yaşlı bireylerin dijital teknolojilere erişimini ve kullanımını artırmayı hedeflemiştir. Ancak belgede dijital uçurumun kümülatif etkilerini ele alan bütüncül bir politika çerçevesi henüz oluşturulmamıştır. Sağlık Bakanlığı'nın 2025'te başlattığı 'Dijital Sağlık Okuryazarlığı Programı' yaşlıları da kapsamakla birlikte, hedeflenmiş yaşlı odaklı modüller henüz geliştirilme aşamasındadır. BTK (Bilgi Teknolojileri ve İletişim Kurumu)'nun 2025-2026 stratejik planında yaşlı dostu dijital hizmetler ve evrensel hizmet kapsamında yaşlılara yönelik internet erişim desteği öncelikli alanlar arasında yer almıştır. MEB'in Hayat Boyu Öğrenme Genel Müdürlüğü tarafından yürütülen '60+ Tazelenme Üniversitesi' ve Halk Eğitim Merkezleri aracılığıyla yaşlılara yönelik dijital okuryazarlık kursları düzenlenmektedir. Ancak bu kursların katılımcı sayısı (2025'te yaklaşık 45.000 kişi) hedef kitleye kıyasla oldukça sınırlıdır.
 
 UNICEF Türkiye'nin 2025 raporları, dijital uçurumun nesiller arası aktarımına dikkat çekmekte, yaşlı bireylerin dijital beceri eksikliğinin torunlarının dijital gelişimini de olumsuz etkileyebileceğini belirtmektedir. Türkiye'de kamu hizmetlerinin dijitalleşmesi (e-Devlet, e-Nabız, e-Sağlık) hızla devam ederken, yaşlı bireylerin bu hizmetlere erişiminde yaşadığı zorluklar dijital uçurumun bir kamu politikası sorunu olarak ele alınmasını zorunlu kılmaktadır. Dijital Hizmetler Kanunu kapsamında kamu hizmeti sağlayıcılarının erişilebilirlik yükümlülüklerinin yaşlı bireyleri de kapsayacak şekilde genişletilmesi, Türkiye'deki dijital dönüşüm sürecinin kapsayıcılığını artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]
