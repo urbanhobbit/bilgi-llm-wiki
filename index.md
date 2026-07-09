@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-08 | Total pages: 134
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-08 | Total pages: 136
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -20,6 +20,7 @@
 - [[entities/hdmo.md|HDMO (Yunanistan/Güney Kıbrıs)]]
 - [[entities/iberifier.md|IBERIFIER (İspanya/Portekiz)]]
 - [[entities/idmo.md|IDMO (İtalya)]]
+- [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
 - [[entities/meddmo.md|MEDDMO (Kıbrıs/Malta)]]
 - [[entities/nordis.md|NORDIS (İskandinav)]]
 - [[entities/techcrunch-com.md|TechCrunch]]
@@ -45,6 +46,7 @@
 - [[concepts/far-right-migration-disinformation.md|Far-Right and Migration Disinformation]]
 - [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking]]
+- [[concepts/misinformation-resilience-indexes.md|Mis/Disinformation Resilience Indexes]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/synthetic-media-ai-content.md|Synthetic Media and AI-Generated Content]]
@@ -99,6 +101,9 @@
   - [[raw/articles/edmo-signals-noise-issue-10-2023-03.md|Issue 10 (Mar 2023)]] - Signals & Noise
   - [[raw/articles/edmo-signals-noise-issue-9-2022-12.md|Issue 9 (Dec 2022)]] - Signals & Noise
   - [[raw/articles/edmo-signals-noise-issue-8-2022-09.md|Issue 8 (Sep 2022)]] - Signals & Noise
+
+## IPIE Reports
+- [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|Jun 2026]] - Resilience and Vulnerability to Misinformation and Disinformation: A Comparative Review of Ten Indexes (IPIE TP2026.1)
 
 ## KURATOR Bulletins
 - [[raw/articles/2026-06-27_cocuk_dijital.md|Jun 27, 2026]] - Çocuklar ve Dijital Dünya Haftalık Araştırma Bülteni (KURATOR)

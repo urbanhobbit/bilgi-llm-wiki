@@ -1,3 +1,9 @@
+## [2026-07-08] ingest | IPIE Report: Mis/Disinformation Resilience Index Review
+- Raw: [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md]] — IPIE TP2026.1: 10 indexes compared (GDI, MRMI, DRI, GVI, GPI, FIMI, ROD, EV, MLI, MVI)
+- New entity: [[entities/ipie.md]] — International Panel on the Information Environment
+- New concept: [[concepts/misinformation-resilience-indexes.md]] — Comparative review with typology and methodology analysis
+- Updated index.md (+2 pages, 136 total)
+
 ## [2026-07-08] ingest | EDMO Knowledge Graph integration
 - New concepts: [[concepts/election-interference-disinformation.md]], [[concepts/far-right-migration-disinformation.md]], [[concepts/geopolitical-disinformation.md]], [[concepts/synthetic-media-ai-content.md]], [[concepts/media-literacy-fact-checking.md]]
 - New hub entities: [[entities/becid.md]], [[entities/benedmo.md]], [[entities/brod.md]], [[entities/cedmo.md]], [[entities/de-facto.md]], [[entities/edmo-belux.md]], [[entities/edmo-ireland.md]], [[entities/fact.md]], [[entities/gadmo.md]], [[entities/hdmo.md]], [[entities/iberifier.md]], [[entities/idmo.md]], [[entities/meddmo.md]]
