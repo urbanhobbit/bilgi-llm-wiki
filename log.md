@@ -1,3 +1,8 @@
+## [2026-07-09] ingest | Bulutgil & Mylonas — Theory before method
+- Raw: [[raw/articles/bulutgil-mylonas-methodological-pluralism-2026.md]] — H. Zeynep Bulutgil & Harris Mylonas (2026), "Theory before method: The case for methodological pluralism in political science", International Political Science Review, SAGE. DOI: 10.1177/01925121261445570. 82 references. Popperian framework for comparative theory testing.
+- New entity: [[entities/journals-sagepub-com.md]] — SAGE Publications (akademik yayınevi)
+- Updated index.md (+2 pages, 138 total)
+
 ## [2026-07-08] ingest | IPIE Report: Mis/Disinformation Resilience Index Review
 - Raw: [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md]] — IPIE TP2026.1: 10 indexes compared (GDI, MRMI, DRI, GVI, GPI, FIMI, ROD, EV, MLI, MVI)
 - New entity: [[entities/ipie.md]] — International Panel on the Information Environment
