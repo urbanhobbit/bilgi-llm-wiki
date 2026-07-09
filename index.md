@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-08 | Total pages: 136
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-08 | Total pages: 138
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -34,6 +34,8 @@
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 - [[entities/www-theguardian-com.md|The Guardian]]
 - [[entities/x-com.md|X (Twitter)]]
+
+- [[entities/journals-sagepub-com.md|SAGE Publications]]
 
 ## Concepts
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
