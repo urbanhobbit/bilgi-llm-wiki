@@ -75,6 +75,7 @@
 - [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL Haftalık Derleme - 23 Mayıs 2026]]
 
 ## EDMO Weekly Pulse
+  - [[raw/articles/2026-07-09-edmo-weekly-pulse.md|Jul 9, 2026]] - Europe Caught in the Crossfire of NATO-related Disinformation
   - [[raw/articles/2026-07-03-edmo-weekly-pulse.md|Jul 3, 2026]] - Climate Change Denialism, and How to Shoot the Messenger to Ignore the Message
   - [[raw/articles/2026-06-25-edmo-weekly-pulse.md|Jun 25, 2026]] - The World Cup of Hypersexualized Fakes?
   - [[raw/articles/2026-06-18-edmo-weekly-pulse.md|Jun 18, 2026]] - Dublin, Southport, Belfast: Who Is Fanning the Flames?

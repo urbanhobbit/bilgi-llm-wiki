@@ -1,3 +1,8 @@
+## [2026-07-11] ingest | EDMO Weekly Pulse - 09 July 2026
+- Raw: [[raw/articles/2026-07-09-edmo-weekly-pulse.md]] — Europe Caught in the Crossfire of NATO-related Disinformation
+- Topics: NATO Ankara summit disinformation, US/Russian anti-NATO narratives, Ukraine drone false-flag claims, fake BBC French mercenary story, Germany-Ukraine aid housing myth, AI-generated German election law video, Romanian coordinated Facebook amplification, Pechory Lavra blame deflection, Palestinian flag KGB myth, RT sanctions evasion on X, platform monetization of repeat disinformers
+- Sections: ON THE RISE (NATO crossfire), ZOOM-IN (3 fact-checks: drone, mercenaries, housing), ELECTION BEAT (Germany AI video, Romania Facebook coordination), GLOBAL PULSE (Pechory Lavra, Palestinian flag, RT on X), ON A DIFFERENT NOTE (Meta monetization enforcement failure)
+
 ## [2026-07-09] ingest | Bulutgil & Mylonas — Theory before method
 - Raw: [[raw/articles/bulutgil-mylonas-methodological-pluralism-2026.md]] — H. Zeynep Bulutgil & Harris Mylonas (2026), "Theory before method: The case for methodological pluralism in political science", International Political Science Review, SAGE. DOI: 10.1177/01925121261445570. 82 references. Popperian framework for comparative theory testing.
 - New entity: [[entities/journals-sagepub-com.md]] — SAGE Publications (akademik yayınevi)

@@ -17,7 +17,6 @@ ingested: "2026-07-08"
 sha256: "draft"
 ---
 
-
 --- Page 1/81 ---
 
 Resilience and Vulnerability to
@@ -3406,4 +3405,22 @@ Seefeldstrasse 123
 P.O. Box 8034 Zurich
 Switzerland
 
+---
 
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
