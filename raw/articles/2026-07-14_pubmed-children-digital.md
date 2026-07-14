@@ -44,3 +44,30 @@ Milli Eğitim Bakanlığı (MEB), dijital vatandaşlık ve medya okuryazarlığ�
 UNICEF Türkiye'nin çocuk hakları raporları, dijital platformların çocuklar üzerindeki etkilerine dikkat çekmekte, Türkiye'nin çocuk odaklı dijital politika geliştirme kapasitesinin güçlendirilmesi gerektiğini vurgulamaktadır. Türkiye'de sivil toplum kuruluşları (örneğin, Türkiye Bilişim Derneği, Alternatif Bilişim Derneği, Yeşilay Teknoloji Bağımlılığı çalışmaları) bu alanda önemli farkındalık çalışmaları yürütmekle birlikte, Common Sense Media benzeri kapsamlı, bağımsız bir araştırma kuruluşunun bulunmaması, politika geliştirme sürecinde veri boşluğu yaratmaktadır.
 
 Türkiye'nin Dijital Hizmetler Kanunu'nun AB'nin Dijital Hizmetler Yasası (DSA) ile uyumlaştırılması, çocukların çevrimiçi platformlarda karşılaştıkları risklerin daha etkin bir şekilde yönetilmesini sağlayacaktır. Bu kapsamda, platformların çocuk kullanıcılar için varsayılan olarak en yüksek mahremiyet ayarlarını uygulaması, yaşa uygun içerik öneri sistemleri geliştirmesi ve çocuk güvenliği etki değerlendirmeleri yapması gibi yükümlülükler getirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
+- [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]
+- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
+- [[raw/articles/2026-06-26_pubmed-screen-time-and-children-s-mental-health-re.md|PubMed: Screen Time and Children's Mental Health -]]
+- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]

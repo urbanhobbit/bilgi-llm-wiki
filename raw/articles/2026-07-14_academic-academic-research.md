@@ -39,3 +39,21 @@ TÜBİTAK'ın sosyal ve beşeri bilimler alanındaki araştırma destek programl
 Türkiye'deki üniversitelerin iletişim fakülteleri, siyaset bilimi bölümleri, sosyoloji ve psikoloji bölümleri, dijital dönüşümün toplumsal etkileri konusunda değerli araştırmalar yürütmektedir. Ancak bu araştırmaların politika yapıcılarla buluşturulması ve kamu politikalarının şekillendirilmesinde kullanılması konusunda önemli bir kopukluk bulunmaktadır. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi, TÜBİTAK ve üniversiteler arasındaki işbirliğinin güçlendirilmesi, akademik bilginin politika süreçlerine entegrasyonunu hızlandıracak, kanıta dayalı politika yapımını güçlendirecektir.
 
 Türkiye'de akademik araştırmaların karşılaştığı temel zorluklar arasında sınırlı araştırma fonları, veri erişimi kısıtlamaları, metodolojik kapasite eksikliği ve disiplinlerarası işbirliğinin yetersizliği sayılabilir. Bu zorlukların aşılması, Türk akademisinin küresel rekabet gücünü artıracak ve Türkiye'nin dijital dönüşüm sürecine akademik katkıyı güçlendirecektir. Üniversitelerarası Kurul'un dijital dönüşüm alanında disiplinlerarası lisansüstü programları teşvik etmesi ve TÜBİTAK'ın bu alandaki Ar-Ge projelerine öncelik vermesi, uzun vadede Türkiye'nin bu alandaki akademik kapasitesini önemli ölçüde artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
+- [[raw/articles/2026-06-26_85864.md|85864]]
+- [[raw/articles/2026-06-26_8586455.md|8586455]]
+- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

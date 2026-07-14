@@ -39,3 +39,21 @@ TÜBİTAK'ın sosyal ve beşeri bilimler alanındaki araştırma destek programl
 Türkiye'deki üniversitelerin iletişim fakülteleri, siyaset bilimi bölümleri, sosyoloji ve psikoloji bölümleri, dijital dönüşümün toplumsal etkileri konusunda değerli araştırmalar yürütmektedir. Ancak bu araştırmaların politika yapıcılarla buluşturulması ve kamu politikalarının şekillendirilmesinde kullanılması konusunda önemli bir kopukluk bulunmaktadır. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi, TÜBİTAK ve üniversiteler arasındaki işbirliğinin güçlendirilmesi, akademik bilginin politika süreçlerine entegrasyonunu hızlandıracak, kanıta dayalı politika yapımını güçlendirecektir.
 
 Türkiye'de akademik araştırmaların karşılaştığı temel zorluklar arasında sınırlı araştırma fonları, veri erişimi kısıtlamaları, metodolojik kapasite eksikliği ve disiplinlerarası işbirliğinin yetersizliği sayılabilir. Bu zorlukların aşılması, Türk akademisinin küresel rekabet gücünü artıracak ve Türkiye'nin dijital dönüşüm sürecine akademik katkıyı güçlendirecektir. Üniversitelerarası Kurul'un dijital dönüşüm alanında disiplinlerarası lisansüstü programları teşvik etmesi ve TÜBİTAK'ın bu alandaki Ar-Ge projelerine öncelik vermesi, uzun vadede Türkiye'nin bu alandaki akademik kapasitesini önemli ölçüde artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md|Shackle or hammer? How polarisation influences pol]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
