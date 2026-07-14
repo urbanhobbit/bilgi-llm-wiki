@@ -42,3 +42,9 @@ Political science is undergoing a pronounced methodological shift toward causal 
 ## Türkiye Bağlamı
 
 Türkiye'de siyaset bilimi ve sosyal bilimlerde son yıllarda nicel yöntemlere ve nedensel çıkarıma artan bir ilgi görülmektedir. TÜBİTAK destekli projelerde ve akademik yükseltme kriterlerinde uluslararası indeksli yayınlara verilen ağırlık, tasarım temelli yöntemlerin (difference-in-differences, regresyon süreksizliği, randomize kontrollü deneyler) Türkiye akademisinde de yaygınlaşmasına yol açmıştır. Ancak Bulutgil ve Mylonas'ın savunduğu gibi, yöntem tercihinin teorik çerçeveye bağlı olması gerektiği argümanı, Türkiye'de özellikle alan araştırması ve nitel yöntemlerin (derinlemesine görüşme, etnografi, söylem analizi) hâlâ güçlü olduğu sosyoloji, antropoloji ve siyaset bilimi gelenekleri için önemlidir. Makale, Türkiye'deki sosyal bilimcilerin metodolojik çoğulculuğu savunmaları ve yöntem seçimini teorik sorunsala dayandırmaları için güçlü bir teorik zemin sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
