@@ -235,3 +235,33 @@
 - Source files: 2026-07-14_categorized_v2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-15_five-years-of-general-comment-no-25-from-promises-.md]] — Five years of General comment No. 25: From promises to progress
+- Raw: [[raw/articles/2026-07-15_parents-think-they-know-how-kids-use-ai-they-don-t.md]] — Parents think they know how kids use AI. They don't
+- Raw: [[raw/articles/2026-07-15_doctor-discusses-kids-social-media-screen-time-and.md]] — Doctor discusses kids' social media, screen time and new Massachusetts law
+- Raw: [[raw/articles/2026-07-15_reps-pass-youth-social-media-ban-over-privacy-big-.md]] — Reps pass youth social media ban over privacy, big tech concerns
+- Raw: [[raw/articles/2026-07-15_ico-kids-protecting-children-s-data.md]] — ICO: Kids - Protecting children's data
+- Raw: [[raw/articles/2026-07-15_ftc-complying-with-coppa-federal-trade-commission.md]] — FTC: Complying with COPPA - Federal Trade Commission
+- Raw: [[raw/articles/2026-07-15_ftc-children-s-online-privacy-protection-rule-copp.md]] — FTC: Children's Online Privacy Protection Rule (COPPA)
+- Raw: [[raw/articles/2026-07-15_china-issues-new-rules-classifying-online-content-.md]] — China issues new rules classifying online content harmful to minors
+- Raw: [[raw/articles/2026-07-15_brazil-is-first-latin-american-country-to-enshrine.md]] — Brazil is first Latin American country to enshrine age-appropriate design standards into law
+- Raw: [[raw/articles/2026-07-15_age-checking-systems-can-now-be-certified-against-.md]] — Age checking systems can now be certified against 5Rights-led technical standard
+- Raw: [[raw/articles/2026-07-15_united-states-of-america-5rights.md]] — United States of America - 5Rights
+- Raw: [[raw/articles/2026-07-15_molly-rose-foundation-australia-social-media-ban-r.md]] — Molly Rose Foundation: Australia Social Media Ban Research Briefing
+- Raw: [[raw/articles/2026-07-15_the-uk-s-proposed-in-real-life-study-of-social-med.md]] — The UK's Proposed 'In Real Life' Study of Social Media Reduction is Scientifically Unsound
+- Raw: [[raw/articles/2026-07-15_our-top-health-agency-s-surveys-found-what-really-.md]] — Our top health agency's surveys found what really makes teenagers depressed
+- Raw: [[raw/articles/2026-07-15_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md]] — Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerçeveyi oluşturduk
+- Raw: [[raw/articles/2026-07-15_ocuklara-y-nelik-sosyal-medya-d-zenlemesinin-er-ev.md]] — Çocuklara yönelik sosyal medya düzenlemesinin çerçevesini oluşturduk
+- Raw: [[raw/articles/2026-07-15_online-age-verification-laws-by-country-wikipedia.md]] — Online age verification laws by country - Wikipedia
+- Raw: [[raw/articles/2026-07-15_social-media-age-verification-laws-in-the-united-s.md]] — Social media age verification laws in the United States - Wikipedia
+- Raw: [[raw/articles/2026-07-15_uk-parliament-research-briefing-on-children-and-so.md]] — UK Parliament: Research Briefing on Children and Social Media
+- Raw: [[raw/articles/2026-07-15_unicef-digital-rights-guidelines-update-2026.md]] — UNICEF: Digital Rights Guidelines Update 2026
+- Raw: [[raw/articles/2026-07-15_the-digital-services-act-shaping-europe-s-digital-.md]] — The Digital Services Act | Shaping Europe's digital future
+- Raw: [[raw/articles/2026-07-15_managing-disinformation-on-social-media-platforms-.md]] — Managing disinformation on social media platforms | Electronic Markets
+- Raw: [[raw/articles/2026-07-15_prebunking-misinformation-techniques-in-social-med.md]] — Prebunking misinformation techniques in social media feeds: Results from an Instagram field study
+- Raw: [[raw/articles/2026-07-15_yapay-zeka-se-im-dezenformasyonu-ve-demokratik-s-r.md]] — Yapay Zeka, Seçim Dezenformasyonu ve Demokratik Süreçler - T24 (404)
+- Raw: [[raw/articles/2026-07-15_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw.md]] — Almanya seçimleri ve dezenformasyon savaşları - DW
+- Raw: [[raw/articles/2026-07-15_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md]] — Yapay zeka teknolojileri ve dezenformasyon tartışmaları - Digital Türkçe (DNS hatası)
+- Source files: 2026-07-15_categorized.json
+- Agent: OKF Ingestion Pipeline
+

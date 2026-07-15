@@ -39,3 +39,16 @@ Türkiye'deki siyasi partiler, Macaristan'da muhalefetin TISZA partisi etrafınd
 Macaristan'da AB ile ilişkilerin normalleşmesi ve hukukun üstünlüğü standartlarının yeniden tesis edilmesi yönündeki beklentiler, Türkiye-AB ilişkileri açısından da örnek teşkil edebilecek bir süreç olarak değerlendirilmektedir. Türkiye'nin AB ile katılım müzakereleri ve Gümrük Birliği'nin güncellenmesi süreçlerinde, Macaristan'ın demokratik standartları yeniden inşa etme deneyiminden çıkarılacak dersler bulunmaktadır. Avrupa Komisyonu'nun Macaristan'a yönelik hukukun üstünlüğü mekanizmaları ve fon blokajı kararları, benzer durumların Türkiye için de emsal teşkil edebileceği yönünde değerlendirilmektedir.
 
 Ekonomik boyutuyla ele alındığında, Macaristan'da iktidar değişikliğinin piyasalara yansıması, yabancı yatırımcı güveni ve uluslararası kredi derecelendirme kuruluşlarının değerlendirmeleri, Türkiye için de önemli göstergeler sunmaktadır. Magyar hükümetinin ekonomi politikalarında beklenen dönüşüm, özellikle enflasyonla mücadele, para politikası bağımsızlığı ve yapısal reformlar konularında Türkiye ile karşılaştırmalı analizlere konu olmaktadır. Her iki ülke de benzer makroekonomik zorluklarla karşı karşıya olduğundan, Macaristan'ın izleyeceği ekonomi politikaları Türkiye için de önemli bir referans noktası ve karşılaştırmalı analiz zemini olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
+- [[raw/articles/2026-06-26_genel-index-hu.md|GENEL - index.hu]]
+- [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]
+- [[raw/articles/2026-06-26_index-hu-belfold-2026-valasztas-2026-orszaggyu.md|Index.hu - belfold 2026 valasztas 2026 orszaggyu]]
+- [[raw/articles/2026-06-26_index-hu-first-kremlin-reaction-orb-n-s-election-c.md|Index.hu: First Kremlin Reaction - Orbán's Electio]]
