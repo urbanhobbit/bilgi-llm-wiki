@@ -162,4 +162,13 @@
 - [[raw/articles/2026-07-14_politico-hungarian-election.md|POLITICO - Hungarian Election]]
 - [[raw/articles/2026-07-14_n4g-hungarian-election.md|N4G - Hungarian Election]]
 - [[raw/articles/2026-07-14_index-hungarian-election.md|INDEX - Hungarian Election]]
+- [[raw/articles/2026-07-15_eri-ilemedi-known-blocked-5rights-foundation.md|Erişilemedi (known_blocked - 5Rights Foundation)]]
+- [[raw/articles/2026-07-15_these-are-the-countries-moving-to-ban-social-media.md|These are the countries moving to ban social media for children | TechCrunch]]
+- [[raw/articles/2026-07-15_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 2026 (And What Parents Should Do) | WhitelistVideo Blog]]
+- [[raw/articles/2026-07-15_what-parents-say-about-their-teen-s-ai-use-pew-res.md|What parents say about their teen's AI use | Pew Research Center]]
+- [[raw/articles/2026-07-15_eri-ilemedi-known-blocked-bbc-future.md|Erişilemedi (known_blocked - BBC Future)]]
+- [[raw/articles/2026-07-15_ma-social-media-ban-for-under-14s-what-parents-nee.md|MA Social Media Ban for Under 14s: What Parents Need to Know | WhitelistVideo Blog]]
+- [[raw/articles/2026-07-15_eri-ilemedi-http-451-legal-restriction.md|Erişilemedi (http_451 - Legal restriction)]]
+- [[raw/articles/2026-07-15_eri-ilemedi-http-429-rate-limited.md|Erişilemedi (http_429 - Rate limited)]]
+- [[raw/articles/2026-07-15_eri-ilemedi-http-404-not-found.md|Erişilemedi (http_404 - Not found)]]
 
