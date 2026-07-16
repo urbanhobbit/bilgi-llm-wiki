@@ -265,3 +265,37 @@
 - Source files: 2026-07-15_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-16_five-years-of-un-general-comment-no-25-children-s-.md]] — Five years of UN General Comment No.25 - children's rights in digital environment
+- Raw: [[raw/articles/2026-07-16_these-are-the-countries-moving-to-ban-social-media.md]] — These are the countries moving to ban social media for children | TechCrunch
+- Raw: [[raw/articles/2026-07-16_every-country-regulating-kids-social-media-in-2026.md]] — Every Country Regulating Kids' Social Media in 2026 (And What Parents Should Do) | WhitelistVideo
+- Raw: [[raw/articles/2026-07-16_what-parents-say-about-their-teen-s-ai-use-pew-res.md]] — What parents say about their teen's AI use | Pew Research Center
+- Raw: [[raw/articles/2026-07-16_how-kids-are-actually-using-ai-bbc-future.md]] — How kids are actually using AI | BBC Future
+- Raw: [[raw/articles/2026-07-16_ma-social-media-ban-for-under-14s-what-parents-nee.md]] — MA Social Media Ban for Under 14s: What Parents Need to Know | WhitelistVideo
+- Raw: [[raw/articles/2026-07-16_doctor-commentary-on-kids-social-media-screen-time.md]] — Doctor commentary on kids social media screen time law | WCVB
+- Raw: [[raw/articles/2026-07-16_reps-pass-youth-social-media-ban-over-privacy-big-.md]] — Reps pass youth social media ban over privacy, big tech concerns
+- Raw: [[raw/articles/2026-07-16_children-s-code-guidance-and-resources-ico.md]] — Children's code guidance and resources | ICO
+- Raw: [[raw/articles/2026-07-16_ftc-coppa-compliance-guidance-federal-trade-commis.md]] — FTC COPPA Compliance Guidance | Federal Trade Commission
+- Raw: [[raw/articles/2026-07-16_ftc-children-s-online-privacy-protection-rule-copp.md]] — FTC Children's Online Privacy Protection Rule (COPPA Rule)
+- Raw: [[raw/articles/2026-07-16_china-issues-new-rules-classifying-online-content-.md]] — China issues new rules classifying online content harmful to minors
+- Raw: [[raw/articles/2026-07-16_brazil-is-first-latin-american-country-to-enshrine.md]] — Brazil is first Latin American country to enshrine age-appropriate design standards into law
+- Raw: [[raw/articles/2026-07-16_age-checking-systems-can-now-be-certified-against-.md]] — Age checking systems can now be certified against 5Rights-led technical standard
+- Raw: [[raw/articles/2026-07-16_united-states-children-s-digital-rights-5rights-fo.md]] — United States children's digital rights | 5Rights Foundation
+- Raw: [[raw/articles/2026-07-16_australia-s-social-media-ban-is-it-working-researc.md]] — Australia's social media ban – is it working? Research briefing – April 2026
+- Raw: [[raw/articles/2026-07-16_the-uk-s-proposed-in-real-life-study-of-social-med.md]] — The UK's Proposed 'In Real Life' Study of Social Media Reduction is Scientifically Unsound
+- Raw: [[raw/articles/2026-07-16_our-top-health-agency-s-surveys-found-what-really-.md]] — Our top health agency's surveys found what really makes teenagers depressed
+- Raw: [[raw/articles/2026-07-16_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md]] — Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerçeveyi oluşturduk
+- Raw: [[raw/articles/2026-07-16_ocuklara-y-nelik-sosyal-medya-d-zenlemesinin-er-ev.md]] — Çocuklara yönelik sosyal medya düzenlemesinin çerçevesini oluşturduk
+- Raw: [[raw/articles/2026-07-16_social-media-age-verification-laws-by-country-wiki.md]] — Social media age verification laws by country - Wikipedia (page not found)
+- Raw: [[raw/articles/2026-07-16_social-media-age-verification-laws-in-the-united-s.md]] — Social media age verification laws in the United States - Wikipedia (page not found)
+- Raw: [[raw/articles/2026-07-16_uk-parliament-commons-library-research-briefing-cb.md]] — UK Parliament Commons Library research briefing CBP-10468 - Children's online safety
+- Raw: [[raw/articles/2026-07-16_unicef-digital-rights-guidelines-update-2026-press.md]] — UNICEF digital rights guidelines update 2026 - Press release (page not found)
+- Raw: [[raw/articles/2026-07-16_the-digital-services-act-shaping-europe-s-digital-.md]] — The Digital Services Act | Shaping Europe's digital future
+- Raw: [[raw/articles/2026-07-16_springer-academic-article-digital-transformation-a.md]] — Springer academic article - Digital transformation and platform regulation (DOI: 10.1007/s12525-025-00796-6)
+- Raw: [[raw/articles/2026-07-16_prebunking-misinformation-techniques-in-social-med.md]] — Prebunking misinformation techniques in social media feeds: Results from an Instagram field study | HKS Misinformation Review
+- Raw: [[raw/articles/2026-07-16_yapay-zeka-se-im-dezenformasyonu-ve-demokratik-s-r.md]] — Yapay zeka, seçim dezenformasyonu ve demokratik süreçler | T24
+- Raw: [[raw/articles/2026-07-16_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw-t-.md]] — Almanya seçimleri ve dezenformasyon savaşları | DW Türkçe
+- Raw: [[raw/articles/2026-07-16_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md]] — Yapay zeka teknolojileri ve dezenformasyon tartışmaları | Digital Türkçe
+- Source files: 2026-07-16_categorized.json
+- Agent: OKF Ingestion Pipeline
+
