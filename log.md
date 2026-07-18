@@ -1,3 +1,8 @@
+## [2026-07-18] ingest | EDMO Weekly Pulse - 16 July 2026
+- Raw: [[raw/articles/2026-07-16-edmo-weekly-pulse.md]] — So much the worse for the facts?
+- Topics: Disinformation creating "alternative facts", FIFA World Cup racist/Islamophobic disinformation, FIFA racism monitoring stats, Algeria-Austria match-fixing false allegations, Infantino AI deepfake, AI funeral images Iran Khamenei, US President shared AI-manipulated Iran strike photo, Anti-NATO disinformation Ankara summit, wildfire conspiracy theories targeting renewable energy
+- Sections: ON THE RISE (So much the worse for the facts?), ZOOM-IN (3 fact-checks: World Cup racism, match-fixing, Infantino deepfake), GLOBAL PULSE (4 items: AI Iran funeral, US Iran photo, Anti-NATO Ankara, wildfire renewables), ON A DIFFERENT NOTE (BENEDMO white paper on AI in disinformation)
+
 ## [2026-07-11] ingest | EDMO Weekly Pulse - 09 July 2026
 - Raw: [[raw/articles/2026-07-09-edmo-weekly-pulse.md]] — Europe Caught in the Crossfire of NATO-related Disinformation
 - Topics: NATO Ankara summit disinformation, US/Russian anti-NATO narratives, Ukraine drone false-flag claims, fake BBC French mercenary story, Germany-Ukraine aid housing myth, AI-generated German election law video, Romanian coordinated Facebook amplification, Pechory Lavra blame deflection, Palestinian flag KGB myth, RT sanctions evasion on X, platform monetization of repeat disinformers

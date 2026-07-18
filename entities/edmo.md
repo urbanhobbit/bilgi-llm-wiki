@@ -1,7 +1,7 @@
 ---
 title: "European Digital Media Observatory (EDMO)"
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-07-18
 type: entity
 tags:
   - institution
@@ -11,6 +11,7 @@ tags:
   - media-literacy
   - eui
 sources:
+  - raw/articles/2026-07-16-edmo-weekly-pulse.md
   - raw/articles/edmo-signals-noise-issue-19-2026-04
   - raw/articles/2026-05-14-edmo-weekly-pulse.md
   - raw/articles/2026-06-04-edmo-weekly-pulse.md
@@ -37,7 +38,7 @@ AB'nin en büyük disiplinlerarası dezenformasyonla mücadele ağı. **European
 
 **Yayınlar:**
 - Signals & Noise (aylık bülten)
-- Weekly Pulse (haftalık dezenformasyon trendleri) — [[raw/articles/2026-07-09-edmo-weekly-pulse.md|Jul 9]], [[raw/articles/2026-07-03-edmo-weekly-pulse.md|Jul 3]], [[raw/articles/2026-06-25-edmo-weekly-pulse.md|Jun 25]], [[raw/articles/2026-06-18-edmo-weekly-pulse.md|Jun 18]], [[raw/articles/2026-06-11-edmo-weekly-pulse.md|Jun 11]], [[raw/articles/2026-06-04-edmo-weekly-pulse.md|Jun 4]], [[raw/articles/2026-05-29-edmo-weekly-pulse.md|May 29]], [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21]], [[raw/articles/2026-05-14-edmo-weekly-pulse.md|May 14]], [[raw/articles/2026-05-07-edmo-weekly-pulse.md|May 7]], [[raw/articles/2026-04-30-edmo-weekly-pulse.md|Apr 30]], [[raw/articles/2026-04-23-edmo-weekly-pulse.md|Apr 23]], [[raw/articles/2026-04-16-edmo-weekly-pulse.md|Apr 16]], [[raw/articles/2026-04-01-edmo-weekly-pulse.md|Apr 1]], [[raw/articles/2026-03-26-edmo-weekly-pulse.md|Mar 26]]
+- Weekly Pulse (haftalık dezenformasyon trendleri) — [[raw/articles/2026-07-16-edmo-weekly-pulse.md|Jul 16]], [[raw/articles/2026-07-09-edmo-weekly-pulse.md|Jul 9]], [[raw/articles/2026-07-03-edmo-weekly-pulse.md|Jul 3]], [[raw/articles/2026-06-25-edmo-weekly-pulse.md|Jun 25]], [[raw/articles/2026-06-18-edmo-weekly-pulse.md|Jun 18]], [[raw/articles/2026-06-11-edmo-weekly-pulse.md|Jun 11]], [[raw/articles/2026-06-04-edmo-weekly-pulse.md|Jun 4]], [[raw/articles/2026-05-29-edmo-weekly-pulse.md|May 29]], [[raw/articles/2026-05-21-edmo-weekly-pulse.md|May 21]], [[raw/articles/2026-05-14-edmo-weekly-pulse.md|May 14]], [[raw/articles/2026-05-07-edmo-weekly-pulse.md|May 7]], [[raw/articles/2026-04-30-edmo-weekly-pulse.md|Apr 30]], [[raw/articles/2026-04-23-edmo-weekly-pulse.md|Apr 23]], [[raw/articles/2026-04-16-edmo-weekly-pulse.md|Apr 16]], [[raw/articles/2026-04-01-edmo-weekly-pulse.md|Apr 1]], [[raw/articles/2026-03-26-edmo-weekly-pulse.md|Mar 26]]
 - Best of Fact-checking Map
 - EDMO Taskforce Reports
 - Media Literacy Digest
