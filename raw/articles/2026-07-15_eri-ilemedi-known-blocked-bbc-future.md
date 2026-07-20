@@ -31,3 +31,22 @@ This BBC Future article, originally published around March 2026, explores how ch
 ## Turkey Context
 
 BBC Future'ın bu makalesi, çocukların yapay zeka araçlarını gerçek hayatta nasıl kullandıklarına dair önemli bir bakış açısı sunmaktadır. İçeriğe doğrudan erişim sağlanamamış olsa da, BBC'nin bu konudaki haber çizgisi ve uluslararası akademik literatür ışığında, Türkiye için çıkarılacak önemli dersler bulunmaktadır. MEB, 2025-2026 müfredat reformu kapsamında yapay zeka okuryazarlığını dijital vatandaşlık eğitimine entegre etme çalışmalarına başlamıştır. Ancak, Türkiye'de çocukların yapay zeka ile etkileşimine dair kapsamlı bir ulusal araştırma henüz bulunmamaktadır, bu da kanıta dayalı politika geliştirmeyi zorlaştırmaktadır. UNICEF Türkiye'nin çocuk hakları ve dijital teknolojiler konusundaki çalışmaları, bu alandaki politika geliştirme süreçlerine rehberlik edebilecek niteliktedir. KVKK (6698 sayılı Kanun) kapsamında, yapay zeka sistemlerinin çocuklardan veri toplaması ve işlemesi, açık rıza, veri minimizasyonu ve amaçla sınırlılık ilkeleri çerçevesinde değerlendirilmelidir. Aile ve Sosyal Hizmetler Bakanlığı'nın yürüttüğü çalışmalar kapsamında, ebeveynlerin çocuklarının yapay zeka kullanımını denetlemesine yardımcı olacak rehberlerin hazırlanması önem taşımaktadır. BTK'nın düzenleyici rolü, yapay zeka destekli platformların çocuk kullanıcılara uygun şekilde tasarlanmasını ve yaşa uygun içerik sunulmasını sağlayacak mekanizmaları içermelidir. TÜİK istatistikleri, Türkiye'de çocukların dijital platformları kullanma yaşının giderek düştüğünü ortaya koymaktadır. Türkiye'deki okullarda yapay zeka araçlarının eğitim amaçlı kullanımı giderek yaygınlaşırken, öğretmenlerin bu konuda eğitilmesi ve etik kullanım kılavuzlarının oluşturulması acil ihtiyaçlar arasındadır. BBC'nin bu tür haberciliği, Türk medyası için de çocuk-yapay zeka ilişkisinin daha derinlemesine ele alınması konusunda ilham verici olabilir. Ayrıca, Türkiye'deki akademik kurumların bu konuda daha fazla araştırma yapması ve veri üretmesi gerekmektedir. Yapay zeka okuryazarlığının erken yaşta kazandırılması, çocukların bu teknolojileri bilinçli ve güvenli bir şekilde kullanmalarını sağlayacak ve potansiyel risklere karşı korunmalarına yardımcı olacaktır. Türkiye'deki üniversitelerin bu alanda yapacakları araştırmalar, hem ulusal politikalara yön verecek hem de uluslararası literatüre katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

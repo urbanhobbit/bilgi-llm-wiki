@@ -32,3 +32,18 @@ Avrupa Birliği Dijital Hizmetler Kanunu (DSA), çevrimiçi platformlar için ka
 ## Turkey Context
 
 AB Dijital Hizmetler Kanunu (DSA), Türkiye'nin çevrimiçi platform düzenlemeleri için en önemli uluslararası referans çerçevesini oluşturmaktadır. Türkiye'nin AB'ye uyum süreci kapsamında, DSA ile uyumlu bir Dijital Hizmetler Kanunu hazırlığı devam etmektedir. KVKK (6698 sayılı Kanun) kapsamında kişisel verilerin korunmasına yönelik düzenlemeler, DSA'nın veri koruma hükümleriyle uyumlu hale getirilmelidir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi, DSA'nın reşit olmayanların korunmasına yönelik hükümleriyle paralellik göstermektedir. BTK'nın çevrimiçi platformların denetimine yönelik yetkileri, DSA'daki bağımsız düzenleyici kurum modeline uygun olarak güçlendirilmelidir. DSA'nın şeffaflık raporlaması, risk değerlendirmesi ve kriz mekanizması gibi araçları, Türkiye'deki platform düzenlemeleri için örnek teşkil etmektedir. MEB'in dijital okuryazarlık eğitimi ve Sağlık Bakanlığı'nın çevrimiçi zararlarla mücadele programları, DSA'nın çocuk koruma hükümleriyle uyumlu hale getirilmelidir. TÜİK verilerine göre Türkiye'de internet kullanıcılarının %62'si düzenli olarak AB merkezli platformları kullanmaktadır. Bu durum, DSA uyumunun Türkiye için stratejik önemini artırmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
+- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
+- [[raw/articles/2026-06-26_eu-digital-strategy-digital-services-act-package.md|EU Digital Strategy: Digital Services Act Package]]
+- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
+- [[raw/articles/2026-06-26_the-digital-services-act-shaping-europe-s-digital-.md|The Digital Services Act | Shaping Europe’s digita]]

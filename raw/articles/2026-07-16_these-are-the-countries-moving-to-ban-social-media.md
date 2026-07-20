@@ -33,3 +33,23 @@ TechCrunch muhabiri Aisha Malik tarafından 15 Haziran 2026 tarihinde yayımlana
 ## Turkey Context
 
 TechCrunch'ın 15 Haziran 2026 tarihli bu kapsamlı analizi, dünya genelinde çocukların sosyal medya kullanımına yönelik yasaklama eğilimini gözler önüne sermektedir. Avustralya'nın 2025 sonunda başlattığı uygulamanın ardından Birleşik Krallık'ın da Haziran 2026'da Başbakan Keir Starmer öncülüğünde benzer bir yasak getirmesi, küresel bir trendin habercisi niteliğindedir. Türkiye açısından bakıldığında, Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın Nisan 2026'da duyurduğu 15 yaş altı sosyal medya düzenlemesi, bu küresel trendle tam bir uyum içerisindedir. Bununla birlikte, TechCrunch makalesinde eleştirel olarak ele alınan noktalar — yaş doğrulama sistemlerinin mahremiyet riskleri, yasakların etkinliği konusundaki şüpheler ve Amnesty Tech gibi sivil toplum kuruluşlarının endişeleri — Türkiye için de önemli dersler içermektedir. KVKK (6698 sayılı Kanun) kapsamında, zorunlu yaş doğrulama sistemlerinin kişisel veri ihlallerine yol açmaması için gerekli teknik ve idari tedbirlerin alınması gerekmektedir. BTK'nın düzenleyici rolü çerçevesinde, sosyal ağ sağlayıcıların çocuk kullanıcıların verilerini işlerken KVKK'ya tam uyum sağlaması kritik önem taşımaktadır. MEB'in dijital okuryazarlık müfredatı, yasaklayıcı politikaların yanında eğitici ve bilinçlendirici bir yaklaşımın da benimsenmesi gerektiğini ortaya koymaktadır. TÜİK verilerine göre Türkiye'de 6-15 yaş grubundaki çocukların internet kullanım oranları düzenli olarak artmaktadır. Türkiye'deki düzenleme çalışmalarının, uluslararası deneyimlerden ve eleştirilerden beslenerek, hem koruyucu hem de çocukların dijital haklarını gözeten dengeli bir yaklaşımla şekillendirilmesi büyük önem arz etmektedir. Ayrıca, yasakların tek başına yeterli olmayacağı, çocukların bilinçli ve güvenli sosyal medya kullanımı konusunda eğitilmelerinin de en az düzenlemeler kadar önemli olduğu unutulmamalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/techcrunch-com.md|Techcrunch Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-03_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Tas]]
+- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
+- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

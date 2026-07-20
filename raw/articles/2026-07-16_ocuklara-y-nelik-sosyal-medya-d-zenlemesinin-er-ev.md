@@ -33,3 +33,17 @@ TRT Haber, Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 15 ya�
 ## Turkey Context
 
 TRT Haber üzerinden kamuoyuna duyurulan Bakan Göktaş'ın sosyal medya düzenlemesi açıklaması, Türkiye'nin çocukların çevrimiçi korunması alanında attığı en kapsamlı adımlardan birini temsil etmektedir. Anadolu Ajansı kaynaklı haber, düzenlemenin resmi devlet politikası haline geldiğini teyit etmektedir. Bu düzenlemenin KVKK kapsamındaki etkileri değerlendirildiğinde, 15 yaş altı çocukların sosyal medya platformlarında kişisel verilerinin işlenmesi için ebeveyn izni mekanizmasının hayata geçirilmesi öngörülmektedir. Kişisel Verileri Koruma Kurulu'nun (KVKK) bu kapsamda yayımlayacağı rehber ve düzenlemeler, uygulamanın ayrıntılarını belirleyecektir. BTK'nın teknik düzenleme ve denetim yetkisi çerçevesinde, sosyal ağ sağlayıcılarına getirilecek yükümlülüklerin 5651 sayılı Kanun kapsamında mı yoksa yeni bir yasal çerçeveyle mi düzenleneceği önemli bir soru işaretidir. MEB'in müfredatında yer alan 'İnternet ve Çocuk Güvenliği' konularının bu yeni düzenlemeyle uyumlu hale getirilmesi, okullarda farkındalık eğitimlerinin güçlendirilmesini gerektirecektir. Oyun platformlarının da kapsama alınması, Türkiye'deki e-spor ve dijital oyun ekosistemini doğrudan etkileyecek olup, Gençlik ve Spor Bakanlığı'nın da sürece dahil olmasını gerekli kılmaktadır. TRT Haber'in kamu yayıncısı kimliğiyle verdiği bu haber, düzenlemenin yakın zamanda yasalaşacağının sinyalini vermektedir. Bu bağlamda, düzenlemenin Avrupa İnsan Hakları Sözleşmesi'nin 10. maddesi (ifade özgürlüğü) ile uyumunun sağlanması ve orantılılık ilkesine uygun olarak tasarlanması, olası anayasal itirazların önlenmesi açısından kritik önem taşımaktadır. Ayrıca, düzenlemenin uygulama aşamasında BTK'nın denetim kapasitesinin artırılması, platformların raporlama yükümlülüklerinin netleştirilmesi ve cezai yaptırımların caydırıcılığı gibi konular da yasal çerçevede detaylandırılmalıdır. Türkiye'nin bu düzenlemeyle birlikte Avustralya, Birleşik Krallık ve AB ülkeleriyle uyumlu bir çocuk koruma standardı benimsemesi, uluslararası alanda dijital düzenleme liderliği açısından da önemli bir adım olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

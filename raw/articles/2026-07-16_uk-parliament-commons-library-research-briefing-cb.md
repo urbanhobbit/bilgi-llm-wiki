@@ -34,3 +34,17 @@ Birleşik Krallık Parlamentosu Commons Library araştırma brifingi (CBP-10468)
 ## Turkey Context
 
 Birleşik Krallık Parlamentosu Commons Library araştırma brifinginin (CBP-10468) Cloudflare engeli nedeniyle erişime kapalı olması, Türkiye'nin çocukların çevrimiçi güvenliği konusundaki yasal düzenleme çalışmaları için önemli bir kaynağın kullanılamaması anlamına gelmektedir. İngiltere'nin 2023 Online Safety Act yasası ve Başbakan Starmer'ın Haziran 2026'da duyurduğu çocuklara yönelik sosyal medya yasağı, Türkiye'de Aile ve Sosyal Hizmetler Bakanlığı tarafından yürütülen 15 yaş altı düzenlemesi için en önemli uluslararası referans noktalarından biridir. İngiltere modeli, platformlara 'özen yükümlülüğü' getiren ve uyumsuzluk durumunda önemli cezalar öngören bir yaklaşım benimsemektedir. Bu model, Ofcom'un düzenleyici otorite olarak belirlendiği ve platformların çocukları zararlı içeriklerden korumak için proaktif önlemler almasını zorunlu kıldığı bir sisteme dayanmaktadır. KVKK (6698 sayılı Kanun) kapsamında, İngiltere'deki ICO'nun çocukların verilerinin korunmasına yönelik 'Age Appropriate Design Code' düzenlemesi, Türkiye için örnek teşkil edebilecek bir modeldir. Bu kod, çocukların verilerinin en iyi çıkarları doğrultusunda işlenmesi gerektiği ilkesini benimsemekte ve platformlara çocuk kullanıcıların yaşlarına uygun tasarım standartları getirmektedir. BTK'nın sosyal medya platformlarının çocuk kullanıcılarına yönelik yükümlülüklerini belirlerken, İngiltere'deki Ofcom'un Online Safety Act kapsamındaki düzenleyici rolünü incelemesi faydalı olacaktır. MEB'in okullarda dijital güvenlik eğitimi politikaları, İngiltere'deki RSHE (İlişkiler, Cinsellik ve Sağlık Eğitimi) müfredatıyla karşılaştırılabilir. TÜİK verilerine göre Türkiye'de çocukların internet kullanım oranlarındaki artış, bu tür karşılaştırmalı politika analizlerinin önemini daha da artırmaktadır. Brifingin erişime kapalı olması, Türk politika yapıcılarının İngiltere deneyiminden doğrudan faydalanma imkanını sınırlasa da, kamuya açık kaynaklardan İngiltere modeli hakkında bilgi edinmek mümkündür. Özellikle Ofcom'un yayımladığı rehberler ve uygulama raporları, Türkiye için değerli bilgiler sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
+- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
+- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
+- [[raw/articles/2026-06-26_uk-parliament-commons-library-research-briefing-on.md|UK Parliament Commons Library: Research Briefing o]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

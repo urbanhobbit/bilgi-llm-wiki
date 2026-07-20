@@ -32,3 +32,22 @@ ABD Federal Ticaret Komisyonu'nun Çocukların Çevrimiçi Gizliliğini Koruma K
 ## Turkey Context
 
 FTC'nin COPPA Kuralı, Türkiye'de çocukların çevrimiçi gizliliğine yönelik düzenlemeler için kapsamlı bir model sunmaktadır. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin işlenmesi 'açık rıza' şartına tabi olmakla birlikte, COPPA'daki gibi 'doğrulanabilir ebeveyn onayı' standardı bulunmamaktadır. Kişisel Verileri Koruma Kurumu (KVKK Kurumu), 2024 yılında yayınladığı 'Çocukların Kişisel Verilerinin Korunması' başlıklı politika belgesinde, COPPA benzeri bir yaklaşım benimsenmesi gerektiğini belirtmiştir. Türkiye'nin AB DSA'sına uyum sürecinde, çevrimiçi platformların çocuk kullanıcılara yönelik veri işleme faaliyetlerinde şeffaflık ve hesap verebilirlik standartlarının yükseltilmesi beklenmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 düzenleme çerçevesinde, çocukların kişisel verilerinin korunmasına yönelik özel hükümlerin yer alması, Türkiye'nin uluslararası standartlarla uyumunu güçlendirecektir. BTK'nın internet hizmet sağlayıcılarına yönelik düzenlemeleri ve MEB'in dijital okuryazarlık müfredatı, COPPA ilkeleriyle uyumlu hale getirilmelidir. UNICEF Türkiye'nin çocuk hakları savunuculuğu kapsamında yürüttüğü 'Çocuklar İçin Güvenli Dijital Ortam' projesi, bu alandaki politika geliştirme çalışmalarına teknik destek sağlayabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-ftc-gov.md|Www Ftc Gov]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-childrens-online-privacy-.md|Article from www.ftc.gov: childrens online privacy]]
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-complying-coppa.md|Article from www.ftc.gov: complying coppa]]
+- [[raw/articles/2026-06-26_blocked-404-www-ftc-gov.md|Blocked (404) - www.ftc.gov]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-coppa-ft.md|Children's Online Privacy Protection Rule (COPPA) ]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-ftc-enfo.md|Children's Online Privacy Protection Rule — FTC En]]

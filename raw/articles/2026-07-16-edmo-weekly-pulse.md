@@ -90,3 +90,15 @@ Following the devastating wildfire in Los Gallardos, Spain, social media posts c
 **Editorial Team:** Paolo Cesarini (Editorial Director), Tommaso Canetta (Editor-in-Chief), Elena Coden, Paula Gori, Elena Maggi
 
 *This edition draws in part on automated translation and reflects information available as of 15 July 2026.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/de-facto.md|de facto]]
+- [[entities/www-reuters-com.md|Reuters]]

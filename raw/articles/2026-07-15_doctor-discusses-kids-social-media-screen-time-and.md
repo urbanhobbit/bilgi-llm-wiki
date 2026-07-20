@@ -32,3 +32,17 @@ WCVB haber kanalında yayınlanan bu haberde, bir doktor Massachusetts'in yeni s
 ## Turkey Context
 
 Türkiye'de çocukların sosyal medya ve ekran süresinin sağlık etkileri konusunda Sağlık Bakanlığı'nın yürüttüğü çalışmalar bulunmakla birlikte, Massachusetts'teki gibi kapsamlı bir yasal düzenlemenin sağlık boyutu henüz yeterince tartışılmamıştır. Sağlık Bakanlığı'nın 2024'te yayınladığı 'Çocuklarda Ekran Maruziyeti' raporu, 0-6 yaş arası çocukların günlük ortalama 3 saat ekran karşısında vakit geçirdiğini ve bunun önerilen maksimum sürenin (1 saat) çok üzerinde olduğunu belirtmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi, Massachusetts yasasına benzer bir yaklaşım sergilemektedir. Ancak Türkiye'de düzenlemenin sağlık boyutunun güçlendirilmesi için Sağlık Bakanlığı'nın sürece aktif katılımı gerekmektedir. MEB'in okul sağlığı programları kapsamında dijital bağımlılık ve ekran süresi yönetimi konularında farkındalık eğitimleri verilmektedir. TÜİK'in 2025 Çocuk Sağlığı Araştırması verileri, düzenli sosyal medya kullanan çocuklarda uyku sorunlarının %40 daha fazla görüldüğünü ortaya koymaktadır. Bu bulgular, Türkiye'deki düzenlemenin çocuk sağlığı perspektifiyle güçlendirilmesi gerektiğini göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_70944105.md|70944105]]
+- [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]
+- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
+- [[raw/articles/2026-06-26_doctor-warns-about-kids-social-media-and-screen-ti.md|Doctor Warns About Kids' Social Media and Screen T]]
+- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]

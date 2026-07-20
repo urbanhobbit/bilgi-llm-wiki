@@ -34,3 +34,19 @@ Psikoloji profesörü Christopher J. Ferguson, Ph.D. tarafından Substack'te 14 
 ## Turkey Context
 
 Christopher Ferguson'ın Birleşik Krallık'ın sosyal medya azaltma araştırmasına yönelttiği bilimsel eleştiriler, Türkiye'nin sosyal medya düzenlemesi tartışmalarında dikkate alınması gereken önemli metodolojik uyarılar içermektedir. Bakan Göktaş'ın duyurduğu 15 yaş altı sosyal medya düzenlemesi çerçevesi, belirli varsayımlara dayanmakla birlikte, bu varsayımların bilimsel geçerliliği Türkiye bağlamında henüz yeterince test edilmemiştir. Ferguson'ın belirttiği gibi, politika odaklı araştırma gündemleri, önceden belirlenmiş düzenleyici yaklaşımların bilimsel meşruiyet kazanması için kullanıldığında, metodolojik zayıflıklar ortaya çıkabilmektedir. Türkiye'de MEB ve Sağlık Bakanlığı tarafından yürütülen çocuk ve genç ruh sağlığı araştırmalarının sosyal medya etkileri konusunda yeterli veri üretip üretmediği sorgulanmalıdır. BTK'nın düzenleme sürecinde kullandığı verilerin bilimsel geçerliliği, Ferguson'ın işaret ettiği metodolojik sorunlar bağlamında değerlendirilmelidir. Türkiye'de sosyal medya kısıtlamalarının etkilerini ölçmek için tasarlanacak araştırmaların, Ferguson'ın eleştirdiği metodolojik hatalardan kaçınması, nedensellik iddialarının güçlendirilmesi açısından kritik önem taşımaktadır. KVKK kapsamında kişisel verilerin işlenmesine ilişkin araştırma etiği kurallarının da bu bağlamda gözden geçirilmesi, düzenlemelerin kanıta dayalı ve bilimsel açıdan savunulabilir olmasını sağlayacaktır. TÜBİTAK ve üniversitelerin ilgili bölümleriyle işbirliği içinde yürütülecek bağımsız, çok merkezli ve boylamsal araştırmalar, Ferguson'ın eleştirdiği metodolojik sorunları aşacak şekilde tasarlanmalı, kontrol grupları ve uzun vadeli izleme mekanizmaları içermelidir. Türkiye'deki politika yapıcıların, Ferguson'ın uyarılarını dikkate alarak, düzenleme öncesinde kapsamlı bir etki değerlendirmesi yapmaları ve kanıta dayalı politika geliştirme ilkesini benimsemeleri gerekmektedir. Ayrıca, sosyal medya ve genç ruh sağlığı arasındaki ilişkiye dair Türkiye'de bağımsız araştırmaların fonlanması ve teşvik edilmesi, sağlıklı bir politika geliştirme süreci için ön koşuldur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
+- [[raw/articles/2026-06-26_grimoire-manor-analysis-uk-proposed-in-real-life-s.md|Grimoire Manor Analysis: UK Proposed 'In Real Life]]
+- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
+- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
+- [[raw/articles/2026-06-26_the-uk-s-proposed-in-real-life-study-of-social-med.md|The UK's Proposed "In Real Life" Study of Social M]]

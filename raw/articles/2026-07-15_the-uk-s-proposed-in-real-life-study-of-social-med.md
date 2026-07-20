@@ -33,3 +33,17 @@ Psikolog Christopher J. Ferguson tarafından Substack'te yayınlanan bu eleştir
 ## Turkey Context
 
 Ferguson'un eleştirisi, Türkiye'deki sosyal medya düzenlemesi için önemli bir uyarı niteliği taşımaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesinin bilimsel temellerinin sağlam olması, düzenlemenin etkinliği ve meşruiyeti açısından kritiktir. Türkiye'de sosyal medya kullanımı ile genç ruh sağlığı arasındaki ilişkiye dair kapsamlı ulusal araştırmalar sınırlıdır. Sağlık Bakanlığı'nın 2025'te yayınladığı 'Türkiye Çocuk ve Ergen Ruh Sağlığı Profili' raporu, bu alandaki veri boşluğunu kısmen doldurmakla birlikte, sosyal medya kullanımının etkilerine odaklanan boylamsal çalışmalara ihtiyaç vardır. TÜBİTAK'ın desteklediği araştırma projeleri, sosyal medya düzenlemesinin etkilerini değerlendirmek üzere yönlendirilebilir. MEB'in okul sağlığı anketleri, düzenleme sonrası dönemde gençlerin dijital alışkanlıklarını ve ruh sağlığı göstergelerini izlemek için kullanılabilir. Türkiye'nin AB DSA'sına uyum sürecinde, kanıta dayalı politika yapımı ilkesi benimsenmeli ve düzenlemenin etkileri bağımsız araştırmacılar tarafından değerlendirilmelidir. KVKK (6698 sayılı Kanun) kapsamında, araştırma amaçlı veri toplama faaliyetlerinde çocukların mahremiyetinin korunması gözetilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
+- [[raw/articles/2026-06-26_grimoire-manor-analysis-uk-proposed-in-real-life-s.md|Grimoire Manor Analysis: UK Proposed 'In Real Life]]
+- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
+- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
+- [[raw/articles/2026-06-26_the-uk-s-proposed-in-real-life-study-of-social-med.md|The UK's Proposed "In Real Life" Study of Social M]]

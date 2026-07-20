@@ -32,3 +32,18 @@ Springer Nature bünyesindeki Electronic Markets dergisinde yayınlanan bu açı
 ## Turkey Context
 
 Bu akademik makale, Türkiye'de sosyal medya dezenformasyonuyla mücadele politikaları için önemli teorik ve metodolojik katkılar sunmaktadır. Türkiye'de 2024 yılında kabul edilen 'Sosyal Medya Yasası' ve 5651 sayılı Kanun'da yapılan değişiklikler, dezenformasyonla mücadeleyi amaçlamakla birlikte, makalede tartışılan simülasyon modellemesi gibi bilimsel yaklaşımlardan yoksundur. KVKK (6698 sayılı Kanun) kapsamında kişisel verilerin korunması, makalede belirtilen 'kişisel özel bilgilerin manipülatif kullanımı' riskine karşı önemli bir güvence sunmaktadır. Türkiye'nin AB DSA'sına uyum süreci, dezenformasyonla mücadelede platform sorumluluğu ve şeffaflık gibi konularda makalede önerilen mekanizmaların uygulanması için uygun bir zemin sağlayabilir. BTK'nın dezenformasyonla mücadele birimi, makaledeki simülasyon bulgularından yararlanarak daha etkili müdahale stratejileri geliştirebilir. TÜBİTAK'ın desteklediği sosyal medya araştırma projeleri, makalede kullanılan yöntemleri Türkiye bağlamında uygulayarak yerel veriler üretebilir. Bu tür akademik çalışmalar, Türkiye'de dezenformasyonla mücadele politikalarının kanıta dayalı olarak şekillendirilmesine katkı sağlamaktadır. IFADE özgürlüğü ve ifade özgürlüğü dengesi, Türkiye'deki düzenlemelerde hassasiyetle ele alınması gereken bir konudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
+- [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]
+- [[raw/articles/2026-06-26_digital-business-models-in-the-regulatory-era-spri.md|Digital Business Models in the Regulatory Era (Spr]]
+- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
+- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]

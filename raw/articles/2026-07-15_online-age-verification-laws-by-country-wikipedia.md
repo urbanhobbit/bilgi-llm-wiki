@@ -32,3 +32,17 @@ Wikipedia'nın ülkelere göre çevrimiçi yaş doğrulama yasalarını derledi�
 ## Turkey Context
 
 Wikipedia'nın bu kapsamlı dökümantasyonu, Türkiye'nin çevrimiçi yaş doğrulama düzenlemeleri alanındaki konumunu uluslararası bağlamda değerlendirmek için önemli bir referanstır. Sayfada Türkiye'nin de yer alması, ülkenin bu alandaki düzenleme çalışmalarının uluslararası toplum tarafından takip edildiğini göstermektedir. Türkiye'de halihazırda kapsamlı bir çevrimiçi yaş doğrulama yasası bulunmamakla birlikte, Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi bu boşluğu doldurmayı hedeflemektedir. KVKK (6698 sayılı Kanun) kapsamında kişisel verilerin işlenmesine ilişkin genel hükümler bulunmakla birlikte, yaş doğrulama sürecinde toplanacak verilerin korunmasına yönelik özel düzenlemelere ihtiyaç vardır. BTK'nın teknik standartlar belirleme yetkisi, uluslararası örneklere uygun bir yaş doğrulama altyapısının oluşturulmasında kritik rol oynayabilir. Türkiye'nin AB DSA'sına uyum süreci, çevrimiçi yaş doğrulama konusunda AB standartlarıyla uyumlu bir sistemin kurulması için uygun bir çerçeve sunmaktadır. Sayfada listelenen ülkelerin deneyimleri, Türkiye'nin kendi modelini oluştururken farklı yaklaşımları karşılaştırmasına olanak tanımaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
+- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
+- [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-by-country-wiki.md|Social Media Age Verification Laws by Country - Wi]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]

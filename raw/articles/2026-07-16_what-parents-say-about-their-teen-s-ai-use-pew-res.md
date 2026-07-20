@@ -33,3 +33,21 @@ Pew Research Center'ın 24 Şubat 2026 tarihli bu raporu, ergenlerin yapay zeka 
 ## Turkey Context
 
 Pew Research Center'ın Şubat 2026 tarihli bu önemli raporu, ergenlerin yapay zeka kullanım alışkanlıkları ve ebeveynlerin bu konudaki tutumlarına dair kapsamlı veriler sunmaktadır. Türkiye'de de yapay zeka araçlarının gençler arasında yaygınlaşması, benzer araştırmaların ulusal düzeyde yapılması gerekliliğini ortaya koymaktadır. TÜİK'in 2025-2026 hanehalkı bilişim teknolojileri kullanım araştırması verileri, Türkiye'de çocuk ve gençlerin internet kullanım oranlarının sürekli arttığını ve yapay zeka tabanlı platformlarla etkileşimlerinin de buna paralel olarak yükseldiğini göstermektedir. MEB (Milli Eğitim Bakanlığı), 2025-2026 eğitim öğretim yılında müfredata eklediği 'Dijital Vatandaşlık ve Güvenlik' dersi kapsamında yapay zeka okuryazarlığı konusuna da yer vermeye başlamıştır. Ancak Pew araştırmasında ortaya konan ebeveyn endişeleri — veri gizliliği, yapay zeka üretimi içeriklerin doğruluğu, eleştirel düşünme becerilerine olası etkiler — Türkiye'deki aileler için de fazlasıyla geçerlidir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu), çocukların kişisel verilerinin yapay zeka sistemleri tarafından işlenmesi durumunda devreye girmektedir. Özellikle 13 yaş altı çocuklar için açık rıza şartı ve veri işleme sınırlamaları büyük önem taşımaktadır. BTK'nın düzenleyici rolü kapsamında, yapay zeka destekli platformların çocuk kullanıcılara yönelik şeffaflık ve hesap verebilirlik yükümlülüklerinin belirlenmesi gerekmektedir. Aile ve Sosyal Hizmetler Bakanlığı'nın dijital ebeveynlik programları, ebeveynlerin çocuklarının yapay zeka kullanımını anlamalarına ve yönlendirmelerine yardımcı olacak şekilde güncellenmelidir. Ayrıca, okullarda yapay zeka okuryazarlığı eğitiminin yaygınlaştırılması ve öğretmenlerin bu konuda donanımlı hale getirilmesi, Türkiye'nin dijital geleceğine hazırlanması açısından kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pew-research-center.md|Pew Research Center]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
+- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
+- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
+- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]

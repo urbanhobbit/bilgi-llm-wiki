@@ -34,3 +34,21 @@ Brezilya, yaşa uygun tasarım standartlarını yasalaştıran ilk Latin Amerika
 ## Turkey Context
 
 Brezilya'nın yaşa uygun tasarım standartlarını yasalaştırması, Türkiye'deki çocuk hakları ve dijital düzenleme tartışmalarına önemli bir uluslararası referans noktası sunmaktadır. Türkiye'de KVKK (6698 sayılı Kanun) veri sorumlularına 'veri minimizasyonu' ve 'amacıyla sınırlılık' ilkelerini zorunlu kılmakla birlikte, çocuklara özgü 'yaşa uygun tasarım' yükümlülüğü henüz mevcut değildir. Brezilya modeli, Birleşik Krallık'ın Çocuklar için Yaşa Uygun Tasarım Kuralları'ndan esinlenmiş olup, bu kod ICO tarafından uygulanmakta ve GDPR'nin çocuk koruma hükümleriyle uyumlu çalışmaktadır. MEB'in dijital eğitim platformları ve okul yönetim sistemlerinde çocuk dostu tasarım ilkelerinin uygulanması konusunda henüz bağlayıcı bir düzenleme bulunmamaktadır. BTK'nın 'Güvenli İnternet Hizmeti' profil tabanlı filtreleme sunsa da, bu hizmet 'yaşa uygun tasarım' prensibinden ziyade 'içerik engelleme' mantığına dayanmaktadır. Brezilya'daki gibi bir yaşa uygun tasarım yasasının Türkiye'de uygulanabilmesi için öncelikle KVKK'da çocuğun üstün yararı ilkesinin dijital bağlamda somutlaştırılması, ardından BTK ve Ticaret Bakanlığı koordinasyonunda sektörel düzenlemelerin hayata geçirilmesi gerekmektedir. 5Rights Foundation'ın bu alandaki çalışmaları ve Birleşmiş Milletler Çocuk Hakları Komitesi'nin 25 No'lu Genel Yorumu, Türkiye'nin ulusal çocuk hakları stratejisinin dijital boyutunun güçlendirilmesinde yol gösterici olabilir. Brezilya yasasının uygulama mekanizmaları, özellikle bağımsız denetim ve yaptırım sistemleri, Türkiye'deki BTK ve KVKK Kurulu'nun denetim yetkilerinin güçlendirilmesi için örnek teşkil edebilir. Türkiye'de planlanan sosyal medya düzenlemesi çerçevesinde, Brezilya modelindeki gibi 'varsayılan gizlilik ayarları' ve 'yaşa uygun dil kullanımı' gibi tasarım odaklı yükümlülüklerin de eklenmesi, düzenlemenin etkinliğini artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

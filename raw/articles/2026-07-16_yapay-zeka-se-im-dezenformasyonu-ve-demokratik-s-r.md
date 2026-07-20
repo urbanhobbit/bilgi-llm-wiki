@@ -33,3 +33,18 @@ T24 haber sitesinde yayımlanması beklenen yapay zeka, seçim dezenformasyonu v
 ## Turkey Context
 
 T24 haber sitesinde yayımlanması beklenen yapay zeka, seçim dezenformasyonu ve demokratik süreçler konulu makalenin Cloudflare tarafından engellenmesi, Türkiye'deki dijital dezenformasyon tartışmalarına ilişkin önemli bir kaynağın kullanılamamasına yol açmaktadır. Türkiye'de son yıllarda yapay zeka destekli dezenformasyonun siyasi süreçlere etkisi, özellikle seçim dönemlerinde artan bir endişe kaynağı olmuştur. Yapay zeka teknolojilerinin hızla gelişmesi, deepfake videolar, ses klonlama ve otomatik içerik üretimi gibi araçlarla dezenformasyonun ölçeğini ve etkisini artırmıştır. 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun kapsamında getirilen sosyal medya düzenlemeleri, dezenformasyonla mücadelede önemli bir yasal çerçeve sunmaktadır. Bu kanun kapsamında sosyal medya platformlarına getirilen yükümlülükler, içerik kaldırma ve kullanıcı verilerinin paylaşımı gibi konuları düzenlemektedir. İletişim Başkanlığı tarafından kurulan Dezenformasyonla Mücadele Merkezi, yapay zeka kaynaklı yanlış bilgilerin tespiti ve kamuoyunun doğru bilgilendirilmesi konusunda faaliyet göstermektedir. Bu merkez, seçim dönemlerinde özellikle aktif hale gelmekte ve sosyal medyada yayılan yanlış bilgilere karşı kamu spotları ve basın açıklamalarıyla müdahale etmektedir. BTK'nın sosyal medya platformlarına yönelik idari ve teknik düzenlemeleri, seçim dönemlerinde dezenformasyonun yayılmasını engellemeyi amaçlamaktadır. KVKK (6698 sayılı Kanun) kapsamında, yapay zeka sistemlerinin kişisel verileri kullanarak hedefli dezenformasyon kampanyaları oluşturması, veri koruma hukuku açısından önemli riskler barındırmaktadır. TÜİK'in medya kullanım istatistikleri, Türkiye'de haber tüketiminin büyük ölçüde dijital platformlara kaydığını göstermekte olup, bu durum dezenformasyonun potansiyel etkisini artırmaktadır. MEB müfredatında eleştirel medya okuryazarlığı ve yapay zeka okuryazarlığı derslerine daha fazla ağırlık verilmesi, gençlerin dezenformasyona karşı dirençli hale gelmesine katkı sağlayacaktır. Ayrıca, yapay zeka kaynaklı dezenformasyonun tespiti için teknik kapasitenin artırılması ve bu alanda uzmanlaşmış birimlerin oluşturulması, Türkiye'nin dijital demokrasi savunması açısından stratejik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-secim-dezenform.md|Article from t24.com.tr: yapay zeka secim dezenfor]]
+- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-seyim-dezenform.md|Article from t24.com.tr: yapay zeka seyim dezenfor]]
+- [[raw/articles/2026-06-26_genel-t24-com-tr.md|GENEL - t24.com.tr]]

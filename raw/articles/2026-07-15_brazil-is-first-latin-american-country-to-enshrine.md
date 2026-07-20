@@ -33,3 +33,23 @@ priority: high
 ## Turkey Context
 
 Brezilya'nın ECA Digital yasası, Türkiye'deki çocuk dijital hakları düzenlemeleri için önemli bir model oluşturmaktadır. Türkiye'de henüz Brezilya'daki gibi kapsamlı bir 'Dijital Çocuk Hakları' yasası bulunmamaktadır. Aile ve Sosyal Hizmetler Bakanlığı tarafından 2026 Nisan ayında duyurulan 15 yaş altı sosyal medya düzenlemesi, Brezilya modelindeki yaşa uygun tasarım ilkelerinin bir kısmını içerebilir. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin korunmasına yönelik hükümler bulunmakla birlikte, Brezilya'daki gibi çocukların dijital ortamda tüm haklarını kapsayan bütüncül bir düzenleme mevcut değildir. Türkiye'nin AB DSA'sına uyum süreci, Brezilya modeline benzer şekilde yaşa uygun tasarım standartlarının ulusal mevzuata entegrasyonu için bir fırsat sunmaktadır. MEB'in dijital vatandaşlık eğitimi ve BTK'nın çevrimiçi çocuk güvenliği çalışmaları, Brezilya'daki ECA Digital'in uygulama deneyimlerinden yararlanabilir. UNICEF Türkiye'nin çocuk hakları savunuculuğu kapsamında yürüttüğü çalışmalar, Brezilya örneğinde olduğu gibi sivil toplum ve uluslararası kuruluşların politikaların şekillenmesindeki kritik rolünü göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

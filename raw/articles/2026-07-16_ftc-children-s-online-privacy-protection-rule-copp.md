@@ -33,3 +33,19 @@ FTC'nin Çocukların Çevrimiçi Gizliliğini Koruma Kuralı'na (COPPA Kuralı) 
 ## Turkey Context
 
 ABD'nin COPPA düzenlemesi, Türkiye'deki çocukların çevrimiçi gizliliğine ilişkin mevzuatla karşılaştırmalı olarak incelenmesi gereken önemli bir referans noktasıdır. Türkiye'de KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verileri 'özel nitelikli veri' statüsünde değerlendirilmekte olup, veli izni ve açık rıza şartları COPPA'nın ebeveyn onayı mekanizmasıyla benzerlik göstermektedir. Ancak KVKK'da çocuklara özgü bir veri koruma rejimi henüz tam anlamıyla oluşturulmamıştır. Milli Eğitim Bakanlığı'nın Eğitim Bilişim Ağı (EBA) ve okul yönetim sistemleri kapsamında toplanan öğrenci verilerinin korunmasına yönelik çalışmaları bulunmakla birlikte, COPPA'daki gibi kapsamlı bir 'ebeveyn izni' altyapısı henüz hayata geçirilmemiştir. BTK'nın 5809 sayılı Elektronik Haberleşme Kanunu kapsamında çocukların çevrimiçi ortamlarda korunmasına yönelik düzenleme yetkisi bulunmaktadır. Türkiye'nin çocuk odaklı çevrimiçi gizlilik rejimi için COPPA'nın uygulama deneyimi, özellikle orantılılık ilkesi, teknolojiden bağımsız düzenleme yaklaşımı ve etkili yaptırım mekanizmaları açısından değerli dersler sunmaktadır. KVKK Kurulu'nun çocuk verilerinin işlenmesine ilişkin yayımladığı ilke kararları ve rehberler, COPPA'nın 'ebeveyn izni' ve 'veri minimizasyonu' standartlarıyla uyumlu hale getirilmelidir. Türkiye'de 2026 yılı itibarıyla yürürlüğe girmesi beklenen yeni sosyal medya düzenlemesi çerçevesinde, COPPA modelindeki gibi sektörel bazlı özdenetim mekanizmaları ve FTC benzeri bağımsız bir denetim otoritesinin kurulması tartışılmalıdır. COPPA'nın yapay zeka ve algoritmik reklamcılık çağındaki güncelleme ihtiyacı, Türkiye'nin kendi düzenlemesini tasarlarken teknolojik gelişmelere uyumlu ve esnek bir yapı oluşturması gerektiğini göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-ftc-gov.md|Www Ftc Gov]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-childrens-online-privacy-.md|Article from www.ftc.gov: childrens online privacy]]
+- [[raw/articles/2026-06-26_article-from-www-ftc-gov-complying-coppa.md|Article from www.ftc.gov: complying coppa]]
+- [[raw/articles/2026-06-26_blocked-404-www-ftc-gov.md|Blocked (404) - www.ftc.gov]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-coppa-ft.md|Children's Online Privacy Protection Rule (COPPA) ]]
+- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-ftc-enfo.md|Children's Online Privacy Protection Rule — FTC En]]

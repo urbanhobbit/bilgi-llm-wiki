@@ -34,3 +34,17 @@ Harvard Kennedy School Misinformation Review'da yayımlanan bu akademik makale, 
 ## Turkey Context
 
 Harvard Kennedy School Misinformation Review'da yayımlanan bu akademik çalışma, Türkiye'deki dezenformasyonla mücadele stratejileri için önemli bilimsel bulgular sunmaktadır. Araştırma, 375.597 Instagram kullanıcısı üzerinde yapılan saha deneyiyle, sadece 19 saniyelik bir 'ön aşılama' (prebunking) videosunun kullanıcıların manipülatif içerikleri tespit etme becerisini kontrol grubuna göre yüzde 21 puan artırdığını ve bu etkinin beş ay boyunca sürdüğünü ortaya koymuştur. Bu bulgu, ön aşılama yönteminin sadece kısa vadeli değil, aynı zamanda kalıcı bir etki yaratabildiğini göstermesi açısından özellikle değerlidir. TÜBİTAK'ın (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) sosyal bilimler alanında desteklediği araştırma projeleri, bu tür ön aşılama yöntemlerinin Türkiye bağlamında test edilmesi için fon sağlayabilir. Özellikle TÜBİTAK'ın 1001 ve 1003 programları kapsamında, bu çalışmanın Türkiye'de tekrarlanması ve kültürel adaptasyonunun incelenmesi mümkündür. YÖK (Yükseköğretim Kurulu) bünyesindeki üniversitelerin iletişim fakülteleri ve psikoloji bölümleri, bu çalışmanın metodolojisini Türk sosyal medya kullanıcıları üzerinde tekrarlayarak kültürel adaptasyonunu inceleyebilir. Türkiye'de dezenformasyonla mücadelede BTK (Bilgi Teknolojileri ve İletişim Kurumu) ve İletişim Başkanlığı'nın yürüttüğü kamu spotu ve farkındalık kampanyaları, bu araştırmanın bulgularıyla yeniden şekillendirilebilir. Çalışma, sosyal medya platformlarının reklam altyapısının, kullanıcıları manipülasyona karşı aşılamak için etkili bir şekilde kullanılabileceğini göstermesi açısından, Türkiye'deki dijital okuryazarlık kampanyaları için maliyet etkin bir model sunmaktadır. MEB müfredatında medya okuryazarlığı derslerinde bu tür kanıta dayalı müdahale yöntemlerine yer verilmesi faydalı olacaktır. TÜİK verilerine göre Türkiye'de sosyal medya kullanımının yaygınlığı düşünüldüğünde, bu ölçekte bir ön aşılama kampanyasının Türkiye'de uygulanması, dezenformasyonun demokratik süreçler ve toplumsal güven üzerindeki olumsuz etkilerini azaltmada önemli bir araç olabilir. Ayrıca, bu çalışmanın KVKK kapsamında veri gizliliği ve araştırma etiği açısından değerlendirilmesi, Türkiye'de benzer bir çalışma yapılmadan önce gerekli etik ve yasal çerçevenin oluşturulmasına katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-15_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

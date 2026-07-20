@@ -32,3 +32,22 @@ This comprehensive guide by Dr. David Park, a Privacy Law Scholar writing for Wh
 ## Turkey Context
 
 WhitelistVideo platformunda yayınlanan bu kapsamlı rehber, 2026 yılı itibarıyla dünya genelinde çocukların sosyal medya kullanımını düzenleyen tüm ülke mevzuatlarını sistematik olarak incelemektedir. Avustralya'nın 16 yaş altı yasağından ABD'deki KOSA yasasına, AB Dijital Hizmetler Yasası'ndan İngiltere Çevrimiçi Güvenlik Yasası'na kadar uzanan geniş bir yelpazedeki düzenlemeler, Türkiye'nin kendi ulusal düzenleme çalışmaları için değerli bir karşılaştırma zemini sunmaktadır. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi, bu küresel bağlamda değerlendirildiğinde, Türkiye'nin uluslararası standartlarla uyumlu bir yaklaşım benimsediğini göstermektedir. Ancak, makalede vurgulanan 'ülkeler arası düzenleme farklılıkları aileler için kafa karışıklığı yaratıyor' tespiti, Türkiye'deki düzenleme çalışmalarında uluslararası uyumun önemini bir kez daha ortaya koymaktadır. Millî Eğitim Bakanlığı'nın dijital okuryazarlık müfredatı ve BTK'nın Güvenli İnternet Hizmeti, ebeveynlerin proaktif dijital ebeveynlik stratejileri geliştirmesine yardımcı olacak önemli araçlardır. KVKK (6698 sayılı Kanun) kapsamında çocuk verilerinin korunmasına yönelik düzenlemeler, sosyal medya platformlarının çocuk kullanıcıların verilerini işlerken uyması gereken kuralları belirlemektedir. TÜİK verileri, Türkiye'de çocukların internet kullanım oranlarının her yıl arttığını göstermektedir; bu da kapsamlı bir ulusal dijital çocuk koruma stratejisinin aciliyetini vurgulamaktadır. Türkiye'nin, farklı ülkelerin deneyimlerinden ders çıkararak, hem etkili koruma sağlayan hem de çocukların dijital haklarını ve katılımını gözeten dengeli bir model oluşturması mümkündür. Bu bağlamda, WhitelistVideo'nun sunduğu küresel karşılaştırma, Türk politika yapıcılar için değerli bir referans kaynağı olarak değerlendirilebilir. Türkiye'deki ilgili bakanlıklar ve düzenleyici kurumlar, bu tür uluslararası karşılaştırmalı analizlerden yararlanarak, mevzuatlarını güncelleyebilir ve en iyi uygulama örneklerini benimseyebilir. Özellikle, yaş doğrulama sistemleri ve ebeveyn izni mekanizmaları konusunda farklı ülkelerin deneyimleri, Türkiye'deki uygulamaların şekillendirilmesinde yol gösterici olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldwide-whitelist-blog.md|Child Safety Regulations Worldwide - Whitelist Blo]]
+- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
+- [[raw/articles/2026-06-26_kurator-whitelist-video.md|KURATOR - whitelist.video]]

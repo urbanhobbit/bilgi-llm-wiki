@@ -33,3 +33,23 @@ Bu makale, 5Rights Vakfı tarafından yayımlanan ve Birleşmiş Milletler Çocu
 ## Turkey Context
 
 Birleşmiş Milletler Çocuk Hakları Komitesi'nin 25 No'lu Genel Yorumu'nun beşinci yılı, Türkiye açısından da önemli bir değerlendirme fırsatı sunmaktadır. Türkiye, Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'ye taraftır ve bu sözleşme kapsamındaki yükümlülüklerini yerine getirmekle yükümlüdür. 25 No'lu Genel Yorum, çocukların dijital ortamdaki haklarının korunmasına yönelik uluslararası bir çerçeve sunarken, Türkiye'nin bu alandaki mevcut düzenlemeleriyle karşılaştırmalı bir analiz yapılmasını gerektirmektedir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu), çocukların kişisel verilerinin korunması konusunda belirli hükümler içermekle birlikte, Genel Yorum'un öngördüğü kapsamlı koruma standartlarına tam olarak uyum sağlanması için ek düzenlemelere ihtiyaç duyulmaktadır. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 2026 yılı Nisan ayında duyurduğu 15 yaş altı çocuklara yönelik sosyal medya düzenlemesi, Türkiye'nin bu alandaki uluslararası yükümlülüklerine uyum çabalarının bir parçası olarak değerlendirilebilir. MEB (Milli Eğitim Bakanlığı) müfredatına dijital okuryazarlık ve çevrimiçi güvenlik derslerinin entegrasyonu, çocukların dijital hakları konusunda farkındalık yaratma açısından olumlu bir adımdır. Ancak Türkiye'de çocukların dijital ortama katılım hakları, ifade özgürlüğü ve bilgiye erişim hakları konusunda henüz kapsamlı bir ulusal strateji bulunmamaktadır. BTK'nın Güvenli İnternet Hizmeti belirli bir koruma sağlasa da, çocukların aktif katılımını ve dijital vatandaşlık becerilerini geliştirmeye yönelik politikaların güçlendirilmesi gerekmektedir. TÜİK'in çocukların internet kullanımına ilişkin verileri, dijital platformlarda geçirilen sürenin her geçen yıl arttığını göstermektedir. Bu bağlamda, 25 No'lu Genel Yorum'un beşinci yılı, Türkiye için mevzuat boşluklarını tespit etme ve ulusal dijital çocuk hakları stratejisini oluşturma açısından kritik bir fırsat sunmaktadır. Ayrıca, Türkiye'nin dijital dönüşüm sürecinde çocuk haklarının merkezi bir konuma yerleştirilmesi, sadece ulusal mevzuatın değil, aynı zamanda kamu politikalarının ve özel sektör uygulamalarının da bu çerçevede şekillendirilmesini gerektirmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
+- [[raw/articles/2026-06-26_5rights-foundation-ieee-global-trends-in-age-appro.md|5Rights Foundation / IEEE: Global Trends in Age-Ap]]
+- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
+- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
+- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]

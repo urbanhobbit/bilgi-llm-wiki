@@ -32,3 +32,19 @@ TRT Haber'in aktardığına göre, Aile ve Sosyal Hizmetler Bakanı Mahinur Özd
 ## Turkey Context
 
 TRT Haber'in duyurduğu bu düzenleme, Türkiye'nin çocuk dijital güvenliği alanında atacağı en kapsamlı adımlardan biridir. Düzenlemenin teknik altyapısı, BTK'nın koordinasyonunda geliştirilecek olup, mevcut internet düzenlemeleriyle uyumlu hale getirilmesi planlanmaktadır. KVKK (6698 sayılı Kanun) kapsamında, platformların çocuk kullanıcılardan veri toplama ve işleme faaliyetleri bu düzenlemeyle daha sıkı kurallara bağlanacaktır. Türkiye'nin AB DSA'sına uyum sürecinde, bu düzenleme önemli bir referans noktası oluşturacaktır. Bakan Göktaş'ın vurguladığı 'aile odaklı' yaklaşım, Aile ve Sosyal Hizmetler Bakanlığı'nın politika öncelikleriyle uyumludur. Sağlık Bakanlığı'nın dijital bağımlılıkla mücadele programları ve MEB'in okul temelli önleme çalışmaları, düzenlemenin etkinliğini artıracak tamamlayıcı unsurlardır. TÜİK'in 2025 yılı Çocuk Araştırması'na göre, 6-15 yaş grubundaki çocukların %85'i kendine ait bir mobil cihaza sahiptir ve bu cihazlar üzerinden sosyal medyaya erişmektedir. Bu düzenleme, çocukların çevrimiçi ortamda karşılaştıkları riskleri azaltmayı hedeflerken, aynı zamanda dijital haklarının korunmasını da amaçlamaktadır. UNICEF Türkiye'nin çocuk katılımı ve dijital güvenlik alanındaki deneyimi, düzenlemenin çocuk dostu bir şekilde tasarlanmasına katkı sağlayabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
+- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
+- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
+- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

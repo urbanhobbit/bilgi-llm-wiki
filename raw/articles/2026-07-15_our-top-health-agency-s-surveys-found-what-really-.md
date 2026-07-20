@@ -32,3 +32,18 @@ Mike Males tarafından Substack'te yayınlanan bu analiz, ABD Hastalık Kontrol 
 ## Turkey Context
 
 Mike Males'in CDC verileri üzerinden yaptığı analiz, Türkiye'deki sosyal medya düzenlemesi tartışmalarında dikkate alınması gereken önemli bir perspektif sunmaktadır. Türkiye'de de genç ruh sağlığı sorunları genellikle sosyal medya ve dijital bağımlılık çerçevesinde ele alınırken, aile içi faktörler yeterince irdelenmemektedir. Sağlık Bakanlığı ve Aile ve Sosyal Hizmetler Bakanlığı'nın ortak yürüttüğü çalışmalarda, genç ruh sağlığını etkileyen çok faktörlü bir model benimsenmelidir. MEB'in rehberlik hizmetleri kapsamında yürütülen psikososyal destek programları, CDC'nin belirlediği risk faktörlerini dikkate almalıdır. TÜİK'in 2025 Türkiye Aile Yapısı Araştırması'na göre, gençlerin %12'si ebeveynleri tarafından duygusal istismara maruz kaldığını bildirmektedir. Bu veri, sosyal medya düzenlemesinin çocuk refahına yönelik bütüncül bir yaklaşımın sadece bir parçası olması gerektiğini göstermektedir. KVKK (6698 sayılı Kanun) kapsamında, hassas aile verilerinin araştırma amaçlı toplanması ve işlenmesi konusunda etik standartlar belirlenmelidir. UNICEF Türkiye'nin çocuk koruma programları, aile içi faktörlerin çocuk refahı üzerindeki etkisini azaltmaya yönelik politikalar geliştirilmesinde önemli bir rol oynayabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
+- [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]
+- [[raw/articles/2026-06-26_mike-males-substack-our-top-health-agency-surveys-.md|Mike Males (Substack): Our Top Health Agency Surve]]
+- [[raw/articles/2026-06-26_mike-males-substack-secondary-analysis-of-us-healt.md|Mike Males Substack: Secondary Analysis of US Heal]]
+- [[raw/articles/2026-06-26_our-top-health-agency-s-surveys-found-what-really-.md|Our top health agency’s surveys found what really ]]

@@ -33,3 +33,17 @@ priority: high
 ## Turkey Context
 
 Çin'in sekiz bakanlıkla yürürlüğe koyduğu bu kapsamlı içerik sınıflandırma sistemi, Türkiye'nin çevrimiçi çocuk koruma politikaları açısından önemli karşılaştırmalı dersler barındırmaktadır. Türkiye'de 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, BTK ve Erişim Sağlayıcıları Birliği (ESB) eliyle zararlı içeriklerin engellenmesine yönelik bir mekanizma sunmaktadır. Ancak Çin'deki gibi sekiz bakanlığın koordineli çalıştığı, yaş temelli kademeli bir içerik sınıflandırma sistemi Türkiye'de henüz mevcut değildir. Milli Eğitim Bakanlığı'nın okullarda uyguladığı güvenli internet politikaları ve BTK'nın 'Güvenli İnternet Hizmeti' (GİH) uygulaması, içerik filtreleme konusunda belirli bir altyapı sunsa da, Çin'in yapay zeka destekli içerik sınıflandırma ve yaş doğrulama sistemlerinin gerisinde kalmaktadır. KVKK kapsamında çocukların kişisel verilerinin korunmasına ilişkin hükümler bulunmakla birlikte, Çin modelindeki gibi sekiz kamu kurumunun eşgüdüm içinde çalıştığı bütüncül bir çocuk koruma ekosistemi oluşturulamamıştır. Çin'in içerik sınıflandırma sistemi, belirli yaş grupları için uygun olmayan içeriklerden tamamen yasaklanmış içeriklere kadar kategoriler oluşturmaktadır. Türkiye'nin Çin modelinden alabileceği en önemli ders, içerik sınıflandırmasının yaş gruplarına göre kademelendirilmesi ve bu sürecin çok paydaşlı bir yönetişim modeliyle yürütülmesidir. Bununla birlikte, Çin modelinin ifade özgürlüğü ve sansür endişeleri barındırdığı da unutulmamalıdır. Türkiye'nin Anayasa'nın 26. maddesi kapsamında düşünceyi açıklama ve yayma özgürlüğü ile çocuk koruma yükümlülükleri arasında bir denge kurması gerekmektedir. Ayrıca, Avrupa İnsan Hakları Sözleşmesi'nin 10. maddesi çerçevesinde orantılılık ilkesine uygun bir içerik sınıflandırma sistemi tasarlanmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-english-www-gov-cn-content-ws697416b4.md|Article from english.www.gov.cn: content WS697416b]]
+- [[raw/articles/2026-06-26_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]
+- [[raw/articles/2026-06-26_genel-english-gov-cn.md|GENEL - english.gov.cn]]
+- [[raw/articles/2026-06-26_news-article-from-english-gov-cn-digital-media-and.md|News Article from ENGLISH.GOV.CN - Digital Media a]]
+- [[raw/articles/2026-07-15_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]

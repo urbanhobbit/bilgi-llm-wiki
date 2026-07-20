@@ -32,3 +32,21 @@ UNICEF'in 2026 yılında güncellediği dijital haklar rehberi, çocukların çe
 ## Turkey Context
 
 UNICEF'in dijital haklar rehberi güncellemesi, Türkiye'deki çocuk dijital hakları politikaları için önemli bir referans çerçevesi sunmaktadır. UNICEF Türkiye'nin bu alandaki çalışmaları, ulusal düzenlemelerin uluslararası standartlarla uyumlu hale getirilmesine katkı sağlamaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi, UNICEF'in dijital haklar rehberinde belirtilen ilkelerle uyumlu bir yaklaşım sergilemektedir. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin korunmasına yönelik düzenlemeler, UNICEF rehberindeki mahremiyet standartlarıyla uyumlu hale getirilmelidir. MEB'in müfredatında dijital okuryazarlık ve çevrimiçi güvenlik konularına UNICEF rehberi doğrultusunda daha fazla yer verilmelidir. Sağlık Bakanlığı'nın çocuk sağlığı politikaları, UNICEF'in dijital refah yaklaşımını entegre etmelidir. TÜİK'in çocuklarda internet kullanımı araştırmaları, UNICEF'in veri toplama standartlarına uygun olarak güncellenmelidir. BTK'nın düzenleyici çerçevesi, UNICEF'in çocuk hakları temelli yaklaşımını yansıtacak şekilde gözden geçirilmelidir. Türkiye'nin AB DSA'sına uyum sürecinde, UNICEF'in dijital haklar rehberi önemli bir politika referansı olarak kullanılabilir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+- [[entities/unicef.md|Unicef]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_digital-rights-guidelines-update-2026.md|Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-06-26_unicef-digital-rights-guidelines-update-2026.md|UNICEF Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-06-29_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than th]]
+- [[raw/articles/2026-06_when-ai-becomes-a-friend-child-rights-risks-harms-.md|When AI becomes a friend: Child rights risks, harm]]
+- [[raw/articles/2026-07-01_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than th]]

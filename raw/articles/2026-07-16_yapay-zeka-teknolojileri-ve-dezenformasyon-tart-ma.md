@@ -33,3 +33,20 @@ digitalturkce.com sitesinde yapay zeka teknolojileri ve dezenformasyon tartışm
 ## Turkey Context
 
 digitalturkce.com sitesinde yapay zeka teknolojileri ve dezenformasyon tartışmaları konulu makalenin DNS çözümleme hatası nedeniyle erişilemez olması, Türkiye'deki yapay zeka ve dezenformasyon literatüründe önemli bir kaynağın kaybına işaret etmektedir. Türkiye'de yapay zeka teknolojilerinin hızla yaygınlaşması, beraberinde dezenformasyon risklerini de artırmaktadır. Özellikle üretken yapay zeka araçlarının (ChatGPT, Midjourney, deepfake üreticileri gibi) erişilebilir hale gelmesi, dezenformasyon üretimini demokratikleştirmiş ve bu alandaki tehditleri artırmıştır. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi tarafından hazırlanan Ulusal Yapay Zeka Stratejisi (2021-2025), yapay zekanın etik kullanımı ve olası risklerinin yönetimini öncelikli alanlar arasında saymıştır. Bu strateji belgesi, yapay zeka teknolojilerinin geliştirilmesi ve kullanımında etik ilkelerin belirlenmesi, veri gizliliğinin korunması ve olası risklerin yönetilmesi gibi konuları kapsamaktadır. İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, yapay zeka destekli dezenformasyonun tespiti ve kamuoyunun doğru bilgilendirilmesi konusunda aktif çalışmalar yürütmektedir. Merkez, özellikle seçim dönemlerinde yapay zeka ile üretilmiş sahte içeriklerin tespiti ve bunlara karşı kamuoyunu bilinçlendirme kampanyaları düzenlemektedir. BTK'nın sosyal medya platformlarına yönelik düzenlemeleri, yapay zeka tarafından üretilen içeriklerin etiketlenmesi ve şeffaflık gereklilikleri açısından giderek daha önemli hale gelmektedir. KVKK (6698 sayılı Kanun) kapsamında, yapay zeka sistemlerinin kişisel verileri işleme biçimi ve bu verilerin dezenformasyon amacıyla kullanımı, veri koruma hukuku açısından kritik bir alan oluşturmaktadır. TÜİK'in girişimlerde bilişim teknolojileri kullanım araştırması, Türkiye'deki işletmelerin yapay zeka benimseme oranları hakkında önemli veriler sunmaktadır. MEB'in müfredatına yapay zeka okuryazarlığı derslerinin eklenmesi, gençlerin yapay zeka kaynaklı dezenformasyonu tanıma ve bununla başa çıkma becerilerini geliştirmelerine yardımcı olacaktır. Digitalturkce.com gibi yerel kaynakların erişilemez hale gelmesi, Türkçe dijital içerik ekosisteminin kırılganlığını göstermekte ve bu tür kaynakların arşivlenmesi ve korunması için stratejiler geliştirilmesi gerektiğini ortaya koymaktadır. Ayrıca, yapay zeka ve dezenformasyon konusunda Türkiye'deki akademik kurumların ve düşünce kuruluşlarının daha fazla Türkçe kaynak üretmesi, bu alandaki bilgi boşluğunun doldurulmasına katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
+- [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]
+- [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]
+- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismala]]
+- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md|Yapay Zeka Teknolojileri ve Dezenformasyon Tartışm]]

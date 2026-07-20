@@ -31,3 +31,22 @@ This UK Information Commissioner's Office (ICO) guidance page was intended to pr
 ## Turkey Context
 
 Birleşik Krallık Bilgi Komiserliği Ofisi'nin (ICO) çocuk verilerinin korunmasına yönelik rehberlik sayfasına HTTP 404 hatası nedeniyle erişilememiştir. ICO'nun Çocuklar için Yaşa Uygun Tasarım Kodu (Age Appropriate Design Code / Children's Code), çocuk verilerinin korunması alanında uluslararası bir referans standardı haline gelmiştir. Türkiye'de KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocuk verilerinin korunmasına yönelik hükümler bulunmakla birlikte, ICO'nun Çocuk Kodu kadar kapsamlı ve sektöre özel bir rehberlik mekanizması henüz oluşturulmamıştır. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu 15 yaş altı sosyal medya düzenlemesi, Türkiye'de çocuk verilerinin korunması alanında önemli bir adım olmakla birlikte, ICO modelindeki gibi kapsamlı bir 'çocuk dostu tasarım' kodunun oluşturulması faydalı olacaktır. ICO'nun yaklaşımının en önemli unsurlarından biri olan 'çocuğun yüksek yararı' ilkesinin veri korumanın merkezine koyulması, Türkiye'deki düzenleme çalışmaları için altın standart niteliğindedir. BTK'nın düzenleyici çerçevesi, sosyal ağ sağlayıcıların ve oyun platformlarının çocuk kullanıcıların verilerini işlerken uyması gereken standartları belirlemelidir. MEB'in dijital okuryazarlık müfredatı, çocukların kendi veri haklarını anlamalarına yardımcı olacak içeriklerle güçlendirilmelidir. ICO'nun çocuk dostu dil kullanımı ve şeffaflık konusundaki rehberliği, Türkiye'deki platformlar için de uygulanabilir niteliktedir. UNICEF Türkiye'nin bu alandaki teknik desteği, uluslararası standartlarla uyumlu bir ulusal çerçevenin oluşturulmasına önemli katkı sağlayabilir. Ayrıca, İngiltere'nin Çocuk Kodu'nun uygulama sonuçlarının düzenli olarak değerlendirilmesi, Türkiye'deki benzer düzenlemelerin etkinliğinin ölçülmesi için bir model oluşturabilir. Türkiye'de de çocuk verilerinin korunmasına yönelik benzer kapsamlı bir rehberlik mekanizmasının oluşturulması, hem çocukların haklarının korunmasına katkı sağlayacak hem de işletmelere net bir uyum çerçevesi sunacaktır. Ayrıca, bu tür bir rehberlik mekanizması, Türkiye'deki dijital platformların çocuk kullanıcılarına yönelik tasarımlarını iyileştirmelerine ve uluslararası standartlarla uyumlu hale gelmelerine yardımcı olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]
+- [[raw/articles/2026-06-26_kids-protecting-childrens-data.md|Kids Protecting Childrens Data]]
+- [[raw/articles/2026-06-26_kurator-ico-org-uk.md|KURATOR - ico.org.uk]]
+- [[raw/articles/2026-06-26_protecting-children-s-data-ico-guidance-for-organi.md|Protecting Children's Data: ICO Guidance for Organ]]
+- [[raw/articles/2026-06-26_protecting-children-s-data-privacy-uk-information-.md|Protecting Children's Data Privacy — UK Informatio]]

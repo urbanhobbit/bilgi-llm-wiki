@@ -33,3 +33,17 @@ Ella Adams tarafından State House News Service için yazılan ve 10 Nisan 2026 
 ## Turkey Context
 
 Massachusetts Temsilciler Meclisi'nin çocuk sosyal medya yasağını onaylamasını konu alan bu makale, gizlilik ve büyük teknoloji şirketleri endişeleri çerçevesinde önemli bir yasama örneği sunmaktadır. Türkiye'de de KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin büyük teknoloji şirketleri tarafından ticari amaçlarla kullanılmasına yönelik endişeler giderek artmaktadır. Massachusetts'teki yasama sürecinde olduğu gibi, Türkiye'de de Aile ve Sosyal Hizmetler Bakanlığı'nın hazırladığı 15 yaş altı sosyal medya düzenlemesi, çocukların veri mahremiyetini korumayı ve büyük teknoloji platformlarının algoritmik tasarımlarının çocuk güvenliği üzerindeki etkilerini sınırlamayı amaçlamaktadır. Bakan Göktaş'ın belirttiği gibi, sosyal ağ sağlayıcılara ve oyun platformlarına 'çocukların korunmasını esas alan önemli yükümlülükler' getirilmektedir. BTK'nın düzenleyici rolü, bu yükümlülüklerin uygulanmasını denetlemeyi ve ihlal durumunda yaptırım uygulamayı kapsamalıdır. MEB'in dijital okuryazarlık eğitimi, çocukların ve ebeveynlerin büyük teknoloji şirketlerinin veri toplama uygulamaları ve algoritmik manipülasyon teknikleri konusunda bilinçlenmesine katkı sağlayacaktır. TÜİK verilerine göre Türkiye'de çocukların sosyal medya kullanım oranlarındaki artış, bu tür düzenlemelerin önemini ortaya koymaktadır. Massachusetts örneği, yasama sürecinde gizlilik ve büyük teknoloji karşıtı söylemlerin nasıl kullanıldığını göstermesi açısından Türkiye için değerli bir vaka çalışması niteliğindedir. Ayrıca, 129-25 gibi ezici bir çoğunlukla geçen bu yasa, çocukların çevrimiçi korunması konusunda iki partili bir mutabakatın mümkün olduğunu göstermektedir. Türkiye'de de benzer bir siyasi mutabakatın sağlanması, düzenlemenin başarısı için kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
+- [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]
+- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
+- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
+- [[raw/articles/2026-06-26_massachusetts-house-passes-youth-social-media-ban-.md|Massachusetts House Passes Youth Social Media Ban ]]

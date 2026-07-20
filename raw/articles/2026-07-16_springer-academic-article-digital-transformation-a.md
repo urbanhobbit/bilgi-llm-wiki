@@ -34,3 +34,17 @@ Bu Springer akademik makalesi, DOI 10.1007/s12525-025-00796-6 ile tanımlanmakta
 ## Turkey Context
 
 Springer akademik yayıncılık platformunda yer alan bu makalenin erişime kapalı olması, Türkiye'deki akademik araştırmacılar ve politika yapıcılar için önemli bir bilgi kaynağının kullanılamaması anlamına gelmektedir. TÜBİTAK'ın ULARBİM (Ulusal Akademik Ağ ve Bilgi Merkezi) aracılığıyla sağladığı ulusal akademik veri tabanı abonelikleri, Türk üniversitelerindeki araştırmacıların Springer gibi uluslararası yayınevlerinin makalelerine erişimini sağlasa da, bu aboneliklerin kapsamı sınırlıdır ve her kurum tüm veri tabanlarına erişememektedir. YÖK (Yükseköğretim Kurulu) tarafından yürütülen açık erişim ve akademik yayıncılık politikaları, Türkiye'deki araştırmacıların uluslararası literatüre erişimini kolaylaştırmayı hedeflemektedir, ancak Springer gibi büyük yayınevlerinin abonelik duvarları bu erişimi kısıtlamaya devam etmektedir. Türk akademik ekosisteminde dijital dönüşüm, platform ekonomisi ve çocukların çevrimiçi korunması alanlarında yapılan araştırmaların sayısı giderek artmakta olup, bu tür uluslararası makalelerin erişilememesi, Türk araştırmacıların mevcut literatürü tam olarak taramasını ve kendi çalışmalarını uluslararası bağlamda konumlandırmasını zorlaştırmaktadır. TÜBİTAK'ın desteklediği araştırma projelerinde, uluslararası yayınlara erişim engeli sıkça karşılaşılan bir sorundur. Bu durum, özellikle TÜBİTAK tarafından fonlanan ve uluslararası literatür taraması gerektiren projelerde önemli bir darboğaz oluşturmaktadır. Türkiye'deki üniversitelerin araştırma performansını artırmak için uluslararası veri tabanlarına sürdürülebilir erişimin sağlanması ve ulusal açık erişim politikalarının güçlendirilmesi gerekmektedir. YÖK'ün son yıllarda açık erişim ve ulusal arşivleme konusunda attığı adımlar olumlu olmakla birlikte, bu alanda daha kapsamlı politikalar geliştirilmesi ihtiyacı devam etmektedir. Bu makalenin bloke olması, akademik bilgiye erişimdeki eşitsizliklerin ve Türkiye'deki araştırmacıların karşılaştığı engellerin bir yansımasıdır. Ayrıca, dijital dönüşüm ve çocuk koruma alanında çalışan Türk akademisyenlerin uluslararası yayınlara erişimini kolaylaştırmak için kurumsal aboneliklerin genişletilmesi ve açık erişim dönüşümünün hızlandırılması önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
+- [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]
+- [[raw/articles/2026-06-26_digital-business-models-in-the-regulatory-era-spri.md|Digital Business Models in the Regulatory Era (Spr]]
+- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
+- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]

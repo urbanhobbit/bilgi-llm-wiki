@@ -33,3 +33,18 @@ Molly Rose Vakfı (MRF), Avustralya'nın 16 yaş altı çocuklar için sosyal me
 ## Turkey Context
 
 Molly Rose Vakfı'nın Avustralya sosyal medya yasağı araştırma raporu, Türkiye'nin 15 yaş altı çocuklara yönelik sosyal medya düzenlemesi çalışmaları için kritik bir referans belgesi niteliğindedir. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın Nisan 2026'da duyurduğu 'temel çerçeve' henüz yasalaşma aşamasına gelmemiş olup, Avustralya modelinin uygulama sonuçları Türk yasa yapıcılar için değerli kanıtlar sunmaktadır. Avustralya'nın ilk uygulayan ülke olarak karşılaştığı zorluklar — yaş doğrulamanın gizlilik endişeleri, platformların uyum stratejileri, gençlerin alternatif platformlara yönelmesi gibi istenmeyen sonuçlar — Türkiye'nin düzenleme tasarımında dikkate alınması gereken önemli dersler içermektedir. Özellikle 12-15 yaş arası çocukların yüzde 61'inin yasağı aşarak hesaplarına erişmeye devam etmesi ve yüzde 70'inin bunu 'kolay' bulması, yasaklayıcı yaklaşımların tek başına yeterli olmadığını göstermektedir. Türkiye'de BTK'nın düzenleyici çerçevesi, 5651 sayılı Kanun kapsamında içerik engelleme odaklı olup, Avustralya'nın kullandığı yaş doğrulama teknolojileri ve platform yükümlülükleri modelinden farklı bir yaklaşım sergilemektedir. Molly Rose Vakfı'nın kanıta dayalı politikalar geliştirme yaklaşımı, Türkiye'deki düzenleme sürecinde veri odaklı karar alma mekanizmalarının güçlendirilmesi gerektiğini ortaya koymaktadır. MEB ve Aile Bakanlığı'nın koordinasyonunda yürütülecek bir etki değerlendirme çalışması, Avustralya deneyiminden elde edilen bulgular ışığında Türkiye'nin sosyal medya düzenlemesinin daha etkili ve dengeli bir şekilde tasarlanmasına katkı sağlayabilir. KVKK kapsamında kişisel verilerin korunması ilkeleri ile Avustralya modelinin yaş doğrulama sistemleri arasındaki uyum, Türkiye'nin kendi sistemini tasarlarken göz önünde bulundurması gereken bir diğer önemli konudur.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]
+- [[raw/articles/2026-06-26_australia-social-media-ban-research-briefing-molly.md|Australia Social Media Ban Research Briefing - Mol]]
+- [[raw/articles/2026-06-26_kurator-mollyrosefoundation-org.md|KURATOR - mollyrosefoundation.org]]
+- [[raw/articles/2026-06-26_molly-rose-foundation-australia-social-media-ban-r.md|Molly Rose Foundation: Australia Social Media Ban ]]
+- [[raw/articles/2026-06-26_mollyrosefoundation-org.md|mollyrosefoundation.org]]

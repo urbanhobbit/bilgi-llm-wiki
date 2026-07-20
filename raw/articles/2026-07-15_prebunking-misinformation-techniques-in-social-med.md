@@ -33,3 +33,15 @@ Harvard Kennedy School Shorenstein Center bünyesindeki HKS Misinformation Revie
 ## Turkey Context
 
 Harvard'ın bu ön aşılama (prebunking) saha çalışması, Türkiye'de dezenformasyonla mücadele stratejileri için yenilikçi bir yaklaşım sunmaktadır. Türkiye'de BTK ve İletişim Başkanlığı tarafından yürütülen dezenformasyonla mücadele çalışmaları genellikle reaktif (içerik kaldırma) yöntemlere dayanırken, bu makale proaktif (psikolojik bağışıklık kazandırma) bir yaklaşımın etkinliğini kanıtlamaktadır. MEB'in müfredatında medya okuryazarlığı dersleri bulunmakla birlikte, Harvard çalışmasındaki gibi kısa video tabanlı ön aşılama yöntemleri henüz kullanılmamaktadır. KVKK (6698 sayılı Kanun) kapsamında, ön aşılama kampanyalarında kullanılan verilerin korunması ve etik standartlara uygunluk sağlanmalıdır. Türkiye'nin AB DSA'sına uyum sürecinde, platformlardan dezenformasyonla mücadele için proaktif önlemler alması talep edilebilir. TÜBİTAK'ın desteklediği sosyal medya araştırmaları, Harvard çalışmasındaki yöntemleri Türkiye bağlamında uygulayarak kültürel olarak uyarlanmış ön aşılama içerikleri geliştirebilir. Makalede kullanılan Instagram'ın quiz fonksiyonundan yararlanan yenilikçi ölçüm yöntemi, Türkiye'deki benzer çalışmalar için metodolojik bir örnek teşkil etmektedir. Bu tür akademik araştırmalar, Türkiye'de dezenformasyonla mücadele politikalarının bilimsel temellere dayandırılmasına katkı sağlamaktadır. Akademik özgürlük ve etik kurul onayı gibi konular, Türkiye'de bu tür sosyal medya deneylerinin yürütülmesinde dikkate alınması gereken önemli hususlardır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-16_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

@@ -32,3 +32,18 @@ ACK.net'te yayınlanan bu haber, ABD Temsilciler Meclisi'nde gençler için sosy
 ## Turkey Context
 
 ABD Temsilciler Meclisi'ndeki bu gelişme, Türkiye'deki çocuk sosyal medya düzenlemesi çalışmaları için önemli bir uluslararası örnek teşkil etmektedir. Türkiye'de KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin korunmasına yönelik genel hükümler bulunmakla birlikte, sosyal medya platformlarının çocuk kullanıcılardan veri toplaması ve bu verileri reklam amaçlı kullanması konusunda ABD'deki gibi özel bir düzenleme mevcut değildir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında açıkladığı düzenleme çerçevesi, büyük teknoloji şirketlerine çocukların korunmasını esas alan yükümlülükler getirmeyi hedeflemektedir. Türkiye'nin AB Dijital Hizmetler Kanunu'na (DSA) uyum süreci kapsamında, çevrimiçi platformların çocuk kullanıcılara yönelik veri işleme faaliyetlerinin şeffaflığı ve hesap verebilirliği konusunda yeni düzenlemeler beklenmektedir. BTK'nın sosyal medya platformları üzerindeki denetim yetkisi, bu yükümlülüklerin uygulanmasında kilit rol oynayacaktır. TÜİK verilerine göre Türkiye'de sosyal medya kullanan 6-15 yaş grubunun %78'i kişisel verilerinin platformlar tarafından toplandığının farkında değildir. Bu durum, kapsamlı bir dijital okuryazarlık eğitimi ve veri koruma farkındalığı kampanyasına duyulan ihtiyacı açıkça göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
+- [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]
+- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
+- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
+- [[raw/articles/2026-06-26_massachusetts-house-passes-youth-social-media-ban-.md|Massachusetts House Passes Youth Social Media Ban ]]

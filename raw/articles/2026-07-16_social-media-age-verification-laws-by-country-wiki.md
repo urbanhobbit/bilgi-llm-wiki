@@ -33,3 +33,19 @@ Bu Wikipedia sayfasının, farklı ülkelerdeki sosyal medya yaş doğrulama yas
 ## Turkey Context
 
 Wikipedia'nın 'ülkelere göre sosyal medya yaş doğrulama yasaları' sayfasının erişime kapalı olması, Türkiye açısından önemli bir bilgi boşluğu yaratmaktadır. Türkiye'de Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın Nisan 2026'da duyurduğu 15 yaş altı çocuklara yönelik sosyal medya düzenlemesi, küresel eğilimlerle paralellik göstermektedir. KVKK (6698 sayılı Kişisel Verilerin Korunması Kanunu) kapsamında çocukların kişisel verilerinin işlenmesi açısından yaş doğrulama mekanizmaları kritik önem taşımaktadır. BTK (Bilgi Teknolojileri ve İletişim Kurumu) tarafından yürütülen sosyal medya platformlarına yönelik düzenlemelerde, yaş doğrulama sistemlerinin teknik altyapısı ve standartları belirlenmektedir. MEB (Milli Eğitim Bakanlığı) ise dijital okuryazarlık müfredatı kapsamında çocukların çevrimiçi ortamlarda karşılaştıkları risklere karşı bilinçlendirilmesini sağlamaktadır. TÜİK verilerine göre, Türkiye'de 6-15 yaş grubunda internet kullanım oranı yüzde 80'in üzerine çıkmış olup, bu durum yaş doğrulama mekanizmalarının önemini artırmaktadır. Avustralya'nın 16 yaş altı sosyal medya yasağı, İngiltere'nin Online Safety Act düzenlemeleri ve AB'nin Dijital Hizmetler Yasası gibi uluslararası örnekler, Türkiye'nin kendi ulusal düzenlemesini şekillendirirken referans alabileceği modeller sunmaktadır. Türkiye'de çocukların sosyal medya kullanımına yönelik düzenleyici çerçeve oluşturulurken, bu ülkelerin deneyimlerinden elde edilen dersler dikkate alınmalıdır. Özellikle Avustralya modelindeki yaş doğrulama teknolojilerinin gizlilik endişeleri, İngiltere modelindeki platform sorumluluğu yaklaşımı ve AB modelindeki risk temelli düzenleme anlayışı, Türkiye'nin kendi yol haritasını oluştururken değerlendirebileceği önemli unsurlardır. KVKK'nın çocukların kişisel verilerinin korunmasına ilişkin hükümleri, bu uluslararası modellerle uyumlu hale getirilmelidir. Bu kapsamda, 6698 sayılı Kanun'un 6. maddesinde düzenlenen özel nitelikli kişisel verilere ilişkin hükümlerin, çocukların çevrimiçi platformlardaki veri işleme faaliyetlerine özgü olarak genişletilmesi değerlendirilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
+- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
+- [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-by-country-wiki.md|Social Media Age Verification Laws by Country - Wi]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]

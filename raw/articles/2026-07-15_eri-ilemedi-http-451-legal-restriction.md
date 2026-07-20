@@ -31,3 +31,20 @@ This WCVB article, a Boston-area ABC News affiliate, featured medical expert com
 ## Turkey Context
 
 WCVB haber sitesinde yayınlanan ve Massachusetts'in yeni sosyal medya yasasını tıbbi perspektiften ele alan bu makaleye HTTP 451 (yasal nedenlerle erişim engeli) kodu nedeniyle erişilememiştir. Ancak, doktor görüşlerine dayanan bu tür haberler, Türkiye'deki benzer düzenleme çalışmaları için önemli bir referans niteliği taşımaktadır. Massachusetts'te olduğu gibi Türkiye'de de Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın duyurduğu 15 yaş altı sosyal medya düzenlemesi, çocuk sağlığı ve gelişimi perspektifinden değerlendirilmelidir. Türk Tabipler Birliği (TTB) ve Türkiye Çocuk ve Ergen Psikiyatrisi Derneği gibi meslek örgütlerinin, sosyal medya düzenlemelerinin çocuk sağlığı üzerindeki etkilerine dair görüşleri, politika yapıcılar için değerli bir kaynak oluşturmaktadır. Dünya Sağlık Örgütü'nün (WHO) çocuklar için ekran süresi önerileri ve Türkiye'deki uygulamaları, bu bağlamda ele alınması gereken önemli konulardandır. MEB Sağlık Hizmetleri kapsamında okul sağlığı programları, çocukların ekran süresi ve sosyal medya kullanımının sağlık üzerindeki etkileri konusunda farkındalık yaratmayı amaçlamaktadır. BTK'nın Güvenli İnternet Hizmeti, çocukları zararlı içeriklerden korumaya yönelik bir mekanizma sunarken, bu hizmetin etkinliğinin tıbbi veriler ışığında değerlendirilmesi gerekmektedir. KVKK kapsamında, çocukların sağlık verilerinin çevrimiçi platformlarda korunması, ayrı bir hassasiyet gerektirmektedir. Türkiye'deki düzenleme çalışmalarının, çocuk sağlığı uzmanlarının görüşleri doğrultusunda şekillendirilmesi, politikaların bilimsel temellere dayanmasını sağlayacak ve toplumsal kabulü artıracaktır. Bu nedenle, Massachusetts'teki doktor görüşlerine dayalı habercilik modeli, Türkiye'de de benzer şekilde uygulanabilir. Çocuk sağlığı ve dijital medya ilişkisi konusunda Türkiye'de daha fazla klinik araştırma yapılması, politika yapıcıların kanıta dayalı kararlar almasına yardımcı olacak ve düzenlemelerin çocukların sağlık ve gelişimini en iyi şekilde koruyacak şekilde tasarlanmasını sağlayacaktır. Ayrıca, okullarda ekran süresi yönetimi ve dijital sağlık konularında eğitim programlarının yaygınlaştırılması, çocukların bilinçli teknoloji kullanımı alışkanlıkları geliştirmesine katkıda bulunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_70944105.md|70944105]]
+- [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]
+- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
+- [[raw/articles/2026-06-26_doctor-warns-about-kids-social-media-and-screen-ti.md|Doctor Warns About Kids' Social Media and Screen T]]
+- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]

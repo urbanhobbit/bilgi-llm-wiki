@@ -33,3 +33,17 @@ Akşam Gazetesi, Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 
 ## Turkey Context
 
 Bakan Göktaş'ın 15 yaş altı çocuklara yönelik sosyal medya düzenlemesinin temel çerçevesini oluşturduklarını açıklaması, Türkiye'de çocukların çevrimiçi korunması alanında önemli bir dönüm noktasıdır. 18 ay süren kapsamlı bir çalışmanın ürünü olan bu düzenleme, sosyal medya platformlarının yanı sıra oyun platformlarını da kapsayarak mevcut düzenleyici çerçevenin önemli bir genişlemesini temsil etmektedir. Düzenlemenin KVKK (6698 sayılı Kanun) ile uyumu kritik bir konudur. KVKK'nın 6. maddesi kapsamında çocukların kişisel verileri 'özel nitelikli veri' statüsünde olup, işlenmesi için velinin açık rızası gerekmektedir. Yeni sosyal medya düzenlemesinin bu çerçeveye uygun bir yaş doğrulama ve ebeveyn izni mekanizması içermesi beklenmektedir. BTK'nın 5809 sayılı Elektronik Haberleşme Kanunu kapsamında sosyal ağ sağlayıcılarına yönelik düzenleme yapma yetkisi bulunmakla birlikte, oyun platformlarının da kapsama alınması mevcut yetki çerçevesinin genişletilmesini gerektirebilir. MEB'in okullarda uyguladığı dijital vatandaşlık ve güvenli internet eğitimi programları, bu düzenlemenin eğitim ayağını oluşturabilir. Düzenlemenin sansür amacı taşımadığı vurgusu, ifade özgürlüğü ve çocuk koruma arasındaki hassas dengenin gözetildiğini göstermektedir. Bakan Göktaş'ın uluslararası örneklere atıfta bulunması, düzenlemenin küresel standartlarla uyumlu olarak tasarlandığını ortaya koymaktadır. Avustralya, Fransa, İtalya, İspanya, Danimarka, İngiltere ve ABD'deki benzer düzenlemelerle karşılaştırmalı bir analiz, Türkiye'nin bu alandaki konumunu netleştirecektir. Ayrıca, düzenlemenin uygulanmasında karşılaşılabilecek teknik ve hukuki sorunların önceden tespit edilmesi için kapsamlı bir etki analizi yapılması gerekmektedir. Özellikle 15 yaş altı çocukların mevcut sosyal medya hesap sahipliği oranları, yaş doğrulama sistemlerinin maliyeti ve platformların uyum süreleri gibi pratik konular, düzenlemenin başarısını doğrudan etkileyecektir. Kişisel Verileri Koruma Kurumu'nun bu süreçte aktif bir rol üstlenmesi, düzenlemenin KVKK ile uyumunun sağlanması açısından kritik öneme sahiptir. Düzenlemenin TBMM'de görüşülmekte olması, sivil toplum kuruluşları, akademisyenler ve sektör temsilcilerinin katkı sunmasına olanak tanıyacaktır. Bu sürecin şeffaf ve katılımcı bir şekilde yürütülmesi, düzenlemenin toplumsal kabulünü ve etkinliğini artıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]
+- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bak.md|Sosyal Medya Duzenlemesi Bak]]
+- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bakan-goktas-temel-cercev.md|Sosyal Medya Duzenlemesi Bakan Goktas Temel Cercev]]
+- [[raw/articles/2026-07-15_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]

@@ -32,3 +32,17 @@ priority: medium
 ## Turkey Context
 
 Çin'in reşit olmayanlara zararlı çevrimiçi içerik sınıflandırması, Türkiye'deki benzer düzenlemeler için ilginç bir karşılaştırma noktası sunmaktadır. Türkiye'de BTK'nın internet içeriği düzenlemesi ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, çocuklara zararlı içeriklerin kaldırılmasına yönelik mekanizmalar içermektedir. Ancak Çin'deki gibi sistematik bir içerik sınıflandırması henüz mevcut değildir. Aile ve Sosyal Hizmetler Bakanlığı'nın 2026 Nisan ayında duyurduğu sosyal medya düzenlemesi, Çin modeline benzer şekilde içerik sağlayıcılara yükümlülükler getirmeyi hedeflemektedir. KVKK (6698 sayılı Kanun) kapsamında çocukların kişisel verilerinin ve görüntülerinin korunmasına yönelik hükümler bulunmakla birlikte, Çin'deki gibi 'çocuk görüntülerinin uygunsuz kullanımı' kategorisi ayrıca düzenlenmemiştir. MEB'in müfredatında çevrimiçi güvenlik ve dijital vatandaşlık dersleri bulunmakla birlikte, zararlı içeriklerin sınıflandırılmasına yönelik bir eğitim bileşeni mevcut değildir. TÜİK verilerine göre Türkiye'de 6-15 yaş grubunun %73'ü zararlı içerikle karşılaştığını belirtmektedir. Bu oran, Türkiye'de de Çin'deki gibi sistematik bir içerik sınıflandırması ve koruma mekanizmasının oluşturulması gerektiğini göstermektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-english-www-gov-cn-content-ws697416b4.md|Article from english.www.gov.cn: content WS697416b]]
+- [[raw/articles/2026-06-26_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]
+- [[raw/articles/2026-06-26_genel-english-gov-cn.md|GENEL - english.gov.cn]]
+- [[raw/articles/2026-06-26_news-article-from-english-gov-cn-digital-media-and.md|News Article from ENGLISH.GOV.CN - Digital Media a]]
+- [[raw/articles/2026-07-16_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]
