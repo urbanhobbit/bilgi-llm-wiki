@@ -350,3 +350,24 @@ ParentZone'un Mayıs 2026 tarihli raporu, ebeveynlik araçlarının (parental co
 - **KIDS Act:** Kids Internet Design and Safety Act — ABD'de kapsamlı çevrimiçi çocuk güvenliği yasa paketi
 - **OSA:** Online Safety Act — Birleşik Krallık Çevrimiçi Güvenlik Yasası
 - **eSafety Commissioner:** Avustralya Çevrimiçi Güvenlik Komisyonu
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/new-york-times.md|New York Times]]
+- [[entities/www-theguardian-com.md|The Guardian]]

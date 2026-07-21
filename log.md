@@ -24,3 +24,8 @@
 - Topics: Australia social media ban 6-month assessment (80% still accessing, 5M+ accounts removed, $99M penalty proposed), UK Online Safety Act implementation gaps (50% girls still at risk, Internet Matters report), Turkey 15-year-old regulation framework, Aura Digital Wellbeing Index 2026 (usage pattern > screen time), Child-Fit Security paradigm (arXiv 2606.17957), AI Chatbot Age Gating (arXiv 2602.10251), TikTok Kids Mode audit, school phone bans in California/Michigan/Massachusetts/Pennsylvania/UK, IEEE 2089.1 age verification certification, FTC TruHeight penalty, 5Rights GC25 5-year assessment, ParentZone reports, NYT AI attention hacking concern, Candice Odgers Guardian interview questioning ban efficacy
 - Sections: Yönetici Özeti, Araştırma Konuları (4 themes), Akademik Kaynaklar (6 papers), Haberler ve Raporlar (7 items), Karşılaştırmalı Analiz (table), Öneriler (8 items), İstatistikler (8 data points), Kaynakça (17 items)
 - Updated index.md (+1 page, 139 total)
+## [2026-07-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-21_is-misinformation-all-around-us-citizens-perceptio.md]] — Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility
+- Source files: 2026-07-21_tandf-misinformation-nearness.json
+- Agent: OKF Ingestion Pipeline
+

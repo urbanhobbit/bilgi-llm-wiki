@@ -96,3 +96,5 @@
 - [[raw/articles/2026-07-16_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw-t-.md|Almanya seçimleri ve dezenformasyon savaşları | DW Türkçe]]
 - [[raw/articles/2026-07-16_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md|Yapay zeka teknolojileri ve dezenformasyon tartışmaları | Digital Türkçe]]
 - [[raw/articles/2026-07-20_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 29/2026)]]
+- [[raw/articles/2026-07-21_is-misinformation-all-around-us-citizens-perceptio.md|Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility]]
+
