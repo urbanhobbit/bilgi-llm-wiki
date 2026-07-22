@@ -39,3 +39,8 @@
 - Source files: 2026-07-22_who-youth-digital-mental-health.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-21_france-set-to-pass-eu-first-ban-on-social-media-fo.md]] — France set to pass EU-first ban on social media for under-15s
+- Source files: 2026-07-22_france-social-media-ban-under15.json
+- Agent: OKF Ingestion Pipeline
+
