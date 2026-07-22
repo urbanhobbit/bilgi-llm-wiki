@@ -98,4 +98,5 @@
 - [[raw/articles/2026-07-20_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 29/2026)]]
 - [[raw/articles/2026-07-21_is-misinformation-all-around-us-citizens-perceptio.md|Is Misinformation All Around Us? Citizens’ Perceptions of Misinformation Nearness Regarding Its Span, Availability, and Accessibility]]
 - [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md|Public responses to atrocities depend on partisanship and context, not legal labels]]
+- [[raw/articles/2025-05-23_addressing-the-digital-determinants-of-youth-menta.md|Addressing the digital determinants of youth mental health and well-being: policy brief]]
 
