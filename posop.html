@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>POSOP — 12 Angry Men Senaryosu</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&display=swap');
+  
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { 
+    background: #020617; color: #e2e8f0; font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh; overflow-x: hidden;
+  }
+  
+  .grid-bg {
+    background-image: 
+      linear-gradient(rgba(30,41,59,0.3) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(30,41,59,0.3) 1px, transparent 1px);
+    background-size: 40px 40px;
+    position: fixed; top:0; left:0; width:100%; height:100%; z-index: 0;
+  }
+
+  .container { position: relative; z-index: 1; max-width: 1200px; margin: 0 auto; padding: 30px 20px; }
+  
+  header {
+    text-align: center; padding: 40px 0 30px; border-bottom: 1px solid #1e293b;
+    margin-bottom: 40px;
+  }
+  header h1 {
+    font-size: 28px; font-weight: 700;
+    background: linear-gradient(135deg, #58C4DD, #83C167);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  header .subtitle { font-size: 14px; color: #64748b; margin-top: 8px; }
+  header .badge {
+    display: inline-block; margin-top: 12px; padding: 4px 14px;
+    border-radius: 20px; font-size: 11px;
+    background: rgba(88,196,221,0.1); border: 1px solid rgba(88,196,221,0.3);
+    color: #58C4DD;
+  }
+
+  .pulse-dot {
+    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    background: #22d3ee; margin-right: 8px;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+  .section-title {
+    font-size: 16px; font-weight: 600; color: #94a3b8;
+    margin: 40px 0 20px; display: flex; align-items: center; gap: 10px;
+  }
+  .section-title::after { content: ''; flex: 1; height: 1px; background: #1e293b; }
+
+  /* INFO CARDS */
+  .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px; margin-bottom: 40px; }
+  .card {
+    background: rgba(15,23,42,0.8); border: 1px solid #1e293b; border-radius: 12px;
+    padding: 20px; transition: border-color 0.3s;
+  }
+  .card:hover { border-color: #334155; }
+  .card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .card-dot { width: 10px; height: 10px; border-radius: 50%; }
+  .card-dot.cyan { background: #22d3ee; }
+  .card-dot.emerald { background: #34d399; }
+  .card-dot.violet { background: #a78bfa; }
+  .card-dot.amber { background: #fbbf24; }
+  .card-dot.rose { background: #fb7185; }
+  .card h3 { font-size: 13px; font-weight: 600; color: #e2e8f0; }
+  .card ul { list-style: none; }
+  .card li { font-size: 11px; color: #94a3b8; padding: 4px 0; line-height: 1.5; }
+  .card li::before { content: '▸ '; color: #475569; }
+
+  /* SVG DIAGRAM CONTAINER */
+  .diagram-container {
+    background: rgba(15,23,42,0.8); border: 1px solid #1e293b; border-radius: 16px;
+    padding: 24px; margin-bottom: 40px; overflow: hidden;
+  }
+  .diagram-container svg { width: 100%; height: auto; display: block; }
+
+  /* LEGEND */
+  .legend { display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin: 20px 0; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 10px; color: #64748b; }
+  .legend-color { width: 12px; height: 12px; border-radius: 3px; }
+
+  /* TABLE */
+  table { width: 100%; border-collapse: collapse; font-size: 11px; margin: 16px 0; }
+  th { text-align: left; padding: 8px 10px; color: #64748b; font-weight: 600; border-bottom: 1px solid #1e293b; }
+  td { padding: 8px 10px; border-bottom: 1px solid rgba(30,41,59,0.5); color: #94a3b8; }
+  td:first-child { color: #e2e8f0; font-weight: 600; }
+  
+  .delta-high { color: #34d399; }
+  .delta-low { color: #fb7185; }
+
+  .footer {
+    text-align: center; padding: 30px 0; border-top: 1px solid #1e293b;
+    margin-top: 40px; font-size: 10px; color: #475569;
+  }
+
+  @media (max-width: 768px) {
+    .info-grid { grid-template-columns: 1fr; }
+    header h1 { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+<div class="grid-bg"></div>
+<div class="container">
+
+<header>
+  <h1>🥉 POSOP — 12 Angry Men Senaryosu</h1>
+  <div class="subtitle">POlarization viewed from a SOcial choice Perspective</div>
+  <div class="badge"><span class="pulse-dot"></span>Simülasyon Senaryo #7</div>
+</header>
+
+<!-- OVERVIEW CARDS -->
+<div class="info-grid">
+  <div class="card">
+    <div class="card-header"><div class="card-dot cyan"></div><h3>🎯 Ne Öğretir?</h3></div>
+    <ul>
+      <li>Bir jüride azınlık görüşünün çoğunluğu nasıl dönüştürdüğünü modeller</li>
+      <li>Aynı filmdeki 12 juror'un dinamiklerini simüle eder</li>
+      <li>Fikir değişiminin kutuplaşma ve sosyal seçim üzerindeki etkisini gösterir</li>
+    </ul>
+  </div>
+  <div class="card">
+    <div class="card-header"><div class="card-dot emerald"></div><h3>⚙️ Simülasyon Parametreleri</h3></div>
+    <ul>
+      <li>200 ajan (juror) — 2 boyutlu fikir uzayında hareket eder</li>
+      <li>3 parti pozisyonu — farklı oy/karar kümelerini temsil eder</li>
+      <li>6 profil — farklı etkileşim delta değerleriyle tanımlanır</li>
+      <li>300 iterasyon — görüşlerin zaman içinde evrimleşmesi</li>
+    </ul>
+  </div>
+  <div class="card">
+    <div class="card-header"><div class="card-dot violet"></div><h3>📊 Ölçülen Metrikler</h3></div>
+    <ul>
+      <li>Party Polarization — Parti kutuplaşması endeksi</li>
+      <li>Preference Polarization — Tercih kutuplaşması</li>
+      <li>Binary Polarization — İkili kutuplaşma ölçütü</li>
+      <li>Kemeny Polarization — Kemeny sıralama tabanlı</li>
+      <li>Social Choice: Plurality, Borda, Copeland kazananları</li>
+    </ul>
+  </div>
+</div>
+
+<!-- MAIN DIAGRAM: 2D OPINION SPACE -->
+<div class="section-title">🎨 2D Fikir Uzayı — 12 Angry Men</div>
+<div class="diagram-container">
+<svg viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg" style="max-width:800px;margin:0 auto;">
+  
+  <!-- Background grid -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(30,41,59,0.4)" stroke-width="0.5"/>
+    </pattern>
+    <marker id="arrowP1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#22d3ee"/>
+    </marker>
+    <marker id="arrowP2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#fbbf24"/>
+    </marker>
+    <marker id="arrowP3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a78bfa"/>
+    </marker>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="800" height="560" fill="url(#grid)" rx="8"/>
+  
+  <!-- Axis labels -->
+  <text x="400" y="545" fill="#475569" font-size="10" text-anchor="middle" font-family="JetBrains Mono">Fikir Boyutu 1 (X)</text>
+  <text x="15" y="280" fill="#475569" font-size="10" text-anchor="middle" transform="rotate(-90,15,280)" font-family="JetBrains Mono">Fikir Boyutu 2 (Y)</text>
+  <line x1="50" y1="280" x2="750" y2="280" stroke="rgba(71,85,105,0.3)" stroke-width="1"/>
+  <line x1="400" y1="30" x2="400" y2="530" stroke="rgba(71,85,105,0.3)" stroke-width="1"/>
+  
+  <!-- Agent clusters (visual representation of 6 profiles) -->
+  
+  <!-- Profile 0 & 1: "Guilty" cluster (convinced jurors, interact strongly with P1,P2, weakly with P3) -->
+  <g opacity="0.7">
+    <circle cx="180" cy="150" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="195" cy="165" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="170" cy="175" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="210" cy="145" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="185" cy="190" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="220" cy="160" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="165" cy="155" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <circle cx="200" cy="180" r="8" fill="rgba(34,211,238,0.3)" stroke="#22d3ee" stroke-width="1.5"/>
+    <text x="195" y="115" fill="#22d3ee" font-size="10" text-anchor="middle" font-family="JetBrains Mono">Profil 0-1</text>
+    <text x="195" y="205" fill="#64748b" font-size="8" text-anchor="middle" font-family="JetBrains Mono">"Suçlu" oyu</text>
+  </g>
+
+  <!-- Profile 2-5: "Undecided / Open" cluster (interact with everyone) -->
+  <g opacity="0.7">
+    <circle cx="350" cy="280" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="370" cy="260" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="330" cy="300" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="390" cy="290" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="345" cy="245" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="410" cy="270" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="320" cy="260" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="380" cy="310" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="360" cy="330" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="430" cy="260" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="440" cy="290" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <circle cx="310" cy="290" r="8" fill="rgba(52,211,153,0.25)" stroke="#34d399" stroke-width="1.5"/>
+    <text x="380" y="220" fill="#34d399" font-size="10" text-anchor="middle" font-family="JetBrains Mono">Profil 2-5</text>
+    <text x="380" y="350" fill="#64748b" font-size="8" text-anchor="middle" font-family="JetBrains Mono">"Kararsız / Açık"</text>
+  </g>
+
+  <!-- Party 1: Guilty (0, 3.45) — mapped to center-top -->
+  <g filter="url(#glow)">
+    <circle cx="400" cy="120" r="18" fill="rgba(81,175,196,0.25)" stroke="#22d3ee" stroke-width="2.5"/>
+    <circle cx="400" cy="120" r="6" fill="#22d3ee"/>
+    <text x="400" y="96" fill="#22d3ee" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">Parti 1 — Suçlu</text>
+    <text x="400" y="150" fill="#64748b" font-size="8" text-anchor="middle" font-family="JetBrains Mono">(0, 3.45)</text>
+  </g>
+
+  <!-- Party 2: Not Guilty (-2, -1.15) — mapped to left-bottom -->
+  <g filter="url(#glow)">
+    <circle cx="200" cy="410" r="18" fill="rgba(251,191,36,0.2)" stroke="#fbbf24" stroke-width="2.5"/>
+    <circle cx="200" cy="410" r="6" fill="#fbbf24"/>
+    <text x="200" y="386" fill="#fbbf24" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">Parti 2 — Suçsuz</text>
+    <text x="200" y="440" fill="#64748b" font-size="8" text-anchor="middle" font-family="JetBrains Mono">(-2, -1.15)</text>
+  </g>
+
+  <!-- Party 3: Undecided (2, -1.15) — mapped to right-bottom -->
+  <g filter="url(#glow)">
+    <circle cx="600" cy="410" r="18" fill="rgba(167,139,250,0.2)" stroke="#a78bfa" stroke-width="2.5"/>
+    <circle cx="600" cy="410" r="6" fill="#a78bfa"/>
+    <text x="600" y="386" fill="#a78bfa" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">Parti 3 — Kararsız</text>
+    <text x="600" y="440" fill="#64748b" font-size="8" text-anchor="middle" font-family="JetBrains Mono">(2, -1.15)</text>
+  </g>
+
+  <!-- Interaction arrows: Profile 0-1 → Party 1&2 strong, Party 3 weak -->
+  <path d="M 195 130 Q 300 125 395 120" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowP1)" opacity="0.6"/>
+  <path d="M 200 200 Q 200 300 200 390" fill="none" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowP2)" opacity="0.6"/>
+  <path d="M 200 195 Q 400 350 600 390" fill="none" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2,6" marker-end="url(#arrowP3)" opacity="0.35"/>
+  <text x="120" y="305" fill="#fb7185" font-size="8" font-family="JetBrains Mono">zayıf δ=0.1</text>
+
+  <!-- Interaction arrows: Profile 2-5 → all parties full strength -->
+  <path d="M 370 250 Q 385 180 395 120" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowP1)" opacity="0.5"/>
+  <path d="M 350 280 Q 280 345 210 405" fill="none" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowP2)" opacity="0.5"/>
+  <path d="M 400 280 Q 500 345 595 405" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowP3)" opacity="0.5"/>
+  
+  <text x="475" y="240" fill="#34d399" font-size="8" font-family="JetBrains Mono">güçlü δ=1.0</text>
+  <text x="275" y="340" fill="#34d399" font-size="8" font-family="JetBrains Mono">güçlü δ=1.0</text>
+
+  <!-- Narrative callout -->
+  <rect x="560" y="40" width="220" height="70" rx="8" fill="rgba(15,23,42,0.9)" stroke="#334155" stroke-width="1"/>
+  <text x="570" y="58" fill="#fbbf24" font-size="9" font-weight="600" font-family="JetBrains Mono">🎬 12 Angry Men Metaforu</text>
+  <text x="570" y="74" fill="#94a3b8" font-size="8" font-family="JetBrains Mono">8 numaralı jüri üyesi (Henry</text>
+  <text x="570" y="86" fill="#94a3b8" font-size="8" font-family="JetBrains Mono">Fonda), tek başına tüm</text>
+  <text x="570" y="98" fill="#94a3b8" font-size="8" font-family="JetBrains Mono">jürinin fikrini değiştirir.</text>
+
+</svg>
+</div>
+
+<!-- DELTA MATRIX AND PARTY POSITIONS TABLES -->
+<div class="section-title">📐 Konfigürasyon Detayları</div>
+<div class="info-grid">
+  <div class="card">
+    <div class="card-header"><div class="card-dot cyan"></div><h3>Parti Pozisyonları (2D Fikir Uzayı)</h3></div>
+    <table>
+      <tr><th>Parti</th><th>X</th><th>Y</th><th>Anlamı</th></tr>
+      <tr><td>Parti 1</td><td>0</td><td>3.45</td><td style="color:#22d3ee">"Suçlu" oyu (başlangıç çoğunluğu)</td></tr>
+      <tr><td>Parti 2</td><td>-2</td><td>-1.15</td><td style="color:#fbbf24">"Suçsuz" oyu (azınlık)</td></tr>
+      <tr><td>Parti 3</td><td>2</td><td>-1.15</td><td style="color:#a78bfa">Kararsız / alternatif pozisyon</td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <div class="card-header"><div class="card-dot rose"></div><h3>Delta Matrisi — Etkileşim Gücü</h3></div>
+    <table>
+      <tr><th>Profil</th><th>Parti 1</th><th>Parti 2</th><th>Parti 3</th><th>Tip</th></tr>
+      <tr><td>Profil 0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-low">0.1</td><td style="color:#22d3ee">Israrcı "Suçlu"</td></tr>
+      <tr><td>Profil 1</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-low">0.1</td><td style="color:#22d3ee">Israrcı "Suçlu"</td></tr>
+      <tr><td>Profil 2</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td style="color:#34d399">Açık / değişime müsait</td></tr>
+      <tr><td>Profil 3</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td style="color:#34d399">Açık / değişime müsait</td></tr>
+      <tr><td>Profil 4</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td style="color:#34d399">Açık / değişime müsait</td></tr>
+      <tr><td>Profil 5</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td style="color:#34d399">Açık / değişime müsait</td></tr>
+    </table>
+    <div style="margin-top:10px;font-size:9px;color:#475569;line-height:1.6">
+      <span class="delta-high">■</span> δ=1.0: Tam etkileşim — profil o partiden etkilenir<br>
+      <span class="delta-low">■</span> δ=0.1: Zayıf etkileşim — profil neredeyse o partiden etkilenmez
+    </div>
+  </div>
+</div>
+
+<!-- SIMULATION FLOW -->
+<div class="section-title">🔄 Simülasyon Akışı</div>
+<div class="diagram-container">
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" style="max-width:800px;margin:0 auto;">
+  
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#22d3ee"/>
+    </marker>
+  </defs>
+  
+  <rect width="800" height="300" fill="url(#grid)" rx="8"/>
+
+  <!-- Step 1 -->
+  <rect x="50" y="50" width="140" height="80" rx="8" fill="rgba(8,51,68,0.4)" stroke="#22d3ee" stroke-width="1.5"/>
+  <text x="120" y="80" fill="#22d3ee" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">1. Başlangıç</text>
+  <text x="120" y="96" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">200 ajan 6 profile</text>
+  <text x="120" y="110" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">dağıtılır. Her profile</text>
+  <text x="120" y="124" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">delta matrisi atanır.</text>
+
+  <path d="M 190 90 L 230 90" fill="none" stroke="#22d3ee" stroke-width="2" marker-end="url(#arrow)" opacity="0.6"/>
+
+  <!-- Step 2 -->
+  <rect x="240" y="50" width="140" height="80" rx="8" fill="rgba(6,78,59,0.4)" stroke="#34d399" stroke-width="1.5"/>
+  <text x="310" y="80" fill="#34d399" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">2. İterasyon</text>
+  <text x="310" y="96" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">Her adımda ajanlar</text>
+  <text x="310" y="110" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">etkileşime girer,</text>
+  <text x="310" y="124" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">görüşlerini günceller.</text>
+
+  <path d="M 380 90 L 420 90" fill="none" stroke="#22d3ee" stroke-width="2" marker-end="url(#arrow)" opacity="0.6"/>
+
+  <!-- Step 3 - Loop back icon -->
+  <rect x="430" y="50" width="140" height="80" rx="8" fill="rgba(76,29,149,0.4)" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="500" y="80" fill="#a78bfa" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">3. Tekrarla</text>
+  <text x="500" y="96" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">300 iterasyon</text>
+  <text x="500" y="110" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">boyunca fikirler</text>
+  <text x="500" y="124" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">evrilir.</text>
+
+  <path d="M 500 130 Q 500 170 310 170 Q 120 170 120 130" fill="none" stroke="#475569" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrow)" opacity="0.4"/>
+
+  <!-- Step 4 -->
+  <rect x="580" y="50" width="170" height="80" rx="8" fill="rgba(136,19,55,0.3)" stroke="#fb7185" stroke-width="1.5"/>
+  <text x="665" y="80" fill="#fb7185" font-size="11" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">4. Çıktılar</text>
+  <text x="665" y="98" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">Kutuplaşma metrikleri</text>
+  <text x="665" y="112" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">+ Sosyal seçim sonuçları</text>
+  <text x="665" y="126" fill="#94a3b8" font-size="8" text-anchor="middle" font-family="JetBrains Mono">+ Animasyon (30 frame)</text>
+
+  <path d="M 570 90 L 575 90" fill="none" stroke="#22d3ee" stroke-width="2" marker-end="url(#arrow)" opacity="0.6"/>
+
+  <!-- Explanation text at bottom -->
+  <text x="400" y="210" fill="#fbbf24" font-size="10" font-weight="600" text-anchor="middle" font-family="JetBrains Mono">🎬 12 Angry Men Dinamiği</text>
+  
+  <rect x="80" y="225" width="640" height="55" rx="6" fill="rgba(251,191,36,0.05)" stroke="rgba(251,191,36,0.2)" stroke-width="1"/>
+  <text x="100" y="242" fill="#94a3b8" font-size="9" font-family="JetBrains Mono">Filmde Henry Fonda'nın canlandırdığı 8. jüri üyesi (Profil 2-5, δ=1.0), başlangıçta yalnızca</text>
+  <text x="100" y="256" fill="#94a3b8" font-size="9" font-family="JetBrains Mono">bir "suçsuz" oyudur. Diğer jüri üyeleri (Profil 0-1, δ=0.1 Party 3'e) başlangıçta kapalıdır.</text>
+  <text x="100" y="270" fill="#94a3b8" font-size="9" font-family="JetBrains Mono">İkna ve etkileşimle, kademeli olarak görüşler dönüşür. POSOP bunu delta matrisiyle modeller.</text>
+
+</svg>
+</div>
+
+<!-- SCENARIO COMPARISON -->
+<div class="section-title">📋 Senaryo Karşılaştırması</div>
+<div class="diagram-container">
+<table>
+  <tr><th>#</th><th>Senaryo</th><th>Dinamik</th><th>Ders</th></tr>
+  <tr><td>1</td><td>Ideal World</td><td>Homojen dağılım, tam etkileşim</td><td>Rasyonel tartışma ideali</td></tr>
+  <tr><td>2</td><td>Echo Chambers</td><td>Gruplar kendi içinde kuvvetli, dışa zayıf</td><td>Yankı odaları kutuplaşmayı artırır</td></tr>
+  <tr><td>3</td><td>One Group Isolated</td><td>Bir grup tamamen izole</td><td>Dışlanma radikalleşme doğurur</td></tr>
+  <tr><td>4</td><td>Polarized Echo Chambers</td><td>Kutuplaşmış yankı odaları</td><td>En yüksek kutuplaşma senaryosu</td></tr>
+  <tr><td>5</td><td>Radicals Not Isolated</td><td>Radikaller etkileşime açık</td><td>Radikal görüşler yumuşayabilir</td></tr>
+  <tr><td>6</td><td>Radicals Isolated</td><td>Radikaller izole</td><td>Radikaller daha da katılaşır</td></tr>
+  <tr style="background:rgba(251,191,36,0.06)">
+    <td style="color:#fbbf24">7</td>
+    <td style="color:#fbbf24;font-weight:600">12 Angry Men</td>
+    <td style="color:#fbbf24">Azınlık ikna dinamiği, kademeli geçiş</td>
+    <td style="color:#fbbf24">Açık profiller tüm sistemi dönüştürebilir</td>
+  </tr>
+  <tr><td>8</td><td>Polarized No Echo Chambers</td><td>Kutuplu ama etkileşim açık</td><td>Kutuplaşma yankı odası olmadan da mümkün</td></tr>
+</table>
+</div>
+
+<!-- EXPLANATORY TEXT -->
+<div class="section-title">📝 12 Angry Men — POSOP Perspektifinden</div>
+<div style="background:rgba(15,23,42,0.8);border:1px solid #1e293b;border-radius:16px;padding:24px;margin-bottom:40px;">
+  
+  <h3 style="color:#22d3ee;font-size:14px;margin-bottom:12px;">🎬 Filmden Simülasyona</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;margin-bottom:20px;">
+    Sidney Lumet'in 1957 klasiği <strong style="color:#e2e8f0;">12 Angry Men</strong>, bir cinayet davasında jürinin 
+    oybirliğine varma sürecini anlatır. Başlangıçta 11 jüri üyesi "suçlu" oyu kullanırken, yalnızca 
+    8 numaralı jüri üyesi (Henry Fonda) "suçsuz" der. Film, bu tek kişinin diğer 11 kişiyi nasıl ikna 
+    ettiğini adım adım gösterir.
+  </p>
+
+  <h3 style="color:#34d399;font-size:14px;margin-bottom:12px;">🧮 POSOP'ta Nasıl Modellenir?</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;margin-bottom:20px;">
+    POSOP, bu dinamiği 200 ajan (jüri üyesi), 3 parti pozisyonu ve 6 etkileşim profiliyle modeller:
+  </p>
+  <ul style="color:#94a3b8;font-size:11px;line-height:1.8;list-style:none;margin-bottom:20px;">
+    <li style="padding:4px 0">▸ <strong style="color:#22d3ee;">Profil 0-1</strong> (δ=1.0 Parti 1-2'ye, δ=0.1 Parti 3'e): Başlangıçtaki "suçlu" oyu veren jüri üyeleri — sadece kendi gruplarından etkilenirler, kararsızlara kapalıdırlar</li>
+    <li style="padding:4px 0">▸ <strong style="color:#34d399;">Profil 2-5</strong> (δ=1.0 herkese): 8 numaralı jüri üyesi ve ona katılanlar — tüm partilere açık, ikna edilebilir ve edebilirler</li>
+    <li style="padding:4px 0">▸ 300 iterasyon boyunca fikirler evrilir, bazı "suçlu" oyları "suçsuz"a döner</li>
+    <li style="padding:4px 0">▸ Kutuplaşma metrikleri ve sosyal seçim kuralları (Plurality, Borda, Copeland) ile süreç analiz edilir</li>
+  </ul>
+
+  <h3 style="color:#a78bfa;font-size:14px;margin-bottom:12px;">🔬 Neden Önemli?</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;margin-bottom:8px;">
+    Bu senaryo, gerçek dünyada kutuplaşma ve fikir değişimi dinamiklerini anlamak için güçlü bir 
+    araçtır. Özellikle:
+  </p>
+  <ul style="color:#94a3b8;font-size:11px;line-height:1.8;list-style:none;margin-bottom:0;">
+    <li style="padding:4px 0">▸ <strong style="color:#22d3ee;">Azınlık etkisi:</strong> Tek bir kişi, doğru koşullarda tüm grubu dönüştürebilir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#34d399;">Etkileşim açıklığı:</strong> Kutuplaşmanın kırılması için tarafların birbirine açık olması gerekir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#fbbf24;">Kademeli geçiş:</strong> Fikir değişimi ani değil, adım adım gerçekleşir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#fb7185;">Toplumsal çıkarımlar:</strong> Siyasi kutuplaşma, dezenformasyon ve kamusal tartışma ortamlarını anlamak için kullanılabilir</li>
+  </ul>
+</div>
+
+<footer class="footer">
+  <div>🥉 POSOP — POlarization viewed from a SOcial choice Perspective</div>
+  <div style="margin-top:4px;">Emre Erdoğan, Pınar Uyan-Semerci, Ayça Ebru Giritligil, Onur Doğan &amp; Giray Girengir — 2025</div>
+  <div style="margin-top:12px;">🔗 <a href="http://posop.civicexplorer.org:8501/" target="_blank" style="color:#22d3ee;">posop.civicexplorer.org:8501</a></div>
+</footer>
+
+</div>
+</body>
+</html>

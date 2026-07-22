@@ -49,3 +49,8 @@
 - Source files: 2026-07-22_hubnanog-library-child-participation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-21_can-ai-help-us-find-the-books-that-bridge-politica.md]] — Can AI Help Us Find the Books That Bridge Political Divides?
+- Source files: 2026-07-22_ai-bridge-political-divides-books.json
+- Agent: OKF Ingestion Pipeline
+

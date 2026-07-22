@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>POSOP — 12 Angry Men Simulation</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&display=swap');
+  
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background:#020617; color:#e2e8f0; font-family:'JetBrains Mono',monospace;
+    overflow-x:hidden;
+  }
+
+  .grid-bg {
+    background-image: 
+      linear-gradient(rgba(30,41,59,0.3) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(30,41,59,0.3) 1px, transparent 1px);
+    background-size:40px 40px;
+    position:fixed; top:0; left:0; width:100%; height:100%; z-index:0;
+  }
+
+  .container { position:relative; z-index:1; max-width:1200px; margin:0 auto; padding:30px 20px; }
+
+  header { text-align:center; padding:40px 0 30px; border-bottom:1px solid #1e293b; margin-bottom:40px; }
+  header h1 {
+    font-size:28px; font-weight:700;
+    background:linear-gradient(135deg,#58C4DD,#83C167);
+    -webkit-background-clip:text; -webkit-text-fill-color:transparent;
+  }
+  header .subtitle { font-size:14px; color:#64748b; margin-top:8px; }
+  header .badge {
+    display:inline-block; margin-top:12px; padding:4px 14px;
+    border-radius:20px; font-size:11px;
+    background:rgba(88,196,221,0.1); border:1px solid rgba(88,196,221,0.3);
+    color:#58C4DD;
+  }
+
+  .pulse-dot {
+    display:inline-block; width:8px; height:8px; border-radius:50%;
+    background:#22d3ee; margin-right:8px;
+    animation:pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.3;} }
+
+  .section-title {
+    font-size:16px; font-weight:600; color:#94a3b8;
+    margin:40px 0 20px; display:flex; align-items:center; gap:10px;
+  }
+  .section-title::after { content:''; flex:1; height:1px; background:#1e293b; }
+
+  /* SIMULATION CANVAS */
+  #sim-container {
+    background:rgba(15,23,42,0.8); border:1px solid #1e293b; border-radius:16px;
+    padding:24px; margin-bottom:20px; position:relative;
+  }
+  #sim-container canvas {
+    width:100%; max-width:900px; height:auto; display:block; margin:0 auto;
+    border-radius:8px;
+  }
+  #sim-container .sim-overlay {
+    position:absolute; bottom:30px; left:50%; transform:translateX(-50%);
+  }
+  #sim-container .sim-controls {
+    display:flex; align-items:center; justify-content:center; gap:16px; margin-top:16px;
+  }
+  .sim-btn {
+    background:rgba(88,196,221,0.1); border:1px solid rgba(88,196,221,0.3);
+    color:#22d3ee; padding:8px 20px; border-radius:8px; cursor:pointer;
+    font-family:'JetBrains Mono',monospace; font-size:12px; transition:all 0.3s;
+  }
+  .sim-btn:hover { background:rgba(88,196,221,0.2); border-color:#22d3ee; }
+  .sim-btn:disabled { opacity:0.3; cursor:not-allowed; }
+  .sim-btn.reset { border-color:rgba(251,191,36,0.3); color:#fbbf24; background:rgba(251,191,36,0.1); }
+  .sim-btn.reset:hover { background:rgba(251,191,36,0.2); border-color:#fbbf24; }
+  .sim-btn.step { border-color:rgba(167,139,250,0.3); color:#a78bfa; background:rgba(167,139,250,0.1); }
+  .sim-btn.step:hover { background:rgba(167,139,250,0.2); border-color:#a78bfa; }
+
+  #sim-status {
+    text-align:center; font-size:11px; color:#64748b; margin-top:8px;
+  }
+  #sim-iteration {
+    font-size:12px; color:#22d3ee; font-weight:600;
+  }
+
+  .stats-grid {
+    display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin-top:16px;
+  }
+  .stat-box {
+    background:rgba(15,23,42,0.6); border:1px solid #1e293b; border-radius:8px;
+    padding:10px; text-align:center;
+  }
+  .stat-label { font-size:8px; color:#64748b; text-transform:uppercase; letter-spacing:0.5px; }
+  .stat-value { font-size:16px; font-weight:700; margin-top:4px; }
+  .stat-value.party-pol { color:#22d3ee; }
+  .stat-value.pref-pol { color:#34d399; }
+  .stat-value.bin-pol { color:#fbbf24; }
+  .stat-value.kemeny { color:#a78bfa; }
+
+  .info-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(340px,1fr)); gap:16px; margin-bottom:40px; }
+  .card {
+    background:rgba(15,23,42,0.8); border:1px solid #1e293b; border-radius:12px;
+    padding:20px; transition:border-color 0.3s;
+  }
+  .card:hover { border-color:#334155; }
+  .card-header { display:flex; align-items:center; gap:10px; margin-bottom:14px; }
+  .card-dot { width:10px; height:10px; border-radius:50%; }
+  .card-dot.cyan { background:#22d3ee; }
+  .card-dot.emerald { background:#34d399; }
+  .card-dot.violet { background:#a78bfa; }
+  .card-dot.amber { background:#fbbf24; }
+  .card-dot.rose { background:#fb7185; }
+  .card h3 { font-size:13px; font-weight:600; color:#e2e8f0; }
+  .card ul { list-style:none; }
+  .card li { font-size:11px; color:#94a3b8; padding:4px 0; line-height:1.5; }
+  .card li::before { content:'▸ '; color:#475569; }
+
+  table { width:100%; border-collapse:collapse; font-size:11px; margin:16px 0; }
+  th { text-align:left; padding:8px 10px; color:#64748b; font-weight:600; border-bottom:1px solid #1e293b; }
+  td { padding:8px 10px; border-bottom:1px solid rgba(30,41,59,0.5); color:#94a3b8; }
+  td:first-child { color:#e2e8f0; font-weight:600; }
+  .delta-high { color:#34d399; }
+  .delta-low { color:#fb7185; }
+
+  .footer {
+    text-align:center; padding:30px 0; border-top:1px solid #1e293b;
+    margin-top:40px; font-size:10px; color:#475569;
+  }
+
+  @media (max-width:768px) {
+    .info-grid { grid-template-columns:1fr; }
+    .stats-grid { grid-template-columns:repeat(2,1fr); }
+    header h1 { font-size:22px; }
+  }
+</style>
+</head>
+<body>
+<div class="grid-bg"></div>
+<div class="container">
+
+<header>
+  <h1>🥉 12 Angry Men — POSOP Simülasyonu</h1>
+  <div class="subtitle">POlarization viewed from a SOcial choice Perspective</div>
+  <div class="badge"><span class="pulse-dot"></span>Senaryo #7 — İnteraktif Canlandırma</div>
+</header>
+
+<!-- SIMULATION -->
+<div class="section-title">🎬 Canlı Simülasyon</div>
+<div id="sim-container">
+  <canvas id="simCanvas" width="900" height="600"></canvas>
+  
+  <div class="sim-controls">
+    <button class="sim-btn" id="btnPlay">▶ Play</button>
+    <button class="sim-btn step" id="btnStep">⏭ Step</button>
+    <button class="sim-btn reset" id="btnReset">↺ Reset</button>
+    <span id="sim-iteration">Adım: 0 / 300</span>
+  </div>
+  <div id="sim-status">Başlatmak için ▶ Play'e tıklayın</div>
+
+  <div class="stats-grid">
+    <div class="stat-box"><div class="stat-label">Party Polarization</div><div class="stat-value party-pol" id="stat-party-pol">0.00</div></div>
+    <div class="stat-box"><div class="stat-label">Preference Polarization</div><div class="stat-value pref-pol" id="stat-pref">0.00</div></div>
+    <div class="stat-box"><div class="stat-label">Binary Polarization</div><div class="stat-value bin-pol" id="stat-bin">0.00</div></div>
+    <div class="stat-box"><div class="stat-label">Kemeny Polarization</div><div class="stat-value kemeny" id="stat-kemeny">0.00</div></div>
+  </div>
+</div>
+
+<!-- EXPLANATORY TEXT -->
+<div class="section-title">📝 12 Angry Men — POSOP Perspektifinden</div>
+<div style="background:rgba(15,23,42,0.8);border:1px solid #1e293b;border-radius:16px;padding:24px;margin-bottom:40px;">
+
+  <h3 style="color:#22d3ee;font-size:14px;margin-bottom:12px;">🎬 Filmden Simülasyona</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;margin-bottom:20px;">
+    Sidney Lumet'in 1957 klasiği <strong style="color:#e2e8f0;">12 Angry Men</strong>, bir cinayet davasında jürinin 
+    oybirliğine varma sürecini anlatır. Başlangıçta 11 jüri üyesi "suçlu" oyu kullanırken, yalnızca 
+    8 numaralı jüri üyesi (Henry Fonda) "suçsuz" der. Film, bu tek kişinin diğer 11 kişiyi nasıl ikna 
+    ettiğini adım adım gösterir.
+  </p>
+
+  <h3 style="color:#34d399;font-size:14px;margin-bottom:12px;">🧮 POSOP'ta Nasıl Modellenir?</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;">
+    POSOP, bu dinamiği 2 boyutlu fikir uzayında modeller. Her ajan (jüri üyesi) bir (x,y) noktasında 
+    bulunur ve diğer ajanlarla etkileşime girerek görüşünü günceller. Üç parti üç farklı konumu temsil eder.
+  </p>
+  
+  <table style="margin-top:16px;">
+    <tr><th>Bileşen</th><th>Değer</th><th>Açıklama</th></tr>
+    <tr><td>Parti 1</td><td>(0, 3.45)</td><td style="color:#22d3ee">"Suçlu" oyu — başlangıç çoğunluğu</td></tr>
+    <tr><td>Parti 2</td><td>(-2, -1.15)</td><td style="color:#fbbf24">"Suçsuz" oyu — azınlık (8. jüri üyesi)</td></tr>
+    <tr><td>Parti 3</td><td>(2, -1.15)</td><td style="color:#a78bfa">Kararsız / alternatif pozisyon</td></tr>
+    <tr><td>Profil 0-1</td><td>δ₁=1.0, δ₂=1.0, δ₃=0.1</td><td style="color:#fb7185">Parti 3'e kapalı — ikna olmaları zor</td></tr>
+    <tr><td>Profil 2-5</td><td>δ₁=1.0, δ₂=1.0, δ₃=1.0</td><td style="color:#34d399">Tüm partilere açık — ikna edilebilir</td></tr>
+  </table>
+
+  <h3 style="color:#a78bfa;font-size:14px;margin:20px 0 12px;">🔬 Neden Önemli?</h3>
+  <p style="color:#94a3b8;font-size:11px;line-height:1.8;">
+    Bu senaryo, kutuplaşma ve fikir değişimi dinamiklerini anlamak için güçlü bir araçtır:
+  </p>
+  <ul style="color:#94a3b8;font-size:11px;line-height:1.8;list-style:none;margin:12px 0 0;">
+    <li style="padding:4px 0">▸ <strong style="color:#22d3ee;">Azınlık etkisi:</strong> Doğru koşullarda tek bir kişi tüm grubu dönüştürebilir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#34d399;">Etkileşim açıklığı:</strong> Kutuplaşmanın kırılması için tarafların birbirine açık olması gerekir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#fbbf24;">Kademeli geçiş:</strong> Fikir değişimi ani değil, adım adım gerçekleşir</li>
+    <li style="padding:4px 0">▸ <strong style="color:#fb7185;">Toplumsal çıkarımlar:</strong> Siyasi kutuplaşma ve dezenformasyonu anlamak için kullanılabilir</li>
+  </ul>
+</div>
+
+<!-- CONFIG TABLES -->
+<div class="section-title">📐 Konfigürasyon</div>
+<div class="info-grid">
+  <div class="card">
+    <div class="card-header"><div class="card-dot cyan"></div><h3>Parti Pozisyonları</h3></div>
+    <table>
+      <tr><th>Parti</th><th>X</th><th>Y</th><th>Anlamı</th></tr>
+      <tr><td>Parti 1</td><td>0</td><td>3.45</td><td style="color:#22d3ee">"Suçlu"</td></tr>
+      <tr><td>Parti 2</td><td>-2</td><td>-1.15</td><td style="color:#fbbf24">"Suçsuz"</td></tr>
+      <tr><td>Parti 3</td><td>2</td><td>-1.15</td><td style="color:#a78bfa">Kararsız</td></tr>
+    </table>
+  </div>
+  <div class="card">
+    <div class="card-header"><div class="card-dot rose"></div><h3>Delta Matrisi</h3></div>
+    <table>
+      <tr><th>Profil</th><th>P1</th><th>P2</th><th>P3</th><th>Tip</th></tr>
+      <tr><td>0,1</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-low">0.1</td><td style="color:#fb7185">Kapalı</td></tr>
+      <tr><td>2-5</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td class="delta-high">1.0</td><td style="color:#34d399">Açık</td></tr>
+    </table>
+  </div>
+</div>
+
+<footer class="footer">
+  <div>🥉 POSOP — Emre Erdoğan, Pınar Uyan-Semerci, Ayça Ebru Giritligil, Onur Doğan &amp; Giray Girengir — 2025</div>
+  <div style="margin-top:8px;">🔗 <a href="http://posop.civicexplorer.org:8501/" target="_blank" style="color:#22d3ee;">posop.civicexplorer.org:8501</a></div>
+</footer>
+
+</div>
+
+<script>
+// ─── POSOP 12 Angry Men Simülasyonu ─────────────────────────────
+const canvas = document.getElementById('simCanvas');
+const ctx = canvas.getContext('2d');
+const W = 900, H = 600;
+
+// Party positions (mapped from abstract space to pixel space)
+const PARTIES = [
+  { x: 450, y: 150, label: 'P1 Suçlu',  color: '#22d3ee' },
+  { x: 180, y: 430, label: 'P2 Suçsuz', color: '#fbbf24' },
+  { x: 720, y: 430, label: 'P3 Kararsız', color: '#a78bfa' }
+];
+
+// Profile definitions
+const PROFILES = [
+  { delta: [1.0, 1.0, 0.1], color: '#22d3ee', label: 'Israrcı Suçlu' },     // Profile 0
+  { delta: [1.0, 1.0, 0.1], color: '#22d3ee', label: 'Israrcı Suçlu' },     // Profile 1
+  { delta: [1.0, 1.0, 1.0], color: '#34d399', label: 'Açık' },              // Profile 2
+  { delta: [1.0, 1.0, 1.0], color: '#34d399', label: 'Açık' },              // Profile 3
+  { delta: [1.0, 1.0, 1.0], color: '#34d399', label: 'Açık' },              // Profile 4
+  { delta: [1.0, 1.0, 1.0], color: '#34d399', label: 'Açık' },              // Profile 5
+];
+
+const AGENT_COUNT = 200;
+const ITERATIONS = 300;
+const FRAMES = 30;
+
+let agents = [];
+let iteration = 0;
+let playing = false;
+let playTimer = null;
+let simDone = false;
+
+// Agent class
+class Agent {
+  constructor(index) {
+    this.id = index;
+    // Assign profile: roughly 40% to closed profiles (0-1), 60% to open (2-5)
+    const pct = index / AGENT_COUNT;
+    if (pct < 0.35) { // 35% → Profile 0
+      this.profile = 0;
+    } else if (pct < 0.40) { // 5% → Profile 1 (the "holdout juror")
+      this.profile = 1;
+    } else { // 60% → Profiles 2-5
+      this.profile = 2 + Math.floor(Math.random() * 4);
+    }
+    
+    // Initialize position near a party based on profile
+    const prof = PROFILES[this.profile];
+    if (this.profile <= 1) {
+      // Near Party 1 (guilty)
+      this.x = PARTIES[0].x + (Math.random() - 0.5) * 80;
+      this.y = PARTIES[0].y + (Math.random() - 0.5) * 80;
+    } else {
+      // Distributed more evenly / near center
+      this.x = 350 + Math.random() * 200;
+      this.y = 250 + Math.random() * 150;
+    }
+    
+    this.vx = 0;
+    this.vy = 0;
+    this.nearestParty = -1;
+  }
+  
+  getColor() {
+    return PROFILES[this.profile].color;
+  }
+  
+  getDelta() {
+    return PROFILES[this.profile].delta;
+  }
+  
+  // Find nearest party
+  findNearestParty() {
+    let minDist = Infinity;
+    let nearest = 0;
+    for (let i = 0; i < PARTIES.length; i++) {
+      const dx = this.x - PARTIES[i].x;
+      const dy = this.y - PARTIES[i].y;
+      const d = Math.sqrt(dx*dx + dy*dy);
+      if (d < minDist) { minDist = d; nearest = i; }
+    }
+    this.nearestParty = nearest;
+    return nearest;
+  }
+  
+  // Step: interact and move
+  step() {
+    const delta = this.getDelta();
+    const nearest = this.findNearestParty();
+    
+    // Interaction force from each party, weighted by delta
+    let fx = 0, fy = 0;
+    for (let i = 0; i < PARTIES.length; i++) {
+      const d = delta[i];
+      const dx = PARTIES[i].x - this.x;
+      const dy = PARTIES[i].y - this.y;
+      const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+      
+      // Force: stronger from closer parties, scaled by delta
+      const force = d * (1 / (1 + dist/100));
+      fx += dx/dist * force * 3;
+      fy += dy/dist * force * 3;
+    }
+    
+    // Small random perturbation
+    fx += (Math.random() - 0.5) * 2;
+    fy += (Math.random() - 0.5) * 2;
+    
+    // Update velocity with damping
+    this.vx = this.vx * 0.3 + fx * 0.4;
+    this.vy = this.vy * 0.3 + fy * 0.4;
+    
+    // Update position
+    this.x += this.vx;
+    this.y += this.vy;
+    
+    // Clamp to canvas
+    this.x = Math.max(20, Math.min(W-20, this.x));
+    this.y = Math.max(20, Math.min(H-20, this.y));
+  }
+}
+
+function initAgents() {
+  agents = [];
+  for (let i = 0; i < AGENT_COUNT; i++) {
+    agents.push(new Agent(i));
+  }
+  iteration = 0;
+  simDone = false;
+}
+
+function computePolarization() {
+  // Assign each agent to nearest party
+  const partyCounts = [0, 0, 0];
+  const partyPositions = [[], [], []];
+  
+  agents.forEach(a => {
+    const nearest = a.findNearestParty();
+    partyCounts[nearest]++;
+    partyPositions[nearest].push({ x: a.x, y: a.y });
+  });
+  
+  // Party polarization: variance of party centroids
+  const centroids = [
+    { x: 450, y: 150 },
+    { x: 180, y: 430 },
+    { x: 720, y: 430 }
+  ];
+  
+  let partyVar = 0;
+  let count = 0;
+  for (let i = 0; i < 3; i++) {
+    for (let j = i+1; j < 3; j++) {
+      const dx = centroids[i].x - centroids[j].x;
+      const dy = centroids[i].y - centroids[j].y;
+      partyVar += Math.sqrt(dx*dx + dy*dy);
+      count++;
+    }
+  }
+  const partyPol = partyVar / count / 400; // Normalize
+  
+  // Preference polarization: distribution spread
+  let totalDist = 0;
+  let pairCount = 0;
+  for (let i = 0; i < agents.length; i += 10) {
+    for (let j = i + 10; j < agents.length; j += 10) {
+      const dx = agents[i].x - agents[j].x;
+      const dy = agents[i].y - agents[j].y;
+      totalDist += Math.sqrt(dx*dx + dy*dy);
+      pairCount++;
+    }
+  }
+  const prefPol = (totalDist / pairCount) / 400;
+  
+  // Binary polarization: how evenly split (0=perfectly even, 1=all same)
+  const maxCount = Math.max(...partyCounts);
+  const binPol = (maxCount - AGENT_COUNT/3) / (AGENT_COUNT * 2/3);
+  
+  // Kemeny approximation: agreement index
+  const supportP1 = partyCounts[0] / AGENT_COUNT;
+  const supportP2 = partyCounts[1] / AGENT_COUNT;
+  const supportP3 = partyCounts[2] / AGENT_COUNT;
+  const entropy = -(supportP1 * Math.log(supportP1 + 0.01) + 
+                    supportP2 * Math.log(supportP2 + 0.01) + 
+                    supportP3 * Math.log(supportP3 + 0.01)) / Math.log(3);
+  const kemenyPol = 1 - entropy;
+  
+  return {
+    partyPol: Math.min(1, Math.max(0, partyPol)).toFixed(3),
+    prefPol: Math.min(1, Math.max(0, prefPol)).toFixed(3),
+    binPol: Math.min(1, Math.max(0, binPol)).toFixed(3),
+    kemenyPol: Math.min(1, Math.max(0, kemenyPol)).toFixed(3),
+    counts: partyCounts
+  };
+}
+
+function drawSim() {
+  ctx.clearRect(0, 0, W, H);
+  
+  // Background
+  ctx.fillStyle = '#0f172a';
+  ctx.fillRect(0, 0, W, H);
+  
+  // Grid
+  ctx.strokeStyle = 'rgba(30,41,59,0.3)';
+  ctx.lineWidth = 0.5;
+  for (let x = 0; x < W; x += 40) {
+    ctx.beginPath();
+    ctx.moveTo(x, 0); ctx.lineTo(x, H);
+    ctx.stroke();
+  }
+  for (let y = 0; y < H; y += 40) {
+    ctx.beginPath();
+    ctx.moveTo(0, y); ctx.lineTo(W, y);
+    ctx.stroke();
+  }
+  
+  // Axis lines
+  ctx.strokeStyle = 'rgba(71,85,105,0.2)';
+  ctx.lineWidth = 1;
+  ctx.beginPath(); ctx.moveTo(W/2, 0); ctx.lineTo(W/2, H); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(0, H/2); ctx.lineTo(W, H/2); ctx.stroke();
+  
+  // Draw agents (as small circles)
+  agents.forEach(a => {
+    const color = a.getColor();
+    const isOpen = a.profile >= 2;
+    const radius = isOpen ? 5 : 4;
+    
+    ctx.beginPath();
+    ctx.arc(a.x, a.y, radius, 0, Math.PI * 2);
+    ctx.fillStyle = color + '40';
+    ctx.fill();
+    ctx.strokeStyle = color;
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+  });
+  
+  // Draw party positions
+  PARTIES.forEach((p, i) => {
+    // Glow
+    const grad = ctx.createRadialGradient(p.x, p.y, 5, p.x, p.y, 45);
+    grad.addColorStop(0, p.color + '40');
+    grad.addColorStop(1, 'transparent');
+    ctx.fillStyle = grad;
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, 45, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Circle
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, 16, 0, Math.PI * 2);
+    ctx.fillStyle = p.color + '20';
+    ctx.fill();
+    ctx.strokeStyle = p.color;
+    ctx.lineWidth = 2.5;
+    ctx.stroke();
+    
+    // Dot
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, 5, 0, Math.PI * 2);
+    ctx.fillStyle = p.color;
+    ctx.fill();
+    
+    // Label
+    ctx.fillStyle = p.color;
+    ctx.font = 'bold 12px JetBrains Mono';
+    ctx.textAlign = 'center';
+    ctx.fillText(p.label, p.x, p.y - 28);
+    
+    // Coordinates
+    ctx.fillStyle = '#64748b';
+    ctx.font = '9px JetBrains Mono';
+    ctx.fillText(`(${['0,3.45','-2,-1.15','2,-1.15'][i]})`, p.x, p.y - 14);
+  });
+  
+  // Title
+  ctx.fillStyle = '#e2e8f0';
+  ctx.font = 'bold 14px JetBrains Mono';
+  ctx.textAlign = 'center';
+  ctx.fillText(`12 Angry Men — Adım ${iteration} / ${ITERATIONS}${simDone ? ' ✓ TAMAMLANDI' : ''}`, W/2, 30);
+  
+  // Draw polarization metrics
+  const stats = computePolarization();
+  
+  // Party support bar
+  const barY = H - 30;
+  const barH = 12;
+  const barW = W - 60;
+  const barX = 30;
+  
+  ctx.fillStyle = '#1e293b';
+  ctx.fillRect(barX, barY, barW, barH);
+  
+  const total = stats.counts[0] + stats.counts[1] + stats.counts[2];
+  if (total > 0) {
+    const w1 = barW * (stats.counts[0] / total);
+    const w2 = barW * (stats.counts[1] / total);
+    const w3 = barW * (stats.counts[2] / total);
+    
+    ctx.fillStyle = '#22d3ee';
+    ctx.fillRect(barX, barY, w1, barH);
+    ctx.fillStyle = '#fbbf24';
+    ctx.fillRect(barX + w1, barY, w2, barH);
+    ctx.fillStyle = '#a78bfa';
+    ctx.fillRect(barX + w1 + w2, barY, w3, barH);
+  }
+  
+  // Bar labels
+  ctx.fillStyle = '#94a3b8';
+  ctx.font = '9px JetBrains Mono';
+  ctx.textAlign = 'left';
+  ctx.fillText(`P1: ${stats.counts[0]}`, barX, barY - 5);
+  ctx.fillText(`P2: ${stats.counts[1]}`, barX + 80, barY - 5);
+  ctx.fillText(`P3: ${stats.counts[2]}`, barX + 160, barY - 5);
+  
+  // Update stat display
+  document.getElementById('stat-party-pol').textContent = stats.partyPol;
+  document.getElementById('stat-pref').textContent = stats.prefPol;
+  document.getElementById('stat-bin').textContent = stats.binPol;
+  document.getElementById('stat-kemeny').textContent = stats.kemenyPol;
+  
+  return stats;
+}
+
+function simStep() {
+  if (iteration >= ITERATIONS) {
+    simDone = true;
+    if (playTimer) { clearInterval(playTimer); playTimer = null; }
+    playing = false;
+    document.getElementById('btnPlay').textContent = '▶ Play';
+    document.getElementById('sim-status').textContent = '✅ Simülasyon tamamlandı!';
+    return false;
+  }
+  
+  agents.forEach(a => a.step());
+  iteration++;
+  document.getElementById('sim-iteration').textContent = `Adım: ${iteration} / ${ITERATIONS}`;
+  drawSim();
+  
+  if (iteration >= ITERATIONS) {
+    simDone = true;
+    if (playTimer) { clearInterval(playTimer); playTimer = null; }
+    playing = false;
+    document.getElementById('btnPlay').textContent = '▶ Play';
+    document.getElementById('sim-status').textContent = '✅ Simülasyon tamamlandı!';
+    return false;
+  }
+  return true;
+}
+
+function startPlay() {
+  if (simDone) return;
+  if (playTimer) { clearInterval(playTimer); playTimer = null; }
+  
+  playing = true;
+  document.getElementById('btnPlay').textContent = '⏸ Pause';
+  document.getElementById('sim-status').textContent = '▶ Çalışıyor...';
+  
+  playTimer = setInterval(() => {
+    const cont = simStep();
+    if (!cont) {
+      clearInterval(playTimer);
+      playTimer = null;
+      playing = false;
+      document.getElementById('btnPlay').textContent = '▶ Play';
+    }
+  }, 50);
+}
+
+function pausePlay() {
+  if (playTimer) {
+    clearInterval(playTimer);
+    playTimer = null;
+  }
+  playing = false;
+  document.getElementById('btnPlay').textContent = '▶ Play';
+  document.getElementById('sim-status').textContent = '⏸ Durduruldu';
+}
+
+function togglePlay() {
+  if (playing) pausePlay();
+  else startPlay();
+}
+
+function resetSim() {
+  if (playTimer) { clearInterval(playTimer); playTimer = null; }
+  playing = false;
+  document.getElementById('btnPlay').textContent = '▶ Play';
+  initAgents();
+  drawSim();
+  document.getElementById('sim-iteration').textContent = `Adım: 0 / ${ITERATIONS}`;
+  document.getElementById('sim-status').textContent = '↺ Sıfırlandı. Başlatmak için ▶ Play';
+}
+
+// Initialize
+initAgents();
+drawSim();
+
+// Event listeners
+document.getElementById('btnPlay').addEventListener('click', togglePlay);
+document.getElementById('btnStep').addEventListener('click', simStep);
+document.getElementById('btnReset').addEventListener('click', resetSim);
+</script>
+</body>
+</html>
