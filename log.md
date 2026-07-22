@@ -29,3 +29,8 @@
 - Source files: 2026-07-21_tandf-misinformation-nearness.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md]] — Public responses to atrocities depend on partisanship and context, not legal labels
+- Source files: 2026-07-22_pnas-atrocities-labels.json
+- Agent: OKF Ingestion Pipeline
+
