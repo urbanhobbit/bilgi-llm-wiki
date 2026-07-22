@@ -100,4 +100,5 @@
 - [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md|Public responses to atrocities depend on partisanship and context, not legal labels]]
 - [[raw/articles/2025-05-23_addressing-the-digital-determinants-of-youth-menta.md|Addressing the digital determinants of youth mental health and well-being: policy brief]]
 - [[raw/articles/2026-07-21_france-set-to-pass-eu-first-ban-on-social-media-fo.md|France set to pass EU-first ban on social media for under-15s]]
+- [[raw/articles/2026-07-22_hub-na-n-g-the-library-children-and-young-people-s.md|Hub na nÓg — The Library: Children and Young People's Participation Resources]]
 

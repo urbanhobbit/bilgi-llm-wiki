@@ -44,3 +44,8 @@
 - Source files: 2026-07-22_france-social-media-ban-under15.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-22_hub-na-n-g-the-library-children-and-young-people-s.md]] — Hub na nÓg — The Library: Children and Young People's Participation Resources
+- Source files: 2026-07-22_hubnanog-library-child-participation.json
+- Agent: OKF Ingestion Pipeline
+
