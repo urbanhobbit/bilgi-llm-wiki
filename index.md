@@ -105,4 +105,5 @@
 - [[raw/articles/2026-07-23_polarized-by-fear-exploring-the-links-between-fear.md|Polarized by Fear: Exploring the Links Between Fear of Terrorism, Ideological Extremity, and Populist Voting]]
 - [[raw/articles/2026-07-21_polarized-by-fear-exploring-the-links-between-fear.md|Polarized by Fear: Exploring the Links Between Fear of Terrorism, Ideological Extremity, and Populist Voting]]
 - [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md|Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes: A Novel Framework for Interventions]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the Relationship Between Partisanship and Polarization]]
 

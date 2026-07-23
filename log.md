@@ -65,3 +65,8 @@
 - Source files: 2026-07-23_20260723_121925_tandf-fear-terrorism.json, 2026-07-23_user_classified_2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md]] — Partisan Hearts, Polarized Minds? Revisiting the Relationship Between Partisanship and Polarization
+- Source files: 2026-07-23_user_classified_3.json
+- Agent: OKF Ingestion Pipeline
+
