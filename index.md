@@ -103,4 +103,6 @@
 - [[raw/articles/2026-07-22_hub-na-n-g-the-library-children-and-young-people-s.md|Hub na nÓg — The Library: Children and Young People's Participation Resources]]
 - [[raw/articles/2026-07-21_can-ai-help-us-find-the-books-that-bridge-politica.md|Can AI Help Us Find the Books That Bridge Political Divides?]]
 - [[raw/articles/2026-07-23_polarized-by-fear-exploring-the-links-between-fear.md|Polarized by Fear: Exploring the Links Between Fear of Terrorism, Ideological Extremity, and Populist Voting]]
+- [[raw/articles/2026-07-21_polarized-by-fear-exploring-the-links-between-fear.md|Polarized by Fear: Exploring the Links Between Fear of Terrorism, Ideological Extremity, and Populist Voting]]
+- [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md|Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes: A Novel Framework for Interventions]]
 

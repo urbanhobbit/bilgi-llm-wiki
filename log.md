@@ -59,3 +59,9 @@
 - Source files: 2026-07-23_user_classified.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-21_polarized-by-fear-exploring-the-links-between-fear.md]] — Polarized by Fear: Exploring the Links Between Fear of Terrorism, Ideological Extremity, and Populist Voting
+- Raw: [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md]] — Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes: A Novel Framework for Interventions
+- Source files: 2026-07-23_20260723_121925_tandf-fear-terrorism.json, 2026-07-23_user_classified_2.json
+- Agent: OKF Ingestion Pipeline
+
