@@ -79,3 +79,6 @@ Street crimes, crowd killings and other acts of violence continue to feed false,
 - [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
 - [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
 - [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]
+
+
+İlgili kavram: [[concepts/far-right-migration-disinformation.md|Far Right Migration Disinformation]]

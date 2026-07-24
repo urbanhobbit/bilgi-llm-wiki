@@ -20,6 +20,7 @@ sources:
 - raw/articles/2026-06-25-edmo-weekly-pulse.md
 - raw/articles/2026-07-03-edmo-weekly-pulse.md
 - raw/articles/edmo-signals-noise-issue-19-2026-04
+confidence: medium
 ---
 
 # Election Interference and Disinformation

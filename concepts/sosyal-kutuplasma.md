@@ -21,6 +21,7 @@ related:
 - cycle-of-distrust
 - sosyal-medya-genclik
 - dijital-okuryazarlik
+confidence: medium
 ---
 
 # Sosyal Kutuplaşma ve Dijital Platformlar

@@ -15,6 +15,7 @@ created: 2026-04-07
 updated: 2026-04-07
 sources:
 - raw/articles/platform-transparency-2026.md
+confidence: medium
 ---
 
 # Platform Şeffaflığı (Algorithmic Transparency)

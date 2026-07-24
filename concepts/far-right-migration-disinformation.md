@@ -18,6 +18,7 @@ sources:
 - raw/articles/2026-05-29-edmo-weekly-pulse.md
 - raw/articles/2026-06-18-edmo-weekly-pulse.md
 - raw/articles/2026-07-03-edmo-weekly-pulse.md
+confidence: medium
 ---
 
 # Far-Right and Migration Disinformation

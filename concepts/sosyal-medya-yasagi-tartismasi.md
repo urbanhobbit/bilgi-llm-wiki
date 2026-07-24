@@ -9,13 +9,14 @@ tags:
 - kavram
 timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-07-24
 sources:
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/2026-03-17_cocuk_dijital.md
 - raw/articles/2026-03-30_cocuk_dijital.md
 - raw/articles/2026-04-07_cocuk_dijital.md
 - raw/articles/2026-04-10_detayli.md
+confidence: medium
 ---
 
 # Sosyal Medya Yasağı Tartışması
@@ -98,3 +99,9 @@ sources:
 - [[entities/jonathan-haidt.md]]
 - [[entities/5rights-foundation.md]]
 - [[entities/unicef.md]]
+
+
+## Güncelleme (2026-07)
+Temmuz 2026 itibarıyla sosyal medya yasakları küresel ölçekte hız kazandı. ABD'de Massachusetts, Teksas ve Florida gibi eyaletler 14-16 yaş altına sosyal medya yasağı getirirken, Fransa 15 yaş altı için AB'de bir ilki uyguladı. Avustralya ve İngiltere de benzer düzenlemeler üzerinde çalışıyor. Tartışmanın odağı: yaş doğrulama teknolojilerinin etkinliği, ifade özgürlüğü endişeleri ve platformların uyum maliyetleri.
+^[raw/articles/2026-07-15_ma-social-media-ban-for-under-14s-what-.md]---
+confidence: medium

@@ -9,6 +9,7 @@ timestamp: '2026-06-06T09:02:50Z'
 created: 2026-05-21
 updated: 2026-05-21
 sources: []
+confidence: medium
 ---
 
 # Çocuk Veri Gizliliği

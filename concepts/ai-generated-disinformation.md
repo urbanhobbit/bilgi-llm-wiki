@@ -14,6 +14,7 @@ created: 2026-05-14
 updated: 2026-05-14
 sources:
 - raw/articles/edmo-signals-noise-issue-19-2026-04
+confidence: medium
 ---
 
 # AI-Generated Disinformation

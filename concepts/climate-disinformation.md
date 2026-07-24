@@ -13,6 +13,7 @@ created: 2026-05-14
 updated: 2026-05-14
 sources:
 - raw/articles/edmo-signals-noise-issue-18-2025-06
+confidence: medium
 ---
 
 # Climate Disinformation

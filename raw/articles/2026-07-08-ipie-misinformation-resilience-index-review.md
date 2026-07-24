@@ -3424,3 +3424,6 @@ Switzerland
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
+
+
+İlgili kavram: [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]

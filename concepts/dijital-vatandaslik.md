@@ -11,11 +11,12 @@ tags:
 - kavram
 timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
-updated: 2026-04-11
+updated: 2026-07-24
 sources:
 - raw/articles/5rights-digital-citizenship-2026.md
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/2026-03-16_cocuk_dijital.md
+confidence: medium
 ---
 
 # Dijital Vatandaşlık
@@ -79,3 +80,9 @@ Be Internet Awesome RCT bulguları (bkz. [[concepts/dijital-okuryazarlik.md]]):
 - [[entities/common-sense-media.md]] Digital Citizenship Curriculum
 - [[entities/5rights-foundation.md]] Digital Childhood Report (2024)
 - [OHCHR: Children Want to Shape Their Rights](https://www.ohchr.org/en/stories/2025/11/children-want-shape-their-rights-digital-world)
+
+
+## Güncelleme (2026-07)
+Dijital vatandaşlık eğitimi, 2026'da AB Dijital Hizmetler Yasası (DSA) ve ulusal sosyal medya düzenlemeleriyle birlikte daha da önem kazandı. LSE ve 5Rights Foundation raporları, çocukların dijital haklar konusunda bilinçlendirilmesinin, yasaklardan daha etkili bir koruma sağlayabileceğini öne sürüyor.
+^[raw/articles/2026-07-14_lse-children-digital.md]---
+confidence: medium

@@ -9,10 +9,11 @@ tags:
 - kuresel
 timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-07-24
 sources:
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/2026-03-17_cocuk_dijital.md
+confidence: medium
 ---
 
 # Yaş Doğrulama Teknolojileri
@@ -65,3 +66,9 @@ Avustralya "makul adımlar" prensibi kapsamında **katmanlı** bir yaklaşım be
 ## İlgili Varlıklar
 - [[entities/esafety-commissioner.md]]
 - [[entities/btk.md]]
+
+
+## Güncelleme (2026-07)
+Yaş doğrulama teknolojileri, 2026'da sosyal medya düzenlemelerinin merkezine yerleşti. Massachusetts, Fransa ve İngiltere gibi ülkelerin getirdiği yaş sınırlamaları, etkili yaş doğrulama mekanizmalarını zorunlu kılıyor. Başlıca yaklaşımlar: yüz tanıma tabanlı tahmini yaş tespiti, resmi kimlik belgesi doğrulaması, ebeveyn izni ve ödeme kartı tabanlı doğrulama. Gizlilik endişeleri ve yanlış pozitif/negatif oranları hala çözülmemiş sorunlar.
+^[raw/articles/2026-07-15_ma-social-media-ban-for-under-14s-what-.md]---
+confidence: medium

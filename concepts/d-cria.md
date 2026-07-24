@@ -14,6 +14,7 @@ updated: 2026-04-11
 sources:
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/unicef-digital-rights-2026.md
+confidence: medium
 ---
 
 # D-CRIA — Digital Child Rights Impact Assessment

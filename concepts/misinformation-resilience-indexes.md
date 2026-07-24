@@ -21,6 +21,7 @@ created: 2026-07-08
 updated: 2026-07-08
 sources:
 - raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md
+confidence: medium
 ---
 
 # Mis/Disinformation Resilience Indexes

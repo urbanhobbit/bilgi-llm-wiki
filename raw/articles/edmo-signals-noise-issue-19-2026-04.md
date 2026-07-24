@@ -54,3 +54,6 @@ timestamp: '2026-06-06T09:02:50Z'
 - [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
 - [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
 - [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]
+
+
+İlgili kavram: [[concepts/media-literacy-fact-checking.md|Media Literacy Fact Checking]]

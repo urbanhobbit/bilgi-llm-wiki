@@ -13,6 +13,7 @@ updated: 2026-04-11
 sources:
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/2026-03-30_cocuk_dijital.md
+confidence: medium
 ---
 
 # Ekran Süresi

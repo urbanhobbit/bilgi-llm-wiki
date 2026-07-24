@@ -18,6 +18,7 @@ sources:
 related:
 - sosyal-medya-genclik
 - cocuk-dijital-katilim
+confidence: medium
 ---
 
 # Fizyolojik Senkronizasyon ve Sosyal Bağlantı

@@ -360,3 +360,6 @@ Türkiye özelinde:
 - [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
 - [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]
 - [[raw/articles/2026-05-18_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
+
+
+İlgili kavram: [[concepts/media-literacy-fact-checking.md|Media Literacy Fact Checking]]

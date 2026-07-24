@@ -47,3 +47,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 - [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
 - [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
 - [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]
+
+
+İlgili kavram: [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation]]

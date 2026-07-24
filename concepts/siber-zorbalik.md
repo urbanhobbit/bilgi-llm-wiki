@@ -15,6 +15,7 @@ created: 2026-04-19
 updated: 2026-04-19
 sources:
 - 2026-04-09_cocuk_dijital.md
+confidence: medium
 ---
 
 # Siber Zorbalık

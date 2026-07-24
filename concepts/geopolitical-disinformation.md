@@ -19,6 +19,7 @@ sources:
 - raw/articles/2026-06-11-edmo-weekly-pulse.md
 - raw/articles/2026-07-03-edmo-weekly-pulse.md
 - raw/articles/2026-06-04-edmo-weekly-pulse.md
+confidence: medium
 ---
 
 # Geopolitical Disinformation

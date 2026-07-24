@@ -139,4 +139,6 @@
 - [[raw/articles/2026-07-24_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismalari]]
 - [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md|The Case for Using Generative AI to Run Deliberation Simulations]]
 - [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md|Ideological and Affective Polarization in Argentina]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party]]
+- [[raw/articles/2026-07-24_the-polarizing-effect-of-the-march-for-science-on-.md|The Polarizing Effect of the March for Science on Attitudes toward Scientists]]
 

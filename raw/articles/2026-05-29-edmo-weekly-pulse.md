@@ -85,3 +85,6 @@ Synthetic political influencers — flawless and infallible — duplicate human 
 - [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
 - [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
 - [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]
+
+
+İlgili kavram: [[concepts/synthetic-media-ai-content.md|Synthetic Media Ai Content]]

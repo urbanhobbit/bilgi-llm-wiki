@@ -510,3 +510,6 @@ Türkiye, çocukların çevrimiçi güvenliği konusunda henüz kapsamlı bir ya
 - [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
 - [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
 - [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]
+
+
+İlgili kavram: [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]

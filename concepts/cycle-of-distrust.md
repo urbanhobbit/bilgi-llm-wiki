@@ -17,6 +17,7 @@ sources:
 related:
 - affective-polarisation
 - emotional-amplification-loops
+confidence: medium
 ---
 
 # Cycle of Distrust

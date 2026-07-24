@@ -10,18 +10,19 @@ tags:
 - kavram
 timestamp: '2026-06-06T09:02:50Z'
 created: 2026-04-07
-updated: 2026-04-11
+updated: 2026-07-24
 sources:
 - raw/articles/unicef-digital-rights-2026.md
 - raw/articles/2026-03-13_cocuk_dijital.md
 - raw/articles/2026-03-16_cocuk_dijital.md
 - raw/articles/2026-03-30_cocuk_dijital.md
+confidence: medium
 ---
 
 # Dijital Haklar
 
 ## Tanım
-Çocukların dijital ortamda sahip oldukları hakların [[Çocuk Hakları Sözleşmesi]]'ne (UNCRC) uygun şekilde dijital ortama uyarlanmış hali. Temel gerilim: **koruma hakkı** (Article 19) ile **katılım hakkı** (Article 12) arasında.
+Çocukların dijital ortamda sahip oldukları hakların [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi]]'ne (UNCRC) uygun şekilde dijital ortama uyarlanmış hali. Temel gerilim: **koruma hakkı** (Article 19) ile **katılım hakkı** (Article 12) arasında.
 
 ## Alt Bileşenler
 
@@ -97,7 +98,7 @@ Doğrulama yöntemi: Dijital okuryazarlık eğitimi + bilgiye dayalı onay (info
 
 ## İlgili Kavramlar
 - [[concepts/sosyal-medya-yasagi-tartismasi.md]]
-- [[comparisons/yas-limitleri-karsilastirma.md]]
+- [[comparisons/yas-limitleri-karsilastirma.md|Yaş Limitleri Karşılaştırma]]
 - [[concepts/dijital-vatandaslik.md]]
 - [[concepts/cocuk-istismari.md]]
 - [[concepts/dijital-okuryazarlik.md]]
@@ -107,3 +108,9 @@ Doğrulama yöntemi: Dijital okuryazarlık eğitimi + bilgiye dayalı onay (info
 - UNICEF Digital Rights Guidelines (2017, güncellenmiş 2026)
 - [Convention on the Rights of the Child - General Comment No. 25](https://www.ohchr.org)
 - [CRIN: Children's Rights in the Digital Age](https://home.crin.org/issues/digital-rights/childrens-right-digital-age)
+
+
+## Güncelleme (2026-07)
+UNCRC Genel Yorum No.25'in 5. yılı vesilesiyle, dijital çocuk haklarının uygulanmasında önemli ilerlemeler kaydedildi. 5Rights Foundation ve LSE ortak raporu, çocukların dijital ortamda korunması ve katılımı arasındaki dengenin hala temel bir gerilim olduğunu vurguluyor. Özellikle sosyal medya yaş sınırı düzenlemeleri, çocukların katılım hakkı (Madde 12) ile korunma hakkı (Madde 19) arasındaki dengeyi yeniden tartışmaya açtı.
+^[raw/articles/2026-07-14_lse-children-digital.md]---
+confidence: medium

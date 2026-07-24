@@ -18,6 +18,7 @@ sources:
 - raw/articles/edmo-signals-noise-issue-18-2025-06
 - raw/articles/edmo-signals-noise-issue-19-2026-04
 - raw/articles/2026-07-03-edmo-weekly-pulse.md
+confidence: medium
 ---
 
 # Media Literacy and Fact-Checking

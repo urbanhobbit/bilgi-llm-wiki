@@ -36,7 +36,7 @@ Türkiye'de bilişim ve iletişim teknolojileri düzenleyici kurumu. 5809 sayıl
 
 ## İlgili Varlıklar
 - [[concepts/dijital-haklar.md]]
-- [[concepts/yas-limitleri-karsilastirma.md]]
+- [[comparisons/yas-limitleri-karsilastirma.md|Yaş Limitleri Karşılaştırma]]
 - [[entities/unicef.md]]
 
 ## Kaynaklar

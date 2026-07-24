@@ -14,6 +14,7 @@ updated: 2026-04-19
 sources:
 - 2026-04-17_cocuk_dijital.md
 - 2026-04-19_cocuk_dijital.md
+confidence: medium
 ---
 
 # Platform İş Modeli Reformu

@@ -115,3 +115,9 @@
 - Source files: 2026-07-24_user_classified_1.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md]] — Why do young US Americans avoid cross-partisan dating? A closer look at mediators and variation by gender and party
+- Raw: [[raw/articles/2026-07-24_the-polarizing-effect-of-the-march-for-science-on-.md]] — The Polarizing Effect of the March for Science on Attitudes toward Scientists
+- Source files: 2026-07-24_user_links.json
+- Agent: OKF Ingestion Pipeline
+

@@ -41,4 +41,4 @@ ABD'nin önde gelen gazetesi. Teknoloji ve çocuk gelişimi konularında derinle
 ## İlgili Varlıklar
 - [[entities/unicef.md]]
 - [[concepts/dijital-haklar.md]]
-- [[concepts/cocuk-istismarı.md]]
+- [[concepts/cocuk-istismari.md]]
