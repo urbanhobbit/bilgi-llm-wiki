@@ -110,3 +110,8 @@
 - Source files: 2026-07-23_user_classified_5.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md]] — Ideological and Affective Polarization in Argentina
+- Source files: 2026-07-24_user_classified_1.json
+- Agent: OKF Ingestion Pipeline
+

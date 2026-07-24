@@ -138,4 +138,5 @@
 - [[raw/articles/2026-07-24_s-69784532.md|S 69784532]]
 - [[raw/articles/2026-07-24_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismalari]]
 - [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md|The Case for Using Generative AI to Run Deliberation Simulations]]
+- [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md|Ideological and Affective Polarization in Argentina]]
 
