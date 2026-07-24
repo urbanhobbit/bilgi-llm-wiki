@@ -48,3 +48,20 @@ ortaya koymaktadır.
 Bu makale, [[sosyal-kutuplasma]] ve [[siyasal-siddet]] konularını doğrudan kesiştiriyor. Terörizm korkusunun kutuplaşmayı derinleştirici etkisi, [[populizm]] çalışmaları için de kritik. Aynı zamanda duygusal kutuplaşma (affective polarization) literatürüne — korkunun siyasi kimlikleri nasıl radikalleştirdiğine — dair ampirik katkı sağlıyor.
 
 Makale, [[terorizm-korkusu]], [[ideolojik-asirilik]], [[populist-oylama]] kavramları arasında bağlantı kuruyor.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md|Shackle or hammer? How polarisation influences pol]]
+- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
+- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]

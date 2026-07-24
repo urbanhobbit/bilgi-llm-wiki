@@ -137,4 +137,5 @@
 - [[raw/articles/2026-07-24_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
 - [[raw/articles/2026-07-24_s-69784532.md|S 69784532]]
 - [[raw/articles/2026-07-24_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismalari]]
+- [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md|The Case for Using Generative AI to Run Deliberation Simulations]]
 

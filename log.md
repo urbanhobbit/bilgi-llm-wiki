@@ -105,3 +105,8 @@
 - Source files: 2026-07-23_user_classified_4.json, 2026-07-24_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md]] — The Case for Using Generative AI to Run Deliberation Simulations
+- Source files: 2026-07-23_user_classified_5.json
+- Agent: OKF Ingestion Pipeline
+

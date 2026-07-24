@@ -53,3 +53,14 @@ Bu makale, [[komplo-inanclari]] ile [[sosyal-kutuplasma]] ve [[dezenformasyon]] 
 - Komplo inançlarının **grup kimliği koruma** işlevi, kutuplaşma dinamiklerini anlamak için kritik
 - Önyargı → komplo inancı → kutuplaşma döngüsü, [[onvargi-ve-stereotipler]] literatürüyle bağlantılı
 - Müdahale stratejileri, dezenformasyonla mücadele politikaları için pratik çıkarımlar sunuyor
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]
+- [[raw/articles/2026-06-30_wiley-online-library-public-administration-review-.md|Wiley Online Library — Public Administration Revie]]
+- [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md|Conspiracy Beliefs as a Metacognitive Dimension of]]

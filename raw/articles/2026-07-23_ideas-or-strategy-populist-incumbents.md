@@ -58,3 +58,16 @@ Bu makale, [[populizm]] ile [[demokratik-erozyon]] arasındaki bağlantının me
 - Popülizmin demokrasiye etkisi sadece stratejik değil, ideolojik/fikri temelli
 - Kutuplaşma ve demokratik erozyon arasındaki bağlantıya dair dolaylı kanıt
 - Popülist söylemlerin (halk-seçkin karşıtlığı) kurumsal yıpratmadaki rolü
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
+- [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
+- [[raw/articles/2026-07-24_ideas-or-strategy-the-impact-of-populist-incumbent.md|Ideas or Strategy? The Impact of Populist Incumben]]

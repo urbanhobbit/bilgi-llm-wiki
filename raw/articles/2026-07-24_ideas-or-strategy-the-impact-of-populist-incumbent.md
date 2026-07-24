@@ -29,3 +29,13 @@ Kirk A. Hawkins, Saskia P. Ruth-Lovell & Grant A. Mitchell, Comparative Politica
 - İdeational yaklaşım (popülist fikirler/dünya görüşü) strategic'i geride bırakıyor
 - Popülist liderlerin ilkesel görüşleri, stratejik hesaplardan daha belirleyici
 - Demokratik kurumların gerilemesinde fikirlerin stratejiden daha önemli olduğu bulgusu
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
+- [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]
+- [[raw/articles/2026-07-23_ideas-or-strategy-populist-incumbents.md|Ideas or Strategy? The Impact of Populist Incumben]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the R]]

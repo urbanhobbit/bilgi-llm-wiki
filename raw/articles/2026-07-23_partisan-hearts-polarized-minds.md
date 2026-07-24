@@ -63,3 +63,17 @@ Bu makale, [[duygusal-kutuplasma]] (affective polarization) literatürüne doğr
 - "Her güçlü partizan düşman değildir" bulgusu, kutuplaşma karşıtı müdahale stratejileri için umut verici
 - Ölçüm araçlarının karşılaştırmalı analizi, [[olcum-araclari]] metodolojisi için değerli
 - [[dis-grup-dusmanligi]]'nin belirleyicilerine dair ampirik katkı
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
+- [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]
+- [[raw/articles/2026-07-23_ideas-or-strategy-populist-incumbents.md|Ideas or Strategy? The Impact of Populist Incumben]]
+- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
+- [[raw/articles/2026-07-24_ideas-or-strategy-the-impact-of-populist-incumbent.md|Ideas or Strategy? The Impact of Populist Incumben]]

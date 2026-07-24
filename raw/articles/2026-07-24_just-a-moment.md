@@ -39,3 +39,23 @@ Türkiye'de çocukların dijital ortamda korunmasına yönelik düzenlemeler son
 Akademik perspektiften bakıldığında, Türkiye'de bu alandaki bilimsel çalışmaların sayısı artsa da ampirik araştırmaların yeterli düzeyde olmadığı görülmektedir. TÜBİTAK'ın sosyal bilimler alanında desteklediği projeler ve üniversitelerin iletişim fakültelerinde yürütülen çalışmalar bu alandaki bilgi birikimine katkı sağlamaktadır. Özellikle çocukların dijital medya kullanımı, sosyal medya bağımlılığı ve dijital oyunların etkileri konularında daha fazla boylamsal çalışmaya ihtiyaç duyulmaktadır. Türkiye İstatistik Kurumu'nun (TÜİK) düzenli olarak yayınladığı 'Çocuklarda Bilişim Teknolojileri Kullanımı Araştırması' bu alandaki en önemli veri kaynaklarından biridir.
 
 Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'nin Dijital Hizmetler Yasası (DSA) ve Genel Veri Koruma Tüzüğü (GDPR) düzenlemeleriyle uyumlu olacak şekilde güncellenmeli, çocukların dijital ortamlarda katılım ve korunma hakları arasında denge kurulmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
+- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
+- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
+- [[raw/articles/2026-06-26_uk-parliament-commons-library-research-briefing-on.md|UK Parliament Commons Library: Research Briefing o]]
+- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]
