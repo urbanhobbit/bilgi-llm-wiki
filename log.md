@@ -70,3 +70,38 @@
 - Source files: 2026-07-23_user_classified_3.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-24_ideas-or-strategy-the-impact-of-populist-incumbent.md]] — Ideas or Strategy? The Impact of Populist Incumbents on Liberal Democracy
+- Raw: [[raw/articles/2026-07-24_five-years-of-general-comment-no-25-from-promises-.md]] — Five years of General comment No. 25: From promises to progress
+- Raw: [[raw/articles/2026-07-24_these-are-the-countries-moving-to-ban-social-media.md]] — These are the countries moving to ban social media for children | TechCrunch
+- Raw: [[raw/articles/2026-07-24_every-country-regulating-kids-social-media-in-2026.md]] — Every Country Regulating Kids' Social Media in 2026 (And What Parents Should Do) | WhitelistVideo Blog | WhitelistVideo
+- Raw: [[raw/articles/2026-07-24_what-parents-say-about-their-teen-s-ai-use-pew-res.md]] — What parents say about their teen’s AI use | Pew Research Center
+- Raw: [[raw/articles/2026-07-24_parents-think-they-know-how-kids-use-ai-they-don-t.md]] — Parents think they know how kids use AI. They don't
+- Raw: [[raw/articles/2026-07-24_ma-social-media-ban-for-under-14s-what-parents-nee.md]] — MA Social Media Ban for Under 14s: What Parents Need to Know | WhitelistVideo Blog | WhitelistVideo
+- Raw: [[raw/articles/2026-07-24_site-not-available.md]] — Site Not Available
+- Raw: [[raw/articles/2026-07-24_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md]] — Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html
+- Raw: [[raw/articles/2026-07-24_kids-protecting-childrens-data.md]] — Kids Protecting Childrens Data
+- Raw: [[raw/articles/2026-07-24_complying-coppa.md]] — Complying Coppa
+- Raw: [[raw/articles/2026-07-24_childrens-online-privacy-protection-rule.md]] — Childrens Online Privacy Protection Rule
+- Raw: [[raw/articles/2026-07-24_china-issues-new-rules-classifying-online-content-.md]] — China issues new rules classifying online content harmful to minors
+- Raw: [[raw/articles/2026-07-24_brazil-is-first-latin-american-country-to-enshrine.md]] — Brazil is first Latin American country to enshrine age-appropriate design standards into law
+- Raw: [[raw/articles/2026-07-24_age-checking-systems-can-now-be-certified-against-.md]] — Age checking systems can now be certified against 5Rights-led technical standard
+- Raw: [[raw/articles/2026-07-24_united-states-of-america-5rights.md]] — United States of America - 5rights
+- Raw: [[raw/articles/2026-07-24_mrf-australia-social-media-ban-research-briefing-a.md]] — Mrf_Australia Social Media Ban Research_Briefing April 26.Pdf
+- Raw: [[raw/articles/2026-07-24_the-uk-s-proposed-in-real-life-study-of-social-med.md]] — The UK's Proposed "In Real Life" Study of Social Media Reduction is Scientifically Unsound.
+- Raw: [[raw/articles/2026-07-24_our-top-health-agency-s-surveys-found-what-really-.md]] — Our top health agency’s surveys found what really makes teenagers depressed. Authorities' deafening silence said: no one cares
+- Raw: [[raw/articles/2026-07-24_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md]] — Sosyal medya d�zenlemesi! Bakan G�kta�: Temel �er�eveyi olu�turduk
+- Raw: [[raw/articles/2026-07-24_ocuklara-y-nelik-sosyal-medya-d-zenlemesinin-er-ev.md]] — "Çocuklara yönelik sosyal medya düzenlemesinin çerçevesini oluşturduk" - Son Dakika Haberleri
+- Raw: [[raw/articles/2026-07-24_socialmediaageverificationlawsbycountry.md]] — Socialmediaageverificationlawsbycountry
+- Raw: [[raw/articles/2026-07-24_socialmediaageverificationlawsintheunitedstates.md]] — Socialmediaageverificationlawsintheunitedstates
+- Raw: [[raw/articles/2026-07-24_just-a-moment.md]] — Just a moment...
+- Raw: [[raw/articles/2026-07-24_page-not-found-unicef.md]] — Page not found | UNICEF
+- Raw: [[raw/articles/2026-07-24_the-digital-services-act-shaping-europe-s-digital-.md]] — The Digital Services Act | Shaping Europe’s digital future
+- Raw: [[raw/articles/2026-07-24_managing-disinformation-on-social-media-platforms-.md]] — Managing disinformation on social media platforms | Electronic Markets | Springer Nature Link
+- Raw: [[raw/articles/2026-07-24_prebunking-misinformation-techniques-in-social-med.md]] — Prebunking misinformation techniques in social media feeds: Results from an Instagram field study | HKS Misinformation Review
+- Raw: [[raw/articles/2026-07-24_404-sayfa-bulunamad-t24.md]] — 404 - Sayfa Bulunamadı | T24
+- Raw: [[raw/articles/2026-07-24_s-69784532.md]] — S 69784532
+- Raw: [[raw/articles/2026-07-24_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md]] — Yapay Zeka Teknolojileri Dezenformasyon Tartismalari
+- Source files: 2026-07-23_user_classified_4.json, 2026-07-24_categorized.json
+- Agent: OKF Ingestion Pipeline
+
