@@ -44,6 +44,7 @@
 - [[concepts/ekran-suresi-duzenlemeleri.md|Ekran Süresi Düzenlemeleri]]
 
 ## Raw Articles
+- [[raw/articles/2026-07-24-edmo-weekly-pulse.md|EDMO Weekly Pulse — 24 July 2026]]
 - [[raw/articles/2026-07-15_ftc-complying-with-coppa-federal-trade-commission.md|FTC: Complying with COPPA - Federal Trade Commission]]
 - [[raw/articles/2026-07-15_ftc-children-s-online-privacy-protection-rule-copp.md|FTC: Children's Online Privacy Protection Rule (COPPA)]]
 - [[raw/articles/2026-07-15_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content harmful to minors]]
