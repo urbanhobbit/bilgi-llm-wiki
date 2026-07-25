@@ -1,3 +1,9 @@
+## [2026-07-25] ingest | Haftalık Bülten Entegrasyonu (Hafta 30/2026)
+- Raw: [[raw/articles/2026-07-25_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 30/2026)
+- Raw: [[raw/articles/2026-07-25_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-07-25)
+- Topics: Global social media bans (Massachusetts, Brazil, China), AI use by teens (Pew Research, BBC Future), Turkey social media regulation framework (Bakan Göktaş), 5Rights GC25 5th year anniversary, Australia ban research briefing (Molly Rose Foundation), age verification systems, UK Parliament research briefing, EU DSA, prebunking field study, disinformation management
+- Agent: Weekly Bulletin Integration Cronjob
+
 ## [2026-07-25] ingest | EDMO Weekly Pulse — 24 July 2026
 - Raw: [[raw/articles/2026-07-24-edmo-weekly-pulse.md]] — EDMO Weekly Pulse: EDMO defending election integrity via the RRS: True transparency and censorship nonsense
 - Source: https://edmo.eu/pulse/

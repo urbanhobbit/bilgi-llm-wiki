@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-20 | Total pages: 139
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-07-20 | Total pages: 141
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -44,6 +44,9 @@
 - [[concepts/ekran-suresi-duzenlemeleri.md|Ekran Süresi Düzenlemeleri]]
 
 ## Raw Articles
+
+- [[raw/articles/2026-07-25_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 30/2026)]]
+- [[raw/articles/2026-07-25_akademik_ozel.md|AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-07-25)]]
 - [[raw/articles/2026-07-24-edmo-weekly-pulse.md|EDMO Weekly Pulse — 24 July 2026]]
 - [[raw/articles/2026-07-15_ftc-complying-with-coppa-federal-trade-commission.md|FTC: Complying with COPPA - Federal Trade Commission]]
 - [[raw/articles/2026-07-15_ftc-children-s-online-privacy-protection-rule-copp.md|FTC: Children's Online Privacy Protection Rule (COPPA)]]
