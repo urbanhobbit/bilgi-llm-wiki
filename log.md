@@ -1,3 +1,7 @@
+## [2026-07-25] ingest | EDMO Weekly Pulse — 24 July 2026
+- Raw: [[raw/articles/2026-07-24-edmo-weekly-pulse.md]] — EDMO Weekly Pulse: EDMO defending election integrity via the RRS: True transparency and censorship nonsense
+- Source: https://edmo.eu/pulse/
+- Agent: Hermes cronjob (EDMO Weekly Pulse Ingestion)
 ## [2026-07-18] ingest | EDMO Weekly Pulse - 16 July 2026
 - Raw: [[raw/articles/2026-07-16-edmo-weekly-pulse.md]] — So much the worse for the facts?
 - Topics: Disinformation creating "alternative facts", FIFA World Cup racist/Islamophobic disinformation, FIFA racism monitoring stats, Algeria-Austria match-fixing false allegations, Infantino AI deepfake, AI funeral images Iran Khamenei, US President shared AI-manipulated Iran strike photo, Anti-NATO disinformation Ankara summit, wildfire conspiracy theories targeting renewable energy
