@@ -66,3 +66,14 @@ Bu makale, [[yapay-zeka-demokrasi]] ve [[muzakereci-demokrasi]] alanlarını kes
 - Dijital katılım araçlarının geliştirilmesi için kavramsal çerçeve
 - Önyargı ve şeffaflık endişeleri, AI yönetişimi tartışmalarıyla bağlantılı
 - Kutuplaşma bağlamında: müzakere simülasyonları, kutuplaşmayı azaltma potansiyeli taşıyor
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md|The Case for Using Generative AI to Run Deliberati]]

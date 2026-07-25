@@ -75,3 +75,12 @@ Bu makale, [[duygusal-kutuplasma]] ve [[ideolojik-kutuplasma]] arasındaki bağl
 - "Milei etkisi", [[populizm]] çalışmaları için önemli bir vaka
 - Küresel karşılaştırmalı perspektif: radikal sağın yükselişi ve demokratik istikrara etkisi
 - [[siyasal-siddet]] literatürüyle bağlantılı: ideolojik netlik düşmanlığı nasıl yapılandırıyor
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md|Ideological and Affective Polarization in Argentin]]

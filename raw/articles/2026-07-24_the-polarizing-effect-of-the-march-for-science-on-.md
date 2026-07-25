@@ -29,3 +29,12 @@ Matthew Motta (University of Minnesota), PS: Political Science & Politics, 51(4)
 - Bilimsel araştırmaya genel güven değişmedi
 - Bilim savunuculuğu (science advocacy) bile partizan filtreden geçerek kutuplaştırıcı etki yaratabiliyor
 - Bilim insanlarının siyasi aktivizminin kamuoyu algısı üzerindeki potansiyel risklerine dikkat çekiyor
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Genera]]
+- [[raw/articles/2026-06-30_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Genera]]

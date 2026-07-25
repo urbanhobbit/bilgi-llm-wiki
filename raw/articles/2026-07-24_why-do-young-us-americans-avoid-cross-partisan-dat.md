@@ -31,3 +31,12 @@ Shannon Taflinger & Ansgar Hudde (University of Cologne), European Sociological 
 - Karakter yargısı (kötü/zalim algısı) en zayıf faktör
 - Demokrat kadınlarda dış-grup reddi en yüksek (Demokrat erkeklerin 2 katı)
 - Negatif partizanlık (negative partisanship) flört tercihlerinde pozitif bağlılıktan daha belirleyici
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]

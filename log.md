@@ -121,3 +121,8 @@
 - Source files: 2026-07-24_user_links.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md]] — Towards a methodologically congruent framework for GenAI use in nonpositivist qualitative research
+- Source files: 2026-07-24_genai-qualitative-framework.json
+- Agent: OKF Ingestion Pipeline
+
