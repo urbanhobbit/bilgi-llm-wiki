@@ -146,3 +146,8 @@
 - Source files: 2026-07-28_polarization-trust-science.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-28_engaging-young-people-as-partners-in-policy-and-pr.md]] — Engaging Young People As Partners in Policy and Practice: Summary of Lessons from 25 Years of Global Youth Development
+- Source files: 2026-07-28_georgetown-youth-engagement.json
+- Agent: OKF Ingestion Pipeline
+
