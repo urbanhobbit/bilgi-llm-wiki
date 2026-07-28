@@ -136,3 +136,8 @@
 - Source files: 2026-07-24_genai-qualitative-framework.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-28_un-fairness-by-design-what-an-age-appropriate-desi.md]] — (Un)fairness by design: what an Age Appropriate Design Code audit reveals about GenAI in EdTech
+- Source files: 2026-07-24_edtech-aadc-audit.json
+- Agent: OKF Ingestion Pipeline
+

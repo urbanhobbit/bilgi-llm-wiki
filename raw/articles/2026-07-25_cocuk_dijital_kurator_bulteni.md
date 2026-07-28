@@ -312,3 +312,25 @@ TRT Haber de Bakan Göktaş'ın açıklamalarını geniş şekilde haberleştird
 
 *KURATOR Haftalık Bülten — 2026-07-25 | Hazırlayan: KURATOR Araştırma Ekibi*
 *Kaynaklar: 5Rights Foundation, TechCrunch, Pew Research Center, BBC Future, WhitelistVideo, Molly Rose Foundation, TRT Haber, Akşam Gazetesi, English.gov.cn, Substack*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/unicef.md|UNICEF]]

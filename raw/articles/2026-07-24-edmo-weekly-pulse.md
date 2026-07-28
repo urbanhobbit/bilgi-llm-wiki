@@ -101,3 +101,16 @@ The European Parliament welcomes the work of the Media Literacy Expert Group and
 - Editorial Staff: Elena Coden, Paula Gori, Elena Maggi
 
 *The Weekly Pulse takes a summer break and will return on 27 August 2026.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/edmo.md|European Digital Media Observatory (EDMO)]]
+- [[entities/nordis.md|NORDIS]]
