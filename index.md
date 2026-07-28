@@ -147,4 +147,5 @@
 - [[raw/articles/2026-07-24_the-polarizing-effect-of-the-march-for-science-on-.md|The Polarizing Effect of the March for Science on Attitudes toward Scientists]]
 - [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for GenAI use in nonpositivist qualitative research]]
 - [[raw/articles/2026-07-28_un-fairness-by-design-what-an-age-appropriate-desi.md|(Un)fairness by design: what an Age Appropriate Design Code audit reveals about GenAI in EdTech]]
+- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]
 

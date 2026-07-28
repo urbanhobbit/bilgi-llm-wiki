@@ -32,3 +32,10 @@ Ayça Atabey, Kim Ringmar Sylwander & Sonia Livingstone, Medi@Laws — Symposium
 - Eğitim ortamında çocukların seçim şansı yok — okul/öğretmen kararı belirleyici
 - Adillik (fairness) ilkesi soyut kalmaya devam ediyor, tasarım standardına dönüşmüyor
 - Çocuk hakları perspektifinden AI yönetişimi için önemli bir denetim çerçevesi sunuyor
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

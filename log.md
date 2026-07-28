@@ -141,3 +141,8 @@
 - Source files: 2026-07-24_edtech-aadc-audit.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md]] — Political polarization of trust in science
+- Source files: 2026-07-28_polarization-trust-science.json
+- Agent: OKF Ingestion Pipeline
+
