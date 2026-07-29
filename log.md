@@ -179,3 +179,8 @@
 - Source files: 2026-07-28_children-assent-dissent.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md]] — Synthetic Contact with AI Reduces Cross-Partisan Animosity
+- Source files: 2026-07-28_synthetic-contact-ai.json
+- Agent: OKF Ingestion Pipeline
+

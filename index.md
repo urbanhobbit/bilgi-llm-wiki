@@ -169,4 +169,5 @@
 - [[raw/articles/2026-07-29_dw-t-rk-e-almanya-se-imleri-ve-dezenformasyon-sava.md|DW Türkçe: Almanya Seçimleri ve Dezenformasyon Savaşları]]
 - [[raw/articles/2026-07-29_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenformasyon Tartışmaları]]
 - [[raw/articles/2026-07-29_young-children-s-assent-and-dissent-in-research-ag.md|Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces]]
+- [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|Synthetic Contact with AI Reduces Cross-Partisan Animosity]]
 
