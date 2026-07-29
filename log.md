@@ -184,3 +184,8 @@
 - Source files: 2026-07-28_synthetic-contact-ai.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-29_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md]] — GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments
+- Source files: 2026-07-29_gpt-stance-detection.json
+- Agent: OKF Ingestion Pipeline
+
