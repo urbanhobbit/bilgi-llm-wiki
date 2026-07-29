@@ -31,3 +31,14 @@ Byron Hyde, Public Understanding of Science (2026). Published online 8 July 2026
 - Daha iyi bilim iletişimi + daha fazla fen eğitimi yetersiz
 - Çözüm: bilimin metodolojik ve kurumsal sınırlılıklarını öğretmek
 - Motta (2018, March for Science) bulgularıyla paralel — bilim kutuplaşmanın hem nesnesi hem de aracı
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
+- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]

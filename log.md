@@ -174,3 +174,8 @@
 - Source files: 2026-07-29_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-29_young-children-s-assent-and-dissent-in-research-ag.md]] — Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces
+- Source files: 2026-07-28_children-assent-dissent.json
+- Agent: OKF Ingestion Pipeline
+

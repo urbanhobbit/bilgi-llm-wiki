@@ -168,4 +168,5 @@
 - [[raw/articles/2026-07-29_t24-yapay-zeka-se-im-dezenformasyonu-ve-demokratik.md|T24: Yapay Zeka, Seçim Dezenformasyonu ve Demokratik Süreçler]]
 - [[raw/articles/2026-07-29_dw-t-rk-e-almanya-se-imleri-ve-dezenformasyon-sava.md|DW Türkçe: Almanya Seçimleri ve Dezenformasyon Savaşları]]
 - [[raw/articles/2026-07-29_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenformasyon Tartışmaları]]
+- [[raw/articles/2026-07-29_young-children-s-assent-and-dissent-in-research-ag.md|Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces]]
 

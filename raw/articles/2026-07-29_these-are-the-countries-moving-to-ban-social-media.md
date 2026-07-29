@@ -35,3 +35,23 @@ TechCrunch reporter Aisha Malik published this comprehensive roundup on June 15,
 ## Turkey Context
 
 TechCrunch'in 15 Haziran 2026 tarihli bu kapsamlı haberi, dünya genelinde çocukların sosyal medya kullanımına yönelik kısıtlamaların ulaştığı noktayı ayrıntılı biçimde gözler önüne sermektedir. Avustralya'nın 16 yaş altı kullanıcılar için getirdiği kapsamlı yasak ve Birleşik Krallık Başbakanı Keir Starmer'ın 15 Haziran 2026'da duyurduğu yeni kısıtlama kararları, Türkiye'nin de aktif olarak içinde yer aldığı küresel bir politika trendinin parçasıdır. Türkiye'de Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 11 Nisan 2026'da kamuoyuna açıkladığı 15 yaş altı sosyal medya düzenlemesi, bu küresel dalganın Türkiye ayağını oluşturmakta ve uluslararası alanda dikkatle izlenmektedir. Ancak Türkiye'nin bu alandaki düzenleme girişimlerinin henüz somut bir yasalaşma sürecine kavuşmadığını ve Dijital Hizmetler Kanunu taslağının halen hazırlık aşamasında olduğunu belirtmek gerekir. Avustralya modeli platformlara ağır para cezaları öngörürken, Türkiye'nin getireceği yaptırım mekanizmalarının BTK düzenlemeleri ve 5651 sayılı Kanun kapsamındaki mevcut idari para cezası sistemiyle nasıl uyumlaştırılacağı önemli bir soru işaretidir. KVKK'nın 6698 sayılı Kanun kapsamında çocukların kişisel verilerinin işlenmesinde ebeveyn rızası şartı ve veri sorumlusu yükümlülükleri, sosyal medya platformlarının Türkiye'deki faaliyetlerinin denetiminde kritik bir araç olarak kullanılabilir. MEB'in okullarda dijital okuryazarlık ve sosyal medya bilinci eğitimlerini zorunlu hale getirmesi, yasaklayıcı politikaların eğitici ve önleyici boyutla tamamlanması açısından büyük önem taşımaktadır. Türkiye'nin bu alandaki düzenlemeleri, Anayasa ile güvence altına alınan ifade özgürlüğü ile çocuk koruma arasındaki hassas dengeyi gözetmeli ve Avrupa İnsan Hakları Sözleşmesi standartlarına tam uyumlu olmalıdır. Yukarıda ayrıntılı olarak ele alınan tüm bu hususlar birlikte değerlendirildiğinde, Türkiye'nin sosyal medya düzenlemesi konusunda uluslararası deneyimleri dikkatle analiz ederek, kendi hukuk sistemi, sosyal yapısı ve dijital ekosistemiyle uyumlu özgün bir model geliştirmesi gerektiği açıktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/techcrunch-com.md|Techcrunch Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-05-03_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Tas]]
+- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
+- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
+- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

@@ -37,3 +37,21 @@ This detailed research article by Dr. David Park, Privacy Law Scholar, published
 ## Turkey Context
 
 WhitelistVideo platformunda yayımlanan bu kapsamlı araştırma makalesi, 2026 yılı itibarıyla dünya genelinde çocukların sosyal medya kullanımını düzenleyen ulusal ve uluslarüstü yasaların ayrıntılı bir envanterini sunmaktadır. Avustralya'nın 16 yaş altı kullanıcılar için getirdiği sert yasaklar, ABD Senatosu'nda 91-3 gibi ezici bir çoğunlukla kabul edilen KOSA Kids Online Safety Act, Birleşik Krallık Çevrimiçi Güvenlik Yasası'nın uygulamaya konulması, Fransa'nın zorunlu yaş doğrulama sistemi ve Avrupa Birliği Dijital Hizmetler Yasası'nın çocuk koruma hükümleri, Türkiye'nin kendi mevzuatını şekillendirirken dikkate alması gereken önemli politika referanslarıdır. Türkiye, bu küresel düzenleme trendine Nisan 2026'da Bakan Göktaş'ın yaptığı kamuoyu duyurusuyla katılmış olsa da, mevzuat altyapısı ve kurumsal kapasite açısından henüz bu ülkelerin seviyesine ulaşamamıştır. 5651 sayılı Kanun'un geleneksel içerik düzenlemesi yaklaşımı, platformların proaktif olarak 'tasarım yoluyla çocuk koruma' yükümlülüğünü kapsamamakta ve bu önemli bir mevzuat boşluğu olarak karşımıza çıkmaktadır. Oysa AB Dijital Hizmetler Yasası ve İngiltere Çevrimiçi Güvenlik Yasası, platformlara sistematik risk değerlendirmesi yapma ve ürünlerini çocukların yüksek yararına göre tasarlama zorunluluğu getirmektedir. Türkiye'nin hazırlık aşamasındaki Dijital Hizmetler Kanunu'nun bu uluslararası standartları içselleştirmesi, BTK'nın düzenleyici kapasitesinin güçlendirilmesi ve bağımsız denetim mekanizmalarının kurulması açısından kritik öneme sahiptir. KVKK'nın çocuk verilerinin korunmasına ilişkin hükümleri, Avustralya ve ABD modellerindeki gibi caydırıcı idari para cezaları ve platform sorumluluğu mekanizmalarıyla desteklenmelidir. Makalenin haklı olarak vurguladığı gibi, yasalar tek başına yeterli değildir; Türkiye'de MEB müfredatında dijital okuryazarlığın güçlendirilmesi, ebeveyn farkındalık kampanyaları yürütülmesi ve sivil toplum katılımının teşvik edilmesi en az yasal düzenlemeler kadar önemlidir. Sonuç olarak, Türkiye'nin bu küresel düzenleme dalgasını sadece takip eden değil, aynı zamanda kendi özgün koşullarına uygun, insan hakları temelli ve uygulanabilir bir model geliştirerek yön veren bir ülke konumuna gelmesi mümkündür.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldwide-whitelist-blog.md|Child Safety Regulations Worldwide - Whitelist Blo]]
+- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
+- [[raw/articles/2026-06-26_kurator-whitelist-video.md|KURATOR - whitelist.video]]

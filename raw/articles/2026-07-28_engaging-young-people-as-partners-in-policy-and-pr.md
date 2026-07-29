@@ -32,3 +32,11 @@ Michael McCabe & Sarah Sladen, Georgetown University Collaborative on Global Chi
 - Kanıt, araç ve pratik öneriler içeren kapsamlı bir kaynak
 - Children and Youth Resource Hub ile entegre
 - Gençlik politikası, çocuk hakları ve kalkınma kesişiminde önemli bir referans
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
