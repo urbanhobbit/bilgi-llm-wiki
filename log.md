@@ -151,3 +151,26 @@
 - Source files: 2026-07-28_georgetown-youth-engagement.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-29_five-years-of-general-comment-no-25-from-promises-.md]] — Five years of General comment No. 25: From promises to progress
+- Raw: [[raw/articles/2026-07-29_these-are-the-countries-moving-to-ban-social-media.md]] — These are the countries moving to ban social media for children | TechCrunch
+- Raw: [[raw/articles/2026-07-29_every-country-regulating-kids-social-media-in-2026.md]] — Every Country Regulating Kids' Social Media in 2026 (And What Parents Should Do) | WhitelistVideo Blog
+- Raw: [[raw/articles/2026-07-29_what-parents-say-about-their-teen-s-ai-use-pew-res.md]] — What parents say about their teen's AI use | Pew Research Center
+- Raw: [[raw/articles/2026-07-29_parents-think-they-know-how-kids-use-ai-they-don-t.md]] — Parents think they know how kids use AI. They don't
+- Raw: [[raw/articles/2026-07-29_ma-social-media-ban-for-under-14s-what-parents-nee.md]] — MA Social Media Ban for Under 14s: What Parents Need to Know | WhitelistVideo Blog
+- Raw: [[raw/articles/2026-07-29_unavailable-blocked-status-451.md]] — Unavailable (Blocked - Status 451)
+- Raw: [[raw/articles/2026-07-29_unavailable-blocked-status-429.md]] — Unavailable (Blocked - Status 429)
+- Raw: [[raw/articles/2026-07-29_unavailable-blocked-status-404.md]] — Unavailable (Blocked - Status 404)
+- Raw: [[raw/articles/2026-07-29_wikipedia-lkelere-g-re-sosyal-medya-ya-do-rulama-y.md]] — Wikipedia: Ülkelere Göre Sosyal Medya Yaş Doğrulama Yasaları
+- Raw: [[raw/articles/2026-07-29_wikipedia-amerika-birle-ik-devletleri-nde-sosyal-m.md]] — Wikipedia: Amerika Birleşik Devletleri'nde Sosyal Medya Yaş Doğrulama Yasaları
+- Raw: [[raw/articles/2026-07-29_uk-parlamentosu-commons-library-ocuk-evrimi-i-g-ve.md]] — UK Parlamentosu Commons Library: Çocuk Çevrimiçi Güvenliği Araştırma Raporu
+- Raw: [[raw/articles/2026-07-29_unicef-dijital-haklar-rehberi-2026-g-ncellemesi.md]] — UNICEF: Dijital Haklar Rehberi 2026 Güncellemesi
+- Raw: [[raw/articles/2026-07-29_ab-dijital-strateji-dijital-hizmetler-yasas-dsa-pa.md]] — AB Dijital Strateji: Dijital Hizmetler Yasası (DSA) Paketi
+- Raw: [[raw/articles/2026-07-29_springer-electronic-markets-dergisi-dijital-platfo.md]] — Springer: Electronic Markets Dergisi - Dijital Platform Düzenlemeleri ve Çocuk Koruma
+- Raw: [[raw/articles/2026-07-29_harvard-misinformation-review-instagram-da-n-bilgi.md]] — Harvard Misinformation Review: Instagram'da Ön Bilgilendirme ve Dezenformasyonla Mücadele
+- Raw: [[raw/articles/2026-07-29_t24-yapay-zeka-se-im-dezenformasyonu-ve-demokratik.md]] — T24: Yapay Zeka, Seçim Dezenformasyonu ve Demokratik Süreçler
+- Raw: [[raw/articles/2026-07-29_dw-t-rk-e-almanya-se-imleri-ve-dezenformasyon-sava.md]] — DW Türkçe: Almanya Seçimleri ve Dezenformasyon Savaşları
+- Raw: [[raw/articles/2026-07-29_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md]] — Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenformasyon Tartışmaları
+- Source files: 2026-07-29_categorized.json
+- Agent: OKF Ingestion Pipeline
+
