@@ -189,3 +189,8 @@
 - Source files: 2026-07-29_gpt-stance-detection.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-30_misinformation-as-strategy-epistemic-consequences-.md]] — Misinformation as strategy: Epistemic consequences and the undermining of shared truth
+- Source files: 2026-07-29_misinformation-as-strategy.json
+- Agent: OKF Ingestion Pipeline
+

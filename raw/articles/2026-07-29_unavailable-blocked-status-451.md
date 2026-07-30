@@ -34,3 +34,19 @@ This link from wcvb.com, a Boston-area ABC News affiliate, was blocked with HTTP
 ## Turkey Context
 
 HTTP 451 statü kodu olan Unavailable For Legal Reasons nedeniyle erişime tamamen kapalı olan bu haber linki, Massachusetts eyaletindeki yeni sosyal medya düzenlemesinin çocuk sağlığı üzerindeki etkilerini bir doktor perspektifinden ele alan bir yerel habere işaret etmektedir. Türkiye'de de benzer bir bağlamda, çocukların sosyal medya ve ekran süresi kullanımıyla ilgili düzenlemelerin sağlık ve gelişimsel etkileri, kamuoyu tartışmalarında ve politika yapım süreçlerinde giderek daha fazla yer tutmaktadır. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın Nisan 2026'da kamuoyuna duyurduğu kapsamlı düzenleme çerçevesinde, Sağlık Bakanlığı'nın çocuklar için yaşa uygun ekran süresi önerileri ve dijital medya kullanım kılavuzları yayımlaması hem beklenen hem de gerekli bir adım olacaktır. Türkiye'de çocuk psikiyatrisi ve pediatri alanında faaliyet gösteren tıbbi dernekler ve akademik kurumlar, sosyal medyanın çocuk gelişimi, uyku düzeni, akademik başarı ve sosyal beceriler üzerindeki etkileri konusunda uzun süredir bilimsel uyarılarda bulunmaktadır. 6698 sayılı KVKK kapsamında çocukların dijital platformlarda kişisel verilerinin korunması, bu sağlık endişeleriyle doğrudan ilişkilidir; zira platformların çocuk kullanıcı profilleri oluşturarak algoritmik hedefli içerik sunması, bağımlılık yapıcı tasarım unsurları ve sınırsız kaydırma mekanizmalarıyla birleştiğinde çocuk sağlığı üzerinde olumsuz etkiler yaratabilmektedir. MEB'in okul sağlığı politikaları ve rehberlik hizmetleri kapsamında dijital bağımlılıkla mücadele programlarını güçlendirmesi, Massachusetts'teki bu haberde ele alınması muhtemel olan tıbbi ve gelişimsel perspektifin Türkiye'deki karşılığı olarak değerlendirilmelidir. 5651 sayılı Kanun ve BTK düzenlemelerinin çocuk sağlığını koruyucu yönde güncellenmesi, doktor ve sağlık uzmanlarının klinik görüşlerinin ve bilimsel kanıtların politika yapım sürecine sistematik olarak dahil edilmesini gerektirmektedir. Kısacası, Türkiye'nin çocukları dijital ortamda koruma politikaları geliştirirken, Massachusetts örneğindeki gibi bilimsel kanıta dayalı, çok paydaşlı ve uygulanabilir bir yaklaşım benimsemesi, uzun vadede başarılı sonuçlar elde edilmesi için belirleyici olacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_70944105.md|70944105]]
+- [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]
+- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
+- [[raw/articles/2026-06-26_doctor-warns-about-kids-social-media-and-screen-ti.md|Doctor Warns About Kids' Social Media and Screen T]]
+- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]

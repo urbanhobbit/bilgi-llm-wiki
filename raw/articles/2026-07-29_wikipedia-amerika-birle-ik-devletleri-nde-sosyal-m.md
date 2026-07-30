@@ -31,3 +31,17 @@ Bu Wikipedia sayfası, Amerika Birleşik Devletleri'nde sosyal medya yaş doğru
 ## Turkey Context
 
 ABD'deki sosyal medya yaş doğrulama yasalarına ilişkin bu Wikipedia sayfası, Türkiye'nin benzer düzenlemeleri için önemli karşılaştırmalı dersler sunmaktadır. ABD'nin federal düzeyde kapsamlı bir yaş doğrulama yasası bulunmamakla birlikte, eyalet düzeyindeki düzenlemeler Türkiye için önemli bir model oluşturmaktadır. Türkiye'de ise merkezi yönetim yapısı nedeniyle ulusal düzeyde tek bir düzenleme yapılması mümkündür ve bu, ABD'deki parçalı yapının yarattığı uyum zorluklarını ortadan kaldırabilir. Ancak, ABD'de yaşanan anayasal tartışmalar—ifade özgürlüğü, gizlilik hakkı ve eyaletler arası ticaret gibi konular—Türkiye için de geçerlidir. KVKK'nın çocuk verilerinin korunmasına ilişkin düzenlemeleri, ABD'deki COPPA ile benzerlikler taşımakla birlikte, uygulama ve denetim mekanizmaları açısından farklılıklar göstermektedir. BTK'nın sosyal medya platformlarına yönelik düzenleme yetkisi, ABD'deki eyalet yasalarının uygulanmasında karşılaşılan zorlukların Türkiye'de tek bir otorite aracılığıyla aşılmasına olanak tanıyabilir. MERNİS tabanlı yaş doğrulama sistemi, ABD'deki özel sektör odaklı kimlik doğrulama yöntemlerine kıyasla daha merkezi ve potansiyel olarak daha etkili bir altyapı sunmaktadır. TÜİK verilerine göre Türkiye'de 6-15 yaş grubunun internete erişim oranı ABD'dekine benzer seviyelerde olup, etkili yaş doğrulama mekanizmalarının oluşturulması her iki ülke için de kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
+- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
+- [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-by-country-wiki.md|Social Media Age Verification Laws by Country - Wi]]
+- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]

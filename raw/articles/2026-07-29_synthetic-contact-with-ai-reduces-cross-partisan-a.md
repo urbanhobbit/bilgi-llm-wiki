@@ -32,3 +32,16 @@ Benjamin Lira, Noah Castelo, Stefano Puntoni & Olivier Toubia, arXiv:2607.02181 
 - Bilgi (information) arkadaş canlılığından (friendliness) daha belirleyici
 - Bir hafta içinde etki büyük ölçüde kayboluyor — uzun vadeli çözüm için tekrarlı temas gerekli
 - Taflinger & Hudde (flört) + GenAI Deliberation (Rountree & Gastil) ile mükemmel bir üçlü
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
+- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

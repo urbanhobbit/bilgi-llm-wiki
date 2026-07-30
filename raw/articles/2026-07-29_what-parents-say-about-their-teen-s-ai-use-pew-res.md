@@ -35,3 +35,23 @@ This Pew Research Center report published February 24, 2026, by researchers Coll
 ## Turkey Context
 
 Pew Research Center'ın 2026 Şubat ayında yayımladığı bu önemli araştırma raporu, Amerikalı gençlerin yapay zeka kullanım alışkanlıkları ile ebeveynlerin bu konudaki farkındalık düzeyi arasındaki dikkat çekici uçurumu ortaya koymaktadır. Türkiye'de de benzer bir araştırma boşluğu bulunmakta olup, Türk gençlerinin yapay zeka ile kurduğu ilişkiyi anlamaya yönelik kapsamlı akademik çalışmalara acil ihtiyaç duyulmaktadır. MEB ve BTK'nın koordinasyonunda yürütülecek ulusal düzeyde bir saha araştırması, Türk gençlerinin yapay zeka araçlarını ne sıklıkta, hangi amaçlarla ve hangi platformlar üzerinden kullandığını anlamak için elzemdir. 6698 sayılı KVKK kapsamında, yapay zeka sistemlerinin çocuk kullanıcılardan veri işlemesi, özellikle açık rıza, veri minimizasyonu ve amaçla sınırlılık ilkeleri açısından özel bir değerlendirmeye tabi tutulmalı ve bu konuda bağlayıcı düzenlemeler yapılmalıdır. Türkiye'de Kişisel Verileri Koruma Kurulu'nun yapay zeka ve çocuk verileri konusunda kapsamlı rehber ilkeler yayımlaması, bu alandaki normatif boşluğu doldurmak için atılması gereken en önemli adımlardan biridir. MEB'in eğitim teknolojileri politikaları kapsamında, öğrencilerin yapay zeka araçlarını güvenli ve etik bir şekilde kullanımına yönelik pedagojik çerçeveler ve sınıf içi uygulama kılavuzları geliştirmesi gerekmektedir. Bu araştırmanın metodolojik yaklaşımı olan anket tabanlı veri toplama, demografik farklılaşma analizi ve ebeveyn-çocuk algı karşılaştırması gibi yöntemler, Türkiye'de yapılacak akademik çalışmalar için değerli bir model teşkil etmektedir. Dijital Hizmetler Kanunu hazırlıkları kapsamında, yapay zeka platformlarının çocuk kullanıcılara yönelik şeffaflık raporlaması yapması ve yaş doğrulama mekanizmaları kurması zorunlu hale getirilmelidir. Bu bağlamda, Özellikle Türkiye'deki devlet ve vakıf üniversitelerinin iletişim fakülteleri, bilgisayar bilimleri bölümleri ve eğitim fakültelerinin işbirliğiyle kapsamlı ve sürdürülebilir disiplinlerarası araştırma merkezleri ve laboratuvarları kurulması, bu alandaki bilgi üretimini hızlandıracak ve politika yapıcılara kanıta dayalı öneriler sunacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pew-research-center.md|Pew Research Center]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
+- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
+- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
+- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]

@@ -32,3 +32,17 @@ Harvard Üniversitesi Kennedy School of Government bünyesindeki Misinformation 
 ## Turkey Context
 
 Harvard Misinformation Review'daki bu saha çalışması, Türkiye'de dezenformasyonla mücadele konusunda yürütülen akademik araştırmalar için önemli bir referans ve metodolojik model oluşturmaktadır. TÜBİTAK tarafından desteklenen sosyal medya dezenformasyonu projeleri, ön bilgilendirme tekniklerinin Türkiye bağlamında uygulanabilirliğini araştırmakta ve bu Harvard çalışmasının metodolojisini temel almaktadır. YÖK Etik Kurulu'nun belirlediği sosyal medya araştırmaları etik kuralları çerçevesinde, Boğaziçi Üniversitesi, Sabancı Üniversitesi ve İstanbul Bilgi Üniversitesi gibi kurumlardaki etik laboratuvarlarında benzer saha çalışmaları yürütülmektedir. KVKK'nın 6. ve 9. maddeleri kapsamında, sosyal medya platformlarında yapılan deneysel çalışmalarda kullanıcı verilerinin korunmasına yönelik etik protokoller uygulanmaktadır. Türkiye'de özellikle 2024 yerel seçimleri ve 2023 cumhurbaşkanlığı seçimlerinde görülen yoğun dezenformasyon vakaları, ön bilgilendirme stratejilerinin önemini artırmıştır. RTÜK ve BTK'nın seçim dönemlerinde uyguladığı dezenformasyonla mücadele politikaları, Harvard çalışmasının bulgularıyla uyumlu olarak, kullanıcı farkındalığını artırmaya yönelik eğitim programlarını da içerecek şekilde genişletilmelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-15_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-16_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-24_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

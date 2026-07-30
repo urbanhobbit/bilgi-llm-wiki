@@ -36,3 +36,20 @@ This article by Dr. David Park on the WhitelistVideo blog, updated May 19, 2026,
 ## Turkey Context
 
 Massachusetts eyaletinin 14 yaş altı çocuklar için sosyal medyayı tamamen yasaklayan ve 14-15 yaş grubu için ebeveyn iznini zorunlu kılan bu öncü ve kapsamlı yasası, Türkiye'deki benzer düzenleme çalışmaları için son derece değerli dersler ve politika referansları içermektedir. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın 11 Nisan 2026'da kamuoyuna duyurduğu 15 yaş altı çocuklara yönelik sosyal medya düzenlemesi ile Massachusetts yasası arasında yaş sınırı, kapsam ve uygulama hedefleri açısından dikkat çekici paralellikler bulunmaktadır. Massachusetts modelinin Ekim 2026 olarak belirlenen uygulama takvimi ve beraberinde getirdiği teknik yaş doğrulama sistemleri zorunluluğu, Türkiye'nin hazırlık aşamasındaki düzenleme taslağında dikkate alması gereken en kritik unsurlar arasında yer almaktadır. Türkiye'de BTK'nın düzenleyici rolü ve yetkileri kapsamında, sosyal medya platformlarından yaş doğrulama mekanizmalarını hayata geçirmelerinin talep edilmesi, KVKK'nın 12. maddesi kapsamındaki veri güvenliği yükümlülükleri ve kişisel verilerin hukuka aykırı işlenmesini önleme tedbirleriyle tam uyumlu olacak şekilde tasarlanmalıdır. Bununla birlikte, yaş doğrulama sistemlerinin kullanıcıların anayasal temel hak ve özgürlüklerini anonimlik, ifade özgürlüğü ve özel hayatın gizliliği gibi orantısız şekilde sınırlamaması ve Avrupa İnsan Hakları Sözleşmesi standartlarına uygun olması gerekmektedir. Massachusetts yasasının arkasındaki 16 eyaleti kapsayan geniş tabanlı Kids Code Coalition benzeri bir kurumlar arası işbirliği modeli, Türkiye'nin merkezi yönetim yapısında farklılık gösterse de, ilgili bakanlıklar arasında eşgüdümü ve politika tutarlılığını güçlendirebilir. MEB'in okul politikaları ve dijital eğitim stratejilerinin bu yeni düzenlemeyle uyumlaştırılması, özellikle okul saatlerinde sosyal medya erişiminin sınırlandırılması ve dijital okuryazarlık eğitiminin müfredata entegre edilmesi açısından büyük önem taşımaktadır. Nihai hedef, çocukları dijital ortamda korurken aynı zamanda onların katılım haklarını, ifade özgürlüklerini ve bilgiye erişim imkanlarını da güvence altına alan dengeli, kapsayıcı ve sürdürülebilir bir hukuki ve politik çerçeve oluşturmaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
+- [[raw/articles/2026-06-26_child-safety-regulations-worldwide-whitelist-blog.md|Child Safety Regulations Worldwide - Whitelist Blo]]
+- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
+- [[raw/articles/2026-06-26_kurator-whitelist-video.md|KURATOR - whitelist.video]]

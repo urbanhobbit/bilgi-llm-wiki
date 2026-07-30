@@ -35,3 +35,21 @@ This link from the UK Information Commissioner's Office (ICO) website was blocke
 ## Turkey Context
 
 Birleşik Krallık Veri Koruma Otoritesi ICO'nun resmi web sitesindeki bu sayfa HTTP 404 Not Found hatasıyla erişime kapalı olmakla birlikte, URL yapısı ve domain analizi kurumların çocukların kişisel verilerini koruma yükümlülüklerine ilişkin kapsamlı bir resmi rehber sayfasına işaret etmektedir. İngiltere'nin öncü Yaşa Uygun Tasarım Kodunu Age-Appropriate Design Code veya yaygın bilinen adıyla Children's Code'u uygulayan ve denetleyen ICO, çocukların çevrimiçi gizliliği ve veri koruması alanında dünyanın en ileri ve etkili düzenleyici kurumlarından biridir. Türkiye'de 6698 sayılı KVKK kapsamında faaliyet gösteren Kişisel Verileri Koruma Kurulu'nun, ICO'nun bu kapsamlı yaklaşımına benzer şekilde çocuk verilerinin işlenmesine yönelik sektöre özgü ve bağlayıcı rehber ilkeler seti yayımlaması, Türk mevzuatındaki önemli bir normatif boşluğu dolduracak ve uluslararası standartlarla uyumu sağlayacaktır. ICO'nun bu sayfasında ele alınması muhtemel olan yaşa uygun tasarım ilkeleri, veri koruma etki değerlendirmesi zorunluluğu, doğrulanabilir ebeveyn rızası mekanizmaları, çocuk dostu dilde şeffaflık bildirimleri ve veri minimizasyonu yükümlülükleri gibi kavramların Türk hukuk sistemine ve idari uygulamalarına entegrasyonu, karşılaştırmalı hukuk ve veri koruma etiği alanlarında yapılacak akademik araştırmalar için oldukça verimli ve özgün bir çalışma alanı sunmaktadır. MEB'in eğitim teknolojileri platformlarında öğrenci verilerinin toplanması, işlenmesi ve saklanmasına yönelik geliştireceği standartlar, ICO'nun Children's Code yaklaşımına benzer şekilde çocuğun yüksek yararı ilkesini, veri korumayı tasarım ve varsayılan olarak yerleştirme prensibini merkeze almalıdır. BTK'nın internet düzenlemeleri ve denetim yetkisi kapsamında, çocuklara yönelik dijital hizmet sağlayıcılarının veri işleme uygulamalarını sistematik olarak denetleme ve ihlaller durumunda yaptırım uygulama kapasitesi güçlendirilmelidir. Dijital Hizmetler Kanunu hazırlık çalışmalarında, ICO'nun çocuk verilerinin korunmasına yönelik bütüncül ve kanıta dayalı yaklaşımı, Türkiye'deki düzenlemenin Avrupa Birliği standartları ve uluslararası en iyi uygulamalarla tam uyumlu olması için vazgeçilmez bir referans noktası teşkil etmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]
+- [[raw/articles/2026-06-26_kids-protecting-childrens-data.md|Kids Protecting Childrens Data]]
+- [[raw/articles/2026-06-26_kurator-ico-org-uk.md|KURATOR - ico.org.uk]]
+- [[raw/articles/2026-06-26_protecting-children-s-data-ico-guidance-for-organi.md|Protecting Children's Data: ICO Guidance for Organ]]
+- [[raw/articles/2026-06-26_protecting-children-s-data-privacy-uk-information-.md|Protecting Children's Data Privacy — UK Informatio]]

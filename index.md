@@ -171,4 +171,5 @@
 - [[raw/articles/2026-07-29_young-children-s-assent-and-dissent-in-research-ag.md|Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces]]
 - [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|Synthetic Contact with AI Reduces Cross-Partisan Animosity]]
 - [[raw/articles/2026-07-29_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments]]
+- [[raw/articles/2026-07-30_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 

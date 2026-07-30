@@ -35,3 +35,25 @@ This BBC Future article by Thomas Germain, published March 18, 2026, examines th
 ## Turkey Context
 
 BBC Future tarafından yayımlanan bu önemli makale, Türkiye'deki ebeveynler, eğitimciler ve politika yapıcılar için kritik uyarılar içermektedir. Araştırma bulguları, ebeveynlerin çocuklarının yapay zeka kullanım alışkanlıkları konusunda ciddi ve sistematik bir farkındalık eksikliği yaşadığını ortaya koymaktadır. Türkiye'de de benzer bir durum söz konusudur; birçok ebeveyn, çocuklarının yapay zeka araçlarını yalnızca ödev kopyalama veya akademik amaçlı kullandığını varsayarken, aslında Türk gençleri de bu araçları duygusal destek alma, yaratıcı çalışmalar üretme ve kişisel karar alma süreçlerinde aktif olarak kullanmaktadır. MEB'in dijital okuryazarlık müfredatının, yapay zeka okuryazarlığı ve etik kullanım becerilerini de kapsayacak şekilde acilen güncellenmesi bir zorunluluk haline gelmiştir. BTK'nın yürüttüğü internet bilinçlendirme kampanyaları, yapay zeka araçlarının çocuklar tarafından güvenli, bilinçli ve etik kullanımına yönelik kapsamlı ebeveyn rehberleri ve okul destek materyalleri içerecek şekilde genişletilmelidir. 6698 sayılı KVKK kapsamında, yapay zeka sohbet robotlarının çocuk kullanıcılardan topladığı kişisel verilerin işlenmesi, özellikle duygusal destek ve kişisel rehberlik senaryolarında, çocuğun yüksek yararı ve veri koruma ilkeleri çerçevesinde titizlikle değerlendirilmelidir. 5651 sayılı Kanun ve ilgili BTK düzenlemeleri, yapay zeka sistemleri tarafından üretilen içeriklerin çocuk kullanıcılara sunumunda yaş sınıflandırması, içerik etiketlemesi ve şeffaflık bildirimleri gibi mekanizmaları kapsayacak şekilde kapsamlı olarak revize edilmelidir. Türkiye'nin hazırlık aşamasındaki Dijital Hizmetler Kanunu'nda, yapay zeka platformlarının çocuk kullanıcılara yönelik faaliyetlerine ilişkin düzenli şeffaflık raporlaması zorunlu hale getirilmelidir. Tüm bu kapsamlı düzenleyici çerçeve ve politika altyapısı oluşturulurken, çocukların yapay zeka teknolojilerinden eğitim, yaratıcılık ve kişisel gelişim alanlarında faydalanma hakkı da gözetilmeli, salt yasaklayıcı ve cezalandırıcı yaklaşımlar yerine rehberlik edici, eğitici ve güçlendirici bütüncül politikalar ve uygulama stratejileri benimsenmeli ve bu sürece çocukların aktif katılımı da sağlanmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/bbc.md|Bbc]]
+- [[entities/www-bbc-com.md|Www Bbc Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-04-07_cocuk_dijital.md|Çocuk & Dijital Bülten — 7 Nisan 2026]]
+- [[raw/articles/2026-06-26_20260317-how-kids-are-actually-using-ai.md|20260317 How Kids Are Actually Using Ai]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-20260317-how-kids-are-act.md|Article from www.bbc.com: 20260317 how kids are ac]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-education-childrens-onlin.md|Article from www.bbc.com: education childrens onli]]
+- [[raw/articles/2026-06-26_article-from-www-bbc-com-world-europe-greece-socia.md|Article from www.bbc.com: world europe greece soci]]

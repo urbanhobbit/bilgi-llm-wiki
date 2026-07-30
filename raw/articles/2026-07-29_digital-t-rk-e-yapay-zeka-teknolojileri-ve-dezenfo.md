@@ -31,3 +31,16 @@ Digital Türkçe platformunda yayımlanan bu kapsamlı makale, üretken yapay ze
 ## Turkey Context
 
 Digital Türkçe'deki bu makale, Türkiye'nin yapay zeka kaynaklı dezenformasyonla mücadele politikaları açısından güncel ve kapsamlı bir değerlendirme sunmaktadır. Türkiye'nin Ulusal Yapay Zeka Stratejisi (2021-2025) kapsamında, üretken yapay zeka modellerinin etik kullanımına yönelik düzenlemeler geliştirilmekte olup, BTK bu alanda teknik standartlar belirleme çalışmalarına devam etmektedir. KVKK kurumu, yapay zeka sistemlerinin kişisel veri işleme faaliyetleri konusunda rehber ilkeler yayımlamış olup, 6698 sayılı Kanun'un 6. maddesi kapsamında yapay zeka modellerinin eğitim verilerinde çocuklara ait verilerin kullanımına ilişkin özel denetimler yürütmektedir. Dijital Türkiye vizyonu çerçevesinde, C2PA gibi uluslararası içerik doğrulama standartlarının benimsenmesi ve yerli çözümlerin geliştirilmesi hedeflenmektedir. TÜBİTAK BİLGEM bünyesinde yürütülen yapay zeka güvenliği araştırmaları, dezenformasyon tespiti ve içerik doğrulama alanında önemli çalışmalar yapmaktadır. AB Yapay Zeka Yasası (AI Act) ile uyum süreci kapsamında, Türkiye'nin yapay zeka ile üretilmiş içeriklerin etiketlenmesi zorunluluğu getirmesi ve bu alanda bağımsız bir denetim mekanizması kurması beklenmektedir. MEB'in medya okuryazarlığı müfredatının, yapay zeka okuryazarlığını da içerecek şekilde güncellenmesi, genç nesillerin dezenformasyona karşı dirençli hale gelmesi için kritik öneme sahiptir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
+- [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]
+- [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]
+- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismala]]
+- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md|Yapay Zeka Teknolojileri ve Dezenformasyon Tartışm]]

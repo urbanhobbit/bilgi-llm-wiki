@@ -34,3 +34,22 @@ This link from ack.net, a regional news outlet, was blocked with HTTP status 429
 ## Turkey Context
 
 HTTP 429 Too Many Requests hatası nedeniyle sunucu tarafından geçici olarak erişime kapatılan bu haber linki, gençlere yönelik sosyal medya kullanım yasağının yasalaşma sürecini ve bu süreçte yaşanan gizlilik endişeleri ile büyük teknoloji şirketleri arasındaki gerilimi konu almaktadır. Bu haberin merkezine aldığı politika yapım süreci ve yasama dinamikleri, Türkiye'deki benzer düzenleme çalışmaları için oldukça değerli bir karşılaştırma ve öngörü çerçevesi sunmaktadır. Türkiye'de Bakan Mahinur Özdemir Göktaş tarafından Nisan 2026'da kamuoyuna duyurulan 15 yaş altı çocuklara yönelik sosyal medya düzenlemesinin Türkiye Büyük Millet Meclisi'ndeki yasalaşma sürecinde, benzer şekilde kişisel verilerin korunması endişeleri, ifade özgürlüğü sınırlamaları ve büyük teknoloji şirketlerinin potansiyel etkisi önemli tartışma başlıkları olacaktır. 6698 sayılı KVKK kapsamında çocukların kişisel verilerinin korunmasına ilişkin hükümler, bu düzenlemenin en temel dayanaklarından birini oluşturmalı ve mevcut kanuni düzenlemelerle uyumlu olacak şekilde tasarlanmalıdır. BTK'nın düzenleyici ve denetleyici rolü çerçevesinde, sosyal medya platformlarının Türkiye'deki çocuk kullanıcıların kişisel verilerini işleme biçimleri düzenli olarak denetlenmeli ve tespit edilen ihlaller durumunda KVKK ve 5651 sayılı Kanun kapsamında caydırıcı idari para cezaları uygulanmalıdır. Dijital Hizmetler Kanunu'nun hazırlık sürecinde, büyük teknoloji şirketlerinin çocuk güvenliği ve veri koruma konusundaki yükümlülükleri açık, ölçülebilir ve denetlenebilir bir şekilde tanımlanmalı, düzenli şeffaflık raporlaması ve bağımsız denetim mekanizmaları zorunlu hale getirilmelidir. Haberin URL yapısında öne çıkan 'gizlilik endişeleri' boyutu, Türkiye'deki düzenlemenin Anayasa'nın 20. maddesinde güvence altına alınan özel hayatın gizliliği hakkı ve 26. maddede düzenlenen ifade özgürlüğü hükümleriyle tam uyumlu olması gerektiğini hatırlatmaktadır. MEB'in eğitim politikaları ve müfredatı, bu yasal düzenlemelerle uyumlu şekilde çocukların dijital hakları, çevrimiçi güvenlik ve dijital vatandaşlık konularında kapsamlı farkındalık eğitimlerini zorunlu olarak içermelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
+- [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]
+- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
+- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
+- [[raw/articles/2026-06-26_massachusetts-house-passes-youth-social-media-ban-.md|Massachusetts House Passes Youth Social Media Ban ]]
