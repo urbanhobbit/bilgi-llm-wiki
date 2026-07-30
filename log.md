@@ -194,3 +194,8 @@
 - Source files: 2026-07-29_misinformation-as-strategy.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-30_cultural-capital-and-the-productivity-of-ideas-evi.md]] — Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts
+- Source files: 2026-07-30_cultural-capital-llm.json
+- Agent: OKF Ingestion Pipeline
+
