@@ -174,4 +174,5 @@
 - [[raw/articles/2026-07-30_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 - [[raw/articles/2026-07-30_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts]]
 - [[raw/articles/2026-07-29_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
+- [[raw/articles/2026-07-30_the-echoes-from-social-media-modeling-how-filter-b.md|The echoes from social media: modeling how filter bubbles and network structure shape echo chamber emergence]]
 

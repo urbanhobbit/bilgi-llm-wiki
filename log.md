@@ -204,3 +204,8 @@
 - Source files: 2026-07-30_121405.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-30_the-echoes-from-social-media-modeling-how-filter-b.md]] — The echoes from social media: modeling how filter bubbles and network structure shape echo chamber emergence
+- Source files: 2026-07-30_echo-chambers-filter-bubbles.json
+- Agent: OKF Ingestion Pipeline
+
