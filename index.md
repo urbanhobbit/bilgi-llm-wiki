@@ -173,4 +173,5 @@
 - [[raw/articles/2026-07-29_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments]]
 - [[raw/articles/2026-07-30_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 - [[raw/articles/2026-07-30_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts]]
+- [[raw/articles/2026-07-29_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 
