@@ -223,3 +223,11 @@
 - Source files: 2026-07-31_cpom-systematic-review.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md]] — Misinformation as strategy: Epistemic consequences and the undermining of shared truth — Trends in Cognitive Sciences (@TrendsCognSci) tanıtım gönderisi
+- Raw: [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md]] — Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts — Inclusive Productivity Network (@incprodmon) paylaşımı
+- Raw: [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md]] — GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments — Frontiers in Political Science (@FrontPolSci)
+- Raw: [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md]] — Outgroup chatbot conversations correct partisan misperceptions and reduce hostility — Jay Van Bavel (@jayvanbavel)
+- Source files: 2026-07-31_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+

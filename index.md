@@ -177,4 +177,8 @@
 - [[raw/articles/2026-07-31_the-youth-digital-policy-repository-a-tool-for-tra.md|The youth digital policy repository: A tool for tracking digital media legislation aimed at minors]]
 - [[raw/articles/2026-07-31_changing-partisanship-contributes-significantly-to.md|Changing Partisanship Contributes Significantly to Rising Affective Polarization: Evidence from a Decomposition of Panel Data]]
 - [[raw/articles/2026-07-31_computational-public-opinion-measurement-a-systema.md|Computational Public Opinion Measurement: A Systematic Review of Methods and Methodological Limitations]]
+- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth — Trends in Cognitive Sciences (@TrendsCognSci) tanıtım gönderisi]]
+- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts — Inclusive Productivity Network (@incprodmon) paylaşımı]]
+- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments — Frontiers in Political Science (@FrontPolSci)]]
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan misperceptions and reduce hostility — Jay Van Bavel (@jayvanbavel)]]
 
