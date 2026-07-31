@@ -69,12 +69,12 @@ Javier Milei'nin gelişi:
 
 ## Relevance to KURATOR
 
-Bu makale, [[duygusal-kutuplasma]] ve [[ideolojik-kutuplasma]] arasındaki bağlantıyı ampirik olarak gösteriyor. [[sosyal-kutuplasma]] literatürüne önemli bir vaka çalışması. Özellikle:
+Bu makale, [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]] ve [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] arasındaki bağlantıyı ampirik olarak gösteriyor. [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] literatürüne önemli bir vaka çalışması. Özellikle:
 
 - İdeolojik netlik → duygusal yoğunluk mekanizması, kutuplaşma karşıtı müdahale stratejileri için kritik
-- "Milei etkisi", [[populizm]] çalışmaları için önemli bir vaka
+- "Milei etkisi", [[concepts/populizm.md|Popülizm]] çalışmaları için önemli bir vaka
 - Küresel karşılaştırmalı perspektif: radikal sağın yükselişi ve demokratik istikrara etkisi
-- [[siyasal-siddet]] literatürüyle bağlantılı: ideolojik netlik düşmanlığı nasıl yapılandırıyor
+- [[concepts/siyasal-siddet.md|Siyasal Şiddet]] literatürüyle bağlantılı: ideolojik netlik düşmanlığı nasıl yapılandırıyor
 
 ---
 

@@ -17,7 +17,7 @@ sources:
 
 ## Kapsadığı Dergiler
 
-- **International Political Science Review** — [[concepts/siyaset-bilimi-metodolojisi|Siyaset Bilimi Metodolojisi]]
+- **International Political Science Review** — [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - **Journal of Politics**
 - **Political Studies**
 - **Comparative Political Studies**

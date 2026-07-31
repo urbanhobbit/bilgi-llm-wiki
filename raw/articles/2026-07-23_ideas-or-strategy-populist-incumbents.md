@@ -53,7 +53,7 @@ Popülist liderlerin demokrasiyi aşındırması, öncelikle **fikirlerinden** (
 
 ## Relevance to KURATOR
 
-Bu makale, [[populizm]] ile [[demokratik-erozyon]] arasındaki bağlantının mekanizmalarını açıklıyor. [[sosyal-kutuplasma]] ve [[siyasal-siddet]] çalışmaları için önemli:
+Bu makale, [[concepts/populizm.md|Popülizm]] ile [[concepts/demokratik-erozyon.md|Demokratik Erozyon]] arasındaki bağlantının mekanizmalarını açıklıyor. [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] ve [[concepts/siyasal-siddet.md|Siyasal Şiddet]] çalışmaları için önemli:
 
 - Popülizmin demokrasiye etkisi sadece stratejik değil, ideolojik/fikri temelli
 - Kutuplaşma ve demokratik erozyon arasındaki bağlantıya dair dolaylı kanıt

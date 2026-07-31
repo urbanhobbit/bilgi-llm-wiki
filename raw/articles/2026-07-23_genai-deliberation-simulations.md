@@ -60,7 +60,7 @@ Müzakereci demokrasi (deliberative democracy) pratiğinin en büyük sorunu **�
 
 ## Relevance to KURATOR
 
-Bu makale, [[yapay-zeka-demokrasi]] ve [[muzakereci-demokrasi]] alanlarını kesiştiriyor. Özellikle:
+Bu makale, [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]] ve [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]] alanlarını kesiştiriyor. Özellikle:
 
 - AI'nın demokratik süreçlerdeki rolüne dair normatif bir tartışma
 - Dijital katılım araçlarının geliştirilmesi için kavramsal çerçeve

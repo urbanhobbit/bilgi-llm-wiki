@@ -27,4 +27,4 @@ Platform şirketlerinin kâr odaklı iş modellerinin dezenformasyon ekosistemin
 - Kurgusal 'Amelia' vakası: Dijital nefretin iş modelini gösteren sembolik olay
 - AI avatar üretiminden seçim müdahalesine uzanan dezenformasyon zinciri
 
-**İlişkili:** [[concepts/ai-generated-disinformation|AI-Generated Disinformation]], [[entities/edmo|EDMO]]
+**İlişkili:** [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]], [[entities/edmo.md|EDMO]]

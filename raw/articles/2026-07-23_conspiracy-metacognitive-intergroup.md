@@ -48,10 +48,10 @@ Komplo inançları, bireysel özellikler ve varoluşsal tehdit deneyimlerinin ö
 
 ## Relevance to KURATOR
 
-Bu makale, [[komplo-inanclari]] ile [[sosyal-kutuplasma]] ve [[dezenformasyon]] arasındaki bağlantıyı doğrudan ele alıyor. Özellikle:
+Bu makale, [[concepts/komplo-inanclari.md|Komplo İnançları]] ile [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] ve [[concepts/dezenformasyon.md|Dezenformasyon]] arasındaki bağlantıyı doğrudan ele alıyor. Özellikle:
 
 - Komplo inançlarının **grup kimliği koruma** işlevi, kutuplaşma dinamiklerini anlamak için kritik
-- Önyargı → komplo inancı → kutuplaşma döngüsü, [[onvargi-ve-stereotipler]] literatürüyle bağlantılı
+- Önyargı → komplo inancı → kutuplaşma döngüsü, [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]] literatürüyle bağlantılı
 - Müdahale stratejileri, dezenformasyonla mücadele politikaları için pratik çıkarımlar sunuyor
 
 ---

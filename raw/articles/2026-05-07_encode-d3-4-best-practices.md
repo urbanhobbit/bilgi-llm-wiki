@@ -59,9 +59,9 @@ ENCODE projesi ("Unveiling Emotional Dimensions of Politics to Foster European D
 
 ## Bağlantılı Kavramlar
 
-- [[affective-polarisation]] (Duygusal Kutuplaşma)
-- [[emotional-amplification-loops]] (Duygusal Amplifikasyon Döngüleri)
-- [[cycle-of-distrust]] (Güvensizlik Döngüsü)
+- [[concepts/affective-polarisation.md|Affective Polarisation]] (Duygusal Kutuplaşma)
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]] (Duygusal Amplifikasyon Döngüleri)
+- [[concepts/cycle-of-distrust.md|Cycle of Distrust]] (Güvensizlik Döngüsü)
 
 ---
 

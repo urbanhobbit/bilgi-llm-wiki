@@ -21,7 +21,7 @@ Alt alanlar:
 
 - **Dosya adları:** lowercase, tireler, boşluk yok (örn. `affective-polarization.md`)
 - **Her sayfa YAML frontmatter ile başlar** (şablon aşağıda)
-- **[[wikilink]]** kullan — her sayfada minimum 2 outbound wikilink
+- **`wikilink`** kullan — her sayfada minimum 2 outbound wikilink
 - **Her işlem `log.md`'ye kaydedilir**
 - **Her yeni sayfa `index.md`'ye eklenir** (doğru seksiyon altında, alfabetik)
 - **Provenance marker:** 3+ kaynaktan sentezlenen sayfalarda, paragraf sonuna `^[raw/articles/kaynak.md]` eklenir

@@ -21,4 +21,4 @@ Siyaset bilimi araştırmalarında kullanılan başlıca yöntemler:
 - **Boylamsal analiz:** Panel veri, zaman serisi
 - **Metin analizi:** İçerik analizi, söylem analizi
 
-İlgili kavramlar: [[concepts/duygusal-kutuplasma]], [[concepts/sosyal-kutuplasma]]
+İlgili kavramlar: [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]], [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]

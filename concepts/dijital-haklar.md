@@ -1,8 +1,7 @@
 ---
 type: concept
 title: Dijital Haklar
-description: '## Tanım Çocukların dijital ortamda sahip oldukları hakların [[Çocuk
-  Hakları Sözleşmesi]]''ne (UNCRC) uygun şekilde dijital ortama uyarlanmış hali. Tem...'
+description: '## Tanım Çocukların dijital ortamda sahip oldukları hakların Çocuk Hakları Sözleşmesi''ne (UNCRC) uygun şekilde dijital ortama uyarlanmış hali. Tem...'
 resource: https://www.ohchr.org
 tags:
 - dijital-haklar

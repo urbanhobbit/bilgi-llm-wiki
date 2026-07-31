@@ -30,7 +30,7 @@
 - [[entities/www-ftc-gov.md|FTC]]
 - [[entities/www-mollyrosefoundation-org.md|Molly Rose Foundation]]
 - [[entities/www-parentzone-org-uk.md|ParentZone]]
-- [[entities/www-pewresearch-org.md|Pew Research Center]]
+- [[entities/pew-research-center.md|Pew Research Center]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/wordpress-com.md|WordPress]]
 - [[entities/arxiv-org.md|arXiv]]
@@ -38,10 +38,10 @@
 - [[entities/aura-com.md|Aura]]
 
 ## Concepts
-- [[concepts/sosyal-medya-yasaklari.md|Sosyal Medya Yasakları]]
-- [[concepts/cocuk-dijital-guvenligi.md|Çocuk Dijital Güvenliği]]
-- [[concepts/yas-dogrulama-sistemleri.md|Yaş Doğrulama Sistemleri]]
-- [[concepts/ekran-suresi-duzenlemeleri.md|Ekran Süresi Düzenlemeleri]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/dijital-haklar.md|Çocuk Dijital Hakları]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
 
 ## Raw Articles
 
@@ -171,7 +171,6 @@
 - [[raw/articles/2026-07-29_young-children-s-assent-and-dissent-in-research-ag.md|Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces]]
 - [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|Synthetic Contact with AI Reduces Cross-Partisan Animosity]]
 - [[raw/articles/2026-07-29_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments]]
-- [[raw/articles/2026-07-30_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 - [[raw/articles/2026-07-30_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts]]
 - [[raw/articles/2026-07-29_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences and the undermining of shared truth]]
 - [[raw/articles/2026-07-30_the-echoes-from-social-media-modeling-how-filter-b.md|The echoes from social media: modeling how filter bubbles and network structure shape echo chamber emergence]]

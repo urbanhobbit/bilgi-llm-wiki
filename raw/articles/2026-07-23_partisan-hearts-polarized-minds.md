@@ -57,12 +57,12 @@ Affektif kutuplaşma literatüründe yerleşik bir varsayım var: **Güçlü par
 
 ## Relevance to KURATOR
 
-Bu makale, [[entities/journals-sagepub-com.md|SAGE Journals]] aracılığıyla yayımlanmıştır. [[duygusal-kutuplasma]] (affective polarization) literatürüne doğrudan bir katkı. Özellikle:
+Bu makale, [[entities/journals-sagepub-com.md|SAGE Journals]] aracılığıyla yayımlanmıştır. [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]] (affective polarization) literatürüne doğrudan bir katkı. Özellikle:
 
-- Partizanlık → kutuplaşma varsayımının eleştirisi, [[sosyal-kutuplasma]] tartışmaları için kritik
+- Partizanlık → kutuplaşma varsayımının eleştirisi, [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] tartışmaları için kritik
 - "Her güçlü partizan düşman değildir" bulgusu, kutuplaşma karşıtı müdahale stratejileri için umut verici
-- Ölçüm araçlarının karşılaştırmalı analizi, [[olcum-araclari]] metodolojisi için değerli
-- [[dis-grup-dusmanligi]]'nin belirleyicilerine dair ampirik katkı
+- Ölçüm araçlarının karşılaştırmalı analizi, [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] metodolojisi için değerli
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]'nin belirleyicilerine dair ampirik katkı
 
 ---
 

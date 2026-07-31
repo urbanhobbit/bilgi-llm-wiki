@@ -45,9 +45,9 @@ ortaya koymaktadır.
 
 ## Relevance to KURATOR
 
-Bu makale, [[sosyal-kutuplasma]] ve [[siyasal-siddet]] konularını doğrudan kesiştiriyor. Terörizm korkusunun kutuplaşmayı derinleştirici etkisi, [[populizm]] çalışmaları için de kritik. Aynı zamanda duygusal kutuplaşma (affective polarization) literatürüne — korkunun siyasi kimlikleri nasıl radikalleştirdiğine — dair ampirik katkı sağlıyor.
+Bu makale, [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] ve [[concepts/siyasal-siddet.md|Siyasal Şiddet]] konularını doğrudan kesiştiriyor. Terörizm korkusunun kutuplaşmayı derinleştirici etkisi, [[concepts/populizm.md|Popülizm]] çalışmaları için de kritik. Aynı zamanda duygusal kutuplaşma (affective polarization) literatürüne — korkunun siyasi kimlikleri nasıl radikalleştirdiğine — dair ampirik katkı sağlıyor.
 
-Makale, [[terorizm-korkusu]], [[ideolojik-asirilik]], [[populist-oylama]] kavramları arasında bağlantı kuruyor.
+Makale, [[concepts/terorizm-korkusu.md|Terörizm Korkusu]], [[concepts/ideolojik-asirilik.md|İdeolojik Aşırılık]], [[concepts/populist-oylama.md|Popülist Oy Verme]] kavramları arasında bağlantı kuruyor.
 
 ---
 
