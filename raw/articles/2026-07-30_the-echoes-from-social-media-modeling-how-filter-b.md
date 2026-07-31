@@ -31,3 +31,17 @@ Cristina Chueca Del Cerro, Information, Communication & Society (2026). Ajan-tab
 - Yapay yankı odaları, filtreleme algoritmaları varlığında kalıcı olmuyor
 - Yankı odalarını ve kutuplaşma mekanizmalarını yeniden düşünmemiz gerektiğini öne sürüyor
 - Köln Üniversitesi Sosyoloji ve Sosyal Psikoloji Bölümü
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
+- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]
+- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]
+- [[raw/articles/2026-07-29_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
