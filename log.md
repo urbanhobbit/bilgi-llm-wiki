@@ -209,3 +209,18 @@
 - Source files: 2026-07-30_echo-chambers-filter-bubbles.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-31_the-youth-digital-policy-repository-a-tool-for-tra.md]] — The youth digital policy repository: A tool for tracking digital media legislation aimed at minors
+- Raw: [[raw/articles/2026-07-31_un-fairness-by-design-what-an-age-appropriate-desi.md]] — (Un)fairness by design: what an Age Appropriate Design Code audit reveals about GenAI in EdTech
+- Raw: [[raw/articles/2026-07-31_towards-a-methodologically-congruent-framework-for.md]] — Towards a methodologically congruent framework for GenAI use in nonpositivist qualitative research
+- Raw: [[raw/articles/2026-07-31_young-children-s-assent-and-dissent-in-research-ag.md]] — Young children's assent and dissent in research: agency, privacy and relationships within ethical research spaces
+- Raw: [[raw/articles/2026-07-31_engaging-young-people-as-partners-in-policy-and-pr.md]] — Engaging Young People As Partners in Policy and Practice: Summary of Lessons from 25 Years of Global Youth Development
+- Raw: [[raw/articles/2026-07-31_political-polarization-of-trust-in-science.md]] — Political polarization of trust in science
+- Raw: [[raw/articles/2026-07-31_synthetic-contact-with-ai-reduces-cross-partisan-a.md]] — Synthetic Contact with AI Reduces Cross-Partisan Animosity
+- Raw: [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md]] — GPT outperforms BERT and LIWC for stance and anger detection in German news articles and user comments
+- Raw: [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md]] — Misinformation as strategy: Epistemic consequences and the undermining of shared truth
+- Raw: [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md]] — Cultural Capital and the Productivity of Ideas: Evidence from Historical Texts
+- Raw: [[raw/articles/2026-07-31_the-echoes-from-social-media-modeling-how-filter-b.md]] — The echoes from social media: modeling how filter bubbles and network structure shape echo chamber emergence
+- Source files: 2026-07-30_youth-digital-policy-repo.json, 2026-07-31_categorized.json
+- Agent: OKF Ingestion Pipeline
+
