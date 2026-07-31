@@ -218,3 +218,8 @@
 - Source files: 2026-07-31_churn-affective-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-07-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-31_computational-public-opinion-measurement-a-systema.md]] — Computational Public Opinion Measurement: A Systematic Review of Methods and Methodological Limitations
+- Source files: 2026-07-31_cpom-systematic-review.json
+- Agent: OKF Ingestion Pipeline
+

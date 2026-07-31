@@ -176,4 +176,5 @@
 - [[raw/articles/2026-07-30_the-echoes-from-social-media-modeling-how-filter-b.md|The echoes from social media: modeling how filter bubbles and network structure shape echo chamber emergence]]
 - [[raw/articles/2026-07-31_the-youth-digital-policy-repository-a-tool-for-tra.md|The youth digital policy repository: A tool for tracking digital media legislation aimed at minors]]
 - [[raw/articles/2026-07-31_changing-partisanship-contributes-significantly-to.md|Changing Partisanship Contributes Significantly to Rising Affective Polarization: Evidence from a Decomposition of Panel Data]]
+- [[raw/articles/2026-07-31_computational-public-opinion-measurement-a-systema.md|Computational Public Opinion Measurement: A Systematic Review of Methods and Methodological Limitations]]
 
