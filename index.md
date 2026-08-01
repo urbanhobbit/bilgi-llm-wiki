@@ -186,4 +186,5 @@
 - [[raw/articles/2026-08-01_relating-cognitive-skills-and-personality-traits-t.md|Relating Cognitive Skills and Personality Traits to Economic Preferences: Decision-Making under Cognitive Shocks and Guessing]]
 - [[raw/articles/2026-08-01_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects]]
 - [[raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-.md|How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention]]
+- [[raw/articles/2026-08-01_political-parties-as-drivers-of-u-s-polarization-1.md|Political Parties as Drivers of U.S. Polarization: 1927-2018]]
 

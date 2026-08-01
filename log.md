@@ -253,3 +253,8 @@
 - Source files: 2026-08-01_children-digital-storytelling-environment.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_political-parties-as-drivers-of-u-s-polarization-1.md]] — Political Parties as Drivers of U.S. Polarization: 1927-2018
+- Source files: 2026-08-01_parties-drivers-polarization.json
+- Agent: OKF Ingestion Pipeline
+
