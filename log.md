@@ -258,3 +258,8 @@
 - Source files: 2026-08-01_parties-drivers-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_building-child-friendly-neighbourhoods-empowering-.md]] — Building child-friendly neighbourhoods: Empowering communities with data-driven action
+- Source files: 2026-08-01_oecd-child-friendly-neighbourhoods.json
+- Agent: OKF Ingestion Pipeline
+

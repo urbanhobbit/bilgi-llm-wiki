@@ -187,4 +187,5 @@
 - [[raw/articles/2026-08-01_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects]]
 - [[raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-.md|How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention]]
 - [[raw/articles/2026-08-01_political-parties-as-drivers-of-u-s-polarization-1.md|Political Parties as Drivers of U.S. Polarization: 1927-2018]]
+- [[raw/articles/2026-08-01_building-child-friendly-neighbourhoods-empowering-.md|Building child-friendly neighbourhoods: Empowering communities with data-driven action]]
 
