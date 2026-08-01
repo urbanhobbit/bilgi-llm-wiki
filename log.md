@@ -231,3 +231,8 @@
 - Source files: 2026-07-31_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_relating-cognitive-skills-and-personality-traits-t.md]] — Relating Cognitive Skills and Personality Traits to Economic Preferences: Decision-Making under Cognitive Shocks and Guessing
+- Source files: 2026-07-31_heckman-deliberation-noise.json
+- Agent: OKF Ingestion Pipeline
+
