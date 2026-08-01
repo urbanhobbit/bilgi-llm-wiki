@@ -1,3 +1,10 @@
+## [2026-08-01] ingest | Haftalık Bülten Entegrasyonu (Hafta 31/2026)
+- Raw: [[raw/articles/2026-08-01_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 31/2026)
+- Raw: [[raw/articles/2026-08-01_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-08-01)
+- Topics: UK under-16 social media ban (Starmer), KOSA Senate 91-3, Massachusetts under-14 ban Oct 2026, China content classification, AADC EdTech audit (5 GenAI tools non-compliant), Pew/BBC parent-teen AI perception gap, Turkey 15-under regulation framework (Bakan Göktaş), misinformation-as-strategy (Ecker et al. TiCS), synthetic contact AI reduces cross-partisan animosity (arXiv 2607.02181), GPT vs BERT/LIWC stance detection, echo chambers agent-based model, polarization of trust in science, cultural capital & productivity of ideas
+- Scrapling block rate: 40% (6/10 links accessible) — automatic extraction viable
+- Agent: Weekly Bulletin Integration Cronjob
+
 ## [2026-07-25] ingest | Haftalık Bülten Entegrasyonu (Hafta 30/2026)
 - Raw: [[raw/articles/2026-07-25_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 30/2026)
 - Raw: [[raw/articles/2026-07-25_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-07-25)
