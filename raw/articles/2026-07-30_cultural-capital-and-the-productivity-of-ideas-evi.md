@@ -30,3 +30,9 @@ Radoslaw Stefanski, University of St Andrews Economics Discussion Papers 2602 (2
 - 1000-1920 arasında Yenilik Takozu %51 düşüş
 - Kültürel direncin azalması verimlilik artışının %38.7'sini açıklıyor
 - Ekonomi tarihi + LLM metodolojisi kesişiminde yenilikçi bir çalışma
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]

@@ -36,3 +36,23 @@ NYU'lu sosyal psikolog Jay Van Bavel'in (@jayvanbavel) 28 Temmuz 2026 tarihli g�
 ## Turkey Context
 
 Van Bavel'in dış grup sohbet robotuyla 10 dakikalık konuşmanın partizan yanlı algıları düzelttiği ve gruplar arası düşmanlığı azalttığı bulgusu, Türkiye gibi yüksek kutuplaşma düzeyine sahip ülkeler için dikkat çekici bir müdahale potansiyeli barındırıyor. Türkiye'de siyasi kutuplaşma, seçmenlerin karşıt görüşlülere ilişkin sistematik yanlı algılar beslemesine yol açıyor; Konda ve diğer araştırma şirketlerinin anketleri, farklı siyasi kimliklerin birbirini abartılı biçimde olumsuz algıladığını gösteriyor. Yapay zekâ tabanlı 'sentetik temas' müdahaleleri, yüz yüze temasın zor olduğu toplumlarda gruplar arası diyaloğun düşük maliyetli ve ölçeklenebilir bir alternatifi olabilir. Ancak bu yaklaşımın Türkiye'ye uyarlanmasında dikkat edilmesi gereken noktalar var: (1) Türkçe dil modellerinin siyasi tarafsızlığı ve kutuplaşmış söylemden arındırılmış eğitim verisi ihtiyacı, (2) KVKK kapsamında kullanıcı verilerinin işlenmesine ilişkin açık rıza mekanizmaları, (3) müdahalenin etik sınırları — manipülasyon algısı yaratmaması için şeffaflık gerekliliği. Dijital Hizmetler Kanunu tartışmaları ve platformların kutuplaşmayı azaltmaya yönelik tasarım yükümlülükleri bağlamında, bu tür kanıta dayalı müdahaleler politika yapıcılar için değerli bir zemin sunuyor. Aile ve Sosyal Hizmetler Bakanlığı ile MEB'in dijital vatandaşlık eğitiminde gruplar arası empatiyi güçlendiren yapay zekâ destekli uygulamaları pilot olarak test etmesi önerilebilir. Ayrıca, Türkiye'deki üniversitelerin siyaset bilimi ve psikoloji bölümlerinin bu tür müdahaleleri Türkçe bağlamda deneysel olarak test etmesi, hem uluslararası literatüre katkı sağlayacak hem de yerel kutuplaşma dinamiklerine özgü çözümler geliştirecektir. Son olarak, bu tür uygulamaların yaygınlaşması hâlinde BTK'nın yapay zekâ düzenlemelerine ilişkin etik kılavuzlar geliştirmesi ve kullanıcı verilerinin korunmasına yönelik denetim mekanizmaları kurması önem taşıyor. Bu tür deneysel çalışmaların Türkiye'de yürütülebilmesi için üniversitelerin etik kurullarının yapay zekâ destekli müdahale araştırmalarına yönelik net protokoller geliştirmesi ve TÜBİTAK'ın sosyal bilimlerde deneysel yöntemleri destekleyen çağrılar açması gerekmektedir. Ayrıca, medya kuruluşlarının kutuplaşmayı azaltma amaçlı haber tasarımı ve yorum moderasyonu uygulamalarında bu bulgulardan yararlanması, seçim dönemlerinde toplumsal gerilimi düşürücü etki yaratabilir. Sonuç olarak Van Bavel'in çalışması, yapay zekânın kutuplaşma karşıtı bir araç olarak kullanılabileceğini gösteren, hem bilimsel hem de pratik açıdan önemli bir kilometre taşıdır ve Türkiye'deki akademik ve politik tartışmalara dahil edilmesi gereken bir araştırmadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
+- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Ev]]
+- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
+- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
+- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

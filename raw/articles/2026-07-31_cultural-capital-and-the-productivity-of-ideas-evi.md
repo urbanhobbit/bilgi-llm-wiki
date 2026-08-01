@@ -34,3 +34,20 @@ Inclusive Productivity Network (@incprodmon) hesabının 30 Temmuz 2026 tarihli 
 ## Turkey Context
 
 Stefanski'nin kültürel sermaye ve fikir üretkenliği arasındaki ilişkiyi tarihsel metinler üzerinden ölçme çabası, Türkiye için de önemli araştırma ve politika çıkarımları barındırıyor. Türkiye'de Ar-Ge harcamalarının GSYH içindeki payı son yıllarda artış gösterse de (TÜİK verilerine göre %1,4 civarında), Ar-Ge girdilerinden yenilik çıktısına dönüşümdeki verimsizlik sık tartışılan bir konu. Kültürel sermayenin, eğitim sisteminin ve bilimsel üretim kültürünün fikir üretimini nasıl şekillendirdiği, TÜBİTAK ve YÖK'ün araştırma politikalarında yeterince ölçülmüyor. Stefanski'nin kullandığı büyük tarihsel metin analizi yöntemi, Türkiye'de Osmanlı arşivleri, Cumhuriyet dönemi gazeteleri ve TBMM tutanakları gibi zengin kaynaklara uygulanabilir; bu, Türk iktisat tarihi araştırmaları için heyecan verici bir açılım olabilir. Türk üniversitelerinde dijital beşerî bilimler ve hesaplamalı sosyal bilim altyapısının geliştirilmesi, bu tür çalışmaların yerelleşmesini sağlayacaktır. KVKK ve telif mevzuatı, tarihsel metinlerin toplulaştırılmış analizinde önemli bir denge unsuru olarak öne çıkıyor: kamuya açık ve telif süresi dolmuş eserlerin kullanımı bu riskleri azaltıyor. YÖK'ün dijital dönüşüm ve açık bilim politikaları çerçevesinde, üniversitelerin dijital arşiv projelerini desteklemesi, bu tür büyük ölçekli metin analizlerinin ön koşulunu oluşturuyor. Politika önerisi olarak, kültürel ve beşerî sermayeyi birlikte ölçen ulusal bir 'yenilik ekosistemi endeksi' geliştirilmesi, kalkınma planlarında bilim ve teknoloji politikalarının daha bütüncül tasarlanmasına katkı sağlayabilir. Ayrıca TÜBİTAK'ın hesaplamalı sosyal bilim çağrıları açması ve tarihsel metin veri setlerinin açık erişimle araştırmacılara sunulması, Türkiye'nin bu alandaki uluslararası rekabet gücünü artıracaktır. Bu doğrultuda, Milli Kütüphane, İSAM ve Türk Tarih Kurumu gibi kurumların dijitalleştirme çabalarının hesaplamalı araştırmacıların kullanımına açılması, Türkiye'nin kültürel sermaye ölçümü alanında öncü olmasını sağlayabilir. Ekonomik büyüme ve yenilik politikaları tasarlanırken yalnızca Ar-Ge teşvikleri değil, bilimsel üretim kültürünü besleyen kurumsal ve kültürel faktörler de dikkate alınmalıdır. TÜBA ve TÜBİTAK'ın bilim iletişimi programları, genç araştırmacıların uluslararası bilim topluluğuna entegrasyonunu kolaylaştırarak bu kültürel sermayenin kuşaklar arası aktarımına katkı sağlayabilir. Son olarak, bu tür çalışmaların Türkiye bağlamına uyarlanması, tarihsel metinlerin dijitalleştirilmesi ve açık veri standartlarının benimsenmesiyle mümkün olacaktır; bu da ulusal bilim politikasının önemli bir bileşeni olarak ele alınmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
+- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
+- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan mi]]
+- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

@@ -236,3 +236,8 @@
 - Source files: 2026-07-31_heckman-deliberation-noise.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_untrustworthy-sources-on-facebook-and-instagram-in.md]] — Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects
+- Source files: 2026-07-31_nyhan-untrustworthy-sources-2020.json
+- Agent: OKF Ingestion Pipeline
+

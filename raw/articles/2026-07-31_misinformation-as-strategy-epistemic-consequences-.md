@@ -36,3 +36,25 @@ Trends in Cognitive Sciences (@TrendsCognSci) dergisinin resmî X hesabından 29
 ## Turkey Context
 
 Türkiye'de dezenformasyonla mücadele, 2026 itibarıyla hem hukuki hem eğitimsel boyutlarıyla gündemin üst sıralarında yer alıyor. 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK), dijital ortamda bireylerin verilerinin korunmasına ilişkin temel çerçeveyi sunarken; 7418 sayılı Kanun'la Türk Ceza Kanunu'na eklenen 'halkı yanıltıcı bilgiyi alenen yayma' suçu (TCK m. 217/A) dezenformasyonla mücadelede tartışmalı ama belirleyici bir araç hâline geldi. BTK'nın düzenleyici rolü, doğrulama platformlarının ve sivil doğrulama girişimlerinin çalışmaları, stratejik dezenformasyonun yarattığı epistemik risklere karşı kurumsal yanıtlar olarak öne çıkıyor. Ecker ve arkadaşlarının vurguladığı 'ortak gerçekliğin aşınması' tezi, Türkiye'de kutuplaşmış medya ortamında özellikle anlamlı: Farklı bilgi ekosistemlerinde yaşayan vatandaşların ortak bir hakikat zemininde buluşması giderek zorlaşıyor. MEB'in müfredata eklediği medya okuryazarlığı dersleri bu açıdan kritik öneme sahip; ancak derslerin güncel dezenformasyon taktikleri (deepfake, bot ağları, koordineli sahte davranış) etrafında yenilenmesi gerekiyor. TÜİK'in hanehalkı bilişim teknolojileri araştırmaları, internet kullanımının ve sosyal medya erişiminin yaygınlığını ortaya koyarken; genç nüfusun bilgi doğrulama alışkanlıklarının ölçülmesi, eğitim politikalarının kanıta dayalı tasarımı için şart. Öneri olarak: (1) medya okuryazarlığı eğitiminin zorunlu ve kademeli hâle getirilmesi, (2) akademik dezenformasyon araştırmaları için TÜBİTAK destekli ulusal bir veri altyapısı kurulması, (3) doğrulama kuruluşları ile üniversiteler arasında sürekli iş birliği mekanizmaları geliştirilmesi, (4) platformlara yönelik şeffaflık raporlama yükümlülüklerinin Dijital Hizmetler Kanunu benzeri bir çerçeveyle güçlendirilmesi yerinde olacaktır. Bu süreçte üniversitelerin iletişim fakülteleri ile doğrulama platformları arasındaki iş birlikleri güçlendirilmeli, saha verilerine dayalı Türkçe dezenformasyon araştırmaları teşvik edilmelidir. Ayrıca 2023 genel seçimleri ve 2024 yerel seçimleri sırasında gözlemlenen bot ağı faaliyetleri, Türkiye'de stratejik manipülasyonun kurumsal ölçekte test edildiğini göstermiştir; bu deneyimlerin akademik olarak belgelenmesi, gelecekteki müdahalelerin kanıt temelini oluşturacaktır. Çocukların ve gençlerin dezenformasyona karşı korunması bağlamında, Aile ve Sosyal Hizmetler Bakanlığı'nın dijital ebeveynlik programları ile MEB'in okul temelli medya okuryazarlığı uygulamalarının Ecker ve arkadaşlarının tanımladığı epistemik riskler ışığında güncellenmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
+- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Ev]]
+- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan mi]]
+- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]
