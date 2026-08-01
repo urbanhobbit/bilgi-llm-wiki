@@ -185,4 +185,5 @@
 - [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan misperceptions and reduce hostility — Jay Van Bavel (@jayvanbavel)]]
 - [[raw/articles/2026-08-01_relating-cognitive-skills-and-personality-traits-t.md|Relating Cognitive Skills and Personality Traits to Economic Preferences: Decision-Making under Cognitive Shocks and Guessing]]
 - [[raw/articles/2026-08-01_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects]]
+- [[raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-.md|How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention]]
 

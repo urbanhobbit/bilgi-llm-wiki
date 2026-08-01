@@ -248,3 +248,8 @@
 - Source files: 2026-07-31_nyhan-untrustworthy-sources-2020.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-.md]] — How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention
+- Source files: 2026-08-01_children-digital-storytelling-environment.json
+- Agent: OKF Ingestion Pipeline
+
