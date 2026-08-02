@@ -23,6 +23,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;overflow
 #info .body{color:#cbd5e1;margin:8px 0;line-height:1.5;font-size:12px;max-height:300px;overflow-y:auto;white-space:pre-wrap;word-break:break-word}
 #info a{color:#60a5fa}
 #info .tags span{display:inline-block;padding:1px 6px;border-radius:3px;background:#334155;color:#94a3b8;font-size:10px;margin:2px}
+#info .srcs{margin:8px 0;color:#cbd5e1;font-size:11px}
+#info .srcs b{display:block;color:#e2e8f0;font-size:11px;margin-bottom:2px}
+#info .srcs ul{margin:4px 0 0;padding-left:16px}
+#info .srcs li{margin:2px 0;line-height:1.4}
 #info .close{float:right;cursor:pointer;color:#64748b;font-size:18px;line-height:1}
 .legend{position:fixed;left:20px;bottom:20px;background:#1e293b;border:1px solid #334155;border-radius:6px;padding:8px 12px;font-size:11px;z-index:50}
 .legend .r{display:flex;align-items:center;gap:6px;padding:2px 0}
@@ -34,7 +38,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;overflow
 <body>
 <div class="hdr">
   <h1>📚 KURATOR Wiki</h1>
-  <span class="sub" id="stats">1507 nodes · 12304 edges</span>
+  <span class="sub" id="stats">yükleniyor…</span>
   <div class="ctrls">
     <button onclick="filter('all')" class="on">All</button>
     <button onclick="filter('concept')">🧠 Concept</button>
@@ -60,6 +64,7 @@ function init() {
       DATA = data;
       buildGraph();
       buildLegend();
+      document.getElementById('stats').textContent = data.nodes.length + ' nodes · ' + data.edges.length + ' edges';
     })
     .catch(function(err) {
       document.getElementById('stats').textContent = 'Error: ' + err.message;
@@ -93,12 +98,46 @@ function showInfo(node) {
   var body = DATA.bodies[d.id] || '';
   var tags = (d.tags || []).map(function(t) { return '<span>' + esc(t) + '</span>'; }).join('');
   var h = '<div class="tp">' + esc(d.type) + '</div><h2>' + esc(d.label) + '</h2>';
-  if (d.resource) h += '<p><a href="' + esc(d.resource) + '" target="_blank" rel="noopener">🔗 Source</a></p>';
+  if (d.resource) h += '<p><a href="' + esc(d.resource) + '" target="_blank" rel="noopener">🔗 Kaynak</a></p>';
   if (d.description) h += '<div class="desc">' + esc(d.description) + '</div>';
   if (body) h += '<div class="body">' + esc(body) + '</div>';
   if (tags) h += '<div class="tags">' + tags + '</div>';
+  var srcs = d.sources || [];
+  if (srcs.length) {
+    h += '<div class="srcs"><b>📚 Kaynaklar</b><ul>' + srcs.map(function(s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ul></div>';
+  }
+  var nbrs = [];
+  DATA.edges.forEach(function(e) {
+    var ed = e.data;
+    if (ed.source === d.id) nbrs.push(ed.target);
+    else if (ed.target === d.id) nbrs.push(ed.source);
+  });
+  var articles = nbrs.filter(function(id) { return id.indexOf('raw/articles/') === 0; });
+  var concepts = nbrs.filter(function(id) { return id.indexOf('concepts/') === 0; });
+  var entities = nbrs.filter(function(id) { return id.indexOf('entities/') === 0; });
+  function linkList(ids, icon) {
+    var items = ids.map(function(id) {
+      var lbl = id.split('/').pop().replace(/-/g, ' ');
+      for (var i = 0; i < DATA.nodes.length; i++) {
+        if (DATA.nodes[i].data.id === id) { lbl = DATA.nodes[i].data.label; break; }
+      }
+      var safe = id.replace(/\/g, '\\').replace(/'/g, "\'");
+      return '<li><a href="javascript:void(0)" onclick="focusNode('' + safe + '')">' + icon + ' ' + esc(lbl) + '</a></li>';
+    });
+    return '<ul>' + items.join('') + '</ul>';
+  }
+  if (articles.length) h += '<div class="srcs"><b>📄 Bağlı Makaleler (' + articles.length + ')</b>' + linkList(articles, '📄') + '</div>';
+  if (concepts.length) h += '<div class="srcs"><b>🧠 Bağlı Kavramlar</b>' + linkList(concepts, '🧠') + '</div>';
+  if (entities.length) h += '<div class="srcs"><b>🏛 Bağlı Kurum/Kişiler</b>' + linkList(entities, '🏛') + '</div>';
   document.getElementById('info-content').innerHTML = h;
   document.getElementById('info').style.display = 'block';
+}
+
+function focusNode(id) {
+  var el = cy.getElementById(id);
+  if (!el || el.length === 0) return;
+  cy.animate({ center: { eles: el }, zoom: Math.max(cy.zoom(), 1.2) }, { duration: 400 });
+  showInfo(el[0]);
 }
 
 function closeInfo() { document.getElementById('info').style.display = 'none'; }
