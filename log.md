@@ -263,3 +263,8 @@
 - Source files: 2026-08-01_oecd-child-friendly-neighbourhoods.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-02_growing-up-in-a-connected-world-a-family-guide-for.md]] — Growing Up in a Connected World: A Family Guide for the Digital Age
+- Source files: 2026-08-02_unesco-growing-up-connected-world.json
+- Agent: OKF Ingestion Pipeline
+

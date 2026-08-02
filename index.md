@@ -188,4 +188,5 @@
 - [[raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-.md|How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention]]
 - [[raw/articles/2026-08-01_political-parties-as-drivers-of-u-s-polarization-1.md|Political Parties as Drivers of U.S. Polarization: 1927-2018]]
 - [[raw/articles/2026-08-01_building-child-friendly-neighbourhoods-empowering-.md|Building child-friendly neighbourhoods: Empowering communities with data-driven action]]
+- [[raw/articles/2026-08-02_growing-up-in-a-connected-world-a-family-guide-for.md|Growing Up in a Connected World: A Family Guide for the Digital Age]]
 
