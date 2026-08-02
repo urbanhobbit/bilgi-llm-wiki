@@ -268,3 +268,16 @@
 - Source files: 2026-08-02_unesco-growing-up-connected-world.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-22_growing-up-in-a-connected-world-a-family-guide-for.md]] — Growing Up in a Connected World: A Family Guide for the Digital Age
+- Raw: [[raw/articles/2026-08-02_untrustworthy-sources-on-facebook-and-instagram-in.md]] — Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects
+- Raw: [[raw/articles/2026-08-02_relating-cognitive-skills-and-personality-traits-t.md]] — Relating Cognitive Skills and Personality Traits to Economic Preferences: Decision-Making under Cognitive Shocks and Guessing
+- Raw: [[raw/articles/2026-08-02_computational-public-opinion-measurement-a-systema.md]] — Computational Public Opinion Measurement: A Systematic Review of Methods and Methodological Limitations
+- Raw: [[raw/articles/2026-08-02_changing-partisanship-contributes-significantly-to.md]] — Changing Partisanship Contributes Significantly to Rising Affective Polarization: Evidence from a Decomposition of Panel Data
+- Raw: [[raw/articles/2026-08-02_the-youth-digital-policy-repository-a-tool-for-tra.md]] — The youth digital policy repository: A tool for tracking digital media legislation aimed at minors
+- Raw: [[raw/articles/2026-08-02_how-children-learn-complex-environmental-concepts-.md]] — How children learn complex environmental concepts through digital storytelling: divergent pathways to knowledge and stewardship intention
+- Raw: [[raw/articles/2026-08-02_political-parties-as-drivers-of-u-s-polarization-1.md]] — Political Parties as Drivers of U.S. Polarization: 1927-2018
+- Raw: [[raw/articles/2026-08-02_building-child-friendly-neighbourhoods-empowering-.md]] — Building child-friendly neighbourhoods: Empowering communities with data-driven action
+- Source files: 2026-08-02_121102_ingestion.json, 2026-08-02_categorized.json
+- Agent: OKF Ingestion Pipeline
+
