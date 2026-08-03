@@ -281,3 +281,8 @@
 - Source files: 2026-08-02_121102_ingestion.json, 2026-08-02_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07_enhancing-adolescent-social-and-emotional-well-bei.md]] — Enhancing adolescent social and emotional well-being
+- Source files: 2026-08-03_oecd-adolescent-social-emotional-wellbeing.json
+- Agent: OKF Ingestion Pipeline
+
