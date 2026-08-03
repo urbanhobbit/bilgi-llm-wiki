@@ -301,3 +301,8 @@
 - Source files: 2026-08-03_child-youth-friendly-governance-webinar.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-24_public-support-for-democracy-and-different-pattern.md]] — Public support for democracy and different patterns of democratic backsliding
+- Source files: 2026-08-03_public-support-democracy-backsliding.json
+- Agent: OKF Ingestion Pipeline
+
