@@ -38,5 +38,4 @@ Review of Education (BERA) 14(2), 2026 — University of Queensland (School of E
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+
