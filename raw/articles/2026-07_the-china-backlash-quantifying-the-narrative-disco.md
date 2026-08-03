@@ -39,4 +39,4 @@ NBER Working Paper 35539 (Temmuz 2026) — Mert Geyiktepe & Dani Rodrik (Harvard
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+
