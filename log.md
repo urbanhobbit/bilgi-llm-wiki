@@ -311,3 +311,8 @@
 - Source files: 2026-08-03_un-information-integrity-principles.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07_the-china-backlash-quantifying-the-narrative-disco.md]] — The China Backlash: Quantifying the Narrative Discourse on China
+- Source files: 2026-08-03_china-backlash-narrative-discourse.json
+- Agent: OKF Ingestion Pipeline
+
