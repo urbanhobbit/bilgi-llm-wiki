@@ -40,5 +40,4 @@ OECD Papers on Well-being and Inequalities No. 40 (OECD WISE Centre, Temmuz 2026
 ### 🧠 İlgili Kavramlar
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+
