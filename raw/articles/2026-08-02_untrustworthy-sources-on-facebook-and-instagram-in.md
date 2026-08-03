@@ -36,3 +36,22 @@ Olivier Bergeron-Boutin, Brendan Nyhan, Jaime Settle, Emily Thorson, Magdalena W
 ## Turkey Context
 
 Türkiye'de dezenformasyonla mücadele, özellikle 2023 sonrası dönemde hem kamu hem sivil toplum gündeminin merkezine oturmuştur. Bu Science Advances çalışmasının en önemli Türkiye bağlantısı, "maruziyeti azaltmak ile inancı değiştirmek arasındaki fark"tır: Türkiye'de 7410 sayılı Kanun'la 2022'de kurulan ve 2023'te aktif hale gelen Cumhurbaşkanlığı İletişim Başkanlığı'na bağlı Dezenformasyonla Mücadele Merkezi (DMM), kamuoyunu bilgilendirme ve doğrulama odaklı çalışmalar yürütmekte; ancak akademik bulgular, yalan haber görünürlüğünü azaltmanın tek başına inanç değişimi sağlamadığını, dolayısıyla medya okuryazarlığı ve eleştirel düşünme eğitimlerinin tamamlayıcı rolünün kritik olduğunu göstermektedir. 6698 sayılı KVKK kapsamında sosyal medya platformlarının kullanıcı verileri üzerinden yürütülen bu tür büyük ölçekli araştırmalar, veri koruma ile kamu yararı arasındaki dengeyi de gündeme getirmektedir; Kişisel Verileri Koruma Kurulu'nun 2024-2025 yıllarında sosyal medya şirketlerine veri işleme faaliyetleri nedeniyle uyguladığı idari para cezaları, bu alandaki denetim kapasitesinin arttığını göstermektedir. BTK'nın 2024 ikinci çeyrek verilerine göre Türkiye'de internet kullanıcı sayısı 83,5 milyonu aşmış, sosyal medya kullanım süresi günde ortalama 3 saatin üzerine çıkmıştır; bu yoğun kullanım, özellikle çocuk ve gençlerin dezenformasyona açıklığını artırmaktadır. MEB'in 2024'ten itibaren müfredata yerleştirdiği Dijital Vatandaşlık ve Etik dersi ile TÜİK'in hanehalkı bilişim teknolojileri kullanım araştırmaları, bu alandaki politika araçlarının temelini oluşturmaktadır. Çalışmanın ön kayıtlı (preregistered) saha deneyi metodolojisi, Türkiye'deki iletişim ve siyaset bilimi araştırmaları için de örnek teşkil etmekte; TÜBİTAK destekli projelerde bu tür şeffaf ve tekrarlanabilir tasarımların yaygınlaştırılması önerilmektedir. Ayrıca AB Dijital Hizmetler Yasası (DSA) ile uyum sürecinde Türkiye'nin platform şeffaflığı, erişim verilerinin araştırmacılara açılması ve algoritmik hesap verebilirlik konularında benzer düzenlemeleri değerlendirmesi, bu bulguların politika yansıması açısından önem taşımaktadır. Sonuç olarak, dezenformasyonla mücadelede hem maruziyet azaltma hem de dijital okuryazarlık yatırımlarının birlikte yürütülmesi, Türkiye için kanıta dayalı bir yol haritası sunmaktadır. Türkiye'de 2023 seçimleri sonrasında dezenformasyonla mücadele konusunda akademik ilgi artmış; iletişim fakültelerinde sosyal medya ve seçim dezenformasyonu üzerine yürütülen projeler çoğalmıştır. Bu çalışmanın önerdiği çerçeve, Türkiye'deki doğrulama platformlarının (teyit.org, doğrulukpayı.com) etki değerlendirmelerinin yapılması ve maruziyet azaltma müdahalelerinin denenmesi için ampirik bir zemin oluşturmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
+- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]
+- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]

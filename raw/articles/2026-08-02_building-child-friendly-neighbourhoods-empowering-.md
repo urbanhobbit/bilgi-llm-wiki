@@ -35,3 +35,20 @@ OECD WISE Centre tarafından OECD Papers on Well-being and Inequalities No. 33 /
 ## Turkey Context
 
 OECD'nin bu çocuk dostu mahalleler politika belgesi, Türkiye'de kentsel dönüşüm, belediye hizmetleri ve çocuk refahı politikalarının kesişiminde önemli bir referans oluşturmaktadır. Türkiye'de 5393 sayılı Belediye Kanunu ve 5216 sayılı Büyükşehir Belediyesi Kanunu, belediyelere çocuklara yönelik sosyal ve kültürel hizmetler sunma görevi vermekte; ancak bu hizmetlerin mahalle ölçeğinde veriye dayalı planlanması konusunda ciddi eksiklikler bulunmaktadır. Belgenin "yerel bağlama uyarlanmış politikalar" vurgusu, Türkiye'nin büyükşehirlerdeki kentsel dönüşüm projelerinde oyun alanlarının ve çocuk dostu kamusal mekanların kaybına ilişkin tartışmalarla doğrudan ilişkilidir; özellikle deprem sonrası yeniden inşa sürecinde Hatay, Kahramanmaraş ve Malatya gibi illerde çocuk dostu kent tasarımı ilkelerinin uygulanması, bu belgenin önerilerinin güncelliğini artırmaktadır. Aile ve Sosyal Hizmetler Bakanlığı'nın Çocuk Dostu Kentler girişimleri ile UNICEF Türkiye'nin yerel yönetimlerle yürüttüğü çocuk hakları eğitimleri, Türkiye'de çocuk katılımı ve çocuk dostu yerel yönetim pratiklerinin temelini oluşturmaktadır. Belgenin uygun maliyetli yerel veri toplama önerisi, Türkiye'de TÜİK'in adrese dayalı nüfus kayıt sistemi (ADNKS) ve belediye verilerinin entegrasyonu ile hayata geçirilebilir; mahalle ölçeğinde çocuk nüfusu, yoksulluk ve erişim verilerinin haritalanması, kaynak tahsisini rasyonelleştirecektir. Ayrıca, 6698 sayılı KVKK kapsamında yerel yönetimlerin çocuklara ilişkin veri toplama faaliyetlerinde veri minimizasyonu ve amaç sınırlılığı ilkelerine uyulması gerekmektedir. Dijital boyut açısından, Türkiye'de çocukların fiziksel oyun alanlarına erişimi ile dijital ekran süresi arasındaki ilişki giderek önem kazanmakta; TÜİK 2025 verilerine göre çocukların günlük ekran süresinin 4,5-6 saate ulaşması, fiziksel oyun alanlarının çocuk sağlığı ve gelişimi açısından koruyucu rolünü vurgulamaktadır. Sonuç olarak, bu belge Türkiye'deki belediyeler, ilgili bakanlıklar ve sivil toplum için çocuk dostu kent politikalarının veriye dayalı tasarımı konusunda yol gösterici bir çerçeve sunmaktadır. Türkiye'de 2023 depremleri sonrası yeniden inşa süreci, çocuk dostu kent tasarımı ilkelerinin hayata geçirilmesi için kritik bir fırsat penceresi sunmaktadır. Belediyelerin mahalle ölçeğinde veri toplama kapasitesinin artırılması ve bu verilerin çocuk refahı politikalarına entegre edilmesi, OECD belgesinin önerilerinin Türkiye'deki karşılığı olacaktır. Türkiye'de 6360 sayılı Kanun sonrası büyükşehir belediyelerinin yetki alanlarının genişlemesi, çocuk dostu kent politikalarının uygulanması için yeni fırsatlar yaratmıştır; belediyelerin stratejik planlarında çocuk dostu mahalle hedeflerine yer vermesi, bu belgenin önerilerinin hayata geçirilmesinde ilk adım olacaktır. Ayrıca, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın kentsel tasarım rehberlerinin çocuk dostu ilkelerle güncellenmesi ve yerel yönetimlerin veriye dayalı karar alma kapasitesinin güçlendirilmesi önerilmektedir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
+- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]
+- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]

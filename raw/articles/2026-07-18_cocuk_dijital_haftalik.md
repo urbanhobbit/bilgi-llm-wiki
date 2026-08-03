@@ -551,3 +551,32 @@ Bu haftalık bültende aşağıdaki kaynaklardan yararlanılmıştır:
 
 ---
 *KURATOR: Çocuklar ve Dijital Dünya haftalık bülteni, yapay zeka destekli küratörlük sistemiyle hazırlanmıştır. Kaynakların doğruluğu ve güncelliği için orijinal yayınlara başvurulması önerilir.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/pew-research-center.md|Pew Research Center]]
+- [[entities/techcrunch-com.md|TechCrunch]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-mollyrosefoundation-org.md|Molly Rose Foundation]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

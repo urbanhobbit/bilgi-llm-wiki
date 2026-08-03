@@ -36,3 +36,20 @@ Derek Holliday tarafından SocArXiv'de yayımlanan bu ön baskı (preprint), ABD
 ## Turkey Context
 
 Bu çalışma, duygusal kutuplaşma literatüründe parti değişiminin (churn) agregat eğilimleri nasıl şişirdiğini gösteren önemli bir metodolojik katkıdır ve Türkiye'deki siyasal davranış araştırmaları için doğrudan çıkarımlar içermektedir. Türkiye'de son yirmi yılda parti sadakatinin zayıflaması, seçmen hareketliliğinin artması ve ittifak siyasetinin yaygınlaşması, kutuplaşma ölçümlerinin yorumlanmasında "kimin değiştiği" sorusunu merkeze taşımaktadır. 2018 ve 2023 seçimlerinde Cumhur İttifakı ile Millet İttifakı arasındaki geçişkenlik, sandığa yansıyan sonuçların yanı sıra seçmenlerin partilere yönelik duygusal mesafelerindeki kaymalarla birlikte analiz edilmelidir; Holliday'in panel veri ayrıştırma yöntemi, Türkiye'de KONDA, MetroPOLL ve diğer araştırma şirketlerinin panel verilerine uygulanabilecek güçlü bir çerçeve sunmaktadır. Türkiye'de duygusal kutuplaşmanın yükselişi, özellikle sosyal medya ekolojisinin etkisiyle 2016 sonrası dönemde belirginleşmiş; Twitter/X ve WhatsApp gruplarında partizan kimliklerin duygusal olarak güçlendiği gözlemlenmiştir. Bu bağlamda, çalışmanın "sabit partizan düşmanlığının agregat trendlerden daha yüksek olduğu" bulgusu, Türkiye'deki kamuoyu tartışmalarında sıklıkla dile getirilen "toplum kutuplaştı" söyleminin ölçümlemesi açısından da önemlidir. 6698 sayılı KVKK çerçevesinde panel verilerinin uzun süreli işlenmesi ve kişisel siyasi görüş verilerinin özel nitelikli veri statüsü, Türkiye'de bu tür araştırmaların etik kurul onayı ve açık rıza şartlarına tabi olmasını gerektirmektedir. TÜİK ve YÖK'ün sosyal bilimlerde veri paylaşımı ve tekrarlanabilirlik konusundaki son girişimleri, panel veri setlerinin erişilebilirliğini artırabilir. Sonuç olarak, bu preprint Türkiye'deki kutuplaşma araştırmalarına hem yöntemsel hem kavramsal düzeyde katkı sunmakta; depolarizasyon politikalarının seçmen hareketliliği gerçeğini dikkate alarak tasarlanması gerektiğini hatırlatmaktadır. Türkiye'de siyasi partilerin seçmen tabanlarındaki hareketlilik, özellikle ittifak siyasetinin etkisiyle son seçimlerde belirgin biçimde artmıştır. Bu çalışmanın ayrıştırma yöntemi, Türkiye'deki duygusal kutuplaşma tartışmalarına ampirik bir katkı sunabilecek niteliktedir; yerel araştırma verileriyle uygulanması, Türkiye'deki kutuplaşmanın kaynaklarını anlamak için değerli olacaktır. Türkiye'de duygusal kutuplaşma üzerine yapılan araştırmalar, genellikle kesitsel anket verilerine dayanmakta; panel veri kullanan çalışmaların sayısı oldukça azdır. Holliday'in yönteminin Türkiye'ye uyarlanması, araştırma kurumlarının uzun vadeli panel veri setleri oluşturmasını gerektirmektedir; bu da hem maliyet hem veri koruma açısından yeni düzenlemeleri beraberinde getirecektir. Ayrıca, Türkiye'de siyasi partilerin seçmen kitlelerindeki geçişkenliğin ittifak yapılarıyla ilişkisi, bu modelin test edebileceği zengin bir araştırma sorusu sunmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-07-24_argentina-ideological-affective-polarization.md|Ideological and Affective Polarization in Argentin]]
+- [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md|Ideological and Affective Polarization in Argentin]]
+- [[raw/articles/2026-07-31_changing-partisanship-contributes-significantly-to.md|Changing Partisanship Contributes Significantly to]]

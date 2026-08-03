@@ -74,3 +74,15 @@ Bu haftaki akademik derleme kapsamında **5 makale** taranmıştır. Tarama, ba�
 ---
 
 *Bu bülten, 2026-07-18 tarihli haftalık tarama verileri kullanılarak otomatik olarak oluşturulmuştur. Kaynak: /tmp/weekly_consolidated.json*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

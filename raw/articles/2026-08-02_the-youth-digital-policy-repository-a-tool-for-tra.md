@@ -35,3 +35,20 @@ Samantha L. Vigil, Matthew Shawcroft, Drew P. Cingel, Sarah M. Coyne, Sonia Livi
 ## Turkey Context
 
 Bu makale, Türkiye'de çocukları hedef alan dijital medya düzenlemelerinin hızla arttığı bir dönemde, mevzuat takibi için açık ve yapılandırılmış bir araç önerisi sunması açısından önem taşımaktadır. Türkiye'de son yıllarda çocukların çevrimiçi ortamlarını düzenleyen çok sayıda girişim hayata geçirilmiştir: BTK'nın Güvenli İnternet Hizmeti ve ailelerin talebiyle uygulanan filtreleme sistemleri, 5651 sayılı Kanun kapsamında zararlı içeriklere erişimin engellenmesi, KVKK'nın çocukların kişisel verilerine ilişkin özel koruma hükümleri ve son dönemde sosyal medya platformlarına yönelik yaş doğrulama tartışmaları bunlar arasındadır. 2025 yılında BTK'nın sosyal medya kullanımında yaş sınırı ve ebeveyn onayı mekanizmalarına ilişkin açıklamaları, Türkiye'nin ABD'deki eyalet düzeyindeki düzenleme dalgasına benzer bir yönelim içinde olduğunu göstermektedir. Ancak bu düzenlemelerin dağınık biçimde farklı kurumlar (BTK, KVKK, MEB, Aile ve Sosyal Hizmetler Bakanlığı, RTÜK) arasında dağılması, YDPR gibi birleşik bir takip aracının Türkiye bağlamında da değerli olabileceğini düşündürmektedir. MEB'in 2024'te müfredata eklediği Dijital Vatandaşlık ve Etik dersi ile Aile ve Sosyal Hizmetler Bakanlığı'nın Dijital Ebeveynlik eğitimleri, okul ve aile düzeyindeki müdahaleleri; TÜİK'in hanehalkı bilişim teknolojileri kullanım araştırmaları ise çocukların internete erişim istatistiklerini ortaya koymaktadır. UNICEF Türkiye'nin çocukların çevrimiçi güvenliğine ilişkin raporları, Türkiye'de çocukların çevrimiçi risklerle karşılaşma oranlarının uluslararası ortalamaların üzerinde olduğuna işaret etmektedir. Bu bağlamda, Türkiye'de akademisyenler, sivil toplum kuruluşları (örneğin ÇİGD - Çocuk ve Gençlik Dijital Güvenlik Derneği) ve kamu kurumlarının ortak bir mevzuat takip platformu oluşturması, kanıta dayalı politika yapımını güçlendirecektir. Ayrıca AB Dijital Hizmetler Yasası (DSA) ile uyum süreci, Türkiye'nin yaşa uygun tasarım (age appropriate design) ilkelerini benimsemesini gerektirmekte; bu makalenin önerdiği taksonomi, Türkiye'nin kendi düzenleme haritasını AB standartlarıyla karşılaştırmasına yardımcı olabilir. Türkiye'de çocukların çevrimiçi ortamlarını düzenleyen mevzuatın kurumlar arasında dağınık olması, YDPR gibi birleşik takip araçlarının Türkçe versiyonunun geliştirilmesini gerekli kılmaktadır. BTK, KVKK ve MEB'in ortak bir mevzuat veritabanı oluşturması, hem araştırmacılar hem de politika yapıcılar için büyük kolaylık sağlayacaktır. Ayrıca, Türkiye'de çocuk hakları alanında çalışan akademisyenlerin ve sivil toplumun bu tür araçlara erişimi, uluslararası karşılaştırmalı araştırmaları kolaylaştıracak; Türkiye'nin düzenleyici yaklaşımının ABD, AB ülkeleri ve diğer gelişmekte olan ülkelerle karşılaştırılmasına olanak tanıyacaktır. Bu karşılaştırmalar, Türkiye'nin çocuk odaklı dijital politika alanındaki konumunu netleştirecek ve iyi uygulama örneklerinin yerel bağlama uyarlanmasını hızlandıracaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
+- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]
+- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]

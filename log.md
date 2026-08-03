@@ -296,3 +296,8 @@
 - Source files: 2026-08-03_family-school-partnership-attendance.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-03_international-youth-day-webinar-meaningful-child-a.md]] — International Youth Day webinar: meaningful child and youth participation (Child and Youth Friendly Governance Project)
+- Source files: 2026-08-03_child-youth-friendly-governance-webinar.json
+- Agent: OKF Ingestion Pipeline
+

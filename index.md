@@ -201,4 +201,5 @@
 - [[raw/articles/2026-08-02_building-child-friendly-neighbourhoods-empowering-.md|Building child-friendly neighbourhoods: Empowering communities with data-driven action]]
 - [[raw/articles/2026-07_enhancing-adolescent-social-and-emotional-well-bei.md|Enhancing adolescent social and emotional well-being]]
 - [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve student attendance: A systematic review]]
+- [[raw/articles/2026-08-03_international-youth-day-webinar-meaningful-child-a.md|International Youth Day webinar: meaningful child and youth participation (Child and Youth Friendly Governance Project)]]
 
