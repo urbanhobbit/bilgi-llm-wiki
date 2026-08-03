@@ -286,3 +286,8 @@
 - Source files: 2026-08-03_oecd-adolescent-social-emotional-wellbeing.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md]] — Family–school partnership initiatives to improve student attendance: A systematic review
+- Source files: 2026-08-03_family-school-partnership-attendance.json
+- Agent: OKF Ingestion Pipeline
+
