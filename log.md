@@ -1,3 +1,8 @@
+## [2026-08-03] ingest | Haftalık Bülten Entegrasyonu (Hafta 32/2026)
+- Raw: [[raw/articles/2026-08-03_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 32/2026)
+- Topics: Australia under-16 ban 3-month eSafety report (80%+ teens still on social media, age assurance not enforced, penalties doubled), Turkey 15-under social media ban law in force (Resmi Gazete 2026-05-01, Sosyal Hizmetler Kanunu, age verification + parental controls + game platforms), Austria under-14 ban agreement (SPÖ/ÖVP/NEOS, EU-level age limit goal), AI-CSAM legal battle (SpaceXAI/Stability AI class action expanded, UNICEF 'deepfake abuse is abuse', UN escalating AI threats), Child-fit security paradigm (arXiv 2606.17957), UK OSA privacy risk study (arXiv 2606.05273), CAREBench child-safety benchmark (500 prompts/12 categories), EU CSAR voluntary detection position, OECD adolescent social-emotional wellbeing, UNESCO Growing Up in a Connected World family guide, California school phone limits, YDPR youth digital policy repository
+- Agent: KURATOR Weekly Bulletin Cronjob
+
 ## [2026-08-01] ingest | Haftalık Bülten Entegrasyonu (Hafta 31/2026)
 - Raw: [[raw/articles/2026-08-01_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 31/2026)
 - Raw: [[raw/articles/2026-08-01_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-08-01)
