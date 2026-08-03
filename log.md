@@ -306,3 +306,8 @@
 - Source files: 2026-08-03_public-support-democracy-backsliding.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-03_un-global-principles-for-information-integrity-a-h.md]] — UN Global Principles for Information Integrity: a humane information ecosystem (United Nations)
+- Source files: 2026-08-03_un-information-integrity-principles.json
+- Agent: OKF Ingestion Pipeline
+
