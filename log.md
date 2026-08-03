@@ -321,3 +321,8 @@
 - Source files: 2026-08-03_gui-early-social-media-school-outcomes.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md]] — Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society
+- Source files: 2026-08-03_baier-narratives-post-truth.json
+- Agent: OKF Ingestion Pipeline
+

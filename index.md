@@ -206,4 +206,5 @@
 - [[raw/articles/2026-08-03_un-global-principles-for-information-integrity-a-h.md|UN Global Principles for Information Integrity: a humane information ecosystem (United Nations)]]
 - [[raw/articles/2026-07_the-china-backlash-quantifying-the-narrative-disco.md|The China Backlash: Quantifying the Narrative Discourse on China]]
 - [[raw/articles/2026-08-03_longitudinal-effect-of-early-social-media-use-on-s.md|Longitudinal effect of early social media use on standardized learning outcomes during school career]]
+- [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society]]
 
