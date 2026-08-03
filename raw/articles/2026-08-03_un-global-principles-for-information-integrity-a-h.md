@@ -41,4 +41,4 @@ Birleşmiş Milletler Cenevre Ofisi'nin (@UNGeneva) X paylaşımıyla öne çık
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+
