@@ -205,4 +205,5 @@
 - [[raw/articles/2026-07-24_public-support-for-democracy-and-different-pattern.md|Public support for democracy and different patterns of democratic backsliding]]
 - [[raw/articles/2026-08-03_un-global-principles-for-information-integrity-a-h.md|UN Global Principles for Information Integrity: a humane information ecosystem (United Nations)]]
 - [[raw/articles/2026-07_the-china-backlash-quantifying-the-narrative-disco.md|The China Backlash: Quantifying the Narrative Discourse on China]]
+- [[raw/articles/2026-08-03_longitudinal-effect-of-early-social-media-use-on-s.md|Longitudinal effect of early social media use on standardized learning outcomes during school career]]
 

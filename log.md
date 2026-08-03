@@ -316,3 +316,8 @@
 - Source files: 2026-08-03_china-backlash-narrative-discourse.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-03_longitudinal-effect-of-early-social-media-use-on-s.md]] — Longitudinal effect of early social media use on standardized learning outcomes during school career
+- Source files: 2026-08-03_gui-early-social-media-school-outcomes.json
+- Agent: OKF Ingestion Pipeline
+
