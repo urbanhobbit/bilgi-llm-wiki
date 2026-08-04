@@ -326,3 +326,8 @@
 - Source files: 2026-08-03_baier-narratives-post-truth.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01-20_electoral-campaigns-and-news-polarization-luis-men.md]] — Electoral Campaigns and News Polarization (Luis Menéndez, Job Market Paper)
+- Source files: 2026-08-03_menendez-electoral-campaigns-news-polarization.json
+- Agent: OKF Ingestion Pipeline
+
