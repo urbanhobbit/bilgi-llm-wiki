@@ -331,3 +331,8 @@
 - Source files: 2026-08-03_menendez-electoral-campaigns-news-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-07_european-parliament-adopts-resolution-on-a-new-str.md]] — European Parliament adopts resolution on a new strategy for media literacy and digital learning (EDMO)
+- Source files: 2026-08-03_ep-media-literacy-resolution.json
+- Agent: OKF Ingestion Pipeline
+

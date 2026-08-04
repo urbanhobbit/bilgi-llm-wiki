@@ -208,4 +208,5 @@
 - [[raw/articles/2026-08-03_longitudinal-effect-of-early-social-media-use-on-s.md|Longitudinal effect of early social media use on standardized learning outcomes during school career]]
 - [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society]]
 - [[raw/articles/2026-01-20_electoral-campaigns-and-news-polarization-luis-men.md|Electoral Campaigns and News Polarization (Luis Menéndez, Job Market Paper)]]
+- [[raw/articles/2026-07-07_european-parliament-adopts-resolution-on-a-new-str.md|European Parliament adopts resolution on a new strategy for media literacy and digital learning (EDMO)]]
 
