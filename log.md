@@ -336,3 +336,8 @@
 - Source files: 2026-08-03_ep-media-literacy-resolution.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-01_modelling-and-classifying-the-components-of-litera.md]] — Modelling and classifying the components of literature reviews: a novel annotation schema and evaluation of transformer models
+- Source files: 2026-08-03_bolanos-litreview-components.json
+- Agent: OKF Ingestion Pipeline
+
