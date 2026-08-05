@@ -39,4 +39,3 @@ PeerJ Computer Science, Temmuz 2026 — Francisco Bolanos-Burgos, Angelo A. Sala
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
