@@ -13,7 +13,12 @@ source_file: 2026-08-03_oecd-adolescent-social-emotional-wellbeing.json
 category: KURATOR
 priority: high
 published: 2026-07
+roles:
+- gap
+- result
+- policy
 ---
+
 
 # Enhancing adolescent social and emotional well-being
 
@@ -33,6 +38,12 @@ OECD Papers on Well-being and Inequalities No. 40 (OECD WISE Centre, Temmuz 2026
 - Normlar ve stereotipler kız/erkek refah çıktılarını farklı şekilde şekillendiriyor — cinsiyete özel politika yaklaşımı savunuluyor
 - Aile, okul, mahalle ve dijital alanlar: destekleyici ortamlar koruyucu faktör olarak öne çıkıyor
 - Çok alanlı (multi-setting) refah çerçevesi — dijital çocuk güvenliği literatürüne politika düzeyinde tamamlayıcı
+
+## 🏷 Retorik Roller
+
+- 🔍 **Araştırma Boşluğu**
+- 📊 **Bulgular**
+- 🏛 **Politika Önerisi**
 
 ---
 

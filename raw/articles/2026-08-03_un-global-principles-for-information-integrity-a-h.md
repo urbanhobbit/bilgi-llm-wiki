@@ -14,7 +14,10 @@ source_file: 2026-08-03_un-information-integrity-principles.json
 category: KURATOR
 priority: high
 published: '2026-08-03'
+roles:
+- policy
 ---
+
 
 # UN Global Principles for Information Integrity: a humane information ecosystem (United Nations)
 
@@ -33,6 +36,10 @@ Birleşmiş Milletler Cenevre Ofisi'nin (@UNGeneva) X paylaşımıyla öne çık
 - Bilgi ekosistemi riskleri: misinformation/dezenformasyon/nefret söylemi — hacim, hız, viralite; AI kaynaklı yeni riskler
 - 'From Principles to Practice': Issue Brief 1 & 2 PDF'leri — ilkelerden uygulamaya geçiş
 - Koordineli uluslararası eylem çağrısı — dezenformasyon kümelerine küresel politika çerçevesi
+
+## 🏷 Retorik Roller
+
+- 🏛 **Politika Önerisi**
 
 ---
 

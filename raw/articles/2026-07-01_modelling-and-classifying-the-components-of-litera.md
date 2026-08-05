@@ -14,7 +14,11 @@ source_file: 2026-08-03_bolanos-litreview-components.json
 category: KURATOR
 priority: high
 published: '2026-07-01'
+roles:
+- method
+- result
 ---
+
 
 # Modelling and classifying the components of literature reviews: a novel annotation schema and evaluation of transformer models
 
@@ -34,6 +38,11 @@ PeerJ Computer Science, Temmuz 2026 — Francisco Bolanos-Burgos, Angelo A. Sala
 - Katkı 2: retorik rol sınıflandırmada LLM/transformer modellerinin kapsamlı değerlendirmesi
 - Benchmark: Sci-Sentence — 700 uzman etiketli + 2.240 otomatik etiketli cümle
 - Literatür taraması otomasyonu + araştırma boşluğu tespiti için uygulanabilir çerçeve
+
+## 🏷 Retorik Roller
+
+- 🧩 **Yöntem**
+- 📊 **Bulgular**
 
 ---
 

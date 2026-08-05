@@ -13,7 +13,11 @@ source_file: 2026-08-03_public-support-democracy-backsliding.json
 category: KURATOR
 priority: high
 published: '2026-07-24'
+roles:
+- gap
+- result
 ---
+
 
 # Public support for democracy and different patterns of democratic backsliding
 
@@ -32,6 +36,11 @@ Democratization (Taylor & Francis) dergisinde 24 Temmuz 2026'da çevrimiçi yay�
 - Kademeli/erken aşınma (executive-led erosion) vs. ani rejim kırılması: halk desteği rejim yörüngesini nasıl koşullandırıyor?
 - Demokratik gerileme literatürü: halk desteği 'sigorta' mı yoksa 'sessiz onay' mı?
 - demokratik-erozyon kavramına doğrudan bağlanacak; Türkiye dahil gerileme vakaları için kuramsal çerçeve
+
+## 🏷 Retorik Roller
+
+- 🔍 **Araştırma Boşluğu**
+- 📊 **Bulgular**
 
 ---
 

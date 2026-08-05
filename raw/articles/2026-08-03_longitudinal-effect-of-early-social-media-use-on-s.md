@@ -14,7 +14,11 @@ source_file: 2026-08-03_gui-early-social-media-school-outcomes.json
 category: KURATOR
 priority: high
 published: '2026-08-03'
+roles:
+- method
+- result
 ---
+
 
 # Longitudinal effect of early social media use on standardized learning outcomes during school career
 
@@ -34,6 +38,11 @@ Nature Human Behaviour, 3 Ağustos 2026 — Marco Gui, Chiara Respi, Giovanni Ab
 - 6-8. sınıfta (11-14 yaş) sosyal medya hesabı açanlar vs. 9. sınıf+ geç benimseyenler: erken kullanım öğrenme çıktılarını olumsuz etkiliyor
 - Medyatör: günün kilit anlarında akıllı telefon yaygınlığı (smartphone pervasiveness) — negatif etkinin önemli kısmını açıklıyor
 - Sosyal medya yaş sınırı tartışmalarına nedensel kanıt — ekran süresi ve genç akademik çıktıları kümesine doğrudan katkı
+
+## 🏷 Retorik Roller
+
+- 🧩 **Yöntem**
+- 📊 **Bulgular**
 
 ---
 

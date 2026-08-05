@@ -13,7 +13,11 @@ source_file: 2026-08-03_menendez-electoral-campaigns-news-polarization.json
 category: KURATOR
 priority: high
 published: '2026-01-20'
+roles:
+- method
+- result
 ---
+
 
 # Electoral Campaigns and News Polarization (Luis Menéndez, Job Market Paper)
 
@@ -33,6 +37,11 @@ The Economic Misfit blogunda (20 Ocak 2026) yayımlanan 'Job Market Paper Insigh
 - Talep: audience meter verileri; arz: 32.000+ haber ajansı hikayesi — arz ve talep ayrı ayrı tanımlanıyor (discrete-choice modeli)
 - Spanish Media Monitor projesi: kanallar arası siyasal kapsam karşılaştırma, zaman içinde yanlılık takibi
 - Medya kutuplaşması + ölçüm metodolojisi kümelerine doğrudan katkı (Edelman: İspanya 2023'te dünyanın en kutuplaşmış 5 ülkesinden biri)
+
+## 🏷 Retorik Roller
+
+- 🧩 **Yöntem**
+- 📊 **Bulgular**
 
 ---
 

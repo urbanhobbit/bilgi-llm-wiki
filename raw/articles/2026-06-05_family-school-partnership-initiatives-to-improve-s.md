@@ -14,7 +14,11 @@ source_file: 2026-08-03_family-school-partnership-attendance.json
 category: KURATOR
 priority: medium
 published: '2026-06-05'
+roles:
+- method
+- result
 ---
+
 
 # Family–school partnership initiatives to improve student attendance: A systematic review
 
@@ -34,6 +38,11 @@ Review of Education (BERA) 14(2), 2026 — University of Queensland (School of E
 - Devamsızlık çok düzeyli: birey, aile, okul ve topluluk alanlarındaki faktörler
 - Aile-okul-topluluk ortaklıklarının öğrenci devamı üzerindeki etkisi
 - Okul devamsızlığı → eğitim eşitsizliği bağlantısı; aile katılımı kanıt sentezi
+
+## 🏷 Retorik Roller
+
+- 🧩 **Yöntem**
+- 📊 **Bulgular**
 
 ---
 

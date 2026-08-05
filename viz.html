@@ -27,6 +27,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;overflow
 #info .srcs b{display:block;color:#e2e8f0;font-size:11px;margin-bottom:2px}
 #info .srcs ul{margin:4px 0 0;padding-left:16px}
 #info .srcs li{margin:2px 0;line-height:1.4}
+#info .roles{margin:8px 0}
+#info .roles span{display:inline-block;background:#1e293b;border:1px solid #334155;border-radius:10px;padding:2px 8px;font-size:11px;color:#e2e8f0;margin:2px 4px 2px 0}
 #info .close{float:right;cursor:pointer;color:#64748b;font-size:18px;line-height:1}
 .legend{position:fixed;left:20px;bottom:20px;background:#1e293b;border:1px solid #334155;border-radius:6px;padding:8px 12px;font-size:11px;z-index:50}
 .legend .r{display:flex;align-items:center;gap:6px;padding:2px 0}
@@ -102,6 +104,11 @@ function showInfo(node) {
   if (d.description) h += '<div class="desc">' + esc(d.description) + '</div>';
   if (body) h += '<div class="body">' + esc(body) + '</div>';
   if (tags) h += '<div class="tags">' + tags + '</div>';
+  var ROLE_META = {'gap':['🔍','Araştırma Boşluğu'],'result':['📊','Bulgular'],'limitation':['⚠️','Sınırlılıklar'],'method':['🧩','Yöntem'],'policy':['🏛','Politika Önerisi']};
+  var roles = d.roles || [];
+  if (roles.length) {
+    h += '<div class="roles">' + roles.map(function(r) { var m = ROLE_META[r]; return m ? '<span>' + m[0] + ' ' + m[1] + '</span>' : ''; }).join('') + '</div>';
+  }
   var srcs = d.sources || [];
   if (srcs.length) {
     h += '<div class="srcs"><b>📚 Kaynaklar</b><ul>' + srcs.map(function(s) { return '<li>' + esc(s) + '</li>'; }).join('') + '</ul></div>';

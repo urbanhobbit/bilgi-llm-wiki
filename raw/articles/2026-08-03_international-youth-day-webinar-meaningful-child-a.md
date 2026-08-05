@@ -14,7 +14,10 @@ source_file: 2026-08-03_child-youth-friendly-governance-webinar.json
 category: KURATOR
 priority: medium
 published: '2026-08-03'
+roles:
+- policy
 ---
+
 
 # International Youth Day webinar: meaningful child and youth participation (Child and Youth Friendly Governance Project)
 
@@ -33,6 +36,10 @@ Child and Youth Friendly Governance Project (Cenevre merkezli, childfriendlygove
 - Konu: anlamlı çocuk ve genç katılımı ilkeleri, pratik örnekler, yerel toplulukta nasıl dahil olunur
 - Proje (Cenevre): çocukları/gençleri karar alma merkezine koyan katılım modelleri tasarlıyor, test ediyor, ölçekliyor
 - Etkinlik: 12 Ağustos 17:00–18:00 — çocuk hakları + katılım kümelerine topluluk/gönüllülük boyutu
+
+## 🏷 Retorik Roller
+
+- 🏛 **Politika Önerisi**
 
 ---
 

@@ -13,7 +13,11 @@ source_file: 2026-08-03_china-backlash-narrative-discourse.json
 category: KURATOR
 priority: high
 published: 2026-07
+roles:
+- method
+- result
 ---
+
 
 # The China Backlash: Quantifying the Narrative Discourse on China
 
@@ -33,6 +37,11 @@ NBER Working Paper 35539 (Temmuz 2026) — Mert Geyiktepe & Dani Rodrik (Harvard
 - Kongre/medya/sosyal medya/think tank negatifliği 2000'ler öncesine dek kalıcı: 'her yerde kötüleşme değil, başkanlık duygusunun yakınsaması'
 - Anlatı difüzyonu aşağıdan-yukarı (bottom-up): başkanlık liderliği ulusal anlatı tonunu belirlemiyor
 - Siyasal iletişim + duygu ölçümü metodolojisi — medya etkileri literatürüne nicel katkı
+
+## 🏷 Retorik Roller
+
+- 🧩 **Yöntem**
+- 📊 **Bulgular**
 
 ---
 

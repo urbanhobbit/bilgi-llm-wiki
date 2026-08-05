@@ -13,7 +13,11 @@ source_file: 2026-08-03_baier-narratives-post-truth.json
 category: KURATOR
 priority: high
 published: 2024-01
+roles:
+- gap
+- method
 ---
+
 
 # Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society
 
@@ -32,6 +36,11 @@ Theory, Culture & Society (SAGE) 41(1): 95-110, 2024 — Christian Baier. Post-t
 - Kuramsal çerçeve: Jean-François Lyotard ve 'küçük anlatı' (small narrative) kavramı
 - Vaka: Donald Trump'ın MAGA hareketi = post-truth siyaset örneği; popülizm yükselişi; epistemik parçalanma
 - Dezenformasyon + popülizm kümelerine Lyotard'cı kuramsal katkı
+
+## 🏷 Retorik Roller
+
+- 🔍 **Araştırma Boşluğu**
+- 🧩 **Yöntem**
 
 ---
 

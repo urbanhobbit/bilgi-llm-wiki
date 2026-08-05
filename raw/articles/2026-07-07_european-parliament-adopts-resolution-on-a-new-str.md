@@ -14,7 +14,10 @@ source_file: 2026-08-03_ep-media-literacy-resolution.json
 category: KURATOR
 priority: high
 published: '2026-07-07'
+roles:
+- policy
 ---
+
 
 # European Parliament adopts resolution on a new strategy for media literacy and digital learning (EDMO)
 
@@ -34,6 +37,10 @@ EDMO (European Digital Media Observatory) LinkedIn duyurusu. 7 Temmuz 2026'da Av
 - Öncelik 2: güçlü dijital ve yapay zeka okuryazarlığı — algoritma anlama, AI üretimi içerik tanıma, çevrimiçi risk yönetimi
 - Öncelik 3: paydaşlar arası daha yakın işbirliği; raportör: MEP Marcos Ros Sempere
 - Medya okuryazarlığı politikası kümelerine AB düzeyinde güncel çerçeve — Türkiye müfredat tartışmalarına referans
+
+## 🏷 Retorik Roller
+
+- 🏛 **Politika Önerisi**
 
 ---
 
