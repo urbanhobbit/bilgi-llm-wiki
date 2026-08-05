@@ -49,4 +49,4 @@ Royal Society Open Science 13(8), 5 Ağustos 2026 — Mitchell Linegar, Betsy Si
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+
