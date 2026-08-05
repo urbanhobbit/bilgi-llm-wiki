@@ -341,3 +341,8 @@
 - Source files: 2026-08-03_bolanos-litreview-components.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-05_towards-scalable-ai-assisted-pre-bunking-of-electi.md]] — Towards scalable AI-assisted pre-bunking of election misinformation: evidence from a pre-registered US panel experiment
+- Source files: 2026-08-03_linegar-ai-prebunking.json
+- Agent: OKF Ingestion Pipeline
+
