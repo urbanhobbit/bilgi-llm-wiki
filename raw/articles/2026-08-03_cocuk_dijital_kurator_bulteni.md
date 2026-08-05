@@ -390,3 +390,35 @@ Bu haftaki kaynaklar, çocukların dijital ortamda korunmasına yönelik düzenl
 - **Upstream Risk:** Zararın gerçekleşmesinden önceki aşamalarda ortaya çıkan risk; CAREBench'in odaklandığı çocuk güvenliği riskleri.
 - **Weak Supervision / Zayıf Denetim:** Büyük ölçekli manuel etiketleme olmadan, gürültülü etiketleme fonksiyonlarını birleştirerek veri etiketleme yöntemi.
 - **YDPR (Youth Digital Policy Repository):** Çocuklara yönelik dijital medya mevzuatını küresel ölçekte izleyen arama yapılabilir veri tabanı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/bianet-org.md|Bianet]]
+- [[entities/esafety-commissioner.md|eSafety Commissioner (Avustralya)]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-reuters-com.md|Reuters]]
