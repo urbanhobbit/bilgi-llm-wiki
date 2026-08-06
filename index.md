@@ -211,4 +211,5 @@
 - [[raw/articles/2026-07-07_european-parliament-adopts-resolution-on-a-new-str.md|European Parliament adopts resolution on a new strategy for media literacy and digital learning (EDMO)]]
 - [[raw/articles/2026-07-01_modelling-and-classifying-the-components-of-litera.md|Modelling and classifying the components of literature reviews: a novel annotation schema and evaluation of transformer models]]
 - [[raw/articles/2026-08-05_towards-scalable-ai-assisted-pre-bunking-of-electi.md|Towards scalable AI-assisted pre-bunking of election misinformation: evidence from a pre-registered US panel experiment]]
+- [[raw/articles/2026-05-27_media-literacy-education-policy-in-finland-2026-na.md|Media Literacy Education Policy in Finland (2026) — National Media Education Policy]]
 

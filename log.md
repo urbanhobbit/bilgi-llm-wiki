@@ -346,3 +346,8 @@
 - Source files: 2026-08-03_linegar-ai-prebunking.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-05-27_media-literacy-education-policy-in-finland-2026-na.md]] — Media Literacy Education Policy in Finland (2026) — National Media Education Policy
+- Source files: 2026-08-06_finland-media-literacy-policy.json
+- Agent: OKF Ingestion Pipeline
+

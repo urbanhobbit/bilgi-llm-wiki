@@ -19,7 +19,6 @@ roles:
 - result
 ---
 
-
 # Modelling and classifying the components of literature reviews: a novel annotation schema and evaluation of transformer models
 
 **Published:** 2026-07-01
@@ -48,3 +47,15 @@ PeerJ Computer Science, Temmuz 2026 — Francisco Bolanos-Burgos, Angelo A. Sala
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemi]]
+- [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
+- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
+- [[raw/articles/2026-07-24_public-support-for-democracy-and-different-pattern.md|Public support for democracy and different pattern]]
+- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
