@@ -351,3 +351,8 @@
 - Source files: 2026-08-06_finland-media-literacy-policy.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07_validity-and-reliability-study-of-digital-addictio.md]] — Validity and Reliability Study of Digital Addiction Scale for the Turkish Youth (DASY)
+- Source files: 2026-08-06_dasy-digital-addiction-scale-youth.json
+- Agent: OKF Ingestion Pipeline
+
