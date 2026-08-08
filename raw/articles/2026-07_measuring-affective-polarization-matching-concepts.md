@@ -52,4 +52,3 @@ Advances in Political Psychology (Political Psychology) 47(Suppl. 1):e70152, 202
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
