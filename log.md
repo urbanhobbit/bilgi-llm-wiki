@@ -366,3 +366,8 @@
 - Source files: 2026-08-08_druckman-affective-polarization-measures.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-09-16_the-effect-of-real-news-party-cues.md]] — The effect of real-news party cues
+- Source files: 2026-08-08_skytte-real-news-party-cues.json
+- Agent: OKF Ingestion Pipeline
+
