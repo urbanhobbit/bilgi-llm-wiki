@@ -214,4 +214,5 @@
 - [[raw/articles/2026-05-27_media-literacy-education-policy-in-finland-2026-na.md|Media Literacy Education Policy in Finland (2026) — National Media Education Policy]]
 - [[raw/articles/2026-07_validity-and-reliability-study-of-digital-addictio.md|Validity and Reliability Study of Digital Addiction Scale for the Turkish Youth (DASY)]]
 - [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md|Generative grounded theory (GGT): Inductive theory building in the age of generative AI]]
+- [[raw/articles/2026-07_measuring-affective-polarization-matching-concepts.md|Measuring affective polarization: Matching concepts to measures]]
 

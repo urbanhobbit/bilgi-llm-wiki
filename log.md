@@ -361,3 +361,8 @@
 - Source files: 2026-08-08_ggt-generative-grounded-theory.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07_measuring-affective-polarization-matching-concepts.md]] — Measuring affective polarization: Matching concepts to measures
+- Source files: 2026-08-08_druckman-affective-polarization-measures.json
+- Agent: OKF Ingestion Pipeline
+
