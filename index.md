@@ -218,4 +218,6 @@
 - [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md|Generative grounded theory (GGT): Inductive theory building in the age of generative AI]]
 - [[raw/articles/2026-07_measuring-affective-polarization-matching-concepts.md|Measuring affective polarization: Matching concepts to measures]]
 - [[raw/articles/2025-09-16_the-effect-of-real-news-party-cues.md|The effect of real-news party cues]]
+- [[raw/articles/2026-07_the-effect-of-real-news-party-cues.md|The effect of real-news party cues]]
+- [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md|Shooting the Messenger: The Polarizing Effects of Political Attacks on the Press]]
 

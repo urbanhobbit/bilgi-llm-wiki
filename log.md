@@ -380,3 +380,9 @@
 - Source files: 2026-08-08_skytte-real-news-party-cues.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07_the-effect-of-real-news-party-cues.md]] — The effect of real-news party cues
+- Raw: [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md]] — Shooting the Messenger: The Polarizing Effects of Political Attacks on the Press
+- Source files: 2026-08-08_121505_ingestion.json, 2026-08-08_siegel-weiss-shooting-messenger.json
+- Agent: OKF Ingestion Pipeline
+
