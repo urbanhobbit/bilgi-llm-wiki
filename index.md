@@ -213,4 +213,5 @@
 - [[raw/articles/2026-08-05_towards-scalable-ai-assisted-pre-bunking-of-electi.md|Towards scalable AI-assisted pre-bunking of election misinformation: evidence from a pre-registered US panel experiment]]
 - [[raw/articles/2026-05-27_media-literacy-education-policy-in-finland-2026-na.md|Media Literacy Education Policy in Finland (2026) — National Media Education Policy]]
 - [[raw/articles/2026-07_validity-and-reliability-study-of-digital-addictio.md|Validity and Reliability Study of Digital Addiction Scale for the Turkish Youth (DASY)]]
+- [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md|Generative grounded theory (GGT): Inductive theory building in the age of generative AI]]
 

@@ -356,3 +356,8 @@
 - Source files: 2026-08-06_dasy-digital-addiction-scale-youth.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md]] — Generative grounded theory (GGT): Inductive theory building in the age of generative AI
+- Source files: 2026-08-08_ggt-generative-grounded-theory.json
+- Agent: OKF Ingestion Pipeline
+
