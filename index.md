@@ -45,6 +45,8 @@
 
 ## Raw Articles
 
+- [[raw/articles/2026-08-08_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 32/2026)]]
+- [[raw/articles/2026-08-08_akademik_ozel.md|AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-08-08)]]
 - [[raw/articles/2026-08-03_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 32/2026)]]
 - [[raw/articles/2026-08-01_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 31/2026)]]
 - [[raw/articles/2026-08-01_akademik_ozel.md|AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-08-01)]]
