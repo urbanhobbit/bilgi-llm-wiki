@@ -224,3 +224,20 @@ Bu haftanın kaynakları, çocukların dijital dünyasında "kısıtlama" ile "g
 - **MIL (Media and Information Literacy):** Medya ve Bilgi Okuryazarlığı; bilgiye erişim, eleştirel değerlendirme ve etik kullanım becerileri.
 - **Information Integrity / Bilgi Bütünlüğü:** Bilgi ekosisteminin güvenilirliği; BM'nin beş ilkeli küresel çerçevesi.
 - **Kuvi (Finnish Arts and Culture Agency):** Finlandiya'da medya eğitimi koordinasyon ve izleme kurumu (eski KAVI).
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
