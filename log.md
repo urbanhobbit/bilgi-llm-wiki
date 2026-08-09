@@ -386,3 +386,8 @@
 - Source files: 2026-08-08_121505_ingestion.json, 2026-08-08_siegel-weiss-shooting-messenger.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md]] — The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity
+- Source files: 2026-08-08_dias-lelkes-affective-polarization-nature.json
+- Agent: OKF Ingestion Pipeline
+

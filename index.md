@@ -220,4 +220,5 @@
 - [[raw/articles/2025-09-16_the-effect-of-real-news-party-cues.md|The effect of real-news party cues]]
 - [[raw/articles/2026-07_the-effect-of-real-news-party-cues.md|The effect of real-news party cues]]
 - [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md|Shooting the Messenger: The Polarizing Effects of Political Attacks on the Press]]
+- [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity]]
 
