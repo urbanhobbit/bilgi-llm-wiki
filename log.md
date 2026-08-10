@@ -429,3 +429,8 @@
 - Source files: 2026-08-10_ferrara-llm-genai-economic-history-guide.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md]] — Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills
+- Source files: 2026-08-10_rani-ai-misinformation-discernment-skills.json
+- Agent: OKF Ingestion Pipeline
+
