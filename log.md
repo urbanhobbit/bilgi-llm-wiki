@@ -391,3 +391,8 @@
 - Source files: 2026-08-08_dias-lelkes-affective-polarization-nature.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-04_matraix-simulating-the-world-with-8-3-billion-pers.md]] — MatrAIx: Simulating the World with 8.3 Billion Persona Agents
+- Source files: 2026-08-08_matraix-simulated-users.json
+- Agent: OKF Ingestion Pipeline
+
