@@ -229,4 +229,5 @@
 - [[raw/articles/2026-08-10_in-defense-of-qualitative-description-reclaiming-l.md|In defense of qualitative description: reclaiming "little t" theory as a site of knowledge advancement]]
 - [[raw/articles/2026-08-10_matraix-simulating-the-world-with-8-3-billion-pers.md|MatrAIx: Simulating the World with 8.3 Billion Persona Agents]]
 - [[raw/articles/2026-07-01_polarization-and-political-violence-when-polarizat.md|Polarization and Political Violence: When Polarization Turns Violent]]
+- [[raw/articles/2026-08-07_misreading-social-identity-theory-why-affective-po.md|Misreading social identity theory: Why affective-polarisation research got it wrong]]
 

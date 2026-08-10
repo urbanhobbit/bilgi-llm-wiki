@@ -419,3 +419,8 @@
 - Source files: 2026-08-10_kopstein-polarization-political-violence.json, 2026-08-08_categorized_batch4.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-07_misreading-social-identity-theory-why-affective-po.md]] — Misreading social identity theory: Why affective-polarisation research got it wrong
+- Source files: 2026-08-10_yang-misreading-social-identity-theory.json
+- Agent: OKF Ingestion Pipeline
+
