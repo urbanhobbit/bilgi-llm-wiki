@@ -44,3 +44,10 @@ NBER Working Paper 35374, Haziran 2026 (JEL C55, C8, N0) - Andreas Ferrara (Univ
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
