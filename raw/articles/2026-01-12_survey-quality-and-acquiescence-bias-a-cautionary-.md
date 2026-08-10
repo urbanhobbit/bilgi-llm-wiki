@@ -48,3 +48,5 @@ Political Analysis (Cambridge Core), 34(3):471-478, 12 Ocak 2026 - Andres Cruz (
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
