@@ -52,3 +52,5 @@ arXiv:2510.01537 (Ekim 2025) - Anku Rani, Valdemar Danry, Paul Pu Liang, Andrew 
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
