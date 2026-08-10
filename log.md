@@ -406,3 +406,8 @@
 - Source files: 2026-08-08_reynolds-qualitative-description-little-t.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01-12_survey-quality-and-acquiescence-bias-a-cautionary-.md]] — Survey Quality and Acquiescence Bias: A Cautionary Tale
+- Source files: 2026-08-10_cruz-survey-quality-acquiescence-bias.json
+- Agent: OKF Ingestion Pipeline
+
