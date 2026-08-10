@@ -50,3 +50,4 @@ Political Studies Review (SAGE), advance online 7 Agustos 2026 - Jingran Yang. M
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/dis-grup-dusmanligi.md|Dış Grup Düşmanlığı]]
