@@ -46,4 +46,4 @@ Springer International Publishing, Open Access kitap (2019) — Vincent A. W. J.
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
