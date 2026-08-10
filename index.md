@@ -223,4 +223,5 @@
 - [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity]]
 - [[raw/articles/2026-08-04_matraix-simulating-the-world-with-8-3-billion-pers.md|MatrAIx: Simulating the World with 8.3 Billion Persona Agents]]
 - [[raw/articles/2026-08-10_decision-making-under-deep-uncertainty-from-theory.md|Decision Making under Deep Uncertainty: From Theory to Practice]]
+- [[raw/articles/2026-07-17_in-defense-of-qualitative-description-reclaiming-l.md|In defense of qualitative description: reclaiming "little t" theory as a site of knowledge advancement]]
 

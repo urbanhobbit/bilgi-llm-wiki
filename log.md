@@ -401,3 +401,8 @@
 - Source files: 2026-08-08_dmdu-decision-deep-uncertainty.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-17_in-defense-of-qualitative-description-reclaiming-l.md]] — In defense of qualitative description: reclaiming "little t" theory as a site of knowledge advancement
+- Source files: 2026-08-08_reynolds-qualitative-description-little-t.json
+- Agent: OKF Ingestion Pipeline
+
