@@ -424,3 +424,8 @@
 - Source files: 2026-08-10_yang-misreading-social-identity-theory.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod.md]] — A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History
+- Source files: 2026-08-10_ferrara-llm-genai-economic-history-guide.json
+- Agent: OKF Ingestion Pipeline
+

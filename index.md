@@ -230,4 +230,5 @@
 - [[raw/articles/2026-08-10_matraix-simulating-the-world-with-8-3-billion-pers.md|MatrAIx: Simulating the World with 8.3 Billion Persona Agents]]
 - [[raw/articles/2026-07-01_polarization-and-political-violence-when-polarizat.md|Polarization and Political Violence: When Polarization Turns Violent]]
 - [[raw/articles/2026-08-07_misreading-social-identity-theory-why-affective-po.md|Misreading social identity theory: Why affective-polarisation research got it wrong]]
+- [[raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod.md|A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History]]
 
