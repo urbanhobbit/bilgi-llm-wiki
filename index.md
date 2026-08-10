@@ -222,4 +222,5 @@
 - [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md|Shooting the Messenger: The Polarizing Effects of Political Attacks on the Press]]
 - [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity]]
 - [[raw/articles/2026-08-04_matraix-simulating-the-world-with-8-3-billion-pers.md|MatrAIx: Simulating the World with 8.3 Billion Persona Agents]]
+- [[raw/articles/2026-08-10_decision-making-under-deep-uncertainty-from-theory.md|Decision Making under Deep Uncertainty: From Theory to Practice]]
 

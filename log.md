@@ -396,3 +396,8 @@
 - Source files: 2026-08-08_matraix-simulated-users.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-10_decision-making-under-deep-uncertainty-from-theory.md]] — Decision Making under Deep Uncertainty: From Theory to Practice
+- Source files: 2026-08-08_dmdu-decision-deep-uncertainty.json
+- Agent: OKF Ingestion Pipeline
+
