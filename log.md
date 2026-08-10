@@ -411,3 +411,11 @@
 - Source files: 2026-08-10_cruz-survey-quality-acquiescence-bias.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-10_survey-quality-and-acquiescence-bias-a-cautionary-.md]] — Survey Quality and Acquiescence Bias: A Cautionary Tale
+- Raw: [[raw/articles/2026-08-10_in-defense-of-qualitative-description-reclaiming-l.md]] — In defense of qualitative description: reclaiming "little t" theory as a site of knowledge advancement
+- Raw: [[raw/articles/2026-08-10_matraix-simulating-the-world-with-8-3-billion-pers.md]] — MatrAIx: Simulating the World with 8.3 Billion Persona Agents
+- Raw: [[raw/articles/2026-07-01_polarization-and-political-violence-when-polarizat.md]] — Polarization and Political Violence: When Polarization Turns Violent
+- Source files: 2026-08-10_kopstein-polarization-political-violence.json, 2026-08-08_categorized_batch4.json
+- Agent: OKF Ingestion Pipeline
+
