@@ -36,3 +36,25 @@ Political Studies Review (SAGE), advance online 7 Agustos 2026 - Jingran Yang. M
 ## Turkey Context
 
 Yang'ın sosyal kimlik teorisinin 'yanlış okunması' eleştirisi, Türkiye'deki siyaset bilimi ve politik psikoloji çalışmaları için metodolojik açıdan önemli bir uyarı niteliği taşır. Türkiye'de parti kimliği, ideolojik kutuplaşma ve seçmen davranışı üzerine yapılan araştırmalar, çoğunlukla uluslararası literatürdeki affective polarisation ölçümlerini (duygu termometreleri, parti kimliği ölçekleri) doğrudan uyarlamaktadır; Yang'ın gösterdiği gibi bu ölçümlerin davranışsal ayrımcılığı mı yoksa duygusal düşmanlığı mı yakaladığı sorusu, Türkiye bağlamında henüz yeterince tartışılmamıştır. Bu durum, TÜBİTAK destekli projelerde ve üniversitelerin siyaset bilimi bölümlerinde yürütülen saha araştırmalarının ölçüm geçerliliğini doğrudan etkilemektedir. YÖK'ün lisansüstü tezlerde metodoloji eğitimini güçlendirmesi ve kavramsal netliği teşvik etmesi, bu tür teorik hataların yerleşikleşmesini önleyebilir. Ayrıca Türkiye'deki partizan kutuplaşmanın kaynağının kimlik mi yoksa çatışma mı olduğu sorusu, AK Parti-CHP arasındaki rekabetin yanı sıra Kürt meselesi ve laiklik-dindarlık eksenindeki tarihsel çatışma hatları düşünüldüğünde, realistic conflict theory perspektifinin Türkiye verisiyle test edilmesini anlamlı kılar. KVKK çerçevesinde siyasi parti veri işleme faaliyetlerinin sınırlandırılması, kimlik temelli kampanyaların duygusal kutuplaşmayı derinleştirmesinin önüne geçebilir. BTK'nın dijital platform düzenlemeleri ve 7418 sayılı Kanun'un dezenformasyonla mücadele hükümleri, çatışma söyleminin medya üzerinden yayılımını etkileyen düzenleyici araçlar olarak bu tartışmayla doğrudan ilişkilidir. Türkiye'deki araştırmacıların, Yang'ın ayrıştırdığı kimlik-davranış-duygu üçlüsünü Türk parti sistemine uyarlayan özgün ölçekler geliştirmesi, hem yerel literatüre hem de karşılaştırmalı siyasete katkı sağlayacaktır. Sonuç olarak bu makale, Türkiye'deki kutuplaşma araştırmalarının kavramsal temellerini gözden geçirmesi için bir fırsat sunmakta ve uluslararası ölçüm araçlarının eleştirel devralınması gerektiğini göstermektedir. Türkiye'deki siyasi partilerin seçmen tabanlarını kimlik ekseninde mobilize etme eğilimi, Yang'ın 'kimlik otomatik düşmanlık üretmez' tezini yerel bağlamda test etmek için elverişli bir doğal deney ortamı oluşturmaktadır; 2019 ve 2024 yerel seçimlerinde gözlenen ittifak geçişkenlikleri, kimlik ve çıkar motivasyonlarının ayrıştırılabileceği vaka zenginliği sunar. Avrupa'da affective polarisation araştırmaları (örn. Gidron, Adams ve Horne'un karşılaştırmalı çalışmaları) ölçüm araçlarının kültürler arası geçerliliğini tartışırken, Türkiye'de bu tartışmanın henüz başlangıç aşamasında olması, akademik boşluğu işaret eder. Üniversitelerin siyaset bilimi lisansüstü programlarında ölçek uyarlama ve doğrulama metodolojisine daha fazla ağırlık verilmesi, bu boşluğun kapatılmasına katkı sağlayacaktır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
+- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Ev]]
+- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
+- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan mi]]
