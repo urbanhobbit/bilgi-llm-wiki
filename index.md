@@ -232,4 +232,8 @@
 - [[raw/articles/2026-08-07_misreading-social-identity-theory-why-affective-po.md|Misreading social identity theory: Why affective-polarisation research got it wrong]]
 - [[raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod.md|A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History]]
 - [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills]]
+- [[raw/articles/2026-08-11_polarization-and-political-violence-when-polarizat.md|Polarization and Political Violence: When Polarization Turns Violent]]
+- [[raw/articles/2026-08-11_misreading-social-identity-theory-why-affective-po.md|Misreading social identity theory: Why affective-polarisation research got it wrong]]
+- [[raw/articles/2026-08-11_a-practitioner-s-guide-to-using-large-language-mod.md|A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History]]
+- [[raw/articles/2026-08-11_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills]]
 
