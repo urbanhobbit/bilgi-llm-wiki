@@ -451,3 +451,8 @@
 - Source files: 2026-08-12_singh-social-media-fake-news-india.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-08_causal-falsification-of-digital-twins.md]] — Causal Falsification of Digital Twins
+- Source files: 2026-08-12_cornish-causal-falsification-digital-twins.json
+- Agent: OKF Ingestion Pipeline
+

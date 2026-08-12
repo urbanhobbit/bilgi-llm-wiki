@@ -231,4 +231,5 @@
 - [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills]]
 - [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md|Bridging gaps: how investment in public childcare affects women's employment in Italy and Spain]]
 - [[raw/articles/2025-07-01_social-media-fake-news-and-political-polarization-.md|Social Media, Fake News, and Political Polarization: Challenges for Indian Democracy]]
+- [[raw/articles/2026-08-08_causal-falsification-of-digital-twins.md|Causal Falsification of Digital Twins]]
 
