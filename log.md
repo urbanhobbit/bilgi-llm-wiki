@@ -412,12 +412,9 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-08-10] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-08-10_survey-quality-and-acquiescence-bias-a-cautionary-.md]] — Survey Quality and Acquiescence Bias: A Cautionary Tale
-- Raw: [[raw/articles/2026-08-10_in-defense-of-qualitative-description-reclaiming-l.md]] — In defense of qualitative description: reclaiming "little t" theory as a site of knowledge advancement
-- Raw: [[raw/articles/2026-08-10_matraix-simulating-the-world-with-8-3-billion-pers.md]] — MatrAIx: Simulating the World with 8.3 Billion Persona Agents
 - Raw: [[raw/articles/2026-07-01_polarization-and-political-violence-when-polarizat.md]] — Polarization and Political Violence: When Polarization Turns Violent
 - Source files: 2026-08-10_kopstein-polarization-political-violence.json, 2026-08-08_categorized_batch4.json
-- Agent: OKF Ingestion Pipeline
+- Agent: OKF Ingestion Pipeline (batch4 duplikatları temizlendi: survey-quality/in-defense/matraix 2026-08-10 kopyaları silindi)
 
 ## [2026-08-10] ingest | OKF Auto-Ingestion
 - Raw: [[raw/articles/2026-08-07_misreading-social-identity-theory-why-affective-po.md]] — Misreading social identity theory: Why affective-polarisation research got it wrong
@@ -435,12 +432,9 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-08-11] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-08-11_polarization-and-political-violence-when-polarizat.md]] — Polarization and Political Violence: When Polarization Turns Violent
-- Raw: [[raw/articles/2026-08-11_misreading-social-identity-theory-why-affective-po.md]] — Misreading social identity theory: Why affective-polarisation research got it wrong
-- Raw: [[raw/articles/2026-08-11_a-practitioner-s-guide-to-using-large-language-mod.md]] — A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History
-- Raw: [[raw/articles/2026-08-11_dialogues-with-ai-reduce-beliefs-in-misinformation.md]] — Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills
+- NOT: 2026-08-10_categorized.json işlendi ancak 4 makale (polarization/misreading/a-practitioner/dialogues) zaten asıl dosyalarıyla mevcuttu; 2026-08-11_* duplikatları oluşturuldu ve 2026-08-12'de temizlendi
 - Source files: 2026-08-10_categorized.json
-- Agent: OKF Ingestion Pipeline
+- Agent: OKF Ingestion Pipeline (duplikatlar silindi — asıl dosyalar korundu)
 
 
 ## [2026-08-12] update | OKF Manuel Guncelleme
