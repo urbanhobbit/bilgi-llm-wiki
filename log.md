@@ -446,3 +446,8 @@
 - Source files: 2026-08-12_maestripieri-public-childcare-women-employment.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-07-01_social-media-fake-news-and-political-polarization-.md]] — Social Media, Fake News, and Political Polarization: Challenges for Indian Democracy
+- Source files: 2026-08-12_singh-social-media-fake-news-india.json
+- Agent: OKF Ingestion Pipeline
+

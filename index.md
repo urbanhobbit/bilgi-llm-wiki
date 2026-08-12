@@ -230,4 +230,5 @@
 - [[raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod.md|A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History]]
 - [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation but Build No Lasting Discernment Skills]]
 - [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md|Bridging gaps: how investment in public childcare affects women's employment in Italy and Spain]]
+- [[raw/articles/2025-07-01_social-media-fake-news-and-political-polarization-.md|Social Media, Fake News, and Political Polarization: Challenges for Indian Democracy]]
 
