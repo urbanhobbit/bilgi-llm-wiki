@@ -456,3 +456,8 @@
 - Source files: 2026-08-12_cornish-causal-falsification-digital-twins.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-04-01_feminist-digital-humanities-intersections-in-pract.md]] — Feminist Digital Humanities: Intersections in Practice (DARIAH-EU webinar + kitap, 2025)
+- Source files: 2026-08-12_feminist-digital-humanities-webinar.json
+- Agent: OKF Ingestion Pipeline
+

@@ -232,4 +232,5 @@
 - [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md|Bridging gaps: how investment in public childcare affects women's employment in Italy and Spain]]
 - [[raw/articles/2025-07-01_social-media-fake-news-and-political-polarization-.md|Social Media, Fake News, and Political Polarization: Challenges for Indian Democracy]]
 - [[raw/articles/2026-08-08_causal-falsification-of-digital-twins.md|Causal Falsification of Digital Twins]]
+- [[raw/articles/2025-04-01_feminist-digital-humanities-intersections-in-pract.md|Feminist Digital Humanities: Intersections in Practice (DARIAH-EU webinar + kitap, 2025)]]
 
