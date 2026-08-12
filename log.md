@@ -471,3 +471,8 @@
 - Source files: 2026-08-12_van-bavel-partisan-brain-interview.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-26_more-than-a-partisan-pandemic-worldview-and-covid-.md]] — More than a partisan pandemic: Worldview and COVID-19 response in the United States
+- Source files: 2026-08-12_hetterington-worldview-covid19.json
+- Agent: OKF Ingestion Pipeline
+

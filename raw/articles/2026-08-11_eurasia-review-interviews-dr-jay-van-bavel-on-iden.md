@@ -56,3 +56,4 @@ Türkiye bağlamı için: (1) İç-grup elçisi stratejisi, Türkiye'deki kutupl
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
