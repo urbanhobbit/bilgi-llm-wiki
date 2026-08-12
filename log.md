@@ -441,3 +441,8 @@
 - Updated: [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md]] — Siegel & Weiss (2026-08-11 versiyonu): 2 genisletme deneyi + rafine bulgular + yeni pre-registration (#302,893)
 - Source: 2026-08-12_siegel-weiss-shooting-messenger-update.json (t.co → ayni PDF URL; duplikat degil, guncelleme)
 - Agent: OKF Ingestion Pipeline (manuel)
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md]] — Bridging gaps: how investment in public childcare affects women's employment in Italy and Spain
+- Source files: 2026-08-12_maestripieri-public-childcare-women-employment.json
+- Agent: OKF Ingestion Pipeline
+
