@@ -461,3 +461,8 @@
 - Source files: 2026-08-12_feminist-digital-humanities-webinar.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-10_i-will-take-care-of-this-country-the-paradox-of-he.md]] — "I will take care of this country": The paradox of helplessness in Lula's discourse amid the rise of the far right in Brazil
+- Source files: 2026-08-12_lula-helplessness-far-right-brazil.json
+- Agent: OKF Ingestion Pipeline
+
