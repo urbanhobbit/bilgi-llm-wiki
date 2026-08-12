@@ -442,3 +442,8 @@
 - Source files: 2026-08-10_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-08-12] update | OKF Manuel Guncelleme
+- Updated: [[raw/articles/2025-12-08_shooting-the-messenger-the-polarizing-effects-of-p.md]] — Siegel & Weiss (2026-08-11 versiyonu): 2 genisletme deneyi + rafine bulgular + yeni pre-registration (#302,893)
+- Source: 2026-08-12_siegel-weiss-shooting-messenger-update.json (t.co → ayni PDF URL; duplikat degil, guncelleme)
+- Agent: OKF Ingestion Pipeline (manuel)
