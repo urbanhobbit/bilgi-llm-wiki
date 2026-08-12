@@ -42,3 +42,9 @@ South European Society and Politics (SESP) 28(4):439-468, DOI: 10.1080/13608746.
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
