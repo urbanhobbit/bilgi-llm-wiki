@@ -57,3 +57,4 @@ Türkiye bağlamı için: (1) 'dünya görüşü ölçümü' yaklaşımı, Türk
 - [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
