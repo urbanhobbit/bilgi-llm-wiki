@@ -41,3 +41,10 @@ arXiv:2301.07210 (v5, 8 Agustos 2026; ilk yayin 17 Ocak 2023) - Rob Cornish, Muh
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
