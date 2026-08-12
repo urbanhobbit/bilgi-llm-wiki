@@ -234,4 +234,5 @@
 - [[raw/articles/2026-08-08_causal-falsification-of-digital-twins.md|Causal Falsification of Digital Twins]]
 - [[raw/articles/2025-04-01_feminist-digital-humanities-intersections-in-pract.md|Feminist Digital Humanities: Intersections in Practice (DARIAH-EU webinar + kitap, 2025)]]
 - [[raw/articles/2026-08-10_i-will-take-care-of-this-country-the-paradox-of-he.md|"I will take care of this country": The paradox of helplessness in Lula's discourse amid the rise of the far right in Brazil]]
+- [[raw/articles/2026-08-11_eurasia-review-interviews-dr-jay-van-bavel-on-iden.md|Eurasia Review Interviews: Dr. Jay Van Bavel On Identity, Misinformation, And The Partisan Brain]]
 

@@ -466,3 +466,8 @@
 - Source files: 2026-08-12_lula-helplessness-far-right-brazil.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-11_eurasia-review-interviews-dr-jay-van-bavel-on-iden.md]] — Eurasia Review Interviews: Dr. Jay Van Bavel On Identity, Misinformation, And The Partisan Brain
+- Source files: 2026-08-12_van-bavel-partisan-brain-interview.json
+- Agent: OKF Ingestion Pipeline
+
