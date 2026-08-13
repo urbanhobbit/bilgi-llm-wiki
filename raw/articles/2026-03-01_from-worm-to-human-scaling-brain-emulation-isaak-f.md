@@ -49,3 +49,9 @@ Türkiye bağlamı için: (1) Beyin emülasyonu ve bağlantıbilim, yapay zeka k
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
