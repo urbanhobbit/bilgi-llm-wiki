@@ -240,4 +240,5 @@
 - [[raw/articles/2026-03-01_from-worm-to-human-scaling-brain-emulation-isaak-f.md|From Worm to Human: Scaling Brain Emulation — Isaak Freeman MIT tezi]]
 - [[raw/articles/2026-08-12_agentic-profiles-for-effective-ai-governance.md|Agentic profiles for effective AI governance]]
 - [[raw/articles/2026-07-03_elites-as-democratic-gatekeepers-theory-and-eviden.md|Elites as Democratic Gatekeepers: Theory and Evidence from Norway]]
+- [[raw/articles/2026-08-01_southmod-at-10-a-decade-of-better-evidence-for-tax.md|SOUTHMOD at 10: A decade of better evidence for tax and social policy — UNU-WIDER]]
 

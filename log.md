@@ -496,3 +496,8 @@
 - Source files: 2026-08-13_goldstein-elites-democratic-gatekeepers.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-01_southmod-at-10-a-decade-of-better-evidence-for-tax.md]] — SOUTHMOD at 10: A decade of better evidence for tax and social policy — UNU-WIDER
+- Source files: 2026-08-13_unu-wider-southmod-10.json
+- Agent: OKF Ingestion Pipeline
+
