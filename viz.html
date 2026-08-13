@@ -128,8 +128,8 @@ function showInfo(node) {
       for (var i = 0; i < DATA.nodes.length; i++) {
         if (DATA.nodes[i].data.id === id) { lbl = DATA.nodes[i].data.label; break; }
       }
-      var safe = id.replace(/\/g, '\\').replace(/'/g, "\'");
-      return '<li><a href="javascript:void(0)" onclick="focusNode('' + safe + '')">' + icon + ' ' + esc(lbl) + '</a></li>';
+      var safe = id.replace(/\//g, '\\').replace(/'/g, "\\'");
+      return '<li><a href="javascript:void(0)" onclick="focusNode(\'' + safe + '\')">' + icon + ' ' + esc(lbl) + '</a></li>';
     });
     return '<ul>' + items.join('') + '</ul>';
   }
