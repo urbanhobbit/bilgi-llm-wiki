@@ -481,3 +481,8 @@
 - Source files: 2026-08-12_unicef-life-online-rights-offline.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-03-01_from-worm-to-human-scaling-brain-emulation-isaak-f.md]] — From Worm to Human: Scaling Brain Emulation — Isaak Freeman MIT tezi
+- Source files: 2026-08-12_freeman-scaling-brain-emulation.json
+- Agent: OKF Ingestion Pipeline
+

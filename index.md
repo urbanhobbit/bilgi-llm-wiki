@@ -237,4 +237,5 @@
 - [[raw/articles/2026-08-11_eurasia-review-interviews-dr-jay-van-bavel-on-iden.md|Eurasia Review Interviews: Dr. Jay Van Bavel On Identity, Misinformation, And The Partisan Brain]]
 - [[raw/articles/2026-07-26_more-than-a-partisan-pandemic-worldview-and-covid-.md|More than a partisan pandemic: Worldview and COVID-19 response in the United States]]
 - [[raw/articles/2026-07-29_life-online-rights-offline-unicef-u-report-blog-li.md|Life online, rights offline — UNICEF U-Report blog (Life Online anketi yorumu)]]
+- [[raw/articles/2026-03-01_from-worm-to-human-scaling-brain-emulation-isaak-f.md|From Worm to Human: Scaling Brain Emulation — Isaak Freeman MIT tezi]]
 
