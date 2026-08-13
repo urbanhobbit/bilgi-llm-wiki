@@ -491,3 +491,8 @@
 - Source files: 2026-08-12_kasirzadeh-agentic-profiles-ai-governance.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-03_elites-as-democratic-gatekeepers-theory-and-eviden.md]] — Elites as Democratic Gatekeepers: Theory and Evidence from Norway
+- Source files: 2026-08-13_goldstein-elites-democratic-gatekeepers.json
+- Agent: OKF Ingestion Pipeline
+
