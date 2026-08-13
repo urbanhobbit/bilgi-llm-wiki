@@ -236,4 +236,5 @@
 - [[raw/articles/2026-08-10_i-will-take-care-of-this-country-the-paradox-of-he.md|"I will take care of this country": The paradox of helplessness in Lula's discourse amid the rise of the far right in Brazil]]
 - [[raw/articles/2026-08-11_eurasia-review-interviews-dr-jay-van-bavel-on-iden.md|Eurasia Review Interviews: Dr. Jay Van Bavel On Identity, Misinformation, And The Partisan Brain]]
 - [[raw/articles/2026-07-26_more-than-a-partisan-pandemic-worldview-and-covid-.md|More than a partisan pandemic: Worldview and COVID-19 response in the United States]]
+- [[raw/articles/2026-07-29_life-online-rights-offline-unicef-u-report-blog-li.md|Life online, rights offline — UNICEF U-Report blog (Life Online anketi yorumu)]]
 

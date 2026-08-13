@@ -476,3 +476,8 @@
 - Source files: 2026-08-12_hetterington-worldview-covid19.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-29_life-online-rights-offline-unicef-u-report-blog-li.md]] — Life online, rights offline — UNICEF U-Report blog (Life Online anketi yorumu)
+- Source files: 2026-08-12_unicef-life-online-rights-offline.json
+- Agent: OKF Ingestion Pipeline
+
