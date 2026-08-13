@@ -501,3 +501,8 @@
 - Source files: 2026-08-13_unu-wider-southmod-10.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-12-15_partisan-polarization-in-local-politics-de-benedic.md]] — Partisan Polarization in Local Politics — de Benedictis-Kessner, Einstein, Glick, Palmer & Warshaw (APSR R&R, Aralık 2025)
+- Source files: 2026-08-13_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+
