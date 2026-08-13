@@ -53,3 +53,4 @@ Türkiye bağlamı için: (1) Agentic profile çerçevesi, Türkiye'deki AI düz
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
