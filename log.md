@@ -486,3 +486,8 @@
 - Source files: 2026-08-12_freeman-scaling-brain-emulation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-12_agentic-profiles-for-effective-ai-governance.md]] — Agentic profiles for effective AI governance
+- Source files: 2026-08-12_kasirzadeh-agentic-profiles-ai-governance.json
+- Agent: OKF Ingestion Pipeline
+
