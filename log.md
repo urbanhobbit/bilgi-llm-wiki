@@ -1,3 +1,11 @@
+## [2026-08-15] ingest | Haftalık Bülten Entegrasyonu (Hafta 33/2026)
+- Raw: [[raw/articles/2026-08-15_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 33/2026)
+- Raw: [[raw/articles/2026-08-15_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-08-15)
+- KURATOR Topics: UNICEF x GSMA 'Life Online' survey (211,300+ U-Reporters; 35% online vs 27% face-to-face identity comfort; 28% trust AI info without verification — under-18 most susceptible; ~3/5 say children's needs rarely considered in digital policy), MIT Media Lab 'Dialogues with AI' study (arXiv:2510.01537; +21% immediate improvement but −15.3% unsupported performance at week 4 — AI dependency paradox), Kasirzadeh & Gabriel 'Agentic profiles for effective AI governance' (Nature 656:320-328; autonomy/efficacy/goal complexity/generality), Yang 'Misreading social identity theory' (Political Studies Review; discrimination ≠ dislike, conflict-centred framework)
+- AKADEMİK Topics: Kopstein 'Polarization and Political Violence' (Journal of Democracy 37(3):38-49; polarization necessary-but-not-sufficient for violence), Siegel & Weiss 'Shooting the Messenger' (APSR R&R update 2026-08-11; press attacks → backlash, +10% SD sign correction), de Benedictis-Kessner et al. 'Partisan Polarization in Local Politics' (APSR R&R; 491 mayors + 25,521 residents; elites 26pt vs public 13pt polarization; climate 52pt gap), Ferrara 'Practitioner's Guide to LLMs in Economic History' (NBER WP 35374), Rani et al. 'Dialogues with AI' (MIT), Causal Falsification of Digital Twins (JMLR; Cornish et al. arXiv:2301.07210), Hetherington et al. worldview & COVID-19 (Political Psychology), Van Bavel interview (Eurasia Review), Lula helplessness discourse (Reactionary Politics WP No.4), Elites as Democratic Gatekeepers (SocArXiv), SOUTHMOD at 10 (UNU-WIDER)
+- Scrapling wiki ingestion test: 30% block rate (3/10: Wiley, Eurasia Review, reacpol.net 403 Cloudflare; X, chagaiweiss PDF, arXiv 200 OK) — below 50% threshold, metadata-based classification for blocked academic publishers
+- Agent: Weekly Bulletin Integration Cronjob
+
 ## [2026-08-08] ingest | Haftalık Bülten Entegrasyonu (Hafta 32/2026)
 - Raw: [[raw/articles/2026-08-08_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 32/2026)
 - Raw: [[raw/articles/2026-08-08_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-08-08)
@@ -5,6 +13,8 @@
 - AKADEMİK Topics: Druckman et al. affective polarization measurement review (AP 1978 20.38°→2024 51.64°, survey mode effects), Generative Grounded Theory (Schmitt et al. JCP, 7-step GenAI-grounded theory), AI-assisted pre-bunking election misinformation (Linegar et al. RSOS, pre-registered N=4,293), China Backlash narrative discourse (Geyiktepe & Rodrik NBER WP 35539, bottom-up narrative diffusion), real-news party cues (Skytte AJPS, n=12,177, modest 3.3% effects), democratic backsliding public support (Choi, Democratization), Lyotard post-truth narratives (Baier TCS), electoral campaigns & news polarization (Menéndez JMP, Spanish Media Monitor), literature review component classification (Bolanos-Burgos et al. PeerJ CS, Sci-Sentence benchmark, 37 LLMs, 96%+ F1)
 - Scrapling wiki ingestion test: 50% block rate (5/10: T&F, SAGE, EDMO publications, Royal Society, PeerJ 403 Cloudflare; UN, NBER, Nature, Economic Misfit, Finland 200 OK) — metadata/Crossref-based classification for blocked academic publishers
 - Agent: Weekly Bulletin Integration Cronjob
+
+
 
 ## [2026-08-03] ingest | Haftalık Bülten Entegrasyonu (Hafta 32/2026)
 
