@@ -212,3 +212,23 @@ Dijital boyut da göz ardı edilmemeli: yerel siyasette kutuplaşmanın sosyal m
 - Elites as Democratic Gatekeepers: Theory and Evidence from Norway — Daniel A. N. Goldstein, Kaja Sparre Bakke, Sirianne Dahlum & Tore Wig (2026-07-03) — https://x.com/i/status/2087697708249469414
 - SOUTHMOD at 10: A decade of better evidence for tax and social policy — UNU-WIDER — UNU-WIDER (ed. Tristan Reid, Marie-France Boucher, Pia Rattenhuber) (2026-08-01) — https://x.com/i/status/2087736924224036933
 - Partisan Polarization in Local Politics — de Benedictis-Kessner, Einstein, Glick, Palmer & Warshaw (APSR R&R, Aralık 2025) — Justin de Benedictis-Kessner, Katherine Levine Einstein, David M. Glick, Maxwell Palmer, Christopher S. Warshaw (2025-12-15) — https://x.com/i/status/2087554319856074994
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/x-com.md|X (Twitter)]]

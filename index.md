@@ -244,4 +244,5 @@
 - [[raw/articles/2026-07-03_elites-as-democratic-gatekeepers-theory-and-eviden.md|Elites as Democratic Gatekeepers: Theory and Evidence from Norway]]
 - [[raw/articles/2026-08-01_southmod-at-10-a-decade-of-better-evidence-for-tax.md|SOUTHMOD at 10: A decade of better evidence for tax and social policy — UNU-WIDER]]
 - [[raw/articles/2025-12-15_partisan-polarization-in-local-politics-de-benedic.md|Partisan Polarization in Local Politics — de Benedictis-Kessner, Einstein, Glick, Palmer & Warshaw (APSR R&R, Aralık 2025)]]
+- [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md|Effects of political polarization on non-electoral participation — Kołczyńska (Comparative European Politics 24(1), 2026)]]
 

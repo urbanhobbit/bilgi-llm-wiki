@@ -516,3 +516,8 @@
 - Source files: 2026-08-13_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md]] — Effects of political polarization on non-electoral participation — Kołczyńska (Comparative European Politics 24(1), 2026)
+- Source files: 2026-08-15_categorized.json
+- Agent: OKF Ingestion Pipeline
+
