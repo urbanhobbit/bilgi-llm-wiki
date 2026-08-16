@@ -521,3 +521,8 @@
 - Source files: 2026-08-15_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-04-23_the-college-campus-and-the-culture-war-the-develop.md]] — The College Campus and the Culture War: The Development of Party Polarization on Higher Education, 1980–2025 — Schickler & Rodriguez (SAPD, 2026)
+- Source files: 2026-08-16_categorized.json
+- Agent: OKF Ingestion Pipeline
+

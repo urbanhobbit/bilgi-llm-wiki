@@ -245,4 +245,5 @@
 - [[raw/articles/2026-08-01_southmod-at-10-a-decade-of-better-evidence-for-tax.md|SOUTHMOD at 10: A decade of better evidence for tax and social policy — UNU-WIDER]]
 - [[raw/articles/2025-12-15_partisan-polarization-in-local-politics-de-benedic.md|Partisan Polarization in Local Politics — de Benedictis-Kessner, Einstein, Glick, Palmer & Warshaw (APSR R&R, Aralık 2025)]]
 - [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md|Effects of political polarization on non-electoral participation — Kołczyńska (Comparative European Politics 24(1), 2026)]]
+- [[raw/articles/2026-04-23_the-college-campus-and-the-culture-war-the-develop.md|The College Campus and the Culture War: The Development of Party Polarization on Higher Education, 1980–2025 — Schickler & Rodriguez (SAPD, 2026)]]
 
