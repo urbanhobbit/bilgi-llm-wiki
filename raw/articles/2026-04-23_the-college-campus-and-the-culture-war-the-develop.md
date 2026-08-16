@@ -57,3 +57,5 @@ Türkiye açısından bu çalışmanın iki transfer edilebilir boyutu var. Biri
 ### 🧠 İlgili Kavramlar
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
