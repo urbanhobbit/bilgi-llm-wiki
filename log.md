@@ -526,3 +526,8 @@
 - Source files: 2026-08-16_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-04_statistical-control-requires-causal-justification-.md]] — Statistical Control Requires Causal Justification — Wysocki, Lawson & Rhemtulla (AMPPS 5(2), 2022)
+- Source files: 2026-08-16_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+
