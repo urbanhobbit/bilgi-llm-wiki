@@ -247,4 +247,5 @@
 - [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md|Effects of political polarization on non-electoral participation — Kołczyńska (Comparative European Politics 24(1), 2026)]]
 - [[raw/articles/2026-04-23_the-college-campus-and-the-culture-war-the-develop.md|The College Campus and the Culture War: The Development of Party Polarization on Higher Education, 1980–2025 — Schickler & Rodriguez (SAPD, 2026)]]
 - [[raw/articles/2022-04_statistical-control-requires-causal-justification-.md|Statistical Control Requires Causal Justification — Wysocki, Lawson & Rhemtulla (AMPPS 5(2), 2022)]]
+- [[raw/articles/2026-08-09_the-rise-and-closure-of-liberal-democracy-a-system.md|The rise and closure of 'liberal democracy': A systematic review in contemporary political science, 1990–2025 — Bonin (IPSR, 2026)]]
 

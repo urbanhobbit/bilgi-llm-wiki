@@ -531,3 +531,8 @@
 - Source files: 2026-08-16_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-09_the-rise-and-closure-of-liberal-democracy-a-system.md]] — The rise and closure of 'liberal democracy': A systematic review in contemporary political science, 1990–2025 — Bonin (IPSR, 2026)
+- Source files: 2026-08-16_categorized_batch3.json
+- Agent: OKF Ingestion Pipeline
+
