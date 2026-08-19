@@ -53,3 +53,4 @@ Türkiye'de siyaset bilimi ve kamuoyu araştırmalarında ölçüm geçerliliği
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
