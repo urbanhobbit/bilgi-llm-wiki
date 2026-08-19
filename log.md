@@ -541,3 +541,8 @@
 - Source files: 2026-08-17_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-18_the-improvement-in-political-analysis-in-the-past-.md]] — The improvement in political analysis in the past 25 years — Gelman blog (18 Ağu 2026): Morris, Silver & McKown-Dawson'ın istatistiksel iş akışı gösterimleri
+- Source files: 2026-08-19_categorized.json
+- Agent: OKF Ingestion Pipeline
+
