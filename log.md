@@ -536,3 +536,8 @@
 - Source files: 2026-08-16_categorized_batch3.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-04_big-if-true-fragility-of-the-manipulable-voter-mod.md]] — Big if true: Fragility of the manipulable-voter model and the implications for politics and social science — Gelman, Bullock & Sood (2026)
+- Source files: 2026-08-17_categorized.json
+- Agent: OKF Ingestion Pipeline
+
