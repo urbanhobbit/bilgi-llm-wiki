@@ -251,4 +251,5 @@
 - [[raw/articles/2026-08-04_big-if-true-fragility-of-the-manipulable-voter-mod.md|Big if true: Fragility of the manipulable-voter model and the implications for politics and social science — Gelman, Bullock & Sood (2026)]]
 - [[raw/articles/2026-08-18_the-improvement-in-political-analysis-in-the-past-.md|The improvement in political analysis in the past 25 years — Gelman blog (18 Ağu 2026): Morris, Silver & McKown-Dawson'ın istatistiksel iş akışı gösterimleri]]
 - [[raw/articles/2025-09-29_defending-methodological-anarchism-in-empirically-.md|Defending Methodological Anarchism in Empirically Informed Political Theory — Handby (JOP, Online First)]]
+- [[raw/articles/2026-08-14_the-new-politics-of-the-social-and-authoritarianis.md|The new politics of the social and authoritarianism in the Near East: gender and youth politics and movements — Kutun, Binbuğa & Yılmaz (Third World Quarterly özel sayı girişi, 2026)]]
 

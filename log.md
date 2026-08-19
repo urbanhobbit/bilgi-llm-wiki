@@ -551,3 +551,8 @@
 - Source files: 2026-08-19_categorized_batch2.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-14_the-new-politics-of-the-social-and-authoritarianis.md]] — The new politics of the social and authoritarianism in the Near East: gender and youth politics and movements — Kutun, Binbuğa & Yılmaz (Third World Quarterly özel sayı girişi, 2026)
+- Source files: 2026-08-19_categorized_batch3.json
+- Agent: OKF Ingestion Pipeline
+
