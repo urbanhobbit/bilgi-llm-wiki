@@ -556,3 +556,8 @@
 - Source files: 2026-08-19_categorized_batch3.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2001-09_measurement-validity-a-shared-standard-for-qualita.md]] — Measurement Validity: A Shared Standard for Qualitative and Quantitative Research — Adcock & Collier (APSR 95(3), 2001)
+- Source files: 2026-08-19_categorized_batch4.json
+- Agent: OKF Ingestion Pipeline
+
