@@ -47,3 +47,10 @@ Türkiye açısından bu makale, siyaset teorisi ile ampirik siyaset bilimi aras
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
