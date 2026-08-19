@@ -51,4 +51,5 @@ Türkiye'de siyaset bilimi, medya çalışmaları, toplumsal cinsiyet ve gençli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
