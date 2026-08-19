@@ -561,3 +561,8 @@
 - Source files: 2026-08-19_categorized_batch4.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-19_analytical-critical-thinking-in-qualitative-resear.md]] — Analytical Critical Thinking in Qualitative Research — Margaret R. Roller (Research Design Review, 19 Ağu 2026)
+- Source files: 2026-08-19_rdr_analytical_critical_thinking.json
+- Agent: OKF Ingestion Pipeline
+
