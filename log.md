@@ -546,3 +546,8 @@
 - Source files: 2026-08-19_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-09-29_defending-methodological-anarchism-in-empirically-.md]] — Defending Methodological Anarchism in Empirically Informed Political Theory — Handby (JOP, Online First)
+- Source files: 2026-08-19_categorized_batch2.json
+- Agent: OKF Ingestion Pipeline
+

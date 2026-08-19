@@ -250,4 +250,5 @@
 - [[raw/articles/2026-08-09_the-rise-and-closure-of-liberal-democracy-a-system.md|The rise and closure of 'liberal democracy': A systematic review in contemporary political science, 1990–2025 — Bonin (IPSR, 2026)]]
 - [[raw/articles/2026-08-04_big-if-true-fragility-of-the-manipulable-voter-mod.md|Big if true: Fragility of the manipulable-voter model and the implications for politics and social science — Gelman, Bullock & Sood (2026)]]
 - [[raw/articles/2026-08-18_the-improvement-in-political-analysis-in-the-past-.md|The improvement in political analysis in the past 25 years — Gelman blog (18 Ağu 2026): Morris, Silver & McKown-Dawson'ın istatistiksel iş akışı gösterimleri]]
+- [[raw/articles/2025-09-29_defending-methodological-anarchism-in-empirically-.md|Defending Methodological Anarchism in Empirically Informed Political Theory — Handby (JOP, Online First)]]
 
