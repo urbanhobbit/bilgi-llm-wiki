@@ -48,5 +48,8 @@ Koleksiyonun Türkiye açısından iki kritik bağlantısı var. İlki: Jennifer
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journalofdemocracy.md|Journalofdemocracy]]
+- [[entities/journalofdemocracy.md|Journal of Democracy]]
