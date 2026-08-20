@@ -566,3 +566,8 @@
 - Source files: 2026-08-19_rdr_analytical_critical_thinking.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-19_why-political-polarization-is-rising-and-how-to-re.md]] — Why Political Polarization Is Rising, and How to Reverse It — Journal of Democracy kutuplaşma derlemesi (5 makale, 2026)
+- Source files: 2026-08-19_jod_polarization_email_blast.json
+- Agent: OKF Ingestion Pipeline
+

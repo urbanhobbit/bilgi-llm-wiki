@@ -254,4 +254,5 @@
 - [[raw/articles/2026-08-14_the-new-politics-of-the-social-and-authoritarianis.md|The new politics of the social and authoritarianism in the Near East: gender and youth politics and movements — Kutun, Binbuğa & Yılmaz (Third World Quarterly özel sayı girişi, 2026)]]
 - [[raw/articles/2001-09_measurement-validity-a-shared-standard-for-qualita.md|Measurement Validity: A Shared Standard for Qualitative and Quantitative Research — Adcock & Collier (APSR 95(3), 2001)]]
 - [[raw/articles/2026-08-19_analytical-critical-thinking-in-qualitative-resear.md|Analytical Critical Thinking in Qualitative Research — Margaret R. Roller (Research Design Review, 19 Ağu 2026)]]
+- [[raw/articles/2026-08-19_why-political-polarization-is-rising-and-how-to-re.md|Why Political Polarization Is Rising, and How to Reverse It — Journal of Democracy kutuplaşma derlemesi (5 makale, 2026)]]
 
