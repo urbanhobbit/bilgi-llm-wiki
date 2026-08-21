@@ -591,3 +591,8 @@
 - Source files: 2026-08-20_kipnis_against_affect.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2021-08-19_how-social-science-got-better-overcoming-bias-with.md]] — How Social Science Got Better: Overcoming Bias with More Evidence, Diversity, and Self-Reflection — Matt Grossmann (Oxford University Press, 2021)
+- Source files: 2026-08-21_grossmann_social_science.json
+- Agent: OKF Ingestion Pipeline
+
