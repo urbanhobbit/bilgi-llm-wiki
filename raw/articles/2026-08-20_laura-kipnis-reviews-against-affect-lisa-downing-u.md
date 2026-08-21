@@ -42,3 +42,9 @@ Laura Kipnis'in Critical Inquiry dergisinde yayımlanan kitap incelemesi: Lisa D
 ## Turkey Context
 
 Bu inceleme, Türkiye'deki duygusal kutuplaşma ve duygu odaklı akademik kültür tartışmaları için teorik bir arka plan sunuyor. Duygu teorisinin 'çağımızın baskın epistemi' haline gelmesi eleştirisi, sosyal medya çağında duygu ekonomisinin (öfke, kızgınlık, mağduriyet söylemi) siyasi kutuplaşmayı besleme mekanizmalarıyla paralel okunabilir. Kipnis'in aktardığı Downing tezi — 'hissetme zorunluluğu'nun neoliberal yönetimin gündelik düşünceye sızma yolu olduğu — Türkiye'deki dijital platformlarda yükselen duygusal siyaset söylemini (milliyetçi öfke, mağduriyet siyaseti, kimlik temelli duygusal mobilizasyon) analiz etmek için kullanışlı bir kavramsal çerçeve. Ayrıca beşeri bilimlerde duygu/akıl kutuplaşmasının Türkiye akademisindeki yansımaları (duygusal dönüşün Türkçe literatürdeki alımlanışı) için bir tartışma başlığı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]

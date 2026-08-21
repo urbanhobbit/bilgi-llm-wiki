@@ -52,4 +52,5 @@ Türkiye'de dezenformasyon araştırmaları (ör. sahte haber/sosyal medya deney
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
