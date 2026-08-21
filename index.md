@@ -261,4 +261,5 @@
 - [[raw/articles/2026-08-20_laura-kipnis-reviews-against-affect-lisa-downing-u.md|Laura Kipnis reviews Against Affect — Lisa Downing (University of Nebraska Press, 2026) · Critical Inquiry, 20 Ağu 2026]]
 - [[raw/articles/2021-08-19_how-social-science-got-better-overcoming-bias-with.md|How Social Science Got Better: Overcoming Bias with More Evidence, Diversity, and Self-Reflection — Matt Grossmann (Oxford University Press, 2021)]]
 - [[raw/articles/2026-06-04_priming-common-european-and-democratic-values-does.md|Priming common European and democratic values does not reduce affective polarization — Canalejo-Molero, Cicchi, Ferreira da Silva, Garzia, Reiljan & Trechsel (European Political Science Review, 2026)]]
+- [[raw/articles/2026-08-21_the-janus-face-of-the-liberal-international-inform.md|The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining — Farrell & Newman (International Organization 75(2), 2021)]]
 

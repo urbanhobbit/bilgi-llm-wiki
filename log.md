@@ -601,3 +601,8 @@
 - Source files: 2026-08-21_canalejo_depolarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-21_the-janus-face-of-the-liberal-international-inform.md]] — The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining — Farrell & Newman (International Organization 75(2), 2021)
+- Source files: 2026-08-21_farrell_janus_face.json
+- Agent: OKF Ingestion Pipeline
+
