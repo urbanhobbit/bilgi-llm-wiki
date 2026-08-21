@@ -48,3 +48,5 @@ Farrell & Newman'ın LIIO tezi, Türkiye için çift yönlü bir analitik değer
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation (Jeopolitik Dezenformasyon)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
