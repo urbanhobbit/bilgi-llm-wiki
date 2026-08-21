@@ -581,3 +581,8 @@
 - Source files: 2026-08-20_fowler_party_identification.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-10_debriefings-in-misinformation-research-should-incl.md]] — Debriefings in misinformation research should include fact-checks to correct misperceptions and increase perceived learning — Hoes & Altay (Political Science Research and Methods, 2026)
+- Source files: 2026-08-20_hoes_debriefings.json
+- Agent: OKF Ingestion Pipeline
+
