@@ -571,3 +571,8 @@
 - Source files: 2026-08-19_jod_polarization_email_blast.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-22_identity-threat-personal-values-and-political-atti.md]] — Identity threat, personal values, and political attitudes: Evidence from a large-scale survey across the European Union — Kuehnhanss & Scharfbillig (Political Psychology 47(4), 2026)
+- Source files: 2026-08-19_kuehnhanss_identity_threat.json
+- Agent: OKF Ingestion Pipeline
+

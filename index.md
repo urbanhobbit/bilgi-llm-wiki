@@ -255,4 +255,5 @@
 - [[raw/articles/2001-09_measurement-validity-a-shared-standard-for-qualita.md|Measurement Validity: A Shared Standard for Qualitative and Quantitative Research — Adcock & Collier (APSR 95(3), 2001)]]
 - [[raw/articles/2026-08-19_analytical-critical-thinking-in-qualitative-resear.md|Analytical Critical Thinking in Qualitative Research — Margaret R. Roller (Research Design Review, 19 Ağu 2026)]]
 - [[raw/articles/2026-08-19_why-political-polarization-is-rising-and-how-to-re.md|Why Political Polarization Is Rising, and How to Reverse It — Journal of Democracy kutuplaşma derlemesi (5 makale, 2026)]]
+- [[raw/articles/2026-07-22_identity-threat-personal-values-and-political-atti.md|Identity threat, personal values, and political attitudes: Evidence from a large-scale survey across the European Union — Kuehnhanss & Scharfbillig (Political Psychology 47(4), 2026)]]
 
