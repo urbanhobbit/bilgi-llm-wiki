@@ -586,3 +586,8 @@
 - Source files: 2026-08-20_hoes_debriefings.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-20_laura-kipnis-reviews-against-affect-lisa-downing-u.md]] — Laura Kipnis reviews Against Affect — Lisa Downing (University of Nebraska Press, 2026) · Critical Inquiry, 20 Ağu 2026
+- Source files: 2026-08-20_kipnis_against_affect.json
+- Agent: OKF Ingestion Pipeline
+
