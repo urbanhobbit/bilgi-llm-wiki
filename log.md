@@ -596,3 +596,8 @@
 - Source files: 2026-08-21_grossmann_social_science.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-04_priming-common-european-and-democratic-values-does.md]] — Priming common European and democratic values does not reduce affective polarization — Canalejo-Molero, Cicchi, Ferreira da Silva, Garzia, Reiljan & Trechsel (European Political Science Review, 2026)
+- Source files: 2026-08-21_canalejo_depolarization.json
+- Agent: OKF Ingestion Pipeline
+
