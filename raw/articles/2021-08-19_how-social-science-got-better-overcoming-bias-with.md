@@ -55,4 +55,4 @@ Türkiye'deki sosyal bilim ekosistemi (siyaset bilimi, iletişim, iktisat) için
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
