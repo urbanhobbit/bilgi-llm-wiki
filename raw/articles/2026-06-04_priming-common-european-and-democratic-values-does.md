@@ -56,3 +56,4 @@ Bu makale Türkiye için iki açıdan kritik. Birincisi: Türkiye'de kutuplaşma
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
