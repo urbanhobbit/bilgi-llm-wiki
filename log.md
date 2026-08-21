@@ -576,3 +576,8 @@
 - Source files: 2026-08-19_kuehnhanss_identity_threat.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-01_how-do-americans-explain-their-party-identificatio.md]] — How Do Americans Explain Their Party Identification and Out-Partisan Animosity? — Fowler, Huber, Jin & Orr (Public Opinion Quarterly, 2026)
+- Source files: 2026-08-20_fowler_party_identification.json
+- Agent: OKF Ingestion Pipeline
+

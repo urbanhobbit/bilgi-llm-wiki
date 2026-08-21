@@ -256,4 +256,5 @@
 - [[raw/articles/2026-08-19_analytical-critical-thinking-in-qualitative-resear.md|Analytical Critical Thinking in Qualitative Research — Margaret R. Roller (Research Design Review, 19 Ağu 2026)]]
 - [[raw/articles/2026-08-19_why-political-polarization-is-rising-and-how-to-re.md|Why Political Polarization Is Rising, and How to Reverse It — Journal of Democracy kutuplaşma derlemesi (5 makale, 2026)]]
 - [[raw/articles/2026-07-22_identity-threat-personal-values-and-political-atti.md|Identity threat, personal values, and political attitudes: Evidence from a large-scale survey across the European Union — Kuehnhanss & Scharfbillig (Political Psychology 47(4), 2026)]]
+- [[raw/articles/2026-07-01_how-do-americans-explain-their-party-identificatio.md|How Do Americans Explain Their Party Identification and Out-Partisan Animosity? — Fowler, Huber, Jin & Orr (Public Opinion Quarterly, 2026)]]
 
