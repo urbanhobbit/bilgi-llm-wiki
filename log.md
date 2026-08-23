@@ -619,3 +619,8 @@
 - Source files: 2026-08-21_hassan_childcare.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-17_group-identity-and-belief-formation-a-microfoundat.md]] — Group Identity and Belief Formation: A Microfoundation of Political Polarization — Bauer, Chen, Hett & Kosfeld (The Economic Journal, 2026)
+- Source files: 2026-08-23_bauer_group_identity.json
+- Agent: OKF Ingestion Pipeline
+

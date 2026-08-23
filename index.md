@@ -265,4 +265,5 @@
 - [[raw/articles/2026-06-04_priming-common-european-and-democratic-values-does.md|Priming common European and democratic values does not reduce affective polarization — Canalejo-Molero, Cicchi, Ferreira da Silva, Garzia, Reiljan & Trechsel (European Political Science Review, 2026)]]
 - [[raw/articles/2026-08-21_the-janus-face-of-the-liberal-international-inform.md|The Janus Face of the Liberal International Information Order: When Global Institutions Are Self-Undermining — Farrell & Newman (International Organization 75(2), 2021)]]
 - [[raw/articles/2026-08-21_childcare-in-transition-evidence-that-patterns-of-.md|Childcare in Transition: Evidence That Patterns of Childcare Differ by Degree of Market Integration in Northwestern Tanzania — Hassan, Lawson, Schaffnit, Urassa & Sear (Demography, 2026)]]
+- [[raw/articles/2026-08-17_group-identity-and-belief-formation-a-microfoundat.md|Group Identity and Belief Formation: A Microfoundation of Political Polarization — Bauer, Chen, Hett & Kosfeld (The Economic Journal, 2026)]]
 
