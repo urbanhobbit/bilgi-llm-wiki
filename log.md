@@ -624,3 +624,8 @@
 - Source files: 2026-08-23_bauer_group_identity.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-14_political-polarization-and-counter-attitudinal-inf.md]] — Political Polarization and Counter-attitudinal Information Consumption and Internalization — Larreguy & Tiburcio (The Economic Journal, 2026)
+- Source files: 2026-08-23_larreguy_counterattitudinal.json
+- Agent: OKF Ingestion Pipeline
+
