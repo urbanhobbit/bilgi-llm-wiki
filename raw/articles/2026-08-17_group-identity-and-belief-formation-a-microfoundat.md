@@ -52,7 +52,9 @@ Türkiye'deki kutuplaşma tartışmaları için makalenin iki katmanlı değeri 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford Academic]]
