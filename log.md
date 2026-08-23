@@ -614,3 +614,8 @@
 - Source files: 2026-08-21_farrell_janus_face.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-21_childcare-in-transition-evidence-that-patterns-of-.md]] — Childcare in Transition: Evidence That Patterns of Childcare Differ by Degree of Market Integration in Northwestern Tanzania — Hassan, Lawson, Schaffnit, Urassa & Sear (Demography, 2026)
+- Source files: 2026-08-21_hassan_childcare.json
+- Agent: OKF Ingestion Pipeline
+

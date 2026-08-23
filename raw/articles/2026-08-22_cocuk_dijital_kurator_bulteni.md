@@ -32,3 +32,19 @@ Türkiye için öneriler: (1) TÜİK ve üniversitelerin gençlik araştırmalar
 - **Kısa vadeli:** Dezenformasyon araştırması yürüten Türkiye'deki üniversite etik kurullarına debriefing standartlarını içeren bir rehber hazırlanması; RTÜK/MEB medya okuryazarlığı içeriklerinin spesifik fact-check bileşenleriyle güçlendirilmesi.
 - **Orta vadeli:** Gençlik ve dijital katılım araştırmaları için Türkiye'de ortak ölçüm geçerliliği standardının (Adcock & Collier çerçevesi) benimsenmesi; TÜİK gençlik anketlerine kimlik tehdidi ve değer yönelimi modüllerinin eklenmesi.
 - **Uzun vadeli:** 'Manipüle edilebilir seçmen' tartışması ışığında, dijital manipülasyon ve dezenformasyon anlatılarının kanıta dayalı biçimde değerlendirileceği bağımsız bir akademik izleme platformunun kurulması; Farrell & Newman'ın LIIO çerçevesinin Türkiye'nin uluslararası bilgi politikası tartışmalarına entegre edilmesi.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]

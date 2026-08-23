@@ -310,3 +310,28 @@ Farrell ve Newman'ın liberal uluslararası bilgi düzeni (LIIO) tezi, Türkiye 
 - [How Social Science Got Better: Overcoming Bias with More Evidence, Diversity, and Self-Ref](https://x.com/i/status/2090780375765451211)
 - [Priming common European and democratic values does not reduce affective polarization — Can](https://x.com/i/status/2090868037587194093)
 - [The Janus Face of the Liberal International Information Order: When Global Institutions Ar](https://x.com/i/status/2090820898651541925)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/x-com.md|X (Twitter)]]
