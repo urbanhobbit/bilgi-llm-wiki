@@ -267,4 +267,5 @@
 - [[raw/articles/2026-08-21_childcare-in-transition-evidence-that-patterns-of-.md|Childcare in Transition: Evidence That Patterns of Childcare Differ by Degree of Market Integration in Northwestern Tanzania — Hassan, Lawson, Schaffnit, Urassa & Sear (Demography, 2026)]]
 - [[raw/articles/2026-08-17_group-identity-and-belief-formation-a-microfoundat.md|Group Identity and Belief Formation: A Microfoundation of Political Polarization — Bauer, Chen, Hett & Kosfeld (The Economic Journal, 2026)]]
 - [[raw/articles/2026-08-14_political-polarization-and-counter-attitudinal-inf.md|Political Polarization and Counter-attitudinal Information Consumption and Internalization — Larreguy & Tiburcio (The Economic Journal, 2026)]]
+- [[raw/articles/2026-08-19_parallel-partisan-public-responsiveness-to-policy-.md|Parallel Partisan Public Responsiveness to Policy and the News]]
 

@@ -629,3 +629,8 @@
 - Source files: 2026-08-23_larreguy_counterattitudinal.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-19_parallel-partisan-public-responsiveness-to-policy-.md]] — Parallel Partisan Public Responsiveness to Policy and the News
+- Source files: 2026-08-24_120959_ingestion.json
+- Agent: OKF Ingestion Pipeline
+
