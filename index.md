@@ -268,4 +268,7 @@
 - [[raw/articles/2026-08-17_group-identity-and-belief-formation-a-microfoundat.md|Group Identity and Belief Formation: A Microfoundation of Political Polarization — Bauer, Chen, Hett & Kosfeld (The Economic Journal, 2026)]]
 - [[raw/articles/2026-08-14_political-polarization-and-counter-attitudinal-inf.md|Political Polarization and Counter-attitudinal Information Consumption and Internalization — Larreguy & Tiburcio (The Economic Journal, 2026)]]
 - [[raw/articles/2026-08-19_parallel-partisan-public-responsiveness-to-policy-.md|Parallel Partisan Public Responsiveness to Policy and the News]]
+- [[raw/articles/2008-04_is-polarization-a-myth.md|Is Polarization a Myth?]]
+- [[raw/articles/2026-08-21_online-discourse-is-falsely-polarized-by-self-sele.md|Online Discourse is Falsely Polarized by Self-Selection]]
+- [[raw/articles/2008-04_is-polarization-a-myth-abramowitz-saunders-the-jou.md|Is Polarization a Myth? — Abramowitz & Saunders (The Journal of Politics, 2008)]]
 
