@@ -271,4 +271,5 @@
 - [[raw/articles/2008-04_is-polarization-a-myth.md|Is Polarization a Myth?]]
 - [[raw/articles/2026-08-21_online-discourse-is-falsely-polarized-by-self-sele.md|Online Discourse is Falsely Polarized by Self-Selection]]
 - [[raw/articles/2008-04_is-polarization-a-myth-abramowitz-saunders-the-jou.md|Is Polarization a Myth? — Abramowitz & Saunders (The Journal of Politics, 2008)]]
+- [[raw/articles/2026-07-26_futuring-practices-in-and-against-the-unequal-dist.md|Futuring practices in and against the unequal distribution of futures — Llobet & Rosen (Children's Geographies, 2026)]]
 

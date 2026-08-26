@@ -641,3 +641,8 @@
 - Source files: 2026-08-25_002505_ingestion.json, 2026-08-25_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-26_futuring-practices-in-and-against-the-unequal-dist.md]] — Futuring practices in and against the unequal distribution of futures — Llobet & Rosen (Children's Geographies, 2026)
+- Source files: 2026-08-25_llobet-rosen-futuring-children.json
+- Agent: OKF Ingestion Pipeline
+
