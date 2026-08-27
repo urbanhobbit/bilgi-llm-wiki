@@ -646,3 +646,8 @@
 - Source files: 2026-08-25_llobet-rosen-futuring-children.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-24_where-the-grass-seems-greener-economic-mispercepti.md]] — Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy — Acemoglu et al. (NBER WP 35644, 2026)
+- Source files: 2026-08-27_acemoglu-economic-misperceptions-support-democracy.json
+- Agent: OKF Ingestion Pipeline
+
