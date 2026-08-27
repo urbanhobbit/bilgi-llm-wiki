@@ -56,4 +56,4 @@ Türkiye'de ekonomik performans algıları ile rejim desteği arasındaki ilişk
 - [[concepts/populist-oylama.md|Popülist Oy Verme]]
 - [[concepts/populizm.md|Popülizm]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nber.md|Nber]]
+- [[entities/nber.md|NBER]]
