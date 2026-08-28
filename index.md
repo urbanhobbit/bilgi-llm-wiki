@@ -279,4 +279,5 @@
 - [[raw/articles/2008-04_is-polarization-a-myth-abramowitz-saunders-the-jou.md|Is Polarization a Myth? — Abramowitz & Saunders (The Journal of Politics, 2008)]]
 - [[raw/articles/2026-07-26_futuring-practices-in-and-against-the-unequal-dist.md|Futuring practices in and against the unequal distribution of futures — Llobet & Rosen (Children's Geographies, 2026)]]
 - [[raw/articles/2026-08-24_where-the-grass-seems-greener-economic-mispercepti.md|Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy — Acemoglu et al. (NBER WP 35644, 2026)]]
+- [[raw/articles/2026-08-10_measuring-narrative-polarization-in-online-discour.md|Measuring Narrative Polarization in Online Discourse — Elfes, Bastos & Aiello (PNAS Nexus 5(8), 2026)]]
 

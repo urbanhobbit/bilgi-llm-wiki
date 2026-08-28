@@ -658,3 +658,8 @@
 - Source files: 2026-08-27_acemoglu-economic-misperceptions-support-democracy.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-10_measuring-narrative-polarization-in-online-discour.md]] — Measuring Narrative Polarization in Online Discourse — Elfes, Bastos & Aiello (PNAS Nexus 5(8), 2026)
+- Source files: 2026-08-28_narrative-polarization.json
+- Agent: OKF Ingestion Pipeline
+
