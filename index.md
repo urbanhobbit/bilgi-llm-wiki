@@ -43,6 +43,11 @@
 - [[concepts/dijital-haklar.md|Çocuk Dijital Hakları]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation]]
+- [[concepts/election-interference-disinformation.md|Election Interference and Disinformation]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
 
 ## Raw Articles
 

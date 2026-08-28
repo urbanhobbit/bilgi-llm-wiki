@@ -1,3 +1,10 @@
+## [2026-08-28] ingest | FIMI kavram sayfası eklendi
+- Concept: [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]] — AB/EEAS çerçevesi; tanım, aktörler (Rusya/Çin), Türkiye bağlamı (CoE Kas 2025 raporu), ilgili kavram bağlantıları
+- Index: Concepts bölümüne FIMI + 4 eksik ilgili kavram eklendi (dezenformasyon, geopolitical, election-interference, ai-generated)
+- Scripts: CONCEPT_KEYWORDS'a "fimi" eklendi (okf_ingestion.py + add_wikilinks.py)
+- Bundle + viz.html yeniden üretildi (add_wikilinks → okf_viz_generator)
+- Agent: Manuel (kullanıcı isteği)
+
 ## [2026-08-22] ingest | Haftalık Bülten Entegrasyonu (Hafta 34/2026)
 - Raw: [[raw/articles/2026-08-22_cocuk_dijital_kurator_bulteni.md]] — KURATOR Weekly Bulletin on Children and Digital World (Week 34/2026)
 - Raw: [[raw/articles/2026-08-22_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Weekly Screening (2026-08-22)
