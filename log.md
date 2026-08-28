@@ -663,3 +663,8 @@
 - Source files: 2026-08-28_narrative-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-06-14_repressed-media-and-illiberal-politics-in-turkey-t.md]] — Repressed media and illiberal politics in Turkey: the persistence of fear — Akser & Baybars (Southeast European and Black Sea Studies 23(1), 2023)
+- Source files: 2026-08-28_repressed-media-turkey.json
+- Agent: OKF Ingestion Pipeline
+

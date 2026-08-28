@@ -280,4 +280,5 @@
 - [[raw/articles/2026-07-26_futuring-practices-in-and-against-the-unequal-dist.md|Futuring practices in and against the unequal distribution of futures — Llobet & Rosen (Children's Geographies, 2026)]]
 - [[raw/articles/2026-08-24_where-the-grass-seems-greener-economic-mispercepti.md|Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy — Acemoglu et al. (NBER WP 35644, 2026)]]
 - [[raw/articles/2026-08-10_measuring-narrative-polarization-in-online-discour.md|Measuring Narrative Polarization in Online Discourse — Elfes, Bastos & Aiello (PNAS Nexus 5(8), 2026)]]
+- [[raw/articles/2022-06-14_repressed-media-and-illiberal-politics-in-turkey-t.md|Repressed media and illiberal politics in Turkey: the persistence of fear — Akser & Baybars (Southeast European and Black Sea Studies 23(1), 2023)]]
 
