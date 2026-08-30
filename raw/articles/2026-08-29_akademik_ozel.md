@@ -229,3 +229,28 @@ Türkiye'de medya korkusunu uzun vadeli tarihsel perspektifle (AK Parti kırılm
 7. Acemoglu, D., Ajzenman, N., Cruces, G., Fiszbein, M., Garcia Zavaleta, G. & Molina, C. (2026). Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy. NBER WP 35644.
 8. Elfes, J., Bastos, M. & Aiello, L. M. (2026). Measuring Narrative Polarization in Online Discourse. *PNAS Nexus* 5(8), pgag270. DOI: 10.1093/pnasnexus/pgag270.
 9. Akser, M. & Baybars, B. (2022). Repressed media and illiberal politics in Turkey: the persistence of fear. *Southeast European and Black Sea Studies*. DOI: 10.1080/14683857.2022.2088647.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populist-oylama.md|Popülist Oy Verme]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Oxford Academic]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/x-com.md|X (Twitter)]]

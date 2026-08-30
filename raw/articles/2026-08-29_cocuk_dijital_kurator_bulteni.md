@@ -32,3 +32,18 @@ Türkiye için öneriler: (1) MEB medya okuryazarlığı müfredatına 'görüne
 - **Kısa vadeli:** Çocuk ve gençlere yönelik medya okuryazarlığı içeriklerine sahte kutuplaşma ve görünen çoğunluk yanılgısı modüllerinin eklenmesi; Türkiye'deki üniversite etik kurullarının genç katılımlı çevrimiçi deneylerde bilgilendirilmiş onam ve debriefing standartlarını güçlendirmesi.
 - **Orta vadeli:** Gençlere yönelik depolarizasyon müdahalelerinin (empati, paylaşılan kimlik videoları) Türkiye bağlamında pilot uygulanması ve etki değerlendirmesi; çocuk coğrafyaları perspektifinin UNICEF Türkiye ve Çocuk Hakları Sözleşmesi uygulamalarına entegrasyonu.
 - **Uzun vadeli:** Medya çeşitliliği ve çocukların bilgi ortamı ilişkisini izleyen bağımsız bir akademik gözlemevi kurulması; 'bastırılmış medya sistemi' analizinin güncel verilerle (2023 sonrası) izlenmesi ve çocuk odaklı medya politikalarına yansıtılması.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/x-com.md|X (Twitter)]]
