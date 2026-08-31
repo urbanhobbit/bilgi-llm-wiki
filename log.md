@@ -683,3 +683,8 @@
 - Source files: 2026-08-28_repressed-media-turkey.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-08-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-31_qualitative-research-in-an-era-of-artificial-intel.md]] — Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation
+- Source files: 2026-08-31_categorized.json
+- Agent: OKF Ingestion Pipeline
+
