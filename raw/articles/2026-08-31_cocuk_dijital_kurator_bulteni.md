@@ -285,3 +285,25 @@ Avustralya Aralık 2025'te dünyada ilk under-16 sosyal medya yasağını uygula
 ---
 
 *Kaynak erişim notu: ✅ = doğrudan içerik çekildi; ⚠️ = bot koruması/erişim engeli nedeniyle başlık ve arama meta verisi esas alındı. Telegram link akışı 29-31 Ağustos'ta boş olduğundan derleme doğrudan kaynak taramasıyla üretilmiştir.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/new-york-times.md|New York Times]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-theguardian-com.md|The Guardian]]

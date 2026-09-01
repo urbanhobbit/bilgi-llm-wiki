@@ -688,3 +688,9 @@
 - Source files: 2026-08-31_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-31_from-avoider-to-challenger-how-individuals-respond.md]] — From avoider to challenger: How individuals respond when faced with misinformation
+- Raw: [[raw/articles/2026-08-27_monitoring-misinformation-building-discernment-a-c.md]] — Monitoring misinformation, building discernment: A crowdsourcing study during the 2025 Australian federal election
+- Source files: 2026-09-01_hks-misinfo-review-cift.json
+- Agent: OKF Ingestion Pipeline
+

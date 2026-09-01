@@ -285,4 +285,6 @@
 - [[raw/articles/2026-08-10_measuring-narrative-polarization-in-online-discour.md|Measuring Narrative Polarization in Online Discourse — Elfes, Bastos & Aiello (PNAS Nexus 5(8), 2026)]]
 - [[raw/articles/2022-06-14_repressed-media-and-illiberal-politics-in-turkey-t.md|Repressed media and illiberal politics in Turkey: the persistence of fear — Akser & Baybars (Southeast European and Black Sea Studies 23(1), 2023)]]
 - [[raw/articles/2026-08-31_qualitative-research-in-an-era-of-artificial-intel.md|Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation]]
+- [[raw/articles/2026-08-31_from-avoider-to-challenger-how-individuals-respond.md|From avoider to challenger: How individuals respond when faced with misinformation]]
+- [[raw/articles/2026-08-27_monitoring-misinformation-building-discernment-a-c.md|Monitoring misinformation, building discernment: A crowdsourcing study during the 2025 Australian federal election]]
 

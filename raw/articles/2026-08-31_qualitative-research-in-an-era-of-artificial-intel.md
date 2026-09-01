@@ -45,3 +45,22 @@ Bu makale, Türkiye'deki sosyal bilim araştırmaları için hem bir fırsat hem
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentanglin]]
+- [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md|Bridging gaps: how investment in public childcare ]]
+- [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemi]]
+- [[raw/articles/2025-09-16_the-effect-of-real-news-party-cues.md|The effect of real-news party cues]]
+- [[raw/articles/2026-01-12_survey-quality-and-acquiescence-bias-a-cautionary-.md|Survey Quality and Acquiescence Bias: A Cautionary]]
