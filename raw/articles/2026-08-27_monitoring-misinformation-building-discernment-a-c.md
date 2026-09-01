@@ -59,3 +59,6 @@ Türkiye'de seçim dönemlerinde dezenformasyon izleme çoğunlukla merkezi kuru
 - [[concepts/election-interference-disinformation.md|Election Interference and Disinformation (Seçim Müdahalesi ve Dezenformasyonu)]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/misinforeview-hks-harvard-edu.md|Harvard Kennedy School Misinformation Review]]

@@ -51,3 +51,6 @@ Türkiye'de dezenformasyonla mücadele genellikle cezai düzenlemeler ve platfor
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/misinforeview-hks-harvard-edu.md|Harvard Kennedy School Misinformation Review]]
