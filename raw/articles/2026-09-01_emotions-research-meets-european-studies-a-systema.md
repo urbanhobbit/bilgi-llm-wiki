@@ -2,9 +2,7 @@
 type: raw_article
 title: 'Emotions research meets European studies: a systematic literature review and
   future research agenda'
-description: Avrupa çalışmalarında duyguların önemi giderek daha fazla kabul görüyor;
-  AB'yi duygular üzerinden çalışan araştırmacıların sayısı artıyor. Ancak bu literatür
-  temalar, analiz düzeyleri ve araştırma yön...
+description: 'Gürkan, Figari Barberis & Kantorowicz (Journal of European Public Policy, 2026): PRISMA ile 20.699 makaleden seçilen 194 çalışma üzerinden AB ve duygular literatürünün temalarını, yöntemlerini ve gelecek araştırma gündemini haritalayan sistematik derleme.'
 resource: https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2723141
 tags:
 - akademik
@@ -24,7 +22,11 @@ published: '2026-09-01'
 
 **Author(s):** Seda Gürkan, Cesare Figari Barberis & Jarosław Kantorowicz (Institute of Security and Global Affairs, Leiden University)
 
+**Journal:** *Journal of European Public Policy* (pp. 1–30)
+
 **Published:** 2026-09-01
+
+**DOI:** 10.1080/13501763.2026.2723141
 
 **Source:** [https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2723141](https://www.tandfonline.com/doi/full/10.1080/13501763.2026.2723141)
 
@@ -56,4 +58,4 @@ AB-Türkiye ilişkileri, adaylık sürecinin duraksamasıyla birlikte büyük ö
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
