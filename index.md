@@ -288,4 +288,5 @@
 - [[raw/articles/2026-08-31_from-avoider-to-challenger-how-individuals-respond.md|From avoider to challenger: How individuals respond when faced with misinformation]]
 - [[raw/articles/2026-08-27_monitoring-misinformation-building-discernment-a-c.md|Monitoring misinformation, building discernment: A crowdsourcing study during the 2025 Australian federal election]]
 - [[raw/articles/2026-09-02_toward-an-integrated-and-globally-equitable-unders.md|Toward an integrated and globally equitable understanding of political polarization]]
+- [[raw/articles/2026-09-01_emotions-research-meets-european-studies-a-systema.md|Emotions research meets European studies: a systematic literature review and future research agenda]]
 

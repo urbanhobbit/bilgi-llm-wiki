@@ -699,3 +699,8 @@
 - Source files: 2026-09-03_nature-comms-global-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-01_emotions-research-meets-european-studies-a-systema.md]] — Emotions research meets European studies: a systematic literature review and future research agenda
+- Source files: 2026-09-03_jepp-emotions-european-studies.json
+- Agent: OKF Ingestion Pipeline
+
