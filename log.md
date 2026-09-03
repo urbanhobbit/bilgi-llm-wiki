@@ -694,3 +694,8 @@
 - Source files: 2026-09-01_hks-misinfo-review-cift.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-02_toward-an-integrated-and-globally-equitable-unders.md]] — Toward an integrated and globally equitable understanding of political polarization
+- Source files: 2026-09-03_nature-comms-global-polarization.json
+- Agent: OKF Ingestion Pipeline
+
