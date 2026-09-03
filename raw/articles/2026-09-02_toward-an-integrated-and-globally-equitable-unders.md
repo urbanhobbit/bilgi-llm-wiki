@@ -1,13 +1,13 @@
 ---
 type: raw_article
 title: Toward an integrated and globally equitable understanding of political polarization
-description: Kutuplaşma araştırmalarının neredeyse yarısı yalnızca ABD verisine dayanıyor;
-  bu perspektif makalesi, küresel olarak adil ve disiplinler arası bir kutuplaşma
-  anlayışı çağrısı yapıyor. Nature Communica...
+description: 'Falkenberg ve 20 araştırmacı (Nature Communications, 2026): 53 ülke kanıtıyla duygusal kutuplaşmanın demokratik erozyonla ilişkili olduğunu, ideolojik kutuplaşmanın olmadığını gösteren; ABD-merkezli kutuplaşma teorilerine küresel ve disiplinler arası bir düzeltme çağrısı.'
 resource: https://www.nature.com/articles/s41467-026-76110-5
 tags:
 - kurator
 - high
+- kutuplasma
+- kuresel
 timestamp: '2026-09-03T14:43:20Z'
 source_file: 2026-09-03_nature-comms-global-polarization.json
 category: KURATOR
@@ -22,7 +22,11 @@ published: '2026-09-02'
 
 **Author(s):** Max Falkenberg, Matteo Cinelli, Alessandro Galeazzi, Christopher A. Bail, Rosa M. Benito, Axel Bruns, Anatoliy Gruzd, David Lazer, Jae Kook Lee, Jennifer McCoy, Kikuko Nagayoshi, David G. Rand, Antonio Scala, Alexandra A. Siegel, Sander van der Linden, Onur Varol, Ingmar Weber, Magdalena Wojcieszak, Fabiana Zollo, Andrea Baronchelli & Walter Quattrociocchi
 
+**Journal:** *Nature Communications* (Vol. 17, makale 8338)
+
 **Published:** 2026-09-02
+
+**DOI:** 10.1038/s41467-026-76110-5
 
 **Source:** [https://www.nature.com/articles/s41467-026-76110-5](https://www.nature.com/articles/s41467-026-76110-5)
 
@@ -38,7 +42,7 @@ Kutuplaşma araştırmalarının neredeyse yarısı yalnızca ABD verisine dayan
 - Disiplinler arası açık: geleneksel sosyal bilim ile internet/sosyal medya odaklı yeni yaklaşımlar arasında köprü gerekiyor.
 - Sistemik engeller: veri erişim kısıtları ve yanlış teşvikler küresel kutuplaşma araştırmalarını daraltıyor.
 
-## Turkey Context
+## Türkiye Bağlamı
 
 Makale, kutuplaşma araştırmalarındaki ABD-merkezli varsayımları sorguladığı için Türkiye'deki KURATOR alanı çalışmalarına doğrudan yöntemsel bir uyarı niteliğinde. Türkiye literatüründe ideolojik eksen (parti konumlanmaları) sık ölçülürken, duygusal kutuplaşma (karşı partililere duyulan antipati) ölçümleri daha yeni gelişiyor; makalenin 53 ülke bulgusu, Türkiye'de gözlenen yüksek gerilimin ideolojik mesafeden çok duygusal kutuplaşmadan kaynaklanabileceğini düşündürüyor. Yazar kadrosunda Sabancı Üniversitesi'nden Onur Varol'un bulunması, Türk sosyal biliminin bu küresel ağa eklemlendiğini gösteriyor. Demokratik erozyon tartışmalarının yoğunlaştığı Türkiye'de, duygusal kutuplaşma ile kurumsal güven erozyonu arasındaki ilişkiyi yerel veriyle sınayan çalışmalar için güçlü bir kavramsal çerçeve sunuyor.
 
@@ -57,4 +61,4 @@ Makale, kutuplaşma araştırmalarındaki ABD-merkezli varsayımları sorguladı
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nature-com.md|Nature Com]]
+- [[entities/nature-com.md|Nature Communications]]
