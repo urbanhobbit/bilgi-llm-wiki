@@ -292,4 +292,5 @@
 - [[raw/articles/2026-09-02_toward-an-integrated-and-globally-equitable-unders.md|Toward an integrated and globally equitable understanding of political polarization]]
 - [[raw/articles/2026-09-01_emotions-research-meets-european-studies-a-systema.md|Emotions research meets European studies: a systematic literature review and future research agenda]]
 - [[raw/articles/2025-05-22_emotion-sells-rage-bait-vs-information-bait-in-cli.md|Emotion Sells: Rage Bait vs. Information Bait in Clickbait News Headlines on Social Media]]
+- [[raw/articles/2026-09-02_dimensions-of-division-structuring-ideological-pol.md|Dimensions of Division: Structuring Ideological Polarization During Poland's Democratic Backsliding]]
 

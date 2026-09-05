@@ -717,3 +717,8 @@
 - Source files: 2026-09-05_emotion-sells-rage-bait.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-02_dimensions-of-division-structuring-ideological-pol.md]] — Dimensions of Division: Structuring Ideological Polarization During Poland's Democratic Backsliding
+- Source files: 2026-09-05_poland-ideological-polarization.json
+- Agent: OKF Ingestion Pipeline
+
