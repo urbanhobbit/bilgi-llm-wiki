@@ -712,3 +712,8 @@
 - Source files: 2026-09-03_jepp-emotions-european-studies.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-05-22_emotion-sells-rage-bait-vs-information-bait-in-cli.md]] — Emotion Sells: Rage Bait vs. Information Bait in Clickbait News Headlines on Social Media
+- Source files: 2026-09-05_emotion-sells-rage-bait.json
+- Agent: OKF Ingestion Pipeline
+
