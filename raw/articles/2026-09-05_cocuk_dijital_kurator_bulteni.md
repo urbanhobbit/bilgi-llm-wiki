@@ -32,3 +32,23 @@ Türkiye için öneriler: (1) gençlik kutuplaşmasını duygusal/ideolojik ayr�
 - **Kısa vadeli:** Gençlere yönelik medya okuryazarlığı içeriklerine 'güvenli itiraz' ve akran arası düzeltme modüllerinin eklenmesi; Türkiye'deki gençlik kutuplaşması araştırmalarında duygusal-ideolojik ayrımının ölçülmesi.
 - **Orta vadeli:** Üniversite + doğrulama platformu (teyit.org, Doğruluk Payı) iş birliğiyle genç gönüllülerin katıldığı kitle kaynak seçim izleme pilotunun tasarlanması; çocuklarla yürütülen nitel araştırmalarda LLM kullanımına ilişkin etik kılavuz geliştirilmesi.
 - **Uzun vadeli:** Türkiye'de çocukların ve gençlerin bilgi ortamını (kutuplaşma, dezenformasyon, yapay zekâ etkileşimi) bütüncül izleyen bağımsız bir akademik gözlemevi kurulması; AB-Türkiye ilişkilerinde duygu araştırmalarının gençlik boyutuyla entegrasyonu.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/nature-com.md|Nature Communications]]
+- [[entities/unicef.md|UNICEF]]

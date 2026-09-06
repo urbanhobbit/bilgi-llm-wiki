@@ -722,3 +722,8 @@
 - Source files: 2026-09-05_poland-ideological-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-14_modelling-infodemics-on-a-global-scale-a-30-countr.md]] — Modelling infodemics on a global scale: A 30 countries study using epidemiological and social listening data
+- Source files: 2026-09-06_modelling-infodemics-global-scale.json
+- Agent: OKF Ingestion Pipeline
+

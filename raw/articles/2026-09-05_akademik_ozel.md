@@ -137,3 +137,20 @@ Karma yöntemli, ikincil veri analizine dayanan bir araştırma notudur: Birleş
 3. Kruger, A., Saletta, M. & Howe, P. (2026). Monitoring misinformation, building discernment: A crowdsourcing study during the 2025 Australian federal election. *HKS Misinformation Review*. DOI: 10.37016/mr-2020-210.
 4. Falkenberg, M., Cinelli, M., Galeazzi, A., Bail, C. A., Benito, R. M., Bruns, A., Gruzd, A., Lazer, D., Lee, J. K., McCoy, J., Nagayoshi, K., Rand, D. G., Scala, A., Siegel, A. A., van der Linden, S., Varol, O., Weber, I., Wojcieszak, M., Zollo, F., Baronchelli, A. & Quattrociocchi, W. (2026). Toward an integrated and globally equitable understanding of political polarization. *Nature Communications*. DOI: 10.1038/s41467-026-76110-5.
 5. Gürkan, S., Figari Barberis, C. & Kantorowicz, J. (2026). Emotions research meets European studies: a systematic literature review and future research agenda. *Journal of European Public Policy*. DOI: 10.1080/13501763.2026.2723141.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/nature-com.md|Nature Communications]]

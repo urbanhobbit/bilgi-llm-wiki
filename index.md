@@ -293,4 +293,5 @@
 - [[raw/articles/2026-09-01_emotions-research-meets-european-studies-a-systema.md|Emotions research meets European studies: a systematic literature review and future research agenda]]
 - [[raw/articles/2025-05-22_emotion-sells-rage-bait-vs-information-bait-in-cli.md|Emotion Sells: Rage Bait vs. Information Bait in Clickbait News Headlines on Social Media]]
 - [[raw/articles/2026-09-02_dimensions-of-division-structuring-ideological-pol.md|Dimensions of Division: Structuring Ideological Polarization During Poland's Democratic Backsliding]]
+- [[raw/articles/2026-08-14_modelling-infodemics-on-a-global-scale-a-30-countr.md|Modelling infodemics on a global scale: A 30 countries study using epidemiological and social listening data]]
 
