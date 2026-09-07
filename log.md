@@ -733,3 +733,8 @@
 - Source files: 2026-09-06_modelling-infodemics-global-scale.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-01_issue-selection-inequality-and-polarization-of-soc.md]] — Issue selection, inequality, and polarization of social ideologies
+- Source files: 2026-09-07_sage-issue-selection-polarization.json
+- Agent: OKF Ingestion Pipeline
+
