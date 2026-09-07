@@ -78,3 +78,21 @@ Türkiye için öneriler: (1) BTK uygulama yönetmeliği taslağında **veri min
 - 🇪🇺 AB: 13 yaş altı kısıtlaması önerisinin somutlaşması; TikTok/Meta soruşturmaları
 - 🇹🇷 Türkiye: BTK uygulama yönetmeliği; AYM kararı; Kasım uygulama takvimi yaklaşırken platformların yaş doğrulama duyuruları
 - 📚 Akademik: çocuk-dijital başlıklı doğrudan KURATOR linklerinin akışa dönmesi (arka arkaya üç haftadır akademik ağırlıklı akış)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
