@@ -738,3 +738,8 @@
 - Source files: 2026-09-07_sage-issue-selection-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-08_children-and-young-people-s-online-experiences-and.md]] — Children and young people's online experiences and digital childhoods (POST Spotlight Collection)
+- Source files: 2026-09-09_post-digital-childhoods-collection.json
+- Agent: OKF Ingestion Pipeline
+

@@ -296,4 +296,5 @@
 - [[raw/articles/2026-09-02_dimensions-of-division-structuring-ideological-pol.md|Dimensions of Division: Structuring Ideological Polarization During Poland's Democratic Backsliding]]
 - [[raw/articles/2026-08-14_modelling-infodemics-on-a-global-scale-a-30-countr.md|Modelling infodemics on a global scale: A 30 countries study using epidemiological and social listening data]]
 - [[raw/articles/2026-09-01_issue-selection-inequality-and-polarization-of-soc.md|Issue selection, inequality, and polarization of social ideologies]]
+- [[raw/articles/2026-09-08_children-and-young-people-s-online-experiences-and.md|Children and young people's online experiences and digital childhoods (POST Spotlight Collection)]]
 
