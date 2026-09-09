@@ -743,3 +743,8 @@
 - Source files: 2026-09-09_post-digital-childhoods-collection.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-08_harmful-misinformation-as-a-quantifiable-risk-in-h.md]] — Harmful misinformation as a quantifiable risk in health content: WHO-aligned risk assessment framework for flagging potential harms and informing policy safeguards
+- Source files: 2026-09-09_jrr-health-misinformation-risk-framework.json
+- Agent: OKF Ingestion Pipeline
+
