@@ -748,3 +748,8 @@
 - Source files: 2026-09-09_jrr-health-misinformation-risk-framework.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-01_measuring-partisanship-and-representation-in-onlin.md]] — Measuring Partisanship and Representation in Online Congressional Communications
+- Source files: 2026-09-11_apsr-congressional-communications-partisanship.json
+- Agent: OKF Ingestion Pipeline
+
