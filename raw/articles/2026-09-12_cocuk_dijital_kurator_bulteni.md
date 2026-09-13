@@ -76,3 +76,23 @@ POST'un bu hafta yayımladığı kanıt koleksiyonu, Türkiye'deki tartışmaya 
 - 🇪🇺 AB: "sosyal medya artı" kapsam tartışması; TikTok/Meta soruşturmaları.
 - 🇹🇷 Türkiye: BTK uygulama yönetmeliği taslağı, AYM kararı ve Kasım 2026 uygulama takvimi yaklaşırken platformların yaş doğrulama duyuruları.
 - 📚 Akademik akış: doğrudan çocuk-dijital başlıklı KURATOR linklerinin akışa dönmesi (üst üste dördüncü haftadır akademik ağırlıklı akış).
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

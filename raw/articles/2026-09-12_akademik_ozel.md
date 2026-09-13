@@ -141,3 +141,20 @@ Journal of Risk Research dergisinde 8 Eylül 2026'da çevrimiçi yayımlanan (32
 
 **İlgili bülten bağlantıları (bu hafta eşleşen kaynaklar):**
 - POST — Parliamentary Office of Science and Technology (2026-09-08). *Children and young people's online experiences and digital childhoods* (Spotlight Collection). https://post.parliament.uk/children-and-young-peoples-online-experiences-and-digital-childhoods/ (KURATOR bülteninde işlenmiştir; Scrapling 200 ile erişilebilir.)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

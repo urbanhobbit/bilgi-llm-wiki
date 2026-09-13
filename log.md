@@ -761,3 +761,8 @@
 - Source files: 2026-09-11_apsr-congressional-communications-partisanship.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2024-03-07_the-great-global-divider-a-comparison-of-urban-rur.md]] — The Great Global Divider? A Comparison of Urban-Rural Partisan Polarization in Western Democracies
+- Source files: 2024-03-07_huijsmans-rodden-urban-rural-partisan-polarization.json
+- Agent: OKF Ingestion Pipeline
+
