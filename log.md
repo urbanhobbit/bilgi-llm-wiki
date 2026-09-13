@@ -771,3 +771,8 @@
 - Source files: 2026-09-04_aslan-autocratization-democracy-understanding-turkey.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-09_reassurance-and-betrayal-cross-ethnic-appeals-by-p.md]] — Reassurance and betrayal: Cross-ethnic appeals by party leaders in divided societies lead to asymmetric voter reactions
+- Source files: 2026-09-09_garry-cross-ethnic-appeals-divided-societies.json
+- Agent: OKF Ingestion Pipeline
+
