@@ -305,4 +305,5 @@
 - [[raw/articles/2026-09-04_autocratization-and-citizens-understanding-of-demo.md|Autocratization and citizens' understanding of democracy: Evidence from Turkey]]
 - [[raw/articles/2026-09-09_reassurance-and-betrayal-cross-ethnic-appeals-by-p.md|Reassurance and betrayal: Cross-ethnic appeals by party leaders in divided societies lead to asymmetric voter reactions]]
 - [[raw/articles/2026-09-08_do-emotions-affect-political-trust-judgments.md|Do emotions affect political trust judgments?]]
+- [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md|Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy]]
 

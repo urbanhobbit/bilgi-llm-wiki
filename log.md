@@ -781,3 +781,8 @@
 - Source files: 2026-09-08_landesvatter-bauer-emotions-political-trust.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md]] — Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy
+- Source files: 2026-08-29_versteegen-cool-citizens-affectively-unpolarized.json
+- Agent: OKF Ingestion Pipeline
+
