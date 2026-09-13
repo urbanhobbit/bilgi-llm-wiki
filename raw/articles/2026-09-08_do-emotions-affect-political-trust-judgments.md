@@ -55,4 +55,8 @@ Türkiye, siyasal güven ölçümünün duygu yüklü doğasının en görünür
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
