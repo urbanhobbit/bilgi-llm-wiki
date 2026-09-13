@@ -304,4 +304,5 @@
 - [[raw/articles/2024-03-07_the-great-global-divider-a-comparison-of-urban-rur.md|The Great Global Divider? A Comparison of Urban-Rural Partisan Polarization in Western Democracies]]
 - [[raw/articles/2026-09-04_autocratization-and-citizens-understanding-of-demo.md|Autocratization and citizens' understanding of democracy: Evidence from Turkey]]
 - [[raw/articles/2026-09-09_reassurance-and-betrayal-cross-ethnic-appeals-by-p.md|Reassurance and betrayal: Cross-ethnic appeals by party leaders in divided societies lead to asymmetric voter reactions]]
+- [[raw/articles/2026-09-08_do-emotions-affect-political-trust-judgments.md|Do emotions affect political trust judgments?]]
 

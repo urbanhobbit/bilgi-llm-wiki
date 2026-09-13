@@ -776,3 +776,8 @@
 - Source files: 2026-09-09_garry-cross-ethnic-appeals-divided-societies.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-08_do-emotions-affect-political-trust-judgments.md]] — Do emotions affect political trust judgments?
+- Source files: 2026-09-08_landesvatter-bauer-emotions-political-trust.json
+- Agent: OKF Ingestion Pipeline
+
