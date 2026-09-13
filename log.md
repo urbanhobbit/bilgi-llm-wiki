@@ -766,3 +766,8 @@
 - Source files: 2024-03-07_huijsmans-rodden-urban-rural-partisan-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-04_autocratization-and-citizens-understanding-of-demo.md]] — Autocratization and citizens' understanding of democracy: Evidence from Turkey
+- Source files: 2026-09-04_aslan-autocratization-democracy-understanding-turkey.json
+- Agent: OKF Ingestion Pipeline
+
