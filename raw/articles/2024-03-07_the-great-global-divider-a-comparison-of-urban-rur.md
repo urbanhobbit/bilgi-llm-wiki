@@ -54,5 +54,9 @@ Türkiye, makalenin çerçevesinde ilginç bir sınır durum olarak okunabilir. 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]
