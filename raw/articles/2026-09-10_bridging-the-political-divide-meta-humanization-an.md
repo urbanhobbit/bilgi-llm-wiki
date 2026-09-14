@@ -55,3 +55,5 @@ Türkiye, siyasal kutuplaşma literatüründe dünyanın en kutuplaşmış demok
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

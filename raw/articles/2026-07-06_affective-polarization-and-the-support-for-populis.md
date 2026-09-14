@@ -42,3 +42,5 @@ How do citizens differ in their view of democratic governance when they are more
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

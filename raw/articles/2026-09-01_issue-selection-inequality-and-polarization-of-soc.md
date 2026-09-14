@@ -45,3 +45,5 @@ Türkiye'de parti rekabeti, Yamaguchi'nin modellediği mekanizmaya çarpıcı ö
 ### 🧠 İlgili Kavramlar
 - [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

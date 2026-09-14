@@ -54,3 +54,5 @@ Türkiye'de sosyal bilim dergilerinde (ör. SBF Dergisi, Amme İdaresi Dergisi, 
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

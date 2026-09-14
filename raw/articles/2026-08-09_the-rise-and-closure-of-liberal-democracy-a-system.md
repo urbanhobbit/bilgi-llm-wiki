@@ -59,3 +59,5 @@ Türkiye açısından bu çalışma iki düzeyde okunabilir. Birincisi, 'liberal
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

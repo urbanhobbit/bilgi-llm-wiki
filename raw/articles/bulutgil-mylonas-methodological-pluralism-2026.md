@@ -48,3 +48,5 @@ Türkiye'de siyaset bilimi ve sosyal bilimlerde son yıllarda nicel yöntemlere 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

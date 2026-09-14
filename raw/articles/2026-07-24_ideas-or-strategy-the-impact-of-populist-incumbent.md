@@ -39,3 +39,5 @@ Kirk A. Hawkins, Saskia P. Ruth-Lovell & Grant A. Mitchell, Comparative Politica
 - [[raw/articles/2026-07-23_ideas-or-strategy-populist-incumbents.md|Ideas or Strategy? The Impact of Populist Incumben]]
 - [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
 - [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/journals-sagepub-com.md|SAGE Publications]]
