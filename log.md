@@ -800,3 +800,8 @@
 - Source files: 2026-09-14_process-tracing-within-case-causal-inference.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md]] — Bridging the Political Divide: Meta-Humanization and Moral Emotions Shape Partisan Reconciliation
+- Source files: 2026-09-14_meta-humanization-moral-emotions-partisan-reconciliation.json
+- Agent: OKF Ingestion Pipeline
+
