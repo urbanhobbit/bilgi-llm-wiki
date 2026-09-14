@@ -307,4 +307,5 @@
 - [[raw/articles/2026-09-09_reassurance-and-betrayal-cross-ethnic-appeals-by-p.md|Reassurance and betrayal: Cross-ethnic appeals by party leaders in divided societies lead to asymmetric voter reactions]]
 - [[raw/articles/2026-09-08_do-emotions-affect-political-trust-judgments.md|Do emotions affect political trust judgments?]]
 - [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md|Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy]]
+- [[raw/articles/2021-03-03_the-methodological-foundation-of-process-tracing-a.md|The Methodological Foundation of Process-tracing as a Within-case Causal Inference Technique and its Applications to Research in Retail and Distribution Studies]]
 

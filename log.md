@@ -795,3 +795,8 @@
 - Source files: 2026-08-29_versteegen-cool-citizens-affectively-unpolarized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2021-03-03_the-methodological-foundation-of-process-tracing-a.md]] — The Methodological Foundation of Process-tracing as a Within-case Causal Inference Technique and its Applications to Research in Retail and Distribution Studies
+- Source files: 2026-09-14_process-tracing-within-case-causal-inference.json
+- Agent: OKF Ingestion Pipeline
+
