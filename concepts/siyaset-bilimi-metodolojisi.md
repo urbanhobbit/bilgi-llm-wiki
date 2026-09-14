@@ -20,5 +20,6 @@ Siyaset bilimi araştırmalarında kullanılan başlıca yöntemler:
 - **Deneysel yöntemler:** Anket deneyleri, saha deneyleri
 - **Boylamsal analiz:** Panel veri, zaman serisi
 - **Metin analizi:** İçerik analizi, söylem analizi
+- **Vaka içi nedensel çıkarım:** Süreç takibi (process tracing), kritik kavşak çözümlemesi
 
-İlgili kavramlar: [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]], [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]
+İlgili kavramlar: [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]], [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]], [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]]

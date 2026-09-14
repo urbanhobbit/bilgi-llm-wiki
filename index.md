@@ -48,6 +48,7 @@
 - [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation]]
 - [[concepts/election-interference-disinformation.md|Election Interference and Disinformation]]
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
+- [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]]
 
 ## Raw Articles
 
