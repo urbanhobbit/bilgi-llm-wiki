@@ -805,3 +805,8 @@
 - Source files: 2026-09-14_meta-humanization-moral-emotions-partisan-reconciliation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-01-13_when-do-parties-lie-misinformation-and-radical-rig.md]] — When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
+- Source files: 2026-09-16_tornberg-chueri-when-do-parties-lie.json
+- Agent: OKF Ingestion Pipeline
+

@@ -310,4 +310,5 @@
 - [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md|Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy]]
 - [[raw/articles/2021-03-03_the-methodological-foundation-of-process-tracing-a.md|The Methodological Foundation of Process-tracing as a Within-case Causal Inference Technique and its Applications to Research in Retail and Distribution Studies]]
 - [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md|Bridging the Political Divide: Meta-Humanization and Moral Emotions Shape Partisan Reconciliation]]
+- [[raw/articles/2025-01-13_when-do-parties-lie-misinformation-and-radical-rig.md|When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries]]
 
