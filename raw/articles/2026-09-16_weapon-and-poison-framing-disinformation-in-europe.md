@@ -57,6 +57,8 @@ Bu çalışma Türkiye'yi veri setine almıyor (yalnızca AK konuşmaları), anc
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation (Jeopolitik Dezenformasyon)]]
+- [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
