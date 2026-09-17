@@ -810,3 +810,8 @@
 - Source files: 2026-09-16_tornberg-chueri-when-do-parties-lie.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-16_weapon-and-poison-framing-disinformation-in-europe.md]] — Weapon and Poison? Framing Disinformation in European Commission Speeches, 2016–2024
+- Source files: 2026-09-17_weapon-and-poison-ec-disinformation-framing.json
+- Agent: OKF Ingestion Pipeline
+
