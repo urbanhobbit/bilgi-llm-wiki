@@ -45,3 +45,12 @@ Bu kayıt, Isabella M. Weber'in Ekim 2026'da Penguin Random House'tan çıkacak 
 
 - 📊 **Bulgular**
 - 🏛 **Politika Önerisi**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X (Twitter)]]
