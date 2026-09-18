@@ -815,3 +815,8 @@
 - Source files: 2026-09-17_weapon-and-poison-ec-disinformation-framing.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gender-c.md]] — The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation
+- Source files: 2026-09-18_intersectional-anger-gap-poq-participation.json
+- Agent: OKF Ingestion Pipeline
+

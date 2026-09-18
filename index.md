@@ -312,4 +312,5 @@
 - [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md|Bridging the Political Divide: Meta-Humanization and Moral Emotions Shape Partisan Reconciliation]]
 - [[raw/articles/2025-01-13_when-do-parties-lie-misinformation-and-radical-rig.md|When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries]]
 - [[raw/articles/2026-09-16_weapon-and-poison-framing-disinformation-in-europe.md|Weapon and Poison? Framing Disinformation in European Commission Speeches, 2016–2024]]
+- [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gender-c.md|The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation]]
 
