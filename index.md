@@ -314,4 +314,7 @@
 - [[raw/articles/2025-01-13_when-do-parties-lie-misinformation-and-radical-rig.md|When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries]]
 - [[raw/articles/2026-09-16_weapon-and-poison-framing-disinformation-in-europe.md|Weapon and Poison? Framing Disinformation in European Commission Speeches, 2016–2024]]
 - [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gender-c.md|The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation]]
+- [[raw/articles/2026-09-11_anti-fascist-economics-weber-ve-kar-lanabilirlik-k.md|Anti-Fascist Economics (Weber) ve Karşılanabilirlik Krizlerinin Aşırı Sağı Beslemesi — Grace Blakeley incelemesi]]
+- [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md|Divided We Fall: Opposition Fragmentation and the Electoral Fortunes of Governing Parties]]
+- [[raw/articles/2026-07-11_intraparty-polarization-on-climate-change-in-repub.md|Intraparty polarization on climate change in Republican Party discourse, 1987–2016]]
 

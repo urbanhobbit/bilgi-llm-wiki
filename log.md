@@ -820,3 +820,10 @@
 - Source files: 2026-09-18_intersectional-anger-gap-poq-participation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-11_anti-fascist-economics-weber-ve-kar-lanabilirlik-k.md]] — Anti-Fascist Economics (Weber) ve Karşılanabilirlik Krizlerinin Aşırı Sağı Beslemesi — Grace Blakeley incelemesi
+- Raw: [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md]] — Divided We Fall: Opposition Fragmentation and the Electoral Fortunes of Governing Parties
+- Raw: [[raw/articles/2026-07-11_intraparty-polarization-on-climate-change-in-repub.md]] — Intraparty polarization on climate change in Republican Party discourse, 1987–2016
+- Source files: 2026-09-18_anti-fascist-economics-weber-blakeley-affordability-far-right.json, 2026-09-18_intraparty-polarization-climate-republican-discourse.json, 2026-09-18_divided-we-fall-opposition-fragmentation-bjps-maeda.json
+- Agent: OKF Ingestion Pipeline
+
