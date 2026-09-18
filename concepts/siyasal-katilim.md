@@ -56,4 +56,6 @@ paylaşım) dışlanmış gruplar için alternatif ses kanalları işlevi görü
 
 ## İlgili Makaleler
 
-- [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gende.md|The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation]]
+- [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gender-c.md|The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation]]
+- [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md|'Cool Citizens': How Affectively Unpolarized Citizens...]]
+- [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md|Effects of Political Polarization on Non-Electoral Participation]]

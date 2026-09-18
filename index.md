@@ -49,6 +49,7 @@
 - [[concepts/election-interference-disinformation.md|Election Interference and Disinformation]]
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
 - [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 
 ## Raw Articles
 

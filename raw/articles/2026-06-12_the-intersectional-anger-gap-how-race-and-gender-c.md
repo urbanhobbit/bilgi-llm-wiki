@@ -53,5 +53,6 @@ Bu makale, öfkenin siyasal katılımı harekete geçirme gücünün ırk ve top
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/academic-oup-com.md|Oxford Academic]]
