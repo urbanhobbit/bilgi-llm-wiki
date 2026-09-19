@@ -827,3 +827,10 @@
 - Source files: 2026-09-18_anti-fascist-economics-weber-blakeley-affordability-far-right.json, 2026-09-18_intraparty-polarization-climate-republican-discourse.json, 2026-09-18_divided-we-fall-opposition-fragmentation-bjps-maeda.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-09-19] ingest | Weekly Bulletin Integration (Hafta 38)
+- Raw: [[raw/articles/2026-09-19_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya — Haftalık Derleme (2026-09-19; Hafta 38/2026, 13-19 Eylül dilimi; AB KIDS Act haftası)
+- Raw: [[raw/articles/2026-09-19_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA — Haftalık Derleme (2026-09-19; 13 çalışma)
+- Source files: 2026-09-14_categorized.json, 2026-09-14_categorized_batch2.json, 2026-09-16_categorized.json, 2026-09-17_categorized.json, 2026-09-18_categorized.json
+- Scrapling block rate: %67 (8/12 non-200) — metadata tabanlı sınıflandırma
+- Agent: WEEKLY BULLETIN INTEGRATION cron (Saturday 14:00)
