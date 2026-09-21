@@ -58,4 +58,7 @@ Türkiye bağlamında bu çalışmanın iki çıkarımı öne çıkıyor. Birinc
 ### 🧠 İlgili Kavramlar
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
