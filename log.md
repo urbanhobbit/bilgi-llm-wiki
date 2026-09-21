@@ -834,3 +834,8 @@
 - Source files: 2026-09-14_categorized.json, 2026-09-14_categorized_batch2.json, 2026-09-16_categorized.json, 2026-09-17_categorized.json, 2026-09-18_categorized.json
 - Scrapling block rate: %67 (8/12 non-200) — metadata tabanlı sınıflandırma
 - Agent: WEEKLY BULLETIN INTEGRATION cron (Saturday 14:00)
+## [2026-09-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-12_partisans-misperceive-and-are-influenced-by-dynami.md]] — Partisans misperceive and are influenced by dynamic norms
+- Source files: 2026-09-21_loustau-dynamic-norms-partizan-yanlis-algisi.json
+- Agent: OKF Ingestion Pipeline
+

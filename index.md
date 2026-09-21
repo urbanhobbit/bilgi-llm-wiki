@@ -24,6 +24,7 @@
 - [[entities/meddmo.md|MEDDMO (Kıbrıs/Malta)]]
 - [[entities/nber.md|NBER (National Bureau of Economic Research)]]
 - [[entities/nordis.md|NORDIS (İskandinav)]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
 - [[entities/techcrunch-com.md|TechCrunch]]
 - [[entities/www-bbc-com.md|BBC]]
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]
@@ -319,4 +320,5 @@
 - [[raw/articles/2026-09-11_anti-fascist-economics-weber-ve-kar-lanabilirlik-k.md|Anti-Fascist Economics (Weber) ve Karşılanabilirlik Krizlerinin Aşırı Sağı Beslemesi — Grace Blakeley incelemesi]]
 - [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md|Divided We Fall: Opposition Fragmentation and the Electoral Fortunes of Governing Parties]]
 - [[raw/articles/2026-07-11_intraparty-polarization-on-climate-change-in-repub.md|Intraparty polarization on climate change in Republican Party discourse, 1987–2016]]
+- [[raw/articles/2026-09-12_partisans-misperceive-and-are-influenced-by-dynami.md|Partisans misperceive and are influenced by dynamic norms]]
 
