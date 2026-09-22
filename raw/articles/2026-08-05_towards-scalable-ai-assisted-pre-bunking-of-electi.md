@@ -17,6 +17,7 @@ roles:
 - method
 - result
 published: '2026-08-05'
+updated: '2026-09-22'
 ---
 
 # Towards scalable AI-assisted pre-bunking of election misinformation: evidence from a pre-registered US panel experiment
@@ -48,5 +49,11 @@ Royal Society Open Science 13(8), 5 Ağustos 2026 — Mitchell Linegar, Betsy Si
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes (Prebunking / Inoculation)]]
+- [[concepts/election-interference-disinformation.md|Election Interference & Dezenformasyon]]
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]
 

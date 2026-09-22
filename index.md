@@ -38,6 +38,7 @@
 - [[entities/arxiv-org.md|arXiv]]
 - [[entities/www-lse-ac-uk.md|London School of Economics]]
 - [[entities/aura-com.md|Aura]]
+- [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]
 
 ## Concepts
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]

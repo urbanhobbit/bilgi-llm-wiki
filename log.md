@@ -1,3 +1,11 @@
+## [2026-09-22] update | OKF Guncelleme — Linegar et al. (RSOS 10.1098/rsos.252226) AI-assisted pre-bunking: kaynak entity + kavram linkleri
+- Raw: [[raw/articles/2026-08-05_towards-scalable-ai-assisted-pre-bunking-of-electi.md]] — sayfa 2026-08-05'te olusturulmustu; bu guncelleme kaynak kurum entity'si ve eksik kavram linklerini ekliyor (yeni sayfa URETILMEDI).
+- Kaynak: Emre Telegram DM -> https://x.com/aaiashn/status/2102385776898302190 (22 Eyl 2026 13:13Z) -> ayni makale; duplikat tespit edildi (2026-08-03_linegar-ai-prebunking.json zaten ingest edilmis).
+- Yeni entity: [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]] (yayincinin ilk ingest'i); okf_ingestion.py (2 kopya) + add_wikilinks.py ENTITY_DOMAINS'ine `royalsocietypublishing.org` eklendi.
+- Eklenen kavram linkleri: misinformation-resilience-indexes, election-interference-disinformation, yapay-zeka-demokrasi, siyaset-bilimi-metodolojisi.
+- Kaldirilan: platform-economy-misinformation (2026-08-05 ingest'inde pre-fix keyword eslesmesinden gelen yanlis pozitif; makale platform/dikkat ekonomisi konusunda degil).
+- Erisim notu: royalsocietypublishing.org Cloudflare Turnstile (403 — urllib, curl ve headless Chromium hepsi bloklandi); kunye + tam JATS abstract Crossref/OpenAlex API'den dogrulandi, tam metin erisilemedi (CC-BY 4.0 gold OA olmasina ragmen Unpaywall/OpenAlex yalniz yayinci konumunu listeliyor).
+
 ## [2026-09-21] update | OKF Guncelleme — Pavetich & Stathi, meta-humanization (PSPB 10.1177/01461672261481208) TAM METIN
 - Raw: [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md]] — sayfa 2026-09-14'te olusturulmustu (ozet tabanli); bu guncelleme TAM METIN ekliyor.
 - Kaynak: Emre Telegram DM -> https://x.com/SPSPnews/status/2102065652139774348 (21 Eyl 2026 16:01Z) -> ow.ly/e62Z50ZPEop -> SAGE DOI 10.1177/01461672261481208 (PSPB, online ilk yayin 10 Eyl 2026).
