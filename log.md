@@ -854,3 +854,8 @@
 - Source files: 2026-09-21_loustau-dynamic-norms-partizan-yanlis-algisi.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-22_does-intergroup-contact-reduce-affective-polarizat.md]] — Does Intergroup Contact Reduce Affective Polarization? A Natural Experiment
+- Source files: 2026-09-24_intergroup-contact-affective-polarization-sun.json
+- Agent: OKF Ingestion Pipeline
+

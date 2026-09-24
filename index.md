@@ -322,4 +322,5 @@
 - [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md|Divided We Fall: Opposition Fragmentation and the Electoral Fortunes of Governing Parties]]
 - [[raw/articles/2026-07-11_intraparty-polarization-on-climate-change-in-repub.md|Intraparty polarization on climate change in Republican Party discourse, 1987–2016]]
 - [[raw/articles/2026-09-12_partisans-misperceive-and-are-influenced-by-dynami.md|Partisans misperceive and are influenced by dynamic norms]]
+- [[raw/articles/2026-09-22_does-intergroup-contact-reduce-affective-polarizat.md|Does Intergroup Contact Reduce Affective Polarization? A Natural Experiment]]
 
