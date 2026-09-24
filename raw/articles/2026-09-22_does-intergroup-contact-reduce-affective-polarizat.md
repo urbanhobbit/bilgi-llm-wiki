@@ -56,7 +56,9 @@ Bu makale, gruplararası temasın (intergroup contact) duygusal kutuplaşmayı a
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
