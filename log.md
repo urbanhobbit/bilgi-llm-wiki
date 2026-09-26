@@ -1,3 +1,12 @@
+## [2026-09-26] ingest | Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-09-26_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Derleme (Hafta 39/2026, 20-26 Eylül dilimi)
+- Raw: [[raw/articles/2026-09-26_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-09-26)
+- Scrapling erişim testi: 10 URL → 4 erişilebilir / 6 bloklu (%60 blok oranı) → metadata tabanlı sınıflandırma modu. Bloklu: Wiley onlinelibrary (pops.70194, ssqu.70199), doi.org çözümlemeleri, SAGE (tsp.01461672261481208), Royal Society (rsos.252226) — hepsi 403 Cloudflare. Erişilebilir: X/Twitter kaynak status URL'leri (4/4, 200).
+- KURATOR: Telegram akışında hafta boyunca KURATOR (çocuk–dijital) kategorisinde yeni kaynak YOK (üst üste 6. hafta). Bülten doğrudan kaynak araştırmasıyla kuruldu: AB KIDS Act dört sütun + CCC/Reason/EFF eleştirileri, Birleşik Krallık 16 yaş altı paketi (gece kısıtı + AI kapsamı), Avustralya 10 Aralık bypass dalgası, Türkiye e-Devlet yaş-grubu modeli + 24 Eylül YouTube görüşmesi (Bakan Göktaş – Leslie Miller), 7578 sayılı Kanun yönetmelik takvimi.
+- AKADEMİK ÖZEL: 4 çalışma (2 yeni: Loustau vd. pops.70194 dinamik normlar; Sun ssqu.70199 gruplararası temas doğal deneyi — 2 yeniden entegre: Pavetich & Stathi PSPB 10.1177/01461672261481208; Linegar vd. RSOS 10.1098/rsos.252226).
+- Updated index.md with new articles (Last updated 2026-09-26, Total pages 160)
+- Agent: Weekly Bulletin Integration Cronjob
+
 ## [2026-09-22] update | OKF Guncelleme — Linegar et al. (RSOS 10.1098/rsos.252226) AI-assisted pre-bunking: kaynak entity + kavram linkleri
 - Raw: [[raw/articles/2026-08-05_towards-scalable-ai-assisted-pre-bunking-of-electi.md]] — sayfa 2026-08-05'te olusturulmustu; bu guncelleme kaynak kurum entity'si ve eksik kavram linklerini ekliyor (yeni sayfa URETILMEDI).
 - Kaynak: Emre Telegram DM -> https://x.com/aaiashn/status/2102385776898302190 (22 Eyl 2026 13:13Z) -> ayni makale; duplikat tespit edildi (2026-08-03_linegar-ai-prebunking.json zaten ingest edilmis).
