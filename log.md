@@ -873,3 +873,8 @@
 - Source files: 2026-09-27_listening-to-leaders-illiberal-speech.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-05_social-dominance-orientation.md]] — Social dominance orientation
+- Source files: 2026-09-27_social-dominance-orientation-pratto.json
+- Agent: OKF Ingestion Pipeline
+
