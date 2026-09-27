@@ -65,6 +65,6 @@ Türkiye açısından üç sonuç çıkıyor. Birincisi, ölçüm yaklaşımı y
 ### 🧠 İlgili Kavramlar
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|SAGE Journals]]
