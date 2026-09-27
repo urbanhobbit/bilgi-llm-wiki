@@ -141,3 +141,20 @@ Pre-registered iki dalgalı deney (N = 4.293 kayıtlı ABD seçmeni) ve insan on
 ---
 
 *Derleme: KURATOR / AKADEMİK ÖZEL otomatik bülten hattı — 2026-09-26. Kaynak arşivi: processed_links/2026-09-21_categorized.json, 2026-09-25_categorized.json, 2026-09-21_pavetich-stathi-meta-humanization-partizan-uzlasma.json, 2026-08-05_categorized_batch2.json*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]

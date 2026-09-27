@@ -176,3 +176,26 @@ Türkiye'nin çocuk–dijital gündemi bu hafta üç eşiğin kesişiminde ilerl
 ---
 
 *Bu derleme, KURATOR otomatik haftalık bülten hattı tarafından 2026-09-26 tarihinde üretilmiştir. Telegram akışında bu hafta KURATOR (çocuk–dijital) kategorisinde yeni kaynak olmadığı için bülten, doğrudan kaynak araştırmasıyla (resmî AB sayfası, ulusal düzenleyici/basın kaynakları, uzman değerlendirmeleri) kurulmuştur. Kaynak arşivi: processed_links/2026-09-21_categorized.json, 2026-09-25_categorized.json.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/esafety-commissioner.md|eSafety Commissioner (Avustralya)]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-reuters-com.md|Reuters]]

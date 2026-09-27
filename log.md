@@ -868,3 +868,8 @@
 - Source files: 2026-09-24_intergroup-contact-affective-polarization-sun.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md]] — Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline
+- Source files: 2026-09-27_listening-to-leaders-illiberal-speech.json
+- Agent: OKF Ingestion Pipeline
+
