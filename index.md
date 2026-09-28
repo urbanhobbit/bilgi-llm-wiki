@@ -328,4 +328,5 @@
 - [[raw/articles/2026-09-22_does-intergroup-contact-reduce-affective-polarizat.md|Does Intergroup Contact Reduce Affective Polarization? A Natural Experiment]]
 - [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
 - [[raw/articles/2026-08-05_social-dominance-orientation.md|Social dominance orientation]]
+- [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md|What beliefs are most debunkable?]]
 

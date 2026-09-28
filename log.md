@@ -887,3 +887,8 @@
 - Source files: 2026-09-27_social-dominance-orientation-pratto.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md]] — What beliefs are most debunkable?
+- Source files: 2026-09-17_what-beliefs-are-most-debunkable.json
+- Agent: OKF Ingestion Pipeline
+
