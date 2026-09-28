@@ -27,3 +27,4 @@ Dezenformasyon, aldatma niyetiyle üretilen ve yayılan yanlış/yanıltıcı bi
 ## İlgili Makaleler
 - [[raw/articles/2026-07-29_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as Strategy]]
 - [[raw/articles/2026-07-23_conspiracy-metacognitive-intergroup.md|Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes]]
+- [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md|What beliefs are most debunkable?]]

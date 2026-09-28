@@ -36,6 +36,7 @@
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/wordpress-com.md|WordPress]]
 - [[entities/arxiv-org.md|arXiv]]
+- [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]
 - [[entities/www-lse-ac-uk.md|London School of Economics]]
 - [[entities/aura-com.md|Aura]]
 - [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]

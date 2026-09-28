@@ -24,7 +24,9 @@ Yapay zeka (özellikle üretken modeller), demokratik süreçleri hem tehdit ede
 ## Araştırma
 - **Rountree & Gastil (2026):** GenAI müzakere simülasyonları, müzakereci demokrasiyi ölçeklendirebilir.
 - **Lira, Castelo, Puntoni & Toubia (2026):** AI destekli sentetik temas, duygusal kutuplaşmayı azaltmada umut verici bir müdahale.
+- **Boissin, Costello, Rand & Pennycook (2026):** GPT-4 ile kanıt temelli diyaloglar epistemik olarak şüpheli inançlarda güveni düşürüyor; etki inancın konusuna değil *kanıta açıklığına* göre kalibre oluyor ve yanıt uzunluğuyla değil kanıt içeriğiyle ilişkili.
 
 ## İlgili Makaleler
 - [[raw/articles/2026-07-23_genai-deliberation-simulations.md|The Case for Using Generative AI to Run Deliberation Simulations]]
 - [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|AI-Assisted Depolarization]]
+- [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md|What beliefs are most debunkable?]]
