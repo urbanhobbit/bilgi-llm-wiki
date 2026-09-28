@@ -1,3 +1,12 @@
+## [2026-09-28] ingest | Weekly Bulletin Integration
+- Raw: [[raw/articles/2026-09-28_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Derleme (Hafta 40/2026, 21-28 Eylül dilimi)
+- KURATOR: Telegram akışında hafta boyunca KURATOR (çocuk–dijital) kategorisinde yeni kaynak YOK (üst üste 7. hafta; processed_links 2026-09-21…2026-09-28 KURATOR: 0). Bülten doğrudan kaynak araştırmasıyla kuruldu.
+- İçerik omurgası: UNGA 81 haftası (Albanese "20'den fazla ülke"; Türkiye ev sahipliğinde Emine Erdoğan "Görünmeyen Mimari" programı; Hindistan "Prevention by Design" raporu), AB KIDS Act Konsey EYCS hattı (20 Kasım), Birleşik Krallık yasak tarihi Mart 2027, Avustralya yürürlükteki yasak + 99 milyon AUD ceza teklifi + Reddit/EFF Yüksek Mahkeme davası, Türkiye 1 Kasım yürürlük + TBMM 1 Ekim kimlik doğrulama/yapay zekâ etiketleme paketi, Meksika okul telefon yasağı (3 Kasım), Danimarka/Fransa/Hindistan/G. Kore/Malezya hatları, UNICEF "Through Children's Eyes" (%1 bildirim), Polonya UODO deepfake-DSA, Kaliforniya Adam's Law (SB 1119), Brezilya 15.100/2025 uygulama verisi (%92 uygulanıyor / %45 konsolide), EU Kids Online 2026, Zenodo yaş doğrulama bildirisi (10.5281/zenodo.22897109).
+- Veri doğrulama notu: ddgs tarih etiketleri ile sayfa datePublished arasında sistematik uyumsuzluk saptandı; 7 aday kaynak (T24 deepfake 2026-01-30, TRT 2025-12-02, Bianet 2026-04-21, CNBC-e 2026-01-26, Proton 2026-04-08, BBC 2025-04-28/23) gerçek tarihleri eski olduğu için çıkarıldı.
+- Errata: 2026-09-26 sayısındaki "Avustralya yasağı 10 Aralık 2026'da yürürlüğe girecek" ifadesi düzeltildi — yasak 10 Aralık 2025'te yürürlüğe girdi (Online Safety Amendment (Social Media Minimum Age) Act 2024).
+- Updated index.md with new articles (Last updated 2026-09-28, Total pages 161)
+- Agent: Weekly Bulletin Integration Cronjob
+
 ## [2026-09-26] ingest | Weekly Bulletin Integration
 - Raw: [[raw/articles/2026-09-26_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Derleme (Hafta 39/2026, 20-26 Eylül dilimi)
 - Raw: [[raw/articles/2026-09-26_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-09-26)
