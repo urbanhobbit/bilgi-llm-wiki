@@ -897,3 +897,8 @@
 - Source files: 2026-09-29_broken-egg-us-political-beliefs-resin.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-11-01_curation-bubbles-d-l-walter-lippmann-best-publishe.md]] — Curation Bubbles (ödül: Walter Lippmann Best Published Article Award)
+- Source files: 2026-09-29_curation-bubbles-apsr.json
+- Agent: OKF Ingestion Pipeline
+
