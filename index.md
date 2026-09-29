@@ -330,4 +330,5 @@
 - [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
 - [[raw/articles/2026-08-05_social-dominance-orientation.md|Social dominance orientation]]
 - [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md|What beliefs are most debunkable?]]
+- [[raw/articles/2025-12-02_a-broken-egg-of-u-s-political-beliefs-using-respon.md|A “broken egg” of U.S. Political Beliefs: Using response-item networks (ResIN) to measure ideological polarization]]
 

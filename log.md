@@ -892,3 +892,8 @@
 - Source files: 2026-09-17_what-beliefs-are-most-debunkable.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-12-02_a-broken-egg-of-u-s-political-beliefs-using-respon.md]] — A “broken egg” of U.S. Political Beliefs: Using response-item networks (ResIN) to measure ideological polarization
+- Source files: 2026-09-29_broken-egg-us-political-beliefs-resin.json
+- Agent: OKF Ingestion Pipeline
+
