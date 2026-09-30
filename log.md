@@ -912,3 +912,8 @@
 - Source files: 2026-09-30_acta-politica-misinformation-correction-erisen.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-29_like-cats-and-dogs-affective-polarization-and-pola.md]] — Like Cats and Dogs: Affective Polarization and Polarized Non-Political Preferences in Five Democracies
+- Source files: 2026-09-30_apr-cats-dogs-affective-pawlarization.json
+- Agent: OKF Ingestion Pipeline
+
