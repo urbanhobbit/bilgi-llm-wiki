@@ -907,3 +907,8 @@
 - Source files: 2026-09-30_000638_ingestion.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-25_source-credibility-and-issue-type-effects-in-misin.md]] — Source credibility and issue type effects in misinformation correction in two non-western countries
+- Source files: 2026-09-30_acta-politica-misinformation-correction-erisen.json
+- Agent: OKF Ingestion Pipeline
+

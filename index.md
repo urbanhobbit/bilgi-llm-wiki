@@ -333,4 +333,5 @@
 - [[raw/articles/2025-12-02_a-broken-egg-of-u-s-political-beliefs-using-respon.md|A “broken egg” of U.S. Political Beliefs: Using response-item networks (ResIN) to measure ideological polarization]]
 - [[raw/articles/2025-11-01_curation-bubbles-d-l-walter-lippmann-best-publishe.md|Curation Bubbles (ödül: Walter Lippmann Best Published Article Award)]]
 - [[raw/articles/2025-11-01_curation-bubbles-walter-lippmann-best-published-ar.md|Curation Bubbles (Walter Lippmann Best Published Article Award, 2026)]]
+- [[raw/articles/2026-09-25_source-credibility-and-issue-type-effects-in-misin.md|Source credibility and issue type effects in misinformation correction in two non-western countries]]
 
