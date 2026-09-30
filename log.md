@@ -902,3 +902,8 @@
 - Source files: 2026-09-29_curation-bubbles-apsr.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-09-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-11-01_curation-bubbles-walter-lippmann-best-published-ar.md]] — Curation Bubbles (Walter Lippmann Best Published Article Award, 2026)
+- Source files: 2026-09-30_000638_ingestion.json
+- Agent: OKF Ingestion Pipeline
+
