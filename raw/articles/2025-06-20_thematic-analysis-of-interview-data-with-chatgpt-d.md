@@ -44,6 +44,6 @@ Türkiye'de nitel araştırma genellikle lisansüstü tez ölçeğinde ve sını
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]

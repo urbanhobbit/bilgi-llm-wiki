@@ -43,5 +43,7 @@ Türkiye'de büyük ölçekli metin analizi (sosyal medya verisi, Meclis tutanak
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]

@@ -46,6 +46,5 @@ Türkiye'de nitel araştırma (görüşme, saha çalışması, doküman analizi)
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
