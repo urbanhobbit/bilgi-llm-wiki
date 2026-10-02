@@ -45,7 +45,6 @@ Türkiye, sosyal medyada siyasi ifadenin yoğun ve kamplaşmış olduğu, dolay�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
