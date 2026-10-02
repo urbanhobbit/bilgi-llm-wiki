@@ -917,3 +917,13 @@
 - Source files: 2026-09-30_apr-cats-dogs-affective-pawlarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-06-29_getting-started-with-artificial-intelligence-assis.md]] — Getting Started with Artificial Intelligence Assisted Qualitative Analysis: An Introductory Guide to Qualitative Research Approaches with Exploratory Examples from Reflexive Content Analysis
+- Raw: [[raw/articles/2026-02-28_large-language-models-in-qualitative-analysis-comp.md]] — Large Language Models in Qualitative Analysis: Comparing Traditional and Researcher-Interpreted Approaches
+- Raw: [[raw/articles/2025-06-20_thematic-analysis-of-interview-data-with-chatgpt-d.md]] — Thematic analysis of interview data with ChatGPT: designing and testing a reliable research protocol for qualitative research
+- Raw: [[raw/articles/2025-04-02_scaling-hermeneutics-a-guide-to-qualitative-coding.md]] — Scaling hermeneutics: a guide to qualitative coding with LLMs for reflexive content analysis
+- Raw: [[raw/articles/2026-06-16_the-use-and-methodological-reporting-of-large-lang.md]] — The use and methodological reporting of large language models in qualitative research: a scoping review
+- Raw: [[raw/articles/2025-12-17_we-reject-the-use-of-generative-artificial-intelli.md]] — We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research
+- Source files: 2026-10-02_mizumoto-ai-assisted-qualitative-coding.json
+- Agent: OKF Ingestion Pipeline
+
