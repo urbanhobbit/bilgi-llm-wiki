@@ -341,4 +341,5 @@
 - [[raw/articles/2025-04-02_scaling-hermeneutics-a-guide-to-qualitative-coding.md|Scaling hermeneutics: a guide to qualitative coding with LLMs for reflexive content analysis]]
 - [[raw/articles/2026-06-16_the-use-and-methodological-reporting-of-large-lang.md|The use and methodological reporting of large language models in qualitative research: a scoping review]]
 - [[raw/articles/2025-12-17_we-reject-the-use-of-generative-artificial-intelli.md|We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research]]
+- [[raw/articles/2026-09-29_the-disappearance-of-political-moderates-online-ho.md|The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization]]
 

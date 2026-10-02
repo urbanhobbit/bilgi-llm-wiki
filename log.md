@@ -927,3 +927,8 @@
 - Source files: 2026-10-02_mizumoto-ai-assisted-qualitative-coding.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-29_the-disappearance-of-political-moderates-online-ho.md]] — The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization
+- Source files: 2026-10-02_hong-moderates-privacy-function-polarization.json
+- Agent: OKF Ingestion Pipeline
+
