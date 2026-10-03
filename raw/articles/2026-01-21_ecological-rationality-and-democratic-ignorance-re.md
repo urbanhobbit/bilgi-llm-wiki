@@ -53,4 +53,4 @@ Bu makale Türkiye bağlamında seçmen yeterliliği ve 'bilgisiz seçmen' tart�
 
 ## 🔗 İlgili Bağlantılar
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/springer.md|Springer]]
+- [[entities/springer.md|Springer (Springer Nature)]]
