@@ -946,3 +946,8 @@
 - Source files: 2026-10-03_vysniauskas-political-psychology-experimental-method.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-01_polarization-is-not-the-problem.md]] — Polarization Is Not the Problem
+- Source files: 2026-10-03_mason-polarization-is-not-the-problem-jod.json
+- Agent: OKF Ingestion Pipeline
+
