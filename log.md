@@ -932,3 +932,8 @@
 - Source files: 2026-10-02_hong-moderates-privacy-function-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-10_diving-deep-political-psychology-and-the-experimen.md]] — Diving Deep: Political Psychology and the Experimental Method in the Study of Affective Polarization
+- Source files: 2026-10-03_vysniauskas-political-psychology-experimental-method.json
+- Agent: OKF Ingestion Pipeline
+
