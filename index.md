@@ -41,6 +41,7 @@
 - [[entities/aura-com.md|Aura]]
 - [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]
 - [[entities/journals-lnb-lt.md|Parliamentary Studies (Parlamento studijos)]]
+- [[entities/jsrm-scholarvista-in.md|Journal of Scholarly Research and Metrics (JSRM)]]
 
 ## Concepts
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]

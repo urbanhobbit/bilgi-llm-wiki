@@ -56,6 +56,8 @@ Bu bibliyometrik harita, Türkiye'deki kutuplaşma araştırmacıları için iki
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/jsrm-scholarvista-in.md|Jsrm Scholarvista In]]
+- [[entities/jsrm-scholarvista-in.md|Journal of Scholarly Research and Metrics (JSRM)]]
