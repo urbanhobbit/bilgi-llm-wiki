@@ -59,4 +59,4 @@ Türkiye için bu makale iki düzeyde okunmalı. Birincisi doğrudan karşılaş
 - [[concepts/negative-partisanship.md|Negatif Partizanlik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journalofdemocracy.md|Journalofdemocracy]]
+- [[entities/journalofdemocracy.md|Journal of Democracy]]
