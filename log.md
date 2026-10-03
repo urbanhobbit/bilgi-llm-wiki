@@ -956,3 +956,8 @@
 - Source files: 2026-10-03_rajitha-global-evolution-polarization-bibliometric.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01-21_ecological-rationality-and-democratic-ignorance-re.md]] — Ecological rationality and democratic ignorance: reconciling rational and radical accounts of voter behavior
+- Source files: 2026-10-03_manor-ecological-rationality-democratic-ignorance.json
+- Agent: OKF Ingestion Pipeline
+
