@@ -347,4 +347,5 @@
 - [[raw/articles/2026-09-29_the-disappearance-of-political-moderates-online-ho.md|The Disappearance of Political Moderates Online: How the Privacy Function of Social Media Amplifies Observed Political Polarization]]
 - [[raw/articles/2026-09-10_diving-deep-political-psychology-and-the-experimen.md|Diving Deep: Political Psychology and the Experimental Method in the Study of Affective Polarization]]
 - [[raw/articles/2026-10-01_polarization-is-not-the-problem.md|Polarization Is Not the Problem]]
+- [[raw/articles/2026-09-30_the-global-evolution-of-political-polarization-res.md|The Global Evolution of Political Polarization Research: A Bibliometric and Science-Mapping Analysis]]
 

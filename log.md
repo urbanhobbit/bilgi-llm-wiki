@@ -951,3 +951,8 @@
 - Source files: 2026-10-03_mason-polarization-is-not-the-problem-jod.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-30_the-global-evolution-of-political-polarization-res.md]] — The Global Evolution of Political Polarization Research: A Bibliometric and Science-Mapping Analysis
+- Source files: 2026-10-03_rajitha-global-evolution-polarization-bibliometric.json
+- Agent: OKF Ingestion Pipeline
+
