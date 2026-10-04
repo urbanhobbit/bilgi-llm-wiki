@@ -350,4 +350,5 @@
 - [[raw/articles/2026-10-01_polarization-is-not-the-problem.md|Polarization Is Not the Problem]]
 - [[raw/articles/2026-09-30_the-global-evolution-of-political-polarization-res.md|The Global Evolution of Political Polarization Research: A Bibliometric and Science-Mapping Analysis]]
 - [[raw/articles/2026-01-21_ecological-rationality-and-democratic-ignorance-re.md|Ecological rationality and democratic ignorance: reconciling rational and radical accounts of voter behavior]]
+- [[raw/articles/2026-10-01_mis-perceptions-of-politically-motivated-reasoning.md|(Mis-)Perceptions of Politically Motivated Reasoning]]
 

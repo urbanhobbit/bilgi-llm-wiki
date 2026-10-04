@@ -465,3 +465,34 @@ Yöntemsel açıdan çalışmanın ölçeği etkileyici: 123 ülkede 452 liderin
 ---
 
 *Derleme: KURATOR / AKADEMİK ÖZEL otomatik bülten hattı — 2026-10-03. Kaynak: /tmp/bulletin_data/week_links_2026-10-03.json; Scrapling erişim testi: /tmp/bulletin_data/scrapling_2026-10-03.json. Blok oranı %60 (10 URL → 4 erişilebilir / 6 bloklu) nedeniyle metadata tabanlı sınıflandırma modu uygulanmıştır.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/journals-sagepub-com.md|SAGE Publications]]
+- [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]
+- [[entities/unicef.md|UNICEF]]

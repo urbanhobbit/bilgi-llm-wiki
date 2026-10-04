@@ -961,3 +961,8 @@
 - Source files: 2026-10-03_manor-ecological-rationality-democratic-ignorance.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-01_mis-perceptions-of-politically-motivated-reasoning.md]] — (Mis-)Perceptions of Politically Motivated Reasoning
+- Source files: 2026-10-04_musolff-yanay-misperceptions-politically-motivated-reasoning.json
+- Agent: OKF Ingestion Pipeline
+
