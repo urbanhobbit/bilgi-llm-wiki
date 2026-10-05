@@ -1,3 +1,11 @@
+## [2026-10-05] ingest | KURATOR Weekly Bulletin (Hafta 41/2026)
+- Raw: [[raw/articles/2026-10-05_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Derleme (Hafta 41/2026, 28 Eylül – 5 Ekim dilimi); 13285 kelime, 105021 karakter
+- Telegram categorized akışı (29 Eyl – 5 Eki): 17 kaynak, tamamı akademik; KURATOR haber kategorisinde kaynak YOK (üst üste 9. hafta). Bülten doğrudan kaynak araştırmasıyla kuruldu.
+- İçerik omurgası: (1) Türkiye — 7578 s. Kanun/1 Kasım yürürlük, TBMM Dijital Mecralar Komisyonu Başkanı Nazım Elmas'ın "yönetmelik bu ay içinde" açıklaması + kimlik doğrulama mimarisi + kayıt dışılık/gelir düzenlemesi, TBMM gündeminde sosyal medyaya kimlikle giriş, "TikTok 5 Ekim'de yasaklanacak" iddiasının doğrulama notu; (2) AB — KIDS Act resmî SSS (13 altı yasak / 13-15 veli gözetimli 1 saat / 15+ bağımsız; oyun, AI chatbot, uygulama mağazaları) + DWT analizi (%6 ciro, ZKP yaş doğrulama, 30/90 gün, VLOP denetimi) + 26 Kasım istişare; (3) Küresel — BK Nandy "ara adım" (Mart 2027), Avustralya uygulama tablosu (10'da 7 hâlâ platformda), ABD'de KOSA tıkanması vs Kaliforniya AB 1709 + SB 1119, Pennsylvania AI oyuncak moratoryumu, Vietnam aile-izni modeli; (4) FTC Take It Down 48 saat + UNICEF %1 bildirim; (5) UAE okul fotoğraf yasağı; (6) akademik: 5 KURATOR-etiketli çalışma (verbatim hattan) + 8 yeni (arXiv cs.AI/cs.HC/cs.CR + 3 hakemli Frontiers).
+- Doğrulama: ddgs tarih etiketleri sayfa künyeleriyle uyuşmadı; 6 kaynak pencere dışı olduğu için "bağlam" olarak etiketlendi (Milli Gazete 24 Tem 2026, Sabır 16 Tem 2026, Takvim 28 Ağu 2026, GZT 1 Şub 2026 arşivi, TNW 4 Tem 2026, DW ~Oca 2026). Erişilemeyen: ozgurkocaeli.com.tr 403, ankaranethaber.com 403, europesays.com bağlantı koptu, digital-futures-for-children.net 301 döngü. Semantic Scholar API 429 → arXiv + OpenAlex kullanıldı.
+- Updated index.md with new article (Last updated 2026-10-05, Total pages +1)
+- Agent: KURATOR Bulletin Cronjob (134fa5691c45)
+
 ## [2026-10-03] ingest | Weekly Bulletin Integration
 - Raw: [[raw/articles/2026-10-03_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya Haftalık Derleme (Hafta 40/2026, 27 Eylül – 3 Ekim dilimi)
 - Raw: [[raw/articles/2026-10-03_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-10-03, 14 çalışma)
