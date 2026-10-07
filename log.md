@@ -974,3 +974,21 @@
 - Source files: 2026-10-04_musolff-yanay-misperceptions-politically-motivated-reasoning.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-07_un-priming-politics-a-method-to-reduce-overreporti.md]] — Un-Priming Politics: A Method to Reduce Overreporting of Political Engagement
+- Raw: [[raw/articles/2026-08-14_are-liberal-democracies-immune-to-the-democratic-r.md]] — Are liberal democracies immune to the democratic resource curse?
+- Raw: [[raw/articles/2026-08-02_small-samples-and-short-panels-evaluating-policy-e.md]] — Small Samples and Short Panels: Evaluating Policy Evaluation Methods with Realistic Data
+- Raw: [[raw/articles/2025-04-08_a-guide-for-qualitative-researchers-using-large-la.md]] — A Guide for Qualitative Researchers Using Large Language Models with Representative Examples Using ChatGPT
+- Raw: [[raw/articles/2026-09-30_qualitative-analysis-questions-to-stimulate-resear.md]] — Qualitative Analysis: Questions to Stimulate Researcher Reflexivity in the Age of GenAI
+- Raw: [[raw/articles/2026-10-06_what-works-against-populist-rhetoric-the-effects-o.md]] — What Works Against Populist Rhetoric? The Effects of Counter-Arguments on Democratic Attitudes
+- Raw: [[raw/articles/2026-10-07_enemy-establishments-how-the-hundred-year-war-to-c.md]] — Enemy Establishments: How the Hundred-Year War to Control America's Institutions Polarized Its Politics
+- Raw: [[raw/articles/2019-10-08_a-review-of-conceptual-approaches-and-empirical-ev.md]] — A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research
+- Raw: [[raw/articles/2026-10-06_associations-between-content-and-engagement-vary-a.md]] — Associations between content and engagement vary across social media communities
+- Raw: [[raw/articles/2026-10-02_contestation-of-international-organizations-patter.md]] — Contestation of International Organizations: Patterns, Drivers, and Responses
+- Raw: [[raw/articles/2026-09-25_why-politicians-retweet-news-trustworthiness-emoti.md]] — Why Politicians Retweet: News Trustworthiness, Emotion, and Partisan Asymmetry in Elite News Sharing among US Congress Members
+- Raw: [[raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject.md]] — Classifying strategy use in multiattribute subjective choice: Application to conjoint experiments in political science
+- Raw: [[raw/articles/2026-10-02_peer-transmission-of-mental-health-information-inc.md]] — Peer Transmission of Mental Health Information Increases ADHD Self-Diagnosis
+- Raw: [[raw/articles/2026-09-25_the-political-class-in-citizens-minds-mapping-publ.md]] — The political class in citizens' minds: Mapping public perceptions of politicians
+- Source files: 2026-10-07_135500_telegram-user-batch.json
+- Agent: OKF Ingestion Pipeline
+
