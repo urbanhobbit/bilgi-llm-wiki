@@ -367,4 +367,5 @@
 - [[raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject.md|Classifying strategy use in multiattribute subjective choice: Application to conjoint experiments in political science]]
 - [[raw/articles/2026-10-02_peer-transmission-of-mental-health-information-inc.md|Peer Transmission of Mental Health Information Increases ADHD Self-Diagnosis]]
 - [[raw/articles/2026-09-25_the-political-class-in-citizens-minds-mapping-publ.md|The political class in citizens' minds: Mapping public perceptions of politicians]]
+- [[raw/articles/2026-10-01_a-journey-through-creative-research-methods.md|A Journey Through Creative Research Methods]]
 

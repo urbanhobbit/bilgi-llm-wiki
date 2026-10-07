@@ -992,3 +992,8 @@
 - Source files: 2026-10-07_135500_telegram-user-batch.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-01_a-journey-through-creative-research-methods.md]] — A Journey Through Creative Research Methods
+- Source files: 2026-10-07_141500_sra-creative-research-methods.json
+- Agent: OKF Ingestion Pipeline
+
