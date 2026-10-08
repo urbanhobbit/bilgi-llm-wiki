@@ -368,4 +368,5 @@
 - [[raw/articles/2026-10-02_peer-transmission-of-mental-health-information-inc.md|Peer Transmission of Mental Health Information Increases ADHD Self-Diagnosis]]
 - [[raw/articles/2026-09-25_the-political-class-in-citizens-minds-mapping-publ.md|The political class in citizens' minds: Mapping public perceptions of politicians]]
 - [[raw/articles/2026-10-01_a-journey-through-creative-research-methods.md|A Journey Through Creative Research Methods]]
+- [[raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr.md|Scaling Up With Integrity: Valid and Efficient Narrative Policy Framework Analyses Using Large Language Models]]
 

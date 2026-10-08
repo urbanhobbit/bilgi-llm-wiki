@@ -997,3 +997,8 @@
 - Source files: 2026-10-07_141500_sra-creative-research-methods.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr.md]] — Scaling Up With Integrity: Valid and Efficient Narrative Policy Framework Analyses Using Large Language Models
+- Source files: 2026-10-08_psj-anglin-llm-narrative-policy-framework.json
+- Agent: OKF Ingestion Pipeline
+

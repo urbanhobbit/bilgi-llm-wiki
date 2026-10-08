@@ -49,3 +49,14 @@ Türkiye'de conjoint/vinyet deneyleri (mülteci tutumları, aday tercihleri, se�
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
+- [[raw/articles/2026-06-30_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
+- [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md|Public responses to atrocities depend on partisans]]
