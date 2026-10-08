@@ -53,5 +53,8 @@ Türkiye'de politika analizi ve siyaset bilimi araştırması hâlâ büyük öl
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
