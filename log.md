@@ -1002,3 +1002,8 @@
 - Source files: 2026-10-08_psj-anglin-llm-narrative-policy-framework.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-07_september-research-roundup-7-findings-on-intergrou.md]] — September Research Roundup: 7 findings on intergroup contact and prosociality (The Power of Us)
+- Source files: 2026-10-07_power-of-us-september-research-roundup-intergroup-contact.json
+- Agent: OKF Ingestion Pipeline
+
