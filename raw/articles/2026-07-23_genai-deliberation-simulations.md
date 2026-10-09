@@ -77,3 +77,5 @@ Bu makale, [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]] ve [[con
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-07-24_the-case-for-using-generative-ai-to-run-deliberati.md|The Case for Using Generative AI to Run Deliberati]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]

@@ -83,3 +83,5 @@ Tam metin (111.354 karakter, 20 sayfa; gönderim 6 Mart 2026 / kabul 6 Ağustos 
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|SAGE Publications]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]

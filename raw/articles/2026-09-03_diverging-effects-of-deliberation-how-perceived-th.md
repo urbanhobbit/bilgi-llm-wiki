@@ -48,5 +48,15 @@ Türkiye bağlamında bulgu doğrudan test edilebilir bir hipotez sunuyor: siyas
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|SAGE Publications]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-23_genai-deliberation-simulations.md|The Case for Using Generative AI to Run Deliberation Simulations]]
+- [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md|Bridging the Political Divide: Meta-Humanization and Moral Emotions Shape]]
+- [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|Synthetic Contact with AI Reduces Cross-Partisan Animosity]]
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan misperceptions and reduce hostility]]
