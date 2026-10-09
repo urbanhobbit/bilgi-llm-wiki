@@ -1007,3 +1007,8 @@
 - Source files: 2026-10-07_power-of-us-september-research-roundup-intergroup-contact.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md]] — Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments
+- Source files: 2026-10-09_grey-deliberation-moral-character-judgments.json
+- Agent: OKF Ingestion Pipeline
+

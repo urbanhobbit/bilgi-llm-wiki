@@ -370,4 +370,5 @@
 - [[raw/articles/2026-10-01_a-journey-through-creative-research-methods.md|A Journey Through Creative Research Methods]]
 - [[raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr.md|Scaling Up With Integrity: Valid and Efficient Narrative Policy Framework Analyses Using Large Language Models]]
 - [[raw/articles/2026-10-07_september-research-roundup-7-findings-on-intergrou.md|September Research Roundup: 7 findings on intergroup contact and prosociality (The Power of Us)]]
+- [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]
 
