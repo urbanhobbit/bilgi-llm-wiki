@@ -373,4 +373,5 @@
 - [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]
 - [[raw/articles/2026-08-31_two-centuries-of-sexism-in-british-parliament-a-co.md|Two Centuries of Sexism in British Parliament: A Computational Analysis of Women's Representation in the Hansard Corpus]]
 - [[raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-.md|LLM Analysis of 150+ years of German Parliamentary Debates on Migration Reveals Shift from Post-War Solidarity to Anti-Solidarity in the Last Decade]]
+- [[raw/articles/2026-10-08_powered-by-discrete-emotions-the-consequences-of-a.md|Powered by (discrete) emotions? The consequences of affective polarization for self-censorship and outgroup silencing]]
 

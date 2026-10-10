@@ -1018,3 +1018,8 @@
 - Source files: 2026-10-10_gvrkiran-parliamentary-corpora-llm.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-08_powered-by-discrete-emotions-the-consequences-of-a.md]] — Powered by (discrete) emotions? The consequences of affective polarization for self-censorship and outgroup silencing
+- Source files: 2026-10-10_ejpr-discrete-emotions-affective-polarization-selfcensorship.json
+- Agent: OKF Ingestion Pipeline
+

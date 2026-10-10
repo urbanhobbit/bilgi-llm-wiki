@@ -35,3 +35,9 @@ Machine learning modeling offers a new paradigm for quantitative research in the
 - ML enables a shift from explanation-oriented to prediction-oriented social science research
 - The paper covers Lasso regression, cross-validation, and model selection methods
 - Authors advocate combining traditional statistical methods with ML approaches
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-30_machine-learning-modeling-a-new-way-to-do-quantita.md|Machine Learning Modeling: A New Way to do Quantit]]

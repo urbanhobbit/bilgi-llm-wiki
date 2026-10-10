@@ -35,3 +35,13 @@ This article explores the potential of Large Language Models (LLMs) trained on h
 - Potential to track changing social norms, values, and emotional expression over centuries
 - Complementary to traditional methods in computational social science and behavioral science
 - Limitations include historical source biases, model interpretability, and validation challenges
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-30_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
+- [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md|Public responses to atrocities depend on partisans]]
+- [[raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject.md|Classifying strategy use in multiattribute subject]]

@@ -35,3 +35,13 @@ This article describes an emerging research practice called Large-N Qualitative 
 - Within-case causal inference is the core of LNQA's causal force
 - M-LNQA variant combines LNQA with statistical analysis methods
 - Over 50 examples of the method in practice appendix
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2001-09_measurement-validity-a-shared-standard-for-qualita.md|Measurement Validity: A Shared Standard for Qualit]]
+- [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md|Divided We Fall: Opposition Fragmentation and the ]]
+- [[raw/articles/2025-11-01_curation-bubbles-d-l-walter-lippmann-best-publishe.md|Curation Bubbles (ödül: Walter Lippmann Best Publi]]
+- [[raw/articles/2025-11-01_curation-bubbles-walter-lippmann-best-published-ar.md|Curation Bubbles (Walter Lippmann Best Published A]]
+- [[raw/articles/2025-12-02_a-broken-egg-of-u-s-political-beliefs-using-respon.md|A “broken egg” of U.S. Political Beliefs: Using re]]

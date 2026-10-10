@@ -41,3 +41,16 @@ arXiv:2301.07210 (v5, 8 Agustos 2026; ilk yayin 17 Ocak 2023) - Rob Cornish, Muh
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/arxiv-org.md|arXiv]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-.md|LLM Analysis of 150+ years of German Parliamentary]]
+- [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation]]
+- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
+- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
+- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]

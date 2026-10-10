@@ -41,3 +41,13 @@ Springer International Publishing, Open Access kitap (2019) — Vincent A. W. J.
 
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2021-03-03_the-methodological-foundation-of-process-tracing-a.md|The Methodological Foundation of Process-tracing a]]
+- [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentanglin]]
+- [[raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a.md|Bridging gaps: how investment in public childcare ]]
+- [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemi]]
+- [[raw/articles/2025-04-08_a-guide-for-qualitative-researchers-using-large-la.md|A Guide for Qualitative Researchers Using Large La]]

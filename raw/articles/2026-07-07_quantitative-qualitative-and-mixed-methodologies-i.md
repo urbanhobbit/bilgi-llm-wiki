@@ -36,3 +36,9 @@ Open Access book published by Routledge (Taylor & Francis) with funding from the
 - Includes chapters on Big Data and ML in social sciences
 - Addresses ethics in digital social science research
 - Practical methodology guide for doctoral students and researchers
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

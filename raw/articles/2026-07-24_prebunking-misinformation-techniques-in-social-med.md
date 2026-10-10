@@ -35,3 +35,16 @@ Türkiye bağlamında değerlendirildiğinde, bu kaynakta ele alınan konular ü
 Akademik perspektiften bakıldığında, Türkiye'de bu alandaki bilimsel çalışmaların sayısı artsa da ampirik araştırmaların yeterli düzeyde olmadığı görülmektedir. TÜBİTAK'ın sosyal bilimler alanında desteklediği projeler ve üniversitelerin iletişim fakültelerinde yürütülen çalışmalar bu alandaki bilgi birikimine katkı sağlamaktadır. Özellikle çocukların dijital medya kullanımı, sosyal medya bağımlılığı ve dijital oyunların etkileri konularında daha fazla boylamsal çalışmaya ihtiyaç duyulmaktadır. Türkiye İstatistik Kurumu'nun (TÜİK) düzenli olarak yayınladığı 'Çocuklarda Bilişim Teknolojileri Kullanımı Araştırması' bu alandaki en önemli veri kaynaklarından biridir.
 
 Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'nin Dijital Hizmetler Yasası (DSA) ve Genel Veri Koruma Tüzüğü (GDPR) düzenlemeleriyle uyumlu olacak şekilde güncellenmeli, çocukların dijital ortamlarda katılım ve korunma hakları arasında denge kurulmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
+- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-15_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-16_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
+- [[raw/articles/2026-07-29_harvard-misinformation-review-instagram-da-n-bilgi.md|Harvard Misinformation Review: Instagram'da Ön Bil]]

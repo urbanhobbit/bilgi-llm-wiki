@@ -35,3 +35,13 @@ Democrats are rolling out 'Project 2029', a policy framework for the 2028 presid
 - Ban on surveillance advertising and limited children's data collection
 - Designed partly for executive action without congressional approval
 - Jonathan Haidt calls it social media's 'tobacco moment'
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2026-06-30_democrats-project-2029-goes-after-tech-companies-w.md|Democrats' 'Project 2029' goes after tech companie]]

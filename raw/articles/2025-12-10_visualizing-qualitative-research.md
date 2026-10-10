@@ -33,3 +33,15 @@ Although qualitative research is typically seen as working with verbal text, vis
 - Two approaches: iterative-progression (inductive) and pragmatic-bricolage (abductive)
 - Visuals can add layers of meaning and support thick description in qualitative work
 - The paper bridges visualization practice with methodological traditions
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr.md|Scaling Up With Integrity: Valid and Efficient Nar]]
+- [[raw/articles/2026-06-30_wiley-online-library-public-administration-review-.md|Wiley Online Library — Public Administration Revie]]
+- [[raw/articles/2026-07-22_identity-threat-personal-values-and-political-atti.md|Identity threat, personal values, and political at]]
+- [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md|Conspiracy Beliefs as a Metacognitive Dimension of]]
+- [[raw/articles/2026-07-23_conspiracy-metacognitive-intergroup.md|Conspiracy Beliefs as a Metacognitive Dimension of]]

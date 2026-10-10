@@ -94,3 +94,14 @@ Meta's existing mitigation measures fail to prevent repeat disinformation offend
 ---
 
 *Editorial Director: Paolo Cesarini, Editor-in-Chief: Tommaso Canetta. Editorial Staff: Elena Coden, Paula Gori, Elena Maggi. This edition draws in part on automated translation and reflects information available as of 8 July 2026.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
