@@ -1012,3 +1012,9 @@
 - Source files: 2026-10-09_grey-deliberation-moral-character-judgments.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-31_two-centuries-of-sexism-in-british-parliament-a-co.md]] — Two Centuries of Sexism in British Parliament: A Computational Analysis of Women's Representation in the Hansard Corpus
+- Raw: [[raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-.md]] — LLM Analysis of 150+ years of German Parliamentary Debates on Migration Reveals Shift from Post-War Solidarity to Anti-Solidarity in the Last Decade
+- Source files: 2026-10-10_gvrkiran-parliamentary-corpora-llm.json
+- Agent: OKF Ingestion Pipeline
+

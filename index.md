@@ -371,4 +371,6 @@
 - [[raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr.md|Scaling Up With Integrity: Valid and Efficient Narrative Policy Framework Analyses Using Large Language Models]]
 - [[raw/articles/2026-10-07_september-research-roundup-7-findings-on-intergrou.md|September Research Roundup: 7 findings on intergroup contact and prosociality (The Power of Us)]]
 - [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]
+- [[raw/articles/2026-08-31_two-centuries-of-sexism-in-british-parliament-a-co.md|Two Centuries of Sexism in British Parliament: A Computational Analysis of Women's Representation in the Hansard Corpus]]
+- [[raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-.md|LLM Analysis of 150+ years of German Parliamentary Debates on Migration Reveals Shift from Post-War Solidarity to Anti-Solidarity in the Last Decade]]
 
