@@ -36,3 +36,9 @@ Kien Nguyen-Trung (Monash University) & Susanne Friese (Qeludra Consultancy), In
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]

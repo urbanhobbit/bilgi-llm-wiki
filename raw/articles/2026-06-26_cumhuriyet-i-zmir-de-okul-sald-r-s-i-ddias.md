@@ -38,3 +38,4 @@ Cumhuriyet reports on the detention of 8 students in İzmir on allegations of pr
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

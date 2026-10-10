@@ -39,3 +39,5 @@ Harvard öncülüğündeki bu saha çalışması Türkiye'de dezenformasyonla m�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]

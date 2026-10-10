@@ -37,3 +37,9 @@ Küba Devlet Başkanı Miguel Díaz-Canel'in Trump yönetiminin olası geri dön
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]

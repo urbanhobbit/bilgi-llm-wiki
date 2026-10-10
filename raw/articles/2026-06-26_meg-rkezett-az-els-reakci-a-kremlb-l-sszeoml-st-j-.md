@@ -39,3 +39,5 @@ Macaristan seçimleri ve Orban'ın yenilgisi, Türkiye'deki siyasi analizler iç
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

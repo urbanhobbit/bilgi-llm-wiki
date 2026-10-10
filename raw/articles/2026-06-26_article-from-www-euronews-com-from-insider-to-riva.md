@@ -41,3 +41,4 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

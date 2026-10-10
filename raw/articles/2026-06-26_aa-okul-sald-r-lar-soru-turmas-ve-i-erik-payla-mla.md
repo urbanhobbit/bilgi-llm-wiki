@@ -38,3 +38,4 @@ AA'nın haberine göre, okul saldırılarıyla ilgili suç içerikli paylaşım 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

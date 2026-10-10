@@ -30,3 +30,10 @@ timestamp: '2026-06-06T09:02:50Z'
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]

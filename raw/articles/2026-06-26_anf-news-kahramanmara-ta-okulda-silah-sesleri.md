@@ -38,3 +38,4 @@ ANF Haber Ajansı'nın kahramanmaraş okul saldırısı haberciliği, Türkiye'd
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

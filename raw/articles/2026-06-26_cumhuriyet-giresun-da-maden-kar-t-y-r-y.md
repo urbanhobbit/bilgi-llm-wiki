@@ -38,3 +38,9 @@ Giresun'daki maden karşıtı protesto, Türkiye'de çevre aktivizminin yükseli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]

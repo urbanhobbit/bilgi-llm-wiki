@@ -38,3 +38,4 @@ Macaristan'daki bağımsız medyanın seçim sürecindeki rolü, Türkiye'deki m
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

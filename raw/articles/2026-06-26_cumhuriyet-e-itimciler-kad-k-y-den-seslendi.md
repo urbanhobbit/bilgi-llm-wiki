@@ -38,3 +38,4 @@ Eğitimcilerin Kadıköy'deki protestosu, Türkiye'de eğitim politikalarının 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

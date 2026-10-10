@@ -37,3 +37,4 @@ Ali Yalçın'ın 'sanal ortamda organize edilmiş terör hadisesi' tanımı, Tü
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

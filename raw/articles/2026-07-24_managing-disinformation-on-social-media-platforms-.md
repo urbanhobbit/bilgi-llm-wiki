@@ -42,6 +42,5 @@ Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]

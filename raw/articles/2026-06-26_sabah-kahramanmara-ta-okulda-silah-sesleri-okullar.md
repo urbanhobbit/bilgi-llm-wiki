@@ -38,3 +38,4 @@ Sabah gazetesinin haberine göre, Kahramanmaraş'taki okul saldırısı sonrası
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

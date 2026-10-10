@@ -36,3 +36,9 @@ OECD Papers on Well-being and Inequalities No. 33 / Child Well-being Policy Pape
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]

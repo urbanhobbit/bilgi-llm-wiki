@@ -37,3 +37,4 @@ Kahramanmaraş'ta okulda silah sesleri duyulması olayı, Türkiye'de okul güve
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

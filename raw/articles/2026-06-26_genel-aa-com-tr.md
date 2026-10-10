@@ -35,3 +35,5 @@ Kahramanmaraş ve Şanlıurfa'daki okul saldırıları, Türkiye'de okul güvenl
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

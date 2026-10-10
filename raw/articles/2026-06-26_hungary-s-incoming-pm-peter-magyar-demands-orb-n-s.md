@@ -38,3 +38,5 @@ Euronews'in Péter Magyar ve Macaristan'daki siyasi dönüşüm haberleri, Türk
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]

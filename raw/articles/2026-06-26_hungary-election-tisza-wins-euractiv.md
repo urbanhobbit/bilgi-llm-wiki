@@ -37,3 +37,5 @@ Macaristan seçimlerinde Tisza Partisi'nin zaferi, Türkiye'nin AB perspektifi a
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

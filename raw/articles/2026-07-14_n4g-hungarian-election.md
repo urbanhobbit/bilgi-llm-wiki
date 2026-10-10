@@ -44,3 +44,6 @@ Ekonomik boyutuyla ele alındığında, Macaristan'da iktidar değişikliğinin 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]

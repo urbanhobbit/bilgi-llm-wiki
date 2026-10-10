@@ -37,3 +37,5 @@ Türkiye'de sosyal bilimlerde yapay zeka ve makine öğrenimi kullanımı gidere
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]

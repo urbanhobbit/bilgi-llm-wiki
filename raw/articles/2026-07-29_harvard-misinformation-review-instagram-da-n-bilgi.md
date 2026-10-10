@@ -37,3 +37,4 @@ Harvard Misinformation Review'daki bu saha çalışması, Türkiye'de dezenforma
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]

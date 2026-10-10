@@ -37,3 +37,5 @@ Macaristan seçimlerine yüksek katılım oranı, Türkiye'de seçim katılımı
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

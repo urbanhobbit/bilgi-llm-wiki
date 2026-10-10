@@ -38,3 +38,4 @@ Euractiv'in Macaristan seçim analizi, Türkiye-AB ilişkilerinde hukukun üstü
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

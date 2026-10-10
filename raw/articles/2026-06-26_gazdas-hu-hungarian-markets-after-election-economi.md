@@ -37,3 +37,5 @@ Macaristan seçim sonrası piyasa tepkileri, Türkiye'deki ekonomik politika bel
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

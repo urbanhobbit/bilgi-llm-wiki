@@ -38,3 +38,4 @@ Kremlin'in Macaristan seçimlerine tepkisi, Türkiye-Rusya ilişkileri açısın
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]

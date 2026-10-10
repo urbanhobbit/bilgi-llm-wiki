@@ -34,3 +34,5 @@ Magdalena Adamus (Institute of Experimental Psychology / Masaryk University), Eu
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]

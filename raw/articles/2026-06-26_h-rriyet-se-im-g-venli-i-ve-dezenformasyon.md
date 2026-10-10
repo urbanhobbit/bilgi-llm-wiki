@@ -38,3 +38,4 @@ Seçim güvenliği ve dezenformasyon konusu, Türkiye'de özellikle 2023 seçiml
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]

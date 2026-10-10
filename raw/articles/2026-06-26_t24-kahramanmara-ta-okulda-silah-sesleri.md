@@ -37,3 +37,4 @@ T24'ün bağımsız haberciliği, Türkiye'de okul saldırıları konusunda kamu
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

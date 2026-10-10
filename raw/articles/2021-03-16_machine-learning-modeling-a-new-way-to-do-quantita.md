@@ -39,3 +39,5 @@ Machine learning modeling offers a new paradigm for quantitative research in the
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]

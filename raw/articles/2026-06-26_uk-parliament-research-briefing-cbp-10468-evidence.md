@@ -39,3 +39,4 @@ The UK Parliament Commons Library research briefing CBP-10468 represents an exem
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]

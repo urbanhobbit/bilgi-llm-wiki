@@ -38,3 +38,4 @@ Milliyet'in seçim güvenliği haberciliği, Türkiye'de demokratik süreçlerin
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]

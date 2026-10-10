@@ -36,3 +36,5 @@ DHA haber ajansının okul saldırıları haberciliği, Türkiye'deki güvenlik 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]

@@ -38,3 +38,6 @@ Telex.hu'nun Macaristan seçim haberleri, Türkiye'deki benzer siyasi tartışma
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]

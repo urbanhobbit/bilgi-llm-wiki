@@ -24,3 +24,7 @@ published: '2026-07-21'
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ideolojik-asirilik.md|İdeolojik Aşırılık]]
+- [[concepts/populist-oylama.md|Popülist Oy Verme]]
+- [[concepts/terorizm-korkusu.md|Terörizm Korkusu]]

@@ -39,3 +39,4 @@ Macaristan'daki 2026 genel seçim sonuçları, Türkiye açısından birçok aç
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/macaristan-secim-2026.md|Macaristan 2026 Seçimi (Tisza Zaferi)]]
