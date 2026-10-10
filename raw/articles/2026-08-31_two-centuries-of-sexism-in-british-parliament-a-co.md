@@ -54,5 +54,11 @@ TBMM Tutanak Dergisi (1920→) üzerinde bu çalışmanın birebir karşılığ�
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/arxiv-org.md|arXiv]]
+### 📄 Aynı Kaynaktan
+- [[raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-.md|LLM Analysis of 150+ years of German Parliamentary Debates on Migration Reveals Shift from Post-War Solidarity to Anti-Solidarity in the Last Decade]]
