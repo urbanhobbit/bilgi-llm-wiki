@@ -45,9 +45,3 @@ Birleşik Krallık Bilgi Komiserliği Ofisi'nin (ICO) çocuk verilerinin korunma
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]
-- [[raw/articles/2026-06-26_kids-protecting-childrens-data.md|Kids Protecting Childrens Data]]
-- [[raw/articles/2026-06-26_kurator-ico-org-uk.md|KURATOR - ico.org.uk]]
-- [[raw/articles/2026-06-26_protecting-children-s-data-ico-guidance-for-organi.md|Protecting Children's Data: ICO Guidance for Organ]]
-- [[raw/articles/2026-06-26_protecting-children-s-data-privacy-uk-information-.md|Protecting Children's Data Privacy — UK Informatio]]

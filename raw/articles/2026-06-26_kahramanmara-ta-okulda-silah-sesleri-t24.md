@@ -42,9 +42,3 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-secim-dezenform.md|Article from t24.com.tr: yapay zeka secim dezenfor]]
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-seyim-dezenform.md|Article from t24.com.tr: yapay zeka seyim dezenfor]]
-- [[raw/articles/2026-06-26_genel-t24-com-tr.md|GENEL - t24.com.tr]]

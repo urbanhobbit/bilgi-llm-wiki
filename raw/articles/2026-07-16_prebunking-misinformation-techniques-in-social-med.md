@@ -42,7 +42,3 @@ Harvard Kennedy School Misinformation Review'da yayımlanan bu akademik çalış
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
-- [[raw/articles/2026-07-15_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

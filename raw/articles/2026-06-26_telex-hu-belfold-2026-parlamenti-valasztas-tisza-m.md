@@ -52,9 +52,3 @@ Turkiye, Avrupa Birligi uyum sureci ve kuresel dijital donusum baglaminda, ulusl
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
-- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
-- [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]
-- [[raw/articles/2026-06-26_macar-valasztas-eredmenyek.md|Macar Valasztas Eredmenyek]]
-- [[raw/articles/2026-06-26_macaristan-2026-se-im-sonu-lar-muhalefet-zaferi-ve.md|Macaristan 2026 Seçim Sonuçları: Muhalefet Zaferi ]]

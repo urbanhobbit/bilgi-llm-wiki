@@ -41,9 +41,3 @@ Birleşik Krallık Avam Kamarası Kütüphanesi'nin araştırma brifingi, Türki
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
-- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
-- [[raw/articles/2026-06-26_kurator-commonslibrary-parliament-uk.md|KURATOR - commonslibrary.parliament.uk]]
-- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468.md|UK Parliament Research Briefing CBP-10468]]
-- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

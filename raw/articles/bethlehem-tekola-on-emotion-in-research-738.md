@@ -42,5 +42,3 @@ Türkiye'de akademik araştırma kültürü, duyguların araştırma sürecindek
 ### 🧠 İlgili Kavramlar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/x-com.md|X Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]

@@ -52,9 +52,3 @@ Turkiye, Avrupa Birligi uyum sureci ve kuresel dijital donusum baglaminda, ulusl
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
-- [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]
-- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
-- [[raw/articles/2026-06-26_macaristan-2026-se-imleri-detayl-se-im-analizi-ve-.md|Macaristan 2026 Seçimleri: Detaylı Seçim Analizi v]]
-- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]

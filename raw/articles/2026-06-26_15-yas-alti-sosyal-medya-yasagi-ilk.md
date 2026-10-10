@@ -47,9 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
-- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
-- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
-- [[raw/articles/2026-06-26_i-lkha-15-ya-alt-sosyal-medya-yasa-tart-malar.md|İlkha: 15 Yaş Altı Sosyal Medya Yasağı Tartışmalar]]
-- [[raw/articles/2026-06-26_kurator-ilkha-com.md|KURATOR - ilkha.com]]

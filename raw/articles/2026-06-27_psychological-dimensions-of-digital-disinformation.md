@@ -49,5 +49,3 @@ Stanford Üniversitesi'nde yayımlanan bu disiplinlerarası akademik makale, Tü
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-17_psychological-dimensions-of-digital-disinformation.md|Psychological Dimensions of Digital Disinformation]]

@@ -41,9 +41,3 @@ Mike Males'in Substack analizi ve ABD sağlık kurumu anket verilerine uyguladı
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
-- [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]
-- [[raw/articles/2026-06-26_mike-males-substack-our-top-health-agency-surveys-.md|Mike Males (Substack): Our Top Health Agency Surve]]
-- [[raw/articles/2026-06-26_our-top-health-agency-s-surveys-found-what-really-.md|Our top health agency’s surveys found what really ]]
-- [[raw/articles/2026-06-26_our-top-health-agencys-surveys-found.md|Our Top Health Agencys Surveys Found]]

@@ -48,6 +48,3 @@ Turkiye'de arastirma etigi ve metodolojisi alaninda yapilan calismalar, uluslara
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_i-stanbul-bilgi-niversitesi-teknoloji-transfer-ofi.md|İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofi]]
-- [[raw/articles/2026-06-26_teknoloji-transfer-ofisi-i-stanbul-bilgi-niversite.md|Teknoloji Transfer Ofisi - İstanbul Bilgi Üniversi]]

@@ -37,9 +37,3 @@ LSE'nin web erişilebilirlik bildirimi, Türkiye'deki dijital erişilebilirlik s
 ## 🔗 İlgili Bağlantılar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
-- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
-- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]
-- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-report-a-page-aspx.md|Article from www.lse.ac.uk: report a page.aspx]]

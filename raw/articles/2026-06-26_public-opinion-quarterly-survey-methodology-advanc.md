@@ -45,9 +45,3 @@ Türkiye akademik çevrelerinde dijital dönüşüm ve çocuk refahı konuların
 - [[entities/academic-oup-com.md|Academic Oup Com]]
 - [[entities/academic-oup-com.md|Oxford Academic]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-12-25_heart-rate-synchrony-as-a-marker-of-real-world-soc.md|Heart rate synchrony as a marker of real-world soc]]
-- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
-- [[raw/articles/2026-06-26_85864.md|85864]]
-- [[raw/articles/2026-06-26_8586455.md|8586455]]
-- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]

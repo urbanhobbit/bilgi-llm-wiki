@@ -43,9 +43,3 @@ priority: high
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_5rightsfoundation-org.md|5rightsfoundation.org]]
-- [[raw/articles/2026-06-26_article-from-5rightsfoundation-org-children-digita.md|Article from 5rightsfoundation.org: children digit]]
-- [[raw/articles/2026-06-26_children-digital-rights-framework.md|Children Digital Rights Framework]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-framework-5rights-founda.md|Children's Digital Rights Framework (5Rights Found]]
-- [[raw/articles/5rights-digital-citizenship-2026.md|5Rights Digital Citizenship 2026]]

@@ -44,9 +44,3 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
-- [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]
-- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
-- [[raw/articles/2026-06-26_council-research-papers-european-council-research-.md|Council Research Papers - European Council (Resear]]
-- [[raw/articles/2026-06-26_eu-council-research-papers-european-policy-researc.md|EU Council Research Papers: European Policy Resear]]

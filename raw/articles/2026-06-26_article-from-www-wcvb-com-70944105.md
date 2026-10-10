@@ -54,9 +54,3 @@ Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benze
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_70944105.md|70944105]]
-- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
-- [[raw/articles/2026-06-26_doctor-warns-about-kids-social-media-and-screen-ti.md|Doctor Warns About Kids' Social Media and Screen T]]
-- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]
-- [[raw/articles/2026-06-26_kurator-wcvb-com.md|KURATOR - wcvb.com]]

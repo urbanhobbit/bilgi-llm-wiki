@@ -43,9 +43,3 @@ AB Dijital Hizmetler Yasası (DSA) Paketi, Türkiye'nin dijital düzenleme polit
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
-- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
-- [[raw/articles/2026-06-26_eu-digital-strategy-digital-services-act-package.md|EU Digital Strategy: Digital Services Act Package]]
-- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
-- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

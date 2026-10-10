@@ -47,8 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_digital-parenting-and-social-media-parent-zone.md|Digital Parenting and Social Media - Parent Zone]]
-- [[raw/articles/2026-06-26_digital-parenting-social-media.md|Digital Parenting Social Media]]
-- [[raw/articles/2026-06-26_digital-parenting-survey-2026-parent-zone-research.md|Digital Parenting Survey 2026 - Parent Zone Resear]]
-- [[raw/articles/2026-06-26_digital-parenting-survey-2026-parent-zone-uk.md|Digital Parenting Survey 2026 - Parent Zone UK]]

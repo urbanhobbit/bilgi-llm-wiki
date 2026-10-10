@@ -37,9 +37,3 @@ Euronews'in Macaristan seçim haberciliği, Türkiye'deki medya ortamında da ge
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
-- [[raw/articles/2026-06-26_from-insider-to-rival-how-magyar-became-orb-n-s-mo.md|From insider to rival: How Magyar became Orbán's m]]
-- [[raw/articles/2026-06-26_from-insider-to-rival-how-peter-magyar-became-orba.md|From Insider To Rival How Peter Magyar Became Orba]]

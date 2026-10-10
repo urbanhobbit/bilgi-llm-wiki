@@ -40,6 +40,3 @@ Sosyal medya düzenlemesine uymayan platformlara getirilecek ağır yaptırımla
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_sosyal-medyada-yeni-donem-15-yas.md|Sosyal Medyada Yeni Donem 15 Yas ]]
-- [[raw/articles/2026-06-26_sosyal-medyada-yeni-donem-15-yas-siniri-ve-agir-ya.md|Sosyal Medyada Yeni Donem 15 Yas Siniri Ve Agir Ya]]

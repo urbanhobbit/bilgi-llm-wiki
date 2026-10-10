@@ -47,9 +47,3 @@ Türkiye'de akademik araştırmaların karşılaştığı temel zorluklar arası
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-23_shackle-or-hammer-how-polarisation-influences-poli.md|Shackle or hammer? How polarisation influences pol]]
-- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
-- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]

@@ -64,11 +64,6 @@ Bu makale, [[concepts/populizm.md|Popülizm]] ile [[concepts/demokratik-erozyon.
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
-- [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]
-- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
-- [[raw/articles/2026-07-23_partisan-hearts-polarized-minds-revisiting-the-rel.md|Partisan Hearts, Polarized Minds? Revisiting the R]]
-- [[raw/articles/2026-07-24_ideas-or-strategy-the-impact-of-populist-incumbent.md|Ideas or Strategy? The Impact of Populist Incumben]]
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|SAGE Publications]]

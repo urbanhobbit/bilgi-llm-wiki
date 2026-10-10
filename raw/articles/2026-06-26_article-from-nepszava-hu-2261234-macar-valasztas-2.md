@@ -40,7 +40,3 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_2261234-macar-valasztas-2026-vizsgalat.md|2261234 Macar Valasztas 2026 Vizsgalat]]
-- [[raw/articles/2026-06-26_genel-nepszava-hu.md|GENEL - nepszava.hu]]
-- [[raw/articles/2026-06-26_nepszava-analysis-of-2026-hungarian-election.md|Nepszava: Analysis of 2026 Hungarian Election]]

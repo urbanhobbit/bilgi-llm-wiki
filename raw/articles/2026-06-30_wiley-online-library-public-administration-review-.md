@@ -39,5 +39,3 @@ Kamu yönetimi alanında Türkiye'de son yıllarda önemli reformlar gerçekleş
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]

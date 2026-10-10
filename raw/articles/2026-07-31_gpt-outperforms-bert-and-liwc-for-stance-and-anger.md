@@ -48,9 +48,3 @@ GPT'nin Almanca siyasi metinlerde taraflılık ve öfke tespitinde BERT ve LIWC'
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/x-com.md|X Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
-- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Ev]]
-- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
-- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan mi]]
-- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

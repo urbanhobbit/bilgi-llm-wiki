@@ -50,9 +50,3 @@ Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benze
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_kurator-retirement-media.md|KURATOR - retirement.media]]
-- [[raw/articles/2026-06-26_solo-screen-time-a-unique-peril-for-young-children.md|Solo Screen Time: A Unique Peril for Young Childre]]
-- [[raw/articles/2026-06-26_solo-screen-time-is-a-unique-peril-for-young-child.md|Solo Screen Time Is A Unique Peril For Young Child]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-44-935.md|Çocuklar ve Dijital Ortam (44)]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-47-938.md|Çocuklar ve Dijital Ortam (47)]]

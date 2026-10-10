@@ -40,9 +40,3 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
-- [[raw/articles/2026-06-26_eu-digital-strategy-digital-services-act-package.md|EU Digital Strategy: Digital Services Act Package]]
-- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
-- [[raw/articles/2026-06-26_the-digital-services-act-shaping-europe-s-digital-.md|The Digital Services Act | Shaping Europe’s digita]]
-- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

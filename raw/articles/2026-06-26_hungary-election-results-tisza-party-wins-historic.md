@@ -40,11 +40,5 @@ Euronews'un Macaristan seçim haberleri, Türkiye'deki seçim süreçleriyle kar
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
-- [[raw/articles/2026-06-26_euronews-hungary-election-results-and-analysis.md|Euronews: Hungary Election Results and Analysis]]
-- [[raw/articles/2026-06-26_from-insider-to-rival-how-magyar-became-orb-n-s-mo.md|From insider to rival: How Magyar became Orbán's m]]
 
 İlgili kavram: [[concepts/election-interference-disinformation.md|Election Interference Disinformation]]

@@ -43,7 +43,3 @@ Legal labels such as genocide and crimes against humanity carry substantial lega
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
-- [[raw/articles/2026-06-30_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
-- [[raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject.md|Classifying strategy use in multiattribute subject]]

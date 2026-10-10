@@ -52,9 +52,3 @@ The 5Rights Foundation's 2026 report on children's digital rights in the age of 
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_5rights-foundation-children-s-digital-rights-and-a.md|5Rights Foundation - Children's Digital Rights and]]
-- [[raw/articles/2026-06-26_5rights-report-children-s-digital-rights-and-artif.md|5Rights Report: Children's Digital Rights and Arti]]
-- [[raw/articles/2026-06-26_article-from-5rights-org-childrens-digital-rights-.md|Article from 5rights.org: childrens digital rights]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-and-ai-report-2026-5righ.md|Children's Digital Rights and AI Report 2026 - 5ri]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-and-artificial-intellige.md|Children's Digital Rights and Artificial Intellige]]

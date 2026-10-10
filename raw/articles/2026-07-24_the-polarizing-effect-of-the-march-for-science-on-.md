@@ -35,6 +35,3 @@ Matthew Motta (University of Minnesota), PS: Political Science & Politics, 51(4)
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Genera]]
-- [[raw/articles/2026-06-30_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Genera]]

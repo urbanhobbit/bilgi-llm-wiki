@@ -45,8 +45,3 @@ Türkiye açısından değerlendirildiğinde, bu konu KVKK (Kişisel Verileri Ko
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-commonsense-my-site-com-contactsuppor.md|Article from commonsense.my.site.com: contactsuppo]]
-- [[raw/articles/2026-06-26_common-sense-media-member-support-contact.md|Common Sense Media - Member Support Contact]]
-- [[raw/articles/2026-06-26_common-sense-media-support-and-contact-page.md|Common Sense Media: Support and Contact Page]]
-- [[raw/articles/2026-06-26_kurator-commonsense-my-site-com.md|KURATOR - commonsense.my.site.com]]

@@ -46,9 +46,3 @@ Massachusetts eyaletinin 14 yaş altı çocuklar için sosyal medyayı tamamen y
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
-- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
-- [[raw/articles/2026-06-26_child-safety-regulations-worldwide-whitelist-blog.md|Child Safety Regulations Worldwide - Whitelist Blo]]
-- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
-- [[raw/articles/2026-06-26_kurator-whitelist-video.md|KURATOR - whitelist.video]]

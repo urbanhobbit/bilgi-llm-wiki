@@ -45,9 +45,3 @@ Türkiye akademik çevrelerinde dijital dönüşüm ve çocuk refahı konuların
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
-- [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]
-- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
-- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]
-- [[raw/articles/akademik-yayn-8-975.md|Akademik Yayın (8)]]

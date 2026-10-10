@@ -48,9 +48,3 @@ Bu içerik, Türkiye'de çocukların dijital haklarına ve çevrimiçi güvenli�
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-apnews-com-greece-social-media-ban-ch.md|Article from apnews.com: greece social media ban c]]
-- [[raw/articles/2026-06-26_greece-social-media-ban-children-15-years-old-digi.md|Greece Social Media Ban Children 15 Years Old Digi]]
-- [[raw/articles/2026-06-26_greece-to-ban-social-media-for-children-under-15-a.md|Greece to Ban Social Media for Children Under 15 —]]
-- [[raw/articles/2026-06-26_kurator-apnews-com.md|KURATOR - apnews.com]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-55-946.md|Çocuklar ve Dijital Ortam (55)]]

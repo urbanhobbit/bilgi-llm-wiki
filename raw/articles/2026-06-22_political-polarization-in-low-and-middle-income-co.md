@@ -48,6 +48,3 @@ Bu makale, Türkiye'deki artan siyasi kutuplaşma ve bunun gençler/çocuklar ü
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-04-10_detayli.md|AKADEMIK GUNLUK TARAMA - 2026-04-10]]
-- [[raw/articles/2026-06-26-nature-polarization.md|Political polarization in low- and middle-income c]]

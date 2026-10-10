@@ -38,7 +38,3 @@ Sabah gazetesinin haberine göre, Kahramanmaraş'taki okul saldırısı sonrası
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-sabah-com-tr-kahraman-maramsada-o.md|Article from www.sabah.com.tr: kahraman maramsada ]]
-- [[raw/articles/2026-06-26_kahraman-maramsada-okulda-silah-sesleri-nedeniyle-.md|Kahraman Maramsada Okulda Silah Sesleri Nedeniyle ]]
-- [[raw/articles/2026-06-26_kurator-sabah-com-tr.md|KURATOR - sabah.com.tr]]

@@ -44,8 +44,3 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_anf-news-kahramanmara-ta-okulda-silah-sesleri.md|ANF News: Kahramanmaraş'ta Okulda Silah Sesleri]]
-- [[raw/articles/2026-06-26_article-from-www-anfnews-com-kahramanmarasta-okuld.md|Article from www.anfnews.com: kahramanmarasta okul]]
-- [[raw/articles/2026-06-26_kahramanmara-ta-okulda-silah-sesleri.md|Kahramanmaraş'ta Okulda Silah Sesleri]]
-- [[raw/articles/2026-06-26_kahramanmarasta-okulda-silah-sesleri.md|Kahramanmarasta Okulda Silah Sesleri]]

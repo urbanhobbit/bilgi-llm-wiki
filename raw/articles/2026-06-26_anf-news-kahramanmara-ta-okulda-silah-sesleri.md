@@ -38,8 +38,3 @@ ANF Haber Ajansı'nın kahramanmaraş okul saldırısı haberciliği, Türkiye'd
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-anfnews-com-kahramanmarasta-okuld.md|Article from www.anfnews.com: kahramanmarasta okul]]
-- [[raw/articles/2026-06-26_kahramanmara-ta-okulda-silah-sesleri.md|Kahramanmaraş'ta Okulda Silah Sesleri]]
-- [[raw/articles/2026-06-26_kahramanmarasta-okulda-silah-sesleri.md|Kahramanmarasta Okulda Silah Sesleri]]
-- [[raw/articles/2026-06-26_kurator-anfnews-com.md|KURATOR - anfnews.com]]

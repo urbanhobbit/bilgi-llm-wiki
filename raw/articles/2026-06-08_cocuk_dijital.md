@@ -575,9 +575,3 @@ UK Online Safety Act deneyimi, Türkiye'deki benzer düzenleme çalışmaları i
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
 - [[entities/www-theguardian-com.md|The Guardian]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
-- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
-- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
-- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
-- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

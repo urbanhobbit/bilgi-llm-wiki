@@ -44,9 +44,3 @@ Pew Araştırma Merkezi'nin ebeveynlerin gençlerin yapay zeka kullanımına ili
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/pew-research-center.md|Pew Research Center]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
-- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
-- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]
-- [[raw/articles/2026-06-26_pew-research-parents-on-teens-and-technology.md|Pew Research: Parents on Teens and Technology]]

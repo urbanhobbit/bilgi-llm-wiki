@@ -37,5 +37,3 @@ Türkiye'de sosyal bilimlerde yapay zeka ve makine öğrenimi kullanımı gidere
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2021-03-16_machine-learning-modeling-a-new-way-to-do-quantita.md|Machine Learning Modeling: A New Way to do Quantit]]

@@ -44,9 +44,3 @@ Küresel gelişmeler, Türkiye'yi doğrudan veya dolaylı olarak etkilemektedir.
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections.md|Article from www.politico.eu: bulgaria pm election]]
-- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-fao-leadership-rac.md|Article from www.politico.eu: eu fao leadership ra]]
-- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate.md|Article from www.politico.eu: eu parliament threat]]
-- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und.md|Article from www.politico.eu: eu system buckles un]]
-- [[raw/articles/2026-06-26_article-from-www-politico-eu-eu-wants-new-hungary-.md|Article from www.politico.eu: eu wants new hungary]]

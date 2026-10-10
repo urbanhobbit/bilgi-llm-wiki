@@ -43,9 +43,3 @@ UNICEF'in dijital haklar rehberi güncellemesi, Türkiye'deki çocuk dijital hak
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 - [[entities/unicef.md|Unicef]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_digital-rights-guidelines-update-2026.md|Digital Rights Guidelines Update 2026]]
-- [[raw/articles/2026-06-26_unicef-digital-rights-guidelines-update-2026.md|UNICEF Digital Rights Guidelines Update 2026]]
-- [[raw/articles/2026-06-29_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than th]]
-- [[raw/articles/2026-06_when-ai-becomes-a-friend-child-rights-risks-harms-.md|When AI becomes a friend: Child rights risks, harm]]
-- [[raw/articles/2026-07-01_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than th]]

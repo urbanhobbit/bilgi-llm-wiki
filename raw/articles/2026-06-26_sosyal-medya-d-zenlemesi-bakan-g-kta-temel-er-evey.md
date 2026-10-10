@@ -42,6 +42,3 @@ Türkiye'de 15 yaş altı sosyal medya düzenlemesi, KVKK (6698 sayılı Kişise
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bak.md|Sosyal Medya Duzenlemesi Bak]]
-- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bakan-goktas-temel-cercev.md|Sosyal Medya Duzenlemesi Bakan Goktas Temel Cercev]]

@@ -38,9 +38,3 @@ Electronic Markets gibi SCI indeksli dergilerde yayımlanan makaleler Türkiye'd
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
-- [[raw/articles/2026-06-26_digital-business-models-in-the-regulatory-era-spri.md|Digital Business Models in the Regulatory Era (Spr]]
-- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing disinformation on social media platforms]]
-- [[raw/articles/2026-06-26_s12525-025-00796-6.md|S12525 025 00796 6]]
-- [[raw/articles/akademik-yayn-8-975.md|Akademik Yayın (8)]]

@@ -45,9 +45,3 @@ OECD'nin bu çocuk dostu mahalleler politika belgesi, Türkiye'de kentsel dönü
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
-- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
-- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]
-- [[raw/articles/2026-07-25_towards-a-methodologically-congruent-framework-for.md|Towards a methodologically congruent framework for]]
-- [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political polarization of trust in science]]

@@ -45,9 +45,3 @@ priority: high
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_5rights-foundation-children-s-digital-rights-and-a.md|5Rights Foundation - Children's Digital Rights and]]
-- [[raw/articles/2026-06-26_article-from-5rights-org-childrens-digital-rights-.md|Article from 5rights.org: childrens digital rights]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-and-ai-report-2026-5righ.md|Children's Digital Rights and AI Report 2026 - 5ri]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-and-artificial-intellige.md|Children's Digital Rights and Artificial Intellige]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-in-the-age-of-ai-5rights.md|Children's Digital Rights in the Age of AI — 5Righ]]

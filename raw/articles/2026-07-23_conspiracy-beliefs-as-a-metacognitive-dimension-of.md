@@ -34,7 +34,3 @@ Magdalena Adamus (Institute of Experimental Psychology / Masaryk University), Eu
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]
-- [[raw/articles/2026-06-30_wiley-online-library-public-administration-review-.md|Wiley Online Library — Public Administration Revie]]
-- [[raw/articles/2026-07-23_conspiracy-metacognitive-intergroup.md|Conspiracy Beliefs as a Metacognitive Dimension of]]

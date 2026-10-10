@@ -40,9 +40,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-reuters-com.md|Reuters]]
 - [[entities/www-reuters-com.md|Www Reuters Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect.md|Article from www.reuters.com: greece expect]]
-- [[raw/articles/2026-06-26_article-from-www-reuters-com-greece-expected-annou.md|Article from www.reuters.com: greece expected anno]]
-- [[raw/articles/2026-06-26_genel-reuters-com.md|GENEL - reuters.com]]
-- [[raw/articles/2026-06-26_greece-expect.md|Greece Expect]]
-- [[raw/articles/2026-06-26_greece-expected-announce-social-media-ban-children.md|Greece Expected Announce Social Media Ban Children]]

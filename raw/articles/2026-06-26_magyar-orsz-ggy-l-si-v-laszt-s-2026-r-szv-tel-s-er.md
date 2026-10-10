@@ -40,9 +40,3 @@ Macaristan'daki 2026 parlamento seçimleri ve Viktor Orbán'ın tarihi yenilgisi
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
-- [[raw/articles/2026-06-26_genel-index-hu.md|GENEL - index.hu]]
-- [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]
-- [[raw/articles/2026-06-26_index-hu-belfold-2026-valasztas-2026-orszaggyu.md|Index.hu - belfold 2026 valasztas 2026 orszaggyu]]
-- [[raw/articles/2026-06-26_index-hu-first-kremlin-reaction-orb-n-s-election-c.md|Index.hu: First Kremlin Reaction - Orbán's Electio]]

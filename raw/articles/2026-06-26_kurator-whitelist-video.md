@@ -44,9 +44,3 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
-- [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]
-- [[raw/articles/2026-06-26_child-safety-regulations-worldwide-whitelist-blog.md|Child Safety Regulations Worldwide - Whitelist Blo]]
-- [[raw/articles/2026-06-26_every-country-regulating-kids-social-media-in-2026.md|Every Country Regulating Kids' Social Media in 202]]
-- [[raw/articles/2026-06-26_ma-social-media-ban-for-under-14s-what-parents-nee.md|MA Social Media Ban for Under 14s: What Parents Ne]]

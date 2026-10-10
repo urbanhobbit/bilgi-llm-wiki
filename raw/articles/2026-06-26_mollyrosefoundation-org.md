@@ -45,9 +45,3 @@ Avustralya'nın 16 yaş altı çocuklara sosyal medya yasağı getirmesi, Türki
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]
-- [[raw/articles/2026-06-26_australia-social-media-ban-research-briefing-molly.md|Australia Social Media Ban Research Briefing - Mol]]
-- [[raw/articles/2026-06-26_kurator-mollyrosefoundation-org.md|KURATOR - mollyrosefoundation.org]]
-- [[raw/articles/2026-06-26_molly-rose-foundation-australia-social-media-ban-r.md|Molly Rose Foundation: Australia Social Media Ban ]]
-- [[raw/articles/2026-06-26_mrf-australia-social-media-ban-research-b.md|Mrf Australia Social Media Ban Research B]]

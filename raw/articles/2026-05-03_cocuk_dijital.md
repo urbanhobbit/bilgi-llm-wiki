@@ -239,9 +239,3 @@ Yazı genel okuyucu kitlesine hitap eden, akademik derinlikten yoksun bir kamu b
 - [[entities/techcrunch-com.md|Techcrunch Com]]
 - [[entities/unicef.md|UNICEF]]
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
-- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
-- [[raw/articles/2026-06-26_social-media-ban-children.md|Social Media Ban Children ]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

@@ -43,9 +43,3 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]
-- [[raw/articles/2026-06-26_article-from-www-euronews-com-hungary-election-res.md|Article from www.euronews.com: hungary election re]]
-- [[raw/articles/2026-06-26_euronews-hungary-election-results-and-analysis.md|Euronews: Hungary Election Results and Analysis]]
-- [[raw/articles/2026-06-26_from-insider-to-rival-how-peter-magyar-became-orba.md|From Insider To Rival How Peter Magyar Became Orba]]

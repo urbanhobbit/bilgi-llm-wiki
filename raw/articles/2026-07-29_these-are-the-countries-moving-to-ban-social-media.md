@@ -47,9 +47,3 @@ TechCrunch'in 15 Haziran 2026 tarihli bu kapsamlı haberi, dünya genelinde çoc
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/techcrunch-com.md|TechCrunch]]
 - [[entities/techcrunch-com.md|Techcrunch Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-05-03_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Tas]]
-- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
-- [[raw/articles/2026-06-26_kurator-techcrunch-com.md|KURATOR - techcrunch.com]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

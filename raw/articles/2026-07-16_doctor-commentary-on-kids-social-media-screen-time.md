@@ -42,9 +42,3 @@ WCVB haber sitesinde yayımlanan ve Massachusetts'in yeni sosyal medya yasasın�
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_70944105.md|70944105]]
-- [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]
-- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
-- [[raw/articles/2026-06-26_doctor-warns-about-kids-social-media-and-screen-ti.md|Doctor Warns About Kids' Social Media and Screen T]]
-- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]

@@ -42,5 +42,3 @@ Türkiye'de siyasi kutuplaşma, özellikle 2010'lu yıllardan itibaren toplumsal
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-idos-research-de.md|IDOS]]
 - [[entities/www-idos-research-de.md|Www Idos Research De]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/depolarization-toolkit-an-agentic-ai-framework-891.md|Depolarization Toolkit: An Agentic AI Framework]]

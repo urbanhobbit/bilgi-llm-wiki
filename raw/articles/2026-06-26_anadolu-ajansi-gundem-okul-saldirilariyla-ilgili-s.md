@@ -51,9 +51,3 @@ Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_3908887.md|3908887]]
-- [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]
-- [[raw/articles/2026-06-26_aa-okul-sald-r-lar-soru-turmas-ve-i-erik-payla-mla.md|AA: Okul Saldırıları Soruşturması ve İçerik Paylaş]]
-- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887.md|Article from www.aa.com.tr: 3908887]]
-- [[raw/articles/2026-06-26_article-from-www-aa-com-tr-3909800.md|Article from www.aa.com.tr: 3909800]]

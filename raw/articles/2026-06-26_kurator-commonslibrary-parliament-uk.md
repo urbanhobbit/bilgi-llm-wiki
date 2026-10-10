@@ -44,9 +44,3 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
-- [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]
-- [[raw/articles/2026-06-26_uk-parliament-commons-library-research-briefing-on.md|UK Parliament Commons Library: Research Briefing o]]
-- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468.md|UK Parliament Research Briefing CBP-10468]]
-- [[raw/articles/2026-06-26_uk-parliament-research-briefing-cbp-10468-evidence.md|UK Parliament Research Briefing CBP-10468: Evidenc]]

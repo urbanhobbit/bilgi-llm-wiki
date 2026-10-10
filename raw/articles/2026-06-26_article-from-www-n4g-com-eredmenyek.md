@@ -40,9 +40,3 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]
-- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
-- [[raw/articles/2026-06-26_macaristan-2026-se-imleri-detayl-se-im-analizi-ve-.md|Macaristan 2026 Seçimleri: Detaylı Seçim Analizi v]]
-- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]
-- [[raw/articles/2026-06-26_magyar-v-laszt-s-2026-eredm-nyek-n4g.md|Magyar Választás 2026 Eredmények - N4G]]

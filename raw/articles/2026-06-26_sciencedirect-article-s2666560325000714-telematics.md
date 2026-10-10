@@ -40,9 +40,3 @@ Türkiye'de dijital teknolojilerin toplumsal etkileri üzerine yapılan akademik
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
-- [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
-- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
-- [[raw/articles/2026-06-26_the-effects-of-social-media-restriction-meta-analy.md|The effects of social media restriction: Meta-anal]]
-- [[raw/articles/akademik-yayn-12-979.md|Akademik Yayın (12)]]

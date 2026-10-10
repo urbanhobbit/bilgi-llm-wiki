@@ -40,9 +40,3 @@ PubMed'de indekslenen ekran süresi-çocuk ruh sağlığı araştırmaları, Tü
 ### 🧠 İlgili Kavramlar
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
-- [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]
-- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
-- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]
-- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-ni.md|Screen Time and Children's Mental Health — PubMed/]]

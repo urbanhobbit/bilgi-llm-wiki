@@ -45,9 +45,3 @@ Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]
-- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bak.md|Sosyal Medya Duzenlemesi Bak]]
-- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bakan-goktas-temel-cercev.md|Sosyal Medya Duzenlemesi Bakan Goktas Temel Cercev]]
-- [[raw/articles/2026-07-15_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]
-- [[raw/articles/2026-07-16_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]

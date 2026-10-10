@@ -42,9 +42,3 @@ Türkiye'de sosyal medya kullanımı ve ruh sağlığı ilişkisi, özellikle ge
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
-- [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
-- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
-- [[raw/articles/2026-06-26_sciencedirect-article-s2666560325000714-telematics.md|ScienceDirect article S2666560325000714 (Telematic]]
-- [[raw/articles/akademik-yayn-12-979.md|Akademik Yayın (12)]]

@@ -51,9 +51,3 @@ Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benze
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-a-global-shift-toward.md|IEEE Europe: Saving Childhood - A Global Shift Tow]]
-- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-through-age-appropria.md|IEEE Europe: Saving Childhood Through Age-Appropri]]
-- [[raw/articles/2026-06-26_kurator-europe-ieee-org.md|KURATOR - europe.ieee.org]]
-- [[raw/articles/2026-06-26_saving-childhood-a-global-shift-toward-age-appropr.md|Saving Childhood A Global Shift Toward Age Appropr]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-24-915.md|Çocuklar ve Dijital Ortam (24)]]

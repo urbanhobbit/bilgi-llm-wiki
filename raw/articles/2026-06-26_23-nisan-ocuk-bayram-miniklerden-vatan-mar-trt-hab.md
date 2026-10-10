@@ -46,9 +46,3 @@ Türkiye'de çocukların dijital güvenliği ve çevrimiçi hakları konusu, son
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
-- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
-- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
-- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]
-- [[raw/articles/2026-06-26_76609-htm.md|76609.Htm]]

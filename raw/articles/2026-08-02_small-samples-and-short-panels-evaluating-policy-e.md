@@ -55,9 +55,3 @@ Türkiye'de politika değerlendirmesi sıklıkla il/ilçe düzeyinde kısa zaman
 ### 🧠 İlgili Kavramlar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-10-01_dialogues-with-ai-reduce-beliefs-in-misinformation.md|Dialogues with AI Reduce Beliefs in Misinformation]]
-- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
-- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
-- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
-- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]

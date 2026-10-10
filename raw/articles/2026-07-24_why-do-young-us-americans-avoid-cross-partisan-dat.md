@@ -39,5 +39,3 @@ Shannon Taflinger & Ansgar Hudde (University of Cologne), European Sociological 
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/negative-partisanship.md|Negatif Partizanlik]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]

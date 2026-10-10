@@ -40,9 +40,3 @@ priority: high
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
-- [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]
-- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
-- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
-- [[raw/articles/2026-06-26_kurator-ilkha-com.md|KURATOR - ilkha.com]]

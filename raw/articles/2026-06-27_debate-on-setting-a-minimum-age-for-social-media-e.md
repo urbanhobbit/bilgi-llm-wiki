@@ -50,5 +50,3 @@ Avrupa Parlamentosu Düşünce Kuruluşu'nun sosyal medya asgari yaş sınırı 
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_debate-on-setting-a-minimum-age-for-social-media-t.md|Debate on setting a minimum age for social media |]]

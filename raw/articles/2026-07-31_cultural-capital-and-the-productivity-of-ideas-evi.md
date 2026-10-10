@@ -42,9 +42,3 @@ Stefanski'nin kültürel sermaye ve fikir üretkenliği arasındaki ilişkiyi ta
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/x-com.md|X Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
-- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
-- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
-- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan mi]]
-- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

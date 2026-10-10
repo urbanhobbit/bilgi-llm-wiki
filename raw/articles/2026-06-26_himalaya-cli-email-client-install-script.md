@@ -38,5 +38,3 @@ Himalaya CLI e-posta istemcisi gibi açık kaynak araçlar, Türkiye'deki geliş
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_hermes-agent-llm-wiki-skill-documentation-skill-md.md|Hermes Agent - LLM Wiki Skill Documentation (SKILL]]

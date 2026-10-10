@@ -37,8 +37,3 @@ Türkiye jeopolitik konumu itibarıyla küresel gelişmelerden doğrudan etkilen
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_ali-yal-n-sanal-ortamda-organize-edilmi-bir-ter-r-.md|Ali Yalçın: Sanal ortamda organize edilmiş bir ter]]
-- [[raw/articles/2026-06-26_ali-yalcin-sanal-ortamda-organize-edilmis-bir-tero.md|Ali Yalcin Sanal Ortamda Organize Edilmis Bir Tero]]
-- [[raw/articles/2026-06-26_article-from-www-dha-com-tr-ali-yalcin-sanal-ortam.md|Article from www.dha.com.tr: ali yalcin sanal orta]]
-- [[raw/articles/2026-06-26_dha-ali-yal-n-sanal-ortamda-organize-edilmi-ter-r-.md|DHA: Ali Yalçın - Sanal Ortamda Organize Edilmiş T]]

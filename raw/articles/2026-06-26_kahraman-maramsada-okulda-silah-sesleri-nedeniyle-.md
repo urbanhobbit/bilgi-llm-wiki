@@ -37,7 +37,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-sabah-com-tr-kahraman-maramsada-o.md|Article from www.sabah.com.tr: kahraman maramsada ]]
-- [[raw/articles/2026-06-26_kurator-sabah-com-tr.md|KURATOR - sabah.com.tr]]
-- [[raw/articles/2026-06-26_sabah-kahramanmara-ta-okulda-silah-sesleri-okullar.md|Sabah: Kahramanmaraş'ta Okulda Silah Sesleri - Oku]]

@@ -328,9 +328,3 @@ Common Sense Media anketleri, büyük örneklem ve standartlaştırılmış yön
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 - [[entities/www-theguardian-com.md|The Guardian]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
-- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
-- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
-- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]
-- [[raw/articles/2026-06-26_pew-research-parents-on-teens-and-technology.md|Pew Research: Parents on Teens and Technology]]

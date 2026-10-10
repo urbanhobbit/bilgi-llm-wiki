@@ -45,9 +45,3 @@ AB Konseyi'nin araştırma makaleleri, Türkiye'nin yapay zeka ve dijital düzen
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
-- [[raw/articles/2026-06-26_council-of-the-eu-research-papers.md|Council of the EU - Research Papers]]
-- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
-- [[raw/articles/2026-06-26_council-research-papers-european-council-research-.md|Council Research Papers - European Council (Resear]]
-- [[raw/articles/2026-06-26_eu-council-research-papers-european-policy-researc.md|EU Council Research Papers: European Policy Resear]]

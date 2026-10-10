@@ -48,8 +48,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 - [[entities/unicef.md|Unicef]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_unicef-digital-rights-guidelines-update-2026.md|UNICEF Digital Rights Guidelines Update 2026]]
-- [[raw/articles/2026-06_when-ai-becomes-a-friend-child-rights-risks-harms-.md|When AI becomes a friend: Child rights risks, harm]]
-- [[raw/articles/unicef-digital-rights-2026.md|Unicef Digital Rights 2026]]
-- [[raw/articles/unicef-digital-rights-guidelines-2026.md|Unicef Digital Rights Guidelines 2026]]

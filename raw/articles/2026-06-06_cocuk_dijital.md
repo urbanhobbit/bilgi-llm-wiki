@@ -197,9 +197,3 @@ MEB'in dijital vatandaşlık ve güvenli internet eğitimi programları, BTK'nı
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
 - [[entities/www-reuters-com.md|Reuters]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
-- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
-- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]
-- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-report-a-page-aspx.md|Article from www.lse.ac.uk: report a page.aspx]]

@@ -42,6 +42,3 @@ Bakan Göktaş'ın açıklamaları, Türkiye'de çocukların dijital haklarını
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bakan-goktas-cocukl.md|Bakan Goktas Cocukl]]
-- [[raw/articles/2026-06-26_bakan-goktas-cocuklara-yonelik-sosyal-medya-duzenl.md|Bakan Goktas Cocuklara Yonelik Sosyal Medya Duzenl]]

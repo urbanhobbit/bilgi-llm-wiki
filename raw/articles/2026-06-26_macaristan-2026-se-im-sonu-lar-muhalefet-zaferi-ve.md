@@ -42,9 +42,3 @@ Macaristan seçim sonuçları, Türkiye açısından da önem taşımaktadır. T
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
-- [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]
-- [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]
-- [[raw/articles/2026-06-26_macar-valasztas-eredmenyek.md|Macar Valasztas Eredmenyek]]
-- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-telex-hu.md|Macaristan Seçim Sonuçları - Telex.hu]]

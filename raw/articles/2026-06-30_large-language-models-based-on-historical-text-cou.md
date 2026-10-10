@@ -37,7 +37,3 @@ Türkiye'de davranış bilimleri ve yapay zeka kesişiminde yapılan araştırma
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2024-10-09_large-language-models-based-on-historical-text-cou.md|Large Language Models based on historical text cou]]
-- [[raw/articles/2026-07-22_public-responses-to-atrocities-depend-on-partisans.md|Public responses to atrocities depend on partisans]]
-- [[raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject.md|Classifying strategy use in multiattribute subject]]

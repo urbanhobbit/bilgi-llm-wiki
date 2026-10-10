@@ -48,6 +48,3 @@ Turkiye'de arastirma etigi ve metodolojisi alaninda yapilan calismalar, uluslara
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bi-lgi-tto-technology-transfer-office-linkedin.md|BİLGİ TTO (Technology Transfer Office) - LinkedIn]]
-- [[raw/articles/2026-06-26_bilgi-university-technology-transfer-office-linked.md|Bilgi University Technology Transfer Office - Link]]

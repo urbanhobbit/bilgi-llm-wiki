@@ -37,7 +37,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-nepszava-hu-2261234-macar-valasztas-2.md|Article from nepszava.hu: 2261234 macar valasztas ]]
-- [[raw/articles/2026-06-26_genel-nepszava-hu.md|GENEL - nepszava.hu]]
-- [[raw/articles/2026-06-26_nepszava-analysis-of-2026-hungarian-election.md|Nepszava: Analysis of 2026 Hungarian Election]]

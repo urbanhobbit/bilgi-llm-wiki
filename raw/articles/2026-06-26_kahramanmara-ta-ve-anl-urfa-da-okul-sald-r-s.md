@@ -42,9 +42,3 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-dhaval-com-tr-kahramanmarasta-ve-.md|Article from www.dhaval.com.tr: kahramanmarasta ve]]
-- [[raw/articles/2026-06-26_dha-kahramanmara-ve-anl-urfa-da-okul-sald-r-s.md|DHA: Kahramanmaraş ve Şanlıurfa'da Okul Saldırısı]]
-- [[raw/articles/2026-06-26_kahramanmarasta-ve-sanliurfa-da-okul-saldirisi.md|Kahramanmarasta Ve Sanliurfa Da Okul Saldirisi]]
-- [[raw/articles/2026-06-26_kurator-dhaval-com-tr.md|KURATOR - dhaval.com.tr]]
-- [[raw/articles/2026-06-26_www-dhaval-com-tr.md|www.dhaval.com.tr]]

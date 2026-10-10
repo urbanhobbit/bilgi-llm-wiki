@@ -38,7 +38,3 @@ Harvard'ın bu ön aşılama (prebunking) saha çalışması, Türkiye'de dezenf
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]
-- [[raw/articles/2026-07-16_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

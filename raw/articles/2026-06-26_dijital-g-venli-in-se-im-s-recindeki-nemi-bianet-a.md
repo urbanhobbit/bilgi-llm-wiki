@@ -48,9 +48,3 @@ Bianet'in seçim sürecinde dijital güvenlik konulu analizi, Türkiye'nin karş
 - [[entities/bianet-org.md|Bianet]]
 - [[entities/bianet-org.md|Bianet Org]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_265342-dijital-guvenligin-secim-surecindeki-onemi.md|265342 Dijital Guvenligin Secim Surecindeki Onemi]]
-- [[raw/articles/2026-06-26_265342-dijital-guvenligin-seyim-surecindeki-onemi.md|265342 Dijital Guvenligin Seyim Surecindeki Onemi]]
-- [[raw/articles/2026-06-26_article-from-bianet-org-265342-dijital-guvenligin-.md|Article from bianet.org: 265342 dijital guvenligin]]
-- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-bianet.md|Dijital Güvenliğin Seçim Sürecindeki Önemi — Biane]]
-- [[raw/articles/2026-06-26_dijital-g-venli-in-se-im-s-recindeki-nemi-the-impo.md|Dijital Güvenliğin Seçim Sürecindeki Önemi (The Im]]

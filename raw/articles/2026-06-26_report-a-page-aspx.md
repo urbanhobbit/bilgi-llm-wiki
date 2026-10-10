@@ -39,9 +39,3 @@ Türkiye'de dijital medya ve iletişim alanında akademik araştırmalar giderek
 ### 🧠 İlgili Kavramlar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-06_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araş]]
-- [[raw/articles/2026-06-20_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e.md|Accessibility Statement for The London School of E]]
-- [[raw/articles/2026-06-26_akademi-k-lse-ac-uk.md|AKADEMİK - lse.ac.uk]]
-- [[raw/articles/2026-06-26_article-from-www-lse-ac-uk-home-aspx.md|Article from www.lse.ac.uk: home.aspx]]

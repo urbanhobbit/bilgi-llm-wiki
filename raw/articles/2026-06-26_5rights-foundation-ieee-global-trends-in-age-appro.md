@@ -47,9 +47,3 @@ The 5Rights Foundation's analytical report on IEEE research examining growing gl
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_5rights-foundation-ieee-analysis-growing-global-tr.md|5Rights Foundation: IEEE Analysis - Growing Global]]
-- [[raw/articles/2026-06-26_5rights-foundation-united-states-of-america-countr.md|5Rights Foundation — United States of America Coun]]
-- [[raw/articles/2026-06-26_5rightsfoundation-com.md|5rightsfoundation.com]]
-- [[raw/articles/2026-06-26_age-checking-systems-can-now-be-certified-against-.md|Age checking systems can now be certified against ]]
-- [[raw/articles/2026-06-26_article-from-5rightsfoundation-com-building-a-digi.md|Article from 5rightsfoundation.com: building a dig]]

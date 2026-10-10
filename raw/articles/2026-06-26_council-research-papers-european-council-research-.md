@@ -43,9 +43,3 @@ Avrupa Birliği Konseyi'nin araştırma yayınları, Türkiye'nin AB uyum sürec
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
-- [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]
-- [[raw/articles/2026-06-26_council-of-the-eu-research-papers.md|Council of the EU - Research Papers]]
-- [[raw/articles/2026-06-26_council-research-papers.md|Council Research Papers]]
-- [[raw/articles/2026-06-26_eu-council-research-papers-european-policy-researc.md|EU Council Research Papers: European Policy Resear]]

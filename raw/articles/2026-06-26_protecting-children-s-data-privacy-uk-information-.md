@@ -45,9 +45,3 @@ Bu içerik, Türkiye'de çocukların dijital haklarına ve çevrimiçi güvenli�
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]
-- [[raw/articles/2026-06-26_kids-protecting-childrens-data.md|Kids Protecting Childrens Data]]
-- [[raw/articles/2026-06-26_kurator-ico-org-uk.md|KURATOR - ico.org.uk]]
-- [[raw/articles/2026-06-26_protecting-children-s-data-ico-guidance-for-organi.md|Protecting Children's Data: ICO Guidance for Organ]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-36-927.md|Çocuklar ve Dijital Ortam (36)]]

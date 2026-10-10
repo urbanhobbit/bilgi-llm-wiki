@@ -38,8 +38,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_ali-yal-n-sanal-ortamda-organize-edilmi-bir-ter-r-.md|Ali Yalçın: Sanal ortamda organize edilmiş bir ter]]
-- [[raw/articles/2026-06-26_article-from-www-dha-com-tr-ali-yalcin-sanal-ortam.md|Article from www.dha.com.tr: ali yalcin sanal orta]]
-- [[raw/articles/2026-06-26_dha-ali-yal-n-sanal-ortamda-organize-edilmi-ter-r-.md|DHA: Ali Yalçın - Sanal Ortamda Organize Edilmiş T]]
-- [[raw/articles/2026-06-26_genel-dha-com-tr.md|GENEL - dha.com.tr]]

@@ -35,6 +35,3 @@ Bilgi Üniversitesi Teknoloji Transfer Ofisi'nin LinkedIn showcase sayfası, Tü
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_b-lg-tto-technology-transfer-office-linkedin.md|BÄ°LGÄ° TTO (Technology Transfer Office) | LinkedI]]
-- [[raw/articles/2026-06-26_bi-lgi-tto-technology-transfer-office-linkedin.md|BİLGİ TTO (Technology Transfer Office) - LinkedIn]]

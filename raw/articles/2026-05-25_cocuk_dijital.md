@@ -479,9 +479,3 @@ Türkiye, çocukların çevrimiçi korunması alanında önemli adımlar atmakla
 - [[entities/guardian.md|Guardian]]
 - [[entities/jonathan-haidt.md|Jonathan Haidt]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
-- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
-- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
-- [[raw/articles/2026-05-08_cocuk_dijital.md|🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni]]
-- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]

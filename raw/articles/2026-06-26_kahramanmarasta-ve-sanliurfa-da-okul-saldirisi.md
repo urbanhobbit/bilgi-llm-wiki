@@ -37,9 +37,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-dhaval-com-tr-kahramanmarasta-ve-.md|Article from www.dhaval.com.tr: kahramanmarasta ve]]
-- [[raw/articles/2026-06-26_dha-kahramanmara-ve-anl-urfa-da-okul-sald-r-s.md|DHA: Kahramanmaraş ve Şanlıurfa'da Okul Saldırısı]]
-- [[raw/articles/2026-06-26_kahramanmara-ta-ve-anl-urfa-da-okul-sald-r-s.md|Kahramanmaraş'ta ve Şanlıurfa'da Okul Saldırısı]]
-- [[raw/articles/2026-06-26_kurator-dhaval-com-tr.md|KURATOR - dhaval.com.tr]]
-- [[raw/articles/2026-06-26_www-dhaval-com-tr.md|www.dhaval.com.tr]]

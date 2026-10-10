@@ -45,9 +45,3 @@ AP News'in Yunanistan'ın 15 yaş altı sosyal medya yasağı haberine göre, bu
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-apnews-com-greece-social-media-ban-ch.md|Article from apnews.com: greece social media ban c]]
-- [[raw/articles/2026-06-26_greece-set-to-announce-social-media-ban-for-childr.md|Greece Set to Announce Social Media Ban for Childr]]
-- [[raw/articles/2026-06-26_greece-social-media-ban-children-15-years-old-digi.md|Greece Social Media Ban Children 15 Years Old Digi]]
-- [[raw/articles/2026-06-26_kurator-apnews-com.md|KURATOR - apnews.com]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-55-946.md|Çocuklar ve Dijital Ortam (55)]]

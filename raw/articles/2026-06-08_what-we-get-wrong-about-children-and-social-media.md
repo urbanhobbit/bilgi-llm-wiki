@@ -53,5 +53,3 @@ Media@LSE'de yayımlanan bu kapsamlı analiz, Türkiye'de çocukların sosyal me
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-08_what-we-get-wrong-about-children-and-social-media-.md|What we get wrong about children and social media ]]

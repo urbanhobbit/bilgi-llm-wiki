@@ -47,9 +47,3 @@ Van Bavel'in dış grup sohbet robotuyla 10 dakikalık konuşmanın partizan yan
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/x-com.md|X Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research.md|Bethlehem Tekola on emotion in research]]
-- [[raw/articles/2026-07-31_cultural-capital-and-the-productivity-of-ideas-evi.md|Cultural Capital and the Productivity of Ideas: Ev]]
-- [[raw/articles/2026-07-31_gpt-outperforms-bert-and-liwc-for-stance-and-anger.md|GPT outperforms BERT and LIWC for stance and anger]]
-- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as strategy: Epistemic consequences]]
-- [[raw/articles/bethlehem-tekola-on-emotion-in-research-738.md|Bethlehem Tekola on emotion in research]]

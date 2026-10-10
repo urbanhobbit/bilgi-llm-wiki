@@ -44,9 +44,3 @@ Massachusetts Temsilciler Meclisi'nin 14 yaş altı çocuklara sosyal medya yasa
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
-- [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]
-- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
-- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
-- [[raw/articles/2026-06-26_youth-social-media-ban-passes-state-legislature-ov.md|Youth Social Media Ban Passes State Legislature Ov]]

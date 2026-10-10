@@ -40,7 +40,3 @@ Bu haber, Türkiye'deki dijital düzenleme tartışmaları açısından önemli 
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-english-www-gov-cn-content-ws697416b4.md|Article from english.www.gov.cn: content WS697416b]]
-- [[raw/articles/2026-06-26_china-issues-new-rules-classifying-online-content-.md|China issues new rules classifying online content ]]
-- [[raw/articles/2026-06-26_genel-english-gov-cn.md|GENEL - english.gov.cn]]

@@ -37,7 +37,3 @@ Macaristan seçim sonrası piyasa tepkileri, Türkiye'deki ekonomik politika bel
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-gazdas-hu-macar-piacok-valasztas-utan.md|Article from gazdas.hu: macar piacok valasztas uta]]
-- [[raw/articles/2026-06-26_genel-gazdas-hu.md|GENEL - gazdas.hu]]
-- [[raw/articles/2026-06-26_macar-piacok-valasztas-utan.md|Macar Piacok Valasztas Utan]]

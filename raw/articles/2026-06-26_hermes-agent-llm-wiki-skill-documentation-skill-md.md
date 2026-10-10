@@ -38,5 +38,3 @@ Karpathy'nin LLM Wiki deseni, Türkiye'de akademik araştırma ve bilgi yönetim
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_himalaya-cli-email-client-install-script.md|Himalaya CLI Email Client - Install Script]]

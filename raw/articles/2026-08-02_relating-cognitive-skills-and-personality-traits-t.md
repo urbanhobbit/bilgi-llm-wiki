@@ -45,5 +45,3 @@ James Heckman'ın imzasını taşıyan bu NBER çalışması, Türkiye'deki davr
 - [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-08-01_relating-cognitive-skills-and-personality-traits-t.md|Relating Cognitive Skills and Personality Traits t]]

@@ -40,9 +40,3 @@ AB Dijital Hizmetler Yasası (DSA), Türkiye'nin kendi dijital platform düzenle
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
-- [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]
-- [[raw/articles/2026-06-26_kurator-digital-strategy-ec-europa-eu.md|KURATOR - digital-strategy.ec.europa.eu]]
-- [[raw/articles/2026-06-26_the-digital-services-act-shaping-europe-s-digital-.md|The Digital Services Act | Shaping Europe’s digita]]
-- [[raw/articles/platform-transparency-2026.md|Platform Transparency 2026]]

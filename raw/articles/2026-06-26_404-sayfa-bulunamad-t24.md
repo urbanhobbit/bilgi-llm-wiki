@@ -37,9 +37,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-secim-dezenform.md|Article from t24.com.tr: yapay zeka secim dezenfor]]
-- [[raw/articles/2026-06-26_article-from-t24-com-tr-yapay-zeka-seyim-dezenform.md|Article from t24.com.tr: yapay zeka seyim dezenfor]]
-- [[raw/articles/2026-06-26_genel-t24-com-tr.md|GENEL - t24.com.tr]]
-- [[raw/articles/2026-06-26_kahramanmara-okul-sald-r-s-ekipler-sevk-edildi-det.md|Kahramanmaraş Okul Saldırısı - Ekipler Sevk Edildi]]

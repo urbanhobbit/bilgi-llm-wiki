@@ -40,9 +40,3 @@ Massachusetts Temsilciler Meclisi'nin çocuk sosyal medya yasağını onaylamas�
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
-- [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]
-- [[raw/articles/2026-06-26_article5a0029f0-0ed8-4730-8222-017ca1f1c10e-html.md|Article5A0029F0 0Ed8 4730 8222 017Ca1F1C10E.Html]]
-- [[raw/articles/2026-06-26_kurator-ack-net.md|KURATOR - ack.net]]
-- [[raw/articles/2026-06-26_massachusetts-house-passes-youth-social-media-ban-.md|Massachusetts House Passes Youth Social Media Ban ]]

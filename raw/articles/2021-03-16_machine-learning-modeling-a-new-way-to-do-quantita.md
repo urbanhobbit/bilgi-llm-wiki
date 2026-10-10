@@ -39,5 +39,3 @@ Machine learning modeling offers a new paradigm for quantitative research in the
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-30_machine-learning-modeling-a-new-way-to-do-quantita.md|Machine Learning Modeling: A New Way to do Quantit]]

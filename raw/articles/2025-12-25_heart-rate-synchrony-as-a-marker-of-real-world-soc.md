@@ -49,9 +49,3 @@ Bu çalışma, Türkiye'de çocukların ve gençlerin dijital sosyalleşme ile y
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26-pnas-heart-rate.md|Heart rate synchrony as a marker of real-world soc]]
-- [[raw/articles/2026-06-26_85864.md|85864]]
-- [[raw/articles/2026-06-26_8586455.md|8586455]]
-- [[raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u.md|Academic Article - Public Opinion Quarterly (Oxfor]]
-- [[raw/articles/2026-06-26_akademi-k-academic-oup-com.md|AKADEMİK - academic.oup.com]]

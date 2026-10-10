@@ -44,9 +44,3 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
-- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
-- [[raw/articles/2026-06-26_social-media-age-verification-laws-by-country-wiki.md|Social Media Age Verification Laws by Country - Wi]]
-- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]
-- [[raw/articles/2026-06-26_socialmediaageverificationlaws.md|Socialmediaageverificationlaws]]

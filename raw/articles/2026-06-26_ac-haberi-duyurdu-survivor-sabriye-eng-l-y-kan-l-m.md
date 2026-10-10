@@ -46,9 +46,3 @@ Türkiye'nin iç ve dış politikasındaki gelişmeler, kamuoyu tarafından yak�
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-.md|Aci Haberi Duyurdu Survivor Sabriye Sengulu Yikan ]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd.md|Article from www.milliyet.com.tr: aci haberi duyur]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-milli-piyango-son.md|Article from www.milliyet.com.tr: milli piyango so]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-secim-donemi-deze.md|Article from www.milliyet.com.tr: secim donemi dez]]
-- [[raw/articles/2026-06-26_genel-milliyet-com-tr.md|GENEL - milliyet.com.tr]]

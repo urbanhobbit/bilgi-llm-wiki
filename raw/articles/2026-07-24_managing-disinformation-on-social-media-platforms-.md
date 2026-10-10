@@ -45,9 +45,3 @@ Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-04-02_scaling-hermeneutics-a-guide-to-qualitative-coding.md|Scaling hermeneutics: a guide to qualitative codin]]
-- [[raw/articles/2025-06-20_thematic-analysis-of-interview-data-with-chatgpt-d.md|Thematic analysis of interview data with ChatGPT: ]]
-- [[raw/articles/2026-01-21_ecological-rationality-and-democratic-ignorance-re.md|Ecological rationality and democratic ignorance: r]]
-- [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
-- [[raw/articles/2026-06-16_the-use-and-methodological-reporting-of-large-lang.md|The use and methodological reporting of large lang]]

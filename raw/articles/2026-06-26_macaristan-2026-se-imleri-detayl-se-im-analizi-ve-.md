@@ -44,9 +44,3 @@ Macaristan seçim sonuçları, Türkiye açısından da önem taşımaktadır. T
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
-- [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]
-- [[raw/articles/2026-06-26_genel-n4g-com.md|GENEL - n4g.com]]
-- [[raw/articles/2026-06-26_macaristan-se-im-sonu-lar-n4g.md|Macaristan Seçim Sonuçları - N4G]]
-- [[raw/articles/2026-06-26_magyar-v-laszt-s-2026-eredm-nyek-n4g.md|Magyar Választás 2026 Eredmények - N4G]]

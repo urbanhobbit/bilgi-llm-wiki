@@ -47,6 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_sosyal-medya-d-zenlemesi-bakan-g-kta-temel-er-evey.md|Sosyal medya düzenlemesi! Bakan Göktaş: Temel çerç]]
-- [[raw/articles/2026-06-26_sosyal-medya-duzenlemesi-bakan-goktas-temel-cercev.md|Sosyal Medya Duzenlemesi Bakan Goktas Temel Cercev]]

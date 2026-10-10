@@ -55,9 +55,3 @@ Avrupa Birliği'ne üyelik süreci kapsamında, Türkiye'nin dijital hukuk uyum 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-europe-ieee-org-saving-childhood-a-gl.md|Article from europe.ieee.org: saving childhood a g]]
-- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-a-global-shift-toward.md|IEEE Europe: Saving Childhood - A Global Shift Tow]]
-- [[raw/articles/2026-06-26_ieee-europe-saving-childhood-through-age-appropria.md|IEEE Europe: Saving Childhood Through Age-Appropri]]
-- [[raw/articles/2026-06-26_kurator-europe-ieee-org.md|KURATOR - europe.ieee.org]]
-- [[raw/articles/2026-06-26_saving-childhood-a-global-shift-toward-age-appropr.md|Saving Childhood A Global Shift Toward Age Appropr]]

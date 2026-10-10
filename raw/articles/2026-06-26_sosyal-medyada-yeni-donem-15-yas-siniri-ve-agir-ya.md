@@ -47,6 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_sosyal-medyada-yeni-d-nem-15-ya-s-n-r-ve-a-r-yapt-.md|Sosyal medyada yeni dönem: 15 yaş sınırı ve ağır y]]
-- [[raw/articles/2026-06-26_sosyal-medyada-yeni-donem-15-yas.md|Sosyal Medyada Yeni Donem 15 Yas ]]

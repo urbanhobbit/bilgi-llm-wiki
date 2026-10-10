@@ -41,9 +41,3 @@ Grimoire Manor Substack analizi ve İngiltere'nin önerilen 'Gerçek Hayatta' (I
 ### 🧠 İlgili Kavramlar
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
-- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
-- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
-- [[raw/articles/2026-06-26_the-uk-s-proposed-in-real-life-study-of-social-med.md|The UK's Proposed "In Real Life" Study of Social M]]
-- [[raw/articles/2026-06-26_the-uks-proposed-in-real-life-study.md|The Uks Proposed In Real Life Study]]

@@ -46,9 +46,3 @@ Sonuç olarak, Hermes Agent'a eklenen bu LLM Wiki yeteneği, Türkiye'nin yapay 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-05-02_scrapling_integration.md|Scrapling Integration Report]]
-- [[raw/articles/2026-06-26_bilgi-llm-wiki-github-archive-download.md|Bilgi LLM Wiki - GitHub Archive Download]]
-- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-main.md|Bilgi LLM Wiki - Raw Articles (main)]]
-- [[raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-master.md|Bilgi LLM Wiki - Raw Articles (master)]]
-- [[raw/articles/2026-06-26_github-pull-request-5100-nousresearch-hermes-agent.md|GitHub Pull Request #5100 - NousResearch/hermes-ag]]

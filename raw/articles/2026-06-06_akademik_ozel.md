@@ -340,5 +340,3 @@ Makale, üç farklı ülkede (Hindistan, Güney Afrika, ABD) yürütülen anket 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Oxford Academic]]
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

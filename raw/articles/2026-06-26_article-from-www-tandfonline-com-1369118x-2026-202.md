@@ -45,9 +45,3 @@ Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılı
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-05-23_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-05-30_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_1369118x-2026-2.md|1369118X.2026.2]]
-- [[raw/articles/2026-06-26_1369118x-2026-2026-2639567.md|1369118X.2026.2026.2639567]]
-- [[raw/articles/2026-06-26_1369118x-2026-263956.md|1369118X.2026.263956]]

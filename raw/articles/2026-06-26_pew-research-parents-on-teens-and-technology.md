@@ -53,9 +53,3 @@ Türkiye akademik çevrelerinde dijital dönüşüm ve çocuk refahı konuların
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/pew-research-center.md|Pew Research Center]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-13_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-06-26_article-from-www-pewresearch-org-what-parents-say-.md|Article from www.pewresearch.org: what parents say]]
-- [[raw/articles/2026-06-26_kurator-pewresearch-org.md|KURATOR - pewresearch.org]]
-- [[raw/articles/2026-06-26_pew-research-center-parents-perspectives-on-teens-.md|Pew Research Center: Parents' Perspectives on Teen]]
-- [[raw/articles/2026-06-26_pew-research-center-what-parents-say-about-their-t.md|Pew Research Center: What Parents Say About Their ]]

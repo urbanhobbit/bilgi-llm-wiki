@@ -38,9 +38,3 @@ Ziraat Türkiye Kupası, Türk futbolunun en köklü ve geniş katılımlı orga
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
-- [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]
-- [[raw/articles/2026-06-26_23-nisan-ocuk-bayram-miniklerden-vatan-mar-trt-hab.md|23 Nisan Çocuk Bayramı: Miniklerden Vatan Marşı - ]]
-- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487.md|23 Nisanda Cocuklardan Vatan Marsi 77487]]
-- [[raw/articles/2026-06-26_23-nisanda-cocuklardan-vatan-marsi-77487-html.md|23 Nisanda Cocuklardan Vatan Marsi 77487.Html]]

@@ -41,9 +41,3 @@ Bu kapsamlı derleme, Türkiye'nin 15 yaş altı sosyal medya düzenlemesi çal�
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]
-- [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
-- [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]
-- [[raw/articles/2026-06-26_social-media-age-verification-laws-wikipedia.md|Social Media Age Verification Laws - Wikipedia]]
-- [[raw/articles/2026-06-26_socialmediaageverificationlaws.md|Socialmediaageverificationlaws]]

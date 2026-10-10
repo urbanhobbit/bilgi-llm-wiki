@@ -352,11 +352,5 @@ Türkiye özelinde:
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
-- [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]
-- [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
-- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]
-- [[raw/articles/2026-05-18_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
 
 İlgili kavram: [[concepts/media-literacy-fact-checking.md|Media Literacy Fact Checking]]

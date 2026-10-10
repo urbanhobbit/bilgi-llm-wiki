@@ -47,9 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]
-- [[raw/articles/2026-06-26_kurator-ico-org-uk.md|KURATOR - ico.org.uk]]
-- [[raw/articles/2026-06-26_protecting-children-s-data-ico-guidance-for-organi.md|Protecting Children's Data: ICO Guidance for Organ]]
-- [[raw/articles/2026-06-26_protecting-children-s-data-privacy-uk-information-.md|Protecting Children's Data Privacy — UK Informatio]]
-- [[raw/articles/ocuklar-ve-dijital-ortam-36-927.md|Çocuklar ve Dijital Ortam (36)]]

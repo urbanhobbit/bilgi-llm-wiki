@@ -43,9 +43,3 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/dw.md|Dw]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-04-17_cocuk_dijital.md|COCUKLAR ve DIJITAL DUNYA - OZEL TARAMA (17 Nisan ]]
-- [[raw/articles/2026-06-26_article-from-www-dw-com-s-69784532.md|Article from www.dw.com: s 69784532]]
-- [[raw/articles/2026-06-26_dw-almanya-se-imleri-ve-dezenformasyon-sava-lar.md|DW: Almanya Seçimleri ve Dezenformasyon Savaşları]]
-- [[raw/articles/2026-06-26_genel-dw-com.md|GENEL - dw.com]]
-- [[raw/articles/2026-06-26_s-69784532.md|S 69784532]]

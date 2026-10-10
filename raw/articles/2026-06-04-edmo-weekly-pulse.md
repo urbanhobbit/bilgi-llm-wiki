@@ -125,9 +125,3 @@ Climate disinformation from state actors is part of broader campaigns of manipul
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-03-26-edmo-weekly-pulse.md|EDMO Weekly Pulse - March 26, 2026]]
-- [[raw/articles/2026-04-01-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 1, 2026]]
-- [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
-- [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
-- [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]

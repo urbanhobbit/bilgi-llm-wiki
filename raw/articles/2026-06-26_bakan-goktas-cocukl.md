@@ -47,6 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_bakan-g-kta-ocuklara-y-nelik-sosyal-medya-d-zenlem.md|Bakan Göktaş: Çocuklara yönelik sosyal medya düzen]]
-- [[raw/articles/2026-06-26_bakan-goktas-cocuklara-yonelik-sosyal-medya-duzenl.md|Bakan Goktas Cocuklara Yonelik Sosyal Medya Duzenl]]

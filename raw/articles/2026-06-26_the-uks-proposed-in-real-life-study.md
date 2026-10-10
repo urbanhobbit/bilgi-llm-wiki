@@ -47,9 +47,3 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
-- [[raw/articles/2026-06-26_grimoire-manor-analysis-uk-proposed-in-real-life-s.md|Grimoire Manor Analysis: UK Proposed 'In Real Life]]
-- [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]
-- [[raw/articles/2026-06-26_kurator-grimoiremanor-substack-com.md|KURATOR - grimoiremanor.substack.com]]
-- [[raw/articles/2026-06-26_the-uk-s-proposed-in-real-life-study-of-social-med.md|The UK's Proposed "In Real Life" Study of Social M]]

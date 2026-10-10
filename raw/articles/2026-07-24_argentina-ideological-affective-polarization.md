@@ -82,5 +82,3 @@ Bu makale, [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Pol
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-07-24_ideological-and-affective-polarization-in-argentin.md|Ideological and Affective Polarization in Argentin]]

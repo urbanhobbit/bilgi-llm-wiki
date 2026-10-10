@@ -50,9 +50,3 @@ Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benze
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 - [[entities/www-ftc-gov.md|Www Ftc Gov]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-www-ftc-gov-childrens-online-privacy-.md|Article from www.ftc.gov: childrens online privacy]]
-- [[raw/articles/2026-06-26_blocked-404-www-ftc-gov.md|Blocked (404) - www.ftc.gov]]
-- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-coppa-ft.md|Children's Online Privacy Protection Rule (COPPA) ]]
-- [[raw/articles/2026-06-26_children-s-online-privacy-protection-rule-ftc-enfo.md|Children's Online Privacy Protection Rule — FTC En]]
-- [[raw/articles/2026-06-26_childrens-online-privacy-protection-rule.md|Childrens Online Privacy Protection Rule]]

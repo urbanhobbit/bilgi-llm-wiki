@@ -39,9 +39,3 @@ ScienceDirect'te yayınlanan akademik makalelere Türkiye'den erişim, üniversi
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
-- [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]
-- [[raw/articles/2026-06-26_sciencedirect-article-s2666560325000714-telematics.md|ScienceDirect article S2666560325000714 (Telematic]]
-- [[raw/articles/2026-06-26_the-effects-of-social-media-restriction-meta-analy.md|The effects of social media restriction: Meta-anal]]
-- [[raw/articles/akademik-yayn-12-979.md|Akademik Yayın (12)]]

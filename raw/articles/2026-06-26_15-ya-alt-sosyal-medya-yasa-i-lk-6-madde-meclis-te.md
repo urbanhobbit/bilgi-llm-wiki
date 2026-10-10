@@ -44,9 +44,3 @@ TBMM'de kabul edilen ilk 6 madde, Türkiye'nin çocukları dijital ortamda korum
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]
-- [[raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya.md|Article from ilkha.com: 15 yas alti sosyal medya y]]
-- [[raw/articles/2026-06-26_i-lke-haber-ajans.md|İlke Haber Ajansı]]
-- [[raw/articles/2026-06-26_i-lkha-15-ya-alt-sosyal-medya-yasa-tart-malar.md|İlkha: 15 Yaş Altı Sosyal Medya Yasağı Tartışmalar]]
-- [[raw/articles/2026-06-26_kurator-ilkha-com.md|KURATOR - ilkha.com]]

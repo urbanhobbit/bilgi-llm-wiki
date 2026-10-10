@@ -46,9 +46,3 @@ PubMed'de yayınlanan bu kapsamlı araştırma incelemesi, Türkiye'de çocuklar
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_70944105.md|70944105]]
-- [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]
-- [[raw/articles/2026-06-26_child-safety-analysis-wcvb-com.md|Child Safety Analysis — wcvb.com]]
-- [[raw/articles/2026-06-26_doktorlardan-ocuklar-n-sosyal-medya-kullan-m-na-i-.md|Doktorlardan Çocukların Sosyal Medya Kullanımına İ]]
-- [[raw/articles/2026-06-26_kurator-wcvb-com.md|KURATOR - wcvb.com]]

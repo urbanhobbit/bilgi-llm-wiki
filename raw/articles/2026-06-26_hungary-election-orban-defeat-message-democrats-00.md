@@ -37,9 +37,3 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
-- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
-- [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]
-- [[raw/articles/2026-06-26_article-from-www-politico-com-hungary-election-orb.md|Article from www.politico.com: hungary election or]]
-- [[raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra.md|Article from www.politico.com: trump announces str]]

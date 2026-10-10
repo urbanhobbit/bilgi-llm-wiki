@@ -51,9 +51,3 @@ Bu bağlamda, ilgili kaynak tarafından ele alınan konular, Türkiye'deki benze
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]
-- [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]
-- [[raw/articles/2026-06-26_pubmed-screen-time-and-children-s-mental-health-re.md|PubMed: Screen Time and Children's Mental Health -]]
-- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-in.md|Screen Time and Children's Mental Health — PubMed ]]
-- [[raw/articles/2026-06-26_screen-time-and-children-s-mental-health-pubmed-ni.md|Screen Time and Children's Mental Health — PubMed/]]

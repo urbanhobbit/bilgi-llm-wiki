@@ -43,11 +43,5 @@ digitalturkce.com sitesinde yapay zeka teknolojileri ve dezenformasyon tartışm
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
-- [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]
-- [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]
-- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismala]]
-- [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md|Yapay Zeka Teknolojileri ve Dezenformasyon Tartışm]]
 
 İlgili kavram: [[concepts/synthetic-media-ai-content.md|Synthetic Media Ai Content]]

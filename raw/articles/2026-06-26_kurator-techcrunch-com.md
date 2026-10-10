@@ -46,9 +46,3 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[entities/techcrunch-com.md|TechCrunch]]
 - [[entities/techcrunch-com.md|Techcrunch Com]]
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-05-03_cocuk_dijital.md|🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Tas]]
-- [[raw/articles/2026-06-26_article-from-techcrunch-com-social-media-ban-child.md|Article from techcrunch.com: social media ban chil]]
-- [[raw/articles/2026-06-26_social-media-ban-children.md|Social Media Ban Children ]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries.md|Social Media Ban Children Countries ]]
-- [[raw/articles/2026-06-26_social-media-ban-children-countries-list.md|Social Media Ban Children Countries List]]

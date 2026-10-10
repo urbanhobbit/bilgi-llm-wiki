@@ -60,9 +60,3 @@ Türkiye'nin Dijital Hizmetler Kanunu'nun AB'nin Dijital Hizmetler Yasası (DSA)
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/unicef.md|UNICEF]]
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_5rights-foundation-children-s-digital-rights-frame.md|5Rights Foundation: Children's Digital Rights Fram]]
-- [[raw/articles/2026-06-26_5rightsfoundation-org.md|5rightsfoundation.org]]
-- [[raw/articles/2026-06-26_article-from-5rightsfoundation-org-children-digita.md|Article from 5rightsfoundation.org: children digit]]
-- [[raw/articles/2026-06-26_children-digital-rights-framework.md|Children Digital Rights Framework]]
-- [[raw/articles/2026-06-26_children-s-digital-rights-framework-5rights-founda.md|Children's Digital Rights Framework (5Rights Found]]

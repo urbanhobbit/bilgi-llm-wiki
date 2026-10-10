@@ -59,7 +59,3 @@ Bu makale, [[concepts/komplo-inanclari.md|Komplo İnançları]] ile [[concepts/s
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]
-- [[raw/articles/2026-06-30_wiley-online-library-public-administration-review-.md|Wiley Online Library — Public Administration Revie]]
-- [[raw/articles/2026-07-23_conspiracy-beliefs-as-a-metacognitive-dimension-of.md|Conspiracy Beliefs as a Metacognitive Dimension of]]

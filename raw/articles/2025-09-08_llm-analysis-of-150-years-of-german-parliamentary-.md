@@ -59,5 +59,3 @@ Türkiye'de 2011 sonrası Suriyeli göçü ve göçmen/sığınmacı söylemi TB
 ### 🧠 İlgili Kavramlar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-08-31_two-centuries-of-sexism-in-british-parliament-a-co.md|Two Centuries of Sexism in British Parliament: A Computational Analysis of Women's Representation in the Hansard Corpus]]

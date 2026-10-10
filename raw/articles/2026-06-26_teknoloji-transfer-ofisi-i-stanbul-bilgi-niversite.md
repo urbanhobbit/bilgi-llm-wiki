@@ -37,6 +37,3 @@ priority: low
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_i-stanbul-bilgi-niversitesi-teknoloji-transfer-ofi.md|İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofi]]
-- [[raw/articles/2026-06-26_teknoloji-transfer-ofisi-ara-t-rma-i-stanbul-bilgi.md|Teknoloji Transfer Ofisi - Araştırma | İstanbul Bi]]

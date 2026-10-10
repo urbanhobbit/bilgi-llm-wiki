@@ -40,9 +40,3 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 ---
 
 ## 🔗 İlgili Bağlantılar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_euractiv-hungary-election-tisza-wins-444-seats.md|Euractiv: Hungary Election - Tisza Wins 444 Seats]]
-- [[raw/articles/2026-06-26_euractiv-section-europe-politics-hungary-election-.md|Euractiv - section europe politics hungary electio]]
-- [[raw/articles/2026-06-26_genel-euractiv-com.md|GENEL - euractiv.com]]
-- [[raw/articles/2026-06-26_hungary-election-2026-tisza-wins-landslide-victory.md|Hungary Election 2026: TISZA Wins Landslide Victor]]
-- [[raw/articles/2026-06-26_hungary-election-tisza-wins-444-seats.md|Hungary Election Tisza Wins 444 Seats]]

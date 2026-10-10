@@ -36,6 +36,3 @@ Kien Nguyen-Trung (Monash University) & Susanne Friese (Qeludra Consultancy), In
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
-- [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]

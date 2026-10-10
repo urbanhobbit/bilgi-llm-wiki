@@ -45,9 +45,3 @@ Milli Piyango sonuçlarının yayımlanması, Türkiye'de şans oyunları sektö
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-### 📄 Aynı Kaynaktan
-- [[raw/articles/2026-06-26_ac-haberi-duyurdu-survivor-sabriye-eng-l-y-kan-l-m.md|Acı haberi duyurdu! Survivor Sabriye Şengül'ü yıka]]
-- [[raw/articles/2026-06-26_aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-.md|Aci Haberi Duyurdu Survivor Sabriye Sengulu Yikan ]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd.md|Article from www.milliyet.com.tr: aci haberi duyur]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-milli-piyango-son.md|Article from www.milliyet.com.tr: milli piyango so]]
-- [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-secim-donemi-deze.md|Article from www.milliyet.com.tr: secim donemi dez]]
