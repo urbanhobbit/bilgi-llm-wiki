@@ -64,3 +64,6 @@ Türkiye bağlamı için doğrudan test edilebilir hipotezler veriyor: yüksek d
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-10_bridging-the-political-divide-meta-humanization-an.md|Bridging the Political Divide: Meta-Humanization and Moral Emotions]]
+- [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Issues Affects Character Judgments]]
