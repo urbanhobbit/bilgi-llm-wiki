@@ -41,7 +41,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/guardian.md|Guardian]]
 - [[entities/www-theguardian-com.md|Www Theguardian Com]]

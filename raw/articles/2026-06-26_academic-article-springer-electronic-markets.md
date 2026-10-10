@@ -37,7 +37,6 @@ Electronic Markets gibi SCI indeksli dergilerde yayımlanan makaleler Türkiye'd
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]

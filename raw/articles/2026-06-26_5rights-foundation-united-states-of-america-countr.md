@@ -38,7 +38,6 @@ The 5Rights Foundation's United States country profile provides a comprehensive 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

@@ -42,8 +42,5 @@ Scrapling testi (7 URL): ✅ 3 erişilebilir, ❌ 4 engellendi. Blokaj oranı: %
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]

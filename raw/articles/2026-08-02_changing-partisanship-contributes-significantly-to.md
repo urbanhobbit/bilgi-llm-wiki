@@ -42,10 +42,8 @@ Bu çalışma, duygusal kutuplaşma literatüründe parti değişiminin (churn) 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]

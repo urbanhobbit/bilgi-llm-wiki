@@ -83,7 +83,6 @@ Türkiye için öneriler: (1) BTK uygulama yönetmeliği taslağında **veri min
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

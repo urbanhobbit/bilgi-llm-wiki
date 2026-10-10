@@ -45,6 +45,4 @@ OECD'nin PISA 2029 MAIL Değerlendirme Çerçevesi, Türkiye'nin eğitim politik
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

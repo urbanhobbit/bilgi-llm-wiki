@@ -35,11 +35,9 @@ Kategori etiketi: kısıtlama
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bbc.md|Bbc]]
 - [[entities/www-bbc-com.md|Www Bbc Com]]

@@ -47,8 +47,6 @@ Stanford Üniversitesi'nde yayımlanan bu disiplinlerarası akademik makale, Tü
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan

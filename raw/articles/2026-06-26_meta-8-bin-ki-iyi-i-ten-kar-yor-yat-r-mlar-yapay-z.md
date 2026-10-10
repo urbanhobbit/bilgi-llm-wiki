@@ -37,8 +37,6 @@ Meta'nın 8 bin kişiyi işten çıkarma kararı, Türkiye'deki teknoloji sektö
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]

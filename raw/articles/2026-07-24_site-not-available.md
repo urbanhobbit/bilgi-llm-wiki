@@ -48,4 +48,3 @@ Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

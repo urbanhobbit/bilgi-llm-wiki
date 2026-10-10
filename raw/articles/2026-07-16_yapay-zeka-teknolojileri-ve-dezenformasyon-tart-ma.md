@@ -40,7 +40,6 @@ digitalturkce.com sitesinde yapay zeka teknolojileri ve dezenformasyon tartışm
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
@@ -50,6 +49,5 @@ digitalturkce.com sitesinde yapay zeka teknolojileri ve dezenformasyon tartışm
 - [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]
 - [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-dezenformasyon-tartismala.md|Yapay Zeka Teknolojileri Dezenformasyon Tartismala]]
 - [[raw/articles/2026-06-26_yapay-zeka-teknolojileri-ve-dezenformasyon-tart-ma.md|Yapay Zeka Teknolojileri ve Dezenformasyon Tartışm]]
-
 
 İlgili kavram: [[concepts/synthetic-media-ai-content.md|Synthetic Media Ai Content]]

@@ -37,8 +37,6 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
 - [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]

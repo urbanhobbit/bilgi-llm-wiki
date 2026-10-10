@@ -37,9 +37,6 @@ Harvard Misinformation Review'daki bu saha çalışması, Türkiye'de dezenforma
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]
 - [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social med]]

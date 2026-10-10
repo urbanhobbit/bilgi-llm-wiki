@@ -28,7 +28,6 @@ timestamp: '2026-06-06T09:02:50Z'
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/guardian.md|Guardian]]
 - [[entities/www-theguardian-com.md|The Guardian]]

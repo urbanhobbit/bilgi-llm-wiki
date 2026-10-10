@@ -35,9 +35,3 @@ Legal labels such as genocide and crimes against humanity carry substantial lega
 - Label effects isolated from country context and partisanship in experimental design
 - Tests whether label sensitivity concentrates in low-priority domains or produces backlash
 - Relevant to disinformation around atrocity classification and polarized public discourse
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

@@ -33,9 +33,3 @@ Although qualitative research is typically seen as working with verbal text, vis
 - Two approaches: iterative-progression (inductive) and pragmatic-bricolage (abductive)
 - Visuals can add layers of meaning and support thick description in qualitative work
 - The paper bridges visualization practice with methodological traditions
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

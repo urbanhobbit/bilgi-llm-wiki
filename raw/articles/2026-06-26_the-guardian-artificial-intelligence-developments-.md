@@ -40,7 +40,6 @@ Yapay zeka teknolojilerindeki gelişmeler, Türkiye'de dijital dönüşüm polit
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/guardian.md|Guardian]]
 - [[entities/www-theguardian-com.md|The Guardian]]

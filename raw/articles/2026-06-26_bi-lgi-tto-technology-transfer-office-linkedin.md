@@ -38,7 +38,6 @@ priority: low
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_b-lg-tto-technology-transfer-office-linkedin.md|BÄ°LGÄ° TTO (Technology Transfer Office) | LinkedI]]
 - [[raw/articles/2026-06-26_bilgi-university-technology-transfer-office-linked.md|Bilgi University Technology Transfer Office - Link]]

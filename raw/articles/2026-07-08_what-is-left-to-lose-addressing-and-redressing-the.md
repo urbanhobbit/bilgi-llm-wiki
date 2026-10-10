@@ -50,8 +50,6 @@ UNICEF Türkiye'nin 2025 raporları, dijital uçurumun nesiller arası aktarım�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
 - [[entities/academic-oup-com.md|Oxford Academic]]

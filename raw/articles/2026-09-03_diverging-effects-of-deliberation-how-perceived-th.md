@@ -51,8 +51,6 @@ Türkiye bağlamında bulgu doğrudan test edilebilir bir hipotez sunuyor: siyas
 ### 🧠 İlgili Kavramlar
 - [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
-- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
-- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|SAGE Publications]]
 ### 📄 İlgili Makaleler

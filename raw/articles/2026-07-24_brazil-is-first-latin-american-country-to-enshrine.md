@@ -39,7 +39,6 @@ Politika önerisi: Türkiye, yaşa uygun tasarım (Age Appropriate Design) ilkel
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rightsfoundation Com]]

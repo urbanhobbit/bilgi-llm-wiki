@@ -43,10 +43,7 @@ GPT'nin Almanca siyasi metinlerde taraflılık ve öfke tespitinde BERT ve LIWC'
 - [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler

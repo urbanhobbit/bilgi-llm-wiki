@@ -40,7 +40,6 @@ TechCrunch'ın küresel sosyal medya yasakları karşılaştırması, Türkiye'n
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/techcrunch-com.md|TechCrunch]]

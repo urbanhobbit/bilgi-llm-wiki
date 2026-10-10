@@ -35,8 +35,6 @@ Macaristan seçim sonuçları, Türkiye-AB ilişkileri ve Avrupa'daki siyasi dö
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/new-york-times.md|New York Times]]
 ### 📄 Aynı Kaynaktan

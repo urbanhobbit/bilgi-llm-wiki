@@ -40,7 +40,6 @@ FTC'nin COPPA Uyum Rehberi, Türkiye'deki çocukların çevrimiçi gizliliğine 
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-ftc-gov.md|Www Ftc Gov]]
 ### 📄 Aynı Kaynaktan

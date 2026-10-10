@@ -39,8 +39,6 @@ Pew Research Center'ın ebeveynlerin gençlerin yapay zeka kullanımına ilişki
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

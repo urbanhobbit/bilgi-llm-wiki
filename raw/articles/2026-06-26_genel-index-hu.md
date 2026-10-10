@@ -37,7 +37,6 @@ Türkiye jeopolitik konumu itibarıyla küresel gelişmelerden doğrudan etkilen
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-.md|Article from index.hu: megerkezett az elso reakcio]]
 - [[raw/articles/2026-06-26_index-belf-ld-meg-rkezett-az-els-reakci-a-kremlb-l.md|Index - Belföld - Megérkezett az első reakció a Kr]]

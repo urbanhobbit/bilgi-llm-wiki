@@ -48,7 +48,6 @@ Türkiye'nin Dijital Hizmetler Kanunu'nun AB'nin Dijital Hizmetler Yasası (DSA)
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

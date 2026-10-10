@@ -41,8 +41,6 @@ LSE Digital Futures for Children araştırma merkezinin çocuk hakları düzenle
 ### 🧠 İlgili Kavramlar
 - [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]

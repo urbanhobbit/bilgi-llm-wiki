@@ -37,7 +37,6 @@ Türkiye jeopolitik konumu itibarıyla küresel gelişmelerden doğrudan etkilen
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/guardian.md|Guardian]]
 - [[entities/www-theguardian-com.md|Www Theguardian Com]]

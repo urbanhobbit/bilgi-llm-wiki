@@ -38,7 +38,6 @@ Cumhuriyet reports on the detention of 8 students in İzmir on allegations of pr
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]

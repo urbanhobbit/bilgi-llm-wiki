@@ -38,14 +38,12 @@ Türkiye'de çocukların dijital hakları ve çevrimiçi güvenliği konusu son 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
-- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]

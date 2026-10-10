@@ -39,14 +39,11 @@ HTTP 429 Too Many Requests hatası nedeniyle sunucu tarafından geçici olarak e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
 - [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]

@@ -39,8 +39,6 @@ Türkiye'de Avrupa Birliği çalışmaları, özellikle üniversitelerin AB Enst
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-consilium-europa-eu-council-resea.md|Article from www.consilium.europa.eu: council rese]]
 - [[raw/articles/2026-06-26_blocked-403-www-consilium-europa-eu.md|Blocked (403) - www.consilium.europa.eu]]

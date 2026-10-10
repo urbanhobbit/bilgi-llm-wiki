@@ -38,7 +38,6 @@ Bu içerik, Türkiye'de çocukların dijital haklarına ve çevrimiçi güvenli�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]

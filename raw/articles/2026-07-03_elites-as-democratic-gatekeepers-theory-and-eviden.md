@@ -57,4 +57,3 @@ Türkiye bağlamı için: (1) 'Elit bekçiliği' çerçevesi, Türkiye'de parti 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]

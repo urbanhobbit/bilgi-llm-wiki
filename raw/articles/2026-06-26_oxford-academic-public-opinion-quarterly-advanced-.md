@@ -39,9 +39,6 @@ Oxford Academic / Public Opinion Quarterly dergisinde yayınlanan anket metodolo
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
 - [[entities/academic-oup-com.md|Oxford Academic]]

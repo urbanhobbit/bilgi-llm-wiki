@@ -65,6 +65,5 @@ Akademik hat açısından not: Pennycook–Rand–Costello hattı (Science 2024 
 ### 🧠 İlgili Kavramlar
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]

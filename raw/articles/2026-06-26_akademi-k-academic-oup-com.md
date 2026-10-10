@@ -35,8 +35,6 @@ Türkiye'de akademik araştırma ekosistemi, uluslararası yayın ve metodoloji 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
 ### 📄 Aynı Kaynaktan

@@ -42,7 +42,6 @@ Avustralya'nın 16 yaş altı çocuklara sosyal medya yasağı getirmesi, Türki
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]

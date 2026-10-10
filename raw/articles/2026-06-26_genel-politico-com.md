@@ -35,7 +35,6 @@ Türkiye İran-ABD geriliminden doğrudan etkilenmektedir. Hürmüz Boğazı'nda
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
 - [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]

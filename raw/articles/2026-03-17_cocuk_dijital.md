@@ -360,7 +360,6 @@ Parti çizgisi aşan yasal destek, AI düzenlemesinde nadir bir bipartisan uzla�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

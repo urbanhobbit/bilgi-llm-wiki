@@ -476,7 +476,6 @@ Grimoire Manor analizi, bağımsız bir araştırmacı perspektifinden detaylı 
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]

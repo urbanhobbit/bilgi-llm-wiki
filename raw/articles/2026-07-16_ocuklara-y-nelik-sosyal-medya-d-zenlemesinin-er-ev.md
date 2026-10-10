@@ -40,7 +40,6 @@ TRT Haber üzerinden kamuoyuna duyurulan Bakan Göktaş'ın sosyal medya düzenl
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]

@@ -83,6 +83,5 @@ Bu haftaki akademik derleme kapsamında **5 makale** taranmıştır. Tarama, ba�
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]

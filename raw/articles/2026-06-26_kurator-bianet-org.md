@@ -41,7 +41,6 @@ Türkiye'de çocukların dijital ortamlarda korunmasına yönelik çalışmalar 
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bianet-org.md|Bianet]]

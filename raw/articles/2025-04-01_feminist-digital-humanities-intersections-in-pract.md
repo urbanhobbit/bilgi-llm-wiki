@@ -42,10 +42,3 @@ DARIAH-EU YouTube webinar'i (Susan Schreibman & Jenny Bergenmar sunumu, Monika B
 
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/dijital-haklar.md|Dijital Haklar]]

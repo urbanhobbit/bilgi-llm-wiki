@@ -39,9 +39,7 @@ Digital Türkçe'deki bu makale, Türkiye'de yapay zeka ve dezenformasyon konusu
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
 - [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]

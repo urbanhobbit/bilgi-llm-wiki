@@ -33,9 +33,3 @@ Türkiye bağlamında değerlendirildiğinde, bu kaynakta ele alınan konular ü
 Akademik perspektiften bakıldığında, Türkiye'de bu alandaki bilimsel çalışmaların sayısı artsa da ampirik araştırmaların yeterli düzeyde olmadığı görülmektedir. TÜBİTAK'ın sosyal bilimler alanında desteklediği projeler ve üniversitelerin iletişim fakültelerinde yürütülen çalışmalar bu alandaki bilgi birikimine katkı sağlamaktadır. Özellikle çocukların dijital medya kullanımı, sosyal medya bağımlılığı ve dijital oyunların etkileri konularında daha fazla boylamsal çalışmaya ihtiyaç duyulmaktadır. Türkiye İstatistik Kurumu'nun (TÜİK) düzenli olarak yayınladığı 'Çocuklarda Bilişim Teknolojileri Kullanımı Araştırması' bu alandaki en önemli veri kaynaklarından biridir.
 
 Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'nin Dijital Hizmetler Yasası (DSA) ve Genel Veri Koruma Tüzüğü (GDPR) düzenlemeleriyle uyumlu olacak şekilde güncellenmeli, çocukların dijital ortamlarda katılım ve korunma hakları arasında denge kurulmalıdır.
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

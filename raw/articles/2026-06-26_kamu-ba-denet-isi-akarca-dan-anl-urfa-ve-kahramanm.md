@@ -40,7 +40,6 @@ Türkiye'de okul güvenliği konusu, son dönemde yaşanan üzücü olayların a
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]

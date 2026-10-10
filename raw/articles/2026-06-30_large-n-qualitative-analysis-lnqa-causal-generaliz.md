@@ -38,8 +38,6 @@ Türkiye'de siyaset bilimi ve kamu yönetimi alanında yöntem tartışmaları g
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2023-08-23_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA): Causal Genera]]

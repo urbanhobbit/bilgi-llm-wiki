@@ -23,7 +23,6 @@ Bu haftaki akademik derleme, **13-18 Eylül 2026** tarihli kaynak akışından d
 
 ### Metodoloji
 
-
 #### Makale 1: The Methodological Foundation of Process-tracing as a Within-case Causal Inference Technique and its Applications to Research in Retail and Distribution Studies
 - **Yazarlar:** Nobukazu Azuma (東伸一), Woonho Kim (金雲鎬), Narimasa Yokoyama (横山斉理)
 - **Yayın:** Aoyama Journal of Business / 青山経営論集, Vol. 55, No. 4, pp. 79-98 (Aoyama Gakuin University, Business Association; ISSN 0587-1654; NCID AN00008870; open access)
@@ -99,7 +98,6 @@ Bu makale, seçim sonuçlarının belirleyicileri literatürüne 'muhalefetin pa
 
 ### Etik/Teori
 
-
 #### Makale 4: Bridging the Political Divide: Meta-Humanization and Moral Emotions Shape Partisan Reconciliation
 - **Yazarlar:** Melissa Pavetich, Sofia Stathi
 - **Yayın:** Personality and Social Psychology Bulletin (SAGE Publications), çevrimiçi ilk yayın, CC-BY 4.0 açık erişim
@@ -172,7 +170,6 @@ European Journal of Political Research'te (Cambridge University Press / ECPR) 8 
 ---
 
 ### Güncel Tartışmalar
-
 
 #### Makale 7: When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
 - **Yazarlar:** Petter Törnberg, Juliana Chueri
@@ -247,7 +244,6 @@ Bu makale, iklim değişikliğinin ABD'de genellikle partiler arası bir kutupla
 ---
 
 ### Ek Kaynaklar (Kısa Değerlendirmeler)
-
 
 #### Autocratization and citizens' understanding of democracy: Evidence from Turkey
 - **Yazarlar/Yayın:** Remziye Gül Aslan (University of Milan) — International Political Science Review (SAGE), çevrimiçi ilk yayın
@@ -335,12 +331,10 @@ Bu kayıt, Isabella M. Weber'in Ekim 2026'da Penguin Random House'tan çıkacak 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
-- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]

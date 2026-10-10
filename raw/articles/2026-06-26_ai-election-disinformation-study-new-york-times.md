@@ -41,8 +41,6 @@ Türkiye açısından değerlendirildiğinde, bu gelişme birden çok boyutuyla 
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler

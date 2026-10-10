@@ -40,10 +40,6 @@ Common Sense Media'nın 'Amerika'da Çocukların ve Ailelerin Durumu 2026' rapor
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]

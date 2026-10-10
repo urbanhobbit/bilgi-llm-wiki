@@ -42,8 +42,6 @@ Parent Zone UK'nin Dijital Ebeveynlik Araştırması, Türkiye'de benzer kapsaml
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_digital-parenting-and-social-media-parent-zone.md|Digital Parenting and Social Media - Parent Zone]]
 - [[raw/articles/2026-06-26_digital-parenting-social-media.md|Digital Parenting Social Media]]

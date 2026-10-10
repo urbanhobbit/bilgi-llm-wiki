@@ -40,6 +40,5 @@ This article examines the complex relationship between political polarization an
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]

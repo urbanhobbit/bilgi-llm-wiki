@@ -93,10 +93,8 @@ Bu bültende yer alan kaynaklar, hafta boyunca toplanan 5 link arasından KURATO
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/encode-project.md|ENCODE Project]]
 - [[entities/guardian.md|Guardian]]

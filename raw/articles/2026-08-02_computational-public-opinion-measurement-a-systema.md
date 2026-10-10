@@ -40,10 +40,7 @@ Bu sistematik derleme, Türkiye'de sosyal medya verisiyle kamuoyu araştırması
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]
 - [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]

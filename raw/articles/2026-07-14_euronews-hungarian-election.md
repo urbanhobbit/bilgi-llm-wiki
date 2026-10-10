@@ -44,8 +44,6 @@ Ekonomik boyutuyla ele alındığında, Macaristan'da iktidar değişikliğinin 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
 - [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]

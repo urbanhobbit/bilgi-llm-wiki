@@ -41,7 +41,6 @@ FTC'nin COPPA Kuralı, Türkiye'de çocukların çevrimiçi gizliliğine yöneli
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 - [[entities/www-ftc-gov.md|Www Ftc Gov]]

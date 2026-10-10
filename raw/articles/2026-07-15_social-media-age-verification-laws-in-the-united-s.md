@@ -38,7 +38,6 @@ ABD'deki eyalet düzeyinde sosyal medya yaş doğrulama yasaları, Türkiye'deki
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi.md|Article from en.wikipedia.org: Socialmediaageverif]]

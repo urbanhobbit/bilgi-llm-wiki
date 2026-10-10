@@ -43,7 +43,6 @@ Birleşik Krallık'ın Çevrimiçi Güvenlik Yasası (Online Safety Act), Türki
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/guardian.md|Guardian]]

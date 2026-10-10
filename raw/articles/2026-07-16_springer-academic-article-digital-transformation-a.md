@@ -39,9 +39,7 @@ Springer akademik yayıncılık platformunda yer alan bu makalenin erişime kapa
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
 - [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]

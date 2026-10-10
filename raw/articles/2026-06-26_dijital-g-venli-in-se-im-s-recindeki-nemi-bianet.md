@@ -40,10 +40,8 @@ Bianet'in seçim sürecinde dijital güvenlik konulu analizi, Türkiye'nin karş
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bianet-org.md|Bianet]]
 - [[entities/bianet-org.md|Bianet Org]]

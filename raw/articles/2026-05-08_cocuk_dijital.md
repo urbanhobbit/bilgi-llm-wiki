@@ -335,13 +335,11 @@ Türkiye özelinde:
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
@@ -360,6 +358,5 @@ Türkiye özelinde:
 - [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]
 - [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA]]
 - [[raw/articles/2026-05-18_cocuk_dijital.md|KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştı]]
-
 
 İlgili kavram: [[concepts/media-literacy-fact-checking.md|Media Literacy Fact Checking]]

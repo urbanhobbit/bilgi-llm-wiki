@@ -40,7 +40,6 @@ Bakan Göktaş'ın açıklamaları, Türkiye'de çocukların dijital haklarını
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 ### 📄 Aynı Kaynaktan

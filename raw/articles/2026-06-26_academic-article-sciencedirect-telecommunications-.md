@@ -37,8 +37,6 @@ Telecommunications Policy gibi politika odaklı dergiler Türkiye'de BTK ve Ula�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]
 - [[raw/articles/2026-06-26_s2666560325000714.md|S2666560325000714]]

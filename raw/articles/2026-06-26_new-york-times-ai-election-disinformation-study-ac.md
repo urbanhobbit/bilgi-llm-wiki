@@ -41,10 +41,7 @@ New York Times'ta haberleştirilen AI kaynaklı seçim dezenformasyonu araştır
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/new-york-times.md|New York Times]]
 ### 📄 Aynı Kaynaktan

@@ -45,7 +45,6 @@ UNICEF press release ahead of the first Global Dialogue on AI Governance reveals
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|Unicef]]

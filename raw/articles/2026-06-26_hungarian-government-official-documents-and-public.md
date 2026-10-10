@@ -38,7 +38,6 @@ Macaristan hükümetinin resmi yayınları, Türkiye'deki kamu yönetimi ve poli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_35d5df227ec606231240989d5c80f0d.md|35d5df227ec606231240989d5c80f0d]]
 - [[raw/articles/2026-06-26_35d5df227ec606231240989d5c80f0d-pdf.md|35D5Df227Ec606231240989D5C80F0D.Pdf]]

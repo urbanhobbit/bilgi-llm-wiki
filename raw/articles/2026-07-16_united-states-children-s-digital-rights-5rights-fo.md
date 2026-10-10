@@ -42,7 +42,6 @@ priority: medium
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]

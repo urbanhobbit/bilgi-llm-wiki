@@ -249,10 +249,7 @@ Bu tablonun Türkiye açısından kritik noktası şudur: **çocuk koruması ger
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuk ve Dijital Kısıtlamalar]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
-- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılım]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
 - [[concepts/prebunking.md|Ön-Yanıltma (Pre-bunking)]]

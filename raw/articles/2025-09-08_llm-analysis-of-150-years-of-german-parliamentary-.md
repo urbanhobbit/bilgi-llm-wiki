@@ -57,8 +57,6 @@ Türkiye'de 2011 sonrası Suriyeli göçü ve göçmen/sığınmacı söylemi TB
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]
 ### 📄 Aynı Kaynaktan

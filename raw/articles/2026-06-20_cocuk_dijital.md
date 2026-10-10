@@ -619,8 +619,6 @@ Türkiye'nin küresel sosyal medya yasağı dalgasındaki konumu değerlendirild
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

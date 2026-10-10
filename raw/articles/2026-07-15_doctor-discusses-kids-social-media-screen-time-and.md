@@ -39,7 +39,6 @@ Türkiye'de çocukların sosyal medya ve ekran süresinin sağlık etkileri konu
 ### 🧠 İlgili Kavramlar
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_70944105.md|70944105]]
 - [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]

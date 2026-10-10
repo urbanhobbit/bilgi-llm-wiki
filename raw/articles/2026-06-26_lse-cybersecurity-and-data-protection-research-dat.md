@@ -40,9 +40,6 @@ LSE'nin siber güvenlik ve veri koruma dokümantasyonu, Türkiye'deki üniversit
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
 ### 📄 Aynı Kaynaktan

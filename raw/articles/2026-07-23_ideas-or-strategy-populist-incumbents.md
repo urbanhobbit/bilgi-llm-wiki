@@ -64,7 +64,6 @@ Bu makale, [[concepts/populizm.md|Popülizm]] ile [[concepts/demokratik-erozyon.
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
 - [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]

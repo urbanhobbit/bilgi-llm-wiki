@@ -41,7 +41,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
 - [[raw/articles/2026-06-26_genel-telex-hu.md|GENEL - telex.hu]]

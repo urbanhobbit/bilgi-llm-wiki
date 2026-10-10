@@ -38,9 +38,7 @@ DW Türkçe'nin Almanya seçimlerindeki dezenformasyonu analiz eden bu haberi, T
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/dw.md|Dw]]
 ### 📄 Aynı Kaynaktan

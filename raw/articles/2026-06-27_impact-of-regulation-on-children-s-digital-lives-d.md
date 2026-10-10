@@ -48,8 +48,6 @@ LSE DFC merkezinin düzenleme etkisi araştırma projesi, Türkiye'nin çocuk di
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
 - [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]

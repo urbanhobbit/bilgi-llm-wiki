@@ -43,7 +43,6 @@ Yunanistan'ın 15 yaş altı çocuklar için sosyal medya yasağı planı, Türk
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-reuters-com.md|Reuters]]

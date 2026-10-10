@@ -43,7 +43,6 @@ Türkiye için öneriler: (1) TÜİK ve üniversitelerin gençlik araştırmalar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler

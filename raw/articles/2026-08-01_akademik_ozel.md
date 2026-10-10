@@ -302,7 +302,6 @@ Politika önerisi: TÜBİTAK destekli bir programla Türkçe siyasi metin külli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
@@ -316,7 +315,6 @@ Politika önerisi: TÜBİTAK destekli bir programla Türkçe siyasi metin külli
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

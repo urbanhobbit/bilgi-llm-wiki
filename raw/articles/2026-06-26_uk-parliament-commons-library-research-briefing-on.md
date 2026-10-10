@@ -39,11 +39,7 @@ Birleşik Krallık Avam Kamarası Kütüphanesi'nin araştırma brifingi, Türki
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]

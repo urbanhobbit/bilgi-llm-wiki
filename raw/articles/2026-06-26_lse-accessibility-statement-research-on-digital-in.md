@@ -40,9 +40,6 @@ LSE'nin erişilebilirlik bildirimi, Türkiye'deki akademik kurumlar için öneml
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
 ### 📄 Aynı Kaynaktan

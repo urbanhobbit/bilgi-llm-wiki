@@ -39,7 +39,6 @@ Dijital haklar ve seçim güvenliği, Türkiye'de demokratik süreçlerin dijita
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]

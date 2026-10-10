@@ -40,7 +40,6 @@ BM Çocuk Hakları Komitesi'nin 25 No'lu Genel Yorumu, Türkiye'nin çocukların
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/5rights-foundation.md|5Rights Foundation]]
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]

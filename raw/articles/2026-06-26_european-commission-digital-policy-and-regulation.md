@@ -38,7 +38,6 @@ Avrupa Komisyonu'nun dijital politika çerçevesi, Türkiye'nin AB uyum sürecin
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-ec-europa-eu-ip-26-1234.md|Article from ec.europa.eu: ip 26 1234]]
 - [[raw/articles/2026-06-26_avrupa-komisyonu-dijital-d-zenleme-ve-politika-g-n.md|Avrupa Komisyonu: Dijital Düzenleme ve Politika Gü]]

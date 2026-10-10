@@ -123,8 +123,6 @@ Climate disinformation from state actors is part of broader campaigns of manipul
 - [[concepts/climate-disinformation.md|Climate Disinformation (İklim Dezenformasyonu)]]
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
 ### 📄 Aynı Kaynaktan

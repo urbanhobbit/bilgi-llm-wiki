@@ -38,8 +38,6 @@ Giresun'daki maden karşıtı protesto, Türkiye'de çevre aktivizminin yükseli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]

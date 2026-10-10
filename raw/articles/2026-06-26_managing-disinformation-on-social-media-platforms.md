@@ -41,10 +41,7 @@ Türkiye'de sosyal medya platformlarında dezenformasyon yönetimi, 2024 yılın
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-03-19_cocuk_dijital.md|2026 03 19 Cocuk Dijital]]
 - [[raw/articles/2026-06-26_academic-article-springer-electronic-markets.md|Academic Article - Springer (Electronic Markets)]]

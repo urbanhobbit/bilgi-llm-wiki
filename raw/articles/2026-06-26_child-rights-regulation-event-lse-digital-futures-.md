@@ -40,9 +40,6 @@ LSE Digital Futures for Children gibi akademik araştırma merkezlerinin çalı�
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]

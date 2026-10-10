@@ -39,8 +39,6 @@ Yapay zeka ve dezenformasyon tartışmaları, Türkiye'de dijital dönüşüm po
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
 - [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]

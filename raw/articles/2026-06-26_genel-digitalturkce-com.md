@@ -35,7 +35,6 @@ Türkiye'de dijital güvenlik ve dezenformasyonla mücadele alanında BTK ve RT�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-digitalturkce-com-yapay-zeka-teknoloj.md|Article from digitalturkce.com: yapay zeka teknolo]]
 - [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]

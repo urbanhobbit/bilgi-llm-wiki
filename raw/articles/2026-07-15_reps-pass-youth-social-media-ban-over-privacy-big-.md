@@ -40,7 +40,6 @@ ABD Temsilciler Meclisi'ndeki bu gelişme, Türkiye'deki çocuk sosyal medya dü
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_abd-temsilciler-meclisi-gen-ler-i-in-sosyal-medya-.md|ABD Temsilciler Meclisi Gençler İçin Sosyal Medya ]]
 - [[raw/articles/2026-06-26_article-from-www-ack-net-article5a0029f0-0ed8-4730.md|Article from www.ack.net: article5a0029f0 0ed8 473]]

@@ -42,7 +42,6 @@ Bu içerik, Türkiye'de çocukların dijital haklarına ve çevrimiçi güvenli�
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]

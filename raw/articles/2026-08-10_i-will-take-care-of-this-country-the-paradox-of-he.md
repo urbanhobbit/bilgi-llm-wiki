@@ -58,5 +58,4 @@ Türkiye bağlamı için üç çıkarım: (1) Duygulanım temelli söylem analiz
 ### 🧠 İlgili Kavramlar
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]

@@ -44,8 +44,6 @@ LSE DFC merkezinin bu kapsamlı düzenleme etki analizi, Türkiye'nin çocuk çe
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]

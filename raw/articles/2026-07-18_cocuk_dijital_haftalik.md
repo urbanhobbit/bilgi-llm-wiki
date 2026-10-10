@@ -423,7 +423,6 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 11 Nisan 2026 tarihi
 
 Bakan Göktaş'ın 15 yaş altı çocuklara yönelik sosyal medya düzenlemesinin temel çerçevesini oluşturduklarını açıklaması, Türkiye'de çocukların çevrimiçi korunması alanında önemli bir dönüm noktasıdır. Bu düzenlemenin KVKK (6698 sayılı Kanun) ile uyumu kritik bir konudur. KVKK'nın 6. maddesi kapsamında çocukların kişisel verileri 'özel nitelikli veri' statüsünde olup, işlenmesi için velinin açık rızası gerekmektedir. Yeni sosyal medya düzenlemesinin bu çerçeveye uygun bir yaş doğrulama ve ebeveyn izni mekanizması içermesi beklenmektedir. BTK'nın 5809 sayılı Elektronik Haberleşme Kanunu kapsamında sosyal ağ sağlayıcılarına yönelik düzenleme yapma yetkisi bulunmakla birlikte, oyun platformlarının da kapsama alınması mevcut yetki çerçevesinin genişletilmesini gerektirebilir. MEEB'in okullarda uyguladığı dijital vatandaşlık ve güvenli internet eğitimi programları, bu düzenlemenin eğitim ayağını oluşturabilir. Akşam Gazetesi'nin 416 bin karakterlik kapsamlı haberinde yer alan detaylar, düzenlemenin sadece sosyal medya platformlarını değil, oyun platformlarını da kapsadığını göstermektedir ki bu, Türkiye'deki mevcut düzenleyici çerçevenin önemli bir genişlemesi anlamına gelmektedir. Düzenlemenin yasalaşma sürecinde TBMM'de görüşülecek olması, sivil toplum kuruluşları, akademisyenler ve sektör temsilcilerinin katkı sunmasına olanak tanıyacaktır. Avrupa Birliği Dijital Hizmetler Yasası (DSA) ve Birleşik Krallık Çevrimiçi Güvenlik Yasası gibi uluslararası düzenlemelerle uyum, Türkiye'nin dijital düzenleme alanındaki uluslararası konumunu güçlendirecektir. Ayrıca, düzenlemenin uygulanmasında karşılaşılabilecek teknik ve hukuki sorunların önceden tespit edilmesi için kapsamlı bir etki analizi yapılması gerekmektedir. Özellikle 15 yaş altı çocukların mevcut sosyal medya hesap sahipliği oranları, yaş doğrulama sistemlerinin maliyeti ve platformların uyum süreleri gibi pratik konular, düzenlemenin başarısını doğrudan etkileyecektir. Kişisel Verileri Koruma Kurulu'nun bu süreçte rehberlik ve denetim rolü üstlenmesi, düzenlemenin KVKK ile tam uyumlu olmasını sağlayacaktır. Son olarak, sosyal medya platformlarının ve oyun şirketlerinin düzenlemeye uyum sağlaması için yeterli geçiş süresinin tanınması, uygulamanın başarı şansını artıracaktır.
 
-
 #### Uluslararası Karşılaştırmalar
 
 Türkiye'nin 15 yaş altı düzenlemesi, küresel trendlerle paralellik göstermektedir:
@@ -556,7 +555,6 @@ Bu haftalık bültende aşağıdaki kaynaklardan yararlanılmıştır:
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
@@ -564,7 +562,6 @@ Bu haftalık bültende aşağıdaki kaynaklardan yararlanılmıştır:
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

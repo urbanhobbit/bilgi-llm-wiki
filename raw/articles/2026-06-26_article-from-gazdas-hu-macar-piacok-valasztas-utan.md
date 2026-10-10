@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_gazdas-hu-hungarian-markets-after-election-economi.md|Gazdas.hu: Hungarian Markets After Election - Econ]]
 - [[raw/articles/2026-06-26_genel-gazdas-hu.md|GENEL - gazdas.hu]]

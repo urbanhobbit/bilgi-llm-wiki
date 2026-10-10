@@ -41,7 +41,6 @@ AB Dijital Hizmetler Yasası (DSA) Paketi, Türkiye'nin dijital düzenleme polit
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 ### 📄 Aynı Kaynaktan

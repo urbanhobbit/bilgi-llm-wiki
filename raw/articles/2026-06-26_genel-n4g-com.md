@@ -35,7 +35,6 @@ Macaristan seçim sonuçları, Türkiye-AB ilişkileri ve Avrupa'daki siyasi dö
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
 - [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]

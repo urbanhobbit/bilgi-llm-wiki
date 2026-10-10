@@ -36,7 +36,6 @@ OECD Papers on Well-being and Inequalities No. 33 / Child Well-being Policy Pape
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]
 - [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why do young US Americans avoid cross-partisan dat]]

@@ -39,10 +39,6 @@ The UK Parliament Commons Library research briefing CBP-10468 represents an exem
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]
 - [[raw/articles/2026-06-26_cbp-10468.md|Cbp 10468]]

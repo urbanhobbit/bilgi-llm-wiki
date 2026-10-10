@@ -35,8 +35,6 @@ Türkiye'de bilgi ve iletişim çalışmaları alanında uluslararası indeksler
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 ### 📄 Aynı Kaynaktan

@@ -35,7 +35,6 @@ Bu bağlantı, Common Sense Media üyelik destek sayfasına yönlendirmektedir. 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/www-commonsensemedia-org.md|Common Sense Media]]

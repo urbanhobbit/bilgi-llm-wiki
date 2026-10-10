@@ -81,9 +81,6 @@ An investigation by NORDIS Hub and partners. In 2026 alone, Denmark has been att
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
 - [[entities/nordis.md|NORDIS]]

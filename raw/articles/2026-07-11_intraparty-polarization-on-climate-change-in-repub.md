@@ -56,6 +56,5 @@ Bu makale, iklim değişikliğinin ABD'de genellikle partiler arası bir kutupla
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]

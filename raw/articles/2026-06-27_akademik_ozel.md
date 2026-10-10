@@ -318,7 +318,6 @@ EPRS politika belgeleri, AB kurumlarının standart politika analizi metodolojis
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
 - [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

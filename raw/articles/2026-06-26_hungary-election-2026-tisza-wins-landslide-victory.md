@@ -39,8 +39,6 @@ Euractiv'in Macaristan seçim analizi, Brüksel-Türkiye ilişkileri açısında
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-euractiv-com-hungary-election-tis.md|Article from www.euractiv.com: hungary election ti]]
 - [[raw/articles/2026-06-26_euractiv-hungary-election-tisza-wins-444-seats.md|Euractiv: Hungary Election - Tisza Wins 444 Seats]]

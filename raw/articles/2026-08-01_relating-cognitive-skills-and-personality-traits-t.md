@@ -38,4 +38,3 @@ Cesar Chavez Padilla, Shuaizhang Feng, James J. Heckman & Zhe Yang, NBER Working
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

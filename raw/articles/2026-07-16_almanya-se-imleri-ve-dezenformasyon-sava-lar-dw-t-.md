@@ -38,8 +38,6 @@ Deutsche Welle Türkçe'nin Almanya seçimleri ve dezenformasyon savaşları kon
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/dw.md|Dw]]
 ### 📄 Aynı Kaynaktan

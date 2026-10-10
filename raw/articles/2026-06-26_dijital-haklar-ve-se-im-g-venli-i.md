@@ -40,7 +40,6 @@ Türkiye'de dijital haklar ve seçim güvenliği konusu, özellikle 2023 seçiml
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi.md|Article from www.cumhuriyet.com.tr: atasehir beled]]
 - [[raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad.md|Article from www.cumhuriyet.com.tr: egitimciler ka]]

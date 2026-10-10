@@ -39,9 +39,7 @@ priority: high
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
 - [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]

@@ -52,7 +52,6 @@ Avrupa Birliği'ne üyelik süreci kapsamında, Türkiye'nin dijital hukuk uyum 
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]

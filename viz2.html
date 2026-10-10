@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="tr"><head><meta charset="utf-8">
+<title>KURATOR Wiki Haritası v2</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script src="/cytoscape.min.js"></script>
+<script>if(typeof cytoscape==='undefined'){document.write('<scr'+'ipt src="vendor/cytoscape.min.js"><\/scr'+'ipt>')}</script>
+<style>
+:root{--bg:#0b1120;--panel:#111c33;--line:#22314d;--tx:#e2e8f0;--dim:#8aa0bf;--acc:#60a5fa}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font:13px/1.45 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--tx);height:100vh;display:flex;flex-direction:column;overflow:hidden}
+header{background:linear-gradient(135deg,#131f3a,#0d1729);border-bottom:1px solid var(--line);padding:8px 14px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;flex-shrink:0}
+header h1{font-size:15px;font-weight:600;white-space:nowrap}
+#stats{font-size:11px;color:var(--dim)}
+#q{background:#0d1729;border:1px solid var(--line);border-radius:6px;color:var(--tx);padding:5px 9px;font-size:12px;width:210px}
+#q:focus{outline:none;border-color:var(--acc)}
+.tb{display:flex;gap:5px;flex-wrap:wrap;margin-left:auto;align-items:center}
+.tb button{padding:4px 9px;border-radius:5px;border:1px solid var(--line);background:#16233c;color:var(--dim);font-size:11px;cursor:pointer}
+.tb button:hover{color:var(--tx);border-color:#3b4f75}
+.tb button.on{background:var(--acc);border-color:var(--acc);color:#04101f;font-weight:600}
+main{flex:1;position:relative;min-height:0}
+#cy{position:absolute;inset:0}
+#panel{position:absolute;top:10px;right:10px;width:390px;max-height:calc(100% - 20px);overflow-y:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;display:none;font-size:12.5px;box-shadow:0 10px 30px rgba(0,0,0,.5)}
+#panel h2{font-size:14px;margin:2px 0 6px;line-height:1.3}
+#panel .badge{display:inline-block;font-size:10px;padding:1px 7px;border-radius:9px;border:1px solid var(--line);color:var(--dim);margin:0 4px 4px 0;text-transform:uppercase;letter-spacing:.4px}
+#panel .warn{background:#3b2013;border-color:#7c3f13;color:#fdba74}
+#panel p{margin:7px 0}
+#panel a{color:var(--acc);text-decoration:none}
+#panel .body{margin:8px 0;color:#b9c8de;white-space:pre-wrap;max-height:260px;overflow-y:auto;font-size:12px;border-left:2px solid var(--line);padding-left:9px}
+#panel ul{margin:5px 0 5px 4px;list-style:none}
+#panel li{margin:2px 0}
+#panel li a{cursor:pointer}
+#panel .sec{margin-top:9px}
+#panel .sec b{display:block;color:var(--dim);font-size:11px;text-transform:uppercase;letter-spacing:.4px;margin-bottom:3px}
+#panel .x{float:right;cursor:pointer;color:var(--dim);font-size:16px;line-height:1}
+#legend{position:absolute;left:12px;bottom:12px;background:rgba(17,28,51,.92);border:1px solid var(--line);border-radius:8px;padding:8px 11px;font-size:11px;max-width:270px}
+#legend .r{display:flex;align-items:center;gap:6px;padding:1px 0;cursor:pointer}
+#legend .r:hover{color:#fff}
+#legend .d{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+#legend .n{color:var(--dim)}
+#health{position:absolute;left:12px;top:12px;background:rgba(17,28,51,.92);border:1px solid var(--line);border-radius:8px;padding:8px 11px;font-size:11px;max-width:290px}
+#health b{color:#fdba74}
+#hint{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);color:#2f4062;font-size:13px;pointer-events:none;text-align:center;transition:opacity .6s}
+#hits{position:absolute;left:50%;transform:translateX(-50%);margin-left:-260px;width:250px;background:var(--panel);border:1px solid var(--line);border-radius:6px;max-height:260px;overflow-y:auto;display:none;z-index:40}
+#hits div{padding:5px 9px;cursor:pointer;font-size:12px;border-bottom:1px solid #1a2740}
+#hits div:hover{background:#1b2b4a}
+@media(max-width:700px){#panel{width:calc(100vw - 20px);right:10px}#legend,#health{display:none}#q{width:130px}}
+</style></head>
+<body>
+<header>
+  <h1>🕸️ KURATOR Wiki Haritası <span style="color:#475c85">v2</span></h1>
+  <span id="stats">yükleniyor…</span>
+  <input id="q" placeholder="ara: kavram, makale, kurum… ( / )" autocomplete="off">
+  <div id="hits"></div>
+  <div class="tb" id="tb"></div>
+</header>
+<main>
+  <div id="cy"></div>
+  <div id="hint">🖱️ tıkla → komşular • çift tıkla → sadece komşular • tekerlek → zoom</div>
+  <div id="health"></div>
+  <div id="legend"></div>
+  <div id="panel"><span class="x" onclick="closePanel()">✕</span><div id="pc"></div></div>
+</main>
+<script>
+var D=null, cy=null, bodies=null, sel=null;
+var SHOW={concept:1,entity:1,raw_article:0,reference:0,bulletin:1,source:1,query:1,comparison:1,note:1};
+var EDGE={concept:1,entity:1,sibling:0,related:1,body:1};
+var LABELS=true, ONLY_NB=false;
+
+function init(){
+  fetch('bundle2.json').then(function(r){return r.json()}).then(function(d){
+    D=d; build(); legend(); health(); buttons();
+    document.getElementById('stats').textContent=d.stats.nodes+' düğüm · '+d.stats.edges+' kenar · '+d.stats.types.concept+' kavram · '+d.stats.types.raw_article+' makale';
+    var m=/[#&]n=([^&]+)/.exec(location.hash); if(m) focus(decodeURIComponent(m[1]));
+  }).catch(function(e){document.getElementById('stats').textContent='hata: '+e.message});
+  fetch('assets/bodies2.json').then(function(r){return r.json()}).then(function(b){bodies=b}).catch(function(){bodies={}});
+}
+
+function build(){
+  cy=cytoscape({container:document.getElementById('cy'),elements:[].concat(D.nodes,D.edges),
+    style:[
+      {selector:'node',style:{'background-color':'data(color)','label':'data(short)','color':'#e8eefb','font-size':'9px','text-valign':'center','text-halign':'center','text-wrap':'wrap','text-max-width':'118px','text-margin-x':'data(tmx)','text-margin-y':'data(tmy)','text-outline-width':2.5,'text-outline-color':'#0b1120','width':'data(size)','height':'data(size)','border-width':1,'border-color':'#0b1120','background-opacity':.92}},
+      {selector:'node[type="concept"]',style:{'shape':'round-rectangle','font-size':'11px','font-weight':'bold','text-max-width':'128px','border-width':2,'border-color':'#0b1120'}},
+      {selector:'node[type="entity"]',style:{'shape':'hexagon','font-size':'9px','text-max-width':'104px'}},
+      {selector:'node[type="bulletin"]',style:{'shape':'tag','font-size':'9px'}},
+      {selector:'node[type="reference"]',style:{'shape':'diamond','font-size':'8px'}},
+      {selector:'node[?new]',style:{'border-width':2.5,'border-color':'#f472b6','border-style':'dashed'}},
+      {selector:'node[type="raw_article"]',style:{'font-size':'8px','text-max-width':'80px'}},
+      {selector:'edge',style:{'width':1,'line-color':'#33456a','curve-style':'haystack','opacity':.22}},
+      {selector:'edge[kind="concept"]',style:{'line-color':'#7c5cf0','opacity':.34,'width':1.1}},
+      {selector:'edge[kind="entity"]',style:{'line-color':'#3b82f6','opacity':.25}},
+      {selector:'edge[kind="sibling"]',style:{'line-color':'#64748b','opacity':.12}},
+      {selector:'edge[kind="related"]',style:{'line-color':'#22d3ee','opacity':.4}},
+      {selector:'.dim',style:{'opacity':.06,'text-opacity':0}},
+      {selector:'node:selected',style:{'border-width':3,'border-color':'#fbbf24'}}
+    ],
+    layout:{name:'preset',positions:function(n){return{x:n.data('px'),y:n.data('py')}},fit:false},
+    minZoom:.04,maxZoom:8,wheelSensitivity:.35,pixelRatio:'auto'});
+  cy.on('tap','node',function(e){select(e.target)});
+  cy.on('dbltap','node',function(e){e.target.select();onlyNeighbors(e.target)});
+  cy.on('tap',function(e){if(e.target===cy){closePanel();cy.elements().removeClass('dim');ONLY_NB=false}});
+  var lastThr=null;
+  cy.on('zoom',function(){var t=cy.zoom()>0.55;if(t!==lastThr){lastThr=t;applyFilters()}fixLabels()});
+  cy.ready(function(){applyFilters();fitAll();fixLabels()});
+}
+function fitAll(){cy.fit(cy.elements(':visible'),50)}
+
+// zoom-telafili yazı boyutu: kavram/kurum etiketleri her zoom'da ~ekranda 9px okunur kalsın
+var lastFont=0;
+function fixLabels(){
+  var z=cy.zoom()||1, f=Math.max(9,Math.min(34,8.5/z));
+  if(Math.abs(f-lastFont)<0.4)return;
+  lastFont=f;
+  cy.nodes().filter(function(n){var t=n.data('type');return t!=='raw_article'&&t!=='reference'})
+    .style('font-size',f.toFixed(1)+'px');
+}
+
+function buttons(){
+  var t=document.getElementById('tb');
+  t.innerHTML='';
+  function b(txt,fn,on,title){var el=document.createElement('button');el.textContent=txt;if(on)el.className='on';if(title)el.title=title;el.onclick=function(){fn(el)};t.appendChild(el);return el}
+  b('🧠 Kavram',function(e){toast('concept',e)},SHOW.concept);
+  b('🏛 Kurum',function(e){toast('entity',e)},SHOW.entity);
+  b('📄 Makale ('+D.stats.types.raw_article+')',function(e){toast('raw_article',e)},SHOW.raw_article);
+  b('📰 Bülten',function(e){toast('bulletin',e)},SHOW.bulletin);
+  b('🔗 Kaynak bağları',function(e){EDGE.sibling=EDGE.sibling?0:1;e.classList.toggle('on',!!EDGE.sibling);applyFilters()},EDGE.sibling,'yayıncı/aynı kaynak kardeş bağları (gürültülü)');
+  b('🏷 Etiketler',function(e){LABELS=!LABELS;e.classList.toggle('on',LABELS);applyFilters()},LABELS);
+  b('✨ Yeni ('+D.stats.new+')',function(e){focusFilter('new',e)},false,'son '+21+' günde eklenen');
+  b('⧉ İzole ('+D.stats.isolated+')',function(e){focusFilter('isolated',e)},false);
+  b('🗑 Filtreyi sıfırla',function(e){reset(e)});
+  b('📐 Sığdır',function(e){fitAll()});
+  b('🖼 PNG',function(e){png()});
+}
+var ONLY=null;
+function toast(kind,el){ONLY=null;SHOW[kind]=SHOW[kind]?0:1;el.classList.toggle('on',!!SHOW[kind]);applyFilters()}
+function focusFilter(kind,el){
+  ONLY=(ONLY===kind)?null:kind;
+  var btns=document.querySelectorAll('#tb button');
+  if(ONLY)btns.forEach(function(b){b.classList.remove('on')});
+  el.classList.toggle('on',!!ONLY);
+  applyFilters();fitAll();fixLabels();document.getElementById('hint').style.opacity=0;
+  }
+  function reset(el){ONLY=null;SHOW={concept:1,entity:1,raw_article:0,reference:0,bulletin:1,source:1,query:1,comparison:1,note:1};EDGE.sibling=0;cy.elements().removeClass('dim');applyFilters();buttons();fitAll();fixLabels()}
+
+function applyFilters(){
+  cy.nodes().forEach(function(n){
+    var d=n.data(), vis=!!SHOW[d.type];
+    if(ONLY==='new')vis=!!d.new;
+    if(ONLY==='isolated')vis=!!d.isolated;
+    n.style('display',vis?'element':'none');
+    var showLab=LABELS&&(cy.zoom()>0.55||(d.type!=='raw_article'&&d.type!=='reference'));
+    n.style('text-opacity',showLab?1:0);
+  });
+  cy.edges().forEach(function(e){var k=e.data('kind');e.style('display',(EDGE[k]&&e.source().visible()&&e.target().visible())?'element':'none')});
+}
+
+function select(n){
+  sel=n;cy.elements().removeClass('dim');
+  var keep=n.closedNeighborhood(); keep.removeClass('dim');
+  cy.elements().not(keep).addClass('dim');
+  n.removeClass('dim');
+  location.hash='n='+encodeURIComponent(n.id());
+  panel(n);
+}
+function onlyNeighbors(n){ONLY_NB=!ONLY_NB;select(n)}
+function focus(id){var el=cy.getElementById(id);if(!el||!el.length)return;cy.animate({center:{eles:el},zoom:Math.max(cy.zoom(),1)}, {duration:350});select(el[0])}
+
+function panel(n){
+  var d=n.data(), h='';
+  var lbl=(D.labels[d.type]||d.type);
+  h+='<div class="badge" style="border-color:'+d.color+';color:'+d.color+'">'+esc(lbl)+'</div>';
+  if(d.new)h+='<div class="badge warn">✨ yeni</div>';
+  if(d.dupe)h+='<div class="badge warn">⧉ aynı başlık</div>';
+  if(d.isolated)h+='<div class="badge warn">izole</div>';
+  h+='<h2>'+esc(d.label)+'</h2>';
+  h+='<p><span style="color:#8aa0bf">'+d.degree+' bağ · '+cy.edges('[source="'+d.id+'"],[target="'+d.id+'"]').filter(function(e){var o=(e.data("source")===d.id)?e.data("target"):e.data("source");return cy.getElementById(o).data("type")==="raw_article"}).length+' makale</span></p>';
+  if(d.resource)h+='<p><a href="'+esc(d.resource)+'" target="_blank" rel="noopener">🔗 dış kaynak</a> &nbsp; <a href="/wiki/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 wiki sayfası</a></p>';
+  else h+='<p><a href="/wiki/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 wiki sayfası</a></p>';
+  if(d.description)h+='<p>'+esc(d.description)+'</p>';
+  var b=bodies?bodies[d.id]:'';
+  if(b)h+='<div class="body">'+esc(b)+'</div>';
+  if(d.tags&&d.tags.length)h+='<p>'+d.tags.map(function(t){return '<span class="badge">'+esc(String(t))+'</span>'}).join('')+'</p>';
+  if(d.roles&&d.roles.length){var RM={gap:['🔍','Araştırma Boşluğu'],result:['📊','Bulgular'],limitation:['⚠️','Sınırlılıklar'],method:['🧩','Yöntem'],policy:['🏛','Politika Önerisi']};
+    h+='<p>'+d.roles.map(function(r){var m=RM[r];return m?'<span class="badge">'+m[0]+' '+m[1]+'</span>':''}).join('')+'</p>'}
+  var nb={concept:[],entity:[],raw_article:[],bulletin:[],other:[]};
+  cy.edges('[source="'+d.id+'"],[target="'+d.id+'"]').forEach(function(e){
+    var o=(e.data('source')===d.id)?e.data('target'):e.data('source'), on=cy.getElementById(o);
+    if(!on||!on.length)return; var od=on.data();
+    (nb[od.type]||nb.other).push(od);
+  });
+  ['concept','entity','raw_article','bulletin','other'].forEach(function(k){
+    if(!nb[k].length)return;
+    nb[k].sort(function(a,b){return b.degree-a.degree});
+    h+='<div class="sec"><b>'+(D.labels[k]||k)+' ('+nb[k].length+')</b><ul>'+
+      nb[k].slice(0,40).map(function(o){return '<li><a onclick="focus(\''+o.id.replace(/'/g,"\\'")+'\')">'+esc(o.label)+'</a> <span class="n" style="color:#8aa0bf">'+o.degree+'</span></li>'}).join('')+'</ul>'+
+      (nb[k].length>40?'<span class="n" style="color:#8aa0bf">… +'+(nb[k].length-40)+'</span>':'')+'</div>';
+  });
+  document.getElementById('pc').innerHTML=h;
+  document.getElementById('panel').style.display='block';
+}
+function closePanel(){document.getElementById('panel').style.display='none';if(sel){cy.elements().removeClass('dim');sel=null}}
+
+function health(){
+  var s=D.stats, h='<b>📊 veri sağlığı</b><br>';
+  h+='düğüm '+s.nodes+' · kenar '+s.edges+'<br>';
+  h+='izole kayıt: <b>'+s.isolated+'</b> · aynı başlık: <b>'+s.dupe_titles+'</b> grup<br>';
+  h+='kavramsız makale: <b>'+s.no_concept+'</b> · son 21 gün: <b>'+s.new+'</b><br>';
+  h+='<span style="color:#8aa0bf">en bağlı: '+s.hubs.map(function(x){return esc(x.label.slice(0,26))+' ('+x.degree+')'}).join(' · ')+'</span><br>';
+  h+='<span style="color:#8aa0bf;font-size:10px">'+s.generated+'</span>';
+  document.getElementById('health').innerHTML=h;
+}
+function legend(){
+  var h='';
+  ['concept','entity','raw_article','bulletin','reference'].forEach(function(t){
+    h+='<div class="r"><div class="d" style="background:'+D.palette[t]+'"></div>'+(D.labels[t]||t)+' <span class="n">'+(D.stats.types[t]||0)+'</span></div>';
+  });
+  h+='<div class="r"><div class="d" style="background:transparent;border:2px dashed #f472b6"></div>son 21 gün</div>';
+  document.getElementById('legend').innerHTML=h;
+}
+function png(){
+  var uri=cy.png({full:true,scale:1.6,bg:'#0b1120'});
+  var a=document.createElement('a');a.href=uri;a.download='kurator-wiki-harita.png';a.click();
+}
+function esc(s){var d=document.createElement('div');d.appendChild(document.createTextNode(s==null?'':String(s)));return d.innerHTML}
+
+// arama
+var qi=document.getElementById('q'), hi=document.getElementById('hits');
+qi.addEventListener('input',function(){
+  var v=qi.value.trim().toLowerCase(); if(v.length<2){hi.style.display='none';return}
+  var out=D.nodes.filter(function(n){return (n.data.label+' '+n.data.id+' '+(n.data.tags||[]).join(' ')).toLowerCase().indexOf(v)>=0}).slice(0,18);
+  hi.innerHTML=out.length?out.map(function(n){return '<div onclick="pick(\''+n.data.id.replace(/'/g,"\\'")+'\')"><b>'+esc(n.data.label.slice(0,46))+'</b> <span style="color:#8aa0bf">'+esc((D.labels[n.data.type]||n.data.type))+' · '+n.data.degree+'</span></div>'}).join(''):'<div style="color:#8aa0bf">sonuç yok</div>';
+  hi.style.display='block';
+});
+function pick(id){hi.style.display='none';qi.value='';
+  if(!SHOW[cy.getElementById(id).data('type')]){var t=cy.getElementById(id).data('type');SHOW[t]=1;buttons()}
+  applyFilters();focus(id)}
+document.addEventListener('keydown',function(e){
+  if(e.key==='/'&&document.activeElement!==qi){e.preventDefault();qi.focus()}
+  if(e.key==='Escape'){closePanel();hi.style.display='none'}
+});
+document.addEventListener('DOMContentLoaded',init);
+</script></body></html>

@@ -357,7 +357,6 @@ ParentZone'un Mayıs 2026 tarihli raporu, ebeveynlik araçlarının (parental co
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]

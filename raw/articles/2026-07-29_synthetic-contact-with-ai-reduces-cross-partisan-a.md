@@ -51,11 +51,9 @@ Türkiye, duygusal kutuplaşmanın yüksek olduğu ve karşı-görüşle teması
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
-- [[concepts/affective-polarisation.md|Affective Polarisation]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|Arxiv Org]]
 ### 📄 Aynı Kaynaktan

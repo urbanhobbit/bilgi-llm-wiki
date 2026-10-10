@@ -39,12 +39,8 @@ Mike Males'in Substack analizi ve ABD sağlık kurumu anket verilerine uyguladı
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
 - [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]

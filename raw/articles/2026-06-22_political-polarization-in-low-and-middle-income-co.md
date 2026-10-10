@@ -45,10 +45,7 @@ Bu makale, Türkiye'deki artan siyasi kutuplaşma ve bunun gençler/çocuklar ü
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 📄 Aynı Kaynaktan

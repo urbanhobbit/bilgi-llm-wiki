@@ -58,4 +58,3 @@ Türkiye bağlamı için: (1) Life Online anketi metodolojisi (U-Report mobil ta
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/cocuk-haklari.md|Çocuk Hakları]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılımı]]

@@ -40,7 +40,6 @@ Birleşik Krallık Parlamentosu Commons Library araştırma brifinginin (CBP-104
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-commonslibrary-parliament-uk-cbp-1046.md|Article from commonslibrary.parliament.uk: cbp 104]]

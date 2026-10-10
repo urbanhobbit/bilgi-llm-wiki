@@ -41,11 +41,7 @@ Birleşik Krallık Veri Koruma Otoritesi ICO'nun resmi web sitesindeki bu sayfa 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-ico-org-uk-kids-protecting-childrens-.md|Article from ico.org.uk: kids protecting childrens]]

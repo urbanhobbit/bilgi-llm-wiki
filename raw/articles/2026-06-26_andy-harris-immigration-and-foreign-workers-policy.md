@@ -38,7 +38,6 @@ ABD Temsilciler Meclisi Üyesi Andy Harris'in göçmenlik ve yabancı işçi pol
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]
 - [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico.md|Andy Harris Immigration Foreign Workers - Politico]]

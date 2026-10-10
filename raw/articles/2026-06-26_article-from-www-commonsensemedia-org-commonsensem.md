@@ -43,9 +43,6 @@ Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılı
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/www-commonsensemedia-org.md|Www Commonsensemedia Org]]

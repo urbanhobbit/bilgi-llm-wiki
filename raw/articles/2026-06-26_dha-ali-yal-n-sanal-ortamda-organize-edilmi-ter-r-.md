@@ -37,7 +37,6 @@ Ali Yalçın'ın 'sanal ortamda organize edilmiş terör hadisesi' tanımı, Tü
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_ali-yal-n-sanal-ortamda-organize-edilmi-bir-ter-r-.md|Ali Yalçın: Sanal ortamda organize edilmiş bir ter]]
 - [[raw/articles/2026-06-26_ali-yalcin-sanal-ortamda-organize-edilmis-bir-tero.md|Ali Yalcin Sanal Ortamda Organize Edilmis Bir Tero]]

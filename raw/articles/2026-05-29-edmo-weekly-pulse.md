@@ -74,8 +74,6 @@ Synthetic political influencers — flawless and infallible — duplicate human 
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
 - [[entities/nordis.md|NORDIS]]
@@ -85,6 +83,5 @@ Synthetic political influencers — flawless and infallible — duplicate human 
 - [[raw/articles/2026-04-16-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 16, 2026]]
 - [[raw/articles/2026-04-23-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 23, 2026]]
 - [[raw/articles/2026-04-30-edmo-weekly-pulse.md|EDMO Weekly Pulse - April 30, 2026]]
-
 
 İlgili kavram: [[concepts/synthetic-media-ai-content.md|Synthetic Media Ai Content]]

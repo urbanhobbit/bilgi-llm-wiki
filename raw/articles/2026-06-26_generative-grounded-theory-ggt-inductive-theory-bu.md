@@ -43,10 +43,3 @@ Journal of Consumer Psychology (JCP) Methods Dialogue makalesi (2026, 00:1–21)
 
 - 🧩 **Yöntem**
 - 📊 **Bulgular**
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları]]

@@ -40,8 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenf]]
 - [[raw/articles/2026-06-26_genel-digitalturkce-com.md|GENEL - digitalturkce.com]]

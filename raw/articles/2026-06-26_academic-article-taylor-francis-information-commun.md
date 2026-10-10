@@ -37,8 +37,6 @@ Information, Communication & Society gibi SCI/SSCI indeksli dergilerde yayımlan
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]

@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_avrupa-komisyonu-dijital-d-zenleme-ve-politika-g-n.md|Avrupa Komisyonu: Dijital Düzenleme ve Politika Gü]]
 - [[raw/articles/2026-06-26_european-commission-digital-policy-and-regulation.md|European Commission: Digital Policy and Regulation]]

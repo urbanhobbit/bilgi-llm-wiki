@@ -55,7 +55,6 @@ Türkiye, bu derlemenin hem yöntemsel hem de ampirik olarak en doğrudan ilgile
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
-- [[concepts/dis-grup-dusmanligi.md|Dış Grup Düşmanlığı]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]

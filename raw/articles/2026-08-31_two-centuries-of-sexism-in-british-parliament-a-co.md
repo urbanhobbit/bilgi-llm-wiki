@@ -55,9 +55,6 @@ TBMM Tutanak Dergisi (1920→) üzerinde bu çalışmanın birebir karşılığ�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]
 ### 📄 Aynı Kaynaktan

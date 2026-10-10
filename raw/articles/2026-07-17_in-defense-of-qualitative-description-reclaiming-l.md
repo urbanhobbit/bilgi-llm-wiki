@@ -48,4 +48,3 @@ Communication Theory (Oxford Academic, advance article), 17 Temmuz 2026 — Chel
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]

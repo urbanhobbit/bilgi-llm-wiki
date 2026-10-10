@@ -41,9 +41,7 @@ BBC'nin çocuk çevrimiçi güvenliği haber analizi, Türkiye'deki benzer düze
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bbc.md|Bbc]]

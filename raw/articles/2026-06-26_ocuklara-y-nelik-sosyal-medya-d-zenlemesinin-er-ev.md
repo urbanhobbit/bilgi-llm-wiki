@@ -42,7 +42,6 @@ Bu gelişme, Türkiye'nin dijital çocuk güvenliği alanında attığı somut a
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]

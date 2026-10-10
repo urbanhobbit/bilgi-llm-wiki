@@ -45,9 +45,7 @@ timestamp: '2026-06-06T09:02:50Z'
 ### 🧠 İlgili Kavramlar
 - [[concepts/climate-disinformation.md|Climate Disinformation (İklim Dezenformasyonu)]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nordis.md|NORDIS]]
 ### 📄 Aynı Kaynaktan

@@ -38,7 +38,5 @@ Karpathy'nin LLM Wiki deseni, Türkiye'de akademik araştırma ve bilgi yönetim
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_himalaya-cli-email-client-install-script.md|Himalaya CLI Email Client - Install Script]]

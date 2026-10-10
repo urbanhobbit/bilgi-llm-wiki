@@ -41,7 +41,6 @@ Whitelist.blog'un küresel çocuk güvenliği düzenlemeleri analizi, Türkiye'n
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-whitelist-video-child-safety-regulati.md|Article from whitelist.video: child safety regulat]]
 - [[raw/articles/2026-06-26_child-safety-regulations-worldw.md|Child Safety Regulations Worldw]]

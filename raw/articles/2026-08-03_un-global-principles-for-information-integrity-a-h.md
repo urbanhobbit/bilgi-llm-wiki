@@ -18,7 +18,6 @@ roles:
 - policy
 ---
 
-
 # UN Global Principles for Information Integrity: a humane information ecosystem (United Nations)
 
 **Published:** 2026-08-03
@@ -46,6 +45,5 @@ Birleşmiş Milletler Cenevre Ofisi'nin (@UNGeneva) X paylaşımıyla öne çık
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 

@@ -55,8 +55,5 @@ Makale, Türkiye'de demokrasi tartışmasını 'rejim tipi' tartışmasından va
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/populizm.md|Popülizm]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|SAGE Publications]]

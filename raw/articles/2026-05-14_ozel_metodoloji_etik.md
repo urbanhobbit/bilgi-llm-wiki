@@ -354,7 +354,6 @@ Bu makale, platform ekonomisinde ücret sömürüsünü matematiksel olarak mode
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
 - [[raw/articles/2026-03-27_ozel_metodoloji_etik.md|YZ Metodoloji ve Etik - Telafi Taraması]]

@@ -54,7 +54,6 @@ Human social behaviour unfolds in complex real-world environments influenced by 
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
 ### 📄 Aynı Kaynaktan

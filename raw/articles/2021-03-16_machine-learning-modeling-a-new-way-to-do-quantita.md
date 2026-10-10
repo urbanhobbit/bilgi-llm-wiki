@@ -35,9 +35,3 @@ Machine learning modeling offers a new paradigm for quantitative research in the
 - ML enables a shift from explanation-oriented to prediction-oriented social science research
 - The paper covers Lasso regression, cross-validation, and model selection methods
 - Authors advocate combining traditional statistical methods with ML approaches
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

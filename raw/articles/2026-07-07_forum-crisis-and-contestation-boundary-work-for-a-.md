@@ -44,7 +44,6 @@ Makale Türk akademisyenleri (Esra Dilek, Özge Onursal-Beşgül) içermesi aç�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
 ### 🏛 İlgili Kurum/Kişiler

@@ -40,8 +40,6 @@ Türkiye'de akademik araştırma kültürü, duyguların araştırma sürecindek
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/affective-polarisation.md|Affective Polarisation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/x-com.md|X Com]]
 ### 📄 Aynı Kaynaktan

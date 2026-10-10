@@ -44,7 +44,6 @@ Birleşmiş Milletler Çocuk Hakları Komitesi'nin 25 No'lu Genel Yorumu'nun be�
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/5rights-foundation.md|5Rights Foundation]]

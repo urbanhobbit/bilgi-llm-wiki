@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_content-from-en-wikipedia-org.md|Content from en.wikipedia.org]]
 - [[raw/articles/2026-06-26_kurator-en-wikipedia-org.md|KURATOR - en.wikipedia.org]]

@@ -41,7 +41,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_kahraman-maramsada-okulda-silah-sesleri-nedeniyle-.md|Kahraman Maramsada Okulda Silah Sesleri Nedeniyle ]]
 - [[raw/articles/2026-06-26_kurator-sabah-com-tr.md|KURATOR - sabah.com.tr]]

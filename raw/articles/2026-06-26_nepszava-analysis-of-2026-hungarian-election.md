@@ -38,7 +38,6 @@ Macaristan'daki bağımsız medyanın seçim sürecindeki rolü, Türkiye'deki m
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_2261234-macar-valasztas-2026-vizsgalat.md|2261234 Macar Valasztas 2026 Vizsgalat]]
 - [[raw/articles/2026-06-26_article-from-nepszava-hu-2261234-macar-valasztas-2.md|Article from nepszava.hu: 2261234 macar valasztas ]]

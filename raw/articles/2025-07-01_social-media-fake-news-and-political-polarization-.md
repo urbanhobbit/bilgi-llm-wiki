@@ -49,8 +49,4 @@ ResearchPro International Multidisciplinary Journal, Vol 1, Issue 1, Temmuz-Eylu
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/filtre-baloncuklari.md|Filtre Baloncukları]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

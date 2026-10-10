@@ -40,7 +40,6 @@ Ferguson'un eleştirisi, Türkiye'deki sosyal medya düzenlemesi için önemli b
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
 - [[raw/articles/2026-06-26_grimoire-manor-analysis-uk-proposed-in-real-life-s.md|Grimoire Manor Analysis: UK Proposed 'In Real Life]]

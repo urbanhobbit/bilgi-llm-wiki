@@ -39,9 +39,7 @@ Türkiye'de siyasi kutuplaşma, özellikle 2010'lu yıllardan itibaren toplumsal
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-idos-research-de.md|IDOS]]
 - [[entities/www-idos-research-de.md|Www Idos Research De]]

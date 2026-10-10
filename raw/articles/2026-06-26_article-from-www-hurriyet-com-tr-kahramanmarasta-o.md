@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-secim-guvenligi-v.md|Article from www.hurriyet.com.tr: secim guvenligi ]]
 - [[raw/articles/2026-06-26_genel-hurriyet-com-tr.md|GENEL - hurriyet.com.tr]]

@@ -38,7 +38,6 @@ Kahramanmaraş'ta bir okulda silah sesleri duyulması, Türkiye'de okul güvenli
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
 - [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]

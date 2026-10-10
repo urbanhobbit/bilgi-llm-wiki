@@ -111,19 +111,14 @@ Bu haftanın **Scrapling erişilebilirlik testi** 12 kaynak/DOI üzerinden yapı
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zekâ ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler

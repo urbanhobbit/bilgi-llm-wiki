@@ -42,9 +42,7 @@ Bianet'in dijital güvenlik ve seçim süreçleri analizi, Türkiye'de 2023 cumh
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bianet-org.md|Bianet]]
 - [[entities/bianet-org.md|Bianet Org]]

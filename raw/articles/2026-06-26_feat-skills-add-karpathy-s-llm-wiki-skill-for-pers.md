@@ -46,7 +46,6 @@ Sonuç olarak, Hermes Agent'a eklenen bu LLM Wiki yeteneği, Türkiye'nin yapay 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-05-02_scrapling_integration.md|Scrapling Integration Report]]
 - [[raw/articles/2026-06-26_bilgi-llm-wiki-github-archive-download.md|Bilgi LLM Wiki - GitHub Archive Download]]

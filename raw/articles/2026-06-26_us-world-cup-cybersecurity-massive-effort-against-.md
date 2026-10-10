@@ -38,7 +38,6 @@ POLITICO reports on the massive cybersecurity preparations underway in the Unite
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_andy-harris-immigration-and-foreign-workers-policy.md|Andy Harris Immigration and Foreign Workers Policy]]
 - [[raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-00867621.md|Andy Harris Immigration Foreign Workers 00867621]]

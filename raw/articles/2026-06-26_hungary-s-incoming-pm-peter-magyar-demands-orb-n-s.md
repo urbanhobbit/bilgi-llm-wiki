@@ -38,8 +38,6 @@ Euronews'in Péter Magyar ve Macaristan'daki siyasi dönüşüm haberleri, Türk
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]
 - [[raw/articles/2026-06-26_article-from-www-euronews-com-from-insider-to-riva.md|Article from www.euronews.com: from insider to riv]]

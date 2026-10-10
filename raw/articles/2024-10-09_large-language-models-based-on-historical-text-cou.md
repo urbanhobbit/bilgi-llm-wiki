@@ -35,9 +35,3 @@ This article explores the potential of Large Language Models (LLMs) trained on h
 - Potential to track changing social norms, values, and emotional expression over centuries
 - Complementary to traditional methods in computational social science and behavioral science
 - Limitations include historical source biases, model interpretability, and validation challenges
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

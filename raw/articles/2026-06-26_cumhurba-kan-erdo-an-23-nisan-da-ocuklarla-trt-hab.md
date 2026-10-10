@@ -41,7 +41,6 @@ TRT Haber'in fotoğraf galerisi, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı ka
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar.md|23 Nisan'da çocuklardan 'Vatan Marşı']]
 - [[raw/articles/2026-06-26_23-nisan-da-ocuklardan-vatan-mar-trt-haber.md|23 Nisan'da Çocuklardan Vatan Marşı - TRT Haber]]

@@ -85,7 +85,6 @@ Termostatik modelin dört on yıl (1980 sonrası) ve üç harcama alanında poli
 
 ---
 
-
 ## 2) ETİK / TEORİ
 
 ### Makale 4: Group Identity and Belief Formation: A Microfoundation of Political Polarization — Bauer, Chen, Hett & Kosfeld (The Economic Journal, 2026)
@@ -141,7 +140,6 @@ Türkiye bağlamında bu makale, derin marjinalleşme koşullarındaki çocuk gr
 İki saha etnografisini (Buenos Aires'te enformel yerleşim Carcova'da katılımcı proje + İngiltere'de refakatsiz göçmen çocuklarla işbirlikçi araştırma) birleştiren karşılaştırmalı nitel tasarım, 'futuring practices' kavramını derinlemesine bağlamsal veriyle temellendirir; çocukları pasif alıcı değil aktif fail olarak konumlandırması, çocuk coğrafyaları literatürünün katılımcı yöntem geleneğini izler. Sınırlılıkları: küçük örneklemli nitel verinin genellenebilirliğinin sınırlı olması, iki saha arasındaki karşılaştırmanın kurumsal farklılıkları (Arjantin-İngiltere refah rejimleri) tam ayrıştıramaması.
 
 ---
-
 
 ## 3) GÜNCEL TARTIŞMALAR
 
@@ -199,7 +197,6 @@ Türkiye'de medya korkusunu uzun vadeli tarihsel perspektifle (AK Parti kırılm
 
 ---
 
-
 ---
 
 ## OKUMA LİSTESİ
@@ -242,7 +239,6 @@ Türkiye'de medya korkusunu uzun vadeli tarihsel perspektifle (AK Parti kırılm
 - [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/populist-oylama.md|Popülist Oy Verme]]
 - [[concepts/populizm.md|Popülizm]]

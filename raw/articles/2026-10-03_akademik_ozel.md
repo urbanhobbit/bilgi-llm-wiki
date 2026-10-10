@@ -421,7 +421,6 @@ Yöntemsel açıdan çalışmanın ölçeği etkileyici: 123 ülkede 452 liderin
 
 ---
 
-
 ---
 
 ## OKUMA LİSTESİ
@@ -482,7 +481,6 @@ Yöntemsel açıdan çalışmanın ölçeği etkileyici: 123 ülkede 452 liderin
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]

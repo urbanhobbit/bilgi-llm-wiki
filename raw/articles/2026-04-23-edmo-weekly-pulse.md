@@ -30,7 +30,6 @@ _Source: [EDMO Weekly Pulse Archive](https://edmo.eu/pulse/)_
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
 ### 📄 Aynı Kaynaktan

@@ -39,10 +39,8 @@ Avrupa Birliği'nin Dijital Hizmetler Yasası (DSA) Paketi, Türkiye'nin çocukl
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital.md|Article from digital-strategy.ec.europa.eu: digita]]
 - [[raw/articles/2026-06-26_digital-services-act-package.md|Digital Services Act Package]]

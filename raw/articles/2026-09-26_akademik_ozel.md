@@ -41,7 +41,6 @@ Sun (2026) doğal bir deney kurgusunun nadir avantajını kullanıyor: üniversi
 
 ---
 
-
 ## 2) METODOLOJİ — DOĞAL DENEY VE NEDENSEL TANIMLAMA
 
 #### Makale 2: Does Intergroup Contact Reduce Affective Polarization? A Natural Experiment
@@ -62,7 +61,6 @@ Türkiye, duygusal kutuplaşmanın son yirmi yılda siyasetin ana çatısını b
 Loustau vd. (2026) tasarım olarak literatürün standart zayıflığını aşıyor: tek bir laboratuvar deney yerine **çok çalışmalı** bir yapı kuruyor ve dinamik norm manipülasyonunu farklı çerçevelerle (bipartizan ortak zemin vurgusu, karşıt taraf hareketi) tekrarlıyor. Bulguların müdahaleye dönüştürülebilir olması, mesajın sade ve ölçeklenebilir olmasını gerektiriyor — bu çalışmanın en pratik katkısı da burada: dinamik norm mesajları pahalı temas programlarına göre çok daha ucuz ve geniş ölçekte uygulanabilir. Buna karşılık iki temel sınır var. Birincisi, ölçülen çıktılar çoğunlukla **algı düzeltmesi ve bildirilen tutumlar**; bunların davranışa (oy verme, karşı-partiliyle temas) transferi gösterilmiyor. İkincisi, ablasyon koşulları ve uygulama süresi (tek seferlik mesaj vs. tekrarlı maruz kalma) etkinin kalıcılığını test etmiyor. Türkiye'de tekrarlanacaksa, algı yanılgısının ölçümü için seçmen araştırmalarında gerçek iki-partili algı soruları eklenmeli ve müdahale, doğrudan seçim dönemlerinde test edilmelidir.
 
 ---
-
 
 ## 3) YENİDEN ENTEGRE EDİLEN ÇALIŞMALAR (hafta içinde yinelenen akış)
 
@@ -87,7 +85,6 @@ Metodolojik açıdan güçlü yanı üç bloklu (meta-humanization / meta-dehuma
 
 ---
 
-
 #### Makale 4: Towards scalable AI-assisted pre-bunking of election misinformation: evidence from a pre-registered US panel experiment
 - **Yazarlar:** Mitchell Linegar, Betsy Sinclair, Sander van der Linden, R. Michael Alvarez (Royal Society Open Science 13(8))
 - **Yayın:** None
@@ -106,7 +103,6 @@ Seçim dezenformasyonuna karşı yapay zekâ destekli pre-bunking müdahalelerin
 Pre-registered iki dalgalı deney (N = 4.293 kayıtlı ABD seçmeni) ve insan onaylı şablon + LLM üretimi kıyaslaması, tasarımın güçlü yanı. Sınırlılık: tek ülke (ABD) ve tek dönem; etki bir hafta sonra zayıflıyor, uzun vadeli kalıcılık ve davranışsal çıktılar (oy verme) ölçülmüyor. Örneklem seçmen kaydı üzerinden kurulduğu için dijital uçurumun dışında kalan gruplar temsil edilmiyor.
 
 ---
-
 
 ---
 
@@ -151,7 +147,6 @@ Pre-registered iki dalgalı deney (N = 4.293 kayıtlı ABD seçmeni) ve insan on
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

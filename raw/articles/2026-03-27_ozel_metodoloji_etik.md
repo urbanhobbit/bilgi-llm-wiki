@@ -147,7 +147,6 @@ timestamp: '2026-03-27T00:00:00Z'
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-03-27_detayli.md|Akademik Bülten — 27 Mart 2026]]
 - [[raw/articles/2026-03-30_akademik.md|Akademik Bülten — 30 Mart 2026]]

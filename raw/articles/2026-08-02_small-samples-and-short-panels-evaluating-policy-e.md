@@ -53,8 +53,6 @@ Türkiye'de politika değerlendirmesi sıklıkla il/ilçe düzeyinde kısa zaman
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|arXiv]]
 ### 📄 Aynı Kaynaktan

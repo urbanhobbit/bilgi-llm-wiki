@@ -39,12 +39,9 @@ Türkiye'de sosyal medya kullanımı ve ruh sağlığı ilişkisi, özellikle ge
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
 - [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]

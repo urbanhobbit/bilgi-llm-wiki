@@ -424,14 +424,10 @@ Türkiye'nin çocuk–dijital gündemi bu hafta **beş eşiğin** kesişiminde i
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuk ve Dijital Kısıtlamalar]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
-- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/cocuk-istismari.md|Çocuk İstismarı]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılım]]
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
-- [[concepts/synthetic-media-ai-content.md|Synthetic Media / AI Content]]
 - [[dijital-cocuk-haklari-kavram.md|Dijital Çocuk Hakları (kavram notu)]]
 
 ### 🏛 İlgili Kurum/Kişiler

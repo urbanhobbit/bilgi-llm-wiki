@@ -58,7 +58,6 @@ Bu makale, [[concepts/komplo-inanclari.md|Komplo İnançları]] ile [[concepts/s
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2025-12-10_visualizing-qualitative-research.md|Visualizing Qualitative Research]]

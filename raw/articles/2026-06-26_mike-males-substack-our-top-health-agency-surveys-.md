@@ -39,10 +39,7 @@ Mike Males'in sağlık kurumu anketlerine yönelik metodolojik eleştirisi, Tür
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-mikemales-substack-com-our-top-health.md|Article from mikemales.substack.com: our top healt]]
 - [[raw/articles/2026-06-26_kurator-mikemales-substack-com.md|KURATOR - mikemales.substack.com]]

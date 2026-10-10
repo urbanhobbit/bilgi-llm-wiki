@@ -39,8 +39,5 @@ Harvard öncülüğündeki bu saha çalışması Türkiye'de dezenformasyonla m�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-06_akademik_ozel.md|AKADEMİK ÖZEL TARAMA]]

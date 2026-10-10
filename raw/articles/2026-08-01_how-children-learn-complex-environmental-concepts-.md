@@ -31,9 +31,3 @@ Xin Bian, Andre Brown & Bruno Marques, Frontiers in Psychology, 17 (2026). Dijit
 - Algılanan bilişsel yük takipte CK ile ters ilişkili
 - Pedagojik çıkarım: kısa animasyon giriş için iyi; derin anlama için scaffolding + rehberli açıklama + takip
 - SEM + çoklu regresyon; çocuk-çevre-dijital medya kesişimi
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

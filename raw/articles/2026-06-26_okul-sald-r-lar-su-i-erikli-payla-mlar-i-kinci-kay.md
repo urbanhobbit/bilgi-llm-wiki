@@ -39,7 +39,6 @@ Türkiye'de okul saldırıları sonrası sosyal medyada yayılan şiddet içerik
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_3908887.md|3908887]]
 - [[raw/articles/2026-06-26_aa-g-ndem-haberleri.md|AA: Gündem Haberleri ]]

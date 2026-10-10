@@ -42,5 +42,4 @@ LinkedIn üzerinden paylaşılan bu shortlink, KURATOR araştırma bülteni kaps
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]

@@ -43,7 +43,6 @@ OECD'nin bu çocuk dostu mahalleler politika belgesi, Türkiye'de kentsel dönü
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 ### 📄 Aynı Kaynaktan

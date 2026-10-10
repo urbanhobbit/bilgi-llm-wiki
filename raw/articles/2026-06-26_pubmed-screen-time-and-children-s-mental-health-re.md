@@ -38,11 +38,8 @@ PubMed'de indekslenen ekran süresi-çocuk ruh sağlığı araştırmaları, Tü
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
 - [[raw/articles/2026-06-26_pubmed-ncbi-nlm-nih-gov.md|pubmed.ncbi.nlm.nih.gov]]

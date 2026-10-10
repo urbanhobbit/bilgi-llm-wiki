@@ -18,7 +18,6 @@ roles:
 - policy
 ---
 
-
 # European Parliament adopts resolution on a new strategy for media literacy and digital learning (EDMO)
 
 **Published:** 2026-07-07
@@ -48,6 +47,5 @@ EDMO (European Digital Media Observatory) LinkedIn duyurusu. 7 Temmuz 2026'da Av
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]

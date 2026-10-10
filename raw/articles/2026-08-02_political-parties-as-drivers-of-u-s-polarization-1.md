@@ -40,10 +40,8 @@ Journal of Political Economy'de yayımlanan bu çalışma, parti örgütlerinin 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s.md|Family–school partnership initiatives to improve s]]

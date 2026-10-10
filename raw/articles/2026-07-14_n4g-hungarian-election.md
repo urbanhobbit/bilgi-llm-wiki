@@ -44,8 +44,6 @@ Ekonomik boyutuyla ele alındığında, Macaristan'da iktidar değişikliğinin 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek.md|Article from www.n4g.com: eredmenyek]]
 - [[raw/articles/2026-06-26_eredmenyek.md|Eredmenyek]]

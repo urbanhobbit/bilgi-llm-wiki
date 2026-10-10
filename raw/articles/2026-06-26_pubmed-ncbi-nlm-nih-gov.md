@@ -43,8 +43,6 @@ Türkiye'de çocuklarda ekran süresi ve ruh sağlığı ilişkisi üzerine yap�
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-pubmed-ncbi-nlm-nih-gov-screen-time-c.md|Article from pubmed.ncbi.nlm.nih.gov: screen time ]]
 - [[raw/articles/2026-06-26_pubmed-research-synthesis-screen-time-and-children.md|PubMed Research Synthesis: Screen Time and Childre]]

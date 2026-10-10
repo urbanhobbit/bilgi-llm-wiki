@@ -37,8 +37,6 @@ Byron Hyde, Public Understanding of Science (2026). Published online 8 July 2026
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
-- [[concepts/bilimsel-iletisim.md|Bilimsel İletişim (Science Communication)]]
 - [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_use-views-and-worries-on-age-bans-on-social-media-.md|Use, Views and Worries on Age Bans on Social Media]]

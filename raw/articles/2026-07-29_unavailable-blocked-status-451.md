@@ -39,11 +39,9 @@ HTTP 451 statü kodu olan Unavailable For Legal Reasons nedeniyle erişime tamam
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_70944105.md|70944105]]
 - [[raw/articles/2026-06-26_article-from-www-wcvb-com-70944105.md|Article from www.wcvb.com: 70944105]]

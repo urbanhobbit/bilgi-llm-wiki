@@ -39,7 +39,6 @@ Türkiye'de seçim güvenliği ve dijital dezenformasyon konusu, özellikle son 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/bianet-org.md|Bianet]]
 - [[entities/bianet-org.md|Bianet Org]]

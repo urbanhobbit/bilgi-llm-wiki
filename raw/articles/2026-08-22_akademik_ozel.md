@@ -324,7 +324,6 @@ Farrell ve Newman'ın liberal uluslararası bilgi düzeni (LIIO) tezi, Türkiye 
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]

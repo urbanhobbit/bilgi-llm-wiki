@@ -41,9 +41,3 @@ Springer International Publishing, Open Access kitap (2019) — Vincent A. W. J.
 
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]

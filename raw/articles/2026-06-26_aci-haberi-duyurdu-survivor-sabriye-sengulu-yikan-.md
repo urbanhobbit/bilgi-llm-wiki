@@ -37,8 +37,6 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_ac-haberi-duyurdu-survivor-sabriye-eng-l-y-kan-l-m.md|Acı haberi duyurdu! Survivor Sabriye Şengül'ü yıka]]
 - [[raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd.md|Article from www.milliyet.com.tr: aci haberi duyur]]

@@ -35,9 +35,3 @@ This article describes an emerging research practice called Large-N Qualitative 
 - Within-case causal inference is the core of LNQA's causal force
 - M-LNQA variant combines LNQA with statistical analysis methods
 - Over 50 examples of the method in practice appendix
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

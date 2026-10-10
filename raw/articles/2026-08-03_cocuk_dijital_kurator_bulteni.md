@@ -407,8 +407,6 @@ Bu haftaki kaynaklar, çocukların dijital ortamda korunmasına yönelik düzenl
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]

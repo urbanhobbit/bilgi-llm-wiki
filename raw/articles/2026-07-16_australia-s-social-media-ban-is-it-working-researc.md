@@ -40,7 +40,6 @@ Molly Rose Vakfı'nın Avustralya sosyal medya yasağı araştırma raporu, Tür
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-mollyrosefoundation-org-mrf-australia.md|Article from mollyrosefoundation.org: MRF Australi]]

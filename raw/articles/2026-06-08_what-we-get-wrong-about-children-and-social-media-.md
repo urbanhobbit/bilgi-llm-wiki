@@ -47,6 +47,5 @@ Dr. Hillman'ın LSE'de yayımlanan bu çığır açıcı analizi, Türkiye'deki 
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]

@@ -44,4 +44,3 @@ Politika önerisi: Türkiye'nin çocuk odaklı dijital politika çerçevesi, AB'
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

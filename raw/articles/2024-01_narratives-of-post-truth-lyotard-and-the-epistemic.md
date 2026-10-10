@@ -18,7 +18,6 @@ roles:
 - method
 ---
 
-
 # Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society
 
 **Published:** 2024-01
@@ -47,5 +46,4 @@ Theory, Culture & Society (SAGE) 41(1): 95-110, 2024 — Christian Baier. Post-t
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/populizm.md|Popülizm]]

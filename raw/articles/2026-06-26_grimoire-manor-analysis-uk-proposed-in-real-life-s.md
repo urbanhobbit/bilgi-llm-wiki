@@ -39,11 +39,8 @@ Grimoire Manor Substack analizi ve İngiltere'nin önerilen 'Gerçek Hayatta' (I
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-grimoiremanor-substack-com-the-uks-pr.md|Article from grimoiremanor.substack.com: the uks p]]
 - [[raw/articles/2026-06-26_grimoire-manor-substack-the-uk-s-proposed-in-real-.md|Grimoire Manor (Substack): The UK's Proposed 'In R]]

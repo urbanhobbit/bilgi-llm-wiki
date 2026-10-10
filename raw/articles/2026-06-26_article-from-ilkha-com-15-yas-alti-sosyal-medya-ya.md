@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Mecli]]
 - [[raw/articles/2026-06-26_15-yas-alti-sosyal-medya-yasagi-ilk.md|15 Yas Alti Sosyal Medya Yasagi Ilk]]

@@ -55,7 +55,6 @@ Makale, [[concepts/terorizm-korkusu.md|Terörizm Korkusu]], [[concepts/ideolojik
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]

@@ -70,7 +70,6 @@ Bu makale, [[entities/journals-sagepub-com.md|SAGE Journals]] aracılığıyla y
 ### 🧠 İlgili Kavramlar
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populis]]
 - [[raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-.md|Forum: Crisis and contestation – Boundary work for]]

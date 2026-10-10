@@ -39,7 +39,6 @@ Parent Zone'un araştırması, Türkiye'de dijital ebeveynlik konusunda yapılac
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
 - [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
 ### 📄 Aynı Kaynaktan

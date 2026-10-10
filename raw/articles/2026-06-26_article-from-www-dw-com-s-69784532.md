@@ -41,7 +41,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/dw.md|Dw]]
 ### 📄 Aynı Kaynaktan

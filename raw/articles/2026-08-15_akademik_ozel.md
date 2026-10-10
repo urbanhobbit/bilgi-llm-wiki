@@ -71,7 +71,6 @@ Rani ve arkadaşlarının MIT Media Lab bulgusu — yapay zekâ diyaloglarının
 
 ---
 
-
 ## 2) ETİK / TEORİ
 
 ### Makale 15: Agentic profiles for effective AI governance
@@ -120,7 +119,6 @@ MIT Media Arts and Sciences'te Edward S. Boyden danışmanlığında hazırlanan
 Beyin emülasyonu tartışması, Türkiye'deki yapay zeka ve nöroteknoloji politikaları için önümüzdeki on yılı şekillendirebilecek stratejik bir çerçeve sunuyor. Tezin Fermi tahmini metodolojisi — karmaşık bilimsel hedefleri FLOP/s, bellek, ara bağlantı bant genişliği ve maliyet gibi ölçülebilir donanım metriklerine indirgeme —, Türkiye'nin ulusal Ar-Ge ve süper bilgisayar yatırımlarını değerlendirirken aktarılabilir bir analiz yöntemi olarak öne çıkıyor. Türkiye'nin 2021'de açıkladığı Ulusal Yapay Zeka Stratejisi (2021-2025) ve TÜBİTAK ULAKBİM çatısı altında işletilen TRUBA (Türkiye Ulusal Bilim e-Altyapısı) süper bilgisayar altyapısı, hesaplama kapasitesi açısından ülkenin mevcut konumunu göstermekle birlikte; tezin vurguladığı 6e20 FLOP/s düzeyindeki gerçek zamanlı insan beyni emülasyonu hedefi, ulusal ölçekteki kümelerin bu tür hesaplama yoğunluklu projeler için yetersiz kalacağını ortaya koyuyor. Veri altyapısı boyutu da en az hesaplama kadar kritik: eksabayt ölçekli nöral veri depolama ve işleme gereksinimi, Türkiye'nin kişisel veri ve biyomedikal veri düzenlemeleriyle doğrudan kesişiyor — 6698 sayılı KVKK kapsamında özel nitelikli veri olarak işlenen sağlık ve nöral verilerin, gelecekteki beyin-bilgisayar arayüzü ve emülasyon teknolojileriyle birlikte nasıl korunacağına dair erken bir tartışma başlatılmalıdır. Tıbbi cihaz ve nöroteknoloji düzenlemelerinde Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu'nun (TİTCK) rolü, bu teknolojiler olgunlaştıkça genişleyecektir. TÜBİTAK Bilim ve Teknik Yayınevi ile üniversitelerin nörobilim programları (ör. ODTÜ, Boğaziçi, Koç ve Bilkent'teki sinirbilim merkezleri) tezde özetlenen bağlantıbilim ve nöral simülasyon yöntemlerini takip edebilecek insan kaynağına sahiptir; ancak disiplinler arası 'mühendislik-nörobilim-yapay zeka' eğitiminin güçlendirilmesi gerekmektedir. Politika önerisi olarak; (i) TRUBA'nın uzun vadeli hesaplama kapasitesi planlamasına nöromorfik ve beyin-emülasyonu odaklı araştırma hatlarının eklenmesi, (ii) nöral verinin toplanması ve işlenmesine ilişkin KVKK rehberinin güncellenmesi, (iii) YÖK bünyesinde beyin-bilgisayar arayüzü ve bağlantıbilim alanlarında lisansüstü burs programlarının oluşturulması öne çıkmaktadır. AB'nin nöroteknoloji hakları tartışmaları ve Avrupa Yapay Zeka Tüzüğü'nün yüksek riskli yapay zeka sınıflandırması, Türkiye'nin kendi düzenleyici yol haritasını belirlerken karşılaştırmalı referans olarak kullanılabilir.
 
 ---
-
 
 ## 3) GÜNCEL TARTIŞMALAR
 
@@ -175,7 +173,6 @@ Dijital boyut da göz ardı edilmemeli: yerel siyasette kutuplaşmanın sosyal m
 
 ---
 
-
 ## OKUMA LİSTESİ
 
 | Zorluk | Makale | Konu | Öncelik |
@@ -224,7 +221,6 @@ Dijital boyut da göz ardı edilmemeli: yerel siyasette kutuplaşmanın sosyal m
 - [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]

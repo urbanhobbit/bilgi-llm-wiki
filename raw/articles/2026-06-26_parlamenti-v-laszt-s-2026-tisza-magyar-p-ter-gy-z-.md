@@ -38,8 +38,6 @@ Telex.hu'nun Macaristan seçim haberleri, Türkiye'deki benzer siyasi tartışma
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-telex-hu-macar-valasztas-eredmenyek.md|Article from telex.hu: macar valasztas eredmenyek]]
 - [[raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m.md|Article from telex.hu: parlamenti valasztas tisza ]]

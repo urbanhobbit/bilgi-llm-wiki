@@ -36,4 +36,3 @@ John Rountree & John Gastil, Journal of Deliberative Democracy (2026). Generativ
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

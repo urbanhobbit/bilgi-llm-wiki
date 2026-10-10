@@ -48,7 +48,6 @@ Turkiye'nin dijital donusum surecinde, cocuklarin cevrimici guvenligini saglamak
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/common-sense-media.md|Common Sense Media]]
 - [[entities/unicef.md|UNICEF]]

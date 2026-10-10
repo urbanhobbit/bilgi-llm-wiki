@@ -50,9 +50,6 @@ Royal Society Open Science 13(8), 5 Ağustos 2026 — Mitchell Linegar, Betsy Si
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes (Prebunking / Inoculation)]]
-- [[concepts/election-interference-disinformation.md|Election Interference & Dezenformasyon]]
-- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]

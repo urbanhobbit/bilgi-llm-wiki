@@ -38,7 +38,6 @@ Macaristan seçim sonuçları, Türkiye'deki seçim güvenliği tartışmaları 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-04-08_detayli.md|2026 04 08 Detayli]]

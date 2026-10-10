@@ -40,9 +40,6 @@ Türkiye'de dijital teknolojilerin toplumsal etkileri üzerine yapılan akademik
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-.md|Academic Article - ScienceDirect (Telecommunicatio]]
 - [[raw/articles/2026-06-26_academic-article-social-sciences-humanities-open-s.md|Academic Article - Social Sciences & Humanities Op]]

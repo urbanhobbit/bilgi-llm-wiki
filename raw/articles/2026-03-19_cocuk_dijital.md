@@ -30,7 +30,6 @@ Bu çalışma, Emre'nin "çocuk katılımı ve dijital vatandaşlık" konusundak
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 ### 📄 Aynı Kaynaktan

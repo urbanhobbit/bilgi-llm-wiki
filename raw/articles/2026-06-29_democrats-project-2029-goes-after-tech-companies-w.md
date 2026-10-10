@@ -35,9 +35,3 @@ Democrats are rolling out 'Project 2029', a policy framework for the 2028 presid
 - Ban on surveillance advertising and limited children's data collection
 - Designed partly for executive action without congressional approval
 - Jonathan Haidt calls it social media's 'tobacco moment'
-
----
-
-## 🔗 İlgili Bağlantılar
-### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]

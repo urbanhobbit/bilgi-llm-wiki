@@ -39,7 +39,6 @@ FTC'nin COPPA rehberi, Türkiye'de çocukların çevrimiçi gizliliğine yöneli
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-ftc-gov.md|Www Ftc Gov]]
 ### 📄 Aynı Kaynaktan

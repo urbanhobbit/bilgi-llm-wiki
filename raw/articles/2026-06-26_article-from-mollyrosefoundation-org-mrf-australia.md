@@ -44,8 +44,6 @@ Türk akademik camiası, uluslararası işbirlikleri ve ortak projeler aracılı
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
-- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlik]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy Misinformation]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_australia-social-media-ban-research-briefing-molly.md|Australia Social Media Ban Research Briefing - Mol]]

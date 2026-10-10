@@ -40,7 +40,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-kahramanmarasta-o.md|Article from www.hurriyet.com.tr: kahramanmarasta ]]
 - [[raw/articles/2026-06-26_genel-hurriyet-com-tr.md|GENEL - hurriyet.com.tr]]

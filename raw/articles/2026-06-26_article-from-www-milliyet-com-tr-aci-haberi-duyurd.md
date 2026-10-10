@@ -41,7 +41,6 @@ Ekonomik ve ticari gelişmelerin Türkiye'ye etkisi, Merkez Bankası politikalar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_ac-haberi-duyurdu-survivor-sabriye-eng-l-y-kan-l-m.md|Acı haberi duyurdu! Survivor Sabriye Şengül'ü yıka]]
 - [[raw/articles/2026-06-26_aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-.md|Aci Haberi Duyurdu Survivor Sabriye Sengulu Yikan ]]

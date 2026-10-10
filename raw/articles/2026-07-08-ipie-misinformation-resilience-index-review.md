@@ -30,7 +30,6 @@ F. Esser, J.A. Solis, M. Chan, P. van Aelst, D. Madrid-Morales, T.
 Bosch, M. Botan, E. Humprecht, J. Labarre, R. M. Santini, A. Schulz, B.
 Seim, M. Wack, P.N. Howard, S. Valenzuela
 
-
 --- Page 2/81 ---
 
  
@@ -57,7 +56,6 @@ and Vulnerability to Misinformation and Disinformation in Political Information
 Environments: A Comparative Review of Ten Indexes,” Zurich, Switzerland: IPIE, 
 2026. Technical Paper, TR2026.1, doi: 10.61452/MBPE3349.
 Technical Paper 2026.1 
-
 
 --- Page 3/81 ---
 
@@ -104,7 +102,6 @@ guide a theoretically informed, methodologically robust, and globally sensitive
 next-generation index. It concludes with guidance for using index results 
 responsibly. 
 
-
 --- Page 4/81 ---
 
  
@@ -143,7 +140,6 @@ REFERENCES .....................................................................
 APPENDICES ............................................................................................................................ 77 
 APPENDIX A: INDEX SOURCES................................................................................................................... 77 
 
-
 --- Page 5/81 ---
 
  
@@ -159,7 +155,6 @@ FUNDERS ........................................................................
 AUTHORS’ AI CONTRIBUTION STATEMENT .................................................................................................. 79 
 COPYRIGHT INFORMATION ....................................................................................................................... 79 
 ABOUT THE IPIE ....................................................................................................................... 80 
-
 
 --- Page 6/81 ---
 
@@ -192,7 +187,6 @@ systems and political contexts enable or mitigate the spread of harmful content.
 Yet despite the proliferation of mis- and disinformation, there has been little 
 systematic comparison of how these efforts assess national vulnerabilities and 
 resilience. This report fills that gap.  
-
 
 --- Page 7/81 ---
 
@@ -227,7 +221,6 @@ Together, these three objectives lead to overarching conclusions about index
 design and their long-term utility for stakeholders. This multidimensional 
 assessment of how each index defines and measures vulnerability and resilience 
 provide policymakers and civil society organizations with quantifiable 
-
 
 --- Page 8/81 ---
 
@@ -264,7 +257,6 @@ Existing mis- and disinformation indexes offer an instructive starting point for
 exploring these broader concepts. Mis- and disinformation intersect with all core 
 dimensions of information environments [14] and directly link with multiple 
 
-
 --- Page 9/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -299,7 +291,6 @@ The comparative exercise presented here is both diagnostic and capacity-
 building. It diagnoses how current mis- and disinformation indexes define and 
 measure vulnerabilities within political information environments. It also builds 
 conceptual and methodological capacities that contribute to a more 
-
 
 --- Page 10/81 ---
 
@@ -336,7 +327,6 @@ also reviewed the data sources, geographic scope, and methodological features
 employed, including data collection procedures, weighting strategies, and 
 validation checks. Section 5 presents three in-depth empirical comparisons, 
 
-
 --- Page 11/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -350,7 +340,6 @@ as evaluating their practical utility and potential for further development by
 researchers, policymakers, and other stakeholders. 
  
  
-
 
 --- Page 12/81 ---
 
@@ -384,7 +373,6 @@ contexts in which the indexes were analyzed and a deeper understanding of how
 contextual factors shape outcomes. 
 Consistent with established BES practices and index comparisons, we applied 
 seven inclusion criteria to select the sample [12]:  
-
 
 --- Page 13/81 ---
 
@@ -421,7 +409,6 @@ criteria.
 The ten indexes in the final sample are funded by a diverse range of actors, such 
 as nongovernmental organizations (NGOs), think tanks, and academic 
 
-
 --- Page 14/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -432,7 +419,6 @@ Comparing Ten Indexes
 institutions, and are aimed at varied target audiences including advertisers and 
 policymakers.  
  
-
 
 --- Page 15/81 ---
 
@@ -466,7 +452,6 @@ score-based methodologies. Each index approaches the issue of mis- or
 disinformation by evaluating factors such as vulnerability, resilience, or other 
 risks associated with the spread of misleading content. 
   
-
 
 --- Page 16/81 ---
 
@@ -610,7 +595,6 @@ Public outreach
 2022 
 1 
 
-
 --- Page 17/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -645,7 +629,6 @@ classified:
 teams. It aims to reduce the monetization of outlets it rates as higher 
 disinformation risks by providing risk scores and licensing products such 
 as its “Dynamic Exclusion List,” which can be integrated into ad-buying 
-
 
 --- Page 18/81 ---
 
@@ -682,7 +665,6 @@ theoretical perspective. These data generators are affiliated with public
 universities in Europe or the USA and publish their indexes in peer-
 reviewed academic journals. 
 
-
 --- Page 19/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -718,7 +700,6 @@ as the ROD index. Although applied in follow-up studies beyond European
 countries and the USA [7, 9], it lacks the institutional structures and funding 
 needed for ongoing updates. Such indexes can quickly become outdated as mis- 
 
-
 --- Page 20/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -740,7 +721,6 @@ to compare how these tools define core concepts, select indicators, and construc
 measures of vulnerability and resilience. 
  
  
-
 
 --- Page 21/81 ---
 
@@ -775,7 +755,6 @@ Conceptual Foundations
 According to the OECD’s Handbook on Constructing Composite Indicators (2008), 
 the first step in constructing an index is to build a theoretical framework and 
 define the terms used. Like other comparative analyses of indexes, such as a study 
-
 
 --- Page 22/81 ---
 
@@ -812,7 +791,6 @@ and disinformation intersect with the entire political information environment;
 rather, they demonstrate how each index selects entry points within a broader 
 conceptual framework. 
 
-
 --- Page 23/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -847,7 +825,6 @@ includes the analysis of statements that target at-risk groups, promote division
 challenge mainstream or scientific consensus, and hinder consensus building. 
 This broader category of “adversarial narratives,” based on conflict theory [38], 
 aims to capture the networked and emotional nature of contemporary 
-
 
 --- Page 24/81 ---
 
@@ -884,7 +861,6 @@ Using proxies is not a methodological flaw per se: in composite-index work it is
 common and often necessary strategy when direct data are unavailable [27]. The 
 key requirement is interpretive clarity [28]. Proxies should be theoretically 
 
-
 --- Page 25/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -919,7 +895,6 @@ individual false claims or measure representative content flows, but they provid
 context-sensitive comparative judgments about disinformation-related outcomes 
 that would otherwise be difficult to measure across countries.  
  
-
 
 --- Page 26/81 ---
 
@@ -1082,7 +1057,6 @@ that index in Table 5. Shares are approximate because index architectures differ
 indicators, pillars, and composite scores.  
  
 
-
 --- Page 27/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1118,7 +1092,6 @@ read as structured assessments of risk and protective conditions within politica
 information environments, not as direct estimates of how much disinformation 
 exists. Given how prominently many indexes use the labels “vulnerability” and 
 
-
 --- Page 28/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1153,7 +1126,6 @@ The first consists of political and societal weaknesses. They include political
 polarization, instability, weak public administration, a high level of corruption, 
 limited media independence, and the absence of anti-misinformation legislation, 
 which are often compounded by structural factors such as inequality, conflict, and 
-
 
 --- Page 29/81 ---
 
@@ -1232,7 +1204,6 @@ weak policy responses;
 convergence of these factors at 
 country/regional level  
 
-
 --- Page 30/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1267,7 +1238,6 @@ The second dimension is institutional and legal resilience, which captures the
 strength of governance structures, the rule of law, anticorruption frameworks, 
 and regulatory safeguards. This aligns with research showing that states with 
  
-
 
 --- Page 31/81 ---
 
@@ -1343,7 +1313,6 @@ swiftly correct false narratives.
 The third dimension is media and information ecosystem resilience, which 
 includes independent media and fact-checking, digital platform practices and 
 
-
 --- Page 32/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1377,7 +1346,6 @@ Despite these differences, both types of indexes underscore the interplay of
 domestic conditions and external actors, showing that these dimensions are 
 intertwined and shape a country’s overall exposure to and response to mis- and 
 disinformation. 
-
 
 --- Page 33/81 ---
 
@@ -1414,7 +1382,6 @@ Constructing a composite index is a complex task that lacks a standardized
 approach: the particular purpose of an index and its intended use determine the 
 construction process [27, 55]. Ideally, indicators would be selected solely 
 
-
 --- Page 34/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1449,7 +1416,6 @@ analytical level; medium-high complexity indexes exceed these thresholds on at
 least 2 attributes; and high-complexity indexes typically include more than 50 
 indicators, multilevel dimensional structures, extensive data collection or expert 
 coding, and substantial multisource aggregation. 
-
 
 --- Page 35/81 ---
 
@@ -1539,7 +1505,6 @@ First, a more complex approach is more comprehensive and better suited to
 capturing a multidimensional phenomenon such as resilience to mis- and 
 disinformation. Low-complexity indexes can still offer valuable insights, however. 
 
-
 --- Page 36/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1574,7 +1539,6 @@ are the MRMI index and the FIMI index. Both combine structural system-level
 variables, institutional characteristics, media-system indicators, and audience- 
 and society-level measures such as trust, populism, and societal polarization. The 
 FIMI index includes far-reaching macrosocial conditions such as economic 
-
 
 --- Page 37/81 ---
 
@@ -1611,7 +1575,6 @@ Country inclusion differs across the ten indexes, reflecting their purpose, data
 availability, and conceptual scope (Table 6). While none offer comprehensive 
 global coverage, some provide cross-regional coverage. For example, the GDI 
 
-
 --- Page 38/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1646,7 +1609,6 @@ interpretability of regional or cross-regional comparisons.
 Although within-country variation is not prioritized by any index, its absence 
 represents another significant gap in current measurement efforts. By aggregating 
 findings only at the national level, mis- and disinformation indexes leave 
-
 
 --- Page 39/81 ---
 
@@ -1728,7 +1690,6 @@ Covers 17 states in the region, plus Eurasia
 (Caucasus, Central Asia) 
  
 
-
 --- Page 40/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1762,7 +1723,6 @@ content-analysis-driven indexing, (ii) expert-survey-driven indexing, (iii)
 composite multisource, high-complexity indexing, and (iv) targeted data fusion, 
 narrow-complexity indexing. We examine each in turn and present the main 
 trade-offs and challenges each approach faces. 
-
 
 --- Page 41/81 ---
 
@@ -1839,7 +1799,6 @@ procedures, supplemented by fact-checking sources. While the GDI incorporates
 organizational and background indicators into its content analysis and discloses 
 most of its instruments, the specifics of how it identifies adversarial narratives and 
 
-
 --- Page 42/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1874,7 +1833,6 @@ measures, media freedom scores, and GDP. The MRMI and FIMI indexes exemplify
 this model. By merging objective and subjective indicators, such as national 
 statistics on internet access and expert-coded assessments of press freedom, 
 these indexes aim to capture structural, cultural, and institutional drivers of 
-
 
 --- Page 43/81 ---
 
@@ -1911,7 +1869,6 @@ Taken together, these four approaches highlight the diverse ways in which
 indexes capture the risks of or resilience to mis- and disinformation. They also 
 underscore trade-offs between precision and generalizability and between 
 
-
 --- Page 44/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -1946,7 +1903,6 @@ indicator. When indexes draw on multiple types of data sources, standardization
 becomes more complex, requiring variables to be standardized and inverted so 
 that all indicators point in the same direction, like in the ROD and MRMI indexes 
 and the GDI, MLI, and MVI.  
-
 
 --- Page 45/81 ---
 
@@ -1983,7 +1939,6 @@ Another consideration in aggregation is the decision to weight the different
 components of the framework. Only a few indexes explicitly weight their 
 indicators. These indexes usually rely on expert judgment, asking the experts to 
 
-
 --- Page 46/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2018,7 +1973,6 @@ Categorical approaches ease country classification, but category cutoffs can shi
 with the distribution of scores in the dataset, as in the GDI and MLI. Indexes that 
 retain continuous scales, such as the MRMI index or GVI, provide richer detail 
 without fixed thresholds, but rely on index-defined benchmarks tied to countries’ 
-
 
 --- Page 47/81 ---
 
@@ -2055,7 +2009,6 @@ However, they offer little clarity on key details, such as the extent to which e
 data and subjective ratings are systematically validated, like the the GPI and DRI. 
 Among these, the MVI is the least specific, outlining three core dimensions but 
 
-
 --- Page 48/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2090,7 +2043,6 @@ treat composite indicators as heuristic tools that provide only an approximate
 indication of the multifaceted concept being measured. For this reason, most of 
 the indexes are accompanied by in-depth country summaries that provide more 
 
-
 --- Page 49/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2114,7 +2066,6 @@ indexes converge in their explanatory factors and country rankings and where
 their underlying assumptions or measurement strategies lead them to diverge. 
  
  
-
 
 --- Page 50/81 ---
 
@@ -2150,7 +2101,6 @@ similar outputs of the political information environment, though they use slight
 different methodological approaches. Second, we examine two indexes that 
 measure related or adjacent constructs. In principle, conceptual alignment should 
 
-
 --- Page 51/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2185,7 +2135,6 @@ disinformation campaigns but as the product of long-term structural factors such
 as political polarization, the strength of public broadcasting, institutional trust, 
 and the cohesion of the media system. 
  
-
 
 --- Page 52/81 ---
 
@@ -2263,7 +2212,6 @@ capture a country’s ability to resist or mitigate the spread of mis- and
 disinformation, both focus on structural indicators including education, media 
 systems, and internet access, and both provide generalized, actor-agnostic 
 
-
 --- Page 53/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2331,7 +2279,6 @@ scholars in early 2022. Color shading reflects relative rank within each index s
 indicates higher-ranking countries (towards the top of the distribution), and darker red indicates lower-
 ranking countries (towards the bottom of the distribution). 
 
-
 --- Page 54/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2366,7 +2313,6 @@ to +2, indicating substantial progress. This shift in measurement target explain
 why the correlation between the two editions is positive but imperfect (ρ = 0.74): 
 countries that were relatively resilient in 2021 tended to continue improving but 
 not uniformly. The FIMI index, by contrast, measures the structural conditions that 
-
 
 --- Page 55/81 ---
 
@@ -2446,7 +2392,6 @@ their position in the DRI 2021 edition. Color shading reflects relative rank wit
 green indicates higher-ranking countries (toward the top of the distribution), and darker red indicates lower-
 ranking countries (toward the bottom of the distribution). 
 
-
 --- Page 56/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2481,7 +2426,6 @@ different methodological approaches affect resulting estimates in meaningful
 ways. When multiple indexes converge on a similar assessment despite different 
 inputs or theoretical frameworks, that alignment points to underlying explanatory 
 
-
 --- Page 57/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2503,7 +2447,6 @@ producing outright contradictions. These differences are not anomalies to be
 corrected but design features that require careful interpretation. 
  
  
-
 
 --- Page 58/81 ---
 
@@ -2538,7 +2481,6 @@ independence and freedom, institutional trust, political and social
 polarization, education and literacy-related capacities, governance 
 quality, and regulatory or accountability safeguards. The recurrence of 
 these factors across different designs suggests that they are widely 
-
 
 --- Page 59/81 ---
 
@@ -2575,7 +2517,6 @@ and theoretically integrated approaches can be developed.
  
  
 
-
 --- Page 60/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2608,7 +2549,6 @@ differences that partly reflect differences in interpretation or reporting rathe
 differences in the underlying information problem. Reliance primarily on 
 subjective indicators can also introduce inconsistencies into cross-country 
 comparisons, as interpretation and expert judgment may vary across contexts.  
-
 
 --- Page 61/81 ---
 
@@ -2643,7 +2583,6 @@ Evidence from political communication research suggests that susceptibility and
 resilience can fluctuate in response to elite cues, crisis events, media-system 
 shocks, threat environments, and changes in platform governance, yet few 
 indexes are designed to track change over time. Instead, they rely heavily on 
-
 
 --- Page 62/81 ---
 
@@ -2680,7 +2619,6 @@ recommendation and moderation systems can shift what citizens encounter,
 allow fringe actors to reach large audiences, and reduce the amount of shared 
 news and facts across the public. 
 
-
 --- Page 63/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2715,7 +2653,6 @@ differing research purposes and design choices.
 First, future work should clarify the conceptual foundations of its approaches. 
 This would include developing agreed-upon frameworks that either distinguish 
 among or deliberately merge different forms of mis- and disinformation while 
-
 
 --- Page 64/81 ---
 
@@ -2752,7 +2689,6 @@ periods of crisis, which could capture short-term dynamics that cross-sectional
 snapshots tend to miss. More balanced geographic coverage would also require 
 index designs that employ indicators that are adaptable to data-sparse contexts, 
 
-
 --- Page 65/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2787,7 +2723,6 @@ to understanding audience susceptibilities and responses; and content- or
 narrative-based approaches are most relevant for operational monitoring of 
 actors, messages, and amplification dynamics. Clarifying intended use helps avoid 
 misinterpretation and supports better comparison of tools. Transferability to a 
-
 
 --- Page 66/81 ---
 
@@ -2824,7 +2759,6 @@ unusable.
 The GDI represents a different form of adaptability grounded in technical 
 extensibility. Its pipeline of machine-learning detection combined with human 
 
-
 --- Page 67/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2858,7 +2792,6 @@ in the structural conditions and observable information problems shaping
 political information environments. This diversity of purposes and designs is a 
 strength—but it also explains why cross-index comparisons require careful 
 attention to scope, assumptions, and measurement choices.
-
 
 --- Page 68/81 ---
 
@@ -2895,7 +2828,6 @@ as complementary diagnostics rather than interchangeable measures. Without a
 shared measurement model that specifies constructs, layers, and causal 
 assumptions, it becomes difficult to compare results or interpret divergence 
 
-
 --- Page 69/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2930,7 +2862,6 @@ assumptions and indicator selection.
 Toward a Unified and Coherent Measurement Architecture 
 Despite the variation and divergence issues, several domains appear consistently 
 across indexes: media independence, institutional trust, polarization, literacy and 
-
 
 --- Page 70/81 ---
 
@@ -2967,7 +2898,6 @@ A practical way to improve coherence is to combine a shared core of broadly
 relevant dimensions with layered, context-specific modules. A common core can 
 support cross-national comparability, while modules can address variation in 
 
-
 --- Page 71/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -2999,7 +2929,6 @@ pressures on political information environments around the world grow, the need
 for coherent, comprehensive measurement will only increase. Indexing is one 
 approach that can effectively address this need. 
  
-
 
 --- Page 72/81 ---
 
@@ -3035,7 +2964,6 @@ resilience-building; avoid treating index outputs as justification for
 censorship or the suppression of legitimate dissent.  
  
  
-
 
 --- Page 73/81 ---
 
@@ -3090,7 +3018,6 @@ groups. An interdisciplinary literature review," Apr 30, 2020. [Online]. Availab
 https://royalsociety.org/-/media/policy/projects/online-information-environment/oie-
 the-information-environment.pdf 
 
-
 --- Page 74/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -3144,7 +3071,6 @@ for one?," Rivista Italiana di Economia, Demografia e Statistica – The Italian
 Economic, Demographic and Statistical Studies, vol. 67, no. 2, pp. 67–80, 2013. 
 [28] OECD, Handbook on Constructing Composite Indicators: Methodology and User Guide. 
 Paris: OECD Publishing, 2008. 
-
 
 --- Page 75/81 ---
 
@@ -3202,7 +3128,6 @@ _-_cic_report_september_2024.pdf
 and research," ETH Zürich, Risk and Resilience Research Group, Center for Security 
 Studies (CSS), 2011.  
 
-
 --- Page 76/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -3252,7 +3177,6 @@ review-of-good-practices
 Politics, vol. 57, no. 2, pp. 149–161, 2024, doi: 10.1017/s104909652300063x. 
  
 
-
 --- Page 77/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -3295,7 +3219,6 @@ https://doi.org/10.5167/uzh-182652
  
  
  
-
 
 --- Page 78/81 ---
 
@@ -3341,7 +3264,6 @@ and Vulnerability to Misinformation and Disinformation in Political Information
 Environments: A Comparative Review of Ten Indexes,” Zurich, Switzerland: IPIE, 
 2026. Technical Paper, TR2026.1, doi: 10.61452/MBPE3349. 
 
-
 --- Page 79/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -3373,7 +3295,6 @@ This work is licensed under an Attribution-NonCommercial-ShareAlike 4.0
 International (CC BY-NC-SA 4.0) 
  
 
-
 --- Page 80/81 ---
 
 Resilience and Vulnerability to Misinformation 
@@ -3395,7 +3316,6 @@ For more information, please contact the International Panel on the Information
 Environment (IPIE), secretariat@IPIE.info. Seefeldstrasse 123, P.O. Box 8034, 
 Zurich, Switzerland. 
 
-
 --- Page 81/81 ---
 
 International Panel on
@@ -3411,18 +3331,12 @@ Switzerland
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
-- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
-- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
-
 
 İlgili kavram: [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]

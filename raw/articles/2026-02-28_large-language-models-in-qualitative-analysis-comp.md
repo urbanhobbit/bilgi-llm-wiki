@@ -44,6 +44,5 @@ Türkiye'de nitel sağlık araştırması (hasta deneyimi, göçmen sağlığı,
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]

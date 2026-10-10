@@ -39,9 +39,7 @@ Yapay zeka destekli seçim dezenformasyonu, Türkiye'de demokratik süreçlerin 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_404-sayfa-bulunamad-t24.md|404 - Sayfa Bulunamadı | T24]]
 - [[raw/articles/2026-06-26_article-from-t24-com-tr-kahramanmarasta-okulda-sil.md|Article from t24.com.tr: kahramanmarasta okulda si]]

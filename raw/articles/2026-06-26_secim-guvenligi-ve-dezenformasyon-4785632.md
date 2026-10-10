@@ -37,8 +37,6 @@ Türkiye, jeopolitik konumu itibarıyla uluslararası gelişmelerden doğrudan e
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 📄 Aynı Kaynaktan
 - [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-kahramanmarasta-o.md|Article from www.hurriyet.com.tr: kahramanmarasta ]]
 - [[raw/articles/2026-06-26_article-from-www-hurriyet-com-tr-secim-guvenligi-v.md|Article from www.hurriyet.com.tr: secim guvenligi ]]
