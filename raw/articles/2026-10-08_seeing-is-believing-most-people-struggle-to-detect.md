@@ -57,8 +57,11 @@ Social Media + Society 12(4), 8 Ekim 2026'da çevrimiçi yayımlanan, ön-kayıt
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/synthetic-media-ai-content.md|Synthetic Media and AI-Generated Content (Sentetik Medya ve Yapay Zeka İçeriği)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_new-york-times-ai-election-disinformation-study-ac.md|New York Times: AI Election Disinformation Study - Academic Research Analysis]]
+- [[raw/articles/2026-07-29_harvard-misinformation-review-instagram-da-n-bilgi.md|Harvard Misinformation Review: Instagramda Ön Bilgilendirme ve Dezenformasyonla Mücadele]]
