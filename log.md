@@ -1032,3 +1032,9 @@
 - Source files: 2026-10-10_ejpr-discrete-emotions-affective-polarization-selfcensorship.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-09_meet-qwen-image-2-1-turbo-create-and-edit-images-i.md]] — Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!
+- Raw: [[raw/articles/2026-10-10_agentic-knowledge-graphs-kursu-viral-x-i-ddias-n-n.md]] — Agentic Knowledge Graphs Kursu: Viral X İddiasının Doğrulaması (DeepLearning.AI / Neo4j / Google ADK)
+- Source files: 2026-10-11_agentic-knowledge-graphs-claim-check.json, 2026-10-11_000926_ingestion.json
+- Agent: OKF Ingestion Pipeline
+
