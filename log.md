@@ -1038,3 +1038,8 @@
 - Source files: 2026-10-11_agentic-knowledge-graphs-claim-check.json, 2026-10-11_000926_ingestion.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-08_seeing-is-believing-most-people-struggle-to-detect.md]] — Seeing Is Believing? Most People Struggle to Detect AI-Generated Images
+- Source files: 2026-10-11_hove-ai-generated-images-discernment-sms.json
+- Agent: OKF Ingestion Pipeline
+

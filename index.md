@@ -378,4 +378,5 @@
 - [[raw/articles/2026-10-08_powered-by-discrete-emotions-the-consequences-of-a.md|Powered by (discrete) emotions? The consequences of affective polarization for self-censorship and outgroup silencing]]
 - [[raw/articles/2026-10-09_meet-qwen-image-2-1-turbo-create-and-edit-images-i.md|Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!]]
 - [[raw/articles/2026-10-10_agentic-knowledge-graphs-kursu-viral-x-i-ddias-n-n.md|Agentic Knowledge Graphs Kursu: Viral X İddiasının Doğrulaması (DeepLearning.AI / Neo4j / Google ADK)]]
+- [[raw/articles/2026-10-08_seeing-is-believing-most-people-struggle-to-detect.md|Seeing Is Believing? Most People Struggle to Detect AI-Generated Images]]
 
