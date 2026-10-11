@@ -229,3 +229,24 @@ Aşağıdaki çalışmalar bu sayının havuzuna girmiş ancak yukarıdaki üç 
 Bu sayı, 4 – 10 Ekim 2026 diliminde `processed_links/` altına düşen `*_categorized.json` dosyaları (2026-10-04, 2026-10-04 batch2, 2026-10-08, 2026-10-08 batch2, 2026-10-09, 2026-10-10) ile bu en yeni categorized dosyadan sonra yazılan per-link `YYYY-MM-DD_<konu>.json` dosyalarının birleştirilmesiyle oluşturulmuştur. Yinelenen kayıtlar başlık normalizasyonu ve DOI ile ayıklandı; önceki iki sayıda (2026-10-03, 2026-10-05) derlenen üç kayıt bu sayıya alınmadı.
 
 **Scrapling testi (2026-10-10):** 14 URL, 9 bloklu (%64). Bloklu: papers.ssrn.com (403), tandfonline.com (403), academic.oup.com (403), press.princeton.edu (403), cabidigitallibrary.org (403), researchdesignreview.com (403), pnas.org (403), osf.io ×2 (200 ama ~3 karakter JS duvarı). Erişilebilir: link.springer.com ×3, arxiv.org, cambridge.org. Blok oranı %50'nin üzerinde olduğundan **metadata tabanlı sınıflandırma modu** uygulanmıştır (Crossref/OpenAlex + satır-içi tam metin). Hiçbir özet veya künye uydurulmamıştır; erişilemeyen kaynakların künyesi DOI/Crossref kaydına, özetleri kaynak metnine dayanmaktadır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
