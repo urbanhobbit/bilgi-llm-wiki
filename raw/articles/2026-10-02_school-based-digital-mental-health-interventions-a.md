@@ -62,5 +62,15 @@ Journal of Child & Adolescent Mental Health dergisinde 2 Ekim 2026'da çevrimiç
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_bbc-children-s-digital-safety-and-online-learning.md|BBC - Children's Digital Safety and Online Learning]]
+- [[raw/articles/2026-06-26_digital-rights-guidelines-update-2026.md|Digital Rights Guidelines Update 2026]]
+- [[raw/articles/2026-07-16_doctor-commentary-on-kids-social-media-screen-time.md|Doctor commentary on kids social media screen time law | WCVB]]
