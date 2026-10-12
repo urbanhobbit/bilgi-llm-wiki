@@ -42,7 +42,7 @@ Political Behavior'da 6 Ekim 2026'da yayımlanan makale, ABD kamuoyunda demokras
 - Ölçüm: yaygın soyut destek maddeleri tek bir gizil yapıya yakınsıyor; yapı iki yıllık sürede yüksek sıralama-koruma istikrarı + anlamlı kişi-içi varyasyon gösteriyor.
 - Yordayıcılık: soyut destek, seçimsel ve liberal demokratik ihlallere açıklığı negatif; anti-demokratik adayları seçimde cezalandırma olasılığını pozitif yordar.
 - Panel kanıtı: soyut destekteki kişi-içi olumlu sapmalar, otoriter yönetişime açıklıktaki kişi-içi olumsuz sapmalardan önce geliyor (destek → sonraki tutum değişimi).
-- Politika/araştırma önerisi: soyut destek ayrı bir tutum yapısı sayılmalı, çok maddeli ölçeklerle ölçülmeli, nedensel anlamı test edilmeli.
+- Politika ve araştırma yöntemleri önerisi: soyut destek ayrı bir tutum yapısı sayılmalı, çok maddeli ölçeklerle ölçülmeli, nedensel anlamı test edilmeli.
 - Kuramsal katkı: demokratik gerileme ve restorasyonda ABD kamuoyunun rolünü anlamak için soyut desteğin ciddiye alınması gerektiği; değerin kendisi (demokrasi) kamuoyunda tartışmalı.
 
 ## Turkey Context
@@ -63,8 +63,6 @@ Political Behavior'da 6 Ekim 2026'da yayımlanan makale, ABD kamuoyunda demokras
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
-- [[concepts/siyasal-katilim.md|Siyasal Katılım]]
-- [[concepts/affective-polarisation.md|Affective Polarisation (Duygusal Kutuplaşma)]]
 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]

@@ -62,3 +62,8 @@ The British Journal of Sociology'de 11 Ekim 2026'da çevrimiçi yayımlanan kura
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2021-06-07_the-nature-of-affective-polarization-disentangling.md|The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity]]
+- [[raw/articles/2008-04_is-polarization-a-myth-abramowitz-saunders-the-jou.md|Is Polarization a Myth? — Abramowitz & Saunders (The Journal of Politics, 2008)]]
+- [[raw/articles/2025-12-15_partisan-polarization-in-local-politics-de-benedic.md|Partisan Polarization in Local Politics — de Benedictis-Kessner, Einstein, vd.]]
