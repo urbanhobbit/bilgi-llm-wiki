@@ -1043,3 +1043,8 @@
 - Source files: 2026-10-11_hove-ai-generated-images-discernment-sms.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-02_school-based-digital-mental-health-interventions-a.md]] — School-based digital mental health interventions: A scoping review
+- Source files: 2026-10-12_school-based-digital-mental-health-scoping-review.json
+- Agent: OKF Ingestion Pipeline
+
