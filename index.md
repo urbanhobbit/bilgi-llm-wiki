@@ -382,4 +382,5 @@
 - [[raw/articles/2026-10-08_seeing-is-believing-most-people-struggle-to-detect.md|Seeing Is Believing? Most People Struggle to Detect AI-Generated Images]]
 - [[raw/articles/2026-10-02_school-based-digital-mental-health-interventions-a.md|School-based digital mental health interventions: A scoping review]]
 - [[raw/articles/2026-10-06_questionnaire-democrats-reconsidering-the-relevanc.md|Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public]]
+- [[raw/articles/2026-10-11_the-symbolic-organisation-of-political-antagonism-.md|The Symbolic Organisation of Political Antagonism: An Integrative Model of Cultural and Social Polarisation]]
 

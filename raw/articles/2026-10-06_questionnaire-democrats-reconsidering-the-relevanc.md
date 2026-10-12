@@ -59,5 +59,17 @@ Political Behavior'da 6 Ekim 2026'da yayımlanan makale, ABD kamuoyunda demokras
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]]
+- [[concepts/affective-polarisation.md|Affective Polarisation (Duygusal Kutuplaşma)]]
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-08-29_cool-citizens-how-affectively-unpolarized-citizens.md|Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Politics]]
+- [[raw/articles/2026-10-07_un-priming-politics-a-method-to-reduce-overreporti.md|Un-Priming Politics: A Method to Reduce Overreporting of Political Engagement]]
+- [[raw/articles/2026-10-06_what-works-against-populist-rhetoric-the-effects-o.md|What Works Against Populist Rhetoric? The Effects of Counter-Arguments]]

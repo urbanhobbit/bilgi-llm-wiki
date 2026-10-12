@@ -1061,3 +1061,8 @@
 - Source files: 2026-10-12_questionnaire-democrats-abstract-democracy-support.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-11_the-symbolic-organisation-of-political-antagonism-.md]] — The Symbolic Organisation of Political Antagonism: An Integrative Model of Cultural and Social Polarisation
+- Source files: 2026-10-12_symbolic-organisation-of-political-antagonism-bjs.json
+- Agent: OKF Ingestion Pipeline
+
