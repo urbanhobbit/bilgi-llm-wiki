@@ -381,4 +381,5 @@
 - [[raw/articles/2026-10-10_agentic-knowledge-graphs-kursu-viral-x-i-ddias-n-n.md|Agentic Knowledge Graphs Kursu: Viral X İddiasının Doğrulaması (DeepLearning.AI / Neo4j / Google ADK)]]
 - [[raw/articles/2026-10-08_seeing-is-believing-most-people-struggle-to-detect.md|Seeing Is Believing? Most People Struggle to Detect AI-Generated Images]]
 - [[raw/articles/2026-10-02_school-based-digital-mental-health-interventions-a.md|School-based digital mental health interventions: A scoping review]]
+- [[raw/articles/2026-10-06_questionnaire-democrats-reconsidering-the-relevanc.md|Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public]]
 

@@ -1056,3 +1056,8 @@
 - Source files: 2026-10-12_school-based-digital-mental-health-scoping-review.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-06_questionnaire-democrats-reconsidering-the-relevanc.md]] — Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public
+- Source files: 2026-10-12_questionnaire-democrats-abstract-democracy-support.json
+- Agent: OKF Ingestion Pipeline
+
