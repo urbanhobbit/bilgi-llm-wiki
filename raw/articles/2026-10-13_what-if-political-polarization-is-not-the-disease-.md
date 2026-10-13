@@ -34,12 +34,13 @@ Thomas B. Edsall'un 13 Ekim 2026 tarihli NYT Opinion yazısı, ABD'de akademi i�
 - Asimetri tezi: Irk/kadın/LGBTİ+ kazanımlarına karşı etnonasyonalist tepki Cumhuriyetçi Parti üzerinden orantısız güç kazandı; 'both sides' teşhisi bu asimetriyi örter.
 - Törnberg (Amsterdam): 'It's Not Polarization; It's the Radicalization of the Political Right' (Tem 2026) — kriz karşılıklı uzaklaşmadan değil sağın tek taraflı dönüşümünden; 'tarafsızlık iddiası' politik olarak nötr değil, bir sorumluluk terkidir.
 - Lelkes (Penn) 'Goldilocks': az kutuplaşma fikir çeşitliliğini ve ilerleme için gereken öfkeyi bastırır; çok kutuplaşma bugünkü sorunları üretir. Hitler/Franco/Mussolini öncesi ortak payda: ana akım aktörlerin otoriter hareketleri muhaliflerinden daha az tehdit görmesi.
-- Grossmann (MSU): Demokratlar iktidarı kazanırsa kamuoyundaki termostatik liberal eğilimi aşırı yönetim fırsatı sanmamalı; Grossmann'a göre bu tartışmayı ahlaki bir yükle okuma eğilimi, akademide demokratik gerileme (democratic backsliding) konusundaki yaygın kaygıdan besleniyor. Biden dönemindeki göç/ırksal adalet eksenli karşı-eğilimler (ahlaken haklı olsa da) Trump'ın dönüşüne katkı verdi.
+- Grossmann (MSU): Demokratlar iktidarı kazanırsa kamuoyundaki termostatik liberal eğilimi aşırı yönetim fırsatı sanmamalı. Grossmann'a göre bu tartışmayı ahlaki bir yükle okuma eğilimi, akademide demokratik gerileme (democratic backsliding) konusundaki yaygın kaygıdan besleniyor; Biden dönemindeki göç/ırksal adalet eksenli karşı-eğilimler (ahlaken haklı olsa da) Trump'ın dönüşüne katkı verdi.
 - Hetherington (UNC): Kutuplaşma partiler arası ayrışmanın ekonomik boyuttan 'ırksal-sosyal-kültürel değişim' boyutuna kaymasının ürünü; hak devrimlerinin kazanımları kutuplaşmanın maliyetine değer.
-- Zimmer (Georgetown) — sağın siyasal aşırılığı/radikalleşmesi (political extremism) teşhisinin merkezinde: 'Polarizasyon anlatısı' ABD'yi gerileme hikâyesi olarak kurup savaş sonrası konsensüsü mitolojikleştiriyor; o konsensüs beyaz erkek elitlerin ayrımcı düzeni koruma uzlaşmasıydı — 'kutuplaşma, çok ırklı çoğulculuğa doğru gerçek ilerlemenin bedelidir'.
+- Zimmer (Georgetown): Sağın siyasal aşırılığı/radikalleşmesi (political extremism) teşhisinin merkezinde — 'Polarizasyon anlatısı' ABD'yi gerileme hikâyesi olarak kurup savaş sonrası konsensüsü mitolojikleştiriyor; o konsensüs beyaz erkek elitlerin ayrımcı düzeni koruma uzlaşmasıydı — 'kutuplaşma, çok ırklı çoğulculuğa doğru gerçek ilerlemenin bedelidir'.
 - Karşı kutup: Conti (Princeton) & Sibarium (Washington Free Beacon), 6 Ekim 2026, 'How Woke 1 Radicalized the GOP' — Trump II'nin radikalizmi 'Peak Woke'a verilen tepkidir; 'woke'luk konsensüsü çözdü.
-- Lowande (Rice): Mason'ın 'iyi/kötü, övülmeli/suçlanmalı' çerçevesi ve savunuculuğu bilimsel güvenilirliği zedeler; akademinin üstünlüğü soğukkanlı inceleme. Wronski'ye göre Mason'un beklentisi, çoğulcu demokrasiyi destekleyenlerin sesini yükseltmeye devam etmesi (siyasal katılım).
-- Lowande (Rice) ve akademide bilim–siyaset ilişkisi: Mason'ın 'iyi/kötü, övülmeli/suçlanmalı' çerçevesi ve savunuculuğu, bilimin siyasallaşması (politicization of science) ve bilim insanına duyulan güven tartışmasını alevlendiriyor; Lowande'a göre akademinin üstünlüğü soğukkanlı inceleme.
+- Wronski (Ole Miss): Mason'ın savunuculuğu kutuplaşmanın teşhis kapasitesine dayanıyor; Mason'un beklentisi, çoğulcu demokrasiyi destekleyenlerin sesini yükseltmeye ve siyasal katılımı sürdürmeye devam etmesi — bu kısa vadede kutuplaşmayı beslese bile.
+- Lowande (Rice) ve akademide bilim–siyaset ilişkisi: Mason'ın 'iyi/kötü, övülmeli/suçlanmalı' çerçevesi ve savunuculuğu, bilimin siyasallaşması (politicization of science) ve bilim insanına duyulan güven tartışmasını alevlendiriyor; Lowande'a göre akademinin karşılaştırmalı üstünlüğü soğukkanlı inceleme, savunuculuk ise güvenilirliği zedeliyor.
+- Westwood'un (Dartmouth) eleştirisi: Kutuplaşmayı meşru göstermek için 'iyi partinin kötü partiyi şeytanlaştırması' gerekçesi kabul edilemez — bu, tezin kendi ahlaki öncülünü çürütür.
 - Pratik sonuç: Yazara göre bu akademik tartışma 'üç hafta içinde' (ABD ara seçimleri yaklaşırken) Demokratların iktidarda ne kadar agresif davranacağına dair gerçek dünya sonuçları doğuracak.
 
 ## Turkey Context
@@ -52,5 +53,13 @@ Thomas B. Edsall'un 13 Ekim 2026 tarihli NYT Opinion yazısı, ABD'de akademi i�
 ### 🧠 İlgili Kavramlar
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/ideolojik-asirilik.md|İdeolojik Aşırılık]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/new-york-times.md|New York Times]]
+- [[entities/journalofdemocracy.md|Journal of Democracy]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-12_evolution-by-national-election-partisanship-voting.md|Evolution by national election? Partisanship, voting behavior, and sentiments toward culture war groups (Kane ve ark., Politics, Groups, and Identities)]]
