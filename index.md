@@ -383,4 +383,6 @@
 - [[raw/articles/2026-10-02_school-based-digital-mental-health-interventions-a.md|School-based digital mental health interventions: A scoping review]]
 - [[raw/articles/2026-10-06_questionnaire-democrats-reconsidering-the-relevanc.md|Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public]]
 - [[raw/articles/2026-10-11_the-symbolic-organisation-of-political-antagonism-.md|The Symbolic Organisation of Political Antagonism: An Integrative Model of Cultural and Social Polarisation]]
+- [[raw/articles/2026-10-12_evolution-by-national-election-partisanship-voting.md|Evolution by national election? Partisanship, voting behavior, and sentiments toward culture war groups]]
+- [[raw/articles/2026-10-13_what-if-political-polarization-is-not-the-disease-.md|What if Political Polarization Is Not the Disease but the Cure? (NYT Guest Essay / Thomas B. Edsall)]]
 

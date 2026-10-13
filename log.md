@@ -1066,3 +1066,9 @@
 - Source files: 2026-10-12_symbolic-organisation-of-political-antagonism-bjs.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-12_evolution-by-national-election-partisanship-voting.md]] — Evolution by national election? Partisanship, voting behavior, and sentiments toward culture war groups
+- Raw: [[raw/articles/2026-10-13_what-if-political-polarization-is-not-the-disease-.md]] — What if Political Polarization Is Not the Disease but the Cure? (NYT Guest Essay / Thomas B. Edsall)
+- Source files: 2026-10-13_nytimes-edsall-polarization-disease-or-cure.json, 2026-10-13_evolution-by-national-election-culture-war-groups.json
+- Agent: OKF Ingestion Pipeline
+
