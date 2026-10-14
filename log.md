@@ -1087,3 +1087,8 @@
 - Source files: 2026-10-14_copenhagen-manual-information-operations-ims.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times-polit.md]] — Partisan Wishful Thinking in Polarized Times (Political Behavior, Seth Warner)
+- Source files: 2026-10-14_partisan-wishful-thinking-in-polarized-times.json
+- Agent: OKF Ingestion Pipeline
+
