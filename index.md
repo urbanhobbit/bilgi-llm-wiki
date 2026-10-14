@@ -387,4 +387,5 @@
 - [[raw/articles/2026-10-13_what-if-political-polarization-is-not-the-disease-.md|What if Political Polarization Is Not the Disease but the Cure? (NYT Guest Essay / Thomas B. Edsall)]]
 - [[raw/articles/2026-10-13_deliberation-within-ai-a-reproducible-pipeline-for.md|Deliberation Within AI: A Reproducible Pipeline for Multi-Agent Deliberation Simulation]]
 - [[raw/articles/2026-10-13_challenges-of-re-democratisation-and-conflicting-l.md|Challenges of re-democratisation and conflicting logics of polarisation: the case of Poland's 2025 presidential elections]]
+- [[raw/articles/2026-10_the-copenhagen-manual-recognising-and-responding-t.md|The Copenhagen Manual: Recognising and responding to information operations — A media playbook for patterns, vulnerabilities, and prebunking (International Media Support)]]
 

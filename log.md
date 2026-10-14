@@ -1082,3 +1082,8 @@
 - Source files: 2026-10-14_poland-2025-presidential-elections-re-democratisation-polarisation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10_the-copenhagen-manual-recognising-and-responding-t.md]] — The Copenhagen Manual: Recognising and responding to information operations — A media playbook for patterns, vulnerabilities, and prebunking (International Media Support)
+- Source files: 2026-10-14_copenhagen-manual-information-operations-ims.json
+- Agent: OKF Ingestion Pipeline
+
