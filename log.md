@@ -1072,3 +1072,8 @@
 - Source files: 2026-10-13_nytimes-edsall-polarization-disease-or-cure.json, 2026-10-13_evolution-by-national-election-culture-war-groups.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-13_deliberation-within-ai-a-reproducible-pipeline-for.md]] — Deliberation Within AI: A Reproducible Pipeline for Multi-Agent Deliberation Simulation
+- Source files: 2026-10-14_deliberation-within-ai-multi-agent-deliberation-simulation.json
+- Agent: OKF Ingestion Pipeline
+
