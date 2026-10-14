@@ -1077,3 +1077,8 @@
 - Source files: 2026-10-14_deliberation-within-ai-multi-agent-deliberation-simulation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-13_challenges-of-re-democratisation-and-conflicting-l.md]] — Challenges of re-democratisation and conflicting logics of polarisation: the case of Poland's 2025 presidential elections
+- Source files: 2026-10-14_poland-2025-presidential-elections-re-democratisation-polarisation.json
+- Agent: OKF Ingestion Pipeline
+
