@@ -64,5 +64,9 @@ East European Politics dergisinde 13 Ekim 2026'da çevrimiçi yayımlanan makale
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Measurement Instruments)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis Online (tandfonline.com)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-02_dimensions-of-division-structuring-ideological-pol.md|Dimensions of Division: Structuring Ideological Polarization During Poland's Democratic Backsliding (SocArXiv preprint)]]
