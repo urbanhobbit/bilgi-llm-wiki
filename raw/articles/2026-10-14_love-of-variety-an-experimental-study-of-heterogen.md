@@ -39,7 +39,7 @@ Political Science Research and Methods dergisinde 14 Ekim 2026'da açık erişim
 - Tasarım: çevrimiçi alışveriş deneyi; katılımcılar marka kökeni açıkça söylenmeden Amerikan (kontrol), Avrupa veya Asya markalı SUV'ları karşılaştırıyor; 3.299 ABD'li yetişkin, CloudResearch, Ekim-Kasım 2022 (~1,50 USD katılım ücreti).
 - Kapak hikâyesi: çalışma 'büyük biletli satın alma kararları ve online alışveriş alışkanlıkları' olarak sunuldu; katılımcılar deney olduğunu yalnızca debriefing'de öğrendi (talep özellikleri/demand characteristics minimize edildi).
 - H1 (Milliyetçiler): yabancı markaya maruz kalanlar, yerliye kıyasla neomercantilist ve nativist politikaları ve sağ-popülist adayları daha fazla destekler. H2 (Kozmopolitler): ters yönde ya da etkisiz.
-- Bulgular: yabancı SUV'lar milliyetçilerde ticarete karşı olumsuz tutumu, kısıtlayıcı göç politikası desteğini ve Trump desteğini artırdı; kozmopolitlerde etkisiz ya da ters yönlü hareket.
+- Bulgular: yabancı SUV'lar milliyetçilerde ticarete karşı olumsuz tutumu, kısıtlayıcı göç politikası desteğini ve Trump desteğini (popülist oy desteği) artırdı; kozmopolitlerde etkisiz ya da ters yönlü hareket.
 - Partizanlığa indirgenemezlik: en keskin ayrışma parti İÇİNDE — yüksek milliyetçi Cumhuriyetçiler ile Demokratlar/bağımsızlar benzer dışlayıcı tepki verirken, kozmopolit Cumhuriyetçiler kısıtlayıcı göç ve Trump desteğini AZALTARAK ters yöne hareket ediyor; kozmopolit Demokratlar/bağımsızlar ise hafifçe daha fazla ticaret şüphecisi oluyor.
 - Havuzlanmış örneklemde etkiler sıfır/mütevazı ve anlamsız — asıl bulgu heterojenlik: ortalamalar kimlik-kosullu ayrışmayı gizliyor.
 - Yöntem/sağlamlık: iki spesifikasyon (ham OLS + gözlenen ortak değişkenlerle koşullandırılmış); anket ağırlıkları kullanılıyor.
@@ -65,5 +65,12 @@ Political Science Research and Methods dergisinde 14 Ekim 2026'da açık erişim
 ### 🧠 İlgili Kavramlar
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/populist-oylama.md|Popülist Oylama]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi (Research Methods)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Measurement Instruments)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-06_affective-polarization-and-the-support-for-populis.md|Affective polarization and the support for populist and technocratic governance]]
+- [[raw/articles/2026-07-22_identity-threat-personal-values-and-political-atti.md|Identity threat, personal values, and political attitudes: Evidence from a survey experiment]]
