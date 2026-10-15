@@ -64,4 +64,4 @@ ABD'de duygusal kutuplaşmanın (affective polarization) sosyal sonuçlarını �
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/ssrn.md|Ssrn]]
+- [[entities/ssrn.md|SSRN (Social Science Research Network)]]
