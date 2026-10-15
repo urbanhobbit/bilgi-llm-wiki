@@ -1104,3 +1104,8 @@
 - Source files: 2026-10-15_120930_ingestion.json, 2026-10-15_good-childhood-2026-hkbu-echo-chambers.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-15_power-partisanship-and-affective-polarization-gott.md]] — Power, Partisanship, and Affective Polarization (Gottlieb, Kelly & Meng)
+- Source files: 2026-10-15_power-partisanship-affective-polarization.json
+- Agent: OKF Ingestion Pipeline
+
