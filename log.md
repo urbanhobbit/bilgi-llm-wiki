@@ -1092,3 +1092,8 @@
 - Source files: 2026-10-14_partisan-wishful-thinking-in-polarized-times.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-14_love-of-variety-an-experimental-study-of-heterogen.md]] — Love of variety? An experimental study of heterogeneous responses to foreign brands in the marketplace (PSRM, Gonzalez-Rostani & Hays)
+- Source files: 2026-10-14_love-of-variety-foreign-brands-experiment-psrm.json
+- Agent: OKF Ingestion Pipeline
+
