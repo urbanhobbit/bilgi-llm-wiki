@@ -1098,7 +1098,7 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-10-15] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times.md]] — Partisan Wishful Thinking in Polarized Times
+- Raw: ~~2026-10-14_partisan-wishful-thinking-in-polarized-times.md~~ (mükerrer stub, 2026-10-15'te kaldırıldı — mevcut zengin sayfa: [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times-polit.md]])
 - Raw: [[raw/articles/2026-09-08_the-good-childhood-report-2026-the-children-s-soci.md]] — The Good Childhood Report 2026 (The Children's Society)
 - Raw: [[raw/articles/2026-08-28_from-echo-chambers-to-cross-boundary-diffusion-a-m.md]] — From Echo Chambers to Cross-Boundary Diffusion: A Multi-Level Model of Misinformation Circulation in Networked Public Discourse (HKBU doktora tezi, Shijun NI)
 - Source files: 2026-10-15_120930_ingestion.json, 2026-10-15_good-childhood-2026-hkbu-echo-chambers.json

@@ -63,6 +63,7 @@ Hong Kong Baptist University'de Shijun NI tarafından tamamlanan doktora tezi, d
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]

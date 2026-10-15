@@ -42,6 +42,7 @@ Birleşik Krallık'ta çocuk ve gençlerin öznel iyi oluşunu 15 yıldır izley
 - Güvenilen yetişkin açığı: genel olarak %8 aile dışında danışacak yetişkin bulamıyor; düşük iyi oluşlular arasında %21,7 (düşük iyi oluş bildirmeyenlerde %6,1) — iyi oluş ile destekleyici ilişki ağı arasında güçlü anlamlı ilişki.
 - Profesyonel anketi: 31 profesyonelden 26'sı çalıştıkları bölgelerde gençler için yeterli uygun mekân olmadığını düşünüyor — mekânsızlık aidiyetin yapısal engeli olarak ölçülüyor.
 - Politika önerisi çerçevesi: aidiyetin dört P'si — People (güvenilen yetişkinler), Places (uygun, erişilebilir, karşılanabilir mekânlar), Power (gençlerle birlikte tasarım/kodizayn ve karar süreçlerine ortaklık), Pathways (fırsat ve destek yolları).
+- Katılım boyutu: 'Power' ayağı, gençlerin yerel hizmet ve mekân tasarımına anlamlı katılımı (child participation) olarak işletiliyor — görüşlerinin dinlenmesi ve karşılık bulması aidiyetin ön koşulu sayılıyor.
 - Dijital gündem bağlantısı: sosyal medya yasak/sınırlamaları tartışmasında rapor kurallar yerine yerinde alternatiflerin gerekliliğini öne çıkarıyor — çocukların dijital hakları ve kısıtlama politikaları tartışmasına doğrudan ampirik girdi.
 - Yöntem ve şeffaflık: hane anketi 25. dalga (Nisan-Haziran 2026, ağırlıklı); Understanding Society verisi UK Data Service SN 6614, 21. baskı, DOI 10.5255/UKDA-SN-6614-22; genç danışmanların (Young Advisors) akran araştırması ve profesyonel anketi nitel veri olarak kullanılıyor.
 - Sınırlılık: Birleşik Krallık örneklemi; öznel iyi oluş ölçümleri ankete dayalı (öz-bildirim); hakemli dergi makalesi değil, savunuculuk yapan bir hayır kurumunun araştırma raporu — politika önerileri kurumsal konum içeriyor.
@@ -61,7 +62,8 @@ Birleşik Krallık'ta çocuk ve gençlerin öznel iyi oluşunu 15 yıldır izley
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
+- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılım]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
