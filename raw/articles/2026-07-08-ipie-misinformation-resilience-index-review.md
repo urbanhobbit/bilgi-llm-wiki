@@ -3340,3 +3340,5 @@ Switzerland
 - [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
 
 İlgili kavram: [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md|Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)]]

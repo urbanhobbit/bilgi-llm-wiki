@@ -62,3 +62,5 @@ Türkiye'de seçim dönemlerinde dezenformasyon izleme çoğunlukla merkezi kuru
 
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/misinforeview-hks-harvard-edu.md|Harvard Kennedy School Misinformation Review]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md|Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)]]

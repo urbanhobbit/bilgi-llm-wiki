@@ -38,7 +38,7 @@ Yeung ve Glasgow'un The Journal of Politics'te yayımlanan (DOI 10.1086/737780; 
 - Ana araştırma sorusu: marjinalleşmiş gruplara dair ırksallaşmış yanlış algıları düzeltmek önyargıyı azaltır mı? Literatürdeki 'olgusal düzeltme' (factual correction) müdahalelerinin etkinliği tartışmasına doğrudan müdahale: yanlış inancı düzeltmek ile önyargıyı azaltmak aynı şey değil.
 - Yöntem: ABD'de üç ÖN-KAYITLI (preregistered) anket deneyi, toplam n = 8.306 (iyi güçlendirilmiş/well-powered). Çalışma 1-2: refah vakası — katılımcılara 'siyah refah alıcılarının payı beyazlarınkinden düşüktür' bilgisi veriliyor. Çalışma 3: göç vakası — 'göçmenlerin suç oranı yerlilerinkinden düşüktür' bilgisi veriliyor.
 - BULGU 1 (algı): Bilgilendirici müdahaleler katılımcıların siyahlar ve göçmenler hakkındaki yanlış algılarını İSTATİSTİKSEL OLARAK ANLAMLI biçimde azaltıyor — yani insanlar yeni bilgiyi 'kabul ediyor'.
-- BULGU 2 (önyargı): Aynı müdahalelerin önyargı üzerindeki etkisi üç deneyin tamamında 'null to minuscule' (sıfırdan yok denecek kadar küçük) — önyargının çoklu ölçümlerinde kayda değer değişim yok.
+- BULGU 2 (önyargı): Aynı müdahalelerin dış-grup önyargısı (outgroup prejudice) üzerindeki etkisi üç deneyin tamamında 'null to minuscule' (sıfırdan yok denecek kadar küçük) — önyargının çoklu ölçümlerinde kayda değer değişim yok.
 - Kuramsal sonuç: makale 'olgusal düzeltmelerin etkinliğinin kapsam koşullarını' (scope conditions) aydınlatıyor; inanç-tutum ilişkisi (belief–attitude relationships) literatürüne katkı: yanlış inanç önyargının nedeni değilse, inancı düzeltmek önyargıyı değiştirmiyor. Politika iması: dezenformasyonla mücadelede yalnızca doğru bilgi sunmaya dayanan 'fact-check & correct' stratejilerinin önyargı ve nefret söylemi boyutunda sınırlı kalması.
 - Dolaşım bağlamı (tweet thread): @EddySFYeung, 16 Eki 2026 08:59 UTC, '1/ Very excited to share my latest publication, co-authored with Joey Glasgow (@j_glasgow_), at The Journal of Politics' + '2/ Can correcting racialized misperceptions about marginalized groups reduce prejudice? We examine this question using the cases of welfare and immigration in the US.' Tweetin ekli görseli makalenin ilk sayfasıdır (başlık + yazarlar + abstract) ve görselden okunan abstract, yazarın kendi sitesindeki (eddy-yeung.github.io/research) metinle birebir aynıdır.
 - Kapsam koşulları ve literatür konumu: bulgu, düzeltmenin işe yaradığı durumların sınırlı olduğunu gösteriyor; sosyal medyada karşıt bilgiye maruz kalmanın ılımlılaştırıcı olmadığı yönündeki deneysel literatürle (Bail ve ark. 2018 tarzı) aynı hatta duruyor — 'yanlış inanç düzeltilebilir, önyargı düzelmez'.
@@ -60,7 +60,12 @@ Yeung ve Glasgow'un The Journal of Politics'te yayımlanan (DOI 10.1086/737780; 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/media-literacy-fact-checking.md|Medya Okuryazarlığı ve Teyit (Fact-Checking)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-uchicago-edu.md|Journals Uchicago Edu]]
+- [[entities/journals-uchicago-edu.md|University of Chicago Press — Journals (The Journal of Politics)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|Resilience and Vulnerability to Misinformation and Disinformation in Political Information Environments: A Comparative Review of Ten Indexes]]
+- [[raw/articles/2026-08-27_monitoring-misinformation-building-discernment-a-c.md|Monitoring misinformation, building discernment: A crowdsourcing study during the 2025 Australian federal election]]
