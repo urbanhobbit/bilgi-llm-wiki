@@ -46,7 +46,7 @@ UNICEF Innocenti (Ofis: Office of Strategy and Evidence) tarafından 9 Ekim 2026
 
 ## Turkey Context
 
-1) Politika boşluğu doğrudan Türkiye'yi ilgilendiriyor: yazının en sert tespiti — ulusal yapay zekâ stratejilerinde çocuk haklarına ilginin sınırlı kalması — Türkiye için de geçerli görünüyor; 2025-2030 Dijital Dönüşüm Stratejisi'nde çocuk hakları boyutu ayrı bir başlık olarak yer almıyor. 2) Katılım açığı test edilebilir: yazıya göre sorun 'çocuklar hakkında çocuklarsız karar alınması'. Türkiye'de MEB, BTK ve TBMM dijital düzenleme süreçlerinde çocuk katılımı mekanizması (çocuk meclisleri dışında) sistematik değil; UNICEF Innocenti'nin 2025 danışma modeli (odak grupları + öngörü atölyeleri) Türkiye'de de uygulanabilir bir şablon sunar. 3) Okullarda yapay zekâ eğitimi: yazı Çin/Hindistan/BAE örneklerini veriyor; Türkiye'de yapay zekâ müfredata seçmeli/deneysel düzeyde girdi — yazının uyardığı 'yapay zekâ uçurumu' (okul-özel kurs-eve erişim farkı) Türkiye'de sosyoekonomik eşitsizlikle birleştiğinde daha keskin olabilir. 4) Duygusal bağımlılık ve tavsiye arama: 'yapay zekâ kullanan çocukların onda biri endişeleri için yapay zekâdan tavsiye istiyor' bulgusu Türkiye'de ruh sağlığı hizmetlerine erişim kısıtlıyken kritik — çocukların chatbot'u 'danışman' olarak kullanması, okul rehberlik sisteminin kapasitesiyle birlikte okunmalı. 5) UYARI: veriler UNICEF'in kendi niteliksel danışmalarına ve ikincil aktarılan araştırmalara dayanıyor; örneklem temsilî değil, ülke karşılaştırmaları (Çin/Hindistan/BAE) müfredat örnekleri olarak verilmiş, etki değerlendirmesi değil. Bu kayıttan 'Türkiye'de çocuklar şu oranda yapay zekâ kullanıyor' türü bir sayı çıkarılamaz.
+1) Politika boşluğu doğrudan Türkiye'yi ilgilendiriyor: yazının en sert tespiti — ulusal yapay zekâ stratejilerinde çocuk haklarına ilginin sınırlı kalması — Türkiye için de geçerli görünüyor; 2025-2030 Dijital Dönüşüm Stratejisi'nde çocuk hakları boyutu ayrı bir başlık olarak yer almıyor. 2) Katılım açığı test edilebilir: yazıya göre sorun 'çocuklar hakkında çocuklarsız karar alınması'. Türkiye'de MEB, BTK ve TBMM dijital düzenleme süreçlerinde çocuk katılımı (child participation) mekanizması (çocuk meclisleri dışında) sistematik değil; UNICEF Innocenti'nin 2025 danışma modeli (odak grupları + öngörü atölyeleri) Türkiye'de de uygulanabilir bir şablon sunar. 3) Okullarda yapay zekâ eğitimi: yazı Çin/Hindistan/BAE örneklerini veriyor; Türkiye'de yapay zekâ müfredata seçmeli/deneysel düzeyde girdi — yazının uyardığı 'yapay zekâ uçurumu' (okul-özel kurs-eve erişim farkı) Türkiye'de sosyoekonomik eşitsizlikle birleştiğinde daha keskin olabilir. 4) Duygusal bağımlılık ve tavsiye arama: 'yapay zekâ kullanan çocukların onda biri endişeleri için yapay zekâdan tavsiye istiyor' bulgusu Türkiye'de ruh sağlığı hizmetlerine erişim kısıtlıyken kritik — çocukların chatbot'u 'danışman' olarak kullanması, okul rehberlik sisteminin kapasitesiyle birlikte okunmalı. 5) UYARI: veriler UNICEF'in kendi niteliksel danışmalarına ve ikincil aktarılan araştırmalara dayanıyor; örneklem temsilî değil, ülke karşılaştırmaları (Çin/Hindistan/BAE) müfredat örnekleri olarak verilmiş, etki değerlendirmesi değil. Bu kayıttan 'Türkiye'de çocuklar şu oranda yapay zekâ kullanıyor' türü bir sayı çıkarılamaz.
 
 ## 🏷 Retorik Roller
 
@@ -57,11 +57,15 @@ UNICEF Innocenti (Ofis: Office of Strategy and Evidence) tarafından 9 Ekim 2026
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
 - [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-haklar.md|Dijital Haklar]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/unicef.md|Unicef]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-lse-ac-uk.md|LSE (London School of Economics)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-01_children-are-adopting-ai-technologies-more-than-th.md|Children are adopting AI technologies more than three times faster than adults]]

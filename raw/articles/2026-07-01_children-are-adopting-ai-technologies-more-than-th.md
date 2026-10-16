@@ -56,4 +56,5 @@ BTK'nın internet düzenlemeleri kapsamında çocuk profili uygulaması (16 yaş
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/unicef.md|UNICEF]]
-- [[entities/unicef.md|Unicef]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-09_why-children-s-perspectives-belong-at-the-centre-o.md|Why children's perspectives belong at the centre of AI policy and design (UNICEF Innocenti, 9 Eki 2026)]]
