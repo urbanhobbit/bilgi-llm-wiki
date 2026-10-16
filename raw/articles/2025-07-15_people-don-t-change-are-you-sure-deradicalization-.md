@@ -64,8 +64,10 @@ Zúñiga, Navarro, Asún, Espinosa-Ibacache ve Isla'nın Political Psychology'de
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 - [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi (Research Methods)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-02_effects-of-political-polarization-on-non-electoral.md|Effects of political polarization on non-electoral participation — Kołczyńska (Comparative European Politics 24(1), 2026)]]
+- [[raw/articles/2026-06-12_the-intersectional-anger-gap-how-race-and-gender-c.md|The Intersectional Anger Gap: How Race and Gender Condition the Impact of Anger on Participation]]

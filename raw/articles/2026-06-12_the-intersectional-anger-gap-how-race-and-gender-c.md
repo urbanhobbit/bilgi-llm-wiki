@@ -56,3 +56,5 @@ Bu makale, öfkenin siyasal katılımı harekete geçirme gücünün ırk ve top
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Oxford Academic]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2025-07-15_people-don-t-change-are-you-sure-deradicalization-.md|People don't change. Are you sure? Deradicalization of opinion among young people (Zúñiga ve ark., Political Psychology 2025)]]
