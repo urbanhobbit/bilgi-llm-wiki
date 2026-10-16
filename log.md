@@ -1125,3 +1125,8 @@
 - Source files: 2026-10-16_sage-inclusive-research-webinar.json, 2026-10-16_yeung-glasgow-racialized-misinformation-corrections.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-07-15_people-don-t-change-are-you-sure-deradicalization-.md]] — People don't change. Are you sure? Deradicalization of opinion among young people (Zúñiga et al., Political Psychology)
+- Source files: 2026-10-16_zuniga-deradicalization-of-opinion-chile.json
+- Agent: OKF Ingestion Pipeline
+
