@@ -62,3 +62,5 @@ Türkiye, çalışmanın veri setine dahil edilen 26 ülkeden biri: 2017-2022 ar
 - [[concepts/populizm.md|Popülizm]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Törnberg, PNAS 2022)]]

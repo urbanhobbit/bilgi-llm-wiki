@@ -71,3 +71,5 @@ Hong Kong Baptist University'de Shijun NI tarafından tamamlanan doktora tezi, d
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/hong-kong-baptist-university.md|Hong Kong Baptist University]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Törnberg, PNAS 2022)]]
