@@ -1119,3 +1119,9 @@
 - Source files: 2026-10-16_unicef-innocenti-children-ai-policy-design.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-14_how-to-conduct-inclusive-research-practical-choice.md]] — How to Conduct Inclusive Research: Practical Choices for Responsible Methodology (Sage Research Methods Community etkinliği)
+- Raw: [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md]] — Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)
+- Source files: 2026-10-16_sage-inclusive-research-webinar.json, 2026-10-16_yeung-glasgow-racialized-misinformation-corrections.json
+- Agent: OKF Ingestion Pipeline
+

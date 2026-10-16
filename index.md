@@ -395,4 +395,6 @@
 - [[raw/articles/2026-10-15_power-partisanship-and-affective-polarization-gott.md|Power, Partisanship, and Affective Polarization (Gottlieb, Kelly & Meng)]]
 - [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Petter Törnberg, PNAS 2022)]]
 - [[raw/articles/2026-10-09_why-children-s-perspectives-belong-at-the-centre-o.md|Why children's perspectives belong at the centre of AI policy and design (UNICEF Innocenti)]]
+- [[raw/articles/2026-10-14_how-to-conduct-inclusive-research-practical-choice.md|How to Conduct Inclusive Research: Practical Choices for Responsible Methodology (Sage Research Methods Community etkinliği)]]
+- [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md|Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)]]
 
