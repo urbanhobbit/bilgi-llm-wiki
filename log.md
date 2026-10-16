@@ -1109,3 +1109,8 @@
 - Source files: 2026-10-15_power-partisanship-affective-polarization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md]] — How Digital Media Drive Affective Polarization through Partisan Sorting (Petter Törnberg, PNAS 2022)
+- Source files: 2026-10-16_tornberg-partisan-sorting-sorting-machine.json
+- Agent: OKF Ingestion Pipeline
+

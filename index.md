@@ -393,4 +393,5 @@
 - [[raw/articles/2026-09-08_the-good-childhood-report-2026-the-children-s-soci.md|The Good Childhood Report 2026 (The Children's Society)]]
 - [[raw/articles/2026-08-28_from-echo-chambers-to-cross-boundary-diffusion-a-m.md|From Echo Chambers to Cross-Boundary Diffusion: A Multi-Level Model of Misinformation Circulation in Networked Public Discourse (HKBU doktora tezi, Shijun NI)]]
 - [[raw/articles/2026-10-15_power-partisanship-and-affective-polarization-gott.md|Power, Partisanship, and Affective Polarization (Gottlieb, Kelly & Meng)]]
+- [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Petter Törnberg, PNAS 2022)]]
 
