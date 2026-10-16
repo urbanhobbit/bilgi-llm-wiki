@@ -37,3 +37,10 @@ Türkiye'de davranış bilimleri ve yapay zeka kesişiminde yapılan araştırma
 ---
 
 ## 🔗 İlgili Bağlantılar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pnas-org.md|PNAS (Proceedings of the National Academy of Sciences)]]
+- [[entities/pnas-org.md|Pnas Org]]

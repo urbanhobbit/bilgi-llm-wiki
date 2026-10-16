@@ -394,4 +394,5 @@
 - [[raw/articles/2026-08-28_from-echo-chambers-to-cross-boundary-diffusion-a-m.md|From Echo Chambers to Cross-Boundary Diffusion: A Multi-Level Model of Misinformation Circulation in Networked Public Discourse (HKBU doktora tezi, Shijun NI)]]
 - [[raw/articles/2026-10-15_power-partisanship-and-affective-polarization-gott.md|Power, Partisanship, and Affective Polarization (Gottlieb, Kelly & Meng)]]
 - [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Petter Törnberg, PNAS 2022)]]
+- [[raw/articles/2026-10-09_why-children-s-perspectives-belong-at-the-centre-o.md|Why children's perspectives belong at the centre of AI policy and design (UNICEF Innocenti)]]
 

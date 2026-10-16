@@ -54,3 +54,9 @@ Türkiye'de conjoint/vinyet deneyleri (mülteci tutumları, aday tercihleri, se�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pnas-org.md|Pnas Org]]

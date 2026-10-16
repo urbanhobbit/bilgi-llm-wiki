@@ -1114,3 +1114,8 @@
 - Source files: 2026-10-16_tornberg-partisan-sorting-sorting-machine.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-09_why-children-s-perspectives-belong-at-the-centre-o.md]] — Why children's perspectives belong at the centre of AI policy and design (UNICEF Innocenti)
+- Source files: 2026-10-16_unicef-innocenti-children-ai-policy-design.json
+- Agent: OKF Ingestion Pipeline
+
