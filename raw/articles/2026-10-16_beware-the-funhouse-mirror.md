@@ -41,6 +41,7 @@ Jay Van Bavel'in (NYU Psikoloji ve Sinirbilim; NYU Center for Conflict & Coopera
 - Ahlaki içerik arzı: sosyal medya artık ahlaki — özellikle ahlak-dışı — içeriğin birincil kaynağı; yazılı basın, TV ve radyonun toplamını ve gerçek hayatı geride bırakıyor. Teşvik yapısı: dikkat ekonomisi. Örnek: Justine Sacco (2013) linç vakasında Google'ın reklam gösterimlerinden tahmini 120.000–456.000 USD kazandığı hesaplanıyor.
 - Kendini seçme (self-selection) mekanizması: esrar yasallaşmasından silah kontrolüne kadar her konuda, görüşü uçta olanlar çevrimiçi görüş bildirmeye en yatkın olanlar; bu, normal dağılmış kamuoyunun çevrimiçi görüntüsünü iki uca doğru şişiriyor ve ortayı görünmez kılıyor.
 - Siyasal gerçeklik etkisi (yazının en kritik iddiası): çevrimiçi yoğun kullanıcılar, partizan düşmanlığının çok daha abartılı bir versiyonunu görüyor. Hem Demokratlar hem Cumhuriyetçiler karşı tarafın önemli bir bölümünün çocuk pornografisi, yolsuzluk ve hayvan istismarını desteklediğine inanıyor; oysa bu eylemler her iki partide de neredeyse evrensel olarak reddediliyor. Benzer çarpıtma etnisite, din ve kuşak (Z kuşağı–boomer) algılarında da geçerli.
+- Kuramsal çerçeve: yazı, duygusal kutuplaşmanın (affective polarization) gerçek ve artmakta olduğunu kabul ediyor, ancak çevrimiçi yoğun kullanıcıların bunun çok daha abartılı bir versiyonunu gördüğünü savunuyor — yani duygusal kutuplaşmanın algılanan düzeyi ile gerçek düzeyi arasında sistematik bir fark var. Aynı mantık misinformation (yanlış bilgi) için de kuruluyor: yanlış bilgiye maruz kalma algısı, gerçek yaygınlığından farklı biçimde şekilleniyor.
 - Medya etkisi: basın, çevrimiçi gürültüyü 'Amerikalıların gerçek duyguları' sanıyor. 2024 seçimi sonrası ilan edilen 'vibe shift' (içerik moderasyonu/ifade özgürlüğü ekseninde değişim) yazarların bulgularına göre büyük ölçüde yanılsama; seçim sonrası Demokratlar yanlış bilgiden DAHA FAZLA endişe duydu, daha az değil.
 - İyi haber / normatif bulgu: temsili ABD anketinde sosyal medya konusunda anlaşmazlıktan çok uzlaşma var — insanlar nefret, yalan ve öfke içeriğinin viral olmasından yorulmuş; daha fazla yükseltici/doğru içerik ve algoritmalar üzerinde şeffaflık + kontrol istiyor. 'Nadir bir siyasal konsensüs'.
 - Politika ekseni: 16 yaş altı sosyal medya yasağına destek %60'a yaklaşıyor ve hızla artıyor; Gen Z gençlerinin kendisi de sistemik değişim talep ediyor (NYT alıntısı). Mahkeme kararları ve ulusal yasaklar, platformların kamu yararına nasıl hizmet edebileceği tartışmasını yeniden açtı.
@@ -59,8 +60,18 @@ Jay Van Bavel'in (NYU Psikoloji ve Sinirbilim; NYU Center for Conflict & Coopera
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/yanlis-kutuplasma.md|Yanlış Kutuplaşma (False Polarization)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/issues-org.md|Issues Org]]
+- [[entities/jay-van-bavel.md|Jay Van Bavel]]
+- [[entities/issues-org.md|Issues in Science and Technology]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-08-21_online-discourse-is-falsely-polarized-by-self-sele.md|Online Discourse is Falsely Polarized by Self-Selection (Schulz, Robertson, ... Van Bavel & Guess, 2026)]]
+- [[raw/articles/2026-08-11_eurasia-review-interviews-dr-jay-van-bavel-on-iden.md|Eurasia Review — Dr. Jay Van Bavel ile söyleşi (2026)]]
