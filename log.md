@@ -1135,3 +1135,10 @@
 - Source files: 2026-10-17_funhouse-mirror-van-bavel.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-17] ingest | Weekly Bulletin Integration (Hafta 42/2026, 11–17 Ekim)
+- Raw: [[raw/articles/2026-10-17_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (2026-10-17, Hafta 42); 30.301 byte, 4.067 kelime
+- Raw: [[raw/articles/2026-10-17_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA (2026-10-17); 40.278 byte, 5.123 kelime, 9 çalışma (3 metodoloji + 3 etik/teori + 3 güncel)
+- Kaynak havuzu: `processed_links/2026-10-1[1-7]_*_categorized*.json` → 22 kayıt (AKADEMİK 18 / GENEL 16 / KURATOR 5), DOI+başlık ile tekilleştirildi
+- Scrapling erişim testi: 19 URL → 8 erişilebilir / 11 bloklu (%57,9) → metadata tabanlı sınıflandırma modu
+- Türkiye omurgası: 1 Kasım 2026 yürürlüğü öncesi Bakan Göktaş açıklaması (13 Eki), e-Devlet şifre ücreti + süresiz yanıt eleştirisi (16 Eki); küresel: Avustralya (10 Ara, YouTube dahil), Almanya (age wallet, 14 Eki), Hindistan (Yüksek Mahkeme, 12 Eki)
+- Agent: KURATOR Weekly Integration

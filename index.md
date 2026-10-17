@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-10-12 | Total pages: 167
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-10-17 | Total pages: 169
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -399,4 +399,5 @@
 - [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md|Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)]]
 - [[raw/articles/2025-07-15_people-don-t-change-are-you-sure-deradicalization-.md|People don't change. Are you sure? Deradicalization of opinion among young people (Zúñiga et al., Political Psychology)]]
 - [[raw/articles/2026-10-16_beware-the-funhouse-mirror.md|Beware the Funhouse Mirror]]
-
+- [[raw/articles/2026-10-17_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten — Çocuklar ve Dijital Dünya (2026-10-17, Hafta 42)]]
+- [[raw/articles/2026-10-17_akademik_ozel.md|AKADEMİK ÖZEL TARAMA — Haftalık Derleme (2026-10-17, 9 çalışma)]]
