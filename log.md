@@ -1130,3 +1130,8 @@
 - Source files: 2026-10-16_zuniga-deradicalization-of-opinion-chile.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_beware-the-funhouse-mirror.md]] — Beware the Funhouse Mirror
+- Source files: 2026-10-17_funhouse-mirror-van-bavel.json
+- Agent: OKF Ingestion Pipeline
+

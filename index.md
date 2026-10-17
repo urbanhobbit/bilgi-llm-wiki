@@ -398,4 +398,5 @@
 - [[raw/articles/2026-10-14_how-to-conduct-inclusive-research-practical-choice.md|How to Conduct Inclusive Research: Practical Choices for Responsible Methodology (Sage Research Methods Community etkinliği)]]
 - [[raw/articles/2025-07-24_racialized-misinformation-factual-corrections-and-.md|Racialized Misinformation, Factual Corrections, and Prejudicial Attitudes: The Cases of Welfare and Immigration (Yeung & Glasgow, The Journal of Politics)]]
 - [[raw/articles/2025-07-15_people-don-t-change-are-you-sure-deradicalization-.md|People don't change. Are you sure? Deradicalization of opinion among young people (Zúñiga et al., Political Psychology)]]
+- [[raw/articles/2026-10-16_beware-the-funhouse-mirror.md|Beware the Funhouse Mirror]]
 
