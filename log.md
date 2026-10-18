@@ -1142,3 +1142,8 @@
 - Scrapling erişim testi: 19 URL → 8 erişilebilir / 11 bloklu (%57,9) → metadata tabanlı sınıflandırma modu
 - Türkiye omurgası: 1 Kasım 2026 yürürlüğü öncesi Bakan Göktaş açıklaması (13 Eki), e-Devlet şifre ücreti + süresiz yanıt eleştirisi (16 Eki); küresel: Avustralya (10 Ara, YouTube dahil), Almanya (age wallet, 14 Eki), Hindistan (Yüksek Mahkeme, 12 Eki)
 - Agent: KURATOR Weekly Integration
+## [2026-10-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-23_the-emergence-of-critical-realist-grounded-theory-.md]] — The Emergence of Critical Realist Grounded Theory: A Transformative Perspective
+- Source files: 2026-10-18_crgt-looker-kington.json
+- Agent: OKF Ingestion Pipeline
+

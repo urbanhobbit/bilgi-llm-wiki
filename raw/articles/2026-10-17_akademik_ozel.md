@@ -210,3 +210,34 @@ Bu sayı, 11 – 17 Ekim 2026 diliminde `processed_links/` altına düşen `*_ca
 **Doğrulama ilkesi.** Hiçbir özet veya künye uydurulmamıştır. Erişilemeyen kaynakların künyesi **DOI/Crossref kaydına**, özetleri yayıncı özeti ve önceki OKF kayıtlarındaki satır-içi okumalara dayanmaktadır. Tam metne erişilemeyen üç çalışmada (Bill & Stanley; Kane vd.; Binder vd.) ampirik tablo değerleri doğrulanmamış, bu durum ilgili makale künyelerinde **açıkça** belirtilmiştir. Hove vd.'nin örneklem büyüklüğü ve denek-içi tasarım detayları SAGE duvarı nedeniyle teyit edilemedi; bu sınır kayıt altındadır.
 
 **Veri kalitesi notu.** İki kayıt (Qwen-Image-2.1-Turbo duyurusu; DeepLearning.AI agentic knowledge graphs kursu) **araştırma makalesi değildir** — Okuma Listesi'ne "araştırma değil" etiketiyle alınmış, hiçbir bölümde kanıt olarak kullanılmamıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/deeplearning-ai.md|DeepLearning.AI]]
+- [[entities/issues-org.md|Issues in Science and Technology]]
+- [[entities/new-york-times.md|New York Times]]
+- [[entities/the-childrens-society.md|The Children's Society]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]

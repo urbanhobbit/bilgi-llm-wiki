@@ -244,3 +244,32 @@ Türkiye, 1 Kasım 2026'da yürürlüğe girecek yönetmelikle **dünyada 15 ya�
 ---
 
 *Bu bülten KURATOR Araştırma Ekibi tarafından otomatik olarak derlenmiştir. Kaynak doğrulama notları metin içinde belirtilmiştir.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/deeplearning-ai.md|DeepLearning.AI]]
+- [[entities/issues-org.md|Issues in Science and Technology]]
+- [[entities/the-childrens-society.md|The Children's Society]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
