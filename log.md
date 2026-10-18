@@ -1147,3 +1147,8 @@
 - Source files: 2026-10-18_crgt-looker-kington.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-05-29_the-cultural-ecology-of-social-media.md]] — The cultural ecology of social media
+- Source files: 2026-10-18_cultural-ecology-of-social-media-acerbi.json
+- Agent: OKF Ingestion Pipeline
+
