@@ -45,7 +45,7 @@ Ben Looker ve Alison Kington'ın (University of Worcester, Institute of Educatio
 
 ## Turkey Context
 
-Türkiye'de nitel ve karma yöntem eğitimi büyük ölçüde klasik Glaser-Strauss / Strauss-Corbin ve gömülü teori (grounded theory) şablonlarıyla yürüyor; eleştirel realizm ise çoğunlukla ayrı bir 'felsefe' başlığı olarak öğretiliyor, kodlama pratiğine bağlanmıyor. CRGT tam bu boşluğa denk geliyor: Türkiye'de sosyal bilimlerde yaygın olan 'temellendirilmiş kuram adı altında betimleyici temalar üretme' eleştirisinin (kuram üretmeden kodlama) metodolojik cevabı sayılabilir. Türkçe literatüre kazandırılması halinde özellikle doktora düzeyindeki tez çalışmalarında ve TÜBİTAK projelerinde karma yöntem gerekçelendirmesi için kullanışlı bir referans olur; ayrıca 'literatür taraması ne zaman yapılmalı' tartışması, Türkiye'deki tez danışmanlığı pratiğinde sık yaşanan bir kırılma noktası. Kitabın 112 sayfa ve giriş düzeyinde olması, çeviri/uyarlama maliyetini düşürüyor.
+Türkiye'de lisansüstü programlarda okutulan araştırma yöntemleri (research methods) derslerinde eleştirel realizm çoğu zaman ayrı bir felsefe başlığı olarak geçiyor; nitel ve karma yöntem eğitimi ise büyük ölçüde klasik Glaser-Strauss / Strauss-Corbin ve gömülü teori (grounded theory) şablonlarıyla yürüyor; eleştirel realizm ise çoğunlukla ayrı bir 'felsefe' başlığı olarak öğretiliyor, kodlama pratiğine bağlanmıyor. CRGT tam bu boşluğa denk geliyor: Türkiye'de sosyal bilimlerde yaygın olan 'temellendirilmiş kuram adı altında betimleyici temalar üretme' eleştirisinin (kuram üretmeden kodlama) metodolojik cevabı sayılabilir. Türkçe literatüre kazandırılması halinde özellikle doktora düzeyindeki tez çalışmalarında ve TÜBİTAK projelerinde karma yöntem gerekçelendirmesi için kullanışlı bir referans olur; ayrıca 'literatür taraması ne zaman yapılmalı' tartışması, Türkiye'deki tez danışmanlığı pratiğinde sık yaşanan bir kırılma noktası. Kitabın 112 sayfa ve giriş düzeyinde olması, çeviri/uyarlama maliyetini düşürüyor.
 
 ## 🏷 Retorik Roller
 
@@ -57,3 +57,7 @@ Türkiye'de nitel ve karma yöntem eğitimi büyük ölçüde klasik Glaser-Stra
 ## 🔗 İlgili Bağlantılar
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/routledge.md|Routledge]]
+
+### 🧩 İlgili Kavramlar
+- [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]] — retroduktif kodlama, süreç takibindeki nedensel mekanizma çıkarımının temellendirilmiş kuram içinden kurulmuş versiyonu gibi okunabilir.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — kitap, sosyal bilimlerde araştırma yöntemleri (research methods) eğitiminin metodolojik tartışmalarına doğrudan eklemleniyor; karma yöntem gerekçelendirmesi bu alanın merkezinde.
