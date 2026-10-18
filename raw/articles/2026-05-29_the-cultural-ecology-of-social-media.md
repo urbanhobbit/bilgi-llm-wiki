@@ -65,5 +65,7 @@ Türkiye'de dezenformasyon ve kutuplaşma araştırmaları ağırlıklı olarak 
 - [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
 - [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/kulturel-evrim.md|Kültürel Evrim]] — makale, kültürel evrim (cultural evolution) kuramının dijital ortama uyarlanması; aktarım yerine üretici teşviklerini merkeze alan ekolojik çerçeve.
 ### 🏛 İlgili Kurum/Kişiler
+- [[entities/alberto-acerbi.md|Alberto Acerbi]] — yazar, University of Trento.
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
