@@ -407,4 +407,5 @@
 - [[raw/articles/2026-10-19_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten — Çocuklar ve Dijital Dünya (2026-10-19, Hafta 43/2026, 12–19 Ekim)]]
 - [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models]]
 - [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]]
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
 

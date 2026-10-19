@@ -1167,3 +1167,8 @@
 - Source files: 2026-10-19_synthetic-populations-epidemic-demographic-mobility.json, 2026-10-19_cross-centaur-individual-decision-making-llm.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md]] — Simulated responses from large language models are weak proxies for human economic preferences across 74 countries
+- Source files: 2026-10-19_llm-weak-proxies-economic-preferences-74-countries.json
+- Agent: OKF Ingestion Pipeline
+
