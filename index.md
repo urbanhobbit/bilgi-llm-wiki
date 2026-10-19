@@ -404,4 +404,6 @@
 - [[raw/articles/2026-07-23_the-emergence-of-critical-realist-grounded-theory-.md|The Emergence of Critical Realist Grounded Theory: A Transformative Perspective]]
 - [[raw/articles/2026-05-29_the-cultural-ecology-of-social-media.md|The cultural ecology of social media]]
 - [[raw/articles/2026-10-19_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten — Çocuklar ve Dijital Dünya (2026-10-19, Hafta 43/2026, 12–19 Ekim)]]
+- [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models]]
+- [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]]
 

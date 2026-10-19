@@ -1161,3 +1161,9 @@
 - Source files: 2026-10-18_cultural-ecology-of-social-media-acerbi.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md]] — Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models
+- Raw: [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md]] — Synthetic populations for epidemic, demographic and mobility modeling
+- Source files: 2026-10-19_synthetic-populations-epidemic-demographic-mobility.json, 2026-10-19_cross-centaur-individual-decision-making-llm.json
+- Agent: OKF Ingestion Pipeline
+
