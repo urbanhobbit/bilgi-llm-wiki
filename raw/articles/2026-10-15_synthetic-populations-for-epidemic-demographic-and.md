@@ -62,5 +62,8 @@ Türkiye'de birey-tabanlı salgın ve hareketlilik modelleri için en büyük en
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|Arxiv Org]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: birey düzeyi davranış modellemesi (Asano ve ark., 2026)]] — aynı gün gelen tamamlayıcı hat: sentetik popülasyon bireyi istatistiksel olarak temsil ederken Cross-Centaur bireyin karar örüntüsünü öğrenilmiş modelle temsil ediyor.

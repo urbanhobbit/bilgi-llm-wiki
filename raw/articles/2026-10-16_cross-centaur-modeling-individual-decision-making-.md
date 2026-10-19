@@ -62,5 +62,9 @@ Bu makale, Türkiye'de hızla yayılan 'sentetik denek / silicon sampling' prati
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|Arxiv Org]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling (Torre ve ark., 2026)]] — popülasyon düzeyi sentetik birey ile birey düzeyi öğrenilmiş davranış modeli aynı simülasyon hattının iki ucu.
