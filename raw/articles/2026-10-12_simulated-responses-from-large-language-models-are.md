@@ -69,5 +69,12 @@ Türkiye'de anket temelli araştırma pahalı ve yavaş; 'LLM'e sorduk, KONDA/T�
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nature-com.md|Nature Com]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: birey düzeyi öğrenilmiş davranış modellemesi (Asano ve ark., 2026)]] — aynı hattın olumlu kutbu: birey düzeyi tahmin mümkün, ama tek görev ailesi içinde ve İngilizce örneklemle.
+- [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Sentetik popülasyonlar: bireyin istatistiksel temsili (Torre ve ark., 2026)]] — anket yanıtı yerine nüfus yapısını taklit eden yaklaşım; ikisi farklı 'sentetik birey' tanımı kullanıyor.
+
+> Bu çalışma aynı zamanda bir research methods / methodological audit örneği: 35 yayımlanmış bulgunun çoğaltma testi, bir ölçüm aracının (LLM) geçerliliğini sınamak için kullanılabilecek bir şablon sunuyor.

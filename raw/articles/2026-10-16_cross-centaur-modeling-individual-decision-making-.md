@@ -68,3 +68,4 @@ Bu makale, Türkiye'de hızla yayılan 'sentetik denek / silicon sampling' prati
 - [[entities/arxiv-org.md|Arxiv Org]]
 ### 📄 İlgili Makaleler
 - [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling (Torre ve ark., 2026)]] — popülasyon düzeyi sentetik birey ile birey düzeyi öğrenilmiş davranış modeli aynı simülasyon hattının iki ucu.
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|LLM simülasyonu insan ekonomik tercihlerinin zayıf vekili (Chen ve ark., Nature Human Behaviour, 2026)]] — karşıt kanıt: 74 ülkede kültürel boyutlarda hizalama şans düzeyinde (%48,1); birey düzeyi sinyal var, temsili anket iddiası yok.
