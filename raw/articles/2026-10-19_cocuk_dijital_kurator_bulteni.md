@@ -140,7 +140,7 @@ Muhalefet ve sivil toplum, düzenlemenin **gözetim** kapasitesini genişletece�
 
 ---
 
-## 3. Küresel yaş mimarileri: bu hafta beş ülke hareket etti
+## 3. Küresel yaş mimarileri: haftanın sekiz başlığı
 
 ### 3.1. Karşılaştırma tablosu
 
