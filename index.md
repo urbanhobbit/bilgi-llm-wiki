@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-10-17 | Total pages: 169
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-10-19 | Total pages: 170
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -403,4 +403,5 @@
 - [[raw/articles/2026-10-17_akademik_ozel.md|AKADEMİK ÖZEL TARAMA — Haftalık Derleme (2026-10-17, 9 çalışma)]]
 - [[raw/articles/2026-07-23_the-emergence-of-critical-realist-grounded-theory-.md|The Emergence of Critical Realist Grounded Theory: A Transformative Perspective]]
 - [[raw/articles/2026-05-29_the-cultural-ecology-of-social-media.md|The cultural ecology of social media]]
+- [[raw/articles/2026-10-19_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten — Çocuklar ve Dijital Dünya (2026-10-19, Hafta 43/2026, 12–19 Ekim)]]
 
