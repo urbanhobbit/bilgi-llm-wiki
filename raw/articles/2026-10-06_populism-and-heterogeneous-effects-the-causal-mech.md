@@ -66,6 +66,13 @@ Türkiye'de popülizm araştırmaları tam olarak bu tuzağın içinde: AKP/Erdo
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/populizm.md|Popülizm]]
+- [[concepts/populizm.md|Popülizm]] — makalenin ampirik odağı: popülist oy, birden çok gizil yolun (ekonomik, kültürel, kurumsal) tek kategoriye çökmesi nedeniyle mekanizma çıkarımına en az uygun çıktı.
+- [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]] — etkileşim katsayısından mekanizma okumaya alternatif hat: süreç takibi mekanizmayı tasarım yoluyla arar, δ üzerinden değil.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — araştırma yöntemleri ve research design tartışmasının merkezine tanımlama problemini koyuyor; credibility revolution'ın çözmediği ikinci görev.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — sınırlı çıktının ölçüm düzeyindeki dönüşümü (link fonksiyonu) tek başına yapay heterojenlik üretiyor; ölçüm sorunu burada mekanizma sorununa dönüşüyor.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — kutuplaşma da bileşik eşik çıktısı; aynı artefakt riski kutuplaşma ölçümleri için de geçerli.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/springer.md|Springer]]
+- [[entities/springer.md|Springer]] — yayıncı (Chinese Political Science Review, CC BY 4.0).
+### 📄 İlgili Makaleler
+- [[raw/articles/2021-03-03_the-methodological-foundation-of-process-tracing-a.md|Süreç takibinin metodolojik temeli (2021)]] — mekanizma çıkarımını gözlem/iz üzerinden kuran hat; Woods'un eleştirisi bu hattın neden gerekli olduğunu gösteriyor.
+- [[raw/articles/2026-06-30_large-n-qualitative-analysis-lnqa-causal-generaliz.md|Large-N Qualitative Analysis (LNQA) ve nedensel genelleme]] — çok sayıda vakada mekanizma arayışına alternatif tasarım; etkileşim katsayısı yerine vaka-içi kanıt.
