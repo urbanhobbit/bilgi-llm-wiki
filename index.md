@@ -409,4 +409,5 @@
 - [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]]
 - [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
 - [[raw/articles/2026-10-19_early-and-reliable-short-video-news-verification-t.md|Early and reliable short-video news verification through event-aware shot modeling and cross-modal evidence fusion]]
+- [[raw/articles/2026-10-06_populism-and-heterogeneous-effects-the-causal-mech.md|Populism and Heterogeneous Effects: The Causal Mechanisms Identification Problem]]
 

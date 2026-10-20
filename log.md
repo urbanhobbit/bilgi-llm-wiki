@@ -1177,3 +1177,8 @@
 - Source files: 2026-10-20_short-video-news-verification-ease-fact.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-06_populism-and-heterogeneous-effects-the-causal-mech.md]] — Populism and Heterogeneous Effects: The Causal Mechanisms Identification Problem
+- Source files: 2026-10-20_populism-heterogeneous-effects-causal-mechanisms-identification.json
+- Agent: OKF Ingestion Pipeline
+
