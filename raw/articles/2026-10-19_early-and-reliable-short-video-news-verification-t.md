@@ -68,7 +68,11 @@ Türkiye için bu makalenin değeri, yönteminden çok ölçüm disiplininde: k�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]]
-- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]] — makalenin kurduğu hat (çekim düzeyi tutarlılık + tarihsel teyit getirimi) bu kavramın çekirdek şeması.
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — kısa videoda iç çelişki tespiti, dezenformasyonun öğe düzeyi tespitinden farklı bir katman: bileşenler gerçekken bütün yanıltıcı olabiliyor.
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]] — yöntem, teyit sürecini insan doğrulayıcıya öncelik veren bir ön tarama katmanı olarak konumlandırıyor.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nature-com.md|Nature Com]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-31_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as Strategy (Ecker ve ark., 2026)]] — buradaki hat öğe düzeyinde *tespit*, Ecker ve ark. ise dezenformasyonun strateji olarak epistemik sonuçlarını ölçüyor; iki katman birbirini tamamlıyor.
+- [[raw/articles/2026-07-24_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques (2026)]] — önleyici (prebunking) müdahale hattı; EASE-Fact yayın sonrası tespit/önceliklendirme tarafında duruyor.

@@ -66,5 +66,9 @@ Malumatfuruş gibi kuruluşlar teyidi elle ve metin ağırlıklı yürütüyor; 
 bileşenin çeliştiğini gösteren bir çıktı, editöryel önceliklendirme için doğrudan kullanışlı olurdu. Türkçe
 morfolojisi ve ASR hataları, çok dilli kodlayıcı (XLM-R) üzerine kurulu hatlarda ayrıca doğrulama gerektirir.
 
+## İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — dezenformasyon niyet ve strateji sorusunu sorar; kısa video doğrulama ise niyetten bağımsız olarak iç çelişkinin yerini gösterir. İkisi birbirinin yerine geçmez.
+- [[concepts/media-literacy-fact-checking.md|Medya Okuryazarlığı ve Doğrulama (Fact-Checking)]] — otomatik ön tarama, fact-checking sürecinin ilk kademesi olarak okunmalı: insan doğrulayıcıya sıra verir, kararın yerine geçmez.
+
 ## İlgili Makaleler
-- [[raw/articles/2026-10-20_early-and-reliable-short-video-news-verification-through-eve.md|EASE-Fact: olay-farkında çekim modelleme ve çapraz-modal kanıt füzyonu (Wang, 2026)]]
+- [[raw/articles/2026-10-19_early-and-reliable-short-video-news-verification-t.md|EASE-Fact: olay-farkında çekim modelleme ve çapraz-modal kanıt füzyonu (Wang, 2026)]]
