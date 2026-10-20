@@ -410,4 +410,11 @@
 - [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
 - [[raw/articles/2026-10-19_early-and-reliable-short-video-news-verification-t.md|Early and reliable short-video news verification through event-aware shot modeling and cross-modal evidence fusion]]
 - [[raw/articles/2026-10-06_populism-and-heterogeneous-effects-the-causal-mech.md|Populism and Heterogeneous Effects: The Causal Mechanisms Identification Problem]]
+- [[raw/articles/2026-10-20_rolling-memory-a-new-approach-to-annotation-with-g.md|Rolling Memory: A New Approach to Annotation with Generative LLMs in Social and Political Research]]
+- [[raw/articles/2026-08 (a_humans-are-missing-from-ai-coding-agent-research.md|Humans are Missing from AI Coding Agent Research]]
+- [[raw/articles/2026-10-20_social-media-as-a-disinformation-infrastructure-ta.md|Social Media as a Disinformation Infrastructure: Tactics, Strategies, and National Security]]
+- [[raw/articles/2026-06-01_the-fraying-social-contract-and-its-implications-f.md|The Fraying Social Contract and its Implications for National Preparedness]]
+- [[raw/articles/2026-03-20_why-and-how-to-measure-children-s-subjective-well-.md|Why and how to measure children's subjective well-being (Full Report)]]
+- [[raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers.md|Doing Open Social Science: A Guide for Researchers]]
+- [[raw/articles/2026-10-20_spending-better-for-children-through-social-policy.md|Spending Better for Children through Social Policy]]
 

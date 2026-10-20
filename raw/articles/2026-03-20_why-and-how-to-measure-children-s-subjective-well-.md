@@ -1,0 +1,43 @@
+---
+type: raw_article
+title: Why and how to measure children's subjective well-being (Full Report)
+description: OECD WISE Merkezi'nin 20 Mart 2026 tarihli politika özeti (Mayıs 2026'da
+  revize), çocukların öznel iyi oluşunun (subjective well-being) nasıl tanımlanacağı
+  ve ölçüleceğine dair OECD standartlarını çoc...
+resource: https://www.oecd.org/en/publications/why-and-how-to-measure-children-s-subjective-well-being_78eb787c-en/full-report.html
+tags:
+- kurator
+- akademik
+- genel
+- high
+timestamp: '2026-10-20T12:00:43Z'
+source_file: 2026-10-20_batch-user-links-3.json
+category: KURATOR; AKADEMİK ÖZEL; GENEL
+priority: high
+published: '2026-03-20 (revize: Mayıs 2026)'
+---
+
+# Why and how to measure children's subjective well-being (Full Report)
+
+**Author(s):** OECD Centre on Well-being, Inclusion, Sustainability and Equal Opportunity (WISE); OECD WISE Centre ekibi (wellbeing@oecd.org)
+
+**Published:** 2026-03-20 (revize: Mayıs 2026)
+
+**Source:** [https://www.oecd.org/en/publications/why-and-how-to-measure-children-s-subjective-well-being_78eb787c-en/full-report.html](https://www.oecd.org/en/publications/why-and-how-to-measure-children-s-subjective-well-being_78eb787c-en/full-report.html)
+
+## Summary
+
+OECD WISE Merkezi'nin 20 Mart 2026 tarihli politika özeti (Mayıs 2026'da revize), çocukların öznel iyi oluşunun (subjective well-being) nasıl tanımlanacağı ve ölçüleceğine dair OECD standartlarını çocuk nüfusuna uyarlıyor; teknik dayanağı OECD'nin aynı dönemde yayımladığı 'Measuring children's subjective well-being: Rationale, empirical approaches and future directions' raporu (DOI 10.1787/a9b57ebc-en). Tanım, OECD Guidelines on Measuring Subjective Well-being'in (2013; 2025 güncellemesi) yetişkinler için geliştirdiği üç boyutlu çerçevesinin çocuklara uygulanması: (a) yaşam değerlendirmesi (life evaluation) — genel ve alan bazlı yaşam memnuniyeti; (b) duygulanım (affect) — olumlu ve olumsuz duygular; (c) eudaimonia (iyi yaşama duygusu) — anlam, amaç, özerklik, olumlu ilişkiler, kişisel gelişim. Raporun temel gerekçesi: çocuklukta yaşam memnuniyeti (her zaman olmasa da) öğrenmeye bağlılık, akademik performans, olumlu sosyal ilişkiler, sağlıklı davranışlar ve yetişkinlikte yaşam memnuniyeti ile ilişkili; ama daha önemlisi, iyi oluşun kendisi bir amaç. Çerçeve BM Çocuk Hakları Sözleşmesi'ne (UNCRC) dayandırılıyor: çocuklar 'hak sahibi' ve görüşleri ciddiye alınması gereken özneler. Temel teşhis: yetişkinler çocukların kendi hayatları hakkındaki değerlendirmelerini doğru tahmin edemiyor; bu yüzden doğrudan çocukla konuşmak zorunlu. Literatüre dayanarak çocukların önemsediği dokuz alan tanımlanıyor: (1) kendini güvende ve duyulmuş hissetme, faillik; (2) oyun, boş zaman ve zaman kullanımı; (3) ilişkiler ve sosyal bağlar; (4) fiziksel iyi oluş, yemek, görünüm ve beden imajı; (5) maddi sahiplikler; (6) ev ve aile ortamı; (7) okul yaşamı ve iklimi; (8) yapılı çevre ve mahalle; (9) çevrimiçi yaşam. Ölçüm önerileri yaşa göre farklılaşıyor. 15 yaş ve üstü: tek maddeli 0-10 yaşam memnuniyeti sorusu (OECD Guidelines standardı) kullanılabilir; çok maddeli ölçek güvenilirlik, geçerlilik ve gruplar arası karşılaştırılabilirlik testi açısından daha güçlü. 10-12 yaş: tek maddeli ölçek kanıtı zayıf; çok maddeli ölçek (ör. Students' Life Satisfaction Scale, SLSS) tercih edilmeli; görsel ölçekler (emoticon) ve 0-10'dan daha az kategorili basit formatlar anlamayı ve kültürler arası karşılaştırılabilirliği artırıyor, anket yorgunluğunu azaltıyor. Duygulanım: 10-12 yaş ve üstünde güvenilir ölçülebiliyor; referans dönemi kritik — 'dün' hatırlama yanlılığını azaltıyor (altın standart), ancak ruh sağlığı ölçekleriyle uyum için 'son iki hafta' yaygın kullanılıyor (WHO-5 gibi). Eudaimonia: 10 yaş altında önerilmiyor (bilişsel yansıma gerektiriyor); 12 yaş sonrası OECD Guidelines'ın 'yaptıklarımın değerli olduğunu hissediyorum' (0-10) maddesi kullanılabilir. ISCWeB'in uyarlanmış Psychological Well-being Scale'i 6 boyutu (öz-kabul, çevresel hâkimiyet, olumlu ilişkiler, özerklik, kişisel gelişim, geleceğe güven) 0-10 ile ölçüyor; cinsiyet ve yaşta ölçüm değişmezliği var, ülkeler arasında yok. Kritik yöntemsel uyarı: çocuğun yakın/ilişkisel faktörleri (akran ve aile ilişkileri, zorbalığa maruz kalma, okul deneyimi) öznel iyi oluşun, maddi koşullar ve sosyoekonomik statüden DAHA GÜÇLÜ yordayıcıları. Bu, politika tasarımında 'yoksulluk odaklı' tek eksenli müdahalelerin sınırını gösteriyor. Kesitsel konular: anket tasarım etkileri (PISA ve HBSC'nin 15 yaş bulguları arasındaki fark örnekleme, yaş, veri toplama zamanlaması ve bağlamdan kaynaklanıyor), iyi oluş sorularının anketin başına konması, pilot ve bilişsel test, kültürel duyarlılık (Batı/bireyci varsayım eleştirisi; ilişkisel/karşılıklı bağımlı iyi oluş kavramları), temsili örneklem sorunu (engelli çocuklar ve okul dışındaki çocukların dışarıda kalması). Gelecek gündemi: 'dijital yaşam memnuniyeti' yeni bir alan olarak sistematik biçimde anketlere eklenmeli; yeşil alanlara erişim, doğayla temas ve 'üçüncü mekânlar' mahalle memnuniyetine dahil edilmeli; alan bazlı ölçekler çocukların öncelikleriyle yeniden rafine edilmeli. Altyapı: OECD Child Well-being Data Portal ve Dashboard; iletişim wellbeing@oecd.org. Bu belge, çocukların dijital deneyimleri ve katılımı üzerine çalışan araştırmacılar için en güncel ve en yetkin ölçüm çerçevesi; özellikle 'dijital yaşam memnuniyeti'nin ölçüm gündemine resmen girmesi, KURATOR kapsamındaki çocuk-dijital ilişkisi literatürü için referans niteliğinde.
+
+## Turkey Context
+
+Türkiye, OECD'nin bu çerçevesini uygulamak için hem elverişli hem de yapısal olarak zayıf bir konumda. Elverişli taraf: PISA ve HBSC'ye düzenli katılım (PISA 2022'de 15 yaş örneklemi; HBSC'de 11/13/15 yaş), TÜİK'in Çocuk Araştırması ve Yaşam Memnuniyeti Araştırması gibi altyapısı ve MEB bünyesinde izleme kapasitesi var. Zayıf taraf: öznel iyi oluş, Türkiye'de ağırlıklı olarak yetişkin nüfus için ölçülüyor; çocuklar için ulusal düzeyde standartlaşmış, yaş grubuna göre farklılaştırılmış bir modül yok. OECD'nin en kritik bulgusu Türkiye için doğrudan politika sonucu üretiyor: yakın/ilişkisel faktörler (aile ve akran ilişkileri, zorbalık, okul iklimi) maddi koşullardan daha güçlü yordayıcı. Türkiye'de çocuk yoksulluğu ve sosyoekonomik eşitsizlik üzerine kurulu politika çerçevesi (ör. Sosyal Yardımlaşma ve Dayanışma Vakıfları, şartlı eğitim yardımı) gerekli ama yeterli değil; okul iklimi, akran zorbalığı ve aile içi ilişki kalitesi ölçülmeden müdahale tasarlanamaz. MEB'in akran zorbalığıyla mücadele programları bu çerçevede değerlendirme göstergesi kazanabilir. Dijital yaşam memnuniyetinin ölçüm gündemine girmesi Türkiye açısından özellikle önemli: TÜİK verilerine göre çocukların internet kullanım yaşı giderek düşüyor ve 5651/7253 düzenlemeleri ağırlıklı olarak 'zararlı içerik' eksenli. OECD çerçevesi, koruma odaklı yaklaşımın yerine çocuğun dijital yaşamdan aldığı doyumu ölçen bir yaklaşım öneriyor; bu, ebeveyn denetimi ve yaş doğrulama tartışmalarının ötesine geçen bir politika dili sağlıyor. Yaş eşikleri konusunda dikkat: OECD eudaimonia'yı 10 yaş altı için önermiyor, 12 yaş sonrası için standart madde öneriyor. Türkiye'de ilkokul 3-4. sınıf düzeyinde (8-10 yaş) yapılacak anketlerde bu sınırlara uyulması, geçersiz veri üretme riskini azaltır; ISCWeB'in 8 yaş için uyarlanmış dili Türkçeye kazandırılabilir. Etik ve hukuki çerçeve: çocuklarla araştırma yapmak KVKK kapsamında veli rızası ve özel nitelikli veri koruması gerektiriyor; ayrıca çocuğun kendi rızası (assent) alınmalı. OECD'nin 'çocuğu doğrudan dinle' vurgusu, Türkiye'de Çocuk Hakları İzleme ve Değerlendirme Kurulu ve TBMM Çocuk Hakları İzleme Komisyonu'nun çalışmalarına veri sağlayabilir. Kurumsal öneri: MEB-TÜİK-Aile ve Sosyal Hizmetler Bakanlığı ortak bir 'Çocuk İyi Oluş Modülü' geliştirmeli; 10-12 yaş için çok maddeli, 15 yaş için tek maddeli format kullanan iki katmanlı bir tasarım, OECD standartlarıyla karşılaştırılabilirliği korurken Türkiye'ye özgü alanları (ör. kalabalık hane yapısı, kırsal-kentsel fark, mevsimlik tarım işçiliği olan çocuklar) ekleyebilir. Akademik düzeyde: TÜBİTAK SOBAG ve 1001 programlarında çocuk iyi oluşu ölçümüne ayrılan projelerin bu çerçeveye referans vermesi, uluslararası yayın ve karşılaştırma kapasitesini artırır; Bilgi Üniversitesi gibi kurumların Çocuk Çalışmaları programları için de doğrudan ders materyali niteliğinde.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]

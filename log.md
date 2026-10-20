@@ -1182,3 +1182,14 @@
 - Source files: 2026-10-20_populism-heterogeneous-effects-causal-mechanisms-identification.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_rolling-memory-a-new-approach-to-annotation-with-g.md]] — Rolling Memory: A New Approach to Annotation with Generative LLMs in Social and Political Research
+- Raw: [[raw/articles/2026-08 (a_humans-are-missing-from-ai-coding-agent-research.md]] — Humans are Missing from AI Coding Agent Research
+- Raw: [[raw/articles/2026-10-20_social-media-as-a-disinformation-infrastructure-ta.md]] — Social Media as a Disinformation Infrastructure: Tactics, Strategies, and National Security
+- Raw: [[raw/articles/2026-06-01_the-fraying-social-contract-and-its-implications-f.md]] — The Fraying Social Contract and its Implications for National Preparedness
+- Raw: [[raw/articles/2026-03-20_why-and-how-to-measure-children-s-subjective-well-.md]] — Why and how to measure children's subjective well-being (Full Report)
+- Raw: [[raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers.md]] — Doing Open Social Science: A Guide for Researchers
+- Raw: [[raw/articles/2026-10-20_spending-better-for-children-through-social-policy.md]] — Spending Better for Children through Social Policy
+- Source files: 2026-10-20_batch-user-links-3.json
+- Agent: OKF Ingestion Pipeline
+
