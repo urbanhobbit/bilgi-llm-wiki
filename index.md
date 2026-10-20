@@ -408,4 +408,5 @@
 - [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models]]
 - [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]]
 - [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
+- [[raw/articles/2026-10-19_early-and-reliable-short-video-news-verification-t.md|Early and reliable short-video news verification through event-aware shot modeling and cross-modal evidence fusion]]
 

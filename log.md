@@ -1172,3 +1172,8 @@
 - Source files: 2026-10-19_llm-weak-proxies-economic-preferences-74-countries.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-19_early-and-reliable-short-video-news-verification-t.md]] — Early and reliable short-video news verification through event-aware shot modeling and cross-modal evidence fusion
+- Source files: 2026-10-20_short-video-news-verification-ease-fact.json
+- Agent: OKF Ingestion Pipeline
+
