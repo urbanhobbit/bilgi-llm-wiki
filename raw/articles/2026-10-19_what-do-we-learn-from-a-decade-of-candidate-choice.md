@@ -34,6 +34,26 @@ Türkiye bağlamında bu çalışmanın değeri iki katmanlı. Birincisi kuramsa
 
 ---
 
+## 📌 Doğrulama ve Tam Metin (2026-10-21)
+
+- **Yayın sayfası:** [What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?](https://alexandercoppock.com/coppock_etal_2026.html) — Quarto proje sayfası; özet metni yukarıdaki sayılarla birebir uyuşuyor (243 çalışma / 144 makale / 52 ülke / 434.079 katılımcı / 2.176.525 aday eşleşmesi).
+- **Tam metin (PDF):** https://alexandercoppock.com/coppock_etal_2026.pdf · **Appendix:** coppock_etal_2026_appendix.pdf · **Supplement:** coppock_etal_2026_supplement.pdf
+- **AFCP Explorer:** https://anonymouspoliticalscientist.shinyapps.io/afcp-explorer/ — 243 çalışmanın tek tek AFCP tahminleri, τ (çalışmalar arası heterojenlik) ve kanıtın ince olduğu hücreler.
+- **Durum:** Anonim hakem değerlendirmesi sürüyor; tüm sayılar yayın sayfasından doğrulandı. İkincil kaynakta (X) dolaşan "2.18M" yuvarlanmış değerdir.
+
+## 🧪 Yöntem Notu (araştırma yöntemleri açısından)
+
+Bu makale aynı zamanda bir **research methods / research design** katkısıdır: klasik meta-analysis değil, **meta-reanalysis** — 243 çalışmanın orijinal verisi yeniden modelleniyor ve farklı çalışmaların farklı öznitelik kodlamaları tek ortak ölçeğe (average forced-choice probability, AFCP) çevriliyor. Böylece "her çalışma kendi ölçeğinde konuşuyor" sorunu aşılıyor; eşdeğerlik bölgesi + TOST ile "pratik beraberlik" sertifikasyonu klasik NHST'nin anlamlı/anlamsız ikilisinin ötesine geçiyor. Bu, birikimli kanıt sentezinin nasıl yapılacağına dair yöntemsel bir model.
+
+### 🧵 X'te dolaşımı (2026-10-20)
+
+- [@jayvanbavel (Jay Van Bavel, NYU Psikoloji)](https://x.com/jayvanbavel/status/2112632222549266796) — "Demographics are not destiny" çerçeveli 6 maddelik özet: %72,5 partidaş; cinsiyet/ırk ~%50-50; politika bilgisi varken %78→%68; %58/%57 politika-uyumlu karşı-partili. 958 görüntülenme.
+- Alıntılanan thread: [@marcomavina (Marco Aviña, Harvard — ortak yazar)](https://x.com/marcomavina/status/2112543691151716424) — "%78 vs %68" bulgusunu ve Şekil 4'ü paylaşıyor.
+- **Teyit:** Tweet'teki tüm sayılar makale özetiyle uyumlu; tek sapma yuvarlama (2.18M vs 2.176.525). Van Bavel'in çerçevesi ("partizanlık çok güçlü ama her şey değil, politika tercihleri daha belirleyici") makalenin kendi sonuç cümlesiyle aynı.
+
+---
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|siyaset-bilimi-metodolojisi]]
+- [[concepts/partizan-kimlik.md|partizan-kimlik]]

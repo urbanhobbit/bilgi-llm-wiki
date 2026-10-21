@@ -1198,3 +1198,8 @@
 - Source files: 2026-10-21_000341_ingestion.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01-05_finland-s-preschool-classrooms-lead-the-fight-agai.md]] — Finland's preschool classrooms lead the fight against fake news
+- Source files: 2026-10-21_finland-media-literacy-preschool.json
+- Agent: OKF Ingestion Pipeline
+
