@@ -55,5 +55,8 @@ Türkiye ile karşılaştırma bu haberin en verimli kullanım alanı. Türkiye'
 - [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|IPIE Misinformation Resilience Index Review]] — Finlandiya'nın sürekli ilk sırada olduğu endeksin metodolojik incelemesi
+- [[raw/articles/2026-06-26_digital-t-rk-e-yapay-zeka-teknolojileri-ve-dezenfo.md|Digital Türkçe: Yapay Zeka Teknolojileri ve Dezenformasyon Tartışmaları]] — Türkiye'deki AI/dezenformasyon gündemi
