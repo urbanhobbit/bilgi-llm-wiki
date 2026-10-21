@@ -1,0 +1,39 @@
+---
+type: raw_article
+title: What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?
+description: 'Siyaset biliminde son on yılın en yaygın deneysel tasarımı haline gelen
+  ''aday seçimi conjoint'' (candidate-choice conjoint) deneylerinin ilk kapsamlı meta-yeniden
+  analizi. Ekip: Alexander Coppock (Nort...'
+resource: https://anonymouspoliticalscientist.shinyapps.io/afcp-explorer/
+tags:
+- akademik
+- genel
+- high
+timestamp: '2026-10-21T06:00:27Z'
+source_file: 2026-10-21_000341_ingestion.json
+category: AKADEMİK ÖZEL; GENEL
+priority: high
+published: '2026-10-19'
+---
+
+# What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?
+
+**Author(s):** Alexander Coppock (Northwestern University); Matthew Blyth (Yale University); Marco M. Aviña (Harvard University); Semra Sevi (University of Toronto)
+
+**Published:** 2026-10-19
+
+**Source:** [https://anonymouspoliticalscientist.shinyapps.io/afcp-explorer/](https://anonymouspoliticalscientist.shinyapps.io/afcp-explorer/)
+
+## Summary
+
+Siyaset biliminde son on yılın en yaygın deneysel tasarımı haline gelen 'aday seçimi conjoint' (candidate-choice conjoint) deneylerinin ilk kapsamlı meta-yeniden analizi. Ekip: Alexander Coppock (Northwestern), Matthew Blyth (Yale), Marco M. Aviña (Harvard), Semra Sevi (Toronto). Ölçek: **144 makale, 243 çalışma, 52 ülke, 434.079 katılımcı, 2.176.525 aday eşleşmesi**. Bu, tek bir ankette ulaşılamayacak bir kanıt kütlesi; alanın 'birikimli bilgi' iddiasını ilk kez sistematik olarak test ediyor. Yöntem: her çalışma için ağırlıklı, katılımcı-kümelenmiş ortalama 'zorunlu seçim olasılığı' (average forced-choice probability, AFCP) hesaplanıyor — yani A adayının B'ye karşı seçilme olasılığı, diğer tüm özniteliklerin randomizasyonu üzerinden ortalanmış (0,5 = beraberlik). Sonra çalışmalar rastgele etkiler meta-analizi ile birleştiriliyor. μ = havuzlanmış AFCP, τ = çalışmalar arası gerçek etki standart sapması (heterojenlik). Ayrıca eşdeğerlik bölgesi (equivalence region) tanımlanıp TOST ile 'pratik beraberlik' sertifikasyonu yapılıyor — bu, klasik NHST'nin 'anlamlı/anlamsız' ikilisinin ötesine geçen bir çıkarım çerçevesi. **Bulgular (1) — Politika ve partizanlık, demografiden çok daha güçlü:** Çalışmalar genelinde seçmenler **%72,5** oranında kendi partidaşını seçiyor. Cinsiyet ve çoğu ırk karşılaştırması ise %50-50'ye çok yakın. Yani siyasi hizalanma, demografik benzerlikten belirgin biçimde daha belirleyici. Bu, 'tanımlayıcı temsil vs. maddi temsil' (descriptive vs. substantive representation) tartışmasına doğrudan ampirik müdahale. **Bulgular (2) — Politika bilgisi diğer ipuçlarını zayıflatıyor:** Partidaş adaylar politika bilgisi YOKKEN %78, politika bilgisi VARKEN %68 kazanıyor. Yani seçmen adayın nerede durduğunu bildiğinde parti etiketi daha az iş görüyor. Bu, 'düşük bilgi rasyonalitesi' ve parti kimliği literatürü için önemli: bilgi arttıkça parti kısayolu değersizleşiyor. **Bulgular (3) — Çatışmada parti kazanıyor:** Parti kimliği ile demografik kimlik çatıştığında seçmen genelde farklı cinsiyet/ırktan partidaşı, kendi cinsiyet/ırkından rakip partiliye tercih ediyor. Paylaşılan kimliğin sınırları var. **Bulgular (4) — Ama politika partiyi yenebiliyor (çalışmanın twist'i):** Partilerin tipik pozisyonları kullanıldığında seçmenlerin **%59'u** karşı partiden ama politika olarak uyumlu adayı seçiyor; Cumhuriyetçilerde bu oran 50-50. Seçmenlerin GERÇEK görüş pozisyonları ölçüldüğünde: **Demokratların %58'i, Cumhuriyetçilerin %57'si** politika olarak uyumlu karşı-partili adayı seçiyor. Sonuç cümlesi (yazarların kendi formülasyonu): 'Partizanlık güçlü ama yenilmez değil. Bu aday seçimi deneylerinde politika hem demografik kimliği hem parti etiketini alt edebiliyor.' Metodolojik katkı: meta-analizin ham veriye inmesi (meta-reanalysis, meta-analysis değil) — 243 çalışmanın orijinal verisi yeniden modelleniyor, böylece farklı çalışmaların farklı öznitelik kodlamaları tek bir ortak ölçeğe (AFCP) çevrilebiliyor. Bu, sosyal bilimlerde birikimli kanıt sentezinin nasıl yapılacağına dair yöntemsel bir model. Şeffaflık: hakem değerlendirmesi sürdüğü için makale anonim; ama tüm tahminler ve R kodu indirilebilir bir Shiny uygulamasıyla (AFCP Explorer) kamuya açılmış — 243 çalışmanın tek tek sonuçları, heterojenlik (τ) ve 'kanıtın ince olduğu' hücreler görülebiliyor. Bu, 'açık bilim + hakem değerlendirmesi' birlikteliğinin iyi bir örneği. Sınırlar: yazarların kendi uyarısı — tüm büyüklükler conjoint deneyleri İÇİNDE geçerli, gerçek seçim oy oranları değil. Ayrıca 'hipotetik aday' tasarımının dış geçerliliği, parti etiketinin tek başına sunulduğu ABD ağırlıklı alt örneklem gibi konular açık kalıyor.
+
+## Turkey Context
+
+Türkiye bağlamında bu çalışmanın değeri iki katmanlı. Birincisi kuramsal: Türk siyaset bilimi literatüründe 'seçmen davranışı' tartışması uzun süre parti kimliği (party ID) ve merkez-çevre ekseninde yürüdü; adayın demografik özelliklerinin (başörtüsü, cinsiyet, etnik köken, gençlik) etkisi ise çoğunlukla anket düzeyinde ve dolaylı ölçüldü. Bu çalışma, 52 ülkeyi kapsayan kanıt kütlesiyle 'adayın kimliği mi, politikası mı' sorusuna deneysel bir cevap veriyor: **politika ve parti, demografiden belirgin biçimde daha belirleyici.** İkincisi yöntemsel ve çok daha pratik: Türkiye'de conjoint deneyleri hâlâ nadir ve genellikle tek çalışmalık. Bu makalenin AFCP çerçevesi, Türkiye'de yapılmış conjoint çalışmalarının (ve yapılacakların) uluslararası kanıt kütlesine nasıl bağlanacağını gösteriyor. Türkiye'de bir conjoint deneyi tasarlayan araştırmacı, AFCP standardını kullanarak sonucunu 243 çalışmayla doğrudan karşılaştırabilir — bu, alanın en büyük sorunlarından biri olan 'her çalışma kendi ölçeğinde konuşuyor' problemini çözüyor. Türkiye'ye özgü test edilmesi gereken hipotezler: (1) Türkiye'de parti kimliği %72,5'lik OECD ortalamasının ÇOK üzerinde olabilir — yüksek kutuplaşma ve düşük parti sistem kurumsallaşması bir arada. Bu, demografik özelliklerin (özellikle dindarlık göstergeleri ve etnik kimlik) etkisini 'parti gölgesinde' gizliyor olabilir. (2) 'Politika bilgisi varken partidaşlık %78'den %68'e düşüyor' bulgusu, Türkiye'de seçmenin politika pozisyonu bilgisinin çok düşük olması nedeniyle çok daha güçlü bir 'parti kısayolu' etkisi öngörür. Yani politika bilgisi arttıkça Türkiye'de parti etkisi çok daha keskin düşebilir — bu test edilebilir ve politika iletişimi açısından önemli. (3) 'Politika partiyi yeniyor' bulgusunun Türkiye'de geçerliliği ciddi bir soru: siyasi kimliklerin bir kısmının sosyal yardım/ağ ilişkileri üzerinden kurulduğu düşünülürse, politika uyumunun parti bağını aşma kapasitesi daha düşük olabilir. Akademik fırsat: Türkiye'de ilk kez ulusal temsili bir conjoint deneyi (ör. 81 il, 5.000+ katılımcı, aday öznitelikleri: cinsiyet, yaş, eğitim, dindarlık göstergesi, etnik kimlik, parti, politika pozisyonu) yapılırsa, bu makalenin AFCP standardıyla raporlanarak doğrudan uluslararası literatüre girebilir. TÜBİTAK 1001 ve ERC Starting Grant başvuruları için güçlü bir format. Yöntemsel uyarı: Türkiye'de conjoint'te 'dindarlık' ve 'etnik kimlik' gibi özniteliklerin doğrudan randomize edilmesi etik ve yasal risk taşıyor; ayrıca 'sosyal istenirlik yanlılığı' (social desirability bias) ABD örnekleminden çok daha yüksek olabilir. Makalenin kendisi bu konuda bir rehber sunmuyor — Türkiye uyarlaması ayrı bir yöntem makalesi gerektirir. Pratik siyasi iletişim çıkarımı: 'politika bilgisi sunulduğunda parti etiketi zayıflıyor' bulgusu, kampanya stratejisi açısından doğrudan bir mesaj — Türkiye'de seçmene adayın somut politika pozisyonunu iletmek, partizan bağdan bağımsız bir oy kazanma kanalı açabilir. Bu, özellikle kararsız seçmen ve genç seçmen segmentinde test edilmeye değer.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]

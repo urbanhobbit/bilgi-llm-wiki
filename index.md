@@ -417,4 +417,5 @@
 - [[raw/articles/2026-03-20_why-and-how-to-measure-children-s-subjective-well-.md|Why and how to measure children's subjective well-being (Full Report)]]
 - [[raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers.md|Doing Open Social Science: A Guide for Researchers]]
 - [[raw/articles/2026-10-20_spending-better-for-children-through-social-policy.md|Spending Better for Children through Social Policy]]
+- [[raw/articles/2026-10-19_what-do-we-learn-from-a-decade-of-candidate-choice.md|What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?]]
 

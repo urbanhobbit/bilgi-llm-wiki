@@ -1193,3 +1193,8 @@
 - Source files: 2026-10-20_batch-user-links-3.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-21] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-19_what-do-we-learn-from-a-decade-of-candidate-choice.md]] — What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?
+- Source files: 2026-10-21_000341_ingestion.json
+- Agent: OKF Ingestion Pipeline
+
