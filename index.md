@@ -419,4 +419,6 @@
 - [[raw/articles/2026-10-20_spending-better-for-children-through-social-policy.md|Spending Better for Children through Social Policy]]
 - [[raw/articles/2026-10-19_what-do-we-learn-from-a-decade-of-candidate-choice.md|What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?]]
 - [[raw/articles/2026-01-05_finland-s-preschool-classrooms-lead-the-fight-agai.md|Finland's preschool classrooms lead the fight against fake news]]
+- [[raw/articles/2026-10_drawing-a-line-in-digital-spaces-age-based-restric.md|Drawing a Line in Digital Spaces: Age-based restriction of social media (Rapid analysis, 2nd edition)]]
+- [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md|RESONANT Handbook on Information Suppression and FIMI (D4.3)]]
 

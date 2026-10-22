@@ -1203,3 +1203,9 @@
 - Source files: 2026-10-21_finland-media-literacy-preschool.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10_drawing-a-line-in-digital-spaces-age-based-restric.md]] — Drawing a Line in Digital Spaces: Age-based restriction of social media (Rapid analysis, 2nd edition)
+- Raw: [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md]] — RESONANT Handbook on Information Suppression and FIMI (D4.3)
+- Source files: 2026-10-22_unicef-resonant.json
+- Agent: OKF Ingestion Pipeline
+
