@@ -76,3 +76,4 @@ International Media Support (IMS) tarafından Ekim 2026'da yayımlanan 'The Cope
 ### 📄 İlgili Makaleler
 - [[raw/articles/2026-06-26_prebunking-misinformation-techniques-in-social-med.md|Prebunking misinformation techniques in social media feeds: Results from an Instagram field study (HKS Misinformation Review)]]
 - [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|Resilience and Vulnerability to Misinformation and Disinformation in Political Information Environments (IPIE, 10 index karşılaştırması)]]
+- [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md|RESONANT Handbook on Information Suppression and FIMI (D4.3) — bilgi bastırma ve orantılı karşı eylem]]

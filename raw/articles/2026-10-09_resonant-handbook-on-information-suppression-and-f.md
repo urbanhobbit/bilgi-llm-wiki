@@ -52,4 +52,9 @@ El kitabı Türkiye'yi vaka olarak ele almıyor; diaspora toplulukları (özelli
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/resonant-project.md|RESONANT (Horizon Europe Projesi)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10_the-copenhagen-manual-recognising-and-responding-t.md|The Copenhagen Manual: Recognising and responding to information operations]]

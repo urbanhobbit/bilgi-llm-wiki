@@ -50,9 +50,16 @@ Türkiye, UNICEF'in Mart 2026 tarihli ilk hızlı analizinde '15 yaş altı' eş
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
-- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/unicef.md|Unicef]]
+- [[entities/unicef.md|UNICEF]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_15-ya-alt-sosyal-medya-yasa-i-lk-6-madde-meclis-te.md|15 yaş altı sosyal medya yasağı: İlk 6 madde Meclis'ten geçti]]
+- [[raw/articles/2026-06-26_sosyal-medyada-yeni-d-nem-15-ya-s-n-r-ve-a-r-yapt-.md|Sosyal medyada yeni dönem: 15 yaş sınırı ve ağır yaptırımlar kapıda]]
+- [[raw/articles/2026-06-27_debate-on-setting-a-minimum-age-for-social-media-e.md|Debate on setting a minimum age for social media — European Parliament Think Tank]]

@@ -49,3 +49,5 @@ FIMI, yabancı devlet veya devlet bağlantılı aktörlerin bilgi ortamını ça
 
 ## İzleme
 EDMO hub ağı (BECID, GADMO, BROD, FACT vb.) FIMI vakalarının doğrulama ve izleme altyapısını oluşturur — bkz. [[entities/edmo.md|EDMO]].
+
+**Bilgi bastırma + karşı eylem el kitabı:** [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md|RESONANT Handbook on Information Suppression and FIMI (D4.3, Ekim 2026)]] — Incident Sheet, kanıt × şiddet matrisi, 'ne zaman harekete geçmemeli'; konsorsiyum için [[entities/resonant-project.md|RESONANT (Horizon Europe)]].
