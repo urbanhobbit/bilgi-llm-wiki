@@ -44,5 +44,13 @@ Türkiye açısından üç ayrı katman var. Birincisi, yöntemsel: Türkiye'de 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from LLMs are weak proxies for human economic preferences across 74 countries (Chen ve ark., Nature Human Behaviour, 2026)]]
+- [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models (Asano ve ark., 2026)]]
