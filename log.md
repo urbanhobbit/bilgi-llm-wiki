@@ -1209,3 +1209,8 @@
 - Source files: 2026-10-22_unicef-resonant.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-22] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-15_polling-without-people-can-silicon-samples-of-casm.md]] — Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents in Pre-Election Polling?
+- Source files: 2026-10-22_polling-without-people-casm-silicon-samples.json
+- Agent: OKF Ingestion Pipeline
+
