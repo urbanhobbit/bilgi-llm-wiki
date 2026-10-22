@@ -41,7 +41,17 @@ ChatGPT'nin 30 Kasım 2022'de kamuya açılması, yapay zekâyı akademi, teknol
 
 ## Turkey Context
 
-Türkiye'de nitel araştırma (derinlemesine görüşme, odak grubu, saha notları) giderek yaygınlaşırken, araştırmacıların ChatGPT/LLM kullanımına dair kurumsal etik kılavuzu henüz olgunlaşmadı. Bu bölüm, Türk üniversitelerinde nitel yöntem dersleri ve etik kurul değerlendirmeleri için uygulanabilir bir kontrol listesi işlevi görebilir; özellikle deşifre edilen transcript'lerin AI ile analizinde şeffaflık ve bağlam kaybı risklerine dikkat çekmesi bakımından.
+Türkiye'de nitel araştırma (derinlemesine görüşme, odak grubu, saha notları) giderek yaygınlaşırken, araştırmacıların ChatGPT/LLM kullanımına dair kurumsal etik kılavuzu henüz olgunlaşmadı. Bu bölüm, Türk üniversitelerinde nitel yöntem dersleri ve etik kurul değerlendirmeleri için uygulanabilir bir kontrol listesi işlevi görebilir; özellikle deşifre edilen transcript'lerin AI ile analizinde şeffaflık ve bağlam kaybı risklerine dikkat çekmesi bakımından. Ek olarak bu bölüm, araştırma yöntemleri (research methods) eğitiminde eksik olan bir boşluğu dolduruyor: Türkiye'de nitel yöntem müfredatı çoğunlukla klasik kodlama/analiz tekniklerinde kalıyor, LLM destekli analizde şeffaflık ve raporlama standardı tanımlanmıyor. TÜBİTAK ve üniversite etik kurulları için pratik öneri: LLM kullanımının hangi aşamada (soru formülasyonu, kodlama, yorumlama) ve hangi sürüm/modelle yapıldığının zorunlu beyan edilmesi.
+
+## 📚 Künye ve Yayın Bağlamı (2026-10-21 doğrulaması)
+
+- **Tür:** Kitap bölümü (book chapter) — **s. 84-96**, yayıncı **CABI**.
+- **Kitap:** *Artificial Intelligence (AI) in Social Research*, ISBN 9781800626584 / 9781800626591 (e-kitap 9781800626607).
+- **DOI:** [10.1079/9781800626607.0008](https://doi.org/10.1079/9781800626607.0008) — Crossref + OpenAlex kayıtları birebir uyuşuyor.
+- **Erişim:** **Kapalı erişim** (OpenAlex `oa_status: closed`, repository kopyası yok) — özet ve bölüm yapısı yayıncı/OpenAlex meta verisinden doğrulandı, tam metin okunmadı. Bu sayfadaki "altı aşama" listesi bölümün kendi özetinden geliyor.
+- **Etki:** OpenAlex'te 1 atıf, FWCI ≈ 8,3 (alan ortalamasının ~8 katı; küçük bölüm hacmi nedeniyle ihtiyatla okunmalı).
+- **Anahtar kavramlar (yayıncı):** large language models, ChatGPT, research ethics, algorithmic bias, AI transparency, AI-assisted data analysis, research design.
+- **X'te dolaşımı:** [@TheQualReport (The Qualitative Report)](https://x.com/TheQualReport/status/2112907550291116254) — 21 Ekim 2026, "Explore AI through a qualitative research lens" çerçevesiyle bölümü duyurdu; gönderi doğrudan DOI'ye gidiyor (aracı link yok).
 
 ## 🏷 Retorik Roller
 
@@ -52,4 +62,8 @@ Türkiye'de nitel araştırma (derinlemesine görüşme, odak grubu, saha notlar
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-16_the-use-and-methodological-reporting-of-large-lang.md|The use and methodological reporting of large language models in qualitative research]] — LLM kullanımının raporlanma pratiği
+- [[raw/articles/2025-06-20_thematic-analysis-of-interview-data-with-chatgpt-d.md|Thematic analysis of interview data with ChatGPT]] — ChatGPT ile tematik analiz denemesi
