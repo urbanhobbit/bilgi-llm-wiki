@@ -1214,3 +1214,8 @@
 - Source files: 2026-10-22_polling-without-people-casm-silicon-samples.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_ai-article-reviews-dominate-human-peer-reviews-at-.md]] — AI Article Reviews Dominate Human Peer Reviews at Their Best: Evidence and Policy Choices
+- Source files: 2026-10-23_ai-article-reviews-dominate-human-peer-reviews.json
+- Agent: OKF Ingestion Pipeline
+
