@@ -430,4 +430,5 @@
 - [[raw/articles/2026-09-01_countering-information-suppression-a-toolkit-arm-p.md|Countering Information Suppression: A Toolkit (ARM Project, D6.4)]]
 - [[raw/articles/2026-10-06_when-ai-makes-each-of-us-better-all-of-us-worse-an.md|When AI Makes Each of Us Better & All of Us Worse (and what to do about it) — Harvard AI Research Seminar]]
 - [[raw/articles/2026-08-29_inducing-sustained-creativity-and-diversity-in-lar.md|Inducing Sustained Creativity and Diversity in Large Language Models]]
+- [[raw/articles/2026-10-16_polarization-crises-and-accountability-the-role-of.md|Polarization, crises, and accountability: The role of conditional partisan bias in economic perceptions]]
 

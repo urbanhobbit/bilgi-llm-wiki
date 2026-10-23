@@ -1250,3 +1250,8 @@
 - Source files: 2026-10-23_gary-king-ai-better-worse-talk-and-quest-paper.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_polarization-crises-and-accountability-the-role-of.md]] — Polarization, crises, and accountability: The role of conditional partisan bias in economic perceptions
+- Source files: 2026-10-16_conditional-partisan-bias-economic-perceptions.json
+- Agent: OKF Ingestion Pipeline
+
