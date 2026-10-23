@@ -423,4 +423,5 @@
 - [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md|RESONANT Handbook on Information Suppression and FIMI (D4.3)]]
 - [[raw/articles/2026-10-15_polling-without-people-can-silicon-samples-of-casm.md|Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents in Pre-Election Polling?]]
 - [[raw/articles/2026-10-22_ai-article-reviews-dominate-human-peer-reviews-at-.md|AI Article Reviews Dominate Human Peer Reviews at Their Best: Evidence and Policy Choices]]
+- [[raw/articles/2026-09-11_the-convergence-of-zero-sum-thinking-and-illiberal.md|The Convergence of Zero-Sum Thinking and Illiberalism in the United States]]
 

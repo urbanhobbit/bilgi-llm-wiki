@@ -1219,3 +1219,8 @@
 - Source files: 2026-10-23_ai-article-reviews-dominate-human-peer-reviews.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-11_the-convergence-of-zero-sum-thinking-and-illiberal.md]] — The Convergence of Zero-Sum Thinking and Illiberalism in the United States
+- Source files: 2026-10-23_zero-sum-thinking-illiberalism-ssq.json
+- Agent: OKF Ingestion Pipeline
+
