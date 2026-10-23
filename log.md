@@ -1239,3 +1239,8 @@
 - Source files: 2026-10-23_mapping-economic-theory-with-ai.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-01_countering-information-suppression-a-toolkit-arm-p.md]] — Countering Information Suppression: A Toolkit (ARM Project, D6.4)
+- Source files: 2026-09-01_arm-countering-information-suppression-toolkit.json
+- Agent: OKF Ingestion Pipeline
+
