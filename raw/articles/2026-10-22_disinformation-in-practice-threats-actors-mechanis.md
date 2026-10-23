@@ -66,4 +66,8 @@ Türkiye'de dezenformasyonla mücadele kurumsal olarak dağınık: İletişim Ba
 - [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/misinforeview-hks-harvard-edu.md|Misinforeview Hks Harvard Edu]]
+- [[entities/misinforeview-hks-harvard-edu.md|HKS Misinformation Review (Harvard Kennedy School)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-01_countering-information-suppression-a-toolkit-arm-p.md|Countering Information Suppression: A Toolkit (ARM Project, D6.4)]]
+- [[raw/articles/2026-10_the-copenhagen-manual-recognising-and-responding-t.md|The Copenhagen Manual: Recognising and responding to information operations]]
+- [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|Resilience and Vulnerability to Misinformation and Disinformation: A Comparative Review of Ten Indexes]]
