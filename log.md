@@ -1255,3 +1255,8 @@
 - Source files: 2026-10-16_conditional-partisan-bias-economic-perceptions.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-21_political-psychology-in-an-era-of-personalization-.md]] — Political psychology in an era of personalization: Misinformation research, generative AI, and the promise of tailored experiments
+- Source files: 2026-10-21_velez-political-psychology-personalization.json
+- Agent: OKF Ingestion Pipeline
+
