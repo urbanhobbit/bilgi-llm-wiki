@@ -66,4 +66,9 @@ Türkiye açısından dört katman var. Birincisi kapasite: DergiPark üzerinde 
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/gking-harvard-edu.md|Gking Harvard Edu]]
+- [[entities/gking-harvard-edu.md|Gary King (gking.harvard.edu)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
+- [[raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers.md|Doing Open Social Science: A Guide for Researchers]]
+- [[raw/articles/2026-02-28_large-language-models-in-qualitative-analysis-comp.md|Large Language Models in Qualitative Analysis: Comparing Traditional and Researcher-Interpreted Approaches]]
+- [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA — metodoloji ve etik]]
