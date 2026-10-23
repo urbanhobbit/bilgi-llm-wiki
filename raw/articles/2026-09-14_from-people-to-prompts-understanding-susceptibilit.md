@@ -59,4 +59,8 @@ Türkiye'de sohbet robotlarının görüş oluşumundaki rolü hızla artıyor: 
 ### 🧠 İlgili Kavramlar
 - [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/apa-psycnet.md|Apa Psycnet]]
+- [[entities/apa-psycnet.md|APA PsycNet (Journal of Personality and Social Psychology)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan misperceptions and reduce hostility]]
+- [[raw/articles/2026-10-21_political-psychology-in-an-era-of-personalization-.md|Political psychology in an era of personalization: Misinformation research, generative AI, and the promise of tailored experiments]]
+- [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md|Unfollowing hyperpartisan social media influencers durably reduces out-party animosity]]
