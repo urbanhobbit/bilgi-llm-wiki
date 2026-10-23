@@ -1290,3 +1290,9 @@
 - Source files: 2026-10-22_avoiding-the-worst-leaders.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-15_changes-in-social-and-emotional-content-in-song-ly.md]] — Changes in social and emotional content in song lyrics across popular artists' discographies
+- Raw: [[raw/articles/2026-08-13_ai-and-education-report-of-mit-s-ad-hoc-committee-.md]] — AI and Education: Report of MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training
+- Source files: 2026-10-23_song-lyrics-emotion-and-mit-ai-education-report.json
+- Agent: OKF Ingestion Pipeline
+

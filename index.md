@@ -438,4 +438,6 @@
 - [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md|Unfollowing hyperpartisan social media influencers durably reduces out-party animosity]]
 - [[raw/articles/2026-09-14_from-people-to-prompts-understanding-susceptibilit.md|From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence]]
 - [[raw/articles/2026-10-22_avoiding-the-worst-leaders-is-more-important-than-.md|Avoiding the worst leaders is more important than getting the best]]
+- [[raw/articles/2026-10-15_changes-in-social-and-emotional-content-in-song-ly.md|Changes in social and emotional content in song lyrics across popular artists' discographies]]
+- [[raw/articles/2026-08-13_ai-and-education-report-of-mit-s-ad-hoc-committee-.md|AI and Education: Report of MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training]]
 
