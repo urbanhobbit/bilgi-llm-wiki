@@ -52,4 +52,8 @@ Türkiye'de sosyal bilim ve ekonomi araştırmasının pratiği R/Stata/Python a
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/youtube.md|Youtube]]
+- [[entities/youtube.md|YouTube]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod.md|A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History]]
+- [[raw/articles/2026-10-20_rolling-memory-a-new-approach-to-annotation-with-g.md|Rolling Memory: A New Approach to Annotation with Generative LLMs in Social and Political Research]]
+- [[raw/articles/2026-10-10_agentic-knowledge-graphs-kursu-viral-x-i-ddias-n-n.md|Agentic Knowledge Graphs Kursu: Viral X İddiasının Doğrulaması (DeepLearning.AI / Neo4j / Google ADK)]]
