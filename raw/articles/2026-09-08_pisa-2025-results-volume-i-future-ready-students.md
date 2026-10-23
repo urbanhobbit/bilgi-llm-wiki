@@ -56,7 +56,11 @@ Türkiye verisi bu raporun en politika-yoğun kısmı: haftalık YZ kullanımın
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/oecd.md|Oecd]]
+- [[entities/oecd.md|OECD]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_pisa-2029-mail-assessment-framework-oecd.md|PISA 2029 MAIL Assessment Framework - OECD]]
+- [[raw/articles/2026-06-26_how-kids-are-actually-using-ai-bbc-future.md|How Kids Are Actually Using AI — BBC Future]]
+- [[raw/articles/2026-05-27_media-literacy-education-policy-in-finland-2026-na.md|Media Literacy Education Policy in Finland (2026) — National Media Education Policy]]
