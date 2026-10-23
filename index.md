@@ -434,4 +434,5 @@
 - [[raw/articles/2026-10-21_political-psychology-in-an-era-of-personalization-.md|Political psychology in an era of personalization: Misinformation research, generative AI, and the promise of tailored experiments]]
 - [[raw/articles/2026-10-22_disinformation-in-practice-threats-actors-mechanis.md|Disinformation in practice: Threats, actors, mechanisms, and constraints according to practitioners]]
 - [[raw/articles/2026-10-22_rejecting-authoritarianism-when-threats-to-democra.md|Rejecting authoritarianism: When threats to democracy shape values]]
+- [[raw/articles/2026-10-19_networks-of-dissent-social-leaders-and-protest-in-.md|Networks of Dissent: Social Leaders and Protest in an Autocracy]]
 

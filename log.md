@@ -1270,3 +1270,8 @@
 - Source files: 2026-10-22_smith-rejecting-authoritarianism-brazil.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-19_networks-of-dissent-social-leaders-and-protest-in-.md]] — Networks of Dissent: Social Leaders and Protest in an Autocracy
+- Source files: 2026-10-19_networks-of-dissent-social-leaders-protest.json
+- Agent: OKF Ingestion Pipeline
+
