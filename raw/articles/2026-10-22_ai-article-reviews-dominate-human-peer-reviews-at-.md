@@ -72,3 +72,5 @@ Türkiye açısından dört katman var. Birincisi kapasite: DergiPark üzerinde 
 - [[raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers.md|Doing Open Social Science: A Guide for Researchers]]
 - [[raw/articles/2026-02-28_large-language-models-in-qualitative-analysis-comp.md|Large Language Models in Qualitative Analysis: Comparing Traditional and Researcher-Interpreted Approaches]]
 - [[raw/articles/2026-05-14_ozel_metodoloji_etik.md|AKADEMİK ÖZEL TARAMA — metodoloji ve etik]]
+- [[raw/articles/2026-10-06_when-ai-makes-each-of-us-better-all-of-us-worse-an.md|When AI Makes Each of Us Better & All of Us Worse (Harvard AI Research Seminar)]]
+- [[raw/articles/2026-08-29_inducing-sustained-creativity-and-diversity-in-lar.md|Inducing Sustained Creativity and Diversity in Large Language Models]]

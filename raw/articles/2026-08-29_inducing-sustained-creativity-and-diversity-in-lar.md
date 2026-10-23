@@ -60,4 +60,7 @@ Türkiye'de sosyal bilim araştırmasının en kronik sorunu konu seçiminin dar
 ### 🧠 İlgili Kavramlar
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/gking-harvard-edu.md|Gking Harvard Edu]]
+- [[entities/gking-harvard-edu.md|Gary King (gking.harvard.edu)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-06_when-ai-makes-each-of-us-better-all-of-us-worse-an.md|When AI Makes Each of Us Better & All of Us Worse (Harvard AI Research Seminar)]]
+- [[raw/articles/2026-10-22_ai-article-reviews-dominate-human-peer-reviews-at-.md|AI Article Reviews Dominate Human Peer Reviews at Their Best]]

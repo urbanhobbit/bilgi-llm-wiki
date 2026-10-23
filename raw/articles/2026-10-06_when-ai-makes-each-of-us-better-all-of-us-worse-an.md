@@ -57,4 +57,7 @@ Türkiye açısından iki pratik sonuç var. Birincisi hakemlik: yurt içi dergi
 - [[concepts/bilimsel-iletisim.md|Bilimsel İletişim (Science Communication)]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/gking-harvard-edu.md|Gking Harvard Edu]]
+- [[entities/gking-harvard-edu.md|Gary King (gking.harvard.edu)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-22_ai-article-reviews-dominate-human-peer-reviews-at-.md|AI Article Reviews Dominate Human Peer Reviews at Their Best]]
+- [[raw/articles/2026-08-29_inducing-sustained-creativity-and-diversity-in-lar.md|Inducing Sustained Creativity and Diversity in Large Language Models]]
