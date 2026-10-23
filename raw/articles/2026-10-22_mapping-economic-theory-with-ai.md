@@ -63,3 +63,7 @@ Türkiye açısından en somut fayda hakemlik kapasitesi: TR Dizin kapsamındaki
 ### 🧠 İlgili Kavramlar
 - [[concepts/bilimsel-iletisim.md|Bilimsel İletişim (Science Communication)]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-22_ai-article-reviews-dominate-human-peer-reviews-at-.md|AI Article Reviews Dominate Human Peer Reviews at Their Best]]
+- [[raw/articles/2026-10-22_7-mistakes-economists-make-with-claude-code-codex-.md|7 Mistakes Economists Make With Claude Code & Codex Skills]]
+- [[raw/articles/2026-10-10_agentic-knowledge-graphs-kursu-viral-x-i-ddias-n-n.md|Agentic Knowledge Graphs Kursu: Viral X İddiasının Doğrulaması]]
