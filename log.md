@@ -1229,3 +1229,8 @@
 - Source files: 2026-10-23_panjwani-skills-economics-research.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-08_pisa-2025-results-volume-i-future-ready-students.md]] — PISA 2025 Results (Volume I): Future-Ready Students
+- Source files: 2026-10-23_pisa-2025-turkiye-ai-kullanimi.json
+- Agent: OKF Ingestion Pipeline
+
