@@ -1260,3 +1260,8 @@
 - Source files: 2026-10-21_velez-political-psychology-personalization.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_disinformation-in-practice-threats-actors-mechanis.md]] — Disinformation in practice: Threats, actors, mechanisms, and constraints according to practitioners
+- Source files: 2026-10-22_darcy-altay-disinformation-in-practice.json
+- Agent: OKF Ingestion Pipeline
+
