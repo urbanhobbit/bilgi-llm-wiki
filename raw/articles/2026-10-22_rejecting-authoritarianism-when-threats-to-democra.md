@@ -58,4 +58,8 @@ Türkiye açısından bulgu doğrudan bir hipotez veriyor: iktidar bloğunun oto
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-08-10_i-will-take-care-of-this-country-the-paradox-of-he.md|"I will take care of this country": The paradox of helplessness in Lula's discourse amid the rise of the far right in Brazil]]
+- [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
+- [[raw/articles/2026-10-13_what-if-political-polarization-is-not-the-disease-.md|What if Political Polarization Is Not the Disease but the Cure?]]
