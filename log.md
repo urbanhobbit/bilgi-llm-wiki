@@ -1275,3 +1275,8 @@
 - Source files: 2026-10-19_networks-of-dissent-social-leaders-protest.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md]] — Unfollowing hyperpartisan social media influencers durably reduces out-party animosity
+- Source files: 2025-08-23_unfollowing-hyperpartisan-influencers.json
+- Agent: OKF Ingestion Pipeline
+
