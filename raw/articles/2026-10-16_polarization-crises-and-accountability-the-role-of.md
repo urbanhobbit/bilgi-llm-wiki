@@ -60,4 +60,7 @@ Türkiye açısından doğrudan bir araştırma gündemi var. Birincisi olgu: T�
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/sciencedirect.md|Sciencedirect]]
+- [[entities/sciencedirect.md|ScienceDirect (Elsevier)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-08-24_where-the-grass-seems-greener-economic-mispercepti.md|Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy — Acemoglu et al. (NBER WP 35644, 2026)]]
+- [[raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e.md|Divided We Fall: Opposition Fragmentation and the Electoral Fortunes of Governing Parties]]
