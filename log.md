@@ -1280,3 +1280,8 @@
 - Source files: 2025-08-23_unfollowing-hyperpartisan-influencers.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-14_from-people-to-prompts-understanding-susceptibilit.md]] — From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence
+- Source files: 2026-09-14_from-people-to-prompts-ai-persuasion.json
+- Agent: OKF Ingestion Pipeline
+
