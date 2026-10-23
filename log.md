@@ -1224,3 +1224,8 @@
 - Source files: 2026-10-23_zero-sum-thinking-illiberalism-ssq.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_7-mistakes-economists-make-with-claude-code-codex-.md]] — 7 Mistakes Economists Make With Claude Code & Codex Skills (USC Seminar)
+- Source files: 2026-10-23_panjwani-skills-economics-research.json
+- Agent: OKF Ingestion Pipeline
+
