@@ -64,4 +64,8 @@ Türkiye'de liderlik tartışması neredeyse tamamen 'en iyiyi bulma' (liderlik 
 - [[concepts/liderlik-ve-lider-secimi.md|Liderlik ve Lider Seçimi]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/osf-io.md|Osf Io]]
+- [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-22_rejecting-authoritarianism-when-threats-to-democra.md|Rejecting authoritarianism: When threats to democracy shape values]]
+- [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
+- [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md|Unfollowing hyperpartisan social media influencers durably reduces out-party animosity]]
