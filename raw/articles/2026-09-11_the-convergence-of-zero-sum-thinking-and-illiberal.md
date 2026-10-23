@@ -61,4 +61,8 @@ Türkiye açısından doğrudan bir replikasyon fırsatı var. Birincisi kavrams
 - [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
+- [[raw/articles/2026-10-13_challenges-of-re-democratisation-and-conflicting-l.md|Challenges of re-democratisation and conflicting logics of polarisation: Poland's 2025 presidential elections]]
+- [[raw/articles/2026-08-09_the-rise-and-closure-of-liberal-democracy-a-system.md|The rise and closure of 'liberal democracy': A systematic review, 1990–2025]]
