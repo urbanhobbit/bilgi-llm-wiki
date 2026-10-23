@@ -58,4 +58,8 @@ Türkiye açısından iki düzeyde okunabilir. Birincisi kavramsal: otoriter rej
 - [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/academic-oup-com.md|Oxford University Press (academic.oup.com)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-22_rejecting-authoritarianism-when-threats-to-democra.md|Rejecting authoritarianism: When threats to democracy shape values]]
+- [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]]
+- [[raw/articles/2026-10-13_challenges-of-re-democratisation-and-conflicting-l.md|Challenges of Re-democratisation and Conflicting Legacies]]
