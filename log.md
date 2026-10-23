@@ -1234,3 +1234,8 @@
 - Source files: 2026-10-23_pisa-2025-turkiye-ai-kullanimi.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_mapping-economic-theory-with-ai.md]] — Mapping Economic Theory with AI
+- Source files: 2026-10-23_mapping-economic-theory-with-ai.json
+- Agent: OKF Ingestion Pipeline
+

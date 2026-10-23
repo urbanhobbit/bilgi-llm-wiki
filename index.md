@@ -426,4 +426,5 @@
 - [[raw/articles/2026-09-11_the-convergence-of-zero-sum-thinking-and-illiberal.md|The Convergence of Zero-Sum Thinking and Illiberalism in the United States]]
 - [[raw/articles/2026-10-22_7-mistakes-economists-make-with-claude-code-codex-.md|7 Mistakes Economists Make With Claude Code & Codex Skills (USC Seminar)]]
 - [[raw/articles/2026-09-08_pisa-2025-results-volume-i-future-ready-students.md|PISA 2025 Results (Volume I): Future-Ready Students]]
+- [[raw/articles/2026-10-22_mapping-economic-theory-with-ai.md|Mapping Economic Theory with AI]]
 
