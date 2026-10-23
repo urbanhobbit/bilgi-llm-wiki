@@ -66,4 +66,8 @@ Türkiye'de siyasi kutuplaşma tartışması genellikle 'içerik kaldırma/yasak
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/osf-io.md|Osf Io]]
+- [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Petter vd.)]]
+- [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Opponents Shapes Animosity]]
+- [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times-polit.md|Partisan Wishful Thinking in Polarized Times (Political Behavior, Seth Warner)]]
