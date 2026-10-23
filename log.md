@@ -1265,3 +1265,8 @@
 - Source files: 2026-10-22_darcy-altay-disinformation-in-practice.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_rejecting-authoritarianism-when-threats-to-democra.md]] — Rejecting authoritarianism: When threats to democracy shape values
+- Source files: 2026-10-22_smith-rejecting-authoritarianism-brazil.json
+- Agent: OKF Ingestion Pipeline
+
