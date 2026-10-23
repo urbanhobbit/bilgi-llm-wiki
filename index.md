@@ -437,4 +437,5 @@
 - [[raw/articles/2026-10-19_networks-of-dissent-social-leaders-and-protest-in-.md|Networks of Dissent: Social Leaders and Protest in an Autocracy]]
 - [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md|Unfollowing hyperpartisan social media influencers durably reduces out-party animosity]]
 - [[raw/articles/2026-09-14_from-people-to-prompts-understanding-susceptibilit.md|From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence]]
+- [[raw/articles/2026-10-22_avoiding-the-worst-leaders-is-more-important-than-.md|Avoiding the worst leaders is more important than getting the best]]
 
