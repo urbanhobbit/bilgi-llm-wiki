@@ -428,4 +428,6 @@
 - [[raw/articles/2026-09-08_pisa-2025-results-volume-i-future-ready-students.md|PISA 2025 Results (Volume I): Future-Ready Students]]
 - [[raw/articles/2026-10-22_mapping-economic-theory-with-ai.md|Mapping Economic Theory with AI]]
 - [[raw/articles/2026-09-01_countering-information-suppression-a-toolkit-arm-p.md|Countering Information Suppression: A Toolkit (ARM Project, D6.4)]]
+- [[raw/articles/2026-10-06_when-ai-makes-each-of-us-better-all-of-us-worse-an.md|When AI Makes Each of Us Better & All of Us Worse (and what to do about it) — Harvard AI Research Seminar]]
+- [[raw/articles/2026-08-29_inducing-sustained-creativity-and-diversity-in-lar.md|Inducing Sustained Creativity and Diversity in Large Language Models]]
 

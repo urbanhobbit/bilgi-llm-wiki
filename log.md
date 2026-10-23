@@ -1244,3 +1244,9 @@
 - Source files: 2026-09-01_arm-countering-information-suppression-toolkit.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-23] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-06_when-ai-makes-each-of-us-better-all-of-us-worse-an.md]] — When AI Makes Each of Us Better & All of Us Worse (and what to do about it) — Harvard AI Research Seminar
+- Raw: [[raw/articles/2026-08-29_inducing-sustained-creativity-and-diversity-in-lar.md]] — Inducing Sustained Creativity and Diversity in Large Language Models
+- Source files: 2026-10-23_gary-king-ai-better-worse-talk-and-quest-paper.json
+- Agent: OKF Ingestion Pipeline
+
