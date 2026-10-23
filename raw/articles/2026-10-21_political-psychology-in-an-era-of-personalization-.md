@@ -57,4 +57,8 @@ Türkiye'de dezenformasyon araştırması neredeyse tamamen nüfus düzeyinde y�
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-15_polling-without-people-can-silicon-samples-of-casm.md|Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents?]]
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from large language models are weak proxies for human economic preferences across 74 countries]]
+- [[raw/articles/2026-10-01_mis-perceptions-of-politically-motivated-reasoning.md|Mis-perceptions of Politically Motivated Reasoning]]
