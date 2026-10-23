@@ -56,4 +56,8 @@ Türkiye açısından üç katman var. Birincisi kavramsal aktarım: Türkiye'de
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/arm-project-eu.md|Arm Project Eu]]
+- [[entities/arm-project-eu.md|ARM Project (Horizon Europe)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-09_resonant-handbook-on-information-suppression-and-f.md|RESONANT Handbook on Information Suppression and FIMI (D4.3)]]
+- [[raw/articles/2026-10_the-copenhagen-manual-recognising-and-responding-t.md|The Copenhagen Manual: Recognising and responding to information operations]]
+- [[raw/articles/2026-07-08-ipie-misinformation-resilience-index-review.md|Resilience and Vulnerability to Misinformation and Disinformation: A Comparative Review of Ten Indexes]]
