@@ -39,3 +39,12 @@ Stanford Impact Labs'ın 28 Mayıs 2026 tarihli yazısı; Matthew Gentzkow'un St
 ## Turkey Context
 
 Türkiye bağlamında en tartışmalı kısım ikinci gerekçe: 'ilişki yoğun işler otomatikleşmez' tezi, Türkiye'de araştırma altyapısının (kurumdan veri alma, saha izni, okulda deney) zaten ilişki ve kurum pazarlığı üzerinden yürüdüğü gerçeğiyle örtüşüyor — yani AI, Türkiye'de ampirik araştırmanın darboğazını değiştirmiyor, çünkü darboğaz hiç kodlama değildi. Bu, TÜBİTAK/KALKINMA ajansı destekli projelerde 'veri erişimi' kaleminin neden en kritik satır olduğunu açıklıyor; genç araştırmacı için AI becerisi tek başına yeterli değil, kurum içi veri anlaşmaları ve saha ağı hâlâ belirleyici. Üçüncü gerekçe (yavaş değişen kurumlar) Türkiye'de kutuplaşma ve dezenformasyon araştırması açısından önemli: yasal çerçeve ve kurumsal normlar yavaş değiştiği için, hızlı üretilen AI destekli kanıtın politika etkisi sınırlı kalabilir; kanıtın 'anlaşılır ve güvenilir' biçimde paketlenmesi gerekiyor. Tavsiyelerin müfredata çevrilebilir hali: lisansüstü programlarda 'ajan yönetimi + proje yönetimi' dersinin açılması ve tez danışmanlığında öğrencinin AI iş akışını belgelemesi. Uyarı: yazı bir üniversitenin iletişim ofisinde yayımlandı ve yazarın kendi hızlı hibe programını duyuruyor — iyimser ton kurumsal çıkar ile iç içe okunmalı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md|The Sources of Researcher Variation in Economics]] — ampirik üretimde araştırmacı serbestliği
+- [[raw/articles/2026-04-03_some-thoughts-on-ai-and-research.md|Some Thoughts on AI and Research]] — doktora eğitimi ve AI yatırımı
+- [[raw/articles/2026-04-06_will-ai-kill-economics-comparative-advantage-among.md|Will AI Kill Economics' Comparative Advantage among the social sciences?]] — AI ve iktisadın karşılaştırmalı üstünlüğü
+- [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md|AI Will Drive the Coming Integration of Interpretive and Positive Methodologies]] — yorumlayıcı çıkarımın kalıcılığı
