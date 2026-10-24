@@ -58,4 +58,4 @@ Türkiye'de müzik sözlerinin duygusal içeriği üzerine sistematik bir külli
 ### 🧠 İlgili Kavramlar
 - [[concepts/kulturel-evrim.md|Kültürel Evrim]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/apa-psycnet.md|Apa Psycnet]]
+- [[entities/apa-psycnet.md|APA PsycNet (Psychology of Aesthetics, Creativity, and the Arts)]]

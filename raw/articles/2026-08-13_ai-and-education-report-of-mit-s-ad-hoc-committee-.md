@@ -59,3 +59,8 @@ Türkiye'de yükseköğretimde AI politikası çoğunlukla 'intihal tespiti' eks
 ### 🧠 İlgili Kavramlar
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/mit.md|MIT (Massachusetts Institute of Technology)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-04-23_the-college-campus-and-the-culture-war-the-develop.md|The College Campus and the Culture War]]
+- [[raw/articles/2026-06-26_common-sense-media-generation-ai-children-s-ai-use.md|Common Sense Media: Generative AI and Children's AI Use]]

@@ -440,4 +440,9 @@
 - [[raw/articles/2026-10-22_avoiding-the-worst-leaders-is-more-important-than-.md|Avoiding the worst leaders is more important than getting the best]]
 - [[raw/articles/2026-10-15_changes-in-social-and-emotional-content-in-song-ly.md|Changes in social and emotional content in song lyrics across popular artists' discographies]]
 - [[raw/articles/2026-08-13_ai-and-education-report-of-mit-s-ad-hoc-committee-.md|AI and Education: Report of MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training]]
+- [[raw/articles/2026-04-03_some-thoughts-on-ai-and-research.md|Some Thoughts on AI and Research]]
+- [[raw/articles/2026-04-06_will-ai-kill-economics-comparative-advantage-among.md|Will AI Kill Economics' Comparative Advantage among the social sciences?]]
+- [[raw/articles/2026-05-28_today-s-world-needs-social-scientists-advice-for-g.md|Today's World Needs Social Scientists: Advice for graduate students in the age of AI]]
+- [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md|AI Will Drive the Coming Integration of Interpretive and Positive Methodologies]]
+- [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md|The Sources of Researcher Variation in Economics]]
 

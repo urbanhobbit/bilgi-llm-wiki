@@ -1296,3 +1296,12 @@
 - Source files: 2026-10-23_song-lyrics-emotion-and-mit-ai-education-report.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-04-03_some-thoughts-on-ai-and-research.md]] — Some Thoughts on AI and Research
+- Raw: [[raw/articles/2026-04-06_will-ai-kill-economics-comparative-advantage-among.md]] — Will AI Kill Economics' Comparative Advantage among the social sciences?
+- Raw: [[raw/articles/2026-05-28_today-s-world-needs-social-scientists-advice-for-g.md]] — Today's World Needs Social Scientists: Advice for graduate students in the age of AI
+- Raw: [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md]] — AI Will Drive the Coming Integration of Interpretive and Positive Methodologies
+- Raw: [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md]] — The Sources of Researcher Variation in Economics
+- Source files: 2026-10-24_andrews-some-thoughts-on-ai-and-research.json, 2026-10-24_gentzkow-todays-world-needs-social-scientists.json, 2026-10-24_nielsen-ai-interpretive-positive-methodology.json, 2026-10-24_fletcher-ai-economics-comparative-advantage.json, 2026-10-24_sources-of-researcher-variation-economics.json
+- Agent: OKF Ingestion Pipeline
+
