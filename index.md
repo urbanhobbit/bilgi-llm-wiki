@@ -445,4 +445,5 @@
 - [[raw/articles/2026-05-28_today-s-world-needs-social-scientists-advice-for-g.md|Today's World Needs Social Scientists: Advice for graduate students in the age of AI]]
 - [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md|AI Will Drive the Coming Integration of Interpretive and Positive Methodologies]]
 - [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md|The Sources of Researcher Variation in Economics]]
+- [[raw/articles/2026-10-23_preparing-to-lead-in-polycrisis-a-multi-method-pro.md|Preparing to lead in polycrisis: a multi-method process evaluation of HR-driven psychosocial resilience training for leaders]]
 

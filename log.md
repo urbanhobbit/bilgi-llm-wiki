@@ -1312,3 +1312,8 @@
 - Kapsam: 40 yeni kayıt (19–24 Ekim), KURATOR 5 / AKADEMİK ÖZEL 40 / GENEL 27 (çoklu etiket)
 - Scrapling: 10 URL → 3 erişilebilir / 7 bloklu (%70) → metadata tabanlı sınıflandırma
 - Agent: Weekly Bulletin Integration cron (2026-10-24 14:00 UTC)
+## [2026-10-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_preparing-to-lead-in-polycrisis-a-multi-method-pro.md]] — Preparing to lead in polycrisis: a multi-method process evaluation of HR-driven psychosocial resilience training for leaders
+- Source files: 2026-10-24_hersom-polycrisis-leader-resilience-training.json
+- Agent: OKF Ingestion Pipeline
+
