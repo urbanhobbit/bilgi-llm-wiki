@@ -57,6 +57,14 @@ Türkiye'de sosyal bilim yayıncılığı bu tartışmaya iki uçtan yakalanıyo
 
 ---
 
+---
+
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — sosyal kuram üretiminin araştırma pratikleri (research practices) ve metodolojik (methodological) soruları: konum, yaratıcılık, çoğulculuk, hesap verebilirlik.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md|AI Will Drive the Coming Integration of Interpretive and Positive Methodologies]] — Nielsen'in 'yorumlayıcı çıkarım insanda kalır' tezi; bu kayıt yazarlık pratiği tarafını ekliyor.
+- [[raw/articles/2022-09-05_post-truth-the-future-of-democracy-and-the-public-.md|Post-Truth, the Future of Democracy and the Public Sphere]] — Van Dyk'nin eleştirel kuramın örtük normatifliği eleştirisi; buradaki 'konum' ve 'hesap verebilirlik' tartışmasının teorik komşusu.
+- [[raw/articles/2026-04-03_some-thoughts-on-ai-and-research.md|Some Thoughts on AI and Research]] — Andrews'un doktora öğrencilerine AI yatırımı tavsiyesi; aynı sorunun bireysel kariyer boyutu.
