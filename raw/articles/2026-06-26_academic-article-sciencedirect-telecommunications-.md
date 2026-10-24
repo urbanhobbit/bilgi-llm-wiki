@@ -37,3 +37,9 @@ Telecommunications Policy gibi politika odaklı dergiler Türkiye'de BTK ve Ula�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/sciencedirect.md|Sciencedirect]]

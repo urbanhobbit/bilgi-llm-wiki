@@ -40,3 +40,9 @@ Türkiye'de dijital teknolojilerin toplumsal etkileri üzerine yapılan akademik
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/sciencedirect.md|Sciencedirect]]

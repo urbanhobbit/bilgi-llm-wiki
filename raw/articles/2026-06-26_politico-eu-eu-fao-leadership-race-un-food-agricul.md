@@ -38,3 +38,9 @@ BM Gıda ve Tarım Örgütü (FAO) liderlik yarışı, Türkiye'nin tarım polit
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/liderlik-ve-lider-secimi.md|Liderlik ve Lider Seçimi]]
