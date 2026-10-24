@@ -56,6 +56,14 @@ Türkiye'de anket tabanlı araştırma ekosistemi bu riski neredeyse hiç ölçm
 
 ---
 
+---
+
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — anket ölçümünün geçerliliği: yanıtlayanın insan olup olmadığı artık ölçüm hatasının parçası.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — araştırma yöntemleri ve veri kalitesi: insan taban çizgisi olmadan test yorumlanamaz.
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]] — platformların sürekli insan doğrulaması ve bağımsız veri geçerliliği denetimi (AI oversight) önerisi.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/pnas-org.md|Pnas Org]]
+- [[entities/pnas-org.md|PNAS]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md|The Sources of Researcher Variation in Economics]] — ampirik sosyal bilimde veri hazırlama ve ölçüm kararlarının sonucu kaydırması; bu kayıt aynı sorunun 'yanıtlayan kim' boyutunu ekliyor.
