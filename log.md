@@ -1322,3 +1322,8 @@
 - Source files: 2026-10-24_vandyk-post-truth-democracy-public-sphere.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-15_estimating-the-threat-of-ai-agent-responding-acros.md]] — Estimating the threat of AI-agent responding across online survey platforms
+- Source files: 2026-10-15_zhang-ai-agent-responding-online-surveys.json
+- Agent: OKF Ingestion Pipeline
+
