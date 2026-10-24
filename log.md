@@ -1305,3 +1305,10 @@
 - Source files: 2026-10-24_andrews-some-thoughts-on-ai-and-research.json, 2026-10-24_gentzkow-todays-world-needs-social-scientists.json, 2026-10-24_nielsen-ai-interpretive-positive-methodology.json, 2026-10-24_fletcher-ai-economics-comparative-advantage.json, 2026-10-24_sources-of-researcher-variation-economics.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-10-24] weekly | Haftalık Bülten Entegrasyonu
+- Raw: [[raw/articles/2026-10-24_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 43/2026, 19–24 Ekim dilimi)
+- Raw: [[raw/articles/2026-10-24_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-10-24, 9 çalışma ayrıntılı)
+- Kapsam: 40 yeni kayıt (19–24 Ekim), KURATOR 5 / AKADEMİK ÖZEL 40 / GENEL 27 (çoklu etiket)
+- Scrapling: 10 URL → 3 erişilebilir / 7 bloklu (%70) → metadata tabanlı sınıflandırma
+- Agent: Weekly Bulletin Integration cron (2026-10-24 14:00 UTC)
