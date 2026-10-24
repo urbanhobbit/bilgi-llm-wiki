@@ -1327,3 +1327,8 @@
 - Source files: 2026-10-15_zhang-ai-agent-responding-online-surveys.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_the-rebirth-of-the-author-writing-critical-social-.md]] — The rebirth of the author: writing critical social theory in the time of generative AI
+- Source files: 2026-10-23_higgins-rebirth-of-the-author-generative-ai.json
+- Agent: OKF Ingestion Pipeline
+
