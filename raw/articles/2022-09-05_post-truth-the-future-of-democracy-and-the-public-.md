@@ -54,9 +54,18 @@ Türkiye için makalenin en keskin katkısı 'de facto post-politika' kavramı: 
 
 ---
 
+---
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/komplo-inanclari.md|Komplo İnançları]]
-- [[concepts/populizm.md|Popülizm]]
+- [[concepts/populizm.md|Popülizm]] — makalenin çekirdeği: otoriter popülizmin hakikat oyunu ve popülist duygu siyaseti.
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — post-truth tartışması dezenformasyon ve yalanın yeni ölçeği üzerinden yürüyor.
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]] — liberal demokrasi ve kamusal alanın aşınması tezi.
+- [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]] — Habermas'ın kamusal alan/müzakereci demokrasi kuramı eleştirel olarak yeniden okunuyor (deliberative democracy).
+- [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]] — 'radikal pozitivizm' ve bilime güven (trust in science) tartışması.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — popülist hakikat oyununun kutuplaşmayı derinleştirmesi.
+- [[concepts/komplo-inanclari.md|Komplo İnançları]] — Pizzagate, Covid-19 komplo teorileri örnekleri.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|SAGE Journals]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2024-01_narratives-of-post-truth-lyotard-and-the-epistemic.md|Narratives of Post-Truth: Lyotard and the Epistemic]] — post-truth kavramının felsefi/epistemolojik arka planı; Van Dyk'nin eleştirdiği 'postmodernizm = post-truth' özdeşleştirmesini ayrıntılandırır.
