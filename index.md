@@ -446,4 +446,5 @@
 - [[raw/articles/2026-03-01_ai-will-drive-the-coming-integration-of-interpreti.md|AI Will Drive the Coming Integration of Interpretive and Positive Methodologies]]
 - [[raw/articles/2025-02-25_the-sources-of-researcher-variation-in-economics.md|The Sources of Researcher Variation in Economics]]
 - [[raw/articles/2026-10-23_preparing-to-lead-in-polycrisis-a-multi-method-pro.md|Preparing to lead in polycrisis: a multi-method process evaluation of HR-driven psychosocial resilience training for leaders]]
+- [[raw/articles/2022-09-05_post-truth-the-future-of-democracy-and-the-public-.md|Post-Truth, the Future of Democracy and the Public Sphere]]
 

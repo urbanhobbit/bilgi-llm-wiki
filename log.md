@@ -1317,3 +1317,8 @@
 - Source files: 2026-10-24_hersom-polycrisis-leader-resilience-training.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-24] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-09-05_post-truth-the-future-of-democracy-and-the-public-.md]] — Post-Truth, the Future of Democracy and the Public Sphere
+- Source files: 2026-10-24_vandyk-post-truth-democracy-public-sphere.json
+- Agent: OKF Ingestion Pipeline
+
