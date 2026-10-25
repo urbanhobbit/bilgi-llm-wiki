@@ -11,7 +11,8 @@ tags:
 timestamp: '2026-10-25T00:00:00Z'
 created: 2026-10-25
 updated: 2026-10-25
-sources: []
+sources:
+- raw/articles/2025-11-10_on-confirmatory-methodological-research-in-statist.md
 confidence: medium
 ---
 
@@ -44,3 +45,7 @@ Keşif ve doğrulama idealize edilmiş iki uçtur; tek bir çalışma her ikisin
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 - [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]]
+
+## İlgili Kaynaklar
+
+- [[raw/articles/2025-11-10_on-confirmatory-methodological-research-in-statist.md|On "Confirmatory" Methodological Research in Statistics and Related Fields (Lange vd., Statistics in Medicine 44, 2025)]] — 115 biyoistatistik makalesinin taraması: %87 yalnızca simülasyon, hiçbir makale kendi araştırmasını keşifsel/doğrulayıcı diye etiketlemiyor, %92 aynı makalede önerilen yöntemi değerlendiriyor.

@@ -62,6 +62,11 @@ Türkiye'de yöntem makalesi yazma pratiği bu metnin tam hedefi: 'yeni bir öl�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/kesifsel-dogrulayici-ayrimi.md|Keşifsel–Doğrulayıcı Ayrımı (Exploratory–Confirmatory Distinction)]] — makalenin merkez kavramı: keşifsel/doğrulayıcı modlar, HARKing, ön kayıt ve "sözde-doğrulayıcı" bulgu.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — ampirik yöntem araştırmasının tasarımı, protokol yazımı ve araştırma yöntemleri standartları açısından doğrudan aktarılabilir.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+- [[entities/arxiv-org.md|arXiv]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2021-08-19_how-social-science-got-better-overcoming-bias-with.md|How Social Science Got Better (Grossmann, OUP 2021)]] — sosyal bilimlerde kanıt, çeşitlilik ve öz-yansıma üzerinden aynı iyileşme hattının kitap ölçeğindeki savunusu
+- [[raw/articles/2026-01-12_survey-quality-and-acquiescence-bias-a-cautionary-.md|Survey Quality and Acquiescence Bias: A Cautionary Tale]] — düşük kaliteli veriyle çıkarım yapmanın bedeli: buradaki "sözde-doğrulayıcı" tartışmasının ölçüm tarafı
