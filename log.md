@@ -1332,3 +1332,8 @@
 - Source files: 2026-10-23_higgins-rebirth-of-the-author-generative-ai.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_consensus-disagreements-and-open-questions-in-the-.md]] — Consensus, Disagreements, and Open Questions in the Psychology of Misinformation
+- Source files: 2026-10-16_pennycook-rand-psychology-of-misinformation-review.json
+- Agent: OKF Ingestion Pipeline
+
