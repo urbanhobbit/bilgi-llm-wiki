@@ -71,3 +71,6 @@ Türkiye'de siyasi kutuplaşma tartışması genellikle 'içerik kaldırma/yasak
 - [[raw/articles/2022-10-10_how-digital-media-drive-affective-polarization-thr.md|How Digital Media Drive Affective Polarization through Partisan Sorting (Petter vd.)]]
 - [[raw/articles/2026-09-03_diverging-effects-of-deliberation-how-perceived-th.md|Diverging Effects of Deliberation: How Perceived Thoughtfulness About Political Opponents Shapes Animosity]]
 - [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times-polit.md|Partisan Wishful Thinking in Polarized Times (Political Behavior, Seth Warner)]]
+- [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources (Zhu & Merkley, SocArXiv)]]
+### 🧠 İlgili Kavram
+- [[concepts/siyasal-etkileyiciler.md|Siyasal Etkileyiciler (Political Influencers)]]

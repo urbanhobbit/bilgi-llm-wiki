@@ -48,3 +48,5 @@ Türkiye'de dezenformasyon tartışması ağırlıklı olarak 'içerik doğrulam
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
+### 📄 İlgili Makale
+- [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources (Zhu & Merkley, SocArXiv)]] — kaynak atfının inanılırlık ve doğruluk yargısı üzerindeki etkisini deneysel olarak ayırıyor

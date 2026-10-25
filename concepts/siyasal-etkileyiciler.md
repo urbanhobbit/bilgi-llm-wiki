@@ -10,7 +10,8 @@ tags:
 timestamp: '2026-10-25T00:00:00Z'
 created: 2026-10-25
 updated: 2026-10-25
-sources: []
+sources:
+- raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md
 confidence: medium
 ---
 
@@ -41,3 +42,7 @@ Deneysel kanıt, kaynak atfının etkisinin **bilginin doğruluğuna göre koşu
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+
+## İlgili Kaynaklar
+
+- [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources: Experimental Evidence on Credibility, Belief, and Epistemic Judgment]] — Kanada anket deneyi (N=975): etkileyici atfı inanılırlığı ve doğruluk yargısını düşürüyor, yanlış bilgi inancını ortalamada değiştirmiyor.
