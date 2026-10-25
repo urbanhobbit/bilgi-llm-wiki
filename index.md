@@ -453,4 +453,5 @@
 - [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources: Experimental Evidence on Credibility, Belief, and Epistemic Judgment]]
 - [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]]
 - [[raw/articles/2025-11-10_on-confirmatory-methodological-research-in-statist.md|On “Confirmatory” Methodological Research in Statistics and Related Fields]]
+- [[raw/articles/2026-10-23_paid-to-post-mapping-the-political-influencer-indu.md|Paid to Post: Mapping the Political Influencer Industry]]
 

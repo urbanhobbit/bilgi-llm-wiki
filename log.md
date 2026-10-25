@@ -1352,3 +1352,8 @@
 - Source files: 2026-10-25_lange-confirmatory-methodological-research.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_paid-to-post-mapping-the-political-influencer-indu.md]] — Paid to Post: Mapping the Political Influencer Industry
+- Source files: 2026-10-23_cdt-paid-to-post-political-influencer-industry.json
+- Agent: OKF Ingestion Pipeline
+
