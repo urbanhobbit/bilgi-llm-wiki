@@ -56,11 +56,17 @@ Türkiye'deki dezenformasyon araştırmaları için bu derleme bir 'hizalama' i�
 
 ---
 
+---
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/media-literacy-fact-checking.md|Medya Okuryazarlığı ve Doğrulama]]
 - [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — derlemenin merkezi sorunu: yatkınlığı 'maruz kalma' değil 'ayırt etme becerisi' üzerinden ölçmek.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — araştırma yöntemleri ve yöntemsel sınırlılıklar: alanın ölçüm ve nedensellik tartışmaları.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/annualreviews-org.md|Annualreviews Org]]
+- [[entities/annualreviews-org.md|Annual Reviews]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-08-02_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy Sources on Facebook and Instagram]] — Pennycook'un platform verisiyle yaptığı çalışma; bu derlemenin ampirik komşusu.
+- [[raw/articles/2026-10-15_estimating-the-threat-of-ai-agent-responding-acros.md|Estimating the Threat of AI-Agent Responding Across Online Survey Platforms]] — dezenformasyon ölçümünde veri kalitesi: yanıtlayan insan mı sorusu.
