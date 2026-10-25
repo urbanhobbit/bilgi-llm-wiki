@@ -1337,3 +1337,8 @@
 - Source files: 2026-10-16_pennycook-rand-psychology-of-misinformation-review.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md]] — Political Influencers as Information Sources: Experimental Evidence on Credibility, Belief, and Epistemic Judgment
+- Source files: 2026-10-25_zhu-merkley-political-influencers-information-sources.json
+- Agent: OKF Ingestion Pipeline
+
