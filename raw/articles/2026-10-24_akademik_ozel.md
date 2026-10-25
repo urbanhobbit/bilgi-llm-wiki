@@ -182,3 +182,23 @@ Bu haftanın derlemesi tek bir sorunun etrafında kümeleniyor: **yapay zekâ, a
 **Haftanın havuzunda yer alıp bu sayıda kısa anılan diğer kayıtlar:** Torre vd., sentetik popülasyonlar (arXiv:2610.21784) · Asano vd., Cross-Centaur (arXiv:2610.23157, EMNLP 2026) · Timoneda & Vallejo Vera, Rolling Memory (*Chinese Political Science Review*, DOI 10.1007/s41111-025-00327-w) · Wang vd., *Humans are Missing from AI Coding Agent Research* (arXiv:2608.12355) · Aionesei, *Social Media as a Disinformation Infrastructure* (DOI 10.53477/2284-9378-26-17) · Khan, *The Fraying Social Contract* (National Preparedness Commission, 1 Haziran 2026) · Jonaitis vd., *Polling Without People* (*PS: Political Science & Politics*, 15 Ekim 2026) · Morrier, Magistro & Alvarez, *Zero-Sum Thinking and Illiberalism* (*SSQ* 107(5), DOI 10.1111/ssqu.70194) · Wang, *Short-video News Verification* (*Scientific Reports*, DOI 10.1038/s41598-026-76343-w) · RESONANT D4.3 *Handbook on Information Suppression and FIMI* (9 Ekim 2026) · ARM D6.4 *Countering Information Suppression Toolkit* (1 Eylül 2026) · Gibson, Brascamp & Chopik, *Song Lyrics and Emotional Content* (*Psychology of Aesthetics*, 15 Ekim 2026) · OECD PISA 2025 Cilt I (DOI 10.1787/73451bc5-en).
 
 **Yöntem notu.** Bu sayıda 10 yüzey Scrapling ile test edildi: 7'si 403 (OECD ×3, AP, OUP, SSRN, Wiley), 1'i 200 ama "Client Challenge" gövdesi (link.springer.com), 3'ü tam erişilebilir (nature.com, misinforeview.hks.harvard.edu, unicef.org). Blok oranı %70 olduğu için **metadata tabanlı sınıflandırma** kullanıldı: künye ve özet bilgileri Crossref/OpenAlex kayıtlarından, tam metin okumaları açık erişim PDF'lerinden (HEC Paris, LSE Press, MIT, APSA) ve r.jina.ai üzerinden yapıldı. Hiçbir sayı doğrulanmamış bir snippet'ten alınmadı; ulaşılamayan hiçbir kaynak bültene girmedi.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
+- [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]]
+- [[concepts/liderlik-ve-lider-secimi.md|Liderlik ve Lider Seçimi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/oecd.md|OECD]]
+- [[entities/unicef.md|UNICEF]]

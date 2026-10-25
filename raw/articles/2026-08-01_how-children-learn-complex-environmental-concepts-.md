@@ -35,3 +35,5 @@ Xin Bian, Andre Brown & Bruno Marques, Frontiers in Psychology, 17 (2026). Dijit
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/frontiersin-org.md|Frontiers]]

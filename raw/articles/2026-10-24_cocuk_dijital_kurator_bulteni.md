@@ -187,3 +187,23 @@ Türkiye'nin çocuk–dijital gündemi bu hafta iki paralel hatta ilerledi ve ik
 **Türkiye ve karşılaştırmalı basın:** İstiklal (23 Ekim 2026, DMM açıklaması); Haberler.com ve İlke Haber Ajansı (23 Ekim 2026, Yunanistan); Takvim (19 Ekim 2026, Norveç); Türkiye basını (22 Ekim 2026, "1 Kasım'da kapanacak mı" iddiasının yalanlanması); Aile ve Sosyal Hizmetler Bakanlığı açıklaması (20 Ekim 2026, 7 pilot il).
 
 **Yöntem notu.** Bu sayıda 10 yüzey Scrapling ile test edildi; 7'si 403 (OECD ×3, AP, OUP, SSRN, Wiley), 3'ü 200 (UNICEF, *Nature Human Behaviour*, *HKS Misinformation Review*). Blok oranı %70 olduğu için metadata tabanlı sınıflandırma kullanıldı; hiçbir sayı doğrulanmamış bir snippet'ten alınmadı. Türkiye bölümündeki ticari basın kaynakları birincil metin okumasıyla (İstiklal, Haberler.com) doğrulandı; ulaşılamayan tek kaynak (19 Ekim "Avrupa'da yeni düzenleme dalgası" haberi) bültene alınmadı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/oecd.md|OECD]]
+- [[entities/unicef.md|UNICEF]]
