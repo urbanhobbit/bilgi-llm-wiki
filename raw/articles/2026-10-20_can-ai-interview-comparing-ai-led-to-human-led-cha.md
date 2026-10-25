@@ -58,5 +58,13 @@ Türkiye'de nitel araştırmanın en büyük darboğazı örneklem: derinlemesin
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]] — makalenin yerleştiği yöntem alanı: sonda üretimi, özerklik kısıtı, görüşmeci etkisi ve nitel veri kalitesi ölçütleri.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — randomize karşılaştırma, Holm düzeltmesi ve eşdeğerlik iddiaları için Hodges-Lehmann aralıkları: araştırma yöntemleri açısından örnek bir tasarım.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — özgüllük ve alaka için 1-5 ölçüm ölçekleri, kodlayıcılar arası güvenilirlik (α=0,648 / 0,365) ve maruz kalma için karakter sayısı proxy'si.
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]] — aynı "yapay zeka ile veri" ailesinin farklı stratejisi: simüle edilmiş katılımcı yerine gerçek katılımcıyla yapay zeka görüşmeci.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/osf-io.md|Osf Io]]
+- [[entities/osf-io.md|OSF Preprints (SocArXiv)]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md|Generative grounded theory (GGT): Inductive theory building in the age of generative AI]] — veri toplama tarafındaki bu deneyin tamamlayıcısı: analiz tarafında LLM kullanımı
+- [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]] — katılımcıyı simüle etme yaklaşımı; bu makale gerçek katılımcıyı koruyup görüşmeciyi değiştiriyor

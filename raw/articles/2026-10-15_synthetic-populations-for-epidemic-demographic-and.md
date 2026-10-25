@@ -68,3 +68,4 @@ Türkiye'de birey-tabanlı salgın ve hareketlilik modelleri için en büyük en
 ### 📄 İlgili Makaleler
 - [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: birey düzeyi davranış modellemesi (Asano ve ark., 2026)]] — aynı gün gelen tamamlayıcı hat: sentetik popülasyon bireyi istatistiksel olarak temsil ederken Cross-Centaur bireyin karar örüntüsünü öğrenilmiş modelle temsil ediyor.
 - [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|LLM simülasyonu insan tercihlerinin zayıf vekili (Chen ve ark., 2026)]] — bu hattın sınırı: 74 ülkede kültürel boyutlarda hizalama şans düzeyinde.
+- [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? (Guven vd., SocArXiv)]] — karşıt strateji: katılımcıyı simüle etmek yerine gerçek katılımcıyla yapay zeka görüşmeci; N=41 randomize karşılaştırma.

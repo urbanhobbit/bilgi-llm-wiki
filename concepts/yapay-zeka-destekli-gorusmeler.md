@@ -10,7 +10,8 @@ tags:
 timestamp: '2026-10-25T00:00:00Z'
 created: 2026-10-25
 updated: 2026-10-25
-sources: []
+sources:
+- raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md
 confidence: medium
 ---
 
@@ -44,3 +45,7 @@ Yapay zeka görüşmecinin değeri, insan görüşmeciyle **aynı ölçütlerde*
 - [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 - [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+
+## İlgili Kaynaklar
+
+- [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]] — 7B'lik yerel açık ağırlıklı modelle yürütülen ilk doğrudan randomize karşılaştırma (N=41); maruz kalma, özgüllük ve alaka üzerinden veri kalitesi.

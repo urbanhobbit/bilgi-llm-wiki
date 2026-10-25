@@ -50,3 +50,6 @@ Journal of Consumer Psychology (JCP) Methods Dialogue makalesi (2026, 00:1–21)
 ### 🧠 İlgili Kavramlar
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]]
+### 📄 İlgili Makale
+- [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? (Guven vd., SocArXiv)]] — GGT analiz tarafında LLM kullanımını tartışıyor; bu çalışma veri toplama tarafını deneysel olarak sınıyor.
