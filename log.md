@@ -1347,3 +1347,8 @@
 - Source files: 2026-10-25_guven-can-ai-interview.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-11-10_on-confirmatory-methodological-research-in-statist.md]] — On “Confirmatory” Methodological Research in Statistics and Related Fields
+- Source files: 2026-10-25_lange-confirmatory-methodological-research.json
+- Agent: OKF Ingestion Pipeline
+
