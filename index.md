@@ -451,4 +451,5 @@
 - [[raw/articles/2026-10-23_the-rebirth-of-the-author-writing-critical-social-.md|The rebirth of the author: writing critical social theory in the time of generative AI]]
 - [[raw/articles/2026-10-16_consensus-disagreements-and-open-questions-in-the-.md|Consensus, Disagreements, and Open Questions in the Psychology of Misinformation]]
 - [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources: Experimental Evidence on Credibility, Belief, and Epistemic Judgment]]
+- [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]]
 

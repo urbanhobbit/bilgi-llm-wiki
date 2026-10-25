@@ -1342,3 +1342,8 @@
 - Source files: 2026-10-25_zhu-merkley-political-influencers-information-sources.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md]] — Can AI interview? Comparing AI-led to Human-led Chat Interviews
+- Source files: 2026-10-25_guven-can-ai-interview.json
+- Agent: OKF Ingestion Pipeline
+
