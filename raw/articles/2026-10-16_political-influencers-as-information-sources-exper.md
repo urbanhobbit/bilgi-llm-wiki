@@ -74,3 +74,4 @@ Türkiye tartışması için üç sonuç doğrudan kullanışlı. Birincisi: mak
 ### 🗂 İlgili Kayıtlar
 - [[raw/articles/2025-08-23_unfollowing-hyperpartisan-social-media-influencers.md|Unfollowing hyperpartisan social media influencers durably reduces out-party animosity]] — etkileyici kitlesinden çıkmanın partizan duygu üzerindeki deneysel etkisi; buradaki kaynak-atfı deneyinin davranışsal tamamlayıcısı
 - [[raw/articles/2026-09-25_source-credibility-and-issue-type-effects-in-misin.md|Source credibility and issue type effects in misinformation correction in two non-western countries]] — kaynak güvenilirliği ipuçları ile düzeltme (correction) müdahalelerinin etkileşimi
+- [[raw/articles/2026-10-23_paid-to-post-mapping-the-political-influencer-indu.md|Paid to Post: Mapping the Political Influencer Industry (CDT & CTRL, 2026)]] — aynı aktörlerin endüstriyel/parasal altyapısı: aracılar, gizli ödeme ve şeffaflık boşluğu

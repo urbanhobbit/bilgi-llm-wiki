@@ -62,8 +62,11 @@ Türkiye'de bu raporun haritaladığı katmanın büyük kısmı görünmez duru
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/siyasal-etkileyiciler.md|Siyasal Etkileyiciler (Political Influencers)]] — raporun haritaladığı endüstri katmanı: aracılar, creative brief'ler, yayın öncesi onay, koordineli grup paylaşımı ve ücretli ortaklık modları.
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — koordineli paylaşım ve satın alınabilir etkileşim, bot tabanlı koordineli sahte davranışın insan eliyle yapılan biçimi; rapor bunu komputasyonel propaganda olarak adlandırıyor.
+- [[concepts/platform-seffaflik.md|Platform Şeffaflık]] — Instagram/TikTok/X/Twitch kuralları tutarsız, anlaşmalar platform dışında kurulduğu için uygulama zayıf; şeffaflık rejimi önerisi tam bu boşluğa oturuyor.
+- [[concepts/media-literacy-fact-checking.md|Medya Okuryazarlığı ve Teyit]] — raporun kendi ifadesiyle kaynağın kim tarafından finanse edildiğini bilmek medya okuryazarlığının bileşeni; teyit pratiği burada ödeme izine bakmayı gerektiriyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/cdt-org.md|Cdt Org]]
+- [[entities/cdt-org.md|Center for Democracy & Technology (CDT)]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-16_political-influencers-as-information-sources-exper.md|Political Influencers as Information Sources (Zhu & Merkley, SocArXiv)]] — endüstri haritasının deneysel karşılığı: etkileyici atfı inanılırlığı düşürüyor, ama yanlış bilgi inancını ortalamada değiştirmiyor
