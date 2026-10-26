@@ -10,7 +10,8 @@ tags:
 timestamp: '2026-10-25T00:00:00Z'
 created: 2026-10-25
 updated: 2026-10-25
-sources: []
+sources:
+- raw/articles/2026-10-04_understanding-harness-engineering-48-page-handbook.md
 confidence: medium
 ---
 
@@ -50,3 +51,7 @@ Aynı modelle çalışan iki ajan farklı davranır, çünkü fark modelde deği
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
 - [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]]
 - [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]]
+
+## İlgili Kaynaklar
+
+- [[raw/articles/2026-10-04_understanding-harness-engineering-48-page-handbook.md|Understanding Harness Engineering (@techNmak, 48 sayfa, 2026)]] — practitioner el kitabı; PDF erişilemedi, kapsam yazarın thread'inden doğrulandı.
