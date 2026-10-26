@@ -69,11 +69,21 @@ Birincisi teşhis: Türkiye'de dezenformasyon tartışması neredeyse tamamen me
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
 
+## 📌 Kavram Notları
+
+- Pravda ağı, devlet destekli (state-backed disinformation) bir altyapı olarak okunmalı: makale, içeriğin kaynağını değil üretim ve dağıtım hattını merkeze alıyor; bu yönüyle klasik devlet dezenformasyonu literatürünü altyapı düzeyine taşıyor.
+- Kavramsal komşuluk: yabancı bilgi manipülasyonu ve müdahalesi (foreign information manipulation and interference, FIMI) çerçevesi, tek tek kampanyaları değil kalıcı kapasiteyi ölçmeyi önerir — makalenin "always-on" teşhisi bu çerçeveyle doğrudan örtüşüyor.
+- Politika düzlemi: platform yönetişimi ve şeffaflık (transparency) yükümlülükleri hâlâ içerik/hesap düzeyinde kalıyor; makale, domain yeniden kullanımı ve şablon benzerliği gibi ağ düzeyi göstergelerin denetime girmesini öneriyor.
+- Doğrulama endüstrisi açısından: fact-checking ve medya okuryazarlığı müdahaleleri altyapı haritalamasıyla birleşmediğinde, kaldırılan içeriğin yerine aynı hattan üretilen yeni içerik geçiyor.
+
 ---
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]]
+- [[concepts/fimi.md|FIMI (Yabancı Bilgi Manipülasyonu ve Müdahalesi)]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
