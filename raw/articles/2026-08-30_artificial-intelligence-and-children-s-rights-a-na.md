@@ -67,6 +67,17 @@ Somut başlıklar: (1) MEB ve okul EdTech tedarikinde çocuk hakları etki değe
 - 🏛 **Politika Önerisi**
 - ⚠️ **Sınırlılıklar**
 
+## 📌 Kavram Notları
+
+- Rapor, çocuk hakları etki değerlendirmesini (child rights impact assessment, CRIA) ve insan hakları durum tespitini, soyut taahhütleri denetlenebilir, ölçülebilir ve şeffaf kılan araçlar olarak öne çıkarıyor; ancak çocuk odaklı denetimlerin (CRIA/HRIA) yaygınlaştığına dair kanıt hâlâ parçalı.
+- Veri minimizasyonu, amaçla sınırlılık ve rıza rejimlerinin (data protection) tüm AI yaşam döngüsünde işletilmesi gerekiyor; normatif taahhütlerle fiilî koruma arasındaki makas açık.
+- Çocuk katılımı (child participation) ilkede kabul edilen, pratikte ihmal edilen başlık: tek seferlik istişare değil, kaynaklı ve denetlenebilir bir tasarım şartı gerekiyor.
+- Çocuk haklarına dayalı AI yönetişimi (AI governance) için devlet, BM/uluslararası kuruluş ve şirket düzeyinde ayrı ayrı öneriler sıralanıyor; rehberlik, onu işletecek koordinasyon kapasitesinin önünde gidiyor.
+- Sınır AI güvenlik çerçeveleri (AI safety frameworks) yayımlayan şirket sayısı 2025 boyunca iki katından fazla arttı; aynı dönemde hükümetlerin ve uluslararası kuruluşların şeffaflık ve risk değerlendirmesi çerçeveleri de çoğaldı — çocuğa özgü açıklama şartının bu norma gömülmesi için pencere açık (accountability and transparency).
+- GenAI, çocukların cinsel sömürüsünde (child sexual abuse and exploitation) araçlara erişimi kolaylaştırdı: nudification ve akran/yetişkin siber zorbalığı artık sıradan kullanıcının erişiminde.
+- Yaş güvencesi (age assurance) mahremiyet ihlali, kolay atlatılabilirlik ya da çocuğun yüksek yararına aykırılık riski taşıyor; ikili yaş yasakları gelişen kapasiteyi ve katılımı daraltıyor.
+- Companion/chatbot sistemlerinde antropomorfik ve duygusal olarak uyarlanan tasarım, yalnız çocuklara destek olabileceği gibi bağımlılık, manipülasyon ve faillik kaybı da üretiyor.
+
 ---
 
 ## 🔗 İlgili Bağlantılar
@@ -76,5 +87,16 @@ Somut başlıklar: (1) MEB ve okul EdTech tedarikinde çocuk hakları etki değe
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Verisi ve Gizlilik]]
+- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılımı]]
+- [[concepts/cocuk-istismari.md|Çocuk İstismarı]]
+- [[concepts/d-cria.md|D-CRIA]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-digital-futures-for-children-net.md|Www Digital Futures For Children Net]]
+- [[entities/www-lse-ac-uk.md|LSE (London School of Economics)]]
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/unicef.md|UNICEF]]
