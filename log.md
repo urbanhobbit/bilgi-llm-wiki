@@ -1367,3 +1367,8 @@
 - Source files: 2026-08-30_ai-childrens-rights-narrative-review-dfc.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-26_political-ideological-and-affective-gender-polaris.md]] — Political, Ideological and Affective Gender Polarisation among Young People
+- Source files: 2026-10-26_yopo-gender-polarisation-helsinki.json
+- Agent: OKF Ingestion Pipeline
+
