@@ -1372,3 +1372,8 @@
 - Source files: 2026-10-26_yopo-gender-polarisation-helsinki.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-18_propaganda-as-infrastructure-reconceptualizing-inf.md]] — Propaganda as infrastructure: reconceptualizing information operations through the Pravda network
+- Source files: 2026-10-18_propaganda-as-infrastructure-pravda-network.json
+- Agent: OKF Ingestion Pipeline
+
