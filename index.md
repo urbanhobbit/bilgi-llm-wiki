@@ -454,4 +454,5 @@
 - [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]]
 - [[raw/articles/2025-11-10_on-confirmatory-methodological-research-in-statist.md|On “Confirmatory” Methodological Research in Statistics and Related Fields]]
 - [[raw/articles/2026-10-23_paid-to-post-mapping-the-political-influencer-indu.md|Paid to Post: Mapping the Political Influencer Industry]]
+- [[raw/articles/2026-10-04_understanding-harness-engineering-48-page-handbook.md|Understanding Harness Engineering (48-page handbook by @techNmak)]]
 

@@ -1357,3 +1357,8 @@
 - Source files: 2026-10-23_cdt-paid-to-post-political-influencer-industry.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-04_understanding-harness-engineering-48-page-handbook.md]] — Understanding Harness Engineering (48-page handbook by @techNmak)
+- Source files: 2026-10-04_technmak-understanding-harness-engineering.json
+- Agent: OKF Ingestion Pipeline
+
