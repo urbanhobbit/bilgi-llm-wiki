@@ -1362,3 +1362,8 @@
 - Source files: 2026-10-04_technmak-understanding-harness-engineering.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-26] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-30_artificial-intelligence-and-children-s-rights-a-na.md]] — Artificial intelligence and children's rights: a narrative review of the evidence
+- Source files: 2026-08-30_ai-childrens-rights-narrative-review-dfc.json
+- Agent: OKF Ingestion Pipeline
+
