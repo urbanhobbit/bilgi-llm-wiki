@@ -30,5 +30,5 @@ Literatür, ayrışmayı "affective identities" kavramıyla açıklıyor: siyasa
 - **Yöntem:** eleştirel, duygusal-söylemsel (affective-discursive) ve çok-modlu söylem analizi; sosyal kimlik yaklaşımı, söylem araştırması ve kesişimsellik kuramının birlikte kullanımı.
 
 ## İlgili Makaleler
-- [[raw/articles/2026-10-26_political-ideological-and-affective-gender-pola.md|Political, Ideological and Affective Gender Polarisation among Young People (YOPO projesi)]]
+- [[raw/articles/raw/articles/2026-10-26_political-ideological-and-affective-gender-polaris.md|Political, Ideological and Affective Gender Polarisation among Young People (YOPO projesi)]]
 - [[raw/articles/2026-08-30_artificial-intelligence-and-children-s-rights-a-na.md|AI and children's rights: a narrative review of the evidence]]

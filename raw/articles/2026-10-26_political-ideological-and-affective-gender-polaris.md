@@ -60,6 +60,13 @@ YOPO'nun Türkiye açısından en kullanışlı tarafı, Macaristan'ı karşıla
 - 🔍 **Araştırma Boşluğu**
 - 🧩 **Yöntem**
 
+## 📌 Kavram Notları
+
+- Proje, kutuplaşma literatürünün iki ayrı ölçüm hattını birleştiriyor: konum farkına bakan ideolojik kutuplaşma (ideological polarization) ile grup kimliğine ve duygulara dayanan duygusal kutuplaşma (affective polarisation). YOPO'nun özgünlüğü bu ikisini cinsiyet eksenine taşıması.
+- Cinsiyet eksenli ayrışmanın partizan kimlikle kesişimi ayrıca test edilmeli: Finlandiya'da parti-tercihi ekseni görece yumuşak, Macaristan'da ise partizan kimlik belirgin biçimde sertleşmiş durumda — proje bu iki uç vakanın karşılaştırmasına dayanıyor.
+- Siyasetçi–etkileyici–genç izleyici düğümü, siyasal etkileyiciler literatürünün doğrudan konusudur; proje bu etkileşimi hem çevrimiçi hem çevrimdışı veriyle izliyor.
+- Kuramsal çerçeve kesişimsellik iddiasında: cinsiyet kutuplaşması sınıf, eğitim, bölge ve dil eksenlerinden bağımsız okunamaz; bu nedenle Finlandiya–Macaristan karşılaştırması "iki ülke" değil, iki farklı eşitlik rejimi karşılaştırması olarak kuruluyor.
+
 ---
 
 ## 🔗 İlgili Bağlantılar
@@ -68,5 +75,9 @@ YOPO'nun Türkiye açısından en kullanışlı tarafı, Macaristan'ı karşıla
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/siyasal-etkileyiciler.md|Siyasal Etkileyiciler]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-helsinki-fi.md|Www Helsinki Fi]]

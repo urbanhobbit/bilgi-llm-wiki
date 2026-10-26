@@ -17,4 +17,4 @@ sources: []
 **Tür:** akademik | **Açıklama:** Finlandiya'nın en büyük üniversitesi (Helsingin yliopisto); Sosyal Bilimler Fakültesi bünyesinde sosyal psikoloji ve kutuplaşma araştırmaları yürütülüyor.
 
 ## Wiki'deki Kaynaklar
-- [[raw/articles/2026-10-26_political-ideological-and-affective-gender-pola.md|Political, Ideological and Affective Gender Polarisation among Young People (YOPO)]]
+- [[raw/articles/raw/articles/2026-10-26_political-ideological-and-affective-gender-polaris.md|Political, Ideological and Affective Gender Polarisation among Young People (YOPO)]]
