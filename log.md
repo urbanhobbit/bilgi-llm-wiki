@@ -1402,3 +1402,8 @@
 - Source files: 2026-10-27_emotions-global-low-dimensional-brain-flow-patterns.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-27_peer-victimisation-among-school-age-children-in-t-.md]] — Peer Victimisation Among School-Age Children in Türkiye: A Blockwise Regression Analysis of the 2022 Child Survey
+- Source files: 2026-10-27_peer-victimisation-turkiye-2022-child-survey.json
+- Agent: OKF Ingestion Pipeline
+
