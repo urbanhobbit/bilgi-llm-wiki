@@ -1377,3 +1377,8 @@
 - Source files: 2026-10-18_propaganda-as-infrastructure-pravda-network.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-12_political-noise-and-disinformation-in-southeast-as.md]] — Political Noise and Disinformation in Southeast Asia: A Systematic Literature Review of Impacts on Democratic Discourse and Governance
+- Source files: 2026-10-12_political-noise-disinformation-southeast-asia.json
+- Agent: OKF Ingestion Pipeline
+

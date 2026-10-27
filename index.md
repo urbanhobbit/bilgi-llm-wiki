@@ -458,4 +458,5 @@
 - [[raw/articles/2026-08-30_artificial-intelligence-and-children-s-rights-a-na.md|Artificial intelligence and children's rights: a narrative review of the evidence]]
 - [[raw/articles/2026-10-26_political-ideological-and-affective-gender-polaris.md|Political, Ideological and Affective Gender Polarisation among Young People]]
 - [[raw/articles/2026-10-18_propaganda-as-infrastructure-reconceptualizing-inf.md|Propaganda as infrastructure: reconceptualizing information operations through the Pravda network]]
+- [[raw/articles/2026-10-12_political-noise-and-disinformation-in-southeast-as.md|Political Noise and Disinformation in Southeast Asia: A Systematic Literature Review of Impacts on Democratic Discourse and Governance]]
 
