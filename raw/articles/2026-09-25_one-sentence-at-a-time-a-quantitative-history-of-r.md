@@ -82,6 +82,9 @@ Bir de madde: 259 bin makaleyi kuran korpusun kendisi paylaşılamıyor (JSTOR l
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]] — yıllık temsilci vektör + HDBSCAN kümeleme + bibliyografik eşleşme; metin madenciliği boru hattının en ayrıntılı anlatıldığı kaynak.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — gözetimsiz yöntemlerin şimdiciliği (presentism) azaltma gerekçesi ve küme etiketlerinin yakın okumayla doğrulanması, sosyal bilimlerde araştırma yöntemleri tartışmasına doğrudan taşınabilir.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/hal-science.md|Hal Science]]
+- [[entities/hal-science.md|HAL Open Archive (hal.science)]] — gönderinin bağlantı hedefi (hal-05431080); Anubis duvarı nedeniyle tam metin oradan indirilemedi.
+- [[entities/osf-io.md|OSF Preprints (SocArXiv)]] — tam metnin okunduğu sürüm: SocArXiv ön baskısı 10.31235/osf.io/38na2 (paper_v3.pdf, 53 sayfa).
+
