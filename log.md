@@ -1392,3 +1392,8 @@
 - Source files: 2026-10-06_conversations-at-scale-robust-ai-led-interviews.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-27_six-questions-about-political-polarization-and-my-.md]] — Six questions about political polarization and my responses (Gelman blog, 27 Ekim 2026)
+- Source files: 2026-10-27_six-questions-about-political-polarization-gelman.json
+- Agent: OKF Ingestion Pipeline
+

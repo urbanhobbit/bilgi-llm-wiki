@@ -461,4 +461,5 @@
 - [[raw/articles/2026-10-12_political-noise-and-disinformation-in-southeast-as.md|Political Noise and Disinformation in Southeast Asia: A Systematic Literature Review of Impacts on Democratic Discourse and Governance]]
 - [[raw/articles/2026-09-25_one-sentence-at-a-time-a-quantitative-history-of-r.md|One Sentence at a Time: A Quantitative History of Rationality in Economic Thought]]
 - [[raw/articles/2026-10-06_conversations-at-scale-robust-ai-led-interviews.md|Conversations at Scale: Robust AI-led Interviews]]
+- [[raw/articles/2026-10-27_six-questions-about-political-polarization-and-my-.md|Six questions about political polarization and my responses (Gelman blog, 27 Ekim 2026)]]
 
