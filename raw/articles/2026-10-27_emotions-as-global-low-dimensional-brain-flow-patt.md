@@ -65,8 +65,7 @@ Not: yazar Rutgers'ta (ABD) çalışıyor; kitap Türkçeye çevrilmiş değil, 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/beyin-aglari-ve-duygu.md|Beyin Ağları ve Duygu (Brain Flows)]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/beyin-aglari-ve-duygu.md|Beyin Ağları ve Duygu (Brain Flows)]] — yazının kendi çerçevesini kurduğu kavram sayfası: dört bileşenli tanım (global · düşük boyutlu · bilgi-çerçeveleyen · çekici) ve klinik uzantı.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/substack-com.md|Substack Com]]
+- [[entities/substack-com.md|Substack]] — yayın yeri; tam metin `api/v1/posts/<slug>` üzerinden alındı (`audience: everyone`).
+

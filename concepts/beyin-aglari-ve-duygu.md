@@ -32,4 +32,4 @@ Duygu bu çerçevede dört özellikle tanımlanır:
 **Bağlantılı kavramlar:** [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]], [[concepts/fizyolojik-senkronizasyon-sosyal-baglanti.md|Fizyolojik Senkronizasyon ve Sosyal Bağlantı]], [[concepts/kulturel-evrim.md|Kültürel Evrim]]
 
 ## İlgili Makaleler
-- [[raw/articles/2026-10-27_emotions-as-global-low-dimensional-brain-flow-patterns.md|Emotions as global low-dimensional brain flow patterns]] — Cole'un kitap serisi yazısı: duygunun dört bileşenli tanımı ve ruh sağlığına uzantısı.
+- [[raw/articles/2026-10-27_emotions-as-global-low-dimensional-brain-flow-patt.md|Emotions as global low-dimensional brain flow patterns]] — Cole'un kitap serisi yazısı: duygunun dört bileşenli tanımı ve ruh sağlığına uzantısı.
