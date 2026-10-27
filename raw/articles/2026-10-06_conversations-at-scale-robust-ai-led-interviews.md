@@ -76,7 +76,13 @@ Uyarı niteliğinde: Fransa örneğinde örneklemin sola eğikliği ve iptal niy
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]] — alanın ölçek iddiasını en geniş biçimde sınayan çalışma: 461–793 kişilik örneklemler, uzman puanlaması ve sesli mod.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — nitel görüşmeyi nicel ölçeğe taşıyan tasarım; araştırma yöntemleri açısından ölçek-temsil ödünleşiminin somut örneği.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — 1–5 uzman puanı, transkriptten LLM ile kategori çıkarma ve anketle doğrulama: ölçümün geçerlilik zinciri.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/restud-com.md|Restud Com]]
+- [[entities/restud-com.md|The Review of Economic Studies (restud.com)]] — makalenin kabul edildiği dergi; ücretsiz tam metin PDF'i dergi sitesinden indirildi.
+- [[entities/github-com.md|GitHub (github.com)]] — açık kaynak görüşme platformu: `github.com/friedrichgeiecke/interviews` (Colab notebook + video eğitimler).
+
+## İlgili Makaleler
+- [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]] — aynı alanda randomize karşılaştırma (N=41, yerel 7B model); Geiecke & Jaravel'in 2024 sürümünü referans alıyor.
+

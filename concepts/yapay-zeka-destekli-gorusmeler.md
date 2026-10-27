@@ -48,4 +48,6 @@ Yapay zeka görüşmecinin değeri, insan görüşmeciyle **aynı ölçütlerde*
 
 ## İlgili Kaynaklar
 
+- [[raw/articles/2026-10-06_conversations-at-scale-robust-ai-led-interviews.md|Conversations at Scale: Robust AI-led Interviews]] — ölçek sıçraması: N=461 (hayatın anlamı), 793 (zihinsel modeller), 338 (sesli görüşme); 20 transkriptte uzman puanı 2,93/5, sesli mod 3,93 ile yüz yüze insan uzmanı (3,51) geçiyor; tek ajanlı açık kaynak platform ve dört uygulama alanı.
 - [[raw/articles/2026-10-20_can-ai-interview-comparing-ai-led-to-human-led-cha.md|Can AI interview? Comparing AI-led to Human-led Chat Interviews]] — 7B'lik yerel açık ağırlıklı modelle yürütülen ilk doğrudan randomize karşılaştırma (N=41); maruz kalma, özgüllük ve alaka üzerinden veri kalitesi.
+

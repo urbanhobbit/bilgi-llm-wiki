@@ -66,5 +66,6 @@ Türkiye'de nitel araştırmanın en büyük darboğazı örneklem: derinlemesin
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/osf-io.md|OSF Preprints (SocArXiv)]]
 ### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-06_conversations-at-scale-robust-ai-led-interviews.md|Conversations at Scale: Robust AI-led Interviews]] — aynı alanın büyük ölçekli karşılaştırması (N=461–793, REStud): uzman puanı 2,93/5, sesli mod 3,93; buradaki 7B'lik yerel model deneyinin ölçek ve model kapasitesi bakımından tamamlayıcısı
 - [[raw/articles/2026-06-26_generative-grounded-theory-ggt-inductive-theory-bu.md|Generative grounded theory (GGT): Inductive theory building in the age of generative AI]] — veri toplama tarafındaki bu deneyin tamamlayıcısı: analiz tarafında LLM kullanımı
 - [[raw/articles/2026-10-15_synthetic-populations-for-epidemic-demographic-and.md|Synthetic populations for epidemic, demographic and mobility modeling]] — katılımcıyı simüle etme yaklaşımı; bu makale gerçek katılımcıyı koruyup görüşmeciyi değiştiriyor
