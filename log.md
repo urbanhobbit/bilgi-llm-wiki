@@ -1397,3 +1397,8 @@
 - Source files: 2026-10-27_six-questions-about-political-polarization-gelman.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-27_emotions-as-global-low-dimensional-brain-flow-patt.md]] — Emotions as global low-dimensional brain flow patterns (Neural Flows)
+- Source files: 2026-10-27_emotions-global-low-dimensional-brain-flow-patterns.json
+- Agent: OKF Ingestion Pipeline
+
