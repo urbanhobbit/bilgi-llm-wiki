@@ -53,3 +53,7 @@ Türkiye açısından bu yazının değeri, seçim tahmini ve anket analizi prat
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+
+## İlgili Makaleler
+- [[raw/articles/2026-10-27_six-questions-about-political-polarization-and-my-.md|Six questions about political polarization and my responses]] — aynı blogun 27 Ekim 2026 yazısı: kutuplaşmanın üç ölçüm düzlemi, elit→taban sızması ve Senato/gerrymandering karşı-örneği.
+

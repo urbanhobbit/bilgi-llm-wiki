@@ -75,8 +75,13 @@ Bir uyarı: yazı ölçüm sorusuna üç gösterge saymakla yetiniyor, sınırl�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — kutuplaşmanın üç ölçüm düzlemi (yasama oyu, bireysel oy davranışı, tutum anketi) ve her birinin farklı şeyi ölçmesi.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — yapısal kayma iddiası ve elit→taban sızması tezi; taban kutuplaşması tartışması yorumlarda.
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]] — S6'da Gelman'ın demokratik normlar konusunda veri temelli yargı vermeyi reddetmesi; ölçümü hakkında hiçbir şey söylemiyor.
+- [[concepts/yanlis-kutuplasma.md|Yanlış Kutuplaşma (False Polarization)]] — S4'teki ayrım: kutuplaşmanın önemli bir kısmı gerçek tutum farkı değil, kutuplaşma **algısı**; yanlış kutuplaşma literatürünün tam çekirdeği.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/statmodeling-stat-columbia-edu.md|Statmodeling Stat Columbia Edu]]
+- [[entities/statmodeling-stat-columbia-edu.md|Statistical Modeling, Causal Inference, and Social Science (Gelman blogu)]] — yazının yayın yeri; 403'e karşı r.jina.ai kurtarma yolu entity sayfasında belgelendi.
+
+## İlgili Makaleler
+- [[raw/articles/2026-08-18_the-improvement-in-political-analysis-in-the-past-.md|The improvement in political analysis in the past 25 years]] — aynı blogun daha önce işlenen yazısı: Morris, Silver ve McKown-Dawson üzerinden istatistiksel iş akışı; bu yazı onun ölçüm tarafını tamamlıyor.
+
