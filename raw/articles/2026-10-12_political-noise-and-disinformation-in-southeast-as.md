@@ -69,9 +69,20 @@ Yöntem dersi ise uyarı niteliğinde: tek değerlendirici, doğrulanmamış say
 - 🧩 **Yöntem**
 - ⚠️ **Sınırlılıklar**
 
+## 📌 Kavram Notları
+
+- Derlemenin yönetişim bölümünün omurgası, dezenformasyonla mücadele düzenlemeleri ile ifade özgürlüğü arasındaki gerilim; yazarlar platform yönetişimi ve şeffaflık (transparency) yükümlülüklerinin etkinliğini ölçen çalışma bulamıyor.
+- Aktörler arasında devlet aktörleri de var (Tayland'da stratejik dijital bilgi operasyonları, devlet destekli dezenformasyon / state disinformation): bu, olguyu yalnızca seçim kampanyası dezenformasyonu olarak değil, süreklilik taşıyan bir devlet kapasitesi olarak okumayı gerektiriyor.
+- Doğrulama ve medya okuryazarlığı (media literacy, fact-checking) müdahaleleri derlemede neredeyse hiç değerlendirilmiyor; yazarların "karşı önlemlerin etkinliği ölçülmemiş" teşhisi bu alandaki en büyük boşluk.
+- "Siyasal gürültü" (political noise) kavramı derlemenin kendi bulgusuna göre literatürde yerleşik değil: 104 çalışmadan yalnızca biri terimi kullanıyor — kavramın Türkçe'ye "siyasal gürültü" olarak taşınması bu sayfadaki en kullanışlı analitik öneri.
+- Sınırlılık notu: tek değerlendirici, doğrulanmamış sayısal sonuçlar ve metin içi sayı tutarsızlıkları (104/100 çalışma; %81/%77) nedeniyle bu kayıt kanıt değil, yön gösterici derleme ve yöntem şablonu olarak okunmalı.
+
 ---
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking]]
