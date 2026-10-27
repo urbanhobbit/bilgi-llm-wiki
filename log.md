@@ -1387,3 +1387,8 @@
 - Source files: 2026-09-25_one-sentence-at-a-time-quantitative-history-rationality.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-06_conversations-at-scale-robust-ai-led-interviews.md]] — Conversations at Scale: Robust AI-led Interviews
+- Source files: 2026-10-06_conversations-at-scale-robust-ai-led-interviews.json
+- Agent: OKF Ingestion Pipeline
+
