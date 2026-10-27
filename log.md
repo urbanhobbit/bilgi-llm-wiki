@@ -1382,3 +1382,8 @@
 - Source files: 2026-10-12_political-noise-disinformation-southeast-asia.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-25_one-sentence-at-a-time-a-quantitative-history-of-r.md]] — One Sentence at a Time: A Quantitative History of Rationality in Economic Thought
+- Source files: 2026-09-25_one-sentence-at-a-time-quantitative-history-rationality.json
+- Agent: OKF Ingestion Pipeline
+

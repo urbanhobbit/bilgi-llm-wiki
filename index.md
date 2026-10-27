@@ -459,4 +459,5 @@
 - [[raw/articles/2026-10-26_political-ideological-and-affective-gender-polaris.md|Political, Ideological and Affective Gender Polarisation among Young People]]
 - [[raw/articles/2026-10-18_propaganda-as-infrastructure-reconceptualizing-inf.md|Propaganda as infrastructure: reconceptualizing information operations through the Pravda network]]
 - [[raw/articles/2026-10-12_political-noise-and-disinformation-in-southeast-as.md|Political Noise and Disinformation in Southeast Asia: A Systematic Literature Review of Impacts on Democratic Discourse and Governance]]
+- [[raw/articles/2026-09-25_one-sentence-at-a-time-a-quantitative-history-of-r.md|One Sentence at a Time: A Quantitative History of Rationality in Economic Thought]]
 
