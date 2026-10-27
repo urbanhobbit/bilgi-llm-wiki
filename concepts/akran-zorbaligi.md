@@ -23,4 +23,4 @@ confidence: medium
 **Bağlantılı kavramlar:** [[concepts/siber-zorbalik.md|Siber Zorbalık]], [[concepts/ekran-suresi.md|Ekran Süresi]], [[concepts/cocuk-haklari.md|Çocuk Hakları]], [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 
 ## İlgili Makaleler
-- [[raw/articles/2026-10-27_peer-victimisation-among-school-age-children-in-tu.md|Peer Victimisation Among School-Age Children in Türkiye]] — TÜİK 2022 mikro verisiyle blok blok lojistik regresyon; %13,8 ulusal tahmini yeniden üretiyor.
+- [[raw/articles/2026-10-27_peer-victimisation-among-school-age-children-in-t-.md|Peer Victimisation Among School-Age Children in Türkiye]] — TÜİK 2022 mikro verisiyle blok blok lojistik regresyon; %13,8 ulusal tahmini yeniden üretiyor.

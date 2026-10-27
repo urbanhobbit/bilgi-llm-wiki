@@ -76,8 +76,9 @@ Yöntem notu: Hacettepe Nüfus Etütleri'nden bir çalışmanın TÜİK mikro ve
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
-- [[concepts/cocuk-istismari.md|cocuk-istismari]]
-- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]] — makalenin çekirdek kavramı: altı türün bileşik göstergesi, TCS-2022 AOR tablosu ve ekran süresi yorum tuzağı bu sayfada.
+- [[concepts/ekran-suresi.md|Ekran Süresi]] — eğlence amaçlı ekran süresi saat/hafta başına AOR 1,014; kesitsel olduğu için çift yönlü okunmalı.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]] — yayıncı; Cloudflare doğrulaması nedeniyle tam metne erişilemedi, kayıt Crossref özetine dayanıyor.
+- [[entities/tuik-gov-tr.md|TÜİK — Türkiye İstatistik Kurumu]] — verinin sahibi: 2022 Çocuk Araştırması mikro verisi (n = 10.210, 6–17 yaş); %13,8 ulusal tahmini bu veriden.
+
