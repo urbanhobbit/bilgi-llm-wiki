@@ -1420,3 +1420,8 @@
 - Source files: 2026-10-28_batch-user-links-1-agentic-reproduction.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_ysocial-v4-0-0-scadrial-y-kle-geni-let-daha-fazlas.md]] — YSocial v4.0.0 (Scadrial): yükle, genişlet, daha fazlasını simüle et
+- Source files: 2026-10-28_batch-user-links-1-ysocial.json
+- Agent: OKF Ingestion Pipeline
+
