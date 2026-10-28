@@ -1407,3 +1407,11 @@
 - Source files: 2026-10-27_peer-victimisation-turkiye-2022-child-survey.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-27_theorizing-the-democratic-crisis-a-symposium-on-je.md]] — Theorizing the Democratic Crisis: A Symposium on Jeffrey Alexander's Frontlash/Backlash
+- Raw: [[raw/articles/2026-10-27_cardinal-insights-44-52-26-why-infodis-research-ne.md]] — Cardinal Insights 44/52.26 — Why InfoDis research needs ethnography, not Twitter likes
+- Raw: [[raw/articles/2026-10-26_competitive-autocracy-goes-online-analysis-of-the-.md]] — Competitive autocracy goes online: analysis of the Turkish case
+- Raw: [[raw/articles/2025-01-31_a-framework-for-attribution-of-information-influen.md]] — A Framework for Attribution of Information Influence Operations (ADAC.io / Lund University PDR)
+- Source files: 2026-10-28_batch-user-links-4.json
+- Agent: OKF Ingestion Pipeline
+

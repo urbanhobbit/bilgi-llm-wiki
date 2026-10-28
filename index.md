@@ -464,4 +464,8 @@
 - [[raw/articles/2026-10-27_six-questions-about-political-polarization-and-my-.md|Six questions about political polarization and my responses (Gelman blog, 27 Ekim 2026)]]
 - [[raw/articles/2026-10-27_emotions-as-global-low-dimensional-brain-flow-patt.md|Emotions as global low-dimensional brain flow patterns (Neural Flows)]]
 - [[raw/articles/2026-10-27_peer-victimisation-among-school-age-children-in-t-.md|Peer Victimisation Among School-Age Children in Türkiye: A Blockwise Regression Analysis of the 2022 Child Survey]]
+- [[raw/articles/2026-10-27_theorizing-the-democratic-crisis-a-symposium-on-je.md|Theorizing the Democratic Crisis: A Symposium on Jeffrey Alexander's Frontlash/Backlash]]
+- [[raw/articles/2026-10-27_cardinal-insights-44-52-26-why-infodis-research-ne.md|Cardinal Insights 44/52.26 — Why InfoDis research needs ethnography, not Twitter likes]]
+- [[raw/articles/2026-10-26_competitive-autocracy-goes-online-analysis-of-the-.md|Competitive autocracy goes online: analysis of the Turkish case]]
+- [[raw/articles/2025-01-31_a-framework-for-attribution-of-information-influen.md|A Framework for Attribution of Information Influence Operations (ADAC.io / Lund University PDR)]]
 

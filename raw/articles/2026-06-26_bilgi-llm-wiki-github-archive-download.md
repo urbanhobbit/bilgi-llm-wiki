@@ -34,3 +34,9 @@ Bu bağlantı, İstanbul Bilgi Üniversitesi LLM Wiki projesine ait GitHub depos
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/github-com.md|Github Com]]

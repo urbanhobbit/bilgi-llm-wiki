@@ -32,3 +32,11 @@ Andrej Karpathy tarafından Nisan 2026'da oluşturulan 'LLM Wiki' isimli GitHub 
 ## Turkey Context
 
 Karpathy'nin LLM Wiki pattern'i, Türkiye'deki yapay zeka geliştirici topluluğu ve akademik çevreler için önemli bir referans kaynağıdır. TÜBİTAK'ın 2025 yılında başlattığı 'Türkiye Yapay Zeka Araştırma Altyapısı' girişimi kapsamında, araştırmacıların bilgi yönetimi ve LLM tabanlı araçları kullanma becerilerinin geliştirilmesi hedeflenmektedir. Türkiye'deki üniversitelerde yapay zeka ve doğal dil işleme alanında çalışan araştırmacı sayısı 2025 itibarıyla 1.200'ü aşmıştır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/github-com.md|Github Com]]

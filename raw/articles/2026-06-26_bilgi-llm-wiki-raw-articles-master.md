@@ -33,3 +33,9 @@ GitHub üzerinde barındırılan bu akademik wiki projesi, İstanbul Bilgi Üniv
 ---
 
 ## 🔗 İlgili Bağlantılar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/github-com.md|Github Com]]

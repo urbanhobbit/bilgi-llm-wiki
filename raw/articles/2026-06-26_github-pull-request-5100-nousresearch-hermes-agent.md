@@ -36,3 +36,9 @@ Bu GitHub pull request sayfası, NousResearch/hermes-agent açık kaynak projesi
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/github-com.md|Github Com]]

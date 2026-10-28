@@ -34,3 +34,9 @@ master ve main branch'ler büyük olasılıkla aynı içeriği barındırmaktad�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/github-com.md|Github Com]]
