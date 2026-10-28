@@ -54,3 +54,12 @@ Uyarı: LLM ajanları insan değil; simülasyon sonuçları **mekanizma keşfi**
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_depolarization-toolkit-an-agentic-ai-framework.md|Depolarization Toolkit: An Agentic AI Framework]]
