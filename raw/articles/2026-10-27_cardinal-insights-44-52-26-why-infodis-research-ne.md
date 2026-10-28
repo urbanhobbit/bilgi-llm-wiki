@@ -62,3 +62,11 @@ Dördüncüsü, AI yönetişimi bölümü (79% oranında kamu desteği, Birleşi
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/election-interference-disinformation.md|Election Interference and Disinformation (Seçim Müdahalesi ve Dezenformasyon)]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+- [[concepts/siyasal-etkileyiciler.md|Siyasal Etkileyiciler (Political Influencers)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/x-com.md|X (Twitter)]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_managing-disinformation-on-social-media-platforms.md|Managing Disinformation on Social Media Platforms]]

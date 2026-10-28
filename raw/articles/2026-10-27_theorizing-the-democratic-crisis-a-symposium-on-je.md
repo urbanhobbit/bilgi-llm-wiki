@@ -61,5 +61,9 @@ Metodolojik öneri: Türkçe sivil kodların anlam alanlarını zaman içinde iz
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
+- [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|SAGE Publications]]

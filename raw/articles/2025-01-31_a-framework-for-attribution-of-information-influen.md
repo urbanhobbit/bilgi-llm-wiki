@@ -64,3 +64,7 @@ Not: ADAC.io konsorsiyumunda Türkiye'den bir ortak yok (Alliance4Europe, Debunk
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/fimi.md|FIMI (Foreign Information Manipulation and Interference)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation (Jeopolitik Dezenformasyon)]]
+- [[concepts/election-interference-disinformation.md|Election Interference and Disinformation (Seçim Müdahalesi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]

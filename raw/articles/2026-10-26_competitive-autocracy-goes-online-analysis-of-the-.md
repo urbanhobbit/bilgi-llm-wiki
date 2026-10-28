@@ -64,5 +64,11 @@ Sınırlılık olarak not edilmeli: X verisiyle çalışılıyor, dolayısıyla 
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_se-im-g-venli-i-ve-dezenformasyon-hukuki-de-erlend.md|Seçim Güvenliği ve Dezenformasyon: Hukuki Değerlendirme]]
