@@ -468,4 +468,5 @@
 - [[raw/articles/2026-10-27_cardinal-insights-44-52-26-why-infodis-research-ne.md|Cardinal Insights 44/52.26 — Why InfoDis research needs ethnography, not Twitter likes]]
 - [[raw/articles/2026-10-26_competitive-autocracy-goes-online-analysis-of-the-.md|Competitive autocracy goes online: analysis of the Turkish case]]
 - [[raw/articles/2025-01-31_a-framework-for-attribution-of-information-influen.md|A Framework for Attribution of Information Influence Operations (ADAC.io / Lund University PDR)]]
+- [[raw/articles/2026-04-23_read-the-paper-write-the-code-agentic-reproduction.md|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]
 

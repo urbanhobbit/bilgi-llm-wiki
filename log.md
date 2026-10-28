@@ -1415,3 +1415,8 @@
 - Source files: 2026-10-28_batch-user-links-4.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-04-23_read-the-paper-write-the-code-agentic-reproduction.md]] — Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results
+- Source files: 2026-10-28_batch-user-links-1-agentic-reproduction.json
+- Agent: OKF Ingestion Pipeline
+
