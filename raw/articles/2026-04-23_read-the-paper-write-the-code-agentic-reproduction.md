@@ -65,5 +65,11 @@ Türkiye'de sosyal bilim yayıncılığının en kronik sorunu tam da makalenin 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/bilimsel-iletisim.md|Bilimsel İletişim (Science Communication)]]
+- [[concepts/harness-engineering.md|Harness Engineering (Agent Harness Mühendisliği)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/arxiv-org.md|arXiv]]
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-06-26_depolarization-toolkit-an-agentic-ai-framework.md|Depolarization Toolkit: An Agentic AI Framework]]
