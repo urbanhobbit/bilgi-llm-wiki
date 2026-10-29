@@ -1425,3 +1425,8 @@
 - Source files: 2026-10-28_batch-user-links-1-ysocial.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md]] — Does school climate matter? The impact of mastery, performance and student voice climate on promoting school effectiveness
+- Source files: 2026-10-29_batch-user-links-1-berj-school-climate.json
+- Agent: OKF Ingestion Pipeline
+

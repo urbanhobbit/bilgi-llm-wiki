@@ -470,4 +470,5 @@
 - [[raw/articles/2025-01-31_a-framework-for-attribution-of-information-influen.md|A Framework for Attribution of Information Influence Operations (ADAC.io / Lund University PDR)]]
 - [[raw/articles/2026-04-23_read-the-paper-write-the-code-agentic-reproduction.md|Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results]]
 - [[raw/articles/2026-10-23_ysocial-v4-0-0-scadrial-y-kle-geni-let-daha-fazlas.md|YSocial v4.0.0 (Scadrial): yükle, genişlet, daha fazlasını simüle et]]
+- [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md|Does school climate matter? The impact of mastery, performance and student voice climate on promoting school effectiveness]]
 
