@@ -1435,3 +1435,8 @@
 - Source files: 2026-10-29_batch-user-links-1-beland-field-theory.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-03-16_the-rights-of-children-and-youth-in-the-climate-cr.md]] — The Rights of Children and Youth in the Climate Crisis: Action and Litigation
+- Source files: 2026-10-29_batch-user-links-1-daly-children-climate-rights-monograph.json
+- Agent: OKF Ingestion Pipeline
+

@@ -472,4 +472,5 @@
 - [[raw/articles/2026-10-23_ysocial-v4-0-0-scadrial-y-kle-geni-let-daha-fazlas.md|YSocial v4.0.0 (Scadrial): yükle, genişlet, daha fazlasını simüle et]]
 - [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md|Does school climate matter? The impact of mastery, performance and student voice climate on promoting school effectiveness]]
 - [[raw/articles/2026-10-20_ideas-institutions-and-field-theory-in-political-a.md|Ideas, institutions, and field theory in political and policy analysis]]
+- [[raw/articles/2026-03-16_the-rights-of-children-and-youth-in-the-climate-cr.md|The Rights of Children and Youth in the Climate Crisis: Action and Litigation]]
 
