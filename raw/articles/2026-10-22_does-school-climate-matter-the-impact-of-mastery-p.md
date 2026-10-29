@@ -37,6 +37,7 @@ Türkiye'de okul etkililiği tartışması hâlâ büyük ölçüde sınav başa
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]

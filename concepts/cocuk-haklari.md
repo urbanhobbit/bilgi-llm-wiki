@@ -26,3 +26,6 @@ Birleşmiş Milletler Çocuk Hakları Sözleşmesi (UNCRC), çocukların dijital
 - **Madde 19:** Korunma hakkı — zararlı içerik ve istismardan koruma
 
 İlgili kavram: [[concepts/dijital-haklar.md]]
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md|Does school climate matter? Öğrenci sesi iklimi ve okul etkililiği]]
