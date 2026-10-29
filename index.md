@@ -474,4 +474,5 @@
 - [[raw/articles/2026-10-20_ideas-institutions-and-field-theory-in-political-a.md|Ideas, institutions, and field theory in political and policy analysis]]
 - [[raw/articles/2026-03-16_the-rights-of-children-and-youth-in-the-climate-cr.md|The Rights of Children and Youth in the Climate Crisis: Action and Litigation]]
 - [[raw/articles/2025-11-24_forecasting-social-science-evidence-from-100-proje.md|Forecasting Social Science: Evidence from 100 Projects]]
+- [[raw/articles/2026-10-29_the-economics-of-intelligence-how-and-when-does-ag.md|The Economics of Intelligence: How and when does AGI lead to economic transformation?]]
 

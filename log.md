@@ -1445,3 +1445,8 @@
 - Source files: 2026-10-29_batch-user-links-1-dellavigna-vivalt-forecasting.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-29_the-economics-of-intelligence-how-and-when-does-ag.md]] — The Economics of Intelligence: How and when does AGI lead to economic transformation?
+- Source files: 2026-10-29_batch-user-links-1-imas-koh-legg-economics-of-intelligence.json
+- Agent: OKF Ingestion Pipeline
+
