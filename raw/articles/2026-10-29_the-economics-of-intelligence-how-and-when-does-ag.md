@@ -53,3 +53,11 @@ Türkiye'de yapay zekâ tartışması neredeyse tamamen yetkinlik ekseninde yür
 
 - 🔍 **Araştırma Boşluğu**
 - 🧩 **Yöntem**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/agi-ekonomisi.md|AGI Ekonomisi (Yapay Zekâ ve Emek Piyasası)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/google-deepmind.md|Google DeepMind (DeepMind Institute)]]
