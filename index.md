@@ -473,4 +473,5 @@
 - [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md|Does school climate matter? The impact of mastery, performance and student voice climate on promoting school effectiveness]]
 - [[raw/articles/2026-10-20_ideas-institutions-and-field-theory-in-political-a.md|Ideas, institutions, and field theory in political and policy analysis]]
 - [[raw/articles/2026-03-16_the-rights-of-children-and-youth-in-the-climate-cr.md|The Rights of Children and Youth in the Climate Crisis: Action and Litigation]]
+- [[raw/articles/2025-11-24_forecasting-social-science-evidence-from-100-proje.md|Forecasting Social Science: Evidence from 100 Projects]]
 

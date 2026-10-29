@@ -1440,3 +1440,8 @@
 - Source files: 2026-10-29_batch-user-links-1-daly-children-climate-rights-monograph.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-11-24_forecasting-social-science-evidence-from-100-proje.md]] — Forecasting Social Science: Evidence from 100 Projects
+- Source files: 2026-10-29_batch-user-links-1-dellavigna-vivalt-forecasting.json
+- Agent: OKF Ingestion Pipeline
+
