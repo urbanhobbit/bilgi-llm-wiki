@@ -29,3 +29,4 @@ Birleşmiş Milletler Çocuk Hakları Sözleşmesi (UNCRC), çocukların dijital
 
 ### 📄 İlgili Makaleler
 - [[raw/articles/2026-10-22_does-school-climate-matter-the-impact-of-mastery-p.md|Does school climate matter? Öğrenci sesi iklimi ve okul etkililiği]]
+- [[raw/articles/2026-03-16_the-rights-of-children-and-youth-in-the-climate-cr.md|The Rights of Children and Youth in the Climate Crisis — Daly, Paz Landeira & Muller]]
