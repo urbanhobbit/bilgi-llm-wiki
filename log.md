@@ -1450,3 +1450,8 @@
 - Source files: 2026-10-29_batch-user-links-1-imas-koh-legg-economics-of-intelligence.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-11-01_time-varying-relationships-between-the-sentiment-o.md]] — Time-Varying Relationships Between the “Sentiment” of U.S. Public Opinion and News Media
+- Source files: 2026-10-29_batch-user-links-1-ploger-media-opinion-sentiment.json
+- Agent: OKF Ingestion Pipeline
+
