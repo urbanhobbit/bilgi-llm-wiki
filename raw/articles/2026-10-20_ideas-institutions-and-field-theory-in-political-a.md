@@ -31,3 +31,12 @@ Daniel Béland'nin kavramsal makalesi, siyaset ve politika analizinde fikirlerin
 ## Turkey Context
 
 Türkiye siyaset bilimi son yirmi yılda açıklamalarının ağırlığını tarihsel kurumsalcılığa ve fikirlerin rolüne yükledi: devlet geleneği, askeri vesayet mirası, AKP döneminde politika miraslarının yeniden kullanımı, eğitim ve sağlık reformlarında fikirsel çerçevelerin dolaşımı. Bu literatürün zayıf noktası tam da Béland'nin işaret ettiği yerde duruyor: fikirler genellikle söylem analiziyle, kurumlar ise biçimsel-yapısal analizle okunuyor ve iki literatür birbirine değmiyor; 'fikir mi kurum mu belirledi' sorusu sık sık ampirik olarak karara bağlanmadan tekrarlanıyor. Alan kavramı, Türkiye çalışmalarında ihmal edilmiş bir ara katman sunuyor: bir politika fikrinin hangi stratejik eylem alanında (bürokrasi, üniversite, meslek örgütleri, medya, sermaye ağları) ve aktörün hangi konumundan dolaşıma girdiği izlenebilir hale geliyor. Örneğin müfredat tartışmalarında 'milli irade', 'yerli ve milli' söyleminin neden bazı alanlarda kurumsal olarak yerleşip bazılarında yerleşmediği, yalnızca fikir analiziyle değil, alanların göreli özerkliği ve aktör konumlarıyla birlikte açıklanabilir. Aynı şekilde popülizm ve dezenformasyon araştırmalarında fikirlerin dolaşımını platform alanlarının konum mantığıyla birleştirmek, Türkiye'de sık başvurulan 'kültürel kod' açıklamalarının yerine sınanabilir bir çerçeve koyabilir. Metodolojik uyarı da önemli: alan analizi ciddiye alınacaksa aktör konumlarının (sermaye türleri, ağ merkeziliği, kurumsal kaynak) ölçülmesi gerekir; Türkiye literatüründe bu genellikle sezgisel bırakılıyor. Makale görgül değil, ama Türkiye'de kuramsal eclecticism'in yerine tutarlı bir açıklama zinciri kurmak isteyenler için doğrudan kullanışlı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/fikirler-ve-kurumlar.md|Fikirler, Kurumlar ve Alan Teorisi (Ideas, Institutions, Field Theory)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/mcgill-university.md|McGill University]]
