@@ -1430,3 +1430,8 @@
 - Source files: 2026-10-29_batch-user-links-1-berj-school-climate.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-29] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_ideas-institutions-and-field-theory-in-political-a.md]] — Ideas, institutions, and field theory in political and policy analysis
+- Source files: 2026-10-29_batch-user-links-1-beland-field-theory.json
+- Agent: OKF Ingestion Pipeline
+
