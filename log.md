@@ -1460,3 +1460,8 @@
 - Source files: 2026-10-30_000354_ingestion.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-28_is-it-okay-to-use-generative-ai-in-sociological-re.md]] — Is it Okay to Use Generative AI in Sociological Research?
+- Source files: 2026-10-30_batch-user-links-1-stuhler-genai-sociology.json
+- Agent: OKF Ingestion Pipeline
+
