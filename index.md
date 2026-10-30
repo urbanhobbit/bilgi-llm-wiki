@@ -479,4 +479,5 @@
 - [[raw/articles/2026-10-29_the-factory-of-discord-how-foreign-actors-exploit-.md|The Factory of Discord: How Foreign Actors Exploit Social Unrest in Europe]]
 - [[raw/articles/2026-10-28_is-it-okay-to-use-generative-ai-in-sociological-re.md|Is it Okay to Use Generative AI in Sociological Research?]]
 - [[raw/articles/2026-10-30_agent-based-modeling-worlds-within-worlds.md|Agent-Based Modeling: Worlds Within Worlds]]
+- [[raw/articles/2026-10-26_large-language-models-for-computational-social-sci.md|Large language models for computational social science]]
 

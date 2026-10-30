@@ -1470,3 +1470,8 @@
 - Source files: 2026-10-30_batch-user-links-1-sfi-agent-based-modeling-worlds-within-worlds.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-26_large-language-models-for-computational-social-sci.md]] — Large language models for computational social science
+- Source files: 2026-10-30_batch-user-links-1-xu-llms-computational-social-science.json
+- Agent: OKF Ingestion Pipeline
+
