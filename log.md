@@ -1480,3 +1480,8 @@
 - Source files: 2026-10-21_kas-cognitive-warfare-democratic-defence.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-29_investigating-the-utility-of-llm-based-silicon-sam.md]] — Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments
+- Source files: 2026-10-29_malmberg-silicon-samples-conjoint-poq.json
+- Agent: OKF Ingestion Pipeline
+
