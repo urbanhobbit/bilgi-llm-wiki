@@ -59,6 +59,8 @@ Türkiye'de hesaplamalı sosyal bilimlerin en somut darboğazı veriye erişim o
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nature-com.md|Nature Com]]
+- [[entities/santa-fe-institute.md|Santa Fe Institute (SFI)]]
