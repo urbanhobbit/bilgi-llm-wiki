@@ -1475,3 +1475,8 @@
 - Source files: 2026-10-30_batch-user-links-1-xu-llms-computational-social-science.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-21_cognitive-warfare-a-democratic-defence-volume-1-pr.md]] — Cognitive Warfare: A Democratic Defence (Volume 1: Protecting Our Hearts & Minds; Volume 2: Country Summaries)
+- Source files: 2026-10-21_kas-cognitive-warfare-democratic-defence.json
+- Agent: OKF Ingestion Pipeline
+
