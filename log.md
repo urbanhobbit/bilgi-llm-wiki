@@ -1455,3 +1455,8 @@
 - Source files: 2026-10-29_batch-user-links-1-ploger-media-opinion-sentiment.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-29_the-factory-of-discord-how-foreign-actors-exploit-.md]] — The Factory of Discord: How Foreign Actors Exploit Social Unrest in Europe
+- Source files: 2026-10-30_000354_ingestion.json
+- Agent: OKF Ingestion Pipeline
+

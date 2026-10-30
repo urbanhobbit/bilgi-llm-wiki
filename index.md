@@ -476,4 +476,5 @@
 - [[raw/articles/2025-11-24_forecasting-social-science-evidence-from-100-proje.md|Forecasting Social Science: Evidence from 100 Projects]]
 - [[raw/articles/2026-10-29_the-economics-of-intelligence-how-and-when-does-ag.md|The Economics of Intelligence: How and when does AGI lead to economic transformation?]]
 - [[raw/articles/2025-11-01_time-varying-relationships-between-the-sentiment-o.md|Time-Varying Relationships Between the “Sentiment” of U.S. Public Opinion and News Media]]
+- [[raw/articles/2026-10-29_the-factory-of-discord-how-foreign-actors-exploit-.md|The Factory of Discord: How Foreign Actors Exploit Social Unrest in Europe]]
 
