@@ -1465,3 +1465,8 @@
 - Source files: 2026-10-30_batch-user-links-1-stuhler-genai-sociology.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-30] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_agent-based-modeling-worlds-within-worlds.md]] — Agent-Based Modeling: Worlds Within Worlds
+- Source files: 2026-10-30_batch-user-links-1-sfi-agent-based-modeling-worlds-within-worlds.json
+- Agent: OKF Ingestion Pipeline
+

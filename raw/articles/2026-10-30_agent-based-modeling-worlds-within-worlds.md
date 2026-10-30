@@ -1,0 +1,44 @@
+---
+type: raw_article
+title: 'Agent-Based Modeling: Worlds Within Worlds'
+description: Santa Fe Institute'un (SFI) hazırladığı interaktif uzun-form hikâye,
+  ajan-tabanlı modellemenin (ABM) sosyal bilimlerde fringe bir fikirden politika aracına
+  dönüşen tarihini kronolojik olarak anlatıyor...
+resource: https://www.santafe.edu/features/agent-based-modeling-worlds-within-worlds
+tags:
+- genel
+- medium
+timestamp: '2026-10-30T12:41:44Z'
+source_file: 2026-10-30_batch-user-links-1-sfi-agent-based-modeling-worlds-within-worlds.json
+category: GENEL
+priority: medium
+published: '2026-10-30'
+---
+
+# Agent-Based Modeling: Worlds Within Worlds
+
+**Author(s):** Santa Fe Institute (metin: Julia Ostmann; tasarım: Nick Pelton; editör: Katie Mast)
+
+**Published:** 2026-10-30
+
+**Source:** [https://www.santafe.edu/features/agent-based-modeling-worlds-within-worlds](https://www.santafe.edu/features/agent-based-modeling-worlds-within-worlds)
+
+## Summary
+
+Santa Fe Institute'un (SFI) hazırladığı interaktif uzun-form hikâye, ajan-tabanlı modellemenin (ABM) sosyal bilimlerde fringe bir fikirden politika aracına dönüşen tarihini kronolojik olarak anlatıyor; anlatı bilinçli biçimde SFI-merkezli ve bunu gizlemiyor. Zincir Manhattan Project'in hesaplama mirası, John Conway'in 1970'te Scientific American'da tanıtılan Game of Life'ı ve John Holland'ın karmaşıklık çalışmalarıyla başlıyor; 1980'lerin sonunda Santa Fe'de eski bir manastırda toplanan ekonomist, fizikçi ve bilgisayar bilimcilerinin 'ekonomiyi cam altına alma' hayaliyle sürüyor. Dönüm noktaları sırayla: 1991 Santa Fe Yapay Borsası (Brian Arthur, John Holland, Blake LeBaron, Richard Palmer; danışman Stephanie Forrest) — öğrenen, strateji değiştiren ajanların bubble ve çöküş ürettiği ilk modellerden biri; 1993 Sugarscape (Joshua Epstein ve Robert Axtell, SFI-Brookings) — metabolizma, kaynak tüketimi, servet eşitsizliği ve sürdürülebilirliği en basit kurallarla üreten kanonik model; 1994 El Farol Bar problemi. 1990'ların ortasında modelleme 'simülasyon bilim değildir' eleştirisiyle ve veri/hesaplama kısıtlarıyla yavaşlıyor; kurumsal yanıt Swarm platformu (Christopher Langton), SFI Lisansüstü Hesaplamalı Sosyal Bilim Atölyesi (Scott Page, John Miller) ve Leigh Tesfatsion'ın açık kaynak altyapısı oluyor. Arkeolojide Artificial Anasazi'den (Tim Kohler, George Gumerman) Village Ecodynamics Project'e ve Stefani Crabtree'nin 2017 Chaco Canyon çalışmasına uzanan hat, 36 senaryoyla Anasazi toplumunun eşitlikçilikten hiyerarşiye geçişini yeniden kuruyor. Halk sağlığında 2005 sonrası bulaşıcı hastalık modelleri (Lauren Ancel Meyers, Epstein), 2009 H1N1'de NIH ağının politika üretmesi ve 2011 obezite modeli (Ross Hammond) var. COVID-19 bölümü en somut kanıtı veriyor: Doyne Farmer, Penny Mealy ve R. Maria del Rio-Chanona'nın Birleşik Krallık ABM'si Nisan-Haziran 2020 daralmasını −%22,1 öngörürken gerçekleşme −%21,5, Bank of England tahmini ise yaklaşık −%30; bazı öneriler hükümet tarafından uygulanıyor. Konut balonu modeli (Axtell, Farmer, Geanakoplos, Howitt) İngiltere, Kanada, Hollanda, Danimarka, İtalya, İspanya, Macaristan, Fransa merkez bankaları ve ECB tarafından uyarlanıyor. Ölçek iddiası sayılarla veriliyor: 1991'de 13,9 GFLOPS olan dünyanın en güçlü bilgisayarı 2026'da 2,198 EFLOPS; ABM yayınları 2002'de 50'nin, 2025'te 900'ün üzerinde, atıflar 24.000'i aşıyor. Kapanış, makine öğrenmesiyle güçlendirilmiş ajanlar ve merkez bankası modelleri etrafında 'politika laboratuvarı' fikrini öne çıkarıyor.
+
+## Key Points
+
+- Künye: santafe.edu/features/agent-based-modeling-worlds-within-worlds — SFI'nin interaktif özellik dosyası; metin Julia Ostmann, web tasarımı Nick Pelton, editör Katie Mast; Zegar Family Foundation ve Omidyar Network desteğiyle. Hakemli makale değil, bilim tarihi anlatısı.
+- Zaman çizelgesi: 1970 Game of Life → 1980'lerin sonu Santa Fe manastır buluşmaları → 1991 SFI Yapay Borsası → 1993 Sugarscape → 1994 El Farol → 1996 Swarm platformu → 1997 AER'nin 'hesaplama artık burada' teslimi → 2000 Artificial Anasazi → 2005-2011 halk sağlığı dalgası → 2014 konut balonu ABM'si → 2020 COVID-19 ekonomik ABM'si → 2025 Farmer-Axtell retrospektifi.
+- Sugarscape'in katkısı: tek tip ajan varsayımını kırması; metabolizma ve kaynak dağılımından servet eşitsizliği, aşırı tüketim ve nüfus dinamiklerinin kendiliğinden doğması. Epstein-Axtell hattı sonradan ajan-tabanlı bilişimsel sosyal bilimin kurucu referansı oldu.
+- SFI Yapay Borsası: ajanlara öğrenme, kural test etme ve strateji değiştirme yetkisi verildiğinde piyasanın dengeye değil sürekli volatiliteye, bubble ve çöküşlere gittiği gösterildi; LeBaron'un ifadesiyle 'modeli çökertmemek zor'.
+- COVID-19 doğrulaması: Birleşik Krallık ABM'si (Farmer, Mealy, del Rio-Chanona) Nisan-Haziran 2020 için −%22,1, gerçekleşme −%21,5, Bank of England −%30 civarı; müşteriye dönük sektörlerin kapanıp yukarı akış sektörlerinin açık tutulması önerisi hükümet politikasına girdi.
+- Arkeoloji: Crabtree vd. 2017 Chaco Canyon modelleri 36 senaryo ve çoklu tekrarla, Anasazi yerleşimlerinin önce eşitlikçi, sonra rekabetçi-hiyerarşik siyasal yapılara geçtiğini, iklim değişimiyle çözülüp eşitlikçiliğe döndüğünü gösteriyor — kazı verisiyle modeli karşılıklı besleyen nadir örnek.
+- Yayılma metriği: 2002'de 50+ yeni ABM makalesi ve 30+ atıf; 2025'te 900+ makale ve 24.000+ atıf. Hesaplama ölçeği 13,9 GFLOPS (1991) → 1,068 TFLOPS (1997) → 1,105 PFLOPS (2008) → 415,5 PFLOPS (2020) → 1,742 EFLOPS (2024) → 2,198 EFLOPS (Haziran 2026).
+- Dürüstlük notu: metin kendi SFI-merkezliliğini açıkça kabul ediyor (X paylaşımı da bunu 'SFI-centric' diye işaretliyor) ve ekonomi dışındaki gerçek-dünya uygulamalarının ekonomidekinden çok daha güçlü olduğunu, 'ekonomiyi cam altına alma' hayalinin 2000'lerde gerçekleşmediğini de yazıyor.
+- Kapanış gündemi: 2025'te Farmer ve Axtell'in retrospektifi ve SFI Gurley Forum'da bir aylık çalışma grubu; makine öğrenmesiyle güçlendirilmiş ajanlar, gerçek veriyle kalibre edilmiş modeller, 'politika laboratuvarı' olarak ABM ve model performansını gerçek veriyle kıyaslayan benchmark setleri.
+
+## Turkey Context
+
+Türkiye'de ajan-tabanlı modelleme, hesaplamalı sosyal bilimlerin genel zayıflığının bir parçası olarak marjinal kalıyor: lisansüstü programlarda ayrı bir yöntem dersi nadiren var, ABM çoğunlukla tek tek hevesli araştırmacıların işi ve disiplinler arası bir altyapıya yaslanmıyor. Oysa metnin kronolojisi Türkiye için iki somut fırsatı işaret ediyor. Birincisi, kriz ve belirsizlik dönemlerinde ABM'nin politika üretkenliği: COVID-19 bölümündeki Birleşik Krallık örneğinde modelin −%22,1 öngörüsü gerçekleşmenin (−%21,5) bir puan yakınına düşerken standart denge modelleri −%30 civarında kalıyor. Türkiye'de pandemi, deprem sonrası yeniden yapılanma, göç ve enflasyon gibi şokların sektörel yayılımını modellemek için aynı yaklaşım doğrudan uygulanabilir; ama bunun ön koşulu sektörler arası girdi-çıktı tabloları, hanehalkı mikro verisi ve firma düzeyinde istihdam verisinin araştırmacıya açılması. TÜİK'in mikro veri erişim rejimi ve TCMB'nin idari kayıtları bu tür modellerin kalibrasyonu için yeterli değil; metnin altını çizdiği 'veri + hesaplama' eşiği Türkiye'de asıl olarak veri tarafında takılıyor. İkinci fırsat, siyaset bilimi ve kutuplaşma araştırması: metinde Scott Page, John Miller ve Ken Kollman'ın seçim ve oylama üzerine ABM'leri anılıyor; Türkiye'de seçmen davranışı, partizan kutuplaşma, sosyal medya etkileşimi ve koalisyon dinamikleri için ajan-tabanlı modeller neredeyse hiç kullanılmadı. Anket tabanlı kutuplaşma ölçümleri (duygusal kutuplaşma, affektif polarizasyon) statik kesitler verirken, ABM ajanlar arası etkileşimin zaman içinde nasıl yayıldığını simüle edebilir — özellikle seçim kampanyaları, dezenformasyon yayılımı ve yerel medya ekosistemleri için. Üçüncüsü, kurumsal altyapı dersi: SFI'nin yaptığı şey tek tek modeller değil, ortak platform (Swarm), yaz okulu, açık kaynak rehberler ve benchmark kültürü inşa etmekti. Türkiye'de TRUBA gibi yüksek başarımlı hesaplama kaynakları var ama sosyal bilimcilere yönelik bir ABM yaz okulu, ortak kod tabanı ve model doğrulama standardı yok; bu tür bir altyapı olmadan yöntem ithal kalıyor. Dördüncü ve daha eleştirel nokta: metnin kendisi 'ekonomiyi cam altına alma' vizyonunun 2000'lerde çöktüğünü ve ABM'nin gerçek etkisinin ekonomi dışında (halk sağlığı, arkeoloji) çok daha güçlü olduğunu kabul ediyor. Türkiye'de ABM'yi 'her şeyi modelleyeceğiz' iddiasıyla sunmak, aynı hayal kırıklığını tekrarlama riski taşır; gerçekçi hedef, sınırları iyi tanımlanmış, veriyle kalibre edilmiş ve belirsizliği raporlanan modeller olmalı. Son olarak kaynak türü açısından dikkat: bu bir hakemli makale değil, bir kurumun kendi tarihini anlattığı interaktif dosya; tarihsel kronoloji ve rakamlar için iyi bir giriş metni, ama ABM'nin sınırlılıklarına dair sistematik bir değerlendirme için Farmer-Axtell 2025 retrospektifi gibi kaynaklara gidilmesi gerekir.
