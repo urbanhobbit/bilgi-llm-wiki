@@ -487,4 +487,5 @@
 - [[raw/articles/2026-10-29_manufacturing-the-great-replacement-a-covert-anti-.md|Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign]]
 - [[raw/articles/2026-02_connected-childhood-the-state-of-digital-wellbeing.md|Connected Childhood: The State of Digital Wellbeing and Resilience for Children and Young People in Europe (2026)]]
 - [[raw/articles/2026-10-16_the-file-drawer-ai-generated-research-reports-for-.md|The File Drawer: AI-generated research reports for unpublished studies (filedrawer.org)]]
+- [[raw/articles/2026-09-09_forecasting-informed-foreign-policy-decision-makin.md|Forecasting-informed foreign policy decision-making: the case of jus ad vim]]
 

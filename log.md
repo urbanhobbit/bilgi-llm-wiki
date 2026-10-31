@@ -1513,3 +1513,8 @@
 - Source files: 2026-10-16_filedrawer-ai-research-reports.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-09_forecasting-informed-foreign-policy-decision-makin.md]] — Forecasting-informed foreign policy decision-making: the case of jus ad vim
+- Source files: 2026-09-09_aloyo-forecasting-jus-ad-vim.json
+- Agent: OKF Ingestion Pipeline
+
