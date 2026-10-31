@@ -41,6 +41,7 @@ Columbia Üniversitesi'nde siyaset bilimci Yamil Velez'in geliştirdiği Filedra
 - Açık kaynak durumu: MIT lisansı (telif 2026 Yamil Velez), kamuya açık README ve llms.txt; ajanlar için makine-okunur rehber ve index.json. Statik pano GitHub Pages veya 256 MB Fly makinesinde (sıfıra ölçekleniyor) çalışıyor — yani barındırma maliyeti marjinal, bu da Velez'in 'birkaç projeyi barındırmayı taahhüt ettim' ifadesini maddi olarak mümkün kılıyor.
 - Sınır: hat şu an yalnızca anket deneyleri, konjointler ve yöntem karşılaştırmaları için çalışıyor (Velez'in kendi alanı); gözlemsel, nitel ve saha çalışmaları için katkı çağrısı açık. Beş paket 'tamamen ajan üretimi + otomatik hakem geçişi'; insan incelemesi tek pakette var, yani kalite güvencesi büyük ölçüde otomatik.
 - Model maliyeti: çalışma başına $0,37–$1,41 (provenance'ta raporlanıyor). Bu, 'otomatik araştırma raporu' üretiminin marjinal maliyetinin tek haneli doların altına indiğini gösteren somut bir veri noktası — dosya çekmecesi sorununun ölçeklenebilirliği açısından asıl haber bu.
+- Yöntem ve şeffaflık açısından anlamı: platform, araştırma yöntemleri eğitiminde ön-kayıt uyumunun alan alan nasıl denetleneceğini gösteren hazır bir vaka seti sunuyor; her raporun yanında model, token, maliyet ve girdi hash'i günlüğü tutulması ise şeffaflığı beyan düzeyinden denetlenebilir kayıt düzeyine taşıyor.
 
 ## Turkey Context
 
@@ -50,3 +51,13 @@ Türkiye'de dosya çekmecesi sorunu akademik teşvik sistemiyle daha da derin: y
 
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/kesifsel-dogrulayici-ayrimi.md|Keşifsel–Doğrulayıcı Ayrımı (Exploratory–Confirmatory Distinction)]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
