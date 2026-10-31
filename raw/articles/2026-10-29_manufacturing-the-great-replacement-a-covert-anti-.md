@@ -41,6 +41,7 @@ Marc Owen Jones ve Sohan Dsouza'nın üç yıllık araştırması, Ekim 2023'ten
 - İsrail'e işaret eden izler: Wikipedia'daki 'Qatari Soft Power' sayfasını oluşturan TronFactor sockpuppet ağının Almanya proxy'leri arasındaki bir hatadan çıkan statik IP İsrail'e çözülüyor; 'Made in Qatar' Telegram kanalının 78 videosunun metadata'sı pazar–perşembe çalışma haftası, UTC+3 gündüz saatleri ve İbranice etiketler gösteriyor. Rapor bunu 'İsrail merkezli profesyonel bir üretim ortamına güçlü işaret' olarak sunuyor, şirketi/müşteriyi adlandırmıyor.
 - İsimli iz: Katrina Lantos Swett, kampanya posterini kendisinin getirmediğini, posterin Johnnie Moore (Trump'ın evanjelik danışmanı, Gazze İnsani Yardım Vakfı'nın kurulacak başkanı) tarafından verildiğini AFP'ye söyledi; Moore'un PR firması JDA Worldwide, Georgia'daki AVM eyleminde poz veren iki eski yarışma kraliçesi hakkındaki basın bültenini de yayınlamıştı.
 - Açık kalan soru: nihai sponsor hiçbir zaman kanıtlanmadı; CPAC ve Times Square billboard'u için ödemeyi yapan da açıklanmadı. Rapordaki dürüst sınır, 'kayıtlar kaybolurken reklamlar yayında kalıyor' tespitiyle birleşiyor: platform şeffaflık rejimleri hesap verebilirlik üretmiyor, sadece iz sürme maliyetini artırıyor.
+- Üretim ve karartma teknikleri: kampanya AI üretimi şarkılar ("All I Want for Qatar", Wham'in "Last Christmas" cover'ı), Katar Emiri'nin kış olimpiyatları hakkında söylemediği sözleri içeren bir deepfake video ve OCR'ı yanıltmak için QXTAR gibi leetspeak yazımlar kullandı. Reklamveren, üretici ve aracı katmanları Brezilya, Belçika, Almanya, Vietnam ve İsrail'e yayılan ulusötesi dezenformasyon altyapısı oluşturuyor.
 
 ## Turkey Context
 
@@ -53,3 +54,8 @@ Türkiye bu raporun iki ayrı yerinden doğrudan etkileniyor. Birincisi jeopolit
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/geopolitical-disinformation.md|Geopolitical Disinformation (Jeopolitik Dezenformasyon)]]
+- [[concepts/far-right-migration-disinformation.md|Far-Right and Migration Disinformation (Aşırı Sağ ve Göçmen Dezenformasyonu)]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/dysinfluence-com.md|Dysinfluence]]
