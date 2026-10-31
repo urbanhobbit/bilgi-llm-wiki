@@ -486,4 +486,5 @@
 - [[raw/articles/2026-10-29_investigating-the-utility-of-llm-based-silicon-sam.md|Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments]]
 - [[raw/articles/2026-10-29_manufacturing-the-great-replacement-a-covert-anti-.md|Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign]]
 - [[raw/articles/2026-02_connected-childhood-the-state-of-digital-wellbeing.md|Connected Childhood: The State of Digital Wellbeing and Resilience for Children and Young People in Europe (2026)]]
+- [[raw/articles/2026-10-16_the-file-drawer-ai-generated-research-reports-for-.md|The File Drawer: AI-generated research reports for unpublished studies (filedrawer.org)]]
 

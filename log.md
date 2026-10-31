@@ -1508,3 +1508,8 @@
 - 23 kayıt Okuma Listesi'nde konumlandırıldı; 9 ÖZET bloğu 250–300 kelime aralığında doğrulandı (253–261).
 - Agent: Weekly Bulletin Integration
 
+## [2026-10-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-16_the-file-drawer-ai-generated-research-reports-for-.md]] — The File Drawer: AI-generated research reports for unpublished studies (filedrawer.org)
+- Source files: 2026-10-16_filedrawer-ai-research-reports.json
+- Agent: OKF Ingestion Pipeline
+
