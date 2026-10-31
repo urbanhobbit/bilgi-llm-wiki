@@ -49,6 +49,12 @@ Türkiye bu raporun iki ayrı yerinden doğrudan etkileniyor. Birincisi jeopolit
 
 ---
 
+## 📹 Video özeti ve lansman duyurusu
+
+Raporun kısa (dikey) video özeti 30 Ekim 2026'da Marc Owen Jones tarafından paylaşıldı (x.com/marcowenjones/status/2116118268716925171; ~338 bin görüntüleme, 3,5 bin beğeni, 1.845 retweet) ve doğrudan raporun ana sayfasına yönlendiriyor. Lansman duyurusu ise 29 Ekim'deki 25 tweet'lik ana thread'dir (1/25: "533M recorded exposures in 30 countries", 337 bin görüntüleme, 249 alıntı). Bu sayfa iki X paylaşımını da aynı artefakta — thegreatreplacement.dysinfluence.com — bağlar; video, raporun kendi görsel arşivinden üretilmiş bir tanıtım özetidir, yeni bulgu içermez.
+
+---
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
