@@ -1495,3 +1495,16 @@
 - Source files: 2026-10-31_connected-childhood-dwri-2026.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-31] ingest | KURATOR Weekly Bulletin (Hafta 44/2026)
+- Raw: [[raw/articles/2026-10-31_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 44/2026, 26 – 31 Ekim 2026); 42.035 byte, 5.194 kelime
+- Kapsam: 26 – 31 Ekim categorized akışı (**32 benzersiz kayıt**: AKADEMİK 26, GENEL 19, KURATOR 10) + Türkiye gündemi için 4 Bing News RSS sorgusu ve 3 tam metin (DW Türkçe, Sabah, MediaNama).
+- İçerik omurgası: (1) **1 Kasım 2026 yürürlüğü** — ~17,5 milyon 15 yaş altı, 3,85 milyon 15–18, e-Devlet yaş doğrulama belirteci, mevcut hesaplar için 31 Mart 2027; (2) **15–17 mimarisi** — gizli hesap, canlı yayın/ekran görüntüsü yasağı, sonsuz kaydırma ve otomatik oynatma yasağı, ebeveyn kontrol araçları; (3) **üç itiraz** — Yaman Akdeniz'in kanunilik/yetki aşımı ve gözetim eleştirisi, "yasak tek başına yetmez" (Avustralya eSafety ilk üç ay verisi), oltalama riski; (4) **DWRI 2026** — dokuz ülke, 7.755 çocuk, %73 beceri ama ~dörtte bir öznel refah, Türkiye %78 endeks / %22 refah; (5) **TÜİK tabanlı akran zorbalığı** (%13,8) ve okul iklimi kanıtı; (6) **LSE/5Rights AI-çocuk hakları** derlemesi ve CRIA önerisi; (7) Pravda ağı + Türkiye'de asimetrik siyasal risk.
+- Scrapling: 10 URL → **%70 blok oranı** (Wiley 3×, T&F, SAGE, OUP 403; nature.com/DFC/adacio.eu 200) → metadata tabanlı mod. Türkiye Bağlamı: 539 kelime.
+- Agent: Weekly Bulletin Integration
+
+## [2026-10-31] ingest | AKADEMİK ÖZEL Weekly Bulletin (2026-10-31)
+- Raw: [[raw/articles/2026-10-31_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-10-31); 51.359 byte, 6.314 kelime
+- 9 çalışma üç eksende ayrıntılı: **Metodoloji** (Geiecke & Jaravel LLM görüşmeci, Restud kabul; Kohler vd. ajanik tekrar üretim, arXiv; Malmberg "silicon samples", POQ), **Etik/Teori** (Jayadeva & Livingstone AI-çocuk hakları; Stuhler vd. GenAI sosyoloji anketi; Daly vd. iklim-çocuk hakları kitabı), **Güncel Tartışmalar** (Saraç & Koç akran zorbalığı; Kyriakides vd. okul iklimi; Save the Children/Vodafone DWRI 2026).
+- 23 kayıt Okuma Listesi'nde konumlandırıldı; 9 ÖZET bloğu 250–300 kelime aralığında doğrulandı (253–261).
+- Agent: Weekly Bulletin Integration
+
