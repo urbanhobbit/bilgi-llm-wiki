@@ -17,4 +17,4 @@ sources: []
 
 ## Wiki'deki Kaynaklar
 
-- [[raw/articles/2026-02-01_connected-childhood-the-state-of-digital-wellbeing-and.md|Connected Childhood: The State of Digital Wellbeing and Resilience for Children and Young People in Europe (2026)]]
+- [[raw/articles/2026-02_connected-childhood-the-state-of-digital-wellbeing.md|Connected Childhood: The State of Digital Wellbeing and Resilience for Children and Young People in Europe (2026)]]
