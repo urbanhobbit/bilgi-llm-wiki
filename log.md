@@ -1485,3 +1485,8 @@
 - Source files: 2026-10-29_malmberg-silicon-samples-conjoint-poq.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-10-31] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-29_manufacturing-the-great-replacement-a-covert-anti-.md]] — Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign
+- Source files: 2026-10-31_manufacturing-great-replacement.json
+- Agent: OKF Ingestion Pipeline
+

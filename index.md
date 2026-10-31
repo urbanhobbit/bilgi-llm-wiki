@@ -482,4 +482,5 @@
 - [[raw/articles/2026-10-26_large-language-models-for-computational-social-sci.md|Large language models for computational social science]]
 - [[raw/articles/2026-10-21_cognitive-warfare-a-democratic-defence-volume-1-pr.md|Cognitive Warfare: A Democratic Defence (Volume 1: Protecting Our Hearts & Minds; Volume 2: Country Summaries)]]
 - [[raw/articles/2026-10-29_investigating-the-utility-of-llm-based-silicon-sam.md|Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments]]
+- [[raw/articles/2026-10-29_manufacturing-the-great-replacement-a-covert-anti-.md|Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign]]
 
