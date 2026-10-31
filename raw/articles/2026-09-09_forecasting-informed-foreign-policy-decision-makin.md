@@ -37,7 +37,7 @@ Eamon Aloyo (Leiden Üniversitesi, Governance and Global Affairs), International
 - Öneri: Tetlock hattından gelen ampirik öngörü araştırmasını (olasılıksal tahmin, kalibrasyon, fikir ayrılığını koruyan takım yapısı) karar sürecine gömmek. Amaç bilişsel yanlılıkları azaltmak ve politika seçeneklerini karşılaştırılabilir başarısızlık olasılıkları üzerinden tartmak.
 - Vaka: ABD'nin Suriye iç savaşında isyancıları silahlandırması ve sınırlı saldırıları; yazar bu vakada öngörünün tırmanma (escalation) ilkesinin karşılanma olasılığını önceden değerlendirmeye nasıl imkân verdiğini gösteriyor.
 - Normatif iddia: olasılık tahminleri, güçlü aktörlerin haklı savaş ilkelerini kötüye kullanmasını zorlaştırır — çünkü 'işe yarayacak' retoriği yerine ölçülebilir bir başarısızlık olasılığı koyar ve alternatif seçeneklerle kıyaslanabilir hale getirir.
-- Disiplinlerarası konum: makale açıkça psikoloji, davranışsal iktisat ve siyaset bilimi bulgularının normatif karar çerçevesine yerleştirilmesini savunuyor; bu, haklı savaş literatüründe alışıldık olmayan bir 'ampirik ölçüm → normatif ilke' hattı.
+- Disiplinlerarası konum: makale açıkça psikoloji, davranışsal iktisat ve siyaset bilimi bulgularının normatif karar çerçevesine yerleştirilmesini savunuyor; bu, haklı savaş literatüründe alışıldık olmayan bir 'ampirik ölçüm → normatif ilke' hattı; yazarın yaptığı aslında bir araştırma yöntemleri transferi — öngörü turnuvalarının kalibrasyon ölçütleri karar analizine taşınıyor.
 - Kurumsal sorular: tahminleri kimin üreteceği, karar vericiye nasıl sunulacağı, tahmin yanlış çıktığında siyasi sorumluluğun nasıl işleyeceği ve öngörünün bürokratik teşviklerle nasıl uyumlu hale getirileceği tartışılıyor.
 - Erişim durumu: makale CC BY 4.0 olmasına rağmen academic.oup.com Cloudflare doğrulaması ve token'lı Silverchair PDF bağlantısının süresi dolması nedeniyle tam metin alınamadı; bu kayıttaki analiz yayıncı özeti + künye + dergi bağlamı düzeyinde. Bölüm yapısı, tablo ve vaka ayrıntıları doğrulanmadı.
 - Dergi bağlamı: International Affairs, Chatham House ile OUP ortak yayını; 102. cilt 5. sayı (Eylül 2026). Makale, derginin 'savaşın eşiğindeki güç kullanımı' tartışmasına normatif kuram ile ampirik öngörüyü birleştirerek katkı sunuyor.
@@ -57,5 +57,6 @@ Türkiye açısından makalenin en doğrudan sonucu, son yıllarda sıkça tart�
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
