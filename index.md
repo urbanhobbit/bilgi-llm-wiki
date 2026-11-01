@@ -489,4 +489,5 @@
 - [[raw/articles/2026-10-16_the-file-drawer-ai-generated-research-reports-for-.md|The File Drawer: AI-generated research reports for unpublished studies (filedrawer.org)]]
 - [[raw/articles/2026-09-09_forecasting-informed-foreign-policy-decision-makin.md|Forecasting-informed foreign policy decision-making: the case of jus ad vim]]
 - [[raw/articles/2026-10-30_the-effects-of-school-phone-bans-national-evidence.md|The Effects of School Phone Bans: National Evidence from Lockable Pouches]]
+- [[raw/articles/2026-10-14_empathy-as-a-dyadic-process.md|Empathy as a dyadic process]]
 

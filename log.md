@@ -1523,3 +1523,8 @@
 - Source files: 2026-10-30_allcott-phone-bans-lockable-pouches.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-14_empathy-as-a-dyadic-process.md]] — Empathy as a dyadic process
+- Source files: 2026-10-14_empathy-as-a-dyadic-process.json
+- Agent: OKF Ingestion Pipeline
+
