@@ -38,7 +38,7 @@ Jennifer Doleac'ın 'Problem solved! 🙃' alıntısıyla paylaştığı makale,
 - Tasarım: staggered difference-in-differences, Callaway–Sant'Anna (2021) regression-adjustment implementasyonu; tedavi = Yondr kılıfının ilk benimsendiği yıl (2023/2024/2025 kohortları); karşılaştırma = hiç kılıf kullanmayan, gözlemlenebilirlerle eşleştirilmiş okullar. Ön-kayıtlı (OSF), olay çalışması ön-trendleri raporlanıyor.
 - Veri: (1) Advan GPS paneli — 40.542 okul, Ocak 2019–Ocak 2026, saatlik cihaz 'visit' verisi (yaklaşık 35 milyon telefonu izliyor, reşit olmayan kapsamı değişken); (2) eyalet sınav puanları + SEDA; (3) Common Core of Data idari kayıtları (devamsızlık, disiplin); (4) Panorama öğrenci anketleri — 62.289 okul-yılı, 16.285 okul, 46 eyalet; (5) NTS öğretmen anketi ~108.000 yanıt, 50 eyalet, ABD orta/lise okullarının ~%50'si; (6) Yondr satış/kurulum kayıtları.
 - Örneklem: ortaokul sınav analizi 169.163 okul-yılı / 35.323 okul / 44 eyalet + DC; lise sınav analizi 65.971 okul-yılı / 12.978 okul / 24 eyalet; dengeli panel kontrolü 15.058 okul (taban örneklemin ~%43'ü).
-- Telefon kullanımı: GPS ping'lerinde benimsemeden sonra büyük ve kalıcı düşüş — üçüncü yılda toplam ping'lerde ~%30 azalma. Yazarlar bunu doğrudan 'öğrenci kullanımı' ölçüsü saymıyor (yetişkin kullanımı ve arka plan ping'leri karışıyor) ama etkinin büyüklüğü için muhafazakâr alt sınır olarak okuyor; öğretmen raporları da aynı yönü gösteriyor.
+- Telefon kullanımı (okul günü ekran süresi): GPS ping'lerinde benimsemeden sonra büyük ve kalıcı düşüş — üçüncü yılda toplam ping'lerde ~%30 azalma. Yazarlar bunu doğrudan 'öğrenci kullanımı' ölçüsü saymıyor (yetişkin kullanımı ve arka plan ping'leri karışıyor) ama etkinin büyüklüğü için muhafazakâr alt sınır olarak okuyor; öğretmen raporları da aynı yönü gösteriyor.
 - Akademik sonuç: ortalama sınav puanı etkisi tutarlı biçimde sıfıra yakın. Liselerde küçük pozitif etki, özellikle matematik: +0,024 öğrenci düzeyi SD ≈ 0,9 persentil puanı ≈ etkili bir öğretmenin yarattığı kazanımın ~1/5'i. Ortaokullarda etki küçük ve negatif (büyüklük lise etkisinin yaklaşık yarısı), fark istatistiksel olarak anlamlı değil.
 - Diğer çıktılar: devamsızlıkta etki yok — 0,189 puandan büyük iyileşme dışlanabiliyor (ortalama devam %93, yani ~%0,2). Sınıf içi dikkat ve algılanan siber zorbalıkta net iyileşme yok (bu iki ölçümde ön-trend farkları var, yorum sınırlı).
 - Geçiş maliyeti ve iyi oluş: uygulama yılında disiplin olayları artıyor; öznel iyi oluşta düşüş yönünde 'suggestive' kanıt var. Sonraki yıllarda disiplin etkisi sönüyor, iyi oluş toparlanıp pozitife dönüyor — yazarlar bunu kısa vadeli uyum maliyeti (özerklik kaybı, akran dinamikleri, denetim artışı) ve uzun vadeli kişilerarası etkileşim artışı ile yorumluyor.
@@ -63,5 +63,8 @@ Türkiye'de okullarda telefon yasağı 2023'ten bu yana fiilen uygulanıyor (MEB
 ### 🧠 İlgili Kavramlar
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/kesifsel-dogrulayici-ayrimi.md|Keşifsel–Doğrulayıcı Ayrımı (Exploratory–Confirmatory Distinction)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
