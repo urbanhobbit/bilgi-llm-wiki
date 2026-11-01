@@ -1518,3 +1518,8 @@
 - Source files: 2026-09-09_aloyo-forecasting-jus-ad-vim.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-01] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_the-effects-of-school-phone-bans-national-evidence.md]] — The Effects of School Phone Bans: National Evidence from Lockable Pouches
+- Source files: 2026-10-30_allcott-phone-bans-lockable-pouches.json
+- Agent: OKF Ingestion Pipeline
+
