@@ -322,3 +322,38 @@ Son olarak bilgi ortamı. Pravda ağı makalesinin "propaganda altyapıdır" tez
 ---
 
 *Bu sayı 32 benzersiz kayıt üzerinden, 10 URL'lik Scrapling erişim testiyle (%70 blok oranı → metadata tabanlı mod) ve Türkiye gündemi için 4 bağımsız Bing News RSS sorgusuyla derlenmiştir. Sayı içindeki hiçbir sayı doğrulanmamış bir kaynaktan alınmamıştır; tam metne erişilemeyen her başlıkta bu durum açıkça belirtilmiştir.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/cinsiyet-kutuplasmasi.md|Cinsiyet Kutuplaşması (Gender Polarisation)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/d-cria.md|D-CRIA (Digital Child Rights Impact Assessment)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/routledge.md|Routledge]]
+- [[entities/save-the-children.md|Save the Children]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-helsinki-fi.md|University of Helsinki]]

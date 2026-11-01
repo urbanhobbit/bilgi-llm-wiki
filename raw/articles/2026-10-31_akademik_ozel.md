@@ -262,3 +262,36 @@ Bu haftanın havuzunda ayrıntılı işlenen 9 çalışmanın dışında kalan 2
 ---
 
 *Hafta 44/2026 · 9 çalışma ayrıntılı, 23 kayıt konumlandırılmış · 10 URL'lik Scrapling testi (%70 blok) · Metodoloji: blok blok regresyon, konjoint simülasyonu, ajanik tekrar üretim, panel analizi, kota örneklemli anket*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/beyin-aglari-ve-duygu.md|Beyin Ağları ve Duygu (Brain Flows)]]
+- [[concepts/cinsiyet-kutuplasmasi.md|Cinsiyet Kutuplaşması (Gender Polarisation)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/5rights-foundation.md|5Rights Foundation]]
+- [[entities/5rightsfoundation-com.md|5Rights Foundation]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/dysinfluence-com.md|Dysinfluence]]
+- [[entities/routledge.md|Routledge]]
+- [[entities/save-the-children.md|Save the Children]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-digital-futures-for-children-net.md|Digital Futures for Children]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
