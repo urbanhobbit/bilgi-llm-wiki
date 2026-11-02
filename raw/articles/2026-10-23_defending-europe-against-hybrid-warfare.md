@@ -31,6 +31,8 @@ published: '2026-10-23'
 
 Avrupa Komisyonu Ortak Araştırma Merkezi (JRC) ile Helsinki merkezli Hybrid CoE'nin ortak raporu, hibrit tehditlerin hibrit savaşa tırmanmasını Avrupa demokrasileri için varoluşsal bir risk olarak çerçeveliyor ve tek başına dayanıklılığa (resilience) yaslanan yaklaşımı yetersiz ilan ediyor. Raporun merkezi katkısı 'Dayanıklılık–Caydırıcılık' (Resilience-Deterrence, RD) stratejisi: birbirini besleyen üç aşama. (1) Proaktif öngörü — gelecekteki operasyonları önceden sezmek, caydırıcılığın dört biçimini (inkâr, cezalandırma, ifşa, stratejik iletişim) bütünleştirmek ve toplum-toplum dayanıklılığını güçlendirmek; bu aşama için on operasyonel gereklilik sayılıyor (stratejik derinlik, kesinti entegrasyonu, karmaşıklık yönetimi, kesinliklerin sorgulanması, öngörünün uygulanması, uyum hızı, siyasi irade, stratejik kararlılık, toplum-toplum yaklaşımı, normlar ve iç içe geçme). (2) Aktif savunma — hızlı bir 'Tespit → Tanımla → Karar' dizisi, ardından iyileştirme (recovery) ve en kritik unsur olarak siyasi **atıf** (attribution): hibrit operasyonların gücü inkâr edilebilirlikten geliyor, dolayısıyla atıf caydırıcılığın aracı. (3) Reaktif yanıt — saldırgana anlamlı maliyet bindirmek, orantılı ama etkili karşı önlemler almak. Rapor, caydırıcılığın birincil (inkâr, cezalandırma) ve ikincil biçimlerini (mutlak, kısıtlayıcı, kümülatif, ifşa, stratcom, bütünleşik, içselleştirilmiş, genişletilmiş, teşvik) ayrıştırıyor; karşı önlemler arasında BM/bölgesel örgütler üzerinden hukuki eylem, savunma tedariki ve stoklama, tripwire kuvvetleri ve yaptırımlar var. Nihai hedef saldırganın maliyet-fayda hesabını değiştirmek: inkâr edilebilirliği azaltmak, kapasite değerini düşürmek, iç kurumsal baskı üretmek, müttefik tutarlılığını göstermek ve operasyonun zaman ufkunu sıkıştırmak. Rapor, Komisyon'un Acil Güvenlik Protokolü ve hibrit tehdit 'playbook' önerisini destekliyor; dört vaka çalışması (yalnızca dayanıklılık, inkâr yoluyla caydırma, erken tespit, cezalandırma yoluyla caydırma) stratejiyi somutlaştırıyor.
 
+Rapor, hibrit tehdit yelpazesinin içine devlet destekli dezenformasyon ve seçim müdahalesini de yerleştiriyor; bu yönüyle FIMI literatürüyle aynı tehdit yüzeyini paylaşıyor.
+
 ## Key Points
 
 - Künye doğrulandı: 'Defending Europe Against Hybrid Warfare', JRC + Hybrid CoE ortak Science for Policy raporu, Ekim 2026, yayın tarihi 23.10.2026. Yazarlar: Julien Théron (JRC.E.7 – Defence and External Security, irtibat kişisi), Aleksi Aho, Jukka Savolainen, Frederic Petit, Alessandra De Angelis, Georgios Valsamos. JRC148340 / EUR 40871; PDF DOI 10.2760/3158614 (basılı DOI 10.2760/0739664); CC BY 4.0; PDF 9,2 MB ve ~100 sayfa.
@@ -61,5 +63,12 @@ Türkiye bu raporun tam ortasında duruyor ama çerçevenin dışında kalıyor:
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/fimi.md|FIMI (Yabancı Bilgi Manipülasyonu ve Müdahalesi)]] — Raporun tehdit yelpazesi, yabancı bilgi manipülasyonunu hibrit savaşın bileşenlerinden biri olarak konumlandırıyor; savunma tarafında atıf ve ifşa FIMI literatürüyle aynı araç setini kullanıyor.
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]] — Devlet destekli dezenformasyon, raporda dayanıklılık kadar caydırıcılık gerektiren jeopolitik bir operasyon olarak ele alınıyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/hybrid-coe.md|Hybrid Coe]]
+- [[entities/hybrid-coe.md|Hybrid CoE]] — Raporun ortak yayıncısı; hibrit savaş tanımının da kaynağı.
+- [[entities/european-commission.md|European Commission]] — JRC üzerinden raporun diğer ortağı; Acil Güvenlik Protokolü ve hibrit tehdit playbook önerisinin sahibi.
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-21_cognitive-warfare-a-democratic-defence-volume-1-pr.md|Cognitive Warfare: A Democratic Defence (Vol. 1)]] — Bilişsel savaş cephesinden tamamlayıcı cilt; bu raporun 'bilişsel güvenlik' ayağının kuramsal arka planı.
+- [[raw/articles/2025-01-31_a-framework-for-attribution-of-information-influen.md|A Framework for Attribution of Information Influence Operations]] — Raporun merkezî iddiası (atıf = caydırıcılık aracı) için operasyonel atıf metodolojisi.
