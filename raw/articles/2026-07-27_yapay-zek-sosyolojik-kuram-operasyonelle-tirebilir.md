@@ -31,7 +31,7 @@ published: '2026-07-27'
 
 ## Summary
 
-Theory and Society'nin yayınladığı bir makale ve ona yazılan yorum, 'yapay zekâ sosyolojik kuramı operasyonelleştirebilir mi' sorusunu somut bir vakada tartışıyor. Schroeder, Thelwall ve Thomas (Oxford Internet Institute, Sheffield, Oxford), Randall Collins'in 1998 tarihli *The Sociology of Philosophies* kitabındaki öğretmen-öğrenci soyağaçlarını 20. yüzyıl ortasından bugüne uzatıyor; bibliometrik taban çizgileri kuruyor (OpenAlex, Scopus, EdhiPhy, PhilPapers, Schwitzgebel sıralaması) ve üç LLM'e (Gemini, DeepSeek, ChatGPT) Collins'in ilkelerini uygulayarak hangi öğrencilerin gelecekte 'eminent' olacağını tahmin ettiriyor. Bulgu: farklı bibliometrik sıralamalar birbirinden çarpıcı biçimde ayrışıyor (OpenAlex'te en çok atıf alan Rorty, diğer listelerin hiçbirinde yok); LLM'ler kuramsız verildiğinde yalnızca ünlü kamusal entelektüelleri (Sartre, Foucault, Butler, Žižek) sıralıyor, Collins'in 'çekirdek' tanımına uymuyor. Kuram verildiğinde ise Chalmers, Nussbaum, Williamson öne çıkıyor; Haziran 2026'da aynı soru ChatGPT 5.5'e sorulduğunda cevaplar tamamen değişiyor (Srinivasan, Knobe, Brandom). Lundberg'in yorumu keskin bir itiraz getiriyor: makale, Claude'un ürettiği ve Collins'in bizzat onayladığı beş ilkeli ('structural crunch' dahil) özeti değil, ChatGPT'nin yedi ilkeli özetini kullanıyor; bu özette Collins'in **yapısal sıkışma** mekanizması kayboluyor ve yerine 'kültürel/tarihsel bağlamla rezonans' gibi genel bir dışsalcı önerme geçiyor. Sonuç: tahminler artık Collins'in kuramından türetilmiş sayılamaz, çünkü model kuramı uygulamakla kalmayıp **değiştirmiş** oluyor.
+Theory and Society'nin yayınladığı bir makale ve ona yazılan yorum, 'yapay zekâ sosyolojik kuramı operasyonelleştirebilir mi' sorusunu somut bir vakada tartışıyor. Schroeder, Thelwall ve Thomas (Oxford Internet Institute, Sheffield, Oxford), Randall Collins'in 1998 tarihli *The Sociology of Philosophies* kitabındaki öğretmen-öğrenci soyağaçlarını 20. yüzyıl ortasından bugüne uzatıyor; bibliometrik taban çizgileri kuruyor (OpenAlex, Scopus, EdhiPhy, PhilPapers, Schwitzgebel sıralaması) ve üç LLM'e (Gemini, DeepSeek, ChatGPT) Collins'in ilkelerini uygulayarak hangi öğrencilerin gelecekte 'eminent' olacağını tahmin ettiriyor. Bulgu: farklı bibliometrik sıralamalar birbirinden çarpıcı biçimde ayrışıyor (OpenAlex'te en çok atıf alan Rorty, diğer listelerin hiçbirinde yok); LLM'ler kuramsız verildiğinde yalnızca ünlü kamusal entelektüelleri (Sartre, Foucault, Butler, Žižek) sıralıyor, Collins'in 'çekirdek' tanımına uymuyor. Yazarların asıl yöntemsel iddiası da burada: hesaplamalı sosyal bilim, kuram olmadan yalnızca popülerlik ölçer; araştırma yöntemleri açısından doğru sıra, kuramı vermek, bibliometriyle bir 'çekirdek' tanımlamak ve sonucu uzman değerlendirmesine açmaktır. Kuram verildiğinde ise Chalmers, Nussbaum, Williamson öne çıkıyor; Haziran 2026'da aynı soru ChatGPT 5.5'e sorulduğunda cevaplar tamamen değişiyor (Srinivasan, Knobe, Brandom). Lundberg'in yorumu keskin bir itiraz getiriyor: makale, Claude'un ürettiği ve Collins'in bizzat onayladığı beş ilkeli ('structural crunch' dahil) özeti değil, ChatGPT'nin yedi ilkeli özetini kullanıyor; bu özette Collins'in **yapısal sıkışma** mekanizması kayboluyor ve yerine 'kültürel/tarihsel bağlamla rezonans' gibi genel bir dışsalcı önerme geçiyor. Sonuç: tahminler artık Collins'in kuramından türetilmiş sayılamaz, çünkü model kuramı uygulamakla kalmayıp **değiştirmiş** oluyor.
 
 ## Key Points
 
@@ -59,3 +59,17 @@ Türkiye'de sosyal bilimlerde LLM kullanımı hızla yaygınlaşıyor ama nerede
 - 🧩 **Yöntem**
 - 🔍 **Araştırma Boşluğu**
 - 📊 **Bulgular**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme ve Kuramsal Kayma]] — Tartışmanın özü: model kuramı uygulamıyor, sessizce değiştiriyor.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Kuram güdümlü hesaplamalı analiz, ölçüm geçerliliği ve 'çekirdek' tanımı üzerine yöntem dersi.
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zekâ ve Demokrasi]] — LLM'lerin kamusal bilgi üretimindeki rolüne dair daha geniş hat.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/randall-collins.md|Randall Collins]] — Tartışmanın konusu olan kuramın sahibi.
+- [[entities/henrik-lundberg.md|Henrik Lundberg]] — Yorumun yazarı; kuramsal kayma eleştirisi.
+- [[entities/ralph-schroeder.md|Ralph Schroeder]] — Makalenin ilk yazarı.
+- [[entities/mike-thelwall.md|Mike Thelwall]] — Bibliometrik analiz.
+- [[entities/theory-and-society.md|Theory and Society]] — Her iki metnin dergisi (55/67 ve 55/89).
+- [[entities/oxford-internet-institute.md|Oxford Internet Institute]] — Makalenin kurumsal adresi.
+- [[entities/springer.md|Springer]] — Yayıncı.
