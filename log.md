@@ -1540,3 +1540,8 @@
 - Source files: 2026-11-01_intellectual-origins-clash-of-civilizations.json, 2024-12-21_data-driven-economic-abm.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-26_behavioral-finance-at-40.md]] — Behavioral Finance at 40
+- Source files: 2026-10-26_behavioral-finance-at-40.json
+- Agent: OKF Ingestion Pipeline
+

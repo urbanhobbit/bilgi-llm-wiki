@@ -494,4 +494,5 @@
 - [[raw/articles/2026-10-28_russian-information-war-in-the-baltic-states-mecha.md|Russian Information War in the Baltic States: Mechanisms, Narratives, and Strategic Effects]]
 - [[raw/articles/2024-12-21_data-driven-economic-agent-based-models.md|Data-Driven Economic Agent-Based Models]]
 - [[raw/articles/2026-11-01_the-intellectual-origins-of-the-clash-of-civilizat.md|The Intellectual Origins of “The Clash of Civilizations”: On Samuel Huntington’s Early Engagement with Raymond Aron]]
+- [[raw/articles/2026-10-26_behavioral-finance-at-40.md|Behavioral Finance at 40]]
 
