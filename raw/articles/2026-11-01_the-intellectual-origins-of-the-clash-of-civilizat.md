@@ -57,5 +57,9 @@ Bu yazı Türkiye açısından iki katmanlı okunmalı, çünkü Türkiye hem Hu
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/fikirler-ve-kurumlar.md|Fikirler, Kurumlar ve Alan Teorisi]] — Yazı, Huntington'ın din temelli tezini kurumsal ve tarihsel bağlama yerleştirerek fikirlerin siyasal sonuç üretme mekanizmasını arşiv üzerinden gösteriyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/substack-com.md|Substack Com]]
+- [[entities/substack-com.md|Substack]]
+- [[entities/samuel-huntington.md|Samuel P. Huntington]] — Yazının konusu: 1955 memo'sundan 1993 medeniyetler tezine uzanan çizgi.
+- [[entities/raymond-aron.md|Raymond Aron]] — Huntington'ın eleştirdiği 'ideolojilerin sonu' tezinin sahibi; yazının merkezindeki muhatap.

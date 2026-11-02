@@ -60,5 +60,9 @@ Türkiye'de iktisat politikası modelleri neredeyse tamamen denge geleneğinde: 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/agi-ekonomisi.md|AGI Ekonomisi]] — Tweet'i paylaşan Alex Imas Google DeepMind'ın AGI Economics birimini yönetiyor; veri-güdümlü ABM'ler bu birimin yapay zekâ senaryolarını simüle etme hattının altyapısı.
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]] — Pangallo vd. (2023) New York metropolünde 500.000 kişilik sentetik popülasyonla salgın-ekonomi modelini birleştiriyor; sentetik popülasyon yaklaşımının en somut uygulamalarından biri.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/google-deepmind.md|Google DeepMind]] — Tweet'in sahibi Imas burada AGI Economics direktörü; makaleyi ekibinin aktif araştırma hattının referansı olarak sunuyor.
