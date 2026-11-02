@@ -1594,3 +1594,8 @@
 - Source files: 2007-06-22_critical-thinking-why-is-it-so-hard-to-teach.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-02_abd-2026-ara-se-imleri-n-haz-rl-k-dosyas.md]] — ABD 2026 Ara Seçimleri: Ön Hazırlık Dosyası
+- Source files: 2026-11-02_abd-ara-secimleri-on-hazirlik.json
+- Agent: OKF Ingestion Pipeline
+
