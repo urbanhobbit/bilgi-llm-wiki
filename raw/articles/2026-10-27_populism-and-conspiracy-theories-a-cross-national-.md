@@ -30,7 +30,7 @@ published: '2026-10-27'
 
 ## Summary
 
-Patrick S. Sawyer (Centro de Estudos Sociais / University of Coimbra), popülist ve radikal sağ partilere destek ile komplo teorisi inançları arasındaki ilişkiyi Avrupa ölçeğinde ilk kez sistematik biçimde ayrıştırıyor. Soru üç katmanlı: komplo inançları popülist seçmen tabanında ne kadar yaygın; bu inanç popülizmin 'ince ideolojisine' mi yoksa ona eşlik eden 'kalın' ideolojilere (radikal sağ, otoriterlik) mi ait; ve seçimlerde popülist adaylara oy vermeyle ilişkili mi? Literatürde popülist dünya görüşü ile komplocu inançlar arasında bir yakınsama tespit edilmiş, ama çalışmaların çoğu tek ülkeye odaklandığı için karşılaştırmalı örüntü görülmemiş. Sawyer iki çalışmayla bu boşluğu kapatıyor: Çalışma 1, Voices of Central Europe veri setiyle 9 Orta Avrupa ülkesinde parti ailesi kontrol edildiğinde komplo inançlarının hem popülist hem radikal sağ partilere destekle güçlü biçimde ilişkili olduğunu, en güçlü yordayıcının radikal sağ ideoloji olduğunu gösteriyor. Çalışma 2, European Social Survey'nin 24 ülkelik verisiyle benzer ilişkileri gizil popülist tutumlar ve otoriterlik düzeyinde, ayrıca kendini popülist/radikal sağ bir partiye yakın hissetme ve son seçimde o partiyi oylamayla kuruyor. Sonuç: komplo inançları popülist aday desteğini artırıyor ama bu ilişki belirgin biçimde sağa yatık — yani komplo inançları popülizmin kendisinden çok ona eşlik eden radikal sağ ideolojiyle taşınıyor. Yazı, komplo inançlarının seçmen davranışı üzerindeki sonuçlarına dair karşılaştırmalı kanıt sunuyor ve popülizmin 'ince ideoloji' olarak mı yoksa 'kalın' ideolojik taşıyıcılarıyla mı çalıştığı tartışmasına doğrudan müdahale ediyor.
+Patrick S. Sawyer (Centro de Estudos Sociais / University of Coimbra), popülist ve radikal sağ partilere destek ile komplo teorisi inançları arasındaki ilişkiyi Avrupa ölçeğinde ilk kez sistematik biçimde ayrıştırıyor. Soru üç katmanlı: komplo inançları popülist seçmen tabanında ne kadar yaygın; bu inanç popülizmin 'ince ideolojisine' mi yoksa ona eşlik eden 'kalın' ideolojilere (radikal sağ, otoriterlik) mi ait; ve seçimlerde popülist adaylara oy vermeyle ilişkili mi? Literatürde popülist dünya görüşü ile komplocu inançlar arasında bir yakınsama tespit edilmiş, ama çalışmaların çoğu tek ülkeye odaklandığı için karşılaştırmalı örüntü görülmemiş. Sawyer iki çalışmayla bu boşluğu kapatıyor ve komplo inançlarını popülist oy verme davranışıyla ilişkilendiriyor: Çalışma 1, Voices of Central Europe veri setiyle 9 Orta Avrupa ülkesinde parti ailesi kontrol edildiğinde komplo inançlarının hem popülist hem radikal sağ partilere destekle güçlü biçimde ilişkili olduğunu, en güçlü yordayıcının radikal sağ ideoloji olduğunu gösteriyor. Çalışma 2, European Social Survey'nin 24 ülkelik verisiyle benzer ilişkileri gizil popülist tutumlar ve otoriterlik düzeyinde, ayrıca kendini popülist/radikal sağ bir partiye yakın hissetme ve son seçimde o partiyi oylamayla kuruyor. Sonuç: komplo inançları popülist aday desteğini artırıyor ama bu ilişki belirgin biçimde sağa yatık — yani komplo inançları popülizmin kendisinden çok ona eşlik eden radikal sağ ideolojiyle taşınıyor. Yazı, komplo inançlarının seçmen davranışı üzerindeki sonuçlarına dair karşılaştırmalı kanıt sunuyor ve popülizmin 'ince ideoloji' olarak mı yoksa 'kalın' ideolojik taşıyıcılarıyla mı çalıştığı tartışmasına doğrudan müdahale ediyor.
 
 ## Key Points
 
@@ -58,7 +58,11 @@ Bu makale Türkiye için hem çok yakın hem de tam olarak kapsam dışı — ik
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/komplo-inanclari.md|Komplo İnançları]]
-- [[concepts/populizm.md|Popülizm]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]] — Makalenin bağımlı değişkeni; dokuz ve yirmi dört ülkeli iki veri setiyle karşılaştırmalı ölçüm.
+- [[concepts/populizm.md|Popülizm]] — 'İnce ideoloji' ile ona eşlik eden 'kalın' ideolojileri (radikal sağ, otoriterlik) ayrıştıran tasarım.
+- [[concepts/populist-oylama.md|Popülist Oylama]] — Komplo inançlarının popülist aday desteğine ve oy vermeye etkisi; ilişkinin sağa yatık olduğu bulgusu.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — Yön sorunu: partizan bağlılık komplo anlatısını mı benimsetiyor, komplo inancı mı partizan desteği üretiyor?
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/sciencedirect.md|Sciencedirect]]
+- [[entities/sciencedirect.md|ScienceDirect]]
+- [[entities/electoral-studies.md|Electoral Studies]] — Makalenin yayımlandığı dergi (cilt 104, 103173).
+- [[entities/university-of-coimbra.md|University of Coimbra]] — Yazarın kurumu.
