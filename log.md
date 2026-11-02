@@ -1579,3 +1579,8 @@
 - Source files: 2026-11-02_computational-phenomenology.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-26_countering-hybrid-warfare-in-ukraine-and-nato-mili.md]] — Countering Hybrid Warfare in Ukraine and NATO: Military Aspects, Lessons and Best Practices
+- Source files: 2026-10-26_countering-hybrid-warfare-ukraine-nato.json
+- Agent: OKF Ingestion Pipeline
+

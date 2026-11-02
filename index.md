@@ -501,4 +501,5 @@
 - [[raw/articles/2026-10-27_populism-and-conspiracy-theories-a-cross-national-.md|Populism and conspiracy theories: A cross-national analysis]]
 - [[raw/articles/2022-10-03_the-scientific-value-of-numerical-measures-of-huma.md|The scientific value of numerical measures of human feelings]]
 - [[raw/articles/2026-11-02_computational-phenomenology.md|Computational Phenomenology]]
+- [[raw/articles/2026-10-26_countering-hybrid-warfare-in-ukraine-and-nato-mili.md|Countering Hybrid Warfare in Ukraine and NATO: Military Aspects, Lessons and Best Practices]]
 
