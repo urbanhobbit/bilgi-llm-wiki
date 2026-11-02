@@ -1559,3 +1559,8 @@
 - Source files: 2026-10-23_defending-europe-against-hybrid-warfare.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_making-space-for-serendipity-and-surprise-re-imagi.md]] — Making Space for Serendipity and Surprise: Re-Imagining Open Science Practices in Psychological Research
+- Source files: 2026-10-20_serendipity-and-surprise-open-science.json
+- Agent: OKF Ingestion Pipeline
+

@@ -497,4 +497,5 @@
 - [[raw/articles/2026-11-01_the-intellectual-origins-of-the-clash-of-civilizat.md|The Intellectual Origins of “The Clash of Civilizations”: On Samuel Huntington’s Early Engagement with Raymond Aron]]
 - [[raw/articles/2026-10-26_behavioral-finance-at-40.md|Behavioral Finance at 40]]
 - [[raw/articles/2026-10-23_defending-europe-against-hybrid-warfare.md|Defending Europe Against Hybrid Warfare]]
+- [[raw/articles/2026-10-20_making-space-for-serendipity-and-surprise-re-imagi.md|Making Space for Serendipity and Surprise: Re-Imagining Open Science Practices in Psychological Research]]
 
