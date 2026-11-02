@@ -1589,3 +1589,8 @@
 - Source files: 2026-06-09_multi-platform-referrers-of-misinformation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2007-06-22_critical-thinking-why-is-it-so-hard-to-teach.md]] — Critical Thinking: Why Is It So Hard to Teach?
+- Source files: 2007-06-22_critical-thinking-why-is-it-so-hard-to-teach.json
+- Agent: OKF Ingestion Pipeline
+
