@@ -1,3 +1,12 @@
+## [2026-11-02] ingest | KURATOR Weekly Bulletin (Hafta 45/2026)
+- Raw: [[raw/articles/2026-11-02_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 45/2026, 26 Ekim – 2 Kasım 2026); 85578 byte, 9875 kelime
+- Telegram categorized akışı (26 Eki – 2 Kas): **4 KURATOR kaydı** — Saraç & Koç (Child Abuse Review, DOI 10.1002/car.70182, TÜİK TCS-2022, n=10.210), Kyriakides vd. (BERJ berj.70296, İrlanda CSL paneli), Save the Children UK/Vodafone *Connected Childhood* DWRI 2026 (9 ülke, 7.755 çocuk), Allcott vd. (QJE qjag050, kilitli kılıf). Özetler sınıflandırma halinde değiştirilmeden kullanıldı.
+- Haftanın olayı: **1 Kasım 2026 — 15 yaş altı sosyal medya yasağı ve yaş doğrulama yürürlüğe girdi.** Zincir: 7578 sayılı Kanun (RG 01.05.2026, 6 ay sonra yürürlük) + Yönetmelik (RG 10.10.2026, Siber Güvenlik Başkanlığı). e-Devlet yaş doğrulama belirteci; 15–17 ayrıştırılmış hizmet (varsayılan gizli, canlı yayın/sonsuz kaydırma/kişiselleştirilmiş reklam yasak, ekran görüntüsü engelleme, rehber eşleştirme yasağı); mevcut hesaplarda uyum 31.03.2027; yaptırım 10–30 milyon TL + %90 bant daraltma; oyun platformlarına 100k+ eşiğinde TR temsilci.
+- Gündem ayağı: 17 ddgs sorgusu (86 benzersiz sonuç), 22 URL tam metin denemesi (18 başarılı). Ek kanıt: **JAMA Network Open 2026;9(10):e2640893** (İzlanda, 70 okul, 23.938 gözlem — telefon yasaklarında refah değişimi yok); EU KIDS Act (17.09.2026, 13/15 kademeli + AI companion, %6 ciro); New York 18 altı AI companion yasağı (29–30 Ekim); Şarja Çocuk Güvenliği Örgütü nudify/şantaj uyarısı (28 Ekim).
+- Tarih doğrulaması: 2 kayıt pencere dışı olduğu için düşürüldü (TRT Haber deepfake 30.05.2025; Tamindir 03.02.2025); Avustralya/İngiltere gelişmeleri arka plan olarak etiketlendi. Erişim: Ofcom + OUP QJE Cloudflare 403, Sensity çerez duvarı.
+- Updated index.md (Last updated 2026-11-02, Total pages 173)
+- Agent: KURATOR Bulletin Cronjob
+
 ## [2026-10-19] ingest | KURATOR Weekly Bulletin (Hafta 43/2026)
 - Raw: [[raw/articles/2026-10-19_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 43/2026, 12 – 19 Ekim 2026); 75157 byte, 9001 kelime
 - Telegram categorized akışı (17 – 19 Eki): **3 yeni kayıt — hepsi akademik/deneme (KURATOR etiketli haber kaydı yok)** → bülten doğrudan gündem araştırmasıyla kuruldu: Bing News RSS (25 sorgu, 196 benzersiz başlık) + 21 URL tam metin (urllib) + arXiv API (11 sorgu, 77 kayıt).

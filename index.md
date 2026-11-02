@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-10-31 | Total pages: 172
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-02 | Total pages: 173
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -59,6 +59,7 @@
 
 ## Raw Articles
 
+- [[raw/articles/2026-11-02_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 45/2026, 26 Ekim – 2 Kasım dilimi)]]
 - [[raw/articles/2026-10-31_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 44/2026, 26 – 31 Ekim dilimi)]]
 - [[raw/articles/2026-10-31_akademik_ozel.md|AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-10-31, 9 çalışma)]]
 - [[raw/articles/2026-10-12_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 42/2026, 5 – 12 Ekim dilimi)]]
