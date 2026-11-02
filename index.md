@@ -505,4 +505,5 @@
 - [[raw/articles/2026-06-09_multi-platform-referrers-of-misinformation-a-compa.md|Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok]]
 - [[raw/articles/2007-06-22_critical-thinking-why-is-it-so-hard-to-teach.md|Critical Thinking: Why Is It So Hard to Teach?]]
 - [[raw/articles/2026-11-02_abd-2026-ara-se-imleri-n-haz-rl-k-dosyas.md|ABD 2026 Ara Seçimleri: Ön Hazırlık Dosyası]]
+- [[raw/articles/2026-07-27_yapay-zek-sosyolojik-kuram-operasyonelle-tirebilir.md|Yapay Zekâ Sosyolojik Kuramı Operasyonelleştirebilir mi? Collins'in Felsefe Sosyolojisi, Bibliometri ve LLM Tartışması]]
 

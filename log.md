@@ -1599,3 +1599,8 @@
 - Source files: 2026-11-02_abd-ara-secimleri-on-hazirlik.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-07-27_yapay-zek-sosyolojik-kuram-operasyonelle-tirebilir.md]] — Yapay Zekâ Sosyolojik Kuramı Operasyonelleştirebilir mi? Collins'in Felsefe Sosyolojisi, Bibliometri ve LLM Tartışması
+- Source files: 2026-07-27_ai-collins-sociology-of-philosophies.json
+- Agent: OKF Ingestion Pipeline
+
