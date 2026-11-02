@@ -1574,3 +1574,8 @@
 - Source files: 2022-10-03_scientific-value-numerical-feelings.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-02_computational-phenomenology.md]] — Computational Phenomenology
+- Source files: 2026-11-02_computational-phenomenology.json
+- Agent: OKF Ingestion Pipeline
+
