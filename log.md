@@ -1564,3 +1564,8 @@
 - Source files: 2026-10-20_serendipity-and-surprise-open-science.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-27_populism-and-conspiracy-theories-a-cross-national-.md]] — Populism and conspiracy theories: A cross-national analysis
+- Source files: 2026-10-27_populism-and-conspiracy-theories-cross-national.json
+- Agent: OKF Ingestion Pipeline
+

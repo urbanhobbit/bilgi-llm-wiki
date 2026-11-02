@@ -498,4 +498,5 @@
 - [[raw/articles/2026-10-26_behavioral-finance-at-40.md|Behavioral Finance at 40]]
 - [[raw/articles/2026-10-23_defending-europe-against-hybrid-warfare.md|Defending Europe Against Hybrid Warfare]]
 - [[raw/articles/2026-10-20_making-space-for-serendipity-and-surprise-re-imagi.md|Making Space for Serendipity and Surprise: Re-Imagining Open Science Practices in Psychological Research]]
+- [[raw/articles/2026-10-27_populism-and-conspiracy-theories-a-cross-national-.md|Populism and conspiracy theories: A cross-national analysis]]
 
