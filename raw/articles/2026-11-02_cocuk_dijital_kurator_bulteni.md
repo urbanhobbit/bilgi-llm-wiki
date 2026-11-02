@@ -9,7 +9,7 @@
 
 ## 📋 YÖNETİCİ ÖZETİ
 
-Bu hafta Türkiye'de çocuk-dijital politikasının **uygulama haftası**ydı. 1 Kasım 2026'da, 7578 sayılı Kanun'un 5651 sayılı İnternet Kanunu'nda yaptığı değişiklik ve 10 Ekim 2026 tarihli *Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik* birlikte yürürlüğe girdi: **15 yaşını doldurmamış çocuklara sosyal ağ hizmeti sunulamayacak**, 15–17 yaş grubuna ise ayrıştırılmış (varsayılan gizli, canlı yayınsız, sonsuz kaydırmasız, kişiselleştirilmiş reklamsız) hesaplar zorunlu. Mevcut hesaplar için yaş doğrulama son tarihi **31 Mart 2027**. Yaptırım zinciri para cezasından (10–30 milyon TL) reklam yasağına ve **%90'a kadar bant daraltmaya** kadar uzanıyor.
+Bu hafta Türkiye'de çocuk-dijital politikasının **uygulama haftası**ydı. 1 Kasım 2026'da, 7578 sayılı Kanun'un 5651 sayılı İnternet Kanunu'nda yaptığı değişiklik ve 10 Ekim 2026 tarihli *Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik* birlikte yürürlüğe girdi: **15 yaşını doldurmamış çocuklara sosyal ağ hizmeti sunulamayacak**, 15–17 yaş grubuna ise ayrıştırılmış (varsayılan gizli, canlı yayınsız, sonsuz kaydırmasız, kişiselleştirilmiş reklamsız) hesaplar zorunlu. Mevcut hesaplar için yaş doğrulama son tarihi **31 Mart 2027**. Yaptırım zinciri kademeli para cezasından (kaynaklara göre 10–30 milyon TL bandı) reklam yasağına ve **%90'a kadar bant daraltmaya** kadar uzanıyor.
 
 Düzenlemenin en teknik ve en az tartışılan tarafı, yaş doğrulamanın **e-Devlet Kapısı üzerinden üretilen bir "yaş doğrulama belirteci"** ile yapılacak olması. Tasarım kâğıt üzerinde gizlilik-dostu: platforma kimlik değil, yalnızca "15 yaş eşiği geçildi mi / 18 yaş eşiği geçildi mi" bilgisi gidiyor. Ancak bu mimari, Türkiye'de ilk kez **kimlikli bir devlet altyapısı ile sosyal medya hesapları arasında kalıcı bir köprü** kuruyor. Yaman Akdeniz'in BBC Türkçe'ye söylediği gibi: "Bugün sosyal medya için kurulan bir sistem, yarın başka dijital hizmetler için de kullanılabilir." Aynı hafta Siber Güvenlik Başkanlığı'nın yaptığı "yalnızca turkiye.gov.tr ve resmî e-Devlet uygulaması" uyarısı, bu köprünün ilk somut riskini de gösteriyor: **yaş doğrulama bir kimlik avı (phishing) yüzeyi hâline geldi.**
 
@@ -351,7 +351,7 @@ Kanıt tarafında ise haftanın en net mesajı şu: **erişim kesme ölçülebil
 | # | İstatistik | Kaynak | Tarih |
 |---|---|---|---|
 | 1 | Türkiye'de sosyal medya yaş sınırı: **15 yaş**; mevcut hesaplarda doğrulama son tarihi **31 Mart 2027** | 7578 sayılı Kanun + Yönetmelik | 2026-11-01 |
-| 2 | Yaptırım tavanı: **10–30 milyon TL** para cezası; **%90'a kadar** bant daraltma (sosyal ağ) | 7578 sayılı Kanun | 2026-05-01 |
+| 2 | Yaptırım: kademeli idari para cezası (kaynaklara göre **10–30 milyon TL** bandı bekleniyor); **%90'a kadar** bant daraltma (sosyal ağ) | 7578 sayılı Kanun | 2026-05-01 |
 | 3 | Oyun platformlarında bant daraltma tavanı: **%50**; temsilci zorunluluğu eşiği: **100.000+ günlük erişim** | 7578 sayılı Kanun | 2026-05-01 |
 | 4 | Zararlı içeriğe müdahale süresi: **en geç 1 saat** | 7578 sayılı Kanun | 2026-05-01 |
 | 5 | İzlanda: **70 okul**, 3 dalga, **23.938 gözlem**, 22 okulda yasak (2018–2023) | JAMA Network Open | 2026-10-27 |
