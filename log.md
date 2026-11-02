@@ -1554,3 +1554,8 @@
 - Source files: 2026-10-26_behavioral-finance-at-40.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_defending-europe-against-hybrid-warfare.md]] — Defending Europe Against Hybrid Warfare
+- Source files: 2026-10-23_defending-europe-against-hybrid-warfare.json
+- Agent: OKF Ingestion Pipeline
+
