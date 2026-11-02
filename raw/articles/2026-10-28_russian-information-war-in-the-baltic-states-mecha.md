@@ -32,6 +32,8 @@ published: '2026-10-28'
 
 FPRI'nin Eurasia Programı için Briana List, Robert Person ve Reagan Phelps'in (üçü de West Point, ABD Askeri Akademisi) hazırladığı rapor, Estonya-Latvya-Litvanya'yı Rusya'nın bilgi savaşının iki yönlü bir laboratuvarı olarak inceliyor: hem Moscow'un yöntemlerinin test edildiği yer, hem de Batı'nın dayanıklılık politikalarının sınandığı saha. Raporun tarihsel omurgası 2007 'Bronz Asker' olayı (Tallinn'de Sovyet anıtının taşınması etrafında büyüyen isyan: 1.000'den fazla gözaltı, 150 yaralı) — yazarlara göre bu, Rusya'nın etkisiz 'yumuşak dengeleme'den zorlayıcı siyasal savaşa geçtiği kırılma noktası. Rapor üç katmanda ilerliyor: (1) mekanizmalar — 'yurttaşlar politikası' (compatriots policy) ve Rossotrudnichestvo, hükümet destekli STK'lar (GONGO), Rusça yayın ve dijital medya, sosyal medya ve 'bilgi aklama' (information laundering); (2) anlatılar — iç çatlakları körükleyenler (Baltıklar faşist, Sovyetler kurtarıcıydı, Rusça baskı altında, başarısız devletler) ve dış kama anlatıları (NATO Baltıkları daha güvensiz yaptı, ABD umursamıyor, NATO işgalci, geleneksel değerler); (3) Ukrayna savaşının bu anlatıları nasıl güncellediği. Ampirik çekirdek, 2018-2019'da bölgedeki Estonya, Latvya, Litvanya ve ABD savunma yetkilileriyle yapılan görüşmelere ve 134 kaynağa dayanıyor. Ana tez: Moscow'un hedefi insanları ikna etmek değil, güveni aşındırmak — 'kalpleri ve zihinleri kazanmak' yerine demokratik kamuları daha şüpheci, daha kutuplaşmış ve müttefiklerin savunacağına dair daha kuşkulu hâle getirmek yeterli. Politika önerisi: bilgi dayanıklılığını caydırıcılığın parçası saymak; yayın yasaklarından çok bilgi aklama, gizli finansman ve platform amplifikasyonuna odaklanmak; Rusça konuşan azınlıkları güvenlik tehdidi olarak görmek yerine kapsayıcı entegrasyonla güçlendirmek.
 
+Raporun çerçevesi, devlet destekli dezenformasyonun iki on yıllık seyrini NATO'nun caydırıcılık kapasitesiyle ilişkilendiriyor; bu yönüyle devlet merkezli bir vaka çalışması olarak dezenformasyon literatürüne eklemleniyor.
+
 ## Key Points
 
 - Künye: FPRI Eurasia Program raporu, 28 Ekim 2026; yazarlar Briana List, Robert Person ve Reagan Phelps — üçü de United States Military Academy (West Point) bünyesinde; metnin başında görüşlerin ABD Askeri Akademisi, Ordu veya ABD hükümetinin resmî pozisyonu olmadığı belirtiliyor. DOI yok; 134 dipnotlu, akademik ayakları sağlam bir politika raporu.
@@ -61,4 +63,11 @@ Rapor Baltık özelinde yazılmış ama tarif ettiği makine Türkiye'de tanıd�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — Raporun mekanizma seti (GONGO'lar, bilgi aklama, bot ağları) dezenformasyonun devlet ölçeğinde nasıl örgütlendiğini belgeliyor.
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]] — Baltıklar örneği, devlet destekli dezenformasyonun NATO içindeki siyasal yarıkları hedefleyen jeopolitik bir araç olduğunu gösteriyor.
+- [[concepts/komplo-inanclari.md|Komplo İnançları]] — Faşizm, soykırım ve 'NATO işgalci' anlatıları, komplo teorilerinin azınlık kamularında güven aşındırmak için nasıl paketlendiğini gösteriyor.
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]] — 2022 yayın yasaklarının izleyiciyi VPN ve platformlara kaydırması, erişim yasaklarının sınırına dair somut kanıt.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/fpri.md|Foreign Policy Research Institute]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-26_a-network-approach-to-geopolitics.md|A Network Approach to Geopolitics (NBER)]] — Teorik karşılığı: bu rapor istismar edilen yarıkları belgelerken NBER çalışması aynı yarıkları ağ olarak ölçüp karşı-olgusal olarak test ediyor.

@@ -32,6 +32,8 @@ published: '2026-10-26'
 
 NBER'nin Ekim 2026 tarihli 35951 numaralı çalışma metni, jeopolitiği bir koordinasyon ve stratejik etki ağı olarak modellediği, kapalı formda çözülebilen bir çerçeve öneriyor. Temel kurgu şu: ülkeler jeopolitik eylemleri (ittifak, oy, yaptırım, hizalama) seçerken iki şeyi dengeliyor — iç siyasetin/seçmenin dayattığı ulusal çıkarlar ile bağlı oldukları ülkelerle hizalanma teşviki. Ülkeler birbirlerinin eylemlerini maliyetli ikili etki (bilateral influence) yoluyla değiştirebiliyor; denge eylemleri ve bu ikili etki kapalı formda karakterize ediliyor. Yazarların asıl katkısı ayrıştırma (decomposition): ülkeler arası iç-çıkar farklılıkları, gizli jeopolitik yarıklara (latent cleavages) ayrışıyor ve ağ, her yarığı diğerlerinden bağımsız olarak jeopolitik eyleme dönüştürüyor. Bu, gözlenen iç-çıkar ve eylem kovaryans matrislerinden yarıkların ve ağırlıklarının tanımlanmasını, oradan da ağın geri kazanılmasını (recover the network) sağlıyor — yani ağ, veriden tahmin edilen bir yapı, varsayılan bir harita değil. Uygulama Birleşmiş Milletler oyları ve demokratik yönelim verisiyle yapılıyor. Çıkarılan ağ birkaç boyutla iyi yaklaşık ediliyor, dış jeopolitik bağ ölçüleriyle uyumlu ve bilinen tarihsel yarıkları (Soğuk Savaş blokları gibi) yeniden üretiyor. Yazarlar iç çıkarlar ve ağ bağlantıları için karşı-olgusal (counterfactual) deneyler yapıyor ve üç farklı jeopolitik güç kavramını niceliyor. Tweet'i paylaşan Daniel McDowell (Maxwell School, Atlantic Council) metni bir şaka olarak sunuyor: 'iktisatçılar 2026'da uluslararası ilişkileri keşfediyor' — yani ekonomi disiplininin IR'yi ağ yöntemleriyle yeniden ithal etmesi.
 
+Yöntem açısından asıl mesele ölçüm: jeopolitik hizalanmayı blok üyeliğiyle değil ağ konumuyla ölçmek, karşılaştırmalı siyasette kullanılan mevcut ölçüm araçlarının yerine geçebilecek bir alternatif sunuyor; araştırma yöntemleri açısından da kovaryans-temelli tanımlama, ağın kendisini veriden geri kazanmayı mümkün kılıyor.
+
 ## Key Points
 
 - Künye doğrulandı: NBER Working Paper 35951, DOI 10.3386/w35951, issue date Ekim 2026 (sayfadaki citation_publication_date 2026-10-26); yazarlar Ernest Liu, Stephen J. Redding, Bennett Smith-Worthington ve David Y. Yang. Sayfada kurum bilgisi verilmiyor; teşekkür bölümü Harvard, Princeton ve Stanford'a araştırma desteği için teşekkür ediyor.
@@ -58,5 +60,10 @@ Türkiye, bu makalenin ölçmeye çalıştığı olgunun neredeyse ders kitabı 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — Ağın kovaryans matrislerinden geri kazanılması, jeopolitik hizalanmayı blok üyeliği yerine ölçümle tanımlayan bir araç seti sunuyor.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Kapalı form denge ve kovaryans-temelli tanımlama, karşılaştırmalı siyasetteki nitel blok okumalarına alternatif bir araştırma yöntemleri önerisi.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nber.md|Nber]]
+- [[entities/nber.md|NBER (National Bureau of Economic Research)]]
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-28_russian-information-war-in-the-baltic-states-mecha.md|Russian Information War in the Baltic States (FPRI)]] — Aynı olgunun iki yüzü: bu metin jeopolitik yarıkları ağ olarak ölçerken FPRI raporu Rusya'nın o yarıkları nasıl istismar ettiğini belgeliyor.
