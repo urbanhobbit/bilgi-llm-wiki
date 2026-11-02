@@ -1534,3 +1534,9 @@
 - Source files: 2026-11-02_russian-information-war-baltic-states.json, 2026-11-02_network-approach-to-geopolitics.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2024-12-21_data-driven-economic-agent-based-models.md]] — Data-Driven Economic Agent-Based Models
+- Raw: [[raw/articles/2026-11-01_the-intellectual-origins-of-the-clash-of-civilizat.md]] — The Intellectual Origins of “The Clash of Civilizations”: On Samuel Huntington’s Early Engagement with Raymond Aron
+- Source files: 2026-11-01_intellectual-origins-clash-of-civilizations.json, 2024-12-21_data-driven-economic-abm.json
+- Agent: OKF Ingestion Pipeline
+

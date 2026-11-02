@@ -492,4 +492,6 @@
 - [[raw/articles/2026-10-14_empathy-as-a-dyadic-process.md|Empathy as a dyadic process]]
 - [[raw/articles/2026-10-26_a-network-approach-to-geopolitics.md|A Network Approach to Geopolitics]]
 - [[raw/articles/2026-10-28_russian-information-war-in-the-baltic-states-mecha.md|Russian Information War in the Baltic States: Mechanisms, Narratives, and Strategic Effects]]
+- [[raw/articles/2024-12-21_data-driven-economic-agent-based-models.md|Data-Driven Economic Agent-Based Models]]
+- [[raw/articles/2026-11-01_the-intellectual-origins-of-the-clash-of-civilizat.md|The Intellectual Origins of “The Clash of Civilizations”: On Samuel Huntington’s Early Engagement with Raymond Aron]]
 
