@@ -54,3 +54,13 @@ Bu metin Türkiye'deki araştırma gündeminin merkezinde değil, ama iki dolayl
 
 - 🔍 **Araştırma Boşluğu**
 - 🧩 **Yöntem**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/hesaplamali-fenomenoloji.md|Hesaplamalı Fenomenoloji]] — Yazının haritaladığı hat: üç yaklaşım, erdem/kusur dengesi ve parçalı program.
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zekâ Yönetişimi]] — 'Yapay zekâ bilinçli değil ama modeller bilincin yapısını aydınlatabilir' ayrımı, bilinç varsayımına dayanan yönetişim argümanlarının önkoşulunu sorguluyor.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/jeff-yoshimi.md|Jeff Yoshimi]] — Yazar.
+- [[entities/edmund-husserl.md|Edmund Husserl]] — Makalenin tarihsel omurgası: erken dönem algoritma kuramı ve 'otantik olmayan' düşünme.
+- [[entities/university-of-california-merced.md|University of California, Merced]] — Yazarın kurumu.
+- [[entities/academic-oup-com.md|Oxford Academic]] — Kitabın yayıncısı (OUP).
