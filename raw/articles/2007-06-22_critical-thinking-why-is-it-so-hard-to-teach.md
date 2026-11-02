@@ -60,4 +60,10 @@ Türkiye'de eleştirel düşünme tartışması tam olarak Willingham'ın eleşt
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/misinformation-resilience-indexes.md|Dezenformasyon Direnci Endeksleri]] — inoculation/prebunking programlarının "aktarılabilir beceri" varsayımı, Willingham'ın alan-özgüllüğü argümanıyla doğrudan test edilmeli.
+- [[concepts/media-literacy-fact-checking.md|Medya Okuryazarlığı ve Teyit]] — Medya okuryazarlığı müfredatlarının içerikten bağımsız "beceri" olarak kurgulanması, yazının eleştirdiği kalıbın eğitim politikasındaki karşılığı.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/daniel-willingham.md|Daniel T. Willingham]] — Yazar.
+- [[entities/university-of-virginia.md|University of Virginia]] — Yazarın kurumu.
+- [[entities/american-federation-of-teachers.md|American Federation of Teachers (AFT)]] — Yayıncı kuruluş.
+- [[entities/american-educator.md|American Educator]] — Makalenin dergisi (Summer 2007).
