@@ -32,7 +32,7 @@ published: '2026-06-09'
 
 ## Summary
 
-Dahlke, Moore, Adib-Azpeitia, Ugander ve Hancock, sosyal medyanın dezenformasyona maruz bırakma etkisini ölçen mevcut literatürün sistematik bir kör noktasını gösteriyor: çalışmaların neredeyse tamamı 'doğrudan yönlendirici' (direct referrer) paradigmasıyla çalışıyor, yani yalnızca sosyal medya ziyaretinden hemen sonra gelen dezenformasyon ziyaretlerini sayıyor. Yazarlar buna 'gömülü yönlendirici' (embedded referrer) paradigmasını karşı koyuyor: platformlar insanları aracı siteler üzerinden (Facebook → blog yazısı → dezenformasyon sitesi) ve platformdan ayrıldıktan sonra süren bilgi arama davranışını tetikleyerek de dezenformasyona götürebilir. Bu paradigmayı karşı-olgusal simülasyonla işletiyorlar: YouGov Pulse paneliyle toplanan gerçek tarama verisinden (N = 1.240 kişi, 24 Ağustos-7 Aralık 2020, ~21 milyon sayfa ziyareti, 395.936 oturum) her birey için geçiş matrisleri kurup, bir platforma girmek üzere olan yolu o platformun yok olduğu varsayımıyla saptırıyor (diversion ratios, Aridor 2023) ve sahte yolu sonuna kadar simüle ediyorlar. Sonuç net: doğrudan paradigma sosyal medyanın rolünü sistematik olarak **küçümsüyor**; gömülü paradigmayla etkiler 1,5 ila 15+ kat daha büyük. Facebook'u kaldırmak tüm dezenformasyon ziyaretlerini %9,25 değil %14,07 azaltıyor; Twitter'da fark çarpıcı: %2,17'ye karşı %12,27 (beş katın üzerinde); YouTube'da %2,08'e karşı %4,92. Etkiler ideolojik tipe ve partizanlığa göre değişiyor: Facebook liberal dezenformasyonda %58,56, Reddit ideolojik olmayan dezenformasyonda %18,22 (doğrudan ölçüm %0,20). En çarpıcı ikinci bulgu: platform kaldırmanın **yüksek kaliteli haber** üzerindeki etkisi dezenformasyondan çok daha büyük (Facebook'ta her 1 dezenformasyon ziyaretine karşı 73,3 yüksek kaliteli haber ziyareti).
+Dahlke, Moore, Adib-Azpeitia, Ugander ve Hancock, sosyal medyanın dezenformasyona maruz bırakma etkisini ölçen mevcut literatürün sistematik bir kör noktasını gösteriyor: çalışmaların neredeyse tamamı 'doğrudan yönlendirici' (direct referrer) paradigmasıyla çalışıyor, yani yalnızca sosyal medya ziyaretinden hemen sonra gelen dezenformasyon ziyaretlerini sayıyor. Yazarlar buna 'gömülü yönlendirici' (embedded referrer) paradigmasını karşı koyuyor: platformlar insanları aracı siteler üzerinden (Facebook → blog yazısı → dezenformasyon sitesi) ve platformdan ayrıldıktan sonra süren bilgi arama davranışını tetikleyerek de dezenformasyona götürebilir. Bu paradigmayı karşı-olgusal simülasyonla işletiyorlar: YouGov Pulse paneliyle toplanan gerçek tarama verisinden (N = 1.240 kişi, 24 Ağustos-7 Aralık 2020, ~21 milyon sayfa ziyareti, 395.936 oturum) her birey için geçiş matrisleri kurup, bir platforma girmek üzere olan yolu o platformun yok olduğu varsayımıyla saptırıyor (diversion ratios, Aridor 2023) ve sahte yolu sonuna kadar simüle ediyorlar. Sonuç net: doğrudan paradigma sosyal medyanın rolünü sistematik olarak **küçümsüyor**; gömülü paradigmayla etkiler 1,5 ila 15+ kat daha büyük. Facebook'u kaldırmak tüm dezenformasyon ziyaretlerini %9,25 değil %14,07 azaltıyor; Twitter'da fark çarpıcı: %2,17'ye karşı %12,27 (beş katın üzerinde); YouTube'da %2,08'e karşı %4,92. Etkiler ideolojik tipe ve partizanlığa göre değişiyor (seçici maruz kalma — yankı odası ve filtre baloncuğu tartışmasının ampirik çekirdeği): Facebook liberal dezenformasyonda %58,56, Reddit ideolojik olmayan dezenformasyonda %18,22 (doğrudan ölçüm %0,20). En çarpıcı ikinci bulgu: platform kaldırmanın **yüksek kaliteli haber** üzerindeki etkisi dezenformasyondan çok daha büyük (Facebook'ta her 1 dezenformasyon ziyaretine karşı 73,3 yüksek kaliteli haber ziyareti).
 
 ## Key Points
 
@@ -65,5 +65,14 @@ Türkiye'de dezenformasyon tartışması neredeyse tamamen iki uçta yürüyor: 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/dezenformasyon-maruziyeti-olcumu.md|Dezenformasyon Maruziyetinin Ölçümü]] — Makalenin kurduğu yöntem hattı: doğrudan vs gömülü yönlendirici paradigması, karşı-olgusal simülasyon.
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — Ölçülen olgu: NewsGuard/fact-checker tanımlarıyla "sürekli yanlış içerik yayımlayan" siteler.
+- [[concepts/filtre-baloncuklari.md|Filtre Baloncukları ve Yankı Odaları]] — Seçici maruz kalma bulguları, yankı odası/filtre baloncuğu tartışmasının ampirik temelini yeniden kuruyor.
+- [[concepts/dijital-egzos.md|Dijital Egzos]] — Pasif tarama verisi (YouGov Pulse) bu veri türünün en zengin örneği.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ross-dahlke.md|Ross Dahlke]] — İlk yazar.
+- [[entities/university-of-wisconsin-madison.md|University of Wisconsin-Madison]] — İlk yazarın kurumu.
+- [[entities/yougov.md|YouGov]] — Veri kaynağı (Pulse paneli).
+- [[entities/newsguard.md|NewsGuard]] — Dezenformasyon sitelerinin tanımlanmasında kullanılan derecelendirme.
+- [[entities/political-communication.md|Political Communication]] — Makalenin dergisi (43(6), 851-887).
+- [[entities/www-tandfonline-com.md|Taylor & Francis Online]] — Yayıncı platformu.
