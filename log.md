@@ -1584,3 +1584,8 @@
 - Source files: 2026-10-26_countering-hybrid-warfare-ukraine-nato.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-06-09_multi-platform-referrers-of-misinformation-a-compa.md]] — Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok
+- Source files: 2026-06-09_multi-platform-referrers-of-misinformation.json
+- Agent: OKF Ingestion Pipeline
+
