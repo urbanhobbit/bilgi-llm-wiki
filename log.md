@@ -1528,3 +1528,9 @@
 - Source files: 2026-10-14_empathy-as-a-dyadic-process.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-26_a-network-approach-to-geopolitics.md]] — A Network Approach to Geopolitics
+- Raw: [[raw/articles/2026-10-28_russian-information-war-in-the-baltic-states-mecha.md]] — Russian Information War in the Baltic States: Mechanisms, Narratives, and Strategic Effects
+- Source files: 2026-11-02_russian-information-war-baltic-states.json, 2026-11-02_network-approach-to-geopolitics.json
+- Agent: OKF Ingestion Pipeline
+

@@ -490,4 +490,6 @@
 - [[raw/articles/2026-09-09_forecasting-informed-foreign-policy-decision-makin.md|Forecasting-informed foreign policy decision-making: the case of jus ad vim]]
 - [[raw/articles/2026-10-30_the-effects-of-school-phone-bans-national-evidence.md|The Effects of School Phone Bans: National Evidence from Lockable Pouches]]
 - [[raw/articles/2026-10-14_empathy-as-a-dyadic-process.md|Empathy as a dyadic process]]
+- [[raw/articles/2026-10-26_a-network-approach-to-geopolitics.md|A Network Approach to Geopolitics]]
+- [[raw/articles/2026-10-28_russian-information-war-in-the-baltic-states-mecha.md|Russian Information War in the Baltic States: Mechanisms, Narratives, and Strategic Effects]]
 
