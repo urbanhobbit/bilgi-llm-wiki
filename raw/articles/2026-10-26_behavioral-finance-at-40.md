@@ -61,5 +61,9 @@ Türkiye'de davranışsal finans tartışması çoğunlukla akademik dergilerde 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/davranissal-finans.md|Davranışsal Finans]] — Yazı, alanın kırk yıllık bilançosu: inanç yanlılıkları, ihtimal teorisi ve yeni yönler.
+- [[concepts/agi-ekonomisi.md|AGI Ekonomisi]] — Yapay zekâ bölümü (LLM tavsiyesi, AI ajanlarının piyasa davranışı) AI'ın ekonomik karar alma üzerindeki etkisini davranışsal kanaldan ele alıyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nber.md|Nber]]
+- [[entities/nber.md|NBER (National Bureau of Economic Research)]]
+- [[entities/nicholas-barberis.md|Nicholas C. Barberis]] — Yazar; davranışsal varlık fiyatlamanın kurucu kuşağından.
