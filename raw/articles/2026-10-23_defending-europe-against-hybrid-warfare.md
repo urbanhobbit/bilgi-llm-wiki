@@ -64,6 +64,7 @@ Türkiye bu raporun tam ortasında duruyor ama çerçevenin dışında kalıyor:
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/hibrit-savas.md|Hibrit Savaş]] — Raporun tanımladığı olgu: hibrit tehdit yelpazesinin sert ucu ve RD stratejisinin nesnesi.
 - [[concepts/fimi.md|FIMI (Yabancı Bilgi Manipülasyonu ve Müdahalesi)]] — Raporun tehdit yelpazesi, yabancı bilgi manipülasyonunu hibrit savaşın bileşenlerinden biri olarak konumlandırıyor; savunma tarafında atıf ve ifşa FIMI literatürüyle aynı araç setini kullanıyor.
 - [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]] — Devlet destekli dezenformasyon, raporda dayanıklılık kadar caydırıcılık gerektiren jeopolitik bir operasyon olarak ele alınıyor.
 ### 🏛 İlgili Kurum/Kişiler

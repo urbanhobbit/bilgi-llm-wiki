@@ -56,3 +56,17 @@ Türkiye bu kitabın hem konusu hem de görünmez kahramanı: Karadeniz'de Rus h
 - 📊 **Bulgular**
 - 🏛 **Politika Önerisi**
 - 🔍 **Araştırma Boşluğu**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/hibrit-savas.md|Hibrit Savaş]] — Kitabın nesnesi: hibrit tehdit yelpazesinin "sert ucu" ve askerî-etkililik çerçevesi.
+- [[concepts/fimi.md|FIMI]] — Birinci bölümdeki bilgi güvenliği ve stratejik iletişim bölümleri, yabancı bilgi manipülasyonuna karşı kurumsal kapasite kurmayı anlatıyor.
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]] — Kitabın vaka seçimi (Çekya, Kosova, Baltık) devlet destekli nüfuz operasyonlarının coğrafi haritası.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/janis-berzins.md|Jānis Bērziņš]] — Editör ve Baltık bölümünün yazarı.
+- [[entities/nato.md|NATO]] — Araştırmanın kurumsal kaynağı (STO) ve açık erişim fonlayıcısı.
+- [[entities/routledge.md|Routledge]] — Yayıncı.
+- [[entities/latvian-national-defence-academy.md|Latvian National Defence Academy]] — Baş editörün kurumu.
+- [[entities/hybrid-coe.md|Hybrid CoE]] — Aynı alanda strateji düzeyinde tamamlayıcı yayıncı.
+### 🗂 İlgili Kayıtlar
+- [[raw/articles/2026-10-23_defending-europe-against-hybrid-warfare.md|Defending Europe Against Hybrid Warfare (JRC & Hybrid CoE)]] — Strateji düzeyi çerçeve (RD stratejisi, atıf); bu kitap sahadaki kurumsal adaptasyonu ve askerî etkililiği ekliyor.
