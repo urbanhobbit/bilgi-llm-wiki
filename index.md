@@ -499,4 +499,5 @@
 - [[raw/articles/2026-10-23_defending-europe-against-hybrid-warfare.md|Defending Europe Against Hybrid Warfare]]
 - [[raw/articles/2026-10-20_making-space-for-serendipity-and-surprise-re-imagi.md|Making Space for Serendipity and Surprise: Re-Imagining Open Science Practices in Psychological Research]]
 - [[raw/articles/2026-10-27_populism-and-conspiracy-theories-a-cross-national-.md|Populism and conspiracy theories: A cross-national analysis]]
+- [[raw/articles/2022-10-03_the-scientific-value-of-numerical-measures-of-huma.md|The scientific value of numerical measures of human feelings]]
 

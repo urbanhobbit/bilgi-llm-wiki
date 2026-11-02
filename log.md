@@ -1569,3 +1569,8 @@
 - Source files: 2026-10-27_populism-and-conspiracy-theories-cross-national.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-02] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-10-03_the-scientific-value-of-numerical-measures-of-huma.md]] — The scientific value of numerical measures of human feelings
+- Source files: 2022-10-03_scientific-value-numerical-feelings.json
+- Agent: OKF Ingestion Pipeline
+
