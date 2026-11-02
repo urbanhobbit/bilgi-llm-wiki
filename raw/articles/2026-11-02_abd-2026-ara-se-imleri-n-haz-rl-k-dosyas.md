@@ -43,7 +43,7 @@ Türkçe bir yazı için ABD 3 Kasım 2026 ara seçimlerinin ön hazırlık dosy
 - Kontrol senaryosu: NC + ME + OH + (TX/AK/IA/KS'den biri) = 51 → Senato Demokratlara geçer. Bu dörtlüden biri düşerse Cumhuriyetçiler 50-52 aralığında tutar.
 - Analitik menteşe 1 — 'Trump'sız Trump seçimi': adayların ondan kaçınması (Rogers ve Hinson'un İran savaşını bitirin çağrısı, Salazar'ın göçmenlik eleştirisi), Trump'ın 'ben de bundayım' mesajının riskli hale gelmesi, Charlie Cook'un 'red undertow' (kızıl dip akıntısı) formülü: zafer Demokrat dalgasından değil, Trump markasının batmasından geliyor.
 - Analitik menteşe 2 — 'iki muhalefet': Demokratik Sosyalistler üç kongre üyesini ön seçimde devirdi (NY, CO, MI) ve Mamdani etkisi ulusal ölçeğe taşındı; buna karşılık çoğunluğun ılımlılardan geçeceği tezi (Cooper, Pappas, Spanberger tipi) güçlü. Kasım sürprizi: Michigan'da Haley Stevens'in El-Sayed yerine Cumhuriyetçi Rogers'ı desteklemesi — 'seçilebilirlik' itirazının en somut kanıtı.
-- Analitik menteşe 3 — 'kurallar seçimi': Nisan 2026 AYM kararı (VRA'nın kısımları anayasaya aykırı), ara dönem redistricting yarışı, federal kaynakların Cumhuriyetçi reklamlara aktarılması ve seçmen kayıt/vatandaşlık sorgulamaları. Seçim sadece kimin kazanacağını değil, oyunun kurallarını kimin yazacağını belirliyor.
+- Analitik menteşe 3 — 'kurallar seçimi': Nisan 2026 AYM kararı (VRA'nın kısımları anayasaya aykırı), ara dönem redistricting yarışı, federal kaynakların Cumhuriyetçi reklamlara aktarılması ve seçmen kayıt/vatandaşlık sorgulamaları. Seçim sadece kimin kazanacağını değil, oyunun kurallarını kimin yazacağını belirliyor. Karşılaştırmalı literatürde bu tür hamleler demokratik erozyon (democratic backsliding) tartışmasının merkezinde: seçimler serbest ama oyun alanı eşit değilse, liberal demokrasi biçimsel olarak ayakta kalırken rekabetçiliğini yitiriyor.
 - Trump'ın kalan iki yılı — dört senaryo: (i) Temsilciler D / Senato R → soruşturma, tahsisat ve bütçe savaşı, impeachment gündemi; (ii) ikisi de D → veto + yürütme emri + mahkeme stratejisi, dış politikada tek taraflı hareket; (iii) ikisi de R → daha agresif icraat; (iv) sonuçlar tartışmalı → meşruiyet krizi. 2028 üçüncü dönem söylemi Cumhuriyetçi aday sahasını donduruyor.
 - İlerici sosyalistler için iki test: (a) El-Sayed Michigan gibi salıncak bir eyalette kazanabiliyor mu; (b) Talarico gibi 'sosyalist değil ilerici' adaylar Teksas'ta ne alıyor. Karşı kanıt: Maine'de Platner'in cinsel saldırı iddialarıyla çekilmesi ve yerine Troy Jackson'ın gelmesi; Stevens'in Rogers'a geçmesi.
 - Veri kaynağı notu: sayılar 2 Kasım 2026 itibarıyla kamuya açık kaynaklardan derlendi (Wikipedia seçim maddeleri, Kristal Küre final başlığı, Reuters/Ipsos, NBC, MultiState, midtermresultslive). Anket ortalamaları 2 Ekim tarihli; seçim gecesi güncellenmeleri gerekir. Bu dosya bir **ön hazırlık** kaydıdır, sonuç kaydı değildir.
@@ -56,3 +56,15 @@ Türkiye'den bakınca bu seçimin üç doğrudan sonucu var. Birincisi enerji ve
 
 - 🔍 **Araştırma Boşluğu**
 - 🏛 **Politika Önerisi**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — Dosyanın kurumsal omurgası: ara seçim döngüsü, Senato matematiği, Oy Hakkı Yasası rejimi.
+- [[concepts/partizan-redistricting.md|Partizan Redistricting]] — 2025-2026 harita savaşları ve VRA kararı sonrası hukuki zemin.
+- [[concepts/demokratik-sosyalist-secim-dalgasi.md|Demokratik Sosyalist Seçim Dalgası]] — Mamdani etkisi, DSA'nın ön seçim zaferleri ve seçilebilirlik tartışması.
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]] — Seçim rekabetinin biçimsel olarak sürmesi ama eşitsizleşmesi.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/donald-trump.md|Donald Trump]] — Seçimin referans figürü; onay oranı ve adaylarla mesafesi.
+- [[entities/abd-senatosu.md|ABD Senatosu]] — Çoğunluk matematiğinin merkezi.
+- [[entities/zohran-mamdani.md|Zohran Mamdani]] — İlerici sol dalganın simgesi.
+- [[entities/demokratik-sosyalistler-abd.md|Democratic Socialists of America (DSA)]] — Ön seçim zaferlerinin örgütsel arkası.
