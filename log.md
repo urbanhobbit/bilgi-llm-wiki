@@ -1620,3 +1620,8 @@
 - Source files: 2026-09-18_graph-sandwich-kim-vu-conjecture-proof.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-12_participant-ai-use-in-survey-research.md]] — Participant AI Use in Survey Research
+- Source files: 2026-12-01_participant-ai-use-survey-research-rmal.json
+- Agent: OKF Ingestion Pipeline
+

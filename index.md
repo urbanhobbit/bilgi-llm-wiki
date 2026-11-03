@@ -510,4 +510,5 @@
 - [[raw/articles/2026-10-30_llm-ler-i-nsan-davran-n-n-daha-i-yi-dijital-i-kizi.md|LLM'ler İnsan Davranışının Daha İyi Dijital İkizi Olabilir mi? HuMCal Kalibrasyonu]]
 - [[raw/articles/2026-11-02_2026-ara-se-imlerinde-irksal-betimleyici-temsil-ta.md|2026 Ara Seçimlerinde Irksal Betimleyici Temsil Tahmini: Kuram Temelli Olasılıksal Ön-Analiz Planı]]
 - [[raw/articles/2026-09-18_graph-sandwich-kim-vu-conjecture-proved-after-two-.md|Graph Sandwich: Kim-Vu Conjecture Proved After Two Decades]]
+- [[raw/articles/2026-12_participant-ai-use-in-survey-research.md|Participant AI Use in Survey Research]]
 
