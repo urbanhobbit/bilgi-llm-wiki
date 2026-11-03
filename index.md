@@ -507,4 +507,6 @@
 - [[raw/articles/2026-11-02_abd-2026-ara-se-imleri-n-haz-rl-k-dosyas.md|ABD 2026 Ara Seçimleri: Ön Hazırlık Dosyası]]
 - [[raw/articles/2026-07-27_yapay-zek-sosyolojik-kuram-operasyonelle-tirebilir.md|Yapay Zekâ Sosyolojik Kuramı Operasyonelleştirebilir mi? Collins'in Felsefe Sosyolojisi, Bibliometri ve LLM Tartışması]]
 - [[raw/articles/2026-10-23_d-k-do-urganl-k-neden-kutupla-m-bir-mesele-h-line-.md|Düşük Doğurganlık Neden Kutuplaşmış Bir Mesele Hâline Geldi?]]
+- [[raw/articles/2026-10-30_llm-ler-i-nsan-davran-n-n-daha-i-yi-dijital-i-kizi.md|LLM'ler İnsan Davranışının Daha İyi Dijital İkizi Olabilir mi? HuMCal Kalibrasyonu]]
+- [[raw/articles/2026-11-02_2026-ara-se-imlerinde-irksal-betimleyici-temsil-ta.md|2026 Ara Seçimlerinde Irksal Betimleyici Temsil Tahmini: Kuram Temelli Olasılıksal Ön-Analiz Planı]]
 

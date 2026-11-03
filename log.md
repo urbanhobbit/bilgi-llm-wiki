@@ -1609,3 +1609,9 @@
 - Source files: 2026-10-23_low-fertility-polarized-issue.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_llm-ler-i-nsan-davran-n-n-daha-i-yi-dijital-i-kizi.md]] — LLM'ler İnsan Davranışının Daha İyi Dijital İkizi Olabilir mi? HuMCal Kalibrasyonu
+- Raw: [[raw/articles/2026-11-02_2026-ara-se-imlerinde-irksal-betimleyici-temsil-ta.md]] — 2026 Ara Seçimlerinde Irksal Betimleyici Temsil Tahmini: Kuram Temelli Olasılıksal Ön-Analiz Planı
+- Source files: 2026-11-02_racial-descriptive-representation-2026-predictions.json, 2026-10-30_humcal-llm-sample-calibration.json
+- Agent: OKF Ingestion Pipeline
+
