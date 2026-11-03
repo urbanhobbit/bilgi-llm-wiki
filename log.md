@@ -1625,3 +1625,9 @@
 - Source files: 2026-12-01_participant-ai-use-survey-research-rmal.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_prediction-league-for-policy-relevant-rcts.md]] — Prediction League for Policy-Relevant RCTs
+- Raw: [[raw/articles/2026-10-28_can-ai-forecast-treatment-effects-in-economics.md]] — Can AI Forecast Treatment Effects in Economics?
+- Source files: 2026-11-03_prediction-league-and-vivalt-ai-forecasting.json
+- Agent: OKF Ingestion Pipeline
+

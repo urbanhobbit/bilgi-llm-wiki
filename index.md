@@ -511,4 +511,6 @@
 - [[raw/articles/2026-11-02_2026-ara-se-imlerinde-irksal-betimleyici-temsil-ta.md|2026 Ara Seçimlerinde Irksal Betimleyici Temsil Tahmini: Kuram Temelli Olasılıksal Ön-Analiz Planı]]
 - [[raw/articles/2026-09-18_graph-sandwich-kim-vu-conjecture-proved-after-two-.md|Graph Sandwich: Kim-Vu Conjecture Proved After Two Decades]]
 - [[raw/articles/2026-12_participant-ai-use-in-survey-research.md|Participant AI Use in Survey Research]]
+- [[raw/articles/2026-11-03_prediction-league-for-policy-relevant-rcts.md|Prediction League for Policy-Relevant RCTs]]
+- [[raw/articles/2026-10-28_can-ai-forecast-treatment-effects-in-economics.md|Can AI Forecast Treatment Effects in Economics?]]
 
