@@ -30,7 +30,7 @@ published: '2026-10-23'
 
 ## Summary
 
-John Iceland (Penn State), doğurganlığın neden kutuplaşmış bir mesele hâline geldiğini iki ahlaki çerçeveyle açıklıyor: **Sosyal Adalet** (Social Justice) ve **Sosyal Düzen** (Social Order). Çerçeve, Ahlaki Temeller Kuramı'ndan (Moral Foundations Theory) türetiliyor: bireyleştirici sezgiler zarar vermekten kaçınma ve kırılgan grupların adil muamelesine odaklanırken, bağlayıcı sezgiler grubun düzenini, istikrarını ve uyumunu korumaya odaklanıyor. İki eksende ayrışıyorlar: (1) kararın odağındaki birim birey mi grup mu, (2) toplumsal değişimin hızı — Sosyal Adalet kapsamlı yapısal değişimden yana, Sosyal Düzen ise istikrar kaygısıyla tedrici değişimi tercih ediyor. Yazarın tezi: düşük doğurganlık nesnel bir sorun olsa da, **demografların suskunluğunun** bir nedeni meselenin Sosyal Adalet çerçevesinde kodlanmış olması; çünkü doğurganlığı artırmanın en bilinen yolu geleneksel cinsiyet rollerini güçlendirmekten geçiyor ve bu, kadınların özgürleşmesini merkeze alan çerçeveyle çatışıyor. Ampirik test: Scopus API üzerinden sekiz önde gelen demografi dergisinde 1947-2025 arası 3.249 makalenin başlık+özeti DeepSeek V4 Flash ile kodlanıyor. Sonuç: makalelerin %92'sinde açık bir ahlaki çerçeve yok; çerçeve olanların **%83'ü Sosyal Adalet, %17'si Sosyal Düzen**. Zamanla Sosyal Adalet çerçevesi belirgin biçimde artıyor: 1940-50'lerde Sosyal Düzen baskınken 1960'lardan itibaren Sosyal Adalet yükseliyor, 1980'lerde hızlanıyor, 2010'lu yıllarda zirveye çıkıyor.
+John Iceland (Penn State), doğurganlığın neden kutuplaşmış bir mesele hâline geldiğini iki ahlaki çerçeveyle açıklıyor: **Sosyal Adalet** (Social Justice) ve **Sosyal Düzen** (Social Order). Çerçeve, Ahlaki Temeller Kuramı'ndan (Moral Foundations Theory) türetiliyor: bireyleştirici sezgiler zarar vermekten kaçınma ve kırılgan grupların adil muamelesine odaklanırken, bağlayıcı sezgiler grubun düzenini, istikrarını ve uyumunu korumaya odaklanıyor. İki eksende ayrışıyorlar: (1) kararın odağındaki birim birey mi grup mu, (2) toplumsal değişimin hızı — Sosyal Adalet kapsamlı yapısal değişimden yana, Sosyal Düzen ise istikrar kaygısıyla tedrici değişimi tercih ediyor. Yazarın tezi: düşük doğurganlık nesnel bir sorun olsa da, **demografların suskunluğunun** bir nedeni meselenin Sosyal Adalet çerçevesinde kodlanmış olması; çünkü doğurganlığı artırmanın en bilinen yolu geleneksel cinsiyet rollerini güçlendirmekten geçiyor ve bu, kadınların özgürleşmesini merkeze alan çerçeveyle çatışıyor. Yazarın çerçevesi, doğurganlık etrafındaki **kutuplaşma**nın yalnızca siyasi kimlikten değil, ahlaki sezgilerden kaynaklandığını göstermeyi amaçlıyor. Ampirik test: Scopus API üzerinden sekiz önde gelen demografi dergisinde 1947-2025 arası 3.249 makalenin başlık+özeti DeepSeek V4 Flash ile kodlanıyor — yani LLM burada kuramı operasyonelleştirmek için değil, **ölçüm aracı** olarak kullanılıyor; bu yüzden kodlayıcı modelin sürümü, araştırma yöntemleri açısından raporlanması gereken bir parametre hâline geliyor. Sonuç: makalelerin %92'sinde açık bir ahlaki çerçeve yok; çerçeve olanların **%83'ü Sosyal Adalet, %17'si Sosyal Düzen**. Zamanla Sosyal Adalet çerçevesi belirgin biçimde artıyor: 1940-50'lerde Sosyal Düzen baskınken 1960'lardan itibaren Sosyal Adalet yükseliyor, 1980'lerde hızlanıyor, 2010'lu yıllarda zirveye çıkıyor.
 
 ## Key Points
 
@@ -58,3 +58,16 @@ Türkiye bu makalenin tam merkezinde: TÜİK verilerine göre toplam doğurganl�
 - 📊 **Bulgular**
 - 🧩 **Yöntem**
 - 🏛 **Politika Önerisi**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ahlaki-temeller-kurami.md|Ahlaki Temeller Kuramı ve Sosyal Adalet–Sosyal Düzen Çerçeveleri]] — Makalenin teorik omurgası.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]] — Doğurganlığın neden 'kamplara bölünmüş' bir mesele olduğu.
+- [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme]] — LLM'in kodlayıcı olarak kullanımı ve bunun getirdiği ölçüm/doğrulama sorunu.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Framing kodlaması, kenar kuralları ve ölçüm geçerliliği.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/john-iceland.md|John Iceland]] — Makalenin yazarı.
+- [[entities/penn-state.md|Penn State University]] — Yazarın kurumu.
+- [[entities/theory-and-society.md|Theory and Society]] — Dergi (55/90).
+- [[entities/national-institutes-of-health.md|National Institutes of Health (NIH)]] — Araştırmanın fon kaynağı.
+- [[entities/springer.md|Springer]] — Yayıncı.
