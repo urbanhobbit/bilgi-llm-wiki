@@ -37,3 +37,9 @@ TRT Haber'in aktardığına göre, İsrail ordusu Hizbullah'ın İsrail'in kuzey
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/donald-trump.md|Donald Trump]]

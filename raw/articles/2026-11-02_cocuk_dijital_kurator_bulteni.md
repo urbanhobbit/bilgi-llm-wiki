@@ -448,3 +448,30 @@ Kanıt tarafında ise haftanın en net mesajı şu: **erişim kesme ölçülebil
 ---
 
 **Bülten sonu.** Bu sayı 20 istatistik, 5 akademik kayıt (4'ü haftanın Telegram akışından, 1'i hafta içi yayımlanan tamamlayıcı kanıt), 10 haber/rapor kaydı ve 24 maddelik kaynakça içeriyor. Bir sonraki sayı: 9 Kasım 2026.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik.md|Dijital Vatandaşlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/turkiye-okul-saldirilari.md|Türkiye'de Okul Saldırıları ve Okul Güvenliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/common-sense-media.md|Common Sense Media]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/save-the-children.md|Save the Children]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-commonsensemedia-org.md|Common Sense Media]]
+- [[entities/youtube.md|YouTube]]

@@ -38,3 +38,9 @@ Trump'ın Hürmüz Boğazı ablukası duyurusu, Türkiye'nin enerji güvenliği 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/donald-trump.md|Donald Trump]]

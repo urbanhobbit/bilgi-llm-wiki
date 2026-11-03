@@ -38,3 +38,9 @@ Trump'ın İran'a yönelik ablukanın kaldırılacağı yönündeki son açıkla
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/donald-trump.md|Donald Trump]]

@@ -38,3 +38,9 @@ Almanya'nın nükleer enerji tartışması, Türkiye'nin nükleer enerji politik
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/informs.md|INFORMS]]

@@ -36,3 +36,9 @@ Bu haber, ABD-Latin Amerika ilişkilerindeki değişimlerin küresel etkilerini 
 ---
 
 ## 🔗 İlgili Bağlantılar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/donald-trump.md|Donald Trump]]

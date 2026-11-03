@@ -38,3 +38,9 @@ ABD'nin askeri yeniden konuşlandırma faaliyetleri, Türkiye'nin güvenlik poli
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/nato.md|NATO]]

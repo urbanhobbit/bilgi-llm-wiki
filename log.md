@@ -1615,3 +1615,8 @@
 - Source files: 2026-11-02_racial-descriptive-representation-2026-predictions.json, 2026-10-30_humcal-llm-sample-calibration.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-18_graph-sandwich-kim-vu-conjecture-proved-after-two-.md]] — Graph Sandwich: Kim-Vu Conjecture Proved After Two Decades
+- Source files: 2026-09-18_graph-sandwich-kim-vu-conjecture-proof.json
+- Agent: OKF Ingestion Pipeline
+

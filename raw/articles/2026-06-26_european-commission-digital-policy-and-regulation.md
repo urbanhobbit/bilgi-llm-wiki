@@ -38,3 +38,9 @@ Avrupa Komisyonu'nun dijital politika çerçevesi, Türkiye'nin AB uyum sürecin
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/european-commission.md|European Commission]]

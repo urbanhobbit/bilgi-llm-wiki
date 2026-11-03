@@ -38,3 +38,9 @@ AB'nin yapay zeka destekli şikayetlerle başa çıkma mücadelesi, Türkiye'dek
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/nato.md|NATO]]
