@@ -37,7 +37,7 @@ Yuki Atsusaka (Houston Üniversitesi, Hobby School of Public Affairs) ve Kolbe A
 - Künye: Yuki Atsusaka (Hobby School of Public Affairs, University of Houston) ve Kolbe A. Dumas (Department of Political Science, University of Houston), 'Pre-Analysis Plan: Predicting Racial Descriptive Representation in the U.S. Congress: The Case of the 2026 Midterm Elections'. İlk sürüm 27 Ekim 2026, bu sürüm 2 Kasım 2026, 16 sayfa. OSF kaydı: osf.io/zuhac. Bölge düzeyi tahminler CSV olarak açık.
 - Model: Atsusaka (2021, *American Political Science Review* 115(4): 1210-1225) 'mantıksal model' — Pr(Hedef grubun kazanması) = Φ(√(M_adj_{t-1} × C_t) − 50). C = hedef grubun 2026'daki seçmen payı (% CVAP); M_adj = 2024 ırksal zafer marjı + 50; Φ = standart normal dağılımın CDF'i. Karekök, iki uç senaryonun geometrik ortalaması fikrini taşıyor.
 - Irksal zafer marjı (M) tanımı: hedef grubun en yüksek oy alan adayı ile karşılaştırma grubunun adayı arasındaki farkın yarısı + 50. Yorumu: 'kazananın ırkını değiştirmek için farklı oy vermesi gereken seçmenlerin asgari payı'. Bu terim, bölge demografisi dışındaki tüm yerel siyasi faktörleri (aday kalitesi, seçim rekabeti, partizan eğilim) tek bir sayıya indiriyor.
-- Kuramsal uyarı (yazarların kendi itirafı): model tek üyeli, çoğunluk usulü, ön seçimsiz sistemler için geliştirildi. ABD genel seçimlerine uygulanması, aday belirleme ve partizan yapı farkları nedeniyle hatalı tahmin üretebilir. Amaçlarından biri tam da bunu ölçmek: kuram ne kadar ileri gidebilir?
+- Bu, siyaset biliminde 'mantıksal model' geleneğinin bir örneği: araştırma yöntemleri açısından veriye körlemesine dalmak yerine, önce kuram ve mantıkla kestirimde bulunmak. Kuramsal uyarı (yazarların kendi itirafı): model tek üyeli, çoğunluk usulü, ön seçimsiz sistemler için geliştirildi. ABD genel seçimlerine uygulanması, aday belirleme ve partizan yapı farkları nedeniyle hatalı tahmin üretebilir. Amaçlarından biri tam da bunu ölçmek: kuram ne kadar ileri gidebilir?
 - Veri 1 — CVAP: 2020-2024 American Community Survey seçmen çağındaki vatandaş nüfus tahminleri, 2026'da yürürlükte olan bölge sınırlarına tabüle edildi. Dört grup karşılıklı dışlayan biçimde tanımlı: Siyahi, Asyalı (Pasifik Adalıları dahil) ve Beyazlar Hispanik değil.
 - Ara dönem redistricting: Alabama, California, Florida, Louisiana, North Carolina, Ohio, Tennessee, Texas ve Utah'ta haritalar değişti. Model 'iki seçim arasında aynı bölge' varsaydığı için, 2024 ırksal marjı yeni bölgelere **nüfus oranıyla yeniden dağıtılarak** hesaplandı (eski bölgedeki adayın oyu, yeni bölgeye düşen 2020 nüfusu oranında paylaştırıldı).
 - Veri 2 — aday ırkı: 2024'te 435 bölgede 1.128 aday. Oy toplamları ve sonuçlar Temsilciler Meclisi Kâtibi'nin resmî istatistiklerinden. Irk/etnisite kodlaması çok kaynaklı: Rutgers CAWP, FiveThirtyEight aday araştırması, Meclis Tarihçisi, NALEO, akademik replikasyon arşivleri, resmî biyografiler, aday açıklamaları, haberler → 674 aday için 915 atıflı kayıt (%59,8).
@@ -64,4 +64,13 @@ Türkiye için iki düzeyde ders var. Birincisi yöntemsel: Atsusaka-Dumas, seç
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/betimleyici-temsil.md|Betimleyici Temsil ve Mantıksal Modeller]] — Kaydın teorik çekirdeği: temsil açığı ve olasılıksal tahmin.
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — Bölge yapısı, ara seçim döngüsü ve Oy Hakkı Yasası rejimi.
+- [[concepts/partizan-redistricting.md|Partizan Redistricting]] — 2026 haritaları ve marjların yeni bölgelere yeniden dağıtılması.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Ön-kayıt, açık kod ve seçim sonrası puanlama disiplini.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/yuki-atsusaka.md|Yuki Atsusaka]] — Ortak yazar, modelin geliştiricisi.
+- [[entities/kolbe-dumas.md|Kolbe A. Dumas]] — Ortak yazar.
+- [[entities/university-of-houston.md|University of Houston]] — Yazarların kurumu.
+- [[entities/american-political-science-review.md|American Political Science Review (APSR)]] — Modelin kaynak makalesinin dergisi.
+- [[entities/open-science-framework.md|Open Science Framework (OSF)]] — Ön-analiz planının kaydı.

@@ -36,7 +36,7 @@ Yan Leng, Yunxin Sang ve Ashish Agarwal (University of Texas at Austin, McCombs)
 - Problem: LLM'ler tercih ve görüş ölçmek için giderek daha fazla kullanılıyor ama çıktıları temsil ettikleri insan popülasyonundan sapabiliyor. Mevcut pratik üç sezgisel kurala dayanıyor: tek toplu prompt, birden fazla çıktının düz ortalaması, nüfus ağırlıklı poststratifikasyon veya kalibrasyon bölmesinde en iyi tek alt-grubu seçmek.
 - HuMCal'ın çözümü: farklı prompt'lar, persona'lar ve model checkpoint'lerinden gelen çıktıları birleştiren **ağırlıkları veriden öğrenmek**. Post hoc ve model-agnostik; model içine erişim (logit, ağırlık, aktivasyon) gerektirmiyor.
 - Verimlilik iddiası: her alt-grup için ayrı insan referansı gerekmiyor; yalnızca toplulaştırılmış insan referansı yeterli. Bu, pratikte kritik — çünkü dijital ikiz üretiminde en pahalı kalem alt-grup bazlı insan verisi toplamak.
-- Optimalite iddiası: kalibrasyon verisi üzerinde seçilen ağırlıklı ortalama, tam çözüldüğünde 'herhangi bir sabit ağırlıklı kuraldan zayıf biçimde daha iyi' (weakly lower calibration loss). Bu, yöntemin sezgisel kuralları kapsayan bir üst küme oluşturduğu anlamına geliyor — ama yalnızca kalibrasyon örnekleminde.
+- Araştırma yöntemleri açısından asıl katkı, kalibrasyonun bir 'hisse ayarı' değil bir optimizasyon problemi olarak kurulması. Optimalite iddiası: kalibrasyon verisi üzerinde seçilen ağırlıklı ortalama, tam çözüldüğünde 'herhangi bir sabit ağırlıklı kuraldan zayıf biçimde daha iyi' (weakly lower calibration loss). Bu, yöntemin sezgisel kuralları kapsayan bir üst küme oluşturduğu anlamına geliyor — ama yalnızca kalibrasyon örnekleminde.
 - Genellenebilirlik (yazarın tweet'indeki iddia): kalibre edilmiş ağırlıklar şehirler, zaman dönemleri, sektörler ve konu kümeleri arasında yararlı kalabiliyor. Bu, yöntemin cazibesini artıran en güçlü pratik iddia; ancak hangi koşulda bozulduğu tam metinde görülmeli.
 - Veri: tüketici işlem verisi ve kamuoyu anketleri (iki uygulama alanı). Örneklem büyüklükleri, kullanılan LLM'ler ve iyileşme yüzdeleri ⚠️ tam metin olmadan doğrulanamadı.
 - Yöntemsel konum: bu, 'silikon örneklem' (synthetic sample) literatürünün kalibrasyon ayağı. Sentetik popülasyonların dağılımsal doğruluğunu artırmayı hedefliyor; nedensel çıkarım değil, ölçüm uyumu (alignment) iddiası var.
@@ -50,3 +50,14 @@ Bu makale, Türkiye'de kamuoyu araştırması ve sosyal bilim metodolojisi açı
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]] — LLM tabanlı 'silikon örneklem'lerin dağılımsal doğruluğu sorunu.
+- [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme]] — LLM'i ölçüm aracı olarak kullanmanın getirdiği doğrulama yükü.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Ölçüm uyumu, kalibrasyon ve dışsal geçerlilik.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/yan-leng.md|Yan Leng]] — Makalenin ilk yazarı.
+- [[entities/university-of-texas-austin.md|University of Texas at Austin]] — Yazarların kurumu.
+- [[entities/marketing-science.md|Marketing Science]] — Dergi.
+- [[entities/informs.md|INFORMS]] — Yayıncı.
