@@ -513,4 +513,6 @@
 - [[raw/articles/2026-12_participant-ai-use-in-survey-research.md|Participant AI Use in Survey Research]]
 - [[raw/articles/2026-11-03_prediction-league-for-policy-relevant-rcts.md|Prediction League for Policy-Relevant RCTs]]
 - [[raw/articles/2026-10-28_can-ai-forecast-treatment-effects-in-economics.md|Can AI Forecast Treatment Effects in Economics?]]
+- [[raw/articles/2026-11_digital-twins-validated-with-37-rcts.md|Digital Twins Validated With 37 RCTs]]
+- [[raw/articles/2021-08-11_qualitative-research-in-rcts-j-pal-practical-tips.md|Qualitative Research in RCTs: J-PAL Practical Tips]]
 

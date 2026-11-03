@@ -1631,3 +1631,9 @@
 - Source files: 2026-11-03_prediction-league-and-vivalt-ai-forecasting.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11_digital-twins-validated-with-37-rcts.md]] — Digital Twins Validated With 37 RCTs
+- Raw: [[raw/articles/2021-08-11_qualitative-research-in-rcts-j-pal-practical-tips.md]] — Qualitative Research in RCTs: J-PAL Practical Tips
+- Source files: 2026-11-03_chetty-digital-twins-and-jpal-qualitative.json
+- Agent: OKF Ingestion Pipeline
+
