@@ -56,5 +56,9 @@ Bu kayıt Türkiye için hem bir fırsat hem bir uyarı. Birincisi, fırsat: yar
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]] — yarışmanın konusu: sonuçlanmamış RCT'lerin etkilerini önceden tahmin etme ve tahminleri puanlama.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — yarışma, ön-kayıt ve tahmin temelli araştırma yöntemleri için yeni bir standart ve ölçülebilir performans hedefi öneriyor.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/agency-fund.md|Agency Fund]]
+- [[entities/social-science-prediction-platform.md|Social Science Prediction Platform]] — düzenleyici ortaklardan; tahmin sorularının ve tahminci havuzunun altyapısını sağlıyor.

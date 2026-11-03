@@ -54,5 +54,9 @@ Türkiye açısından bu çalışma iki şeyi birden söylüyor. Birincisi, imk�
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]] — bu ön baskının kurduğu yöntem: ön-kayıt metninden soru çıkarma ve tedavi etkisi tahmini.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — knowledge cut-off sabitleyerek veri sızıntısını kapatma, araştırma yöntemleri için aktarılabilir bir standart.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/social-science-prediction-platform.md|Social Science Prediction Platform]] — aynı tahmin altyapısı ekosistemi; Vivalt'ın önceki çalışması bu platformun verisine dayanıyor.
