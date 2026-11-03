@@ -506,4 +506,5 @@
 - [[raw/articles/2007-06-22_critical-thinking-why-is-it-so-hard-to-teach.md|Critical Thinking: Why Is It So Hard to Teach?]]
 - [[raw/articles/2026-11-02_abd-2026-ara-se-imleri-n-haz-rl-k-dosyas.md|ABD 2026 Ara Seçimleri: Ön Hazırlık Dosyası]]
 - [[raw/articles/2026-07-27_yapay-zek-sosyolojik-kuram-operasyonelle-tirebilir.md|Yapay Zekâ Sosyolojik Kuramı Operasyonelleştirebilir mi? Collins'in Felsefe Sosyolojisi, Bibliometri ve LLM Tartışması]]
+- [[raw/articles/2026-10-23_d-k-do-urganl-k-neden-kutupla-m-bir-mesele-h-line-.md|Düşük Doğurganlık Neden Kutuplaşmış Bir Mesele Hâline Geldi?]]
 

@@ -1604,3 +1604,8 @@
 - Source files: 2026-07-27_ai-collins-sociology-of-philosophies.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-03] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_d-k-do-urganl-k-neden-kutupla-m-bir-mesele-h-line-.md]] — Düşük Doğurganlık Neden Kutuplaşmış Bir Mesele Hâline Geldi?
+- Source files: 2026-10-23_low-fertility-polarized-issue.json
+- Agent: OKF Ingestion Pipeline
+
