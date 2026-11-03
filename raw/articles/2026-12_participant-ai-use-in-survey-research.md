@@ -58,5 +58,10 @@ Bu kayıt Türkiye için doğrudan ve acil: anket verisiyle çalışan herkesin 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/katilimci-yapay-zeka-kullanimi.md|Katılımcıların Ankette Yapay Zekâ Kullanımı]] — bu vaka raporunun adlandırdığı olgu: gerçek katılımcının açık uçlu yanıtını üretken yapay zekâya yazdırması.
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]] — karşı kutup: araştırmacının yanıt üretmesi; ikisi farklı veri kalitesi sorunu ve farklı önlem gerektirir.
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zekâ Destekli Görüşmeler]] — veri toplama tarafında yapay zekâ kullanımının diğer yüzü.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — açık uçlu sorularla çalışan araştırma yöntemleri için doğrudan dışlama protokolü ve raporlama standardı uyarısı.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/sciencedirect.md|Sciencedirect]]
