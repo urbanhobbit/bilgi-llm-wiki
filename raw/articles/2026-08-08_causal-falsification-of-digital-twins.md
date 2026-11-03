@@ -45,6 +45,8 @@ arXiv:2301.07210 (v5, 8 Agustos 2026; ilk yayin 17 Ocak 2023) - Rob Cornish, Muh
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-ikizler.md|Dijital İkizler (Program Değerlendirmede)]] — bu makale, ikiz doğrulamasının kuramsal (nedensel falsifikasyon) kanadını temsil ediyor; Chetty ve ark. (2026) ampirik kanadı.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/arxiv-org.md|Arxiv Org]]
 - [[entities/arxiv-org.md|arXiv]]

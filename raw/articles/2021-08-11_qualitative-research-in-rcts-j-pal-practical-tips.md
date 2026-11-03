@@ -50,5 +50,8 @@ Türkiye'de saha araştırmalarının en zayıf halkası tam olarak bu yazının
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]] — yazının önerdiği nitel yöntemler (gözlem, görüşme, odak grubu) tam olarak mekanizma ve bağlam sorusunu cevaplamak için.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — nitel araştırmayı öneriye, bütçeye ve ekibe yerleştirme konusunda araştırma yöntemleri düzeyinde pratik kurallar.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/j-pal.md|J Pal]]

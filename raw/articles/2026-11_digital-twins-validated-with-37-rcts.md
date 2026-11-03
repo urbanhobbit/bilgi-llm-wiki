@@ -55,5 +55,9 @@ Türkiye için bu makale hem bir yöntem transferi hem bir uyarı. Birincisi, al
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dijital-ikizler.md|Dijital İkizler (Program Değerlendirmede)]] — bu çalışma, ikiz yaklaşımının RCT tabanlı (ampirik) doğrulama kanadını temsil ediyor.
+- [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]] — counterfactual tahmini ve tahmin doğruluğunun puanlanması; dijital ikiz, tahminin program değerlendirmesine uygulanmış biçimi.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — idari veri + DML temelli araştırma yöntemleri için ölçeklenebilir bir değerlendirme şablonu.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/opportunity-insights.md|Opportunity Insights]]
