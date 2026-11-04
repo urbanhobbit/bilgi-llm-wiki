@@ -524,4 +524,5 @@
 - [[raw/articles/2026-11-04_elections-archive-ballot-box-level-election-result.md|Elections Archive: ballot-box level election results with a keyless agent API]]
 - [[raw/articles/2026-11-03_gelman-analysis-of-tonight-s-election-results-and-.md|Gelman: Analysis of tonight's election results (and why I don't need to do it anymore)]]
 - [[raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md|Tom Wood: Income barely sorts the vote, education does the work]]
+- [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md|G. Elliott Morris: preliminary Senate polling error chart]]
 

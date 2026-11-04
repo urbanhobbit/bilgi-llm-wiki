@@ -1662,3 +1662,8 @@
 - Source files: 2026-11-04_tom-wood-income-barely-sorts-the-vote.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md]] — G. Elliott Morris: preliminary Senate polling error chart
+- Source files: 2026-11-04_morris-preliminary-senate-polling-error-chart.json
+- Agent: OKF Ingestion Pipeline
+
