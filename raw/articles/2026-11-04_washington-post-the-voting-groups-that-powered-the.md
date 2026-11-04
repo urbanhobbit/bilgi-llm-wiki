@@ -65,6 +65,16 @@ Türkiye açısından en aktarılabilir ders **"seviye ≠ kayma"** ayrımı. T�
 
 Üçüncüsü Hispanik seçmen: 2024'te sağa kayan grubun 2026'da sert biçimde geri dönmesi, "kalıcı realignment" tezlerine karşı güçlü bir kanıt. Türkiye'de de benzer bir yanılgı var — bir seçimdeki kaymanın kalıcılaştığı varsayılıyor (ör. 2023 sonrası "muhalefet Kürt seçmeni kalıcı kaybetti" okuması). Tek dönemlik kayma, realignment kanıtı değildir.
 
+## Değerlendirme (araştırma yöntemleri açısından)
+
+WaPo'nun analizi, seçim gecesi veri gazeteciliğinde iki nadir iyi pratiği bir araya getiriyor: (1) baseline'ın açıkça yazılması — 2024 **başkanlık** seçimi, Dave Leip's Atlas — ve (2) toplulaştırılmış nüfus verisinin birey tercihi sayılamayacağının künyede ilan edilmesi. Seçim analizinde en sık yapılan hata, marj hareketini tercih değişimi sanmaktır; burada kayma = kompozisyon etkisi + tercih değişimi olarak ayrıştırılmaya çalışılıyor, ama tam olarak ayrıştırılamıyor: ara seçim ile başkanlık seçimi arasındaki katılım farkı hâlâ karıştırıcı değişken.
+
+İki sınırlılık: (1) Meclis analizi yalnızca beklenen oyun %90'ından fazlası sayılan bölgeleri kapsıyor, yani Batı (CA, OR, CO) eksik temsil ediliyor; erken sayım dinamikleri ilçe tipolojisine göre farklı işlediği için bu bir seçim yanlılığı yaratabilir. (2) Kırsalın "en hızlı kayan" grup çıkması, kutuplaşma literatüründeki "kır-şehir ayrışması" teziyle gerilim içinde: ayrışma seviyede sürüyor ama hareket aynı yönde. Bu, kutuplaşmayı "iki blok birbirinden uzaklaşıyor" diye okuyan modellerin neden yetersiz kaldığını gösteriyor — bloklar uzaklaşırken taban aynı yöne kayabiliyor.
+
+Yöntem açısından asıl katkı, çıkış anketinin yapamadığını yapması: çıkış anketi seviye ölçer, kayma ölçemez. İlçe düzeyi sonuç + demografik tipoloji birleşimi, "kim kazandı" sorusunu "kim hareket etti" sorusuna çeviriyor. Araştırma yöntemleri açısından Türkiye'deki seçim analizlerinin eksik katmanı tam olarak bu.
+
+---
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
@@ -73,4 +83,14 @@ Türkiye açısından en aktarılabilir ders **"seviye ≠ kayma"** ayrımı. T�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/diploma-divide.md|Diploma Divide (Eğitim Makası)]] — eyalet içi kaymaların en tutarlı ekseni eğitim
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — Senato sandalye aritmetiği ve eyalet düzeyi rekabet
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — Hispanik ve genç seçmenin 2024'teki kaymasının geri dönmesi
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]] — seviye ile hareketin ayrışması, kutuplaşma tezini nüanslandırıyor
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — baseline seçimi, ekolojik çıkarım ve kayma ölçümü
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/washington-post.md|The Washington Post]]
+- [[entities/ence-morse.md|Ence Morse]]
+- [[entities/electionsarchive.md|Elections Archive]] — marjların bağımsız teyidi
+- [[entities/abd-senatosu.md|ABD Senatosu]]
+- [[entities/donald-trump.md|Donald Trump]]
