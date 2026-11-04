@@ -523,4 +523,5 @@
 - [[raw/articles/2026-11-04_nbc-news-2026-exit-polls-complete-voter-group-and-.md|NBC News 2026 Exit Polls: Complete Voter Group and Issue Breakdown]]
 - [[raw/articles/2026-11-04_elections-archive-ballot-box-level-election-result.md|Elections Archive: ballot-box level election results with a keyless agent API]]
 - [[raw/articles/2026-11-03_gelman-analysis-of-tonight-s-election-results-and-.md|Gelman: Analysis of tonight's election results (and why I don't need to do it anymore)]]
+- [[raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md|Tom Wood: Income barely sorts the vote, education does the work]]
 

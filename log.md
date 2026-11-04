@@ -1657,3 +1657,8 @@
 - Source files: 2026-11-03_gelman-election-results-analysis-no-longer-needed.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md]] — Tom Wood: Income barely sorts the vote, education does the work
+- Source files: 2026-11-04_tom-wood-income-barely-sorts-the-vote.json
+- Agent: OKF Ingestion Pipeline
+
