@@ -1672,3 +1672,8 @@
 - Source files: 2026-11-04_morris-turnout-reports-independents.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_washington-post-the-voting-groups-that-powered-the.md]] — Washington Post: The voting groups that powered the Democratic sweep
+- Source files: 2026-11-04_wapo-voting-groups-democratic-sweep.json
+- Agent: OKF Ingestion Pipeline
+
