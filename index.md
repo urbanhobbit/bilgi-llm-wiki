@@ -515,4 +515,10 @@
 - [[raw/articles/2026-10-28_can-ai-forecast-treatment-effects-in-economics.md|Can AI Forecast Treatment Effects in Economics?]]
 - [[raw/articles/2026-11_digital-twins-validated-with-37-rcts.md|Digital Twins Validated With 37 RCTs]]
 - [[raw/articles/2021-08-11_qualitative-research-in-rcts-j-pal-practical-tips.md|Qualitative Research in RCTs: J-PAL Practical Tips]]
+- [[raw/articles/2026-12_and-now-what-an-experiential-case-report-of-partic.md|And now what? An experiential case report of participant AI use in survey research]]
+- [[raw/articles/2026-11-03_prediction-league-can-the-results-of-policy-releva.md|Prediction League — Can the results of policy-relevant experiments be predicted?]]
+- [[raw/articles/2026-10-28_can-artificial-intelligence-forecast-treatment-eff.md|Can Artificial Intelligence Forecast Treatment Effects in Economics?]]
+- [[raw/articles/2026-11_experimentally-validated-digital-twins-evaluating-.md|Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data]]
+- [[raw/articles/2021-08-11_strengthening-randomized-evaluations-through-incor.md|Strengthening randomized evaluations through incorporating qualitative research, Part 1]]
+- [[raw/articles/2026-11-04_nbc-news-2026-exit-polls-complete-voter-group-and-.md|NBC News 2026 Exit Polls: Complete Voter Group and Issue Breakdown]]
 

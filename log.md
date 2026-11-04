@@ -1637,3 +1637,13 @@
 - Source files: 2026-11-03_chetty-digital-twins-and-jpal-qualitative.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-12_and-now-what-an-experiential-case-report-of-partic.md]] — And now what? An experiential case report of participant AI use in survey research
+- Raw: [[raw/articles/2026-11-03_prediction-league-can-the-results-of-policy-releva.md]] — Prediction League — Can the results of policy-relevant experiments be predicted?
+- Raw: [[raw/articles/2026-10-28_can-artificial-intelligence-forecast-treatment-eff.md]] — Can Artificial Intelligence Forecast Treatment Effects in Economics?
+- Raw: [[raw/articles/2026-11_experimentally-validated-digital-twins-evaluating-.md]] — Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data
+- Raw: [[raw/articles/2021-08-11_strengthening-randomized-evaluations-through-incor.md]] — Strengthening randomized evaluations through incorporating qualitative research, Part 1
+- Raw: [[raw/articles/2026-11-04_nbc-news-2026-exit-polls-complete-voter-group-and-.md]] — NBC News 2026 Exit Polls: Complete Voter Group and Issue Breakdown
+- Source files: 2026-11-04_000258.json, 2026-11-04_nbc-2026-exit-polls-complete-breakdown.json
+- Agent: OKF Ingestion Pipeline
+
