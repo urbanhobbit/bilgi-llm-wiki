@@ -1652,3 +1652,8 @@
 - Source files: 2026-11-04_elections-archive-ballot-box-api.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_gelman-analysis-of-tonight-s-election-results-and-.md]] — Gelman: Analysis of tonight's election results (and why I don't need to do it anymore)
+- Source files: 2026-11-03_gelman-election-results-analysis-no-longer-needed.json
+- Agent: OKF Ingestion Pipeline
+
