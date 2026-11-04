@@ -525,4 +525,5 @@
 - [[raw/articles/2026-11-03_gelman-analysis-of-tonight-s-election-results-and-.md|Gelman: Analysis of tonight's election results (and why I don't need to do it anymore)]]
 - [[raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md|Tom Wood: Income barely sorts the vote, education does the work]]
 - [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md|G. Elliott Morris: preliminary Senate polling error chart]]
+- [[raw/articles/2026-11-03_g-elliott-morris-don-t-over-read-turnout-reports-i.md|G. Elliott Morris: don't over-read turnout reports, independents decide close races]]
 

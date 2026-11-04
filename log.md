@@ -1667,3 +1667,8 @@
 - Source files: 2026-11-04_morris-preliminary-senate-polling-error-chart.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_g-elliott-morris-don-t-over-read-turnout-reports-i.md]] — G. Elliott Morris: don't over-read turnout reports, independents decide close races
+- Source files: 2026-11-04_morris-turnout-reports-independents.json
+- Agent: OKF Ingestion Pipeline
+
