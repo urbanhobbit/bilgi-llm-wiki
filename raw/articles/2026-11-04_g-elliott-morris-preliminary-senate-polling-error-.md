@@ -52,3 +52,17 @@ Türkiye'de seçim anketi tartışması neredeyse tamamen 'yanlı mı, değil mi
 ## 🏷 Retorik Roller
 
 - ⚠️ **Sınırlılıklar**
+
+## Değerlendirme (araştırma yöntemleri açısından)
+
+- **Araştırma yöntemleri** açısından doğru soru "anket yanlı mı" değil, "hatanın işaret dağılımı ne". Morris'in grafiği tam bunu öneriyor: 30+ yarışta gerçek sonuç eksi anket ortalaması.
+- Elimizdeki 2 Ekim baseline ile kısmi kontrol (NC +10,2 / TX +7,2 / KS +7,2 / IA +3,3 Demokrat lehine; OH -1,2 aleyhine) beş yarışla sınırlı ve nihai ortalama değil — kanıt değil, işaret.
+- "Unskewing" eleştirisi metodolojik olarak doğru: tek bir yarışın sapması örneklem hatasıyla karışır; iddia ancak dağılım düzeyinde test edilir.
+- Veri erişimi sınırı kayda geçti: Substack e-posta duvarı grafiği vermedi, bu yüzden iddia dışarıdan doğrulanmadı.
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/statmodeling-stat-columbia-edu.md|Statistical Modeling, Causal Inference, and Social Science (Gelman blogu)]]

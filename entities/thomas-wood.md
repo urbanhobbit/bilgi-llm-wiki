@@ -14,7 +14,7 @@ timestamp: '2026-11-04T04:52:00Z'
 created: '2026-11-04'
 updated: '2026-11-04'
 sources:
-- raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-does-th.md
+- raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md
 ---
 
 # Thomas J. Wood

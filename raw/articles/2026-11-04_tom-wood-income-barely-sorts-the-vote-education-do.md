@@ -4,7 +4,7 @@ title: 'Tom Wood: Income barely sorts the vote, education does the work'
 description: 'Tom Wood''un seçim gecesi paylaştığı grafik, 1998-2026 arası **ara seçimlerde
   grup bazında Temsilciler Meclisi oy marjını** gösteriyor (kaynak: Roper Center,
   AP VoteCast, SSRS/The Vote Poll). Grafikte ...'
-resource: https://x.com/thomasjwood/status/2117816442456588506/photo/1
+resource: https://x.com/thomasjwood/status/2117816442456588506
 tags:
 - kurator
 - high
@@ -23,7 +23,7 @@ published: '2026-11-04'
 
 **Published:** 2026-11-04
 
-**Source:** [https://x.com/thomasjwood/status/2117816442456588506/photo/1](https://x.com/thomasjwood/status/2117816442456588506/photo/1)
+**Source:** [https://x.com/thomasjwood/status/2117816442456588506](https://x.com/thomasjwood/status/2117816442456588506)
 
 ## Summary
 
@@ -59,5 +59,9 @@ Yöntem dersi: Türkiye'de seçim gecesi analizlerinde grup bazlı marj tablosu 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/diploma-divide.md|Diploma Divide (Eğitim Makası)]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/x-com.md|X Com]]
+- [[entities/thomas-wood.md|Thomas J. Wood]]
