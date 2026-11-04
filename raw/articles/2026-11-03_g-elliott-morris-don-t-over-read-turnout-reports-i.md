@@ -55,3 +55,18 @@ Türkiye'de seçim günü 'sandık açılma saatlerine göre oy dağılımı' yo
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+## Değerlendirme (araştırma yöntemleri açısından)
+
+- Katılım raporundan oy tahmini üretmek bir **araştırma yöntemleri** hatası: seçmen kompozisyonu (kim sandığa gitti) ile oy tercihi (nasıl oy verdi) ayrı büyüklükler; ilki ikincisini belirlemez.
+- Bu geceki veriyle kısmi doğrulama: saf bağımsızlar seçmenin %33'ü ve %57–39 D'ye kırıldı (D+18) — yakın yarışlarda belirleyici olan tam bu kırılma.
+- Kompozisyon etkisi de var ama küçük: eğilimliler dahil D %48 / R %44; ilk kez ara seçimde oy verenler %9 (D %64).
+- Metodolojik sonuç: tek bir gösterge (turnout farkı) yerine **kompozisyon × bağımsız kırılması** birlikte okunmalı; aksi halde yanıltıcı analiz kaçınılmaz.
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/g-elliott-morris.md|G. Elliott Morris]]

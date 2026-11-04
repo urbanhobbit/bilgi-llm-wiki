@@ -65,4 +65,5 @@ Türkiye'de seçim anketi tartışması neredeyse tamamen 'yanlı mı, değil mi
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 - [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
 ### 🏛 İlgili Kurum/Kişiler
+- [[entities/g-elliott-morris.md|G. Elliott Morris]]
 - [[entities/statmodeling-stat-columbia-edu.md|Statistical Modeling, Causal Inference, and Social Science (Gelman blogu)]]

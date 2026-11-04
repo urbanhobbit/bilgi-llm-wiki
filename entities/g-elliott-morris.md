@@ -15,7 +15,7 @@ created: '2026-11-04'
 updated: '2026-11-04'
 sources:
 - raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md
-- raw/articles/2026-11-04_g-elliott-morris-dont-over-read-turnout-reports-indepe.md
+- raw/articles/2026-11-03_g-elliott-morris-don-t-over-read-turnout-reports-i.md
 ---
 
 # G. Elliott Morris
@@ -29,7 +29,7 @@ Gelman'ın 2026 seçim gecesi yazısında, medyanın analitik kapasitesinin akad
 ## Bu Wiki'de
 
 - **2026-11-04 — ön anket hatası grafiği:** Senato yarışlarında gerçek sonuç ile anket ortalamasını karşılaştıran grafik; "hata tek yöne gitmez" tezi. İçerik Substack e-posta duvarı arkasında kaldığı için bağımsız doğrulanamadı → [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md|kayıt]].
-- **2026-11-04 — turnout uyarısı:** seçim günü katılım raporlarındaki ~10 puanlık Demokrat canlılık avantajının oy tahminine çevrilmemesi gerektiği; yakın yarışları bağımsızların kırılması belirler → [[raw/articles/2026-11-04_g-elliott-morris-dont-over-read-turnout-reports-indepe.md|kayıt]].
+- **2026-11-04 — turnout uyarısı:** seçim günü katılım raporlarındaki ~10 puanlık Demokrat canlılık avantajının oy tahminine çevrilmemesi gerektiği; yakın yarışları bağımsızların kırılması belirler → [[raw/articles/2026-11-03_g-elliott-morris-don-t-over-read-turnout-reports-i.md|kayıt]].
 
 ## İlgili
 
