@@ -48,6 +48,15 @@ Pippa Norris'in 4 Kasım 2026 03:50 UTC'de paylaştığı NBC News ulusal çık�
 
 Türkiye araştırmaları açısından üç aktarılabilir bulgu: (1) **Gündem sahiplenmesi kimlikten bağımsız çalışmıyor** — 'demokrasinin durumu'nu en önemli sorun sayanların %78'inin D'ye oy vermesi, Türkiye'de 'rejim/hukuk devleti' ekseninin partizan kimlikle neredeyse örtüşmesine benzer bir yapı; bu, gündem anketlerini kutuplaşma ölçümü için doğrudan kullanmanın riskini gösteriyor. (2) **Yapay zekâ henüz partizan sahiplenme kazanmadı** (%43 'hiçbiri', D 29 / R 27): Türkiye'de AI yönetişimi tartışması partizan bloklara kilitlenmeden önce kamuoyu verisi toplamak için dar ama gerçek bir pencere var; Türkiye'de bu sorunun sorulduğu yapılandırılmış bir anket bilgimiz yok. (3) **Geçim maliyeti ile demokrasi gündeminin aynı seçmende yan yana durması** (%89 geçim + %32 demokrasi) — ekonomik hoşnutsuzluğun otoriterleşme tartışmasını massetmediği bir kombinasyon; Türkiye'deki ekonomik oy verme literatürüyle karşılaştırmalı okunabilir. Sınır: bu bir ABD ulusal çıkış anketidir, Türkiye'ye dair doğrudan çıkarım değil; yalnızca mekanizma düzeyinde karşılaştırma.
 
+## Değerlendirme (kutuplaşma literatürü açısından)
+
+- **Cinsiyet kutuplaşması** bu seçimde en geniş halinde: erkekler 49-49, kadınlar 58-40; beyaz üniversite mezunu kadınlar %63 D, üniversite mezunu olmayan beyaz erkekler %64 R. Eğitim × cinsiyet × ırk kesişimi, tek başına "kadın-erkek farkı" demenin ölçüm hatası olduğunu gösteriyor.
+- Seçmenin %32'sinin en önemli sorun olarak "demokrasinin durumu"nu sayması ve bu kesimin %78'inin D'ye oy vermesi, **demokratik erozyon** gündeminin marjinal bir elit teması olmadığını; ancak partizan kimlikle neredeyse tam örtüştüğünü gösteriyor.
+- "Hangi parti yapay zekâyı daha iyi yönetir" sorusunda %43 "hiçbiri" (D 29 / R 27): **yapay zeka demokrasi** ekseninde henüz kurumsal/partizan bir sahiplenme yok; AI, seçmen nezdinde sahipsiz bir serbest değişken.
+- Trump onayının %62 onaylamama olarak kristalleşmesi (katı onaylamama %53), **negatif partizanlık** literatüründeki "karşı tarafa duyulan itirazın oy verme motivasyonu olması" mekanizmasını destekliyor.
+- Seçim günü / erken oy ve "ilk kez ara seçimde oy verenler" blokları, **siyasal katılım** farklarını (kim, ne zaman, hangi kanaldan oy veriyor) okumak için hazır kırılımlar sunuyor.
+- Kurumsal bağlam: Temsilciler Meclisi oyu üzerinden okunan bu veri, **ABD seçim sistemi**nin (ara seçim takvimi, iki yıllık döngü, eyalet bazlı yönetim) doğrudan sonucu; Ağızdan çıkış anketlerinin "hatırlanan 2024 oyu" (Harris %48 / Trump %45) ise **partizan kimlik** ile oy tercihinin ne kadar iç içe geçtiğini gösteriyor.
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
@@ -57,3 +66,12 @@ Türkiye araştırmaları açısından üç aktarılabilir bulgu: (1) **Gündem 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/cinsiyet-kutuplasmasi.md|Cinsiyet Kutuplaşması]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zekâ ve Demokrasi]]
+- [[concepts/negative-partisanship.md|Negatif Partizanlık]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/pippa-norris.md|Pippa Norris]]
