@@ -1647,3 +1647,8 @@
 - Source files: 2026-11-04_000258.json, 2026-11-04_nbc-2026-exit-polls-complete-breakdown.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-04] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_elections-archive-ballot-box-level-election-result.md]] — Elections Archive: ballot-box level election results with a keyless agent API
+- Source files: 2026-11-04_elections-archive-ballot-box-api.json
+- Agent: OKF Ingestion Pipeline
+

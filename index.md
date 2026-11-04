@@ -521,4 +521,5 @@
 - [[raw/articles/2026-11_experimentally-validated-digital-twins-evaluating-.md|Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data]]
 - [[raw/articles/2021-08-11_strengthening-randomized-evaluations-through-incor.md|Strengthening randomized evaluations through incorporating qualitative research, Part 1]]
 - [[raw/articles/2026-11-04_nbc-news-2026-exit-polls-complete-voter-group-and-.md|NBC News 2026 Exit Polls: Complete Voter Group and Issue Breakdown]]
+- [[raw/articles/2026-11-04_elections-archive-ballot-box-level-election-result.md|Elections Archive: ballot-box level election results with a keyless agent API]]
 
