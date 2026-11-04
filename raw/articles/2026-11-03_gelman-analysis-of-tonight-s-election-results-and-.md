@@ -46,6 +46,13 @@ Andrew Gelman, 2026 ara seçimlerinin gecesi yazdığı kısa yazıda **kendi po
 
 Türkiye'de seçim gecesi analizi hâlâ büyük ölçüde **ham sandık toplamı + yorum** düzeyinde: salınım hesabı, önceki seçimle sandık bazlı karşılaştırma ve belirsizlik gösterimi (MRP benzeri modelleme) yaygın değil. Gelman'ın tezi Türkiye için tersinden okunabilir: medya kurumsal olarak bu kapasiteyi kurmadığı sürece boşluğu akademi ya da bağımsız analistler doldurmak zorunda. İkinci aktarım: 'trickle-down polarization' (seçkin kutuplaşmasının seçmen tabanına sızması) Türkiye'de parti elitleri ile seçmen tabanı arasındaki mesafeyi ölçmek için verimli bir çerçeve — özellikle seçim gecesi analizlerinde 'seçmen neye göre oy verdi' sorusu yerine 'elitler hangi gündemi kurdu' sorusunu öne çıkarıyor. Üçüncü: çıkış anketlerinin postayla oyda zayıflaması Türkiye'de doğrudan geçerli değil (sandıkta oy), ama yurt dışı seçmen ve kısmi sayım dinamikleri benzer bir 'exit poll'a güvenme' problemini doğuruyor.
 
+## Değerlendirme (araştırma yöntemleri açısından)
+
+- Metin bir **araştırma yöntemleri** tartışması: analiz kapasitesinin haber odalarına kayması, akademinin iş bölümünü yeniden tanımlaması. Gelman'ın ölçütü "salınımı hesaplayabilmek" değil, belirsizliği modelleyebilmek (MRP/MRPW) — akademinin elinde kalan avantaj bu.
+- İddia niteliksel: "medya daha iyi yapıyor" tezi ölçülmüyor, örneklenmiyor. Karşılaştırma kriteri (hata payı, kalibrasyon, kapsam) verilmediği için bu bir gözlem, bulgu değil.
+- **Trickle-down polarization** kavramı, seçim gecesi analizlerinde "seçmen neye göre oy verdi" sorusunu "elitler hangi gündemi kurdu" sorusuyla değiştirmeyi öneriyor; kutuplaşma literatüründe seçkin-kitle ayrımını ölçülebilir hale getirmek için kullanışlı bir çerçeve.
+- Çıkış anketlerinin postayla oy nedeniyle zayıflaması, seçim gecesi anlatısının merkezini **sonuç verisine** kaydırıyor — aynı gece paylaşılan Elections Archive gibi sandık düzeyi arşivler bu kaymanın altyapısı.
+
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
@@ -55,5 +62,8 @@ Türkiye'de seçim gecesi analizi hâlâ büyük ölçüde **ham sandık toplam�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/statmodeling-stat-columbia-edu.md|Statmodeling Stat Columbia Edu]]
+- [[entities/statmodeling-stat-columbia-edu.md|Statistical Modeling, Causal Inference, and Social Science (Gelman blogu)]]
+- [[entities/electionsarchive.md|Elections Archive]]
