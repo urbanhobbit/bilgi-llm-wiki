@@ -50,3 +50,18 @@ Türkiye ayağı, ABD seçimi ayağından daha değerli olabilir: arşiv **sand�
 ## 🏷 Retorik Roller
 
 - 🧩 **Yöntem**
+
+## Değerlendirme (araştırma yöntemleri açısından)
+
+- **Araştırma yöntemleri** düzeyinde asıl katkı, sayım birimi çözünürlüğü: sandık/county düzeyi veri, ekolojik çıkarım ve mekânsal heterojenlik analizlerini ayrı veri temizliği olmadan mümkün kılıyor.
+- `?vs=previous` parametresi, "neyin değiştiği" sorusunu tek çağrıda yanıtlıyor — seçim sonuçlarını zaman içinde karşılaştıran çalışmalarda veri toplama maliyetini düşürüyor.
+- Kontrol olasılığı ve beklenen sandalye alanları, seçim gecesi belirsizliğini ikili "kazandı/kaybetti" yerine olasılık olarak raporlamayı sağlıyor; ama bu bir model çıktısı, resmi sonuç değil.
+- Lisans disiplini: CC BY 4.0 atıf zorunluluğu, kurumsal kullanımda kaynak gösterme yükümlülüğü doğuruyor.
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
+- [[concepts/partizan-redistricting.md|Partizan Redistricting]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/electionsarchive.md|Elections Archive]]
