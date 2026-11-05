@@ -80,5 +80,7 @@ Türkiye'de ABD siyaseti üzerine yazarken bu yazının değeri, **sonuçtan ço
 ### 🧠 İlgili Kavramlar
 - [[concepts/negative-partisanship.md|Negatif Partizanlik]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — yazının varsaydığı 2026 Kongre çoğunluğu ve seçim takvimi bu kavram sayfasında.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/statmodeling-stat-columbia-edu.md|Statmodeling Stat Columbia Edu]]
+- [[entities/andrew-gelman.md|Andrew Gelman]] — yazının yazarı (Columbia; blog yürütücüsü).
