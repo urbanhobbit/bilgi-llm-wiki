@@ -1689,3 +1689,8 @@
 - Source files: 2026-10-28_reddit-polarization-echo-chambers-epjds.json, 2026-11-04_cei-from-voice-to-influence-childrens-participation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_responsible-ai-in-quantitative-social-research-pku.md]] — Responsible AI in Quantitative Social Research: PKU Lecture Slides and Tutorials (Rongxin Ouyang, 2026)
+- Source files: 2026-11-05_ouyang-responsible-ai-quant-social-research.json
+- Agent: OKF Ingestion Pipeline
+

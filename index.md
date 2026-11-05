@@ -531,4 +531,5 @@
 - [[raw/articles/2026-10-31_designing-behavioral-profiles-for-language-model-s.md|Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior (Na, Zhu, Cross & Bakker, arXiv 2611.00661)]]
 - [[raw/articles/2026-10-12_polarization-and-echo-chambers-in-reddit-s-politic.md|Polarization and echo chambers in Reddit's political discourse (Cirulli et al., EPJ Data Science)]]
 - [[raw/articles/2026-11-04_from-voice-to-influence-how-children-s-participati.md|From Voice to Influence: How Children's Participation Can Help Shape the Future (Sukran Ucus, CE International)]]
+- [[raw/articles/2026-11-05_responsible-ai-in-quantitative-social-research-pku.md|Responsible AI in Quantitative Social Research: PKU Lecture Slides and Tutorials (Rongxin Ouyang, 2026)]]
 
