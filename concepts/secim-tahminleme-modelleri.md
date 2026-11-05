@@ -13,7 +13,7 @@ timestamp: '2026-11-05T00:00:00Z'
 created: 2026-11-05
 updated: 2026-11-05
 sources:
-- raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-special-is.md
+- raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md
 confidence: medium
 ---
 
@@ -44,6 +44,6 @@ Bu üçünü ayırmadan "model yanıldı" demek, bir sonraki seçim için hiçbi
 
 ## Bağlantılı
 
-- [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-special-is.md|Forecasting the 2026 US Midterm Elections — PS özel sayısı]]
+- [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md|Forecasting the 2026 US Midterm Elections — PS özel sayısı]]
 - [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları]]

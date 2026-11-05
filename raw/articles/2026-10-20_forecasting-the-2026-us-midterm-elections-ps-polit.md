@@ -78,4 +78,10 @@ Türkiye'de ABD ara seçimlerini yazarken bu özel sayı iki şeyi veriyor: **ta
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/secim-tahminleme-modelleri.md|Seçim Tahminleme Modelleri]] — özel sayının yöntem yelpazesi (fundamentals, anket, bahis piyasası, AI persona) ve 2026'daki isabet/ıskaların karşılaştırması bu sayfada.
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — 435 Meclis + 35 Senato koltuğu, ara seçim takvimi ve redistricting bağlamı.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/apsa.md|APSA (American Political Science Association)]] — özel sayıyı duyuran dernek.
+- [[entities/ps-political-science-politics.md|PS: Political Science & Politics]] — özel sayının yayımlandığı dergi.
+- [[entities/cambridge-university-press.md|Cambridge University Press]] — derginin yayıncısı.

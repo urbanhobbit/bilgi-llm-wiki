@@ -9,7 +9,7 @@ tags:
   - abd
   - yayin
 sources:
-  - raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-special-is.md
+  - raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md
 ---
 
 # APSA (American Political Science Association)
@@ -19,5 +19,5 @@ Amerikan Siyaset Bilimi Derneği; *APSR*, *Perspectives on Politics*, *PS: Polit
 **Bu vault'ta rolü:** siyaset bilimi literatürünün küratör kanalı — ama içerik **derneğin kendi tanıtımı**; makale metni değil özet/duyuru. Kaynak olarak kullanılırken asıl DOI'ye gidilmeli.
 
 **Bağlantılı çalışmalar:**
-- [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-special-is.md|Forecasting the 2026 US Midterm Elections — PS özel sayısı]]
+- [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md|Forecasting the 2026 US Midterm Elections — PS özel sayısı]]
 - [[entities/ps-political-science-politics.md|PS: Political Science & Politics]]
