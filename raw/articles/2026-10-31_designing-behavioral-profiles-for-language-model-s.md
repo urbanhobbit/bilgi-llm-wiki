@@ -81,6 +81,13 @@ Türkiye'deki araştırma pratiği açısından iki doğrudan sonuç var.
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]] — LLM tabanlı insan simülasyonunun profil katmanı
+- [[concepts/kuram-operasyonellestirme-llm.md|Kuram Operasyonelleştirme (LLM)]] — literatürden özellik seti çıkarıp kod kitabına çevirme
+- [[concepts/dijital-ikizler.md|Dijital İkizler]] — kişi yerine davranış özelliği temsili
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — dağılımsal ölçüm: 1-boyutlu Wasserstein mesafesi ve normalize uyum skoru
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — ileri özellik seçimi ve dağılım-dışı genelleme, araştırma yöntemleri açısından
+- [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]] — simülasyonun insan sonucunu tahmin gücü
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/robin-na.md|Robin Na]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/google-deepmind.md|Google DeepMind]]

@@ -78,6 +78,18 @@ Türkiye için en önemli aktarım, **"tek seçimlik kayma realignment değildir
 
 Üçüncü aktarım **anket hatası**: Morris'in vurgusu, hatanın yönünün tahmin edilemezliği. Türkiye'de seçim öncesi "anketler şu yönde yanılır" iddiaları yaygın; ABD verisi bunun ampirik temeli olmadığını gösteriyor. Yöntem dersi: anket ortalamasını sistematik yanlılık varsayımıyla düzeltmek yerine belirsizlik aralığı olarak okumak.
 
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — 2024'te kalıcı sanılan kaymanın 2026'da geri dönmesi
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — Meclis toplam oy marjı ve sandalye projeksiyonu
+- [[concepts/diploma-divide.md|Diploma Divide (Eğitim Makası)]] — gelir ekseni nötrleşirken eğitim ekseninin kalması
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]] — kutuplaşma seviyesi ile seçmen hareketinin ayrışması
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — anket hatasının yönü tahmin edilemez; araştırma yöntemleri dersi
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/g-elliott-morris.md|G. Elliott Morris]]
+- [[entities/abd-senatosu.md|ABD Senatosu]]
+- [[entities/donald-trump.md|Donald Trump]]
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
