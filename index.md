@@ -527,4 +527,6 @@
 - [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md|G. Elliott Morris: preliminary Senate polling error chart]]
 - [[raw/articles/2026-11-03_g-elliott-morris-don-t-over-read-turnout-reports-i.md|G. Elliott Morris: don't over-read turnout reports, independents decide close races]]
 - [[raw/articles/2026-11-04_washington-post-the-voting-groups-that-powered-the.md|Washington Post: The voting groups that powered the Democratic sweep]]
+- [[raw/articles/2026-11-04_g-elliott-morris-how-the-gop-lost-trump-s-2024-swi.md|G. Elliott Morris: How the GOP lost Trump's 2024 swing voters (MS NOW)]]
+- [[raw/articles/2026-10-31_designing-behavioral-profiles-for-language-model-s.md|Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior (Na, Zhu, Cross & Bakker, arXiv 2611.00661)]]
 

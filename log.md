@@ -1677,3 +1677,9 @@
 - Source files: 2026-11-04_wapo-voting-groups-democratic-sweep.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_g-elliott-morris-how-the-gop-lost-trump-s-2024-swi.md]] — G. Elliott Morris: How the GOP lost Trump's 2024 swing voters (MS NOW)
+- Raw: [[raw/articles/2026-10-31_designing-behavioral-profiles-for-language-model-s.md]] — Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior (Na, Zhu, Cross & Bakker, arXiv 2611.00661)
+- Source files: 2026-11-04_na-behavioral-profiles-llm-simulation.json, 2026-11-04_morris-msnow-how-gop-lost-trump-swing-voters.json
+- Agent: OKF Ingestion Pipeline
+
