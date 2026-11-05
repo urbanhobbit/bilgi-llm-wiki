@@ -8,7 +8,7 @@ tags:
   - niteliksel-yontem
   - acik-erisim
 sources:
-  - raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elite-e.md
+  - raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md
 ---
 
 # International Journal of Qualitative Methods (IJQM)
@@ -18,4 +18,4 @@ Uluslararası Niteliksel Yöntem Enstitüsü'nün (IIQM, Alberta) açık erişim
 **Bu vault'ta rolü:** niteliksel yöntem iddialarının (erişim, rapport, etik, kodlama) birincil kaynağı. SAGE platformunda barındığı için doğrudan erişim Cloudflare ile tıkanabiliyor; OA olmasına rağmen tam metin alınamadığı vakalar kaydedilmeli.
 
 **Bağlantılı çalışmalar:**
-- [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elite-e.md|Gatekeeping, Rapport, and Ethical Vulnerability (Soyata, 2026)]]
+- [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md|Gatekeeping, Rapport, and Ethical Vulnerability (Soyata, 2026)]]

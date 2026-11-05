@@ -13,7 +13,7 @@ timestamp: '2026-11-05T00:00:00Z'
 created: 2026-11-05
 updated: 2026-11-05
 sources:
-- raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-health-mi.md
+- raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md
 confidence: medium
 ---
 
@@ -35,6 +35,6 @@ Dijital okuryazarlık müdahaleleri hem **kültürel şemaya** hem **kuşağa** 
 
 ## Bağlantılı
 
-- [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-health-mi.md|Intergenerational Perspectives on AI-Generated Health Misinformation (Wu & Goh, 2026)]]
+- [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md|Intergenerational Perspectives on AI-Generated Health Misinformation (Wu & Goh, 2026)]]
 - [[concepts/ai-generated-disinformation.md|AI Üretimi Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]

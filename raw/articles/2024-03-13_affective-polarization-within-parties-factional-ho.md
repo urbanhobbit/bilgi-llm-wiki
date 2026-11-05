@@ -83,3 +83,7 @@ Türkiye'de kutuplaşma tartışması neredeyse tamamen **partiler arası** ekse
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/parti-ici-fraksiyonlar.md|Parti İçi Fraksiyonlar ve Fraksiyonel Duygusal Kutuplaşma]] — makalenin kurduğu kavram: fraksiyon tanımı, parti içi etkilerin büyüklüğü, dış fraksiyon tercihi.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — parti kimliği gücünün fraksiyonel tercihleri nasıl tamponladığı (r=.06 / −.20 / .57) bu hatta tartışılıyor.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]

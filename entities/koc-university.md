@@ -8,7 +8,7 @@ tags:
   - turkiye
   - arastirma-kurumu
 sources:
-  - raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elite-e.md
+  - raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md
 ---
 
 # Koç University
@@ -18,4 +18,4 @@ sources:
 **Bu vault'ta izlenen hat:** Sezai Doruk Soyata'nın Türkiye'de muhafazakâr iş elitleriyle yaptığı etnografi üzerinden **elit araştırması, erişim ve araştırma etiği** tartışması.
 
 **Bağlantılı çalışmalar:**
-- [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elite-e.md|Gatekeeping, Rapport, and Ethical Vulnerability: Elite Ethnography on Sensitive Topics]]
+- [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md|Gatekeeping, Rapport, and Ethical Vulnerability: Elite Ethnography on Sensitive Topics]]

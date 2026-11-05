@@ -12,7 +12,7 @@ timestamp: '2026-11-05T00:00:00Z'
 created: 2026-11-05
 updated: 2026-11-05
 sources:
-- raw/articles/2024-03-13_affective-polarization-within-parties-factional-hostil.md
+- raw/articles/2024-03-13_affective-polarization-within-parties-factional-ho.md
 confidence: medium
 ---
 
@@ -36,6 +36,6 @@ Türkiye'de fraksiyonlar genellikle **kamuoyu önünde duygusal kutuplaşma** ol
 
 ## Bağlantılı
 
-- [[raw/articles/2024-03-13_affective-polarization-within-parties-factional-hostil.md|Affective Polarization Within Parties (Young & de-Wit)]]
+- [[raw/articles/2024-03-13_affective-polarization-within-parties-factional-ho.md|Affective Polarization Within Parties (Young & de-Wit)]]
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]]
 - [[concepts/partizan-kimlik.md|Partizan Kimlik]]

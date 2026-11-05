@@ -8,7 +8,7 @@ tags:
   - kurator
   - arastirma-altyapisi
 sources:
-  - raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-health-mi.md
+  - raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md
 ---
 
 # Policyinstitute.net
@@ -18,4 +18,4 @@ Yumuşak karşı-radikalleşme, çevrimiçi nefret ve dezenformasyon konularınd
 **Yöntem notu:** Site üçüncü taraf içerik derliyor; özetlerde yeniden yazım için üretken AI kullanıldığını, otonom ajan kullanmadıklarını beyan ediyor. Bu vault'ta **kaynak değil, keşif/derleme katmanı** olarak ele alınmalı — her gönderideki asıl artefakt ayrıca doğrulanmalı (ör. `lnkd.in` zinciri → yayıncı DOI).
 
 **Bağlantılı çalışmalar:**
-- [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-health-mi.md|Intergenerational Perspectives on AI-Generated Health Misinformation (Wu & Goh, 2026)]]
+- [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md|Intergenerational Perspectives on AI-Generated Health Misinformation (Wu & Goh, 2026)]]

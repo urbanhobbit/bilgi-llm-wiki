@@ -73,7 +73,9 @@ Türkiye'de sağlık dezenformasyonu genellikle "yanlış bilgi" başlığı alt
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/gorsel-cerceveleme.md|Görsel Çerçeveleme ve Kültürel Şemalar]] — makalenin kuramsal çekirdeği: görsel stil + kültürel şema → algılanan meşruiyet ve tetikte olma.
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/policyinstitute-net.md|Policyinstitute.net]] — bağlantıyı LinkedIn üzerinden dolaşıma sokan küratör platform (keşif katmanı, kaynak değil).
