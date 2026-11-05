@@ -1721,3 +1721,8 @@
 - Source files: 2024-03-13_young-dewit-affective-polarization-within-parties.json, 2026-07-17_soyata-elite-ethnography-turkey-gatekeeping.json, 2026-11-03_wu-goh-ai-health-misinformation-visual-framing.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md]] — Forecasting the 2026 US Midterm Elections — PS: Political Science & Politics özel sayısı (17 makale, Kenny & Leiter)
+- Source files: 2026-10-20_ps-midterm-forecasting-special-issue-intro.json
+- Agent: OKF Ingestion Pipeline
+

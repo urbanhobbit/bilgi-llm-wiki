@@ -539,4 +539,5 @@
 - [[raw/articles/2024-03-13_affective-polarization-within-parties-factional-ho.md|Affective Polarization Within Parties: Factional Hostility in Britain and the US (Young & de-Wit, Political Psychology)]]
 - [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md|Gatekeeping, Rapport, and Ethical Vulnerability: Elite Ethnography on Sensitive Topics in Turkey (Soyata, IJQM 2026)]]
 - [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md|Intergenerational Perspectives on AI-Generated Health Misinformation: Visual Framing and Cultural Schemas (Wu & Goh, Health Communication)]]
+- [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md|Forecasting the 2026 US Midterm Elections — PS: Political Science & Politics özel sayısı (17 makale, Kenny & Leiter)]]
 
