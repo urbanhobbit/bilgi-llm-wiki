@@ -1683,3 +1683,9 @@
 - Source files: 2026-11-04_na-behavioral-profiles-llm-simulation.json, 2026-11-04_morris-msnow-how-gop-lost-trump-swing-voters.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-12_polarization-and-echo-chambers-in-reddit-s-politic.md]] — Polarization and echo chambers in Reddit's political discourse (Cirulli et al., EPJ Data Science)
+- Raw: [[raw/articles/2026-11-04_from-voice-to-influence-how-children-s-participati.md]] — From Voice to Influence: How Children's Participation Can Help Shape the Future (Sukran Ucus, CE International)
+- Source files: 2026-10-28_reddit-polarization-echo-chambers-epjds.json, 2026-11-04_cei-from-voice-to-influence-childrens-participation.json
+- Agent: OKF Ingestion Pipeline
+
