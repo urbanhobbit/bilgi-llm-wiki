@@ -14,7 +14,7 @@ timestamp: '2026-11-05T00:00:00Z'
 created: 2026-11-05
 updated: 2026-11-05
 sources:
-- raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-vo.md
+- raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md
 confidence: medium
 ---
 
@@ -44,6 +44,6 @@ Sözel ve fizyolojik veri **çeliştiğinde** ikisinden birini "doğru" seçmek 
 
 ## Bağlantılı
 
-- [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-vo.md|AI-Driven Emotion Metrics in Qualitative Research (Moses & Hartzbech, QRCA Views)]]
+- [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md|AI-Driven Emotion Metrics in Qualitative Research (Moses & Hartzbech, QRCA Views)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]

@@ -75,3 +75,7 @@ Türkiye'de kalitatif araştırma pazarı (odak grupları, derinlemesine görü�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/duygu-olcumu.md|Duygu Ölçümü (Ses ve Yüz Analizi)]] — yazının tanıttığı yöntemin kavram sayfası: geçerlilik, kültürel kalibrasyon ve biyometrik veri etiği.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/imotions.md|iMotions]] — ortak yazarlardan Hartzbech'in şirketi ve kullanılan yazılım.
+- [[entities/qrca.md|QRCA (Qualitative Research Consultants Association)]] — yazının yayımlandığı sektör dergisi.

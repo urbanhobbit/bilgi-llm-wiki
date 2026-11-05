@@ -9,7 +9,7 @@ tags:
   - duygu-olcumu
   - biyometrik
 sources:
-  - raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-vo.md
+  - raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md
 ---
 
 # iMotions
@@ -19,4 +19,4 @@ Kopenhag merkezli, yüz ifadesi, göz izleme, ses ve fizyolojik sinyal analizini
 **Bu vault'ta rolü:** duygu ölçümü araçlarının ticari sağlayıcısı olarak, "yüz/ses verisinden duygu çıkarımı" iddialarının geçerlilik ve çıkar çatışması tartışmasında referans noktası.
 
 **Bağlantılı çalışmalar:**
-- [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-vo.md|AI-Driven Emotion Metrics in Qualitative Research (QRCA Views)]]
+- [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md|AI-Driven Emotion Metrics in Qualitative Research (QRCA Views)]]
