@@ -86,5 +86,11 @@ Türkiye açısından bu makale iki nedenle önemli: yazarı Türkiye'den bir ak
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/cocuk-dijital-katilim.md|Çocuk Dijital Katılımı]] — child participation ve dijital katılım: GC 25 ile dinlenme hakkının dijital ortamda geçerliliği
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]] — UNCRC m.12, GC 12, GC 25 ve GC 26 temelli children's rights çerçevesi
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]] — AI governance çerçevelerinin çocuğu yalnızca koruma nesnesi sayması eleştirisi
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]] — çocuk ve yapay zeka kesişiminde katılım açığı
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/childhood-education-international.md|Childhood Education International]]
+- [[entities/sukran-ucus.md|Şükran Uçuş]]
+- [[entities/unicef.md|UNICEF]]

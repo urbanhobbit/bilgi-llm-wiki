@@ -81,6 +81,12 @@ Türkiye'deki platform tartışması açısından üç aktarım var.
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]] — echo chamber ve yankı odası örüntüleri
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — political polarization ölçümü
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] — ideological polarization: Demokratik/Muhafazakâr/Yasaklı bloklar
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — grup içi dil yakınsaması ve karşıt gruba yönelik antagonizma
+- [[concepts/metin-madenciligi.md|Metin Madenciliği]] — dil analizi ve natural language processing ile söylem ölçümü
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — maksimum entropi sıfır modelleri ve doğrulama, araştırma yöntemleri açısından
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]] — yasak sonrası kullanıcı göçü ve söylemin taşınması
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
