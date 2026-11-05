@@ -1694,3 +1694,8 @@
 - Source files: 2026-11-05_ouyang-responsible-ai-quant-social-research.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_icic-2026-conference-report-information-integrity-.md]] — ICIC 2026 Conference Report: Information Integrity, FOI and AI in Request Handling (Scottish Information Commissioner)
+- Source files: 2026-11-03_icic-2026-conference-report-foi-scotland.json
+- Agent: OKF Ingestion Pipeline
+

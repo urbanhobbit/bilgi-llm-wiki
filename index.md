@@ -532,4 +532,5 @@
 - [[raw/articles/2026-10-12_polarization-and-echo-chambers-in-reddit-s-politic.md|Polarization and echo chambers in Reddit's political discourse (Cirulli et al., EPJ Data Science)]]
 - [[raw/articles/2026-11-04_from-voice-to-influence-how-children-s-participati.md|From Voice to Influence: How Children's Participation Can Help Shape the Future (Sukran Ucus, CE International)]]
 - [[raw/articles/2026-11-05_responsible-ai-in-quantitative-social-research-pku.md|Responsible AI in Quantitative Social Research: PKU Lecture Slides and Tutorials (Rongxin Ouyang, 2026)]]
+- [[raw/articles/2026-11-03_icic-2026-conference-report-information-integrity-.md|ICIC 2026 Conference Report: Information Integrity, FOI and AI in Request Handling (Scottish Information Commissioner)]]
 
