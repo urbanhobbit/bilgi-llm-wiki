@@ -78,5 +78,9 @@ Türkiye bu tablonun içinde: CLD'nin 2026 stres testine **Türkiye de katıldı
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/bilgi-edinme-hakki.md|Bilgi Edinme Hakkı (FOI) ve Proaktif Yayımlama]] — raporun çerçevesi tam olarak bu: sessiz ret, makbuz, süre ölçümleri ve proaktif yayımlamanın dezenformasyonla bağlantısı.
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]] — raporda "openness, transparency and good governance" ekseni ve kamu verisinin şeffaflığı bu kavrama bağlanıyor.
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/scottish-information-commissioner.md|Scottish Information Commissioner]] — raporun yazarı kurum (David Hamilton).
+- [[entities/centre-for-law-and-democracy.md|Centre for Law and Democracy (CLD)]] — rapordaki stres testinin (%36 sessiz ret) kaynağı.
