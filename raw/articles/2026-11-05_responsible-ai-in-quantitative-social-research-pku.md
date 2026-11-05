@@ -76,5 +76,9 @@ Türkiye'deki araştırma pratiği için bu sunumun değeri, yöntem derslerinde
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]] — slayt 3.2-3.3 tam olarak bu hattı tartışıyor: LLM'ler insan yerine geçen **özne** olduğunda anket yanıtı ve davranış dizisi simülasyonu.
+- [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme]] — özne rolünün ölçüm ayağı: modelin ürettiği yanıt, kuramın ölçülebilir ilkeye çevrilmesiyle aynı geçerlilik sorununu taşıyor (slayt 3.4-3.5).
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/github-com.md|Github Com]]
+- [[entities/rongxin-ouyang.md|Rongxin Ouyang]] — sunumun yazarı (NUS, hesaplamalı iletişim doktora adayı).
+- [[entities/peking-universitesi.md|Pekin Üniversitesi (PKU)]] — dersin verildiği kurum.
