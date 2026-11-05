@@ -1714,3 +1714,10 @@
 - Source files: 2026-10-20_moses-hartzbech-ai-emotion-metrics-qualitative-qrca.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2024-03-13_affective-polarization-within-parties-factional-ho.md]] — Affective Polarization Within Parties: Factional Hostility in Britain and the US (Young & de-Wit, Political Psychology)
+- Raw: [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md]] — Gatekeeping, Rapport, and Ethical Vulnerability: Elite Ethnography on Sensitive Topics in Turkey (Soyata, IJQM 2026)
+- Raw: [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md]] — Intergenerational Perspectives on AI-Generated Health Misinformation: Visual Framing and Cultural Schemas (Wu & Goh, Health Communication)
+- Source files: 2024-03-13_young-dewit-affective-polarization-within-parties.json, 2026-07-17_soyata-elite-ethnography-turkey-gatekeeping.json, 2026-11-03_wu-goh-ai-health-misinformation-visual-framing.json
+- Agent: OKF Ingestion Pipeline
+

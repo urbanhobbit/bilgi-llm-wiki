@@ -536,4 +536,7 @@
 - [[raw/articles/2026-10-18_countering-disinformation-as-community-resilience-.md|Countering Disinformation as Community Resilience: Testing a Local-Level Assessment Framework in Norway (Pursiainen & Rød, 2026)]]
 - [[raw/articles/2026-11-05_gelman-could-the-2026-election-results-lead-to-a-d.md|Gelman: Could the 2026 Election Results Lead to a Decrease in Political Polarization?]]
 - [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md|AI-Driven Emotion Metrics in Qualitative Research: Voice and Facial Analysis on 2026 Super Bowl Ads (Moses & Hartzbech, QRCA Views)]]
+- [[raw/articles/2024-03-13_affective-polarization-within-parties-factional-ho.md|Affective Polarization Within Parties: Factional Hostility in Britain and the US (Young & de-Wit, Political Psychology)]]
+- [[raw/articles/2026-07-17_gatekeeping-rapport-and-ethical-vulnerability-elit.md|Gatekeeping, Rapport, and Ethical Vulnerability: Elite Ethnography on Sensitive Topics in Turkey (Soyata, IJQM 2026)]]
+- [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md|Intergenerational Perspectives on AI-Generated Health Misinformation: Visual Framing and Cultural Schemas (Wu & Goh, Health Communication)]]
 
