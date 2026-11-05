@@ -1709,3 +1709,8 @@
 - Source files: 2026-11-05_gelman-2026-election-polarization-decrease.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-20_ai-driven-emotion-metrics-in-qualitative-research-.md]] — AI-Driven Emotion Metrics in Qualitative Research: Voice and Facial Analysis on 2026 Super Bowl Ads (Moses & Hartzbech, QRCA Views)
+- Source files: 2026-10-20_moses-hartzbech-ai-emotion-metrics-qualitative-qrca.json
+- Agent: OKF Ingestion Pipeline
+
