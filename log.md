@@ -1699,3 +1699,8 @@
 - Source files: 2026-11-03_icic-2026-conference-report-foi-scotland.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-18_countering-disinformation-as-community-resilience-.md]] — Countering Disinformation as Community Resilience: Testing a Local-Level Assessment Framework in Norway (Pursiainen & Rød, 2026)
+- Source files: 2026-10-18_pursiainen-rod-disinformation-community-resilience.json
+- Agent: OKF Ingestion Pipeline
+
