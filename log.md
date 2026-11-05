@@ -1704,3 +1704,8 @@
 - Source files: 2026-10-18_pursiainen-rod-disinformation-community-resilience.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-05] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_gelman-could-the-2026-election-results-lead-to-a-d.md]] — Gelman: Could the 2026 Election Results Lead to a Decrease in Political Polarization?
+- Source files: 2026-11-05_gelman-2026-election-polarization-decrease.json
+- Agent: OKF Ingestion Pipeline
+

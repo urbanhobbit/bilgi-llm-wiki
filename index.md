@@ -534,4 +534,5 @@
 - [[raw/articles/2026-11-05_responsible-ai-in-quantitative-social-research-pku.md|Responsible AI in Quantitative Social Research: PKU Lecture Slides and Tutorials (Rongxin Ouyang, 2026)]]
 - [[raw/articles/2026-11-03_icic-2026-conference-report-information-integrity-.md|ICIC 2026 Conference Report: Information Integrity, FOI and AI in Request Handling (Scottish Information Commissioner)]]
 - [[raw/articles/2026-10-18_countering-disinformation-as-community-resilience-.md|Countering Disinformation as Community Resilience: Testing a Local-Level Assessment Framework in Norway (Pursiainen & Rød, 2026)]]
+- [[raw/articles/2026-11-05_gelman-could-the-2026-election-results-lead-to-a-d.md|Gelman: Could the 2026 Election Results Lead to a Decrease in Political Polarization?]]
 
