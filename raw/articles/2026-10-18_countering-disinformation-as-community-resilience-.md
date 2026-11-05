@@ -32,7 +32,7 @@ published: '2026-10-18'
 
 **Soru:** Dezenformasyonla mücadele yalnızca bir **kriz yönetimi** meselesi mi, yoksa toplulukların **direnç kapasitesi** (community resilience) olarak mı ölçülmeli? Pursiainen ve Rød, dezenformasyonu güvenlik/iletişim krizi çerçevesinden çıkarıp **yönetişim kapasitesi** olarak yeniden tanımlıyor ve bu kapasitenin **yerel düzeyde** nasıl değerlendirileceğini test ediyor.
 
-**Yaklaşım:** Direnç kuramı + gösterge-temelli metodoloji. Dört alanlı bir **olgunluk modeli (maturity model)** kuruluyor:
+**Yaklaşım:** Direnç kuramı + gösterge-temelli metodoloji (ülke sıralaması üreten *misinformation resilience* endekslerinden farklı olarak burada amaç yerel olgunluk teşhisi ve ölçüm aracının sınanması). Dört alanlı bir **olgunluk modeli (maturity model)** kuruluyor:
 1. **Politika, yönetişim ve düzenleme**
 2. **Eğitim ve kamu farkındalığı**
 3. **Teknoloji**
@@ -80,6 +80,10 @@ Türkiye için bu makalenin değeri, dezenformasyon tartışmasını **ulusal/ p
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/topluluk-direncliligi.md|Topluluk Dirençliliği (Community Resilience) ve Dezenformasyon]] — makalenin kurduğu çerçevenin kendisi; dört alanlı olgunluk modeli bu kavram sayfasında açılıyor.
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/misinformation-resilience-indexes.md|Mis/Disinformation Resilience Indexes]] — ülke düzeyi endekslerle aynı ölçüm mantığı, farklı birim: burada belediye düzeyi olgunluk.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — gösterge-temelli ölçüm aracı ve geçerlilik sorunu aynı hatta tartışılıyor.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/uit-arctic-university-of-norway.md|UiT The Arctic University of Norway]] — yazarların kurumu (ITS, Tromsø).
