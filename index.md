@@ -549,4 +549,5 @@
 - [[raw/articles/2026-11-03_velez-ewig-retrieval-augmented-surveys-for-measuri.md|Velez Ewig: Retrieval-augmented surveys for measuring political representation]]
 - [[raw/articles/2026-11-05_zilinsky-schaffner-maga-vs-non-maga-republicans-on.md|Zilinsky Schaffner: MAGA vs non-MAGA Republicans on the economy despite hardship]]
 - [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md|Torcal Comellas Vranceanu: Social intolerance from political identities, 5-country conjoint]]
+- [[raw/articles/2026-11-05_russo-vanagt-rethinking-political-identity-in-euro.md|Russo Vanagt: Rethinking political identity in Europe - partisan and ideological attachments]]
 

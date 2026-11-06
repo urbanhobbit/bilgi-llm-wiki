@@ -1768,3 +1768,8 @@
 - Source files: 2026-11-06_torcal-social-intolerance-political-identities-conjoint.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_russo-vanagt-rethinking-political-identity-in-euro.md]] — Russo Vanagt: Rethinking political identity in Europe - partisan and ideological attachments
+- Source files: 2026-11-05_russo-vanagt-rethinking-political-identity-europe.json
+- Agent: OKF Ingestion Pipeline
+
