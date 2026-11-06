@@ -1763,3 +1763,8 @@
 - Source files: 2026-11-05_zilinsky-maga-republicans-economy-hardship.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md]] — Torcal Comellas Vranceanu: Social intolerance from political identities, 5-country conjoint
+- Source files: 2026-11-06_torcal-social-intolerance-political-identities-conjoint.json
+- Agent: OKF Ingestion Pipeline
+

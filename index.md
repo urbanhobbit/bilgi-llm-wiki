@@ -548,4 +548,5 @@
 - [[raw/articles/2026-10-29_beliefsim-belief-driven-simulation-of-demographic-.md|BeliefSim: belief-driven simulation of demographic misinformation susceptibility]]
 - [[raw/articles/2026-11-03_velez-ewig-retrieval-augmented-surveys-for-measuri.md|Velez Ewig: Retrieval-augmented surveys for measuring political representation]]
 - [[raw/articles/2026-11-05_zilinsky-schaffner-maga-vs-non-maga-republicans-on.md|Zilinsky Schaffner: MAGA vs non-MAGA Republicans on the economy despite hardship]]
+- [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md|Torcal Comellas Vranceanu: Social intolerance from political identities, 5-country conjoint]]
 
