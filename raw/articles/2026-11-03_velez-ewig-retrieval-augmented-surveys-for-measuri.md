@@ -85,6 +85,9 @@ Türkiye'de temsil ölçümü neredeyse tamamen **sabit madde** mantığıyla ya
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/siyasal-temsil.md|Siyasal Temsil ve Tepkisellik]] — makalenin ölçtüğü şey: gündem kapsanması ve gündem ilerlemesi olarak siyasal temsil.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — kişiye özel madde üretimi ve LLM tabanlı tatmin kodlaması bir ölçüm tasarımı sorunu.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — araştırma yöntemleri açısından sabit maddeli anket kısıtını aşan yeni bir saha tasarımı.
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]] — yapay zeka demokrasi ilişkisinde LLM'lerin ölçüm altyapısı olarak kullanımı.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
