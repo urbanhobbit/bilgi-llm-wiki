@@ -552,4 +552,5 @@
 - [[raw/articles/2026-11-05_russo-vanagt-rethinking-political-identity-in-euro.md|Russo Vanagt: Rethinking political identity in Europe - partisan and ideological attachments]]
 - [[raw/articles/2026-11-06_ajzenman-aksoy-pickard-coming-of-age-under-populis.md|Ajzenman Aksoy Pickard: coming of age under populists and zero-sum beliefs]]
 - [[raw/articles/2026-11-06_briones-beyond-climate-denial-misinformation-on-cl.md|Briones: Beyond climate denial - misinformation on climate extremes and policies in Turkiye]]
+- [[raw/articles/2026-11-06_international-security-51-2-fall-2026-fiftieth-ann.md|International Security 51(2) Fall 2026 - fiftieth anniversary issue]]
 

@@ -1779,3 +1779,8 @@
 - Source files: 2026-11-06_briones-beyond-climate-denial-misinformation-turkiye.json, 2026-11-06_ajzenman-aksoy-pickard-populists-zero-sum-beliefs.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_international-security-51-2-fall-2026-fiftieth-ann.md]] — International Security 51(2) Fall 2026 - fiftieth anniversary issue
+- Source files: 2026-11-06_international-security-51-2-fall-2026-issue.json
+- Agent: OKF Ingestion Pipeline
+
