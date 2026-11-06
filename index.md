@@ -546,4 +546,5 @@
 - [[raw/articles/2026-11-06_tom-wood-2026-midterms-and-the-long-turnout-surge-.md|Tom Wood: 2026 midterms and the long turnout surge, House vote 1926-2026]]
 - [[raw/articles/2026-10-30_vaish-digital-platforms-and-democracy-polarization.md|Vaish: Digital platforms and democracy - polarization misinformation participation]]
 - [[raw/articles/2026-10-29_beliefsim-belief-driven-simulation-of-demographic-.md|BeliefSim: belief-driven simulation of demographic misinformation susceptibility]]
+- [[raw/articles/2026-11-03_velez-ewig-retrieval-augmented-surveys-for-measuri.md|Velez Ewig: Retrieval-augmented surveys for measuring political representation]]
 

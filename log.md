@@ -1753,3 +1753,8 @@
 - Source files: 2026-11-06_beliefsim-demographic-misinformation-susceptibility.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_velez-ewig-retrieval-augmented-surveys-for-measuri.md]] — Velez Ewig: Retrieval-augmented surveys for measuring political representation
+- Source files: 2026-11-06_velez-ewig-retrieval-augmented-surveys.json
+- Agent: OKF Ingestion Pipeline
+
