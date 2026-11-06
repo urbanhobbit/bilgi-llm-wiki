@@ -544,4 +544,5 @@
 - [[raw/articles/2026-11-03_ozkaya-monrad-youth-anger-norms-and-emotional-capi.md|Ozkaya Monrad: Youth anger norms and emotional capital across social fields]]
 - [[raw/articles/2026-11-04_wichgers-et-al-how-accurate-are-survey-measures-of.md|Wichgers et al: How accurate are survey measures of objective phenomena]]
 - [[raw/articles/2026-11-06_tom-wood-2026-midterms-and-the-long-turnout-surge-.md|Tom Wood: 2026 midterms and the long turnout surge, House vote 1926-2026]]
+- [[raw/articles/2026-10-30_vaish-digital-platforms-and-democracy-polarization.md|Vaish: Digital platforms and democracy - polarization misinformation participation]]
 

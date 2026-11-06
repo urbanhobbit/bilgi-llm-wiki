@@ -1743,3 +1743,8 @@
 - Source files: 2026-11-06_wood-turnout-house-vote-1926-2026.json, 2026-11-06_120259_ingestion.json, 2026-11-06_wichgers-survey-measurement-accuracy-meta-analysis.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_vaish-digital-platforms-and-democracy-polarization.md]] — Vaish: Digital platforms and democracy - polarization misinformation participation
+- Source files: 2026-11-06_vaish-digital-platforms-democracy-review-anubodhan.json
+- Agent: OKF Ingestion Pipeline
+
