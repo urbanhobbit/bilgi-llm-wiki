@@ -1737,7 +1737,7 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-11-06] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-11-05_jan-zilinsky-e-itim-kutupla-mas-rka-g-re-de-i-iyor.md]] — Jan Zilinsky: Eğitim kutuplaşması ırka göre değişiyor
+- Raw: [[raw/articles/2026-11-05_zilinsky-educational-polarization-by-race.md]] — Jan Zilinsky: Eğitim kutuplaşması ırka göre değişiyor
 - Raw: [[raw/articles/2026-11-04_wichgers-et-al-how-accurate-are-survey-measures-of.md]] — Wichgers et al: How accurate are survey measures of objective phenomena
 - Raw: [[raw/articles/2026-11-06_tom-wood-2026-midterms-and-the-long-turnout-surge-.md]] — Tom Wood: 2026 midterms and the long turnout surge, House vote 1926-2026
 - Source files: 2026-11-06_wood-turnout-house-vote-1926-2026.json, 2026-11-06_120259_ingestion.json, 2026-11-06_wichgers-survey-measurement-accuracy-meta-analysis.json

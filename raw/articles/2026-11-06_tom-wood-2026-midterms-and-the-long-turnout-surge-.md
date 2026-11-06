@@ -69,4 +69,6 @@ Yöntem notu: Wood'un formatı (aynı ölçekte 100 yıllık seri + iki panel) T
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]] — grafiğin ana değişkeni: seçime katılımın 1926-2026 seyri ve 2018 sonrası platosu.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — gönderinin iddiası kutuplaşma ile yüksek katılımın aynı döneme denk geldiği yönünde.
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — Meclis ulusal halk oyu, seçim koleji dışında ayrı bir gösterge olarak okunmalı.

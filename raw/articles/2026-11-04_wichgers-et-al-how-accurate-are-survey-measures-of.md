@@ -75,6 +75,7 @@ Ek not: Türkiye'de "anketler yanlış çıktı" tartışması (2023, 2024) ço�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — öz-beyan ölçümünün doğruluğu, ölçüm hatası literatürünün temel sorusu.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — araştırma yöntemleri ve ölçüm geçerliliği tartışması: "öz-beyana dayanıyor" eleştirisinin ampirik sınırı.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
