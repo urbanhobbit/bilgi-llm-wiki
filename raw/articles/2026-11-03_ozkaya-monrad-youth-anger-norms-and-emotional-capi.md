@@ -72,6 +72,7 @@ Doğrudan karşılaştırma sınırı: Danimarka refah devleti bağlamı, okul-i
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/duygusal-sermaye.md|Duygusal Sermaye ve Duygusal Habitus]] — makalenin kuramsal çekirdeği: duygusal pratikler, duygusal habitus, duygusal refleksivite ve alanlar arası geçişte duygusal kod çevirisi.
+- [[concepts/cocuk-haklari.md|Çocuk Hakları Sözleşmesi (UNCRC)]] — makale, gençlerin öfke ifade etme hakkının tartışmalı olduğunu ve bu hakkın kurumsal olarak sınırlandığını gösteriyor; çocuk hakları çerçevesindeki katılım/ifade tartışmasıyla kesişiyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis (tandfonline.com)]] — makalenin yayıncısı (Journal of Youth Studies).
