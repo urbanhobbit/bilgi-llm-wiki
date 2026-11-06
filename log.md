@@ -1726,3 +1726,8 @@
 - Source files: 2026-10-20_ps-midterm-forecasting-special-issue-intro.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_jan-zilinsky-e-itim-kutupla-mas-rka-g-re-de-i-iyor.md]] — Jan Zilinsky: Eğitim kutuplaşması ırka göre değişiyor
+- Source files: 2026-11-05_zilinsky-educational-polarization-by-race.json
+- Agent: OKF Ingestion Pipeline
+
