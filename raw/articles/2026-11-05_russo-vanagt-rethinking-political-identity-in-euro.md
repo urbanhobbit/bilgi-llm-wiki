@@ -69,5 +69,9 @@ Aktarılabilir bir bulgu yok — içerik okunamadı. Türkiye açısından tek a
 - [[concepts/negative-partisanship.md|Negatif Partizanlik]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — başlığın merkezindeki ayrım: partizan bağlılık ile ideolojik bağlılığın ayrı kimlikler olarak ele alınması.
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] — ideolojik bağlılığın kutuplaşmadaki ayrı rolü; içerik doğrulanmadı, yalnız başlık düzeyinde bağ.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/sciencedirect.md|Sciencedirect]]
+- [[entities/sciencedirect.md|ScienceDirect (Elsevier)]] — yayıncı; CC BY olmasına rağmen CAPTCHA duvarı tam metni kapattı.
+### 📄 İlgili Kayıtlar
+- [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md|Torcal, Comellas & Vrânceanu (2026): 5 ülkeli komşu konjointi]] — aynı tartışma: parti mi ideoloji mi daha güçlü ayrıştırıyor? Torcal 'parti > ideoloji' buluyor; Russo & Vanagt'ın sonucu **bilinmiyor** (metin kapalı).
