@@ -89,5 +89,7 @@ Türkiye araştırması için olumlu karşılık: raporda eksik olan **dil eksen
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]] — makalenin önerdiği müdahalelerden biri fact-checking ve medya okuryazarlığı eğitimi.
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]] — raporda dijital okuryazarlık, dezenformasyonla mücadelenin ikinci ayağı olarak konumlanıyor.
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]] — makalenin ana bağımlı değişkeni: sosyal medyanın siyasal katılımı genişletmesi ile sembolik katılım eleştirisi.
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
