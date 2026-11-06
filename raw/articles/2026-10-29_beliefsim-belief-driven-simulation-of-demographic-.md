@@ -94,5 +94,8 @@ Ders: bu makale, "demografi = açıklama" varsayımını ampirik olarak çürüt
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dezenformasyon-maruziyeti-olcumu.md|Dezenformasyon Maruziyeti Ölçümü]] — makalenin çekirdeği: duyarlılığı ölçme ve demografik gruplara göre karşılaştırma yöntemi.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — duyarlılık hizalaması, flip-rate ve KL diverjansı gibi ölçüm metriklerinin tasarımı.
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zeka ve Demokrasi]] — yapay zeka demokrasi ilişkisinde LLM tabanlı simülasyonun araştırma aracı olarak kullanımı ve etik sınırları.
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
