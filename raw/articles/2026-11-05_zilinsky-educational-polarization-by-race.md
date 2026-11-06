@@ -78,3 +78,5 @@ Araştırma fikri: aynı grafiği TÜİK/KONDA verisiyle Türkiye için üretmek
 - [[concepts/partizan-kimlik.md|Partizan Kimlik]] — parti koalisyonlarının eğitim ekseninde yeniden dizilmesi kimlik temelli kutuplaşmayla bağlantılı.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|SAGE Journals (journals.sagepub.com)]] — atıf verilen Zingher makalesinin yayıncısı (American Politics Research).
+### 📄 İlgili Kayıtlar
+- [[raw/articles/2026-11-05_zilinsky-schaffner-maga-vs-non-maga-republicans-on.md|Aynı veri setinden: MAGA/non-MAGA Cumhuriyetçiler ve ekonomi algısı]] — CHEP 2026'nın parti içi kırılımı.

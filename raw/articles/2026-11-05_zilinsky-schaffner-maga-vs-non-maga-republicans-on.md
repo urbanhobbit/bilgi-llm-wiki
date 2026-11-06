@@ -91,5 +91,11 @@ Ders: Zilinsky'nin grafiği, veri gazeteciliği açısından da örnek — aynı
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ekonomik-oylama.md|Ekonomik Oylama ve Atıf]] — gönderinin çekirdeği: ekonomi değerlendirmesinde atıf (iktidarın politikaları mı, dış faktörler mi) ve partizan motivasyonlu akıl yürütme.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — parti içi MAGA/non-MAGA kırılımı, parti kimliğinin tek başına yeterli olmadığını gösteriyor.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — aynı zorluklara farklı hükümler, kutuplaşmanın algı düzeyindeki karşılığı.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/norc-org.md|Norc Org]]
+- [[entities/norc-org.md|NORC at the University of Chicago (CHEP)]] — grafiğin veri kaynağı: 50 eyalet, 97.175 katılımcı, 26 Ekim-3 Kasım 2026.
+### 📄 İlgili Kayıtlar
+- [[raw/articles/2026-11-05_zilinsky-educational-polarization-by-race.md|Aynı veri setinden: eğitim kutuplaşması ırka göre değişiyor]] — CHEP 2026'nın eğitim × ırk kırılımı.
