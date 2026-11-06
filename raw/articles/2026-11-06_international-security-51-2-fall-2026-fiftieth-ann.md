@@ -80,5 +80,7 @@ Türkiye'ye doğrudan aktarım sınırlı (dergi güvenlik çalışmaları odakl
 ### 🧠 İlgili Kavramlar
 - [[concepts/liderlik-ve-lider-secimi.md|Liderlik ve Lider Seçimi]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/populizm.md|Popülizm]] — Snyder'ın makalesi illiberal milliyetçiliğin yükselişini liberal düzenin iç krizine bağlıyor (deregülasyon, eşitsizlik, kutuplaşma, medya parçalanması).
+- [[concepts/hibrit-savas.md|Hibrit Savaş]] — Miller'ın amfibi harekât ve Bromley & Freymann'ın abluka analizleri, askeri ve ekonomik zorlamanın sınırlarına dair vaka malzemesi sunuyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/mit.md|Mit]]
+- [[entities/mit.md|MIT Press]] — derginin yayıncısı; McDermott ve Snyder makaleleri ücretsiz erişimde.

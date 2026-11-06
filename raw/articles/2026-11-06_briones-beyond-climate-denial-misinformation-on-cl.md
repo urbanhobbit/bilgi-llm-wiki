@@ -95,4 +95,4 @@ Kaynak zaten Türkiye üzerine olduğu için burada "aktarım" değil, **raporun
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/ipc-sabanciuniv.md|Ipc Sabanciuniv]]
+- [[entities/ipc-sabanciuniv.md|Istanbul Policy Center (IPC), Sabancı Üniversitesi]] — raporun yayıncısı (IPC–Mercator Analysis serisi, Stiftung Mercator ortaklığı).

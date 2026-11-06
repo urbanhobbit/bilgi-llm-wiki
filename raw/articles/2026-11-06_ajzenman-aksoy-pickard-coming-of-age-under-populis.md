@@ -84,5 +84,8 @@ Türkiye'de yapılabilecek test üç adım: (a) doğum kohortlarını 18-25 yaş
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/populizm.md|Popülizm]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sifir-toplamli-inanclar.md|Sıfır Toplamlı İnançlar]] — makalenin merkez kavramı: dünyanın sabit pasta olduğu inancı ve popülist yönetim altında biçimlendirici yıllarda edinilmesi.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/cepr-org.md|Cepr Org]]
+- [[entities/cepr-org.md|CEPR / VoxEU]] — kolonun yayıncısı; kolon alttaki SSRN çalışma metnine (7438339) dayanıyor.
+### 📄 İlgili Kayıtlar
+- [[raw/articles/2026-09-11_the-convergence-of-zero-sum-thinking-and-illiberal.md|Sıfır toplamlı düşünme ile illiberal siyasetin yakınsaması]] — aynı kavramın farklı bir açıdan işlenmesi: sıfır toplamlı inanç ile otoriter eğilim arasındaki bağ.
