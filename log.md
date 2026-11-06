@@ -1748,3 +1748,8 @@
 - Source files: 2026-11-06_vaish-digital-platforms-democracy-review-anubodhan.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-29_beliefsim-belief-driven-simulation-of-demographic-.md]] — BeliefSim: belief-driven simulation of demographic misinformation susceptibility
+- Source files: 2026-11-06_beliefsim-demographic-misinformation-susceptibility.json
+- Agent: OKF Ingestion Pipeline
+
