@@ -547,4 +547,5 @@
 - [[raw/articles/2026-10-30_vaish-digital-platforms-and-democracy-polarization.md|Vaish: Digital platforms and democracy - polarization misinformation participation]]
 - [[raw/articles/2026-10-29_beliefsim-belief-driven-simulation-of-demographic-.md|BeliefSim: belief-driven simulation of demographic misinformation susceptibility]]
 - [[raw/articles/2026-11-03_velez-ewig-retrieval-augmented-surveys-for-measuri.md|Velez Ewig: Retrieval-augmented surveys for measuring political representation]]
+- [[raw/articles/2026-11-05_zilinsky-schaffner-maga-vs-non-maga-republicans-on.md|Zilinsky Schaffner: MAGA vs non-MAGA Republicans on the economy despite hardship]]
 

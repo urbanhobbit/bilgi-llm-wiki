@@ -1758,3 +1758,8 @@
 - Source files: 2026-11-06_velez-ewig-retrieval-augmented-surveys.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_zilinsky-schaffner-maga-vs-non-maga-republicans-on.md]] — Zilinsky Schaffner: MAGA vs non-MAGA Republicans on the economy despite hardship
+- Source files: 2026-11-05_zilinsky-maga-republicans-economy-hardship.json
+- Agent: OKF Ingestion Pipeline
+
