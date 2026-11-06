@@ -10,9 +10,10 @@ tags:
 - sinif
 timestamp: '2026-11-04T04:50:00Z'
 created: '2026-11-04'
-updated: '2026-11-04'
+updated: '2026-11-06'
 sources:
 - raw/articles/2026-11-04_tom-wood-income-barely-sorts-the-vote-education-do.md
+- raw/articles/2026-11-05_zilinsky-educational-polarization-by-race.md
 related:
 - concepts/partizan-kimlik.md
 - concepts/sosyal-kutuplasma.md
@@ -45,6 +46,12 @@ Buna karşılık gelir kırılımı neredeyse düz: 50 bin dolar altı D+15, 50-
 - Sınıf temelli oy verme modelleri (gelir → parti) ABD için artık zayıf bir öngörücü; eğitim, kültürel eksen ve coğrafyanın bileşimi daha güçlü.
 - Kutuplaşma literatüründe bu, "sınıf siyasetinin yerini kimlik siyasetinin alması" tartışmasının ampirik ayağı; [[concepts/partizan-kimlik.md|partizan kimlik]] ve [[concepts/sosyal-kutuplasma.md|sosyal kutuplaşma]] ile doğrudan bağlantılı.
 - Parti koalisyonları yeniden diziliyor: yüksek gelirli, yüksek eğitimli banliyö seçmeni Demokratlara; üniversite mezunu olmayan beyaz seçmen Cumhuriyetçilere.
+
+## Irk/etnisite koşulu (NORC Civic Health & Elections Project 2026)
+
+[[raw/articles/2026-11-05_zilinsky-educational-polarization-by-race.md|Jan Zilinsky'nin CHEP 2026 grafiği]], eğitim makasının tek bir sayı olmadığını gösteriyor: aynı seçimde Meclis oyunda beyaz seçmende HS veya altı ile postgraduate arasındaki Demokrat–Cumhuriyetçi farkı **39 puan** (R+19 → D+20), siyah seçmende **3 puan** (D+71 → D+74), Latinoda **−9 puan** (D+35 → D+26), diğer gruplarda **23 puan** (D+15 → D+38). Senato oylarında desen aynı (39 / 4 / 0 / 25).
+
+Sonuç: "diploma divide" ABD'de büyük ölçüde **beyaz seçmen olgusu**; siyah seçmende eğitim oyu ayırt etmiyor, Latinoda eğitim arttıkça Demokrat marjı hafifçe düşüyor. Bu, eğitim makasını tek sayıyla (ör. "30 puanlık uçurum") anlatmayı yanıltıcı kılar — makas grup içinde ölçülmelidir.
 
 ## Sınırlılıklar
 
