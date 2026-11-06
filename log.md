@@ -1773,3 +1773,9 @@
 - Source files: 2026-11-05_russo-vanagt-rethinking-political-identity-europe.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_ajzenman-aksoy-pickard-coming-of-age-under-populis.md]] — Ajzenman Aksoy Pickard: coming of age under populists and zero-sum beliefs
+- Raw: [[raw/articles/2026-11-06_briones-beyond-climate-denial-misinformation-on-cl.md]] — Briones: Beyond climate denial - misinformation on climate extremes and policies in Turkiye
+- Source files: 2026-11-06_briones-beyond-climate-denial-misinformation-turkiye.json, 2026-11-06_ajzenman-aksoy-pickard-populists-zero-sum-beliefs.json
+- Agent: OKF Ingestion Pipeline
+
