@@ -88,6 +88,10 @@ Yöntem notu: Türkiye'de böyle bir konjointin örneklemi (partizan eğilimi ol
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]] — makalenin bağlandığı literatür: affective polarization (duygusal kutuplaşma) partizan gruplar arası antipatinin ölçümü; bu çalışma onu komşu tercihi üzerinden davranışsal bir zemine taşıyor.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — parti desteği farkı, sosyal kimliklerden daha güçlü sosyal mesafe üretiyor.
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] — ideolojik mesafe de ayrıştırıyor ama parti uyuşmazlığının gerisinde (Şili hariç); ideolojik kutuplaşma burada ikincil eksen.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — sosyal kimliklerin (din, göçmenlik, eğitim) siyasi kimlikler karşısında ikincil kalması, kutuplaşmanın siyasallaşması tartışmasına doğrudan katkı.
 - [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
