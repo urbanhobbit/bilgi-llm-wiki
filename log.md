@@ -1731,3 +1731,8 @@
 - Source files: 2026-11-05_zilinsky-educational-polarization-by-race.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-06] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_ozkaya-monrad-youth-anger-norms-and-emotional-capi.md]] — Ozkaya Monrad: Youth anger norms and emotional capital across social fields
+- Source files: 2026-11-06_ozkaya-monrad-youth-anger-norms-and-emotional-capital.json
+- Agent: OKF Ingestion Pipeline
+

@@ -541,4 +541,5 @@
 - [[raw/articles/2026-11-03_intergenerational-perspectives-on-ai-generated-hea.md|Intergenerational Perspectives on AI-Generated Health Misinformation: Visual Framing and Cultural Schemas (Wu & Goh, Health Communication)]]
 - [[raw/articles/2026-10-20_forecasting-the-2026-us-midterm-elections-ps-polit.md|Forecasting the 2026 US Midterm Elections — PS: Political Science & Politics özel sayısı (17 makale, Kenny & Leiter)]]
 - [[raw/articles/2026-11-05_zilinsky-educational-polarization-by-race.md|Jan Zilinsky: Eğitim kutuplaşması ırka göre değişiyor]]
+- [[raw/articles/2026-11-03_ozkaya-monrad-youth-anger-norms-and-emotional-capi.md|Ozkaya Monrad: Youth anger norms and emotional capital across social fields]]
 
