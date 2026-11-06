@@ -73,6 +73,8 @@ Araştırma fikri: aynı grafiği TÜİK/KONDA verisiyle Türkiye için üretmek
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/diploma-divide.md|Diploma Divide (Eğitim Makası)]] — yazının çekirdeği: eğitim makasının tek sayı olmadığını, ırk/etnisiteye göre koşullandığını gösteriyor.
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — educational polarization literatürünün parçası.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — parti koalisyonlarının eğitim ekseninde yeniden dizilmesi kimlik temelli kutuplaşmayla bağlantılı.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|SAGE Journals (journals.sagepub.com)]] — atıf verilen Zingher makalesinin yayıncısı (American Politics Research).
