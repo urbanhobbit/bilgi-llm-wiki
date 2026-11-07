@@ -35,6 +35,8 @@ Avrupa Komisyonu **6 Kasım 2026**'da TikTok hakkında DSA (Dijital Hizmetler Ya
 
 **Komisyon'un istediği tasarım değişikliği:** kullanıcının **açık tercihlerine** daha fazla ağırlık verilmesi, **izleme süresinin öneri göstergesi olmaktan çıkarılması**, kullanıcı kontrollerinin erişilebilirliğinin ve kullanılabilirliğinin artırılması, algoritmanın **düzenli olarak test edilmesi**.
 
+**Kavramsal ayrım:** Komisyon'un tarif ettiği mekanizma klasik **filtre balonu (filter bubble)** tanımından farklı; orada mesele görüş yelpazesinin daralması, burada ise algoritmanın kullanıcıyı her turda biraz daha yoğun içeriğe taşıyan bir **yörünge** kurması. Düzenleyici açıdan yenilik şu: müdahale içeriğe değil **tasarıma** yönelik — bu, **AI governance** literatüründe çıktı denetimi yerine optimizasyon hedefinin denetlenmesi olarak tartışılan yaklaşımın somut bir örneği. Risk özellikle **ergen**ler ve kırılgan yetişkinlerde yoğunlaştığı için dosya **çocuk hakları** ve gençlerin ruh sağlığı tartışmasıyla doğrudan kesişiyor; risk raporlarının ve algoritma testlerinin görünürlüğü ise **şeffaflık** yükümlülüğünün ön koşulu.
+
 ## Key Points
 
 - Ön bulgu, **nihai karar değil**: TikTok dosyaları inceleyip yazılı savunma yapacak; paralel olarak Avrupa Dijital Hizmetler Kurulu'na (European Board for Digital Services) danışılacak.
@@ -65,5 +67,10 @@ Avrupa Komisyonu **6 Kasım 2026**'da TikTok hakkında DSA (Dijital Hizmetler Ya
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/tavsan-deligi-etkisi.md|Tavşan Deliği Etkisi (Rabbit Hole Effect)]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/european-commission.md|European Commission]]

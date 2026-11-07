@@ -46,6 +46,10 @@ Komisyon'un önerdiği düzeltme **içerik kaldırma değil, tasarım değişikl
 
 Ön bulguda sayılan zararlar: **üzüntü ve kaygı artışı, beden memnuniyetsizliği, düşük öz-saygı, mevcut yeme bozukluklarının ve ruhsal durumların kötüleşmesi.** Risk, kırılgan yetişkinlerde ve reşit olmayanlarda yoğunlaşıyor — bu yüzden kavram [[concepts/sosyal-medya-genclik.md|gençlerin sosyal medya kullanımı]] ve [[concepts/cocuk-haklari.md|çocuk hakları]] tartışmalarının kesişiminde duruyor: ergenlerde hem maruziyet süresi hem de kimlik oluşumu açısından etki daha büyük.
 
+## Wiki'deki vaka kaydı
+
+- [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes.md|TikTok For You feed breaches DSA on rabbit holes (Avrupa Komisyonu, 6 Kasım 2026)]]
+
 ## Kanıt durumu ve sınırlılıklar
 
 - Komisyon'un dosyası **kamuya açık değil**; tavşan deliğinin **ölçülen derinliği**, etkilenen kullanıcı sayısı veya etki büyüklüğü hiçbir kamu kaynağında **sayı** olarak verilmiyor.
