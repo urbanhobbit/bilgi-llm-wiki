@@ -1799,3 +1799,16 @@
 - Source files: 2026-11-06_eu-commission-tiktok-dsa-rabbit-hole.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-11-07] ingest | KURATOR Weekly Bulletin (Hafta 45/2026 kapanışı)
+- Raw: [[raw/articles/2026-11-07_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (2–7 Kasım 2026 dilimi); 36085 byte, 4257 kelime
+- Kaynak: 14 `*_categorized*.json` (1–7 Kasım) → 64 ham → 63 benzersiz kayıt (62 AKADEMİK ÖZEL, 56 GENEL, 4 KURATOR) + 10 gerçek zamanlı haber sorgusu (Bing/Google News RSS)
+- Odak: yasağın ikinci haftası; EU Kids Online 2026 (29.169 çocuk); Avustralya BMJ üç aylık takibi; kiralık hesap tartışması; Campbell okul telefon kapsam taraması (1.317→22); Sabah teknoloji yönetimi; Uçuş çocuk katılımı; EC TikTok DSA ön bulguları
+- Scrapling testi: 12 URL, 7 engelli (%58) → metadata tabanlı sınıflandırma
+- Fark: 2 Kasım Pazartesi bülteninin mimari/QJE/JAMA hatları tekrar edilmedi
+
+## [2026-11-07] ingest | AKADEMİK ÖZEL TARAMA Haftalık Derleme
+- Raw: [[raw/articles/2026-11-07_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA (1–7 Kasım 2026); 45636 byte, 5390 kelime
+- Kapsam: 9 derin makale (3 metodoloji, 3 etik/teori, 3 güncel tartışma) + 18 satırlık okuma listesi
+- Makaleler: Vivalt (AI etki tahmini), Goetze (katılımcı AI kullanımı), Velez & Ewig (RAG anketler), Soyata (Türkiye elit etnografyası), Schroeder vd. + Lundberg (Collins/LLM), Genzer & Perry (empati), Sawyer (popülizm-komplo), Dahlke vd. (dezenformasyon referrer), Ajzenman/Aksoy/Pickard (popülist kuşak etkisi)
+- ÖZET blokları 250–284 kelime aralığında (hedef 250–300)
