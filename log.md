@@ -1784,3 +1784,8 @@
 - Source files: 2026-11-06_international-security-51-2-fall-2026-issue.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_rosenheck-the-blue-wave-was-powered-by-moderate-de.md]] — Rosenheck: The blue wave was powered by moderate Democrats
+- Source files: 2026-11-06_rosenheck-blue-wave-moderate-democrats.json
+- Agent: OKF Ingestion Pipeline
+

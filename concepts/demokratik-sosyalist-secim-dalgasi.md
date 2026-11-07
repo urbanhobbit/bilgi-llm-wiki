@@ -27,5 +27,15 @@ confidence: medium
 1. **Lehte:** Sosyalist adaylar yüksek katılımlı, genç ve kiracı ağırlıklı seçmen bloklarını harekete geçiriyor; ön seçim zaferleri sandığa yansıyor.
 2. **Aleyhte:** Salıncak eyaletlerde genel seçim performansı belirsiz; Michigan'da Haley Stevens'in El-Sayed yerine Cumhuriyetçi Rogers'ı desteklemesi ve Maine'de Graham Platner'in cinsel saldırı iddialarıyla çekilmesi, "ön seçim kazanır, genel seçim kaybeder" itirazını besliyor.
 
+## 2026 ara seçimi sonrası: "ılımlılar kazandırdı" tezi
+
+Seçim sonrası *The Economist*'in veri ekibinden Dan Rosenheck, **her yarış için beklenen oy payı modelleyerek** tartışmaya girdi ve "mavi dalgayı ılımlı Demokratlar taşıdı, solcular çoğunlukla kolay zaferler aldı" sonucuna vardı (kendi ifadesiyle: "zayıf önselle başladım, ılımlılar tarafına indim").
+
+**Tezin dayanağı (doğrulanan kısım):** Michigan'da El-Sayed yarışı **7,08 puan** farkla kazandı (52,54% – 45,46%; 4,79 milyon oy sayıldı) — bu, "dalga yılında salıncak eyalette beklenenden dar" argümanının sayısal çekirdeği. 2026'da Demokratlar Senato'da 7 koltuk kazandı ve Meclis'te ~252 sandalyeye ulaştı; yani ortam gerçekten dalga ortamıydı.
+
+**Karşı argüman:** El-Sayed'in kazandığı eyalet 1994'ten beri Cumhuriyetçi senatör seçmedi; "7 puan" bir sosyalist adayın ülke çapında seçilebilirliğini değil, **eyalet eğilimini** yansıtıyor olabilir. Seçim bilimi açısından doğru soru "kaç puan aldı" değil, **"beklenen oy payına göre ne kadar aştı/altında kaldı"** — Rosenheck'in modeli tam bunu yapıyor, ancak modelin sayıları abonelik duvarı arkasında olduğu için bağımsız doğrulanamadı.
+
+**Yöntemsel uyarılar:** (1) beklenen oy payı modelleri aday kalitesi, eyalet eğilimi ve ulusal salınımı aynı anda kontrol etmeye çalışır; sonuç **model spesifikasyonuna duyarlıdır**; (2) tek yarış (Michigan) üzerinden genelleme yapılamaz; (3) ön seçim zaferi ile genel seçim performansı farklı sorulardır — 2026 verisi ikincisinde ılımlı avantajına işaret ediyor, ama bu "solcu adaylar seçilemez" demek değil, **"dalga yılında fark dalganın büyüklüğünde saklı"** demek.
+
 ## Bağlantılı
-[[concepts/populizm.md|Popülizm]] · [[concepts/partizan-kimlik.md|Partizan Kimlik]] · [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]]
+[[concepts/populizm.md|Popülizm]] · [[concepts/partizan-kimlik.md|Partizan Kimlik]] · [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] · [[raw/articles/2026-11-06_rosenheck-blue-wave-powered-by-moderate-democrats.md|Rosenheck (2026): ılımlılar tezi]]
