@@ -1789,3 +1789,8 @@
 - Source files: 2026-11-06_rosenheck-blue-wave-moderate-democrats.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_macke-gedon-wahl-teaching-ai-to-build-scientific-m.md]] — Macke Gedon Wahl: Teaching AI to build scientific models
+- Source files: 2026-11-06_macke-gedon-wahl-teaching-ai-scientific-models.json
+- Agent: OKF Ingestion Pipeline
+
