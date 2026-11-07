@@ -1814,9 +1814,6 @@
 - ÖZET blokları 250–284 kelime aralığında (hedef 250–300)
 ## [2026-11-07] ingest | OKF Auto-Ingestion
 - Raw: [[raw/articles/2026-11-02_fake-plastic-voters-ai-simulated-focus-groups.md]] — Fake Plastic Voters: AI-Simulated Focus Groups
-- Raw: [[raw/articles/2026-11-06_the-blue-wave-was-powered-by-moderate-democrats.md]] — The blue wave was powered by moderate Democrats
-- Raw: [[raw/articles/2026-11-06_teaching-ai-to-build-scientific-models.md]] — Teaching AI to build scientific models
-- Raw: [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes-e.md]] — TikTok For You feed breaches DSA on rabbit holes (EC press release IP/26/2361)
 - Source files: 2026-11-07_120212_ingestion.json, 2026-11-02_novelli-fake-plastic-voters-ai-focus-groups.json
 - Agent: OKF Ingestion Pipeline
 

@@ -41,12 +41,12 @@ Novelli, Argota Sánchez-Vaquerizo, Cyr, Formisano, McDougall, Sandri ve Floridi
 
 **Etik ve yönetişim.** Bilgilendirilmiş rıza (siyasi görüş araştırmasında AI katılımının **açıklanmaması** varsayılan olarak kabul edilemez), mahremiyet (grounded sistemler kişisel — ve siyasi görüşü açığa vuran — veriye dayanır), şeffaflık (**simüle bulgular asla kamuoyu araştırması gibi sunulmamalı**) ve hesap verebilirlik (dokümantasyon, simülasyonu ısmarlayan ekiple yorumlayan ekibin ayrılması, iç itiraz fonksiyonu, yüksek riskli kullanımda dış denetim). Yazarların çarpıcı benzetmesi: bir zamanlar **kiralık bir oda ve ikna edici bir memorandum** gerektiren imal edilmiş uzlaşı, artık ölçekte ve "bilim" görüntüsüyle üretilebilir (Gould/Morris'in swing-voter panelleri bu dinamiğin selefi olarak anılıyor).
 
-**Saldırgan kullanım.** Aynı araçlarla rakip partinin seçmen tabanı modellenebilir, katılımı bastırmaya yönelik mesajlar kalibre edilebilir, dezenformasyonun çerçevesi simüle odak grubu iterasyonuyla optimize edilebilir. Yazarlar üç kullanımı **kategorik olarak kabul edilemez** ilan ediyor: (a) rakip taban simülasyonuyla saldırı iletişimi tasarlamak; (b) hedefli gruplarda katılımı düşürecek mesaj kalibrasyonu; (c) simüle iterasyonla çerçevesi optimize edilmiş dezenformasyon üretmek.
+**Saldırgan kullanım.** Aynı araçlarla rakip partinin seçmen tabanı modellenebilir, katılımı bastırmaya yönelik mesajlar kalibre edilebilir, dezenformasyonun çerçevesi simüle odak grubu iterasyonuyla optimize edilebilir. Yazarlar üç kullanımı **kategorik olarak kabul edilemez** ilan ediyor: (a) rakip taban simülasyonuyla saldırı iletişimi tasarlamak; (b) hedefli gruplarda katılımı düşürecek mesaj kalibrasyonu; (c) simüle iterasyonla çerçevesi optimize edilmiş **AI-generated disinformation** üretmek.
 
 ## Key Points
 
 - **Künye:** Claudio Novelli (Yale Digital Ethics Center), Javier Argota Sánchez-Vaquerizo (ETH Zürich, GESS), Jennifer Cyr (Universidad Torcuato Di Tella), Giuliano Formisano (Universität Zürich), Simon McDougall (Yale DEC), Giulia Sandri (CEVIPOL, ULB), Luciano Floridi (Yale DEC + Bologna). *Journal of Political Marketing*, online 2 Kasım 2026, ss. 1-27, DOI 10.1080/15377857.2026.2753144.
-- **Yöntem:** matris, ampirik olarak doğrulanmış bir araç değil — üç literatürün (parti siyasetinde odak grubu metodolojisi; AI tabanlı sosyal simülasyon ve arıza kipleri; risk-temelli düzenleme/AI yönetişimi) anlatı senteziyle kurulmuş **analitik ve kural koyucu bir tipoloji**; Collier vd. (2012) kavram oluşturma kılavuzuna göre.
+- **Yöntem:** matris, ampirik olarak doğrulanmış bir araç değil — üç literatürün (parti siyasetinde odak grubu metodolojisi; AI tabanlı sosyal simülasyon ve arıza kipleri; risk-temelli düzenleme ve **AI governance** literatürü) anlatı senteziyle kurulmuş **analitik ve kural koyucu bir tipoloji**; Collier vd. (2012) kavram oluşturma kılavuzuna göre.
 - **Mode 1 / Mode 2 ayrımı birinci filtre:** Mode 1 açıklayıcı (anlam ve gerekçeler canlı etkileşimde nasıl doğuyor), Mode 2 öngörüsel (hangi mesaj/çerçeve daha iyi performans verir). Ayrım tür değil **vurgu ve derinlik** farkı; ama matrisin sert sınırı buradan çıkıyor.
 - **Mode 2'nin uygun alt görevleri:** (2a) varyant triyajı, (2b) senaryo stres testi, (2c) duyarlılık analizi — yani sınırlı, karşılaştırmalı ve tasarım uzayı belli işler.
 - **Eşik kuralı:** R0'da G0-G1, R1'de G1-G2, R2'de G2 (insan kalibrasyonu) **asgari**; Mode 1'de her risk düzeyinde **G4** (tamamen insan) zorunlu.
@@ -78,9 +78,13 @@ Novelli, Argota Sánchez-Vaquerizo, Cyr, Formisano, McDougall, Sandri ve Floridi
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
 - [[concepts/sentetik-odak-gruplari.md|Sentetik Odak Grupları (AI-Simulated Focus Groups)]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/arxiv-org.md|arXiv]]

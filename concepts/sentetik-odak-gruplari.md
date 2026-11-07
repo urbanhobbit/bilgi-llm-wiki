@@ -43,6 +43,10 @@ Literatürdeki en sistemli çerçeve, üç boyutu birleştiren bir **karar matri
 
 Kural özeti: **Mode 1'de simülasyon hiçbir risk düzeyinde insanın yerini alamaz** (G4 zorunlu); **Mode 2'de** dayanak eşiği riskle birlikte yükselir (R0 → G0-G1, R1 → G1-G2, R2 → G2 asgari) ve simülasyon **neyin test edileceğini** söyleyebilir, **neyin kullanılacağını** yetkilendiremez.
 
+## Wiki'deki vaka kaydı
+
+- [[raw/articles/2026-11-02_fake-plastic-voters-ai-simulated-focus-groups.md|Fake Plastic Voters: AI-Simulated Focus Groups (Novelli vd., Journal of Political Marketing, 2026)]] — matrisin tam açılımı, G/R düzeyleri, senaryo ve etik tartışması.
+
 ## Arıza kipleri
 
 - **Sycophancy (yalpalamacılık):** modelin kullanıcıyı onaylama eğilimi; görüşmeyi "iyi haber" üretmeye iter.
