@@ -68,5 +68,9 @@ Doğrudan Türkiye verisi yok; aktarım **yöntem ve kurumsal** düzeyde.
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-ile-bilimsel-modelleme.md|Yapay Zeka ile Bilimsel Modelleme]] — yazının kurduğu çerçeve: kurma / sınırlama / yorumlama, SBI ve "tek model değil model dağılımı" ilkesi.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — aynı mantığın sosyal bilim karşılığı: çoklu spesifikasyon ve model belirsizliği.
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]] — AI'ın bilimsel üretimdeki rolü, şirket bloklarının araştırma gündemini şekillendirmesi.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/anthropic.md|Anthropic]]
+- [[entities/anthropic.md|Anthropic]] — yayıncı; "AI for Science" hibesiyle dış araştırmacılara konuk yazı alanı açıyor (hakemsiz).
