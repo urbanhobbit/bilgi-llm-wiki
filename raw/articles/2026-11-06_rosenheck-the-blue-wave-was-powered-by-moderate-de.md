@@ -80,5 +80,12 @@ Türkiye'ye aktarım doğrudan değil, **yöntem** düzeyinde değerli — ve ku
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/demokratik-sosyalist-secim-dalgasi.md|Demokratik Sosyalist Seçim Dalgası (Mamdani Etkisi)]] — makalenin doğrudan muhataplarından biri: "seçilebilirlik" tartışmasını beklenen oy payı modellemesiyle test ediyor.
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — tek üyeli çoğunluk bölgeleri ve salıncak bölge mantığı, "aday kalitesi mi eyalet eğilimi mi" ayrımının zemini.
+- [[concepts/parti-ici-fraksiyonlar.md|Parti İçi Fraksiyonlar]] — ilerici/merkezci kanat rekabeti ve seçim performansı iddiası.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/economist.md|Economist]]
+- [[entities/economist.md|The Economist]] — yayıncı; abonelik duvarı nedeniyle yalnız lede okunabildi, sayılar arşivden doğrulandı.
+### 📄 İlgili Kayıtlar
+- [[raw/articles/2026-11-06_tom-wood-2026-midterms-and-the-long-turnout-surge-.md|Tom Wood: 2026 ara seçimlerinde katılım ve Demokrat oyu]] — aynı seçimin makro verisi: 62 mn Demokrat oyu, +12,5 puan marj.
+- [[raw/articles/2026-11-04_g-elliott-morris-preliminary-senate-polling-error-.md|G. Elliott Morris: Senato anket hatası]] — 2026'da anketlerin ıskaladığı yerler; "beklenen oy payı" modellerinin girdisi.
