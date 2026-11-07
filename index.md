@@ -555,4 +555,5 @@
 - [[raw/articles/2026-11-06_international-security-51-2-fall-2026-fiftieth-ann.md|International Security 51(2) Fall 2026 - fiftieth anniversary issue]]
 - [[raw/articles/2026-11-06_rosenheck-the-blue-wave-was-powered-by-moderate-de.md|Rosenheck: The blue wave was powered by moderate Democrats]]
 - [[raw/articles/2026-11-06_macke-gedon-wahl-teaching-ai-to-build-scientific-m.md|Macke Gedon Wahl: Teaching AI to build scientific models]]
+- [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes.md|TikTok For You feed breaches DSA on rabbit holes]]
 

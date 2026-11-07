@@ -1794,3 +1794,8 @@
 - Source files: 2026-11-06_macke-gedon-wahl-teaching-ai-scientific-models.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-07] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes.md]] — TikTok For You feed breaches DSA on rabbit holes
+- Source files: 2026-11-06_eu-commission-tiktok-dsa-rabbit-hole.json
+- Agent: OKF Ingestion Pipeline
+
