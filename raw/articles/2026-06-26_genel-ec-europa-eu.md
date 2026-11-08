@@ -37,3 +37,9 @@ Türkiye jeopolitik konumu itibarıyla küresel gelişmelerden doğrudan etkilen
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/european-commission.md|European Commission]]

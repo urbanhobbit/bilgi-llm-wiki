@@ -244,3 +244,36 @@ Haftanın en sert yöntemsel bulgusu **Goetze'nin vaka raporundan** geliyor: 259
 ---
 
 *Bu derleme 7 Kasım 2026, 14:00 itibarıyla 1–7 Kasım 2026 dilimindeki 63 benzersiz kayıttan üretildi. Özetlerde yayıncı özeti, Crossref/OpenAlex künyesi ve erişilebilen tam metin birlikte kullanıldı; erişim engeli olan kayıtlarda özetin ötesinde iddia üretilmedi.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/climate-disinformation.md|Climate Disinformation (İklim Dezenformasyonu)]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/agency-fund.md|The Agency Fund]]
+- [[entities/american-educator.md|American Educator]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/electoral-studies.md|Electoral Studies]]
+- [[entities/henrik-lundberg.md|Henrik Lundberg]]
+- [[entities/j-pal.md|J-PAL]]
+- [[entities/mike-thelwall.md|Mike Thelwall]]
+- [[entities/political-communication.md|Political Communication]]
+- [[entities/ralph-schroeder.md|Ralph Schroeder]]
+- [[entities/randall-collins.md|Randall Collins]]
+- [[entities/ross-dahlke.md|Ross Dahlke]]
+- [[entities/theory-and-society.md|Theory and Society]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/yougov.md|YouGov]]

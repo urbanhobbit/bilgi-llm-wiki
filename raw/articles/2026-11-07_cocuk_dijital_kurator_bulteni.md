@@ -239,3 +239,28 @@ Bu itirazların hukuki dayanağı da var. BM Çocuk Hakları Komitesi'nin 2021 t
 ---
 
 *Bu bülten 7 Kasım 2026, 14:00 itibarıyla üretildi. Haftanın 63 benzersiz kaydı + 10 gerçek zamanlı haber sorgusu kullanıldı. Erişim engeli olan kaynaklar (odatv, ScienceDirect, T&F, SAGE, OUP, CEPR) yayıncı özeti/başlık düzeyinde işlendi ve ilgili yerlerde açıkça belirtildi.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/tavsan-deligi-etkisi.md|Tavşan Deliği Etkisi (Rabbit Hole Effect)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/american-educator.md|American Educator]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/oecd.md|OECD]]
+- [[entities/sukran-ucus.md|Şükran Uçuş]]
+- [[entities/unicef.md|UNICEF]]
