@@ -51,6 +51,10 @@ Mehmood (New Economic School) ve Mobarak'ın (Yale, NBER) 35983 numaralı çalı
 
 Türkiye için üç kullanım değeri var. (1) **Tasarım ithali:** kota şoku yerine Türkiye'de benzer bir "ulusal siyasi şok + ilçe düzeyinde öğrenci yoğunluğu" etkileşimi kurulabilir — örn. 2025 İmamoğlu tutuklaması sonrası eylemler, Boğaziçi/ODTÜ/İTÜ kampüs yoğunluğu ile il bazlı protesto sayıları; YÖK öğrenci sayıları il düzeyinde açık, olay verisi için ACLED + yerel doğrulama gerekir. (2) **Placebo mantığı Türkiye'de daha da güçlü:** 2006 sonrası kurulan çok sayıda üniversite (ilçelere yayılmış) bir kısmı yıllarca fiilen öğrenci almadan açıldı; bu, "kampüs binası mı, aktif öğrenci kolektifi mi" ayrımını Türkiye'de doğal olarak test etmeyi mümkün kılar. (3) **Otoriter baskı okuması:** makale, 2016 sonrası Türkiye'de akademisyen ihraçları ve rektör atamalarının neden bir rejim refleksi olduğunu — kampüsün ayaklanma kuluçkası olarak algılanması — ampirik olarak destekliyor; ancak dikkat: Türkiye'de üniversite açma kararı siyasi bir araç olduğu için öğrenci yoğunluğu ile iktidar yanlılığı iç içe geçer, bu da ilçe sabit etkilerinin temizlemediği bir seçilim sorunu yaratır. Ayrıca TR'de yükseköğrenim kotası yerine **atama/tutuklama dalgaları** şok işlevi görür; şokun "ulusal ve dışsal" olması varsayımı TR verisinde daha kırılgandır.
 
+## Kavramsal Konum (wiki bağlamı)
+
+Makale, **demokratik erozyon** literatürünün ters yönünü test ediyor: on beş yıl boyunca kurumsal muhalefeti tasfiye ederek ayakta kalan bir otoriter rejimin, **seçim dışı siyasal katılımın** (non-electoral participation) tek bir yoğunlaşma noktası — kampüs — üzerinden beş haftada çökebildiğini gösteriyor. Bu, protesto yayılımı literatürüne iki katkı yapıyor: (1) yayılımın taşıyıcısı olarak sosyal medya ağlarının yanına **kurumsal mekân konsantrasyonunu** koyuyor; (2) kolektif eylem kapasitesini nüfus kompozisyonundan (gençlik, kentleşme, eğitim) ayırıyor.
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
@@ -62,6 +66,7 @@ Türkiye için üç kullanım değeri var. (1) **Tasarım ithali:** kota şoku y
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nber.md|Nber]]
