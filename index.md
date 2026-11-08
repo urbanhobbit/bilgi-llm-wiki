@@ -560,4 +560,5 @@
 - [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes.md|TikTok For You feed breaches DSA on rabbit holes]]
 - [[raw/articles/2026-11-02_fake-plastic-voters-ai-simulated-focus-groups.md|Fake Plastic Voters: AI-Simulated Focus Groups]]
 - [[raw/articles/2024-10-15_attraction-to-politically-extreme-users-on-social-.md|Attraction to politically extreme users on social media (political acrophily)]]
+- [[raw/articles/2026-11-02_universities-as-incubators-of-mass-uprising-bangla.md|Universities as Incubators of Mass Uprising: Bangladesh 2024]]
 

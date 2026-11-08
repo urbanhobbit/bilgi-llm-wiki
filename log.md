@@ -1822,3 +1822,8 @@
 - Source files: 2026-11-08_attraction-to-politically-extreme-users-acrophily.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-08] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-02_universities-as-incubators-of-mass-uprising-bangla.md]] — Universities as Incubators of Mass Uprising: Bangladesh 2024
+- Source files: 2026-11-08_universities-as-incubators-of-mass-uprising-bangladesh.json
+- Agent: OKF Ingestion Pipeline
+
