@@ -559,4 +559,6 @@
 - [[raw/articles/2026-11-06_macke-gedon-wahl-teaching-ai-to-build-scientific-m.md|Macke Gedon Wahl: Teaching AI to build scientific models]]
 - [[raw/articles/2026-11-06_tiktok-for-you-feed-breaches-dsa-on-rabbit-holes.md|TikTok For You feed breaches DSA on rabbit holes]]
 - [[raw/articles/2026-11-02_fake-plastic-voters-ai-simulated-focus-groups.md|Fake Plastic Voters: AI-Simulated Focus Groups]]
+- [[raw/articles/2026-11-02_fake-plastic-voters-when-political-parties-can-use.md|Fake Plastic Voters: When Political Parties Can Use AI-Simulated Focus Groups]]
+- [[raw/articles/2024-10-15_attraction-to-politically-extreme-users-on-social-.md|Attraction to politically extreme users on social media (political acrophily)]]
 
