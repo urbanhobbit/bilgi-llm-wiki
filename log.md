@@ -1818,8 +1818,7 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-11-08] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-11-02_fake-plastic-voters-when-political-parties-can-use.md]] — Fake Plastic Voters: When Political Parties Can Use AI-Simulated Focus Groups
 - Raw: [[raw/articles/2024-10-15_attraction-to-politically-extreme-users-on-social-.md]] — Attraction to politically extreme users on social media (political acrophily)
-- Source files: 2026-11-08_attraction-to-politically-extreme-users-acrophily.json, 2026-11-08_000258_ingestion.json
+- Source files: 2026-11-08_attraction-to-politically-extreme-users-acrophily.json
 - Agent: OKF Ingestion Pipeline
 

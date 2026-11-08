@@ -51,6 +51,10 @@ Zimmerman, Bailey, Muric, Ferrara, Schöne, Willer, Halperin, Navajas, Gross ve 
 
 Türkiye'ye aktarım dört noktada anlamlı: (1) **Kamp içi sertleşme:** akrofili, Türkiye'de X'te gözlenen 'kendi tarafının en sert kanadını takip etme' eğilimini homofiliden bağımsız bir mekanizma olarak okumayı mümkün kılıyor — yani kutuplaşma yalnız iki kamp arasında değil, her kampın **içinde** de derinleşiyor olabilir. (2) **Asimetri testi:** makale muhafazakâr tarafta daha güçlü akrofili buluyor; Türkiye'de bu, iktidar kampı içinde daha marjinal/sert hesaplara yönelme hipotezi olarak 2023-2024 seçim dönemlerinin retweet ağında sınanabilir. (3) **Ölçüm uyarısı:** yöntem ideolojiyi medya tüketiminden çıkarıyor; Türkiye'de TRT/A Haber/ATV-Habertürk ekseni ile Halk TV/Tele1/Sözcü eksenini ayrı ayrı haritalamak, ayrıca anket şirketi ve 'havuz' medyasının melez konumunu hesaba katmak gerekir. 'Aşırılık' burada sol-sağdan çok **lider-kamp sadakati ve milliyetçilik dozu** üzerinden kurulduğu için tek eksenli ölçek yanıltıcı olur. (4) **Troll/bot karışımı:** TR X ekosisteminde koordineli hesap ağları yaygın olduğundan, akrofili katsayısının bir kısmı organik tercih değil kampanya kaynaklı olabilir; bu ayrım yapılmadan TR verisiyle doğrudan kıyas riskli.
 
+## Kavramsal Konum (wiki bağlamı)
+
+Makalenin merkezî kavramı **politik akrofili** (political acrophily): kendi kampı içinde kendinden daha uçta duranı tercih etme. Bu, **ideolojik aşırılık** (ideological extremity) literatürüne bir *tercih* katmanı ekliyor — aşırılık yalnızca bir konum değil, aynı zamanda çekiciliği olan bir sinyal (temsil gücü, otantiklik, kararlılık). İkinci kavramsal bağ **duygusal kutuplaşma** (affective polarization): akrofili, dış-grup düşmanlığıyla birlikte hareket ediyor, yani ayrışma hem ağ yapısında hem duygu düzeyinde derinleşiyor. Üçüncü bağ **homofili**: akrofili homofilinin yerine geçmiyor, onun üstüne biniyor; mesafe etkisi (b = −4,79) hâlâ güçlü.
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
@@ -61,7 +65,11 @@ Türkiye'ye aktarım dört noktada anlamlı: (1) **Kamp içi sertleşme:** akrof
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/politik-akrofili.md|Politik Akrofili (Political Acrophily)]]
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ideolojik-asirilik.md|İdeolojik Aşırılık]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/academic-oup-com.md|Academic Oup Com]]
+- [[entities/x-com.md|X (Twitter)]]
