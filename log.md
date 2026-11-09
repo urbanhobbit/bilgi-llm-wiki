@@ -1827,3 +1827,8 @@
 - Source files: 2026-11-08_universities-as-incubators-of-mass-uprising-bangladesh.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-04-22_causal-effects-versus-causal-mechanisms-two-tradit.md]] — Causal Effects Versus Causal Mechanisms: Two Traditions With Different Requirements and Contributions Towards Causal Understanding
+- Source files: 2026-11-09_causal-effects-versus-causal-mechanisms-grace.json
+- Agent: OKF Ingestion Pipeline
+
