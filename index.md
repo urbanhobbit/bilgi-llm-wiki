@@ -563,4 +563,8 @@
 - [[raw/articles/2024-10-15_attraction-to-politically-extreme-users-on-social-.md|Attraction to politically extreme users on social media (political acrophily)]]
 - [[raw/articles/2026-11-02_universities-as-incubators-of-mass-uprising-bangla.md|Universities as Incubators of Mass Uprising: Bangladesh 2024]]
 - [[raw/articles/2025-04-22_causal-effects-versus-causal-mechanisms-two-tradit.md|Causal Effects Versus Causal Mechanisms: Two Traditions With Different Requirements and Contributions Towards Causal Understanding]]
+- [[raw/articles/2023-04-24_evidential-pluralism-in-the-social-sciences.md|Evidential Pluralism in the Social Sciences]]
+- [[raw/articles/2026-03-31_mapping-the-cognitive-warfare-literature-a-strateg.md|Mapping the cognitive warfare literature: A strategic analysis (1981–2025)]]
+- [[raw/articles/2026-11-03_partisan-responsiveness-in-real-time-causal-eviden.md|Partisan responsiveness in real time: causal evidence from Trump’s military attack on Iran]]
+- [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times.md|Partisan Wishful Thinking in Polarized Times]]
 

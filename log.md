@@ -1841,3 +1841,11 @@
 - Source files: 2026-11-09_causal-effects-versus-causal-mechanisms-grace.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-09] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2023-04-24_evidential-pluralism-in-the-social-sciences.md]] — Evidential Pluralism in the Social Sciences
+- Raw: [[raw/articles/2026-03-31_mapping-the-cognitive-warfare-literature-a-strateg.md]] — Mapping the cognitive warfare literature: A strategic analysis (1981–2025)
+- Raw: [[raw/articles/2026-11-03_partisan-responsiveness-in-real-time-causal-eviden.md]] — Partisan responsiveness in real time: causal evidence from Trump’s military attack on Iran
+- Raw: [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times.md]] — Partisan Wishful Thinking in Polarized Times
+- Source files: 2026-11-09_partisan-wishful-thinking-polarized-times-warner.json, 2026-11-09_evidential-pluralism-social-sciences-shan-williamson.json, 2026-11-09_partisan-responsiveness-real-time-trump-iran.json, 2026-11-09_mapping-cognitive-warfare-literature-russo-yazdanjue.json
+- Agent: OKF Ingestion Pipeline
+
