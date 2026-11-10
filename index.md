@@ -567,4 +567,5 @@
 - [[raw/articles/2026-03-31_mapping-the-cognitive-warfare-literature-a-strateg.md|Mapping the cognitive warfare literature: A strategic analysis (1981–2025)]]
 - [[raw/articles/2026-11-03_partisan-responsiveness-in-real-time-causal-eviden.md|Partisan responsiveness in real time: causal evidence from Trump’s military attack on Iran]]
 - [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times.md|Partisan Wishful Thinking in Polarized Times]]
+- [[raw/articles/2026-11-09_political-social-media-influencers-and-the-parasoc.md|Political Social Media Influencers and the Parasocial Bridge to Democratically Corrosive Attitudes]]
 

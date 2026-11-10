@@ -1849,3 +1849,8 @@
 - Source files: 2026-11-09_partisan-wishful-thinking-polarized-times-warner.json, 2026-11-09_evidential-pluralism-social-sciences-shan-williamson.json, 2026-11-09_partisan-responsiveness-real-time-trump-iran.json, 2026-11-09_mapping-cognitive-warfare-literature-russo-yazdanjue.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-09_political-social-media-influencers-and-the-parasoc.md]] — Political Social Media Influencers and the Parasocial Bridge to Democratically Corrosive Attitudes
+- Source files: 2026-11-09_political-social-media-influencers-parasocial-bridge-labarre-pipal.json
+- Agent: OKF Ingestion Pipeline
+
