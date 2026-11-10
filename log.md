@@ -1859,3 +1859,8 @@
 - Source files: 2026-11-10_polarising-punchlines-intergroup-humour-affective-polarisation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11_evidence-review-of-adolescent-and-youth-participat.md]] — Evidence Review of Adolescent and Youth Participation: Impact in Governance and Policymaking
+- Source files: 2026-11_unicef-innocenti-evidence-review-adolescent-youth-participation.json
+- Agent: OKF Ingestion Pipeline
+

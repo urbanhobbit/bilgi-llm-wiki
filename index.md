@@ -569,4 +569,5 @@
 - [[raw/articles/2026-10-14_partisan-wishful-thinking-in-polarized-times.md|Partisan Wishful Thinking in Polarized Times]]
 - [[raw/articles/2026-11-09_political-social-media-influencers-and-the-parasoc.md|Political Social Media Influencers and the Parasocial Bridge to Democratically Corrosive Attitudes]]
 - [[raw/articles/2026-10-23_polarising-punchlines-the-influence-of-intergroup-.md|Polarising punchlines: The influence of intergroup humour on affective political polarisation]]
+- [[raw/articles/2026-11_evidence-review-of-adolescent-and-youth-participat.md|Evidence Review of Adolescent and Youth Participation: Impact in Governance and Policymaking]]
 
