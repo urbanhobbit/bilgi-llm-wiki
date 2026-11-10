@@ -19,3 +19,4 @@ confidence: medium
 ## İlgili Kaynaklar
 
 Bu kavramla ilgili kaynaklar [[index.md|wiki dizininde]] listelenmiştir.
+- [[raw/articles/2026-11_evidence-review-of-adolescent-and-youth-participat.md|UNICEF Innocenti — Evidence Review of Adolescent and Youth Participation (2026): çevrimiçi katılımın kanıt tabanı boş]]
