@@ -1854,3 +1854,8 @@
 - Source files: 2026-11-09_political-social-media-influencers-parasocial-bridge-labarre-pipal.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-10] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-23_polarising-punchlines-the-influence-of-intergroup-.md]] — Polarising punchlines: The influence of intergroup humour on affective political polarisation
+- Source files: 2026-11-10_polarising-punchlines-intergroup-humour-affective-polarisation.json
+- Agent: OKF Ingestion Pipeline
+

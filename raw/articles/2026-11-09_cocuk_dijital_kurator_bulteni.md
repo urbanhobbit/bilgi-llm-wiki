@@ -507,3 +507,34 @@ Aktarılan bir çalışmaya göre Avustralya'da yasak, çocuk hesaplarını **ya
 **Hazırlayan:** KURATOR Araştırma Ekibi • **Konum:** bilgi-llm-wiki / raw/articles
 
 > **Not:** Bu bültende yer alan tüm sayısal iddialar kaynak ve tarih ile birlikte verilmiştir. "Aktarım" olarak işaretlenen veriler (Avustralya hesap düşüşü) birincil rapora erişilemediği için ikincil kaynaktan alınmıştır; atıf yapılırken bu nüans korunmalıdır.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/climate-disinformation.md|Climate Disinformation (İklim Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/onvargi-ve-stereotipler.md|Önyargı ve Stereotipler]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/tavsan-deligi-etkisi.md|Tavşan Deliği Etkisi (Rabbit Hole Effect)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/european-commission.md|European Commission]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/youtube.md|YouTube]]
