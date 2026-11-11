@@ -29,3 +29,4 @@ Yapay zeka araçlarıyla üretilen dezenformasyon içerikleri. EDMO Signals & No
 - **Macaristan 2026:** Fidesz'in yoğun AI üretimi kampanya içeriği (Krekó vd. analizi)
 - **Ermenistan:** AI yapımı rockstar videolarıyla koordineli dezenformasyon (GADMO tespiti)
 - [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md|So vd. (Nature Human Behaviour 2026) — 'slop' doğal kategori değil, topluluk yargısı]]
+- [[raw/articles/2026-11-05_perceived-exposure-to-ai-generated-misinformation-.md|ALkharraz vd. (Frontiers in Communication 2026) — kriz anında AI dezenformasyonu: tehdit algısı aracı, eleştirel AI okuryazarlığı düzenleyici]]

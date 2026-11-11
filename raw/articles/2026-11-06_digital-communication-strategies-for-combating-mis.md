@@ -62,8 +62,8 @@ Bu kaydın Türkiye değeri içeriğinden çok **uyarısında**. (1) **Kalite ka
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/misinformation-resilience-indexes.md|Misinformation Resilience Indexes]]
+- [[raw/articles/2026-11-05_perceived-exposure-to-ai-generated-misinformation-.md|Kardeş kayıt: BAE kriz bağlamında yapay zekâ üretimi dezenformasyon ve doğrulama niyeti (Frontiers 2026)]]

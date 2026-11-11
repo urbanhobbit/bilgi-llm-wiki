@@ -57,7 +57,7 @@ Sekiz yazarlı (Feras ALkharraz, Ahd M. M. Abudraz, Wafaa A. K. Tharwat, Raed E.
 
 ## Turkey Context
 
-Türkiye'ye aktarım üç düzlemde, ama en güçlüsü **afet iletişimi**. (1) **Bağlam örtüşmesi:** Çalışma BAE'de 'kriz' bağlamında yapay zekâ üretimi dezenformasyonu ölçüyor; Türkiye afet bakımından çok daha yüksek maruziyetli bir ülke (2023 Kahramanmaraş depremleri, 2021 orman yangınları, 2024-2026 sel ve aşırı hava olayları). Deprem sonrası dönemde üretilen sentetik görüntü/ses (yıkım fotoğrafları, 'yardım çağrısı' videoları, sahte enkaz görüntüleri) tam olarak makalenin ölçtüğü olgudur — ama Türkiye'de 'yapay zekâ dezenformasyonuna maruz kalma → doğrulama niyeti' zinciri hiç bu modelle ölçülmedi. (2) **Kuramsal aktarım:** Bulgu siyaset dışı bir mekanizma öneriyor: maruz kalma doğrudan doğrulamayı artırmıyor, **tehdit algısı** üzerinden artırıyor; eleştirel AI okuryazarlığı bu yolu güçlendiriyor (f²=0.018 — küçük). Türkiye'de afet okuryazarlığı ve medya okuryazarlığı programları ağırlıkla 'içeriği sorgula' düzeyinde; 'sentetik olduğunu fark etme' (AI-specific literacy) ayrı bir bileşen olarak müfredatta yok. AFAD/Teyit iş birliklerinde bu bileşenin eklenmesi için savunulabilir bir gerekçe. (3) **Yöntemsel uyarı:** n=320, kesitsel, öz-bildirim, düşük IVI iç tutarlılığı ve yüksek HTMT — yani Türkiye replikasyonu tasarlanırsa ölçek geliştirme aşaması ciddiye alınmalı; aksi halde aynı ölçüm zayıflığı taşınır. Ayrıca ülke karşılaştırması için BAE örneklemi yüksek göçmen oranı ve platform kullanım profiliyle Türkiye'den ayrışıyor.
+Türkiye'ye aktarım üç düzlemde, ama en güçlüsü **afet iletişimi**. (1) **Bağlam örtüşmesi:** Çalışma BAE'de 'kriz' bağlamında yapay zekâ üretimi dezenformasyonu ölçüyor; Türkiye afet bakımından çok daha yüksek maruziyetli bir ülke (2023 Kahramanmaraş depremleri, 2021 orman yangınları, 2024-2026 sel ve aşırı hava olayları). Deprem sonrası dönemde üretilen sentetik görüntü/ses (yıkım fotoğrafları, 'yardım çağrısı' videoları, sahte enkaz görüntüleri) tam olarak makalenin ölçtüğü olgudur — ama Türkiye'de 'yapay zekâ dezenformasyonuna maruz kalma → doğrulama niyeti' zinciri hiç bu modelle ölçülmedi. (2) **Kuramsal aktarım (AI-generated disinformation literatürü):** Bulgu siyaset dışı bir mekanizma öneriyor: maruz kalma doğrudan doğrulamayı artırmıyor, **tehdit algısı** üzerinden artırıyor; eleştirel AI okuryazarlığı bu yolu güçlendiriyor (f²=0.018 — küçük). Türkiye'de afet okuryazarlığı ve medya okuryazarlığı programları ağırlıkla 'içeriği sorgula' düzeyinde; 'sentetik olduğunu fark etme' (AI-specific literacy) ayrı bir bileşen olarak müfredatta yok. AFAD/Teyit iş birliklerinde bu bileşenin eklenmesi için savunulabilir bir gerekçe. (3) **Yöntemsel uyarı:** n=320, kesitsel, öz-bildirim, düşük IVI iç tutarlılığı ve yüksek HTMT — yani Türkiye replikasyonu tasarlanırsa ölçek geliştirme aşaması ciddiye alınmalı; aksi halde aynı ölçüm zayıflığı taşınır. Ayrıca ülke karşılaştırması için BAE örneklemi yüksek göçmen oranı ve platform kullanım profiliyle Türkiye'den ayrışıyor.
 
 ## 🏷 Retorik Roller
 
@@ -68,7 +68,9 @@ Türkiye'ye aktarım üç düzlemde, ama en güçlüsü **afet iletişimi**. (1)
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI Üretimi Dezenformasyon]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/frontiersin-org.md|Frontiersin Org]]
+- [[entities/frontiersin-org.md|Frontiers]]
+- [[raw/articles/2026-11-06_digital-communication-strategies-for-combating-mis.md|⚠️ DÜŞÜK güvenilirlik — IJIT derlemesi: medya okuryazarlığı + düzeltici/önleyici iletişim literatür haritası]]
