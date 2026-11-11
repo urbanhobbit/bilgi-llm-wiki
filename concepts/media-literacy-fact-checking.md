@@ -35,3 +35,4 @@ EDMO'nun medya okuryazarlığı eğitimleri ve doğrulama faaliyetleri. AB çap�
 **İlgili Yayınlar:**
 - [[raw/articles/edmo-signals-noise-issue-18-2025-06.md|Signals & Noise Issue 18]] — Eğitim serileri ve UN IGF
 - [[raw/articles/edmo-signals-noise-issue-19-2026-04.md|Signals & Noise Issue 19]] — Görev gücü raporları
+- [[raw/articles/2026-11-08_flooding-using-disinformation.md|Flooding deneyleri (BJSP 2026) — tekil fact-checking sel ortamında neden yetersiz]]

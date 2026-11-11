@@ -28,3 +28,4 @@ Dezenformasyon, aldatma niyetiyle üretilen ve yayılan yanlış/yanıltıcı bi
 - [[raw/articles/2026-07-29_misinformation-as-strategy-epistemic-consequences-.md|Misinformation as Strategy]]
 - [[raw/articles/2026-07-23_conspiracy-metacognitive-intergroup.md|Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes]]
 - [[raw/articles/2026-09-17_what-beliefs-are-most-debunkable.md|What beliefs are most debunkable?]]
+- [[raw/articles/2026-11-08_flooding-using-disinformation.md|Szegőfi, Altay & Heintz (BJSP 2026) — 'Flooding' using disinformation: sel, belirsizlik ve bilgi yüklenmesi]]

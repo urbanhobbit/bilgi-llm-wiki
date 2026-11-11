@@ -71,4 +71,5 @@ Türkiye, makalenin tarif ettiği 'sel' ortamının laboratuvar dışındaki en 
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/onlinelibrary-wiley-com.md|Onlinelibrary Wiley Com]]
+- [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
+- [[entities/osf-io.md|OSF (Open Science Framework)]]
