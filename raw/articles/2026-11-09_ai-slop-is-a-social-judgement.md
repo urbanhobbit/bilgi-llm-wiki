@@ -49,7 +49,7 @@ Bu, dezenformasyon ve platform yönetişimi literatüründe tanıdık bir kayma:
 
 ## Turkey Context
 
-Türkiye'ye aktarım, tam metin okunamadığı için **çerçeve düzeyinde** ve üç noktada anlamlı. (1) **Dedektör ithalinin sınırı:** 'slop'u sosyal yargı olarak tanımlamak, İngilizce veriyle eğitilmiş dedektörlerin Türkçe içerikte çalışmayacağı tespitini bir adım öteye taşıyor — sorun sadece model doğruluğu değil, **hangi topluluğun neyi 'istenmeyen yapay zekâ içeriği' saydığı**. Türkçe için böyle bir topluluk ölçümü (hangi içerik 'çöp' sayılıyor, kim 'yapay zekâ' diye itham ediyor) henüz yok; Teyit/Doğruluk Payı hattı dezenformasyona odaklı, 'slop' ithamlarını ölçmüyor. Bu, KURATOR için doğrudan bir araştırma boşluğu. (2) **Düzenleme mantığı:** Türkiye'de içerik yönetişimi 5651 ve sonrasındaki düzenlemelerle **tekil içerik kaldırma/cezalandırma** mantığına dayanıyor; 'topluluk yargısı' çerçevesi ise platformların topluluk standartlarını ve itiraz mekanizmalarını görünür kılmasını öne çıkarıyor. İkisi arasındaki gerilim, AB'de etiketleme yükümlülüğü tartışmasıyla (DSA) birlikte Türkiye için de bir politika notu konusu. (3) **Çocuk ve dijital medya:** Çocuk içeriğinde 'slop' tanımı dedektörle değil ebeveyn/topluluk yargısıyla işliyor; çocuk dijital hakları hattında 'istenmeyen içerik' ölçütünü teknik değil toplumsal tanımlamak, yaş doğrulama ve ebeveyn kontrolü tartışmasının kör noktasını gösteriyor. **Uyarı:** Bu üç çıkarım Comment'in özetindeki çerçeveden yapılmıştır; metnin kendi vaka ve önerileri doğrulanmadığı için politika notuna dönüştürülmeden önce tam metnin (kurumsal erişim veya yazarlardan kopya) edinilmesi gerekir.
+Türkiye'ye aktarım, tam metin okunamadığı için **çerçeve düzeyinde** ve üç noktada anlamlı. (1) **Dedektör ithalinin sınırı (ai-generated disinformation hattı):** 'slop'u sosyal yargı olarak tanımlamak, İngilizce veriyle eğitilmiş dedektörlerin Türkçe içerikte çalışmayacağı tespitini bir adım öteye taşıyor — sorun sadece model doğruluğu değil, **hangi topluluğun neyi 'istenmeyen yapay zekâ içeriği' saydığı**. Türkçe için böyle bir topluluk ölçümü (hangi içerik 'çöp' sayılıyor, kim 'yapay zekâ' diye itham ediyor) henüz yok; Teyit/Doğruluk Payı hattı dezenformasyona odaklı, 'slop' ithamlarını ölçmüyor. Bu, KURATOR için doğrudan bir araştırma boşluğu. (2) **Düzenleme mantığı:** Türkiye'de içerik yönetişimi 5651 ve sonrasındaki düzenlemelerle **tekil içerik kaldırma/cezalandırma** mantığına dayanıyor; 'topluluk yargısı' çerçevesi ise platformların topluluk standartlarını ve itiraz mekanizmalarını görünür kılmasını öne çıkarıyor. İkisi arasındaki gerilim, AB'de etiketleme yükümlülüğü tartışmasıyla (DSA) birlikte Türkiye için de bir politika notu konusu. (3) **Çocuk ve dijital medya:** Çocuk içeriğinde 'slop' tanımı dedektörle değil ebeveyn/topluluk yargısıyla işliyor; çocuk dijital hakları hattında 'istenmeyen içerik' ölçütünü teknik değil toplumsal tanımlamak, yaş doğrulama ve ebeveyn kontrolü tartışmasının kör noktasını gösteriyor. **Uyarı:** Bu üç çıkarım Comment'in özetindeki çerçeveden yapılmıştır; metnin kendi vaka ve önerileri doğrulanmadığı için politika notuna dönüştürülmeden önce tam metnin (kurumsal erişim veya yazarlardan kopya) edinilmesi gerekir.
 
 ## 🏷 Retorik Roller
 
@@ -60,7 +60,8 @@ Türkiye'ye aktarım, tam metin okunamadığı için **çerçeve düzeyinde** ve
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI Üretimi Dezenformasyon]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nature-com.md|Nature Com]]
+- [[entities/nature-com.md|Nature]]
