@@ -1884,3 +1884,8 @@
 - Source files: 2025-08-27_bandwagon-or-backlash-trump-2016-west-european-far-right.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08-31_autoethnography-understandings-evolution-and-the-i.md]] — Autoethnography: Understandings, Evolution, and the Influence of GenAI
+- Source files: 2026-08-31_autoethnography-understandings-evolution-genai.json
+- Agent: OKF Ingestion Pipeline
+

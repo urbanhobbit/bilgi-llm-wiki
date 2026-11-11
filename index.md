@@ -574,4 +574,5 @@
 - [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md|AI ‘slop’ is a social judgement]]
 - [[raw/articles/2026-11-10_your-politics-may-shape-more-than-you-think-9-find.md|Your Politics May Shape More Than You Think: 9 Findings on Political Partisans]]
 - [[raw/articles/2025-08-27_bandwagon-or-backlash-examining-the-impact-of-trum.md|Bandwagon or backlash? Examining the impact of Trump's 2016 election on support for the West European far right]]
+- [[raw/articles/2026-08-31_autoethnography-understandings-evolution-and-the-i.md|Autoethnography: Understandings, Evolution, and the Influence of GenAI]]
 
