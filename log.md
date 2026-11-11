@@ -1864,3 +1864,8 @@
 - Source files: 2026-11_unicef-innocenti-evidence-review-adolescent-youth-participation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-08_flooding-using-disinformation.md]] — 'Flooding' using disinformation
+- Source files: 2026-11-08_flooding-using-disinformation.json
+- Agent: OKF Ingestion Pipeline
+
