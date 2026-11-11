@@ -64,7 +64,11 @@ Türkiye'ye aktarım iki düzlemde: tasarım ve mekanizma. (1) **Tasarım ithali
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/populist-oylama.md|Popülist Oylama]]
 - [[concepts/populizm.md|Popülizm]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/europeansocialsurvey-org.md|European Social Survey (ESS)]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis Online]]
+- [[raw/articles/2026-11-03_partisan-responsiveness-in-real-time-causal-eviden.md|Aynı tasarım ailesi: Turnbull-Dugarte vd. — gerçek zamanlı partizan tepkisellik (PSRM 2026)]]

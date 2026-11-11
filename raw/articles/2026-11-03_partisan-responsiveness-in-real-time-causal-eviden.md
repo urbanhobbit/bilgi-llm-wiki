@@ -58,3 +58,4 @@ Türkiye'ye aktarımı dört düzlemde anlamlı ve bir uyarıyla sınırlı. (1)
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[raw/articles/2025-08-27_bandwagon-or-backlash-examining-the-impact-of-trum.md|ESS saha tarihiyle aynı mantık: Allen (JEPOP 2026) — Trump 2016 ve Avrupa aşırı sağı]]

@@ -29,3 +29,4 @@ Popülizm, toplumu 'saf halk' ile 'yozlaşmış seçkinler' olarak ikiye bölen 
 - [[raw/articles/2026-07-23_ideas-or-strategy-populist-incumbents.md|Ideas or Strategy?]]
 - [[raw/articles/2026-07-23_polarized-by-fear.md|Polarized by Fear]]
 - [[raw/articles/2026-07-24_argentina-ideological-affective-polarization.md|Ideological and Affective Polarization in Argentina]]
+- [[raw/articles/2025-08-27_bandwagon-or-backlash-examining-the-impact-of-trum.md|Allen (JEPOP 2026) — Trump'ın 2016 zaferi Batı Avrupa aşırı sağında backlash üretti]]
