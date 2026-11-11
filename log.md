@@ -1869,3 +1869,8 @@
 - Source files: 2026-11-08_flooding-using-disinformation.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md]] — AI ‘slop’ is a social judgement
+- Source files: 2026-11-09_ai-slop-is-a-social-judgement.json
+- Agent: OKF Ingestion Pipeline
+
