@@ -572,4 +572,5 @@
 - [[raw/articles/2026-11_evidence-review-of-adolescent-and-youth-participat.md|Evidence Review of Adolescent and Youth Participation: Impact in Governance and Policymaking]]
 - [[raw/articles/2026-11-08_flooding-using-disinformation.md|'Flooding' using disinformation]]
 - [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md|AI ‘slop’ is a social judgement]]
+- [[raw/articles/2026-11-10_your-politics-may-shape-more-than-you-think-9-find.md|Your Politics May Shape More Than You Think: 9 Findings on Political Partisans]]
 

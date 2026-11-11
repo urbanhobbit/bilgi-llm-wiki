@@ -1874,3 +1874,8 @@
 - Source files: 2026-11-09_ai-slop-is-a-social-judgement.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-10_your-politics-may-shape-more-than-you-think-9-find.md]] — Your Politics May Shape More Than You Think: 9 Findings on Political Partisans
+- Source files: 2026-11-10_power-of-us-9-findings-political-partisans.json
+- Agent: OKF Ingestion Pipeline
+
