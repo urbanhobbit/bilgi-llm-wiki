@@ -1889,3 +1889,9 @@
 - Source files: 2026-08-31_autoethnography-understandings-evolution-genai.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-05_perceived-exposure-to-ai-generated-misinformation-.md]] — Perceived Exposure to AI-Generated Misinformation During Crises and Information Verification Intentions: The Mediating Role of Perceived Misinformation Threat and the Moderating Role of Critical AI Literacy among Social Media Users in the United Arab Emirates
+- Raw: [[raw/articles/2026-11-06_digital-communication-strategies-for-combating-mis.md]] — Digital Communication Strategies for Combating Misinformation and Strengthening Media Literacy Among Young Adults
+- Source files: 2026-11-06_digital-communication-strategies-misinformation-media-literacy.json, 2026-11-05_ai-generated-misinformation-crises-uae-verification.json
+- Agent: OKF Ingestion Pipeline
+
