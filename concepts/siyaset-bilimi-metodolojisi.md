@@ -27,3 +27,4 @@ Siyaset bilimi araştırmalarında kullanılan başlıca yöntemler:
 ## İlgili Makaleler
 - [[raw/articles/2026-09-23_listening-to-leaders-illiberal-speech-as-a-symptom.md|Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline]] — ISI: DeBERTa ince ayarı, insan kodlayıcı altın standardı, Bayesçi dinamik latent değişken modeli (ölçüm + doğrulama akışı).
 - [[raw/articles/2025-11-24_forecasting-social-science-evidence-from-100-proje.md|Forecasting Social Science: Evidence from 100 Projects]] — 100 proje, 53.298 tahmin: araştırma sonuçlarını önceden tahmin etme, güç hesabı ve büzüştürülmüş topluluk tahmini.
+- [[raw/articles/2026-08-31_autoethnography-understandings-evolution-and-the-i.md|Christou (TQR 2026) — GenAI otoetnografik yöntemi nasıl bozuyor]]
