@@ -1895,3 +1895,8 @@
 - Source files: 2026-11-06_digital-communication-strategies-misinformation-media-literacy.json, 2026-11-05_ai-generated-misinformation-crises-uae-verification.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-11_graph-theory-for-visual-learners.md]] — Graph Theory for Visual Learners
+- Source files: 2026-11-11_graph-theory-for-visual-learners.json
+- Agent: OKF Ingestion Pipeline
+
