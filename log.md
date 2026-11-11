@@ -1879,3 +1879,8 @@
 - Source files: 2026-11-10_power-of-us-9-findings-political-partisans.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-11] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-08-27_bandwagon-or-backlash-examining-the-impact-of-trum.md]] — Bandwagon or backlash? Examining the impact of Trump's 2016 election on support for the West European far right
+- Source files: 2025-08-27_bandwagon-or-backlash-trump-2016-west-european-far-right.json
+- Agent: OKF Ingestion Pipeline
+
