@@ -54,5 +54,9 @@ Tivadar Danka'nın (The Palindrome) görsel öğretim odaklı grafik teori (çiz
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
+- [[concepts/rastgele-graflar.md|Rastgele Grafikler ve Sandviç Eşlemesi]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/thepalindrome-org.md|The Palindrome (Tivadar Danka)]]

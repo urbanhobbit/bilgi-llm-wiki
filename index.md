@@ -23,6 +23,7 @@
 - [[entities/ipie.md|International Panel on the Information Environment (IPIE)]]
 - [[entities/meddmo.md|MEDDMO (Kıbrıs/Malta)]]
 - [[entities/nber.md|NBER (National Bureau of Economic Research)]]
+- [[entities/thepalindrome-org.md|The Palindrome (Tivadar Danka)]]
 - [[entities/nordis.md|NORDIS (İskandinav)]]
 - [[entities/onlinelibrary-wiley-com.md|Wiley Online Library]]
 - [[entities/techcrunch-com.md|TechCrunch]]
@@ -44,6 +45,7 @@
 - [[entities/jsrm-scholarvista-in.md|Journal of Scholarly Research and Metrics (JSRM)]]
 
 ## Concepts
+- [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/dijital-haklar.md|Çocuk Dijital Hakları]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama]]
