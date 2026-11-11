@@ -53,3 +53,4 @@ Türkiye'de 'biz-onlar' ayrımı siyasal kimliğin merkezinde ve araştırmalar 
 ### 📄 İlgili Makaleler
 - [[raw/articles/2026-07-29_synthetic-contact-with-ai-reduces-cross-partisan-a.md|Synthetic Contact with AI Reduces Cross-Partisan Animosity (Lira vd., arXiv 2607.02181)]]
 - [[raw/articles/2026-07-31_outgroup-chatbot-conversations-correct-partisan-mi.md|Outgroup chatbot conversations correct partisan misperceptions (Jay Van Bavel, 28 Tem 2026)]]
+- [[raw/articles/2026-11-10_your-politics-may-shape-more-than-you-think-9-find.md|Aynı bültenin Kasım 2026 sayısı — 9 findings on political partisans]]

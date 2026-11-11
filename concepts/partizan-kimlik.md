@@ -30,3 +30,4 @@ Türk siyaset bilimi literatüründe seçmen davranışı uzun süre parti kimli
 
 ## İlgili Makaleler
 - [[raw/articles/2026-10-19_what-do-we-learn-from-a-decade-of-candidate-choice.md|What Do We Learn From a Decade of Candidate Choice Conjoint Experiments?]]
+- [[raw/articles/2026-11-10_your-politics-may-shape-more-than-you-think-9-find.md|Van Bavel & Packer — 9 Findings on Political Partisans (Kasım 2026)]]
