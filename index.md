@@ -58,6 +58,7 @@
 - [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]]
 - [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
 - [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]]
 
 ## Raw Articles
 

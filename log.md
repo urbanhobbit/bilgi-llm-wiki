@@ -1900,3 +1900,9 @@
 - Source files: 2026-11-11_graph-theory-for-visual-learners.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-12] ingest | Russo & Vanagt 2026 — özet doğrulaması (elle)
+- Raw: [[raw/articles/2026-11-05_russo-vanagt-rethinking-political-identity-in-euro.md]] — künye kaydı **özet düzeyine yükseltildi** (yazarın X gönderisindeki sayfa-1 görseli + OpenAlex `abstract_inverted_index`, birebir aynı)
+- Yeni kavram: [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar]] (yeni kavram sayfası, 2026-11-12)
+- Kaynak X: https://x.com/LuanaRusso_UM/status/2120898246818119850 · DOI: 10.1016/j.electstud.2026.103183
+- Bundle: v1 2073 düğüm / 7682 kenar, v2 8781 kenar; yeni düğüm dereceleri 12 ve 8
+

@@ -2,76 +2,98 @@
 type: raw_article
 title: 'Russo Vanagt: Rethinking political identity in Europe - partisan and ideological
   attachments'
-description: ⚠️ **Bu kayıt yalnızca künye düzeyinde doğrulandı — makalenin içeriği
-  okunamadı.** X gönderisi yalnızca başlık + link içeriyor (yorum yok); ScienceDirect
-  sayfası CAPTCHA duvarıyla kapalı, özet ve tam ...
+description: '✅ Özet doğrulandı (tam metin kapalı). 11 Avrupa demokrasisinde (N=10.782)
+  dörtlü siyasi kimlik tipolojisi — kimliksizler, ideologlar, partizan ideologlar,
+  partizanlar — ve "ideolojik kamplar"ın çoğunluğun kimliğinin parçası olduğu bulgusu:
+  partizanlık çok partili sistemlerde kimliği tek başına açıklamıyor, kutuplaşma kimlik
+  daraldıkça artıyor.'
 resource: https://www.sciencedirect.com/science/article/pii/S0261379426001411
 tags:
 - kurator
-- medium
-timestamp: '2026-11-06T18:02:45Z'
+- high
+- duygusal-kutuplasma
+- partizanlik
+timestamp: '2026-11-12T00:00:00Z'
 source_file: 2026-11-05_russo-vanagt-rethinking-political-identity-europe.json
 category: KURATOR
-priority: medium
+priority: high
 published: '2026-11-05'
 ---
 
 # Russo Vanagt: Rethinking political identity in Europe - partisan and ideological attachments
 
-**Author(s):** Luana Russo, Jochem Vanagt
+**Author(s):** Luana Russo (Maastricht University), Jochem Vanagt (University of Antwerp / KU Leuven)
 
-**Published:** 2026-11-05
+**Published:** 2026-11-05 (online) · *Electoral Studies* cilt **104**, makale no **103183** (Aralık 2026 sayısı)
 
-**Source:** [https://www.sciencedirect.com/science/article/pii/S0261379426001411](https://www.sciencedirect.com/science/article/pii/S0261379426001411)
+**Source:** [https://www.sciencedirect.com/science/article/pii/S0261379426001411](https://www.sciencedirect.com/science/article/pii/S0261379426001411) · DOI: [10.1016/j.electstud.2026.103183](https://doi.org/10.1016/j.electstud.2026.103183)
 
 ## Summary
 
-⚠️ **Bu kayıt yalnızca künye düzeyinde doğrulandı — makalenin içeriği okunamadı.** X gönderisi yalnızca başlık + link içeriyor (yorum yok); ScienceDirect sayfası CAPTCHA duvarıyla kapalı, özet ve tam metin hiçbir açık kanaldan alınamadı.
+**Durum: özet doğrulandı, tam metin okunamadı.** Kayıt 5 Kasım 2026'da yalnız künye düzeyinde açılmıştı; 12 Kasım'da yazarın kendi X gönderisi makalenin **birinci sayfasını** (başlık + künye + tam özet) görsel olarak paylaştı ve aynı özet OpenAlex'te de indekslenmiş olarak bulundu. İki bağımsız kanal birebir aynı metni veriyor — **özet cümlesi düzeyinde doğrulama tamam**. Bulgular, ölçüm ayrıntıları ve ülke listesi hâlâ tam metne bağlı.
 
-**Doğrulanan künye (Crossref + OpenAlex/Unpaywall):**
+**Makalenin sorusu (yazarın çerçevelemesi):** "Partizanlık azalıyor ama duygusal kutuplaşma artıyor. Neden?" (Luana Russo, X, 12 Kasım 2026)
 
-| Alan | Değer |
+**Çözmeyi önerdiği paradoks:** Batı Avrupa'da duygusal kutuplaşma — karşıt siyasi gruplar arasındaki düşmanlık — endişe verici biçimde artıyor; oysa bu ayrışmayı tarihsel olarak yapılandıran **partizan kimlikler zayıflıyor**. Makale bu görünür çelişkiyi, çok partili sistemlere özgü **yeni bir siyasi kimlik tipolojisi** önererek çözüyor: kutuplaşmanın merkezi yapısı parti değil, **ideolojik kamp** (ideological camp).
+
+**Dörtlü tipoloji (özetten birebir):** partizanlar / partizan olmayanlar ikilisinin ötesine geçiyor —
+
+| Tip | Tanım (özetin terimleriyle) |
 |---|---|
-| Başlık | Rethinking political identity in Europe: Partisan and ideological attachments in times of affective polarization |
-| Yazarlar | Luana Russo, Jochem Vanagt |
-| Dergi | *Electoral Studies*, cilt **104**, makale no **103183** (Aralık 2026 sayısı) |
-| DOI | 10.1016/j.electstud.2026.103183 |
-| Online | 5 Kasım 2026 |
-| Erişim | **Hibrit açık erişim (CC BY)** — Unpaywall/OpenAlex `oa_status: hybrid`, `license: cc-by`, `version: publishedVersion` |
-| Kaynakça | 56 kayıt · atıf: 0 (yeni) |
+| **Kimliksizler** (non-identifiers) | Ne partiye ne ideolojik kampa bağlı |
+| **İdeologlar** (ideologues) | İdeolojik kampa bağlı, belirli bir partiye değil |
+| **Partizan ideologlar** (partisan ideologues) | Hem kampa hem partinin kimliğine bağlı |
+| **Partizanlar** (partisans) | Parti kimliği baskın |
 
-**Başlığın söyledikleri (içerik doğrulanmadı):** Avrupa'da "siyasi kimlik"i yeniden düşünmeyi öneriyor; **partizan** ve **ideolojik** bağlılıkları duygusal kutuplaşma çağında ayrı ayrı ele alıyor. Yani soru, seçmenin partisine mi yoksa ideolojik etiketine mi bağlı olduğu ve bu iki bağlılığın kutuplaşmadaki rollerinin farklı olup olmadığı — Torcal vd.'nin (2026) "parti uyuşmazlığı ideoloji uyuşmazlığından güçlü" bulgusunun tam tersi bir iddiayı test edip etmediği **bilinmiyor**.
+**Bulgular (özet düzeyinde doğrulanmış):**
+1. **Veri:** on bir Avrupa demokrasisinden karşılaştırmalı anket verisi, **N = 10.782**.
+2. **İdeolojik kamplar çoğunluğun kimliğinin parçası** — vatandaşların "açık bir çoğunluğu" için siyasi kimlik yalnız partiden ibaret değil.
+3. **Partizanlık tek başına yetersiz:** çok partili bağlamlarda vatandaşın siyasi kimliğini yalnızca kısmen yakalıyor (yani "partizan / bağımsız" ikilisini ölçen standart partizanlık soruları kimliğin bir bölümünü görünmez kılıyor).
+4. **Kutuplaşma kimlik daraldıkça artıyor** — "daha dar" siyasi kimlik (kampa + partiye birlikte bağlılık), daha yüksek duygusal kutuplaşma ile ilişkili; **en kutuplaşmış grup partizanlar**.
+5. **Politika çıkarımı:** çok partili demokrasilere yönelik daha nüanslı bir kimlik/kutuplaşma haritası, partiler arası diyaloğu artırmayı hedefleyen müdahalelerin kime hitap etmesi gerektiğini değiştiriyor.
 
-**Bağlam (yazarların diğer işleri, bu makaleye atfedilmiyor):** Vanagt'ın çizgisi "negatif partizanlık ile duygusal kutuplaşmayı ayrıştırma" (2021) ve "çok partili sistemlerde duygusal kutuplaşma ölçümlerini değerlendirme" (2025) üzerine; Russo ise duygusal kutuplaşma, negatif partizanlık ve siyasal temsil alanında yayımlıyor. Bu makalenin muhtemel katkısı **ölçüm/ayrıştırma** düzeyinde — ama bu bir çıkarım, kaynak metne dayanmıyor.
+**Doğrulanmayan (tam metin gerekli):**
+- Özet **hangi anketi** kullandığını söylemiyor (on bir ülkenin listesi, saha yılı, örneklem tasarımı yok).
+- "İdeolojik kamp" **nasıl ölçülmüş** (sol-sağ öz-yerleştirme mi, kamp duygusu/derecelendirme mi, CHES tabanlı parti konumları mı) — bilinmiyor.
+- Duygusal kutuplaşma ölçüsü (Reiljan tipi ağırlıklı yayılım mı, termometre farkı mı) ve **etki büyüklükleri** yok.
+- Tipolojinin kesme noktaları (kimliksiz → ideolog geçişi nasıl tanımlanmış) yok.
+- Yazarın Torcal vd. (2026) "parti > ideoloji" bulgusuyla ilişkisi: makalenin çerçevesi parti-ideoloji yarışı değil, **kamp** düzeyi olduğu için doğrudan karşıt bulgu iddiası kurulamaz.
 
-⚠️ **Kullanım uyarısı:** Bu sayfa **atıf yapılacak bir bulgu kaydı değil**, künye kaydıdır. Özet cümlesi bile alınamadığı için makalenin savunduğu tez hakkında hiçbir iddia bu kayda dayandırılamaz. Tam metin açıldığında (kurumsal erişim veya Chrome kurulu bir ortam) kayıt yükseltilmeli.
+**Kaynakçadan konumlandırma (kaynak listesi doğrulandı, makalenin argümanına atfedilmez):** "kamp" fikri literatürde yeni değil — Kekkonen (2021) *affective blocs*, Bantel (2023) "Camps, not just parties", Wagner (2021, 2024) çok partili sistemlerde duygusal kutuplaşma, Hjermitslev (2026) "Beyond partisanship: ideological identities", Huddy vd. (2018) çok partili sistemlerde dışavurumcu partizanlık. Makalenin iddia edilen özgünlüğü bu hattı **dörtlü kimlik tipolojisine** ve kimlik genişliği–kutuplaşma ilişkisine bağlaması. Ayrıca klasik kimlik kuramı (Tajfel & Turner 1979, Brewer 1999), ölçüm tartışması (Druckman & Levendusky 2019) ve negatif partizanlık (Medeiros & Noël 2014; Mayer & Russo) kaynakçada.
 
 ## Key Points
 
-- Yalnız künye doğrulandı: Russo & Vanagt, Electoral Studies 104: 103183, DOI 10.1016/j.electstud.2026.103183, online 05.11.2026.
-- Hibrit açık erişim (CC BY) olarak işaretli — ancak ScienceDirect CAPTCHA duvarı hem sayfayı hem PDF'i kapatıyor.
-- Crossref'te özet yok (reference-count 56, abstract alanı boş); OpenAlex'te abstract_inverted_index yok.
-- Semantic Scholar API 3 denemede 429 verdi; Unpaywall yalnız yayıncı kopyasını gösteriyor (repo kopyası yok).
-- Başlık: partizan ve ideolojik bağlılıkların duygusal kutuplaşma çağında ayrı ayrı ele alınması — içerik iddiası doğrulanmadı.
-- Torcal vd. (2026) 'parti > ideoloji' bulgusuna karşıt bir sonuç mu üretiyor, bilinmiyor; karşılaştırma tam metin açılınca yapılmalı.
-- Bu kayıt atıf yapılabilir bulgu değil; yalnız 'izlenecek yayın' olarak kullanılmalı.
+- **Russo & Vanagt (2026)**, *Electoral Studies* 104: 103183, DOI 10.1016/j.electstud.2026.103183 — online 5 Kasım 2026, Aralık 2026 sayısı, **hibrit CC BY**.
+- **Özet iki kanaldan doğrulandı:** OpenAlex `abstract_inverted_index` + yazarın X'te paylaştığı sayfa-1 görseli (birebir aynı, 161 kelime).
+- **Veri:** on bir Avrupa demokrasisi, **N = 10.782** karşılaştırmalı anket.
+- **Tez:** partizanlık azalırken duygusal kutuplaşmanın artması bir paradoks değil — kimlik partiden **ideolojik kampa** kaydı; standart partizanlık ölçüleri bu kaymayı görmüyor.
+- **Tipoloji:** kimliksizler / ideologlar / partizan ideologlar / partizanlar (partizan–bağımsız ikilisinin ötesinde).
+- **Ana bulgu 1:** ideolojik kamplar vatandaşların **açık çoğunluğu** için siyasi kimliğin parçası.
+- **Ana bulgu 2:** kutuplaşma **kimlik daraldıkça** artıyor; en kutuplaşmış grup **partizanlar** (kamp + parti kimliği birlikte).
+- **Ölçüm/tam metin sınırı:** anketin adı, ülke listesi, kamp ölçümü ve etki büyüklükleri **doğrulanmadı** — bu sayfa bulgu düzeyinde atıf için özetle sınırlı.
+- **Kaynakça:** Crossref'te **87** referans tam listelenmiş (OpenAlex `referenced_works_count` 56 diyor; ikisi arasındaki fark indeksleme kaynaklı, künye etkilenmiyor).
+- **Erişim:** ScienceDirect Cloudflare duvarı ("Just a moment…") hâlâ kapalı; `shorturl.at` kısa linki botlara 403, Wayback CDX 503, Elsevier TDM API anahtar istiyor, makinede Chrome yok.
 
 ## Turkey Context
 
-Aktarılabilir bir bulgu yok — içerik okunamadı. Türkiye açısından tek anlamlı not: makalenin sorusu (partizan kimlik mi, ideolojik kimlik mi daha belirleyici?) Türkiye'de hiç bu biçimde sorulmadı. Türkiye'de parti kimliği çok güçlü, ideolojik etiketler (sol/sağ, laik/muhafazakâr) ise partilerle tam örtüşmüyor; bu iki bağlılığın ayrıştırılması Türkiye için de anlamlı bir araştırma hattı. Ancak bu makalenin ne bulduğu bilinmeden bu boşluk iddiası yalnızca bir öneri olarak kalır.
+Makalenin sorusu Türkiye için doğrudan ilgili, çünkü Türkiye "partizanlık düşerken kutuplaşma artıyor" tablosunun **tersi** bir uçta duruyor: parti kimliği güçlü, parti sistemi ise kurumsallaşma açısından kırılgan. Russo & Vanagt'ın tipolojisi burada şu hipotezi kurmayı sağlıyor — Türkiye'de seçmenin siyasi kimliği **parti kimliğinden daha geniş bir kampta** (laik/muhafazakâr, sol/sağ, Kürt meselesi ekseni) kuruluyor ve parti o kampın aracı; bu durumda "partizan ideolog" tipi baskın çıkmalı, "ideolog" (kamplı ama partisiz) tipi ise özellikle **kararsız/parti değiştiren seçmende** görünmeli. Bu, Türkiye'de ölçülmüş bir bulgu değil — makalenin tipolojisiyle kurulabilecek **test edilebilir bir hipotez**.
+
+Makalenin politika önerisi de Türkiye'ye çevrilebilir nitelikte: kutuplaşmayı düşürmeye dönük müdahaleler yalnız "partiler arası diyalog" değil, **kamp düzeyinde** temas (kamplar arası) tasarlanmalı — çünkü en kutuplaşmış kesim, kimliği hem kampı hem partiyi içeren partizanlar. Ancak bu aktarım, makalenin kendi verisinin **Batı Avrupa** ile sınırlı olduğu unutulmadan, hipotez düzeyinde tutulmalı.
 
 ---
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]] — makalenin merkezi kavramı: kutuplaşmanın yapısal birimi parti değil ideolojik kamp; dörtlü tipolojinin taşıyıcısı.
 - [[concepts/affective-polarisation.md|Affective Polarisation]]
-- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
-- [[concepts/negative-partisanship.md|Negatif Partizanlik]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]] — bağımlı değişken: kimlik daraldıkça artan duygusal kutuplaşma.
+- [[concepts/negative-partisanship.md|Negatif Partizanlik]] — kaynakçadaki hat (Medeiros & Noël 2014; Mayer & Russo); makale bunu kamp kimliğine genişletiyor.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — partizanlık ölçümünün çok partili bağlamda kimliği kısmen yakalaması, bir ölçüm/geçerlilik sorunu.
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
-- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — başlığın merkezindeki ayrım: partizan bağlılık ile ideolojik bağlılığın ayrı kimlikler olarak ele alınması.
-- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] — ideolojik bağlılığın kutuplaşmadaki ayrı rolü; içerik doğrulanmadı, yalnız başlık düzeyinde bağ.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — makale bu kavramı dört tipe ayırıyor: partizan kimlik, kimliğin yalnız bir biçimi.
+- [[concepts/ideolojik-kutuplasma.md|İdeolojik Kutuplaşma]] — ideolojik bağlılığın kutuplaşmadaki ayrı rolü; makale ideolojiyi "kamp" olarak yeniden çerçeveliyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/sciencedirect.md|ScienceDirect (Elsevier)]] — yayıncı; CC BY olmasına rağmen CAPTCHA duvarı tam metni kapattı.
+- [[entities/sciencedirect.md|ScienceDirect (Elsevier)]] — yayıncı; CC BY olmasına rağmen Cloudflare duvarı tam metni kapatıyor.
+- [[entities/electoral-studies.md|Electoral Studies]] — makalenin dergisi (cilt 104, 103183).
 ### 📄 İlgili Kayıtlar
-- [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md|Torcal, Comellas & Vrânceanu (2026): 5 ülkeli komşu konjointi]] — aynı tartışma: parti mi ideoloji mi daha güçlü ayrıştırıyor? Torcal 'parti > ideoloji' buluyor; Russo & Vanagt'ın sonucu **bilinmiyor** (metin kapalı).
+- [[raw/articles/2026-11-06_torcal-comellas-vranceanu-social-intolerance-from-.md|Torcal, Comellas & Vrânceanu (2026): 5 ülkeli komşu konjointi]] — aynı aileden soru (parti mi ideoloji mi ayrıştırıyor?) ama farklı tasarım: Torcal komşu tercihi konjointiyle "parti > ideoloji" buluyor; Russo & Vanagt bunu bir yarış olarak kurmuyor, kimliği **kamp** düzeyinde tipolojileştiriyor.
