@@ -60,6 +60,34 @@ published: '2026-10-30'
 
 Türkiye'de veri odaklı kampanyacılık tartışması çoğunlukla 'partiler veriyi ne kadar kullanıyor' ekseninde yürüyor; Sharma'nın bulgusu soruyu tersine çeviriyor: asıl mesele veri yokluğu değil, **veriye duyulan güvensizliğin kurumsal etkisi**. Türkiye'de iktidar partisinin devlet verisine (MERNİS, e-Devlet, kamu anketleri) erişimi, muhalefetin ise saha anketi ve gönüllü verisine mahkum olması, Sharma'nın tarif ettiği 'rakip veri altyapıları' rekabetini farklı bir asimetriyle üretiyor: güvensizlik değil, **erişim eşitsizliği** belirleyici. Aktarılabilir hipotez: Türkiye'de parti içi karar alma, Pencap'ta olduğu gibi 'hangi veri kaynağı kazanır' rekabetine dönüşüyor ve seçim sonrası 'veriye rağmen' alınan kararlar (aday belirleme, ittifak) bu rekabetin ürünü. Yöntem açısından da değerli: savaş odası etnografisi Türkiye'de yapılmamış — erişim engeli ([[concepts/elit-etnografisi-erisim.md|elit etnografisi ve erişim]]) aşılırsa en verimli araştırma hattı.
 
+## Bulgular ve Bölüm Haritası (tam metinden)
+
+**Argüman.** Veri odaklı kampanyacılık literatürü, partilerin veriye yatırım yapmasını veriye duyulan **inanç** olarak okuyor ('dataism', Van Dijck 2014; 'yeni bir veri inancı', Beer 2019). Sharma bunun tersini gösteriyor: Pencap'ta veri altyapısı, veriye duyulan **güvensizlik yüzünden** çoğaldı. 'Epistemik güvensizlik' = veri toplamaya aktif yatırım + verinin gerçeği gösterme kapasitesine kronik şüphe. Makale bu kavramı kritik veri çalışmalarıyla kampanyacılık literatürünü birleştirerek kuruyor.
+
+**Yöntem (Methodology).** Ocak–Şubat 2022, 2022 Pencap Yasama Meclisi seçimleri öncesi; 'Party X' (dört büyük partiden biri: SAD, INC, AAP, BJP — anonim) savaş odasında katılımcı gözlem. Pencap: 117 seçim bölgesi, 23 ilçe, üç alt-bölge (Doaba, Majha, Malwa); nüfusun ~%58'i Sih, ~%38'i Hindu. Yazarın erişimi, savaş odasına 'danışman' olarak girip 117 bölgelik dosya şablonunu tasarlamasıyla derinleşiyor — bu, kampanya emeğinin içine bakmayı sağlıyor.
+
+**1) 'Veri seli' (The deluge of data).** Savaş odasının merkezinde ~15 koordinatör (23–35 yaş, çoğunlukla erkek, yerel parti kadrolarından veya ağızdan ağıza işe alınmış) var; her biri 7–10 seçim bölgesini izliyor, iki kıdemli yöneticiye bağlı. Koordinatörler her gün yerel parti kadrolarını arayıp kampanya faaliyeti, seçmen havası ve muhalefetin mobilizasyonunu soruyor, ardından bölge için **A–D zafer olasılığı** sıralaması üretiyor ('A' neredeyse garanti zafer, 'D' kazanılması çok zor). Yanlarında iki kişilik veri analitiği ekibi, kamu kayıtları ve ticari satıcılardan seçmen veritabanları derliyor; kayıtları birleştirerek **kast, din, medeni durum ve ekonomik kırılganlık** çıkarımı yapılıyor. Dışarıdan eklenen 'dikey'ler (verticals): GOTV çağrı merkezi, anketçiler, başbakan adayı tercihini ölçen **IVR** firması (Andhra Pradesh merkezli), dijital gönüllüler/'influencer'lar ve köy düzeyinde rapor yazan siyasi danışmanlık şirketi.
+
+> **Kritik bulgu:** Bu dikeyler **triangüle edilmedi** — birbirine karşı kullanıldı. Başbakan adayı kararında anketçiler, danışmanlık şirketi, IVR ve savaş odası farklı sonuçlar verdi; karar 'veri' ile değil, kapalı kapılar ardındaki pazarlıkla çıktı ve kadroda 'veri boşa gitti' hissi yarattı. Bir kıdemli siyasetçi, koordinatörlerin yerel liderlerce rüşvetle yönlendirilmiş olabileceğini ya da anketçilerin muhalefetle işbirliği yapıyor olabileceğini düşünüyordu — yani **her kaynak, aksi kanıtlanana kadar şüpheli**.
+
+**2) 'Nicelleştirerek güven icra etmek' (Performing trust through quantification).** 117 bölgeyi iki yüzlü A4'e sığdıran dosya şablonu iki günde birkaç turda onaylandı; her turda hücreler küçültüldü, ta ki hücreler yalnızca sayı ya da tek kelime alana kadar. Bir yöneticinin sözü: *"Nitel açıklama alanlarını olabildiğince küçük tutun ki öznelliği elemine edelim."* Amaç öznelliği engellemek değil — **öznellik görüntüsünü** silmek. Sayılar, istatistiksel analiz için değil, şüpheci liderlere karşı **objektiflik ve ciddiyet performansı** için değerliydi. Porter'ın (1995) 'mesafe teknolojisi' tezinin aksine burada sayılar yereli aşmak için değil, **yerel bilgiyi meşrulaştırmak** için kullanıldı. Savaş odasında yalnızca **iki kişi** veri bilimi eğitimliydi; çoğunluk öğrenci siyaseti, gazetecilik ve parti aktivizminden geliyordu — yani nicelleşme teknokratik bir ideolojinin değil, örgütsel baskının (bilgi fazlası, dikeyler arası rekabet, liderlerin kısa dikkat süresi) ürünüydü.
+
+**3) 'Toplumsal gömülülük' (Social embeddedness).** Parti, 'hiçbir yerden bakış' (Jasanoff 2017) üretmek için sistematik olarak **dışarıdan** personel seçti: Pencap dışından koordinatörler, Pencap dışından danışmanlık firması, Andhra Pradesh'ten IVR firması. İki vinyet bu stratejinin neden çöktüğünü gösteriyor:
+- **Karan** (Rajasthan'dan, Majha'da 5 bölge): Her gün hedeflediği çağrıları yapmak yerine 1 saati aşan sohbetler yürütüyor. *"İki düz soru sorarsanız telefonu kapatırlar... Bir saat sohbet ediyorum, ancak ondan sonra ihtiyacımız olan bilgiyi alabiliyorum."* Başka bir koordinatör (Digvijay) telefon kaydında 1 saat 15 dakikalık bir arama gösteriyor.
+- **Tanuj** (Uttar Pradesh'ten, danışmanlık firmasının saha araştırmacısı): 200–300 seçmenli köy kümelerinde 'gazeteci' sahte kimliğiyle çalışıyor; köyün büyükleri gülüyor: *"Son günlerde gelen altıncı-yedinci 'gazeteci' sen misin? Kimin için çalışıyorsun?"* Sahte kimliği bırakıp haftalarca köyde yaşıyor, yerel liderler arasındaki kavgalara arabuluculuk yapıyor.
+
+> **Sonuç:** Veri ancak ilişki kurularak çıkıyor; 'data mining' metaforu yanıltıcı — veri 'dışarıda' hazır durmuyor, ilişkiler içinde **birlikte üretiliyor** (co-produced). Öznellik, kirlilik değil veri üretiminin kurucu koşulu.
+
+**Sonuç bölümünün açtığı tartışma.** (a) Veri altyapısının varlığı, kararın gerçekten veriye dayandığını garanti etmez — veri, diğer sezgisellere yenilebilir; (b) nicelleşme bağlam kaybı üretir: veri hacmi artarken **nüans yoksullaşır**, nicelleşmeye en uygun bilgi türü en değerli bilgi olmayabilir; (c) veri odaklı kampanyacılık algoritmik otomasyona indirgenemez, insan emeği merkezi. Genellenebilirlik için iki yapısal koşul: Westminster tipi tek-turlu çoğunluk sistemi ve zayıf veri koruma/etkisiz kampanya düzenlemesi. 'Epistemik güvensizliğin' demokratik siyasete özgü olup olmadığı **açık soru**.
+
+## Kavramsal ve Kuramsal Dayanaklar
+
+- **Dataism eleştirisi:** Van Dijck (2014), Beer (2019) — veriye duyulan 'inancın' ideolojik kurulumu.
+- **Nicelleşme sosyolojisi:** Porter (1995) 'mesafe teknolojisi', Merry (2016), Strathern (2000) 'audit kültürü'.
+- **Nesnellik/standpoint:** Jasanoff (2017) 'hiçbir yerden bakış'; Biruk (2018) sayıların ikna edememesi.
+- **Kampanyacılık literatürü:** Kreiss (2016), Nickerson & Rogers (2014), Dommett (2019, 2024, 2026), Baldwin-Philippi (2019), Anstead (2017), Bennett & Lyon (2019).
+- **Karşı çıktığı tanım:** Munroe & Munroe (2018) — 'veri, içgüdü/sezgi yerine karar veriyorsa veri odaklıdır' tanımının ampirik olarak sürdürülemezliği.
+
 ## 🏷 Retorik Roller
 
 - 📊 **Bulgular**
@@ -68,5 +96,10 @@ Türkiye'de veri odaklı kampanyacılık tartışması çoğunlukla 'partiler ve
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/veri-odakli-kampanyacilik.md|Veri Odaklı Kampanyacılık (Data-Driven Campaigning)]] — makalenin merkezindeki alan ve 'epistemik güvensizlik' kavramının taşıyıcısı.
+- [[concepts/elit-etnografisi-erisim.md|Elit Etnografisi ve Erişim]] — savaş odasına içeriden erişim ve saha emeği; kampanya etnografisinin yöntem kanıtı.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — A–D zafer sıralaması ve iki yüzlü A4 dosya: nicel ölçüm araçlarının ikna işlevi, ölçmenin kendisi kadar sunumun da siyasi olduğunu gösteriyor.
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/journals-sagepub-com.md|Journals Sagepub Com]] — yayıncı platform (SAGE); tam metin Cloudflare duvarının çerez bazlı aşılabildiği vaka.
+- [[entities/university-of-oxford.md|University of Oxford]] — yazarın kurumu (ODID); Leverhulme ve ESRC fonu.
