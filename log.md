@@ -1906,3 +1906,8 @@
 - Kaynak X: https://x.com/LuanaRusso_UM/status/2120898246818119850 · DOI: 10.1016/j.electstud.2026.103183
 - Bundle: v1 2073 düğüm / 7682 kenar, v2 8781 kenar; yeni düğüm dereceleri 12 ve 8
 
+## [2026-11-12] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_datafication-meets-democracy-epistemic-distrust-an.md]] — Datafication meets democracy: epistemic distrust and data-driven campaigns in India
+- Source files: 2026-11-12_datafication-meets-democracy-epistemic-distrust-india.json
+- Agent: OKF Ingestion Pipeline
+
