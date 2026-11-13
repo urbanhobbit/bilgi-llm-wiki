@@ -41,6 +41,8 @@ published: '2026-11-08'
 
 **Yönetişim açısından en kritik bölüm.** Yazarlar OpenAI'ın **kendi yanlılık değerlendirmesini** eleştiriyor: OpenAI beş eksende ölçüm yapıyor ama **konuyu ve tonu aynı anda değiştirdiği** için hangi bileşenin varyansa yol açtığını **izole edemiyor**. Dahası OpenAI'ın "liberal charged" ve "conservative charged" örnek istemleri aynı anda konu, ton, hedef, çerçeveleme, token uzunluğu ve gereken düzeltme türü açısından farklılaşıyor. Dipnot 7: OpenAI, yanlılık analizinde **GPT-5 thinking modelini kendi yanıtlarının yargıcı** olarak kullanıyor (iyi uygulama ilkelerine aykırı). Sonuç cümlesi: "LLM'ler komplo teorilerini tutarlı biçimde çürütüyor ama bunu **siyasi olarak asimetrik** biçimde yapıyorsa, 'yetenekli ve güvenilir' olmak ne demek?"
 
+Bu aynı zamanda bir **AI governance** (yapay zeka yönetişimi) sorunudur: yanlış bilgi (misinformation) ve komplo inançlarıyla mücadelede modelin "tarafsızlığı" iddiası, denetim tasarımının kendisine bağlı. Kimlik koşullandırması partizan kimlik üzerinden okunduğunda, denetimin faktöriyel izolasyon ve bağımsız yargıç gerektirdiği görülüyor.
+
 **Sınırlılıklar (yazarların kendi beyanı):** yalnızca OpenAI modelleri (Anthropic/xAI yok); her gözlem **tek turlu** konuşma (ısrar/çok turlu baskı test edilmedi); ölçüler sözlük tabanlı ve ikili (nüans kaybı); 57 KT ağırlıklı ABD merkezli; insan katılımcı yok (kullanıcı simüle). Ön baskı, çalışma metni; ek materyal yazarlardan talep üzerine.
 
 ## Key Points
@@ -83,8 +85,11 @@ Türkiye'ye aktarımı iki katmanda:
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zekâ Yönetişimi]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/osf-io.md|Osf Io]]
