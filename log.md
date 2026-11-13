@@ -1911,3 +1911,8 @@
 - Source files: 2026-11-12_datafication-meets-democracy-epistemic-distrust-india.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-07_breaking-echo-chambers-through-acceptance-of-diffe.md]] — Breaking Echo Chambers Through Acceptance of Differing Opinions
+- Source files: 2026-11-13_breaking-echo-chambers-acceptance-of-differing-opinions.json
+- Agent: OKF Ingestion Pipeline
+

@@ -583,4 +583,5 @@
 - [[raw/articles/2026-11-06_digital-communication-strategies-for-combating-mis.md|Digital Communication Strategies for Combating Misinformation and Strengthening Media Literacy Among Young Adults]]
 - [[raw/articles/2026-11-11_graph-theory-for-visual-learners.md|Graph Theory for Visual Learners]]
 - [[raw/articles/2026-10-30_datafication-meets-democracy-epistemic-distrust-an.md|Datafication meets democracy: epistemic distrust and data-driven campaigns in India]]
+- [[raw/articles/2026-11-07_breaking-echo-chambers-through-acceptance-of-diffe.md|Breaking Echo Chambers Through Acceptance of Differing Opinions]]
 
