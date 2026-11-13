@@ -44,3 +44,4 @@ Sosyal kutuplaşma, bireylerin ve grupların siyasi, ideolojik veya duygusal hat
 
 ## İlgili Kaynaklar
 - [[raw/articles/2026-06-26-nature-polarization.md|Political polarization in low- and middle-income countries (Nature Hum. Behav., 2026)]]
+- [[raw/articles/2026-11-07_breaking-echo-chambers-through-acceptance-of-diffe.md|Huang, Chung & Chew (Complexities 2026) — ayrılığı kabul (τ) arttıkça karşıt görüşe maruziyet dostane kanaldan artıyor, yankı odası %1'in altına iniyor (ABLTD simülasyonu)]]

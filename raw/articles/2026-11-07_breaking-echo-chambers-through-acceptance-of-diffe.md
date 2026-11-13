@@ -30,6 +30,8 @@ published: '2026-11-07'
 
 **Tam metin okundu (29 sayfalık PDF, CC BY 4.0 altın açık erişim, MDPI).** Huang, Chung ve Chew (Peking Üniversitesi / SUSS + Complexity Science Hub Vienna / NTU Singapur), yankı odalarının (echo chamber) oluşumunu homofili ve "fikir ayrılığına tahammül" (acceptance of disagreement, τ) ekseninde bir ajan-tabanlı istatistiksel fizik modeliyle inceliyor.
 
+**Neden KURATOR'da:** metin, sınırlı maruziyetin **sosyal kutuplaşmayı** ve siyasi aşırılığı derinleştirdiğini, homojen toplulukların **yanlış bilgi (misinformation) ve dezenformasyonun** denetimsiz yayılımına açık hale geldiğini varsayım olarak alıp bunun ağ dinamiğinde nasıl üretildiğini modelliyor.
+
 **Model (ABLTD).** Bireyler halka (ring) ağda N = 400 düğüm, ortalama derece K = 8 veya 16; her bireyin G boyutlu ikili görüş vektörü (G = 3, 9, 27). Bağ işareti (dostu/düşmanca) iki görüşün örtüşmesinden türer; yeni parametre τ, **görüş ayrılığına rağmen dostane bağ kurabilme eşiğini** kaydırır: J_ij = sign(τ − 1/2 + S_i·S_j / 2G). τ = 0.5 orijinal model (çoğunlukta ayrılık → düşmanlık), τ = 1 tam tahammül (her konuda ayrılsanız bile dostane), τ = 0 tam reddiye (tek konuda ayrılık düşmanlık üretir). İkinci parametre p = uzlaşma arzusu (consensus-seeking).
 
 **Ana bulgu 1 — uzlaşma arzusu tek başına yankı odası üretmiyor, ama körüklüyor.** G = 3, K = 8, p = 1 rejiminde nüfusun yalnızca ~%60'ı en az bir karşıt görüşe maruz; bunun %40'ı dostane, %20'si **yalnızca düşmanca** ilişkiler üzerinden. Yani nüfusun ~%40'ı hiç karşıt görüş görmüyor. Görüş uzayı büyüdükçe (G = 27) maruziyet artıyor — "cennet durumu" (paradise state: tam yapısal denge, negatif bağ yok) bile maruziyeti sıfırlamıyor.
@@ -77,4 +79,9 @@ Türkiye tartışmasına aktarımı **mekanizma düzeyinde** değerli, **kanıt 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/eko-odasi.md|Yankı Odası (Echo Chamber)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/peking-universitesi.md|Pekin Üniversitesi]]

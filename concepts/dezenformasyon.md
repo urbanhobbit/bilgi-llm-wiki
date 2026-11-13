@@ -31,3 +31,4 @@ Dezenformasyon, aldatma niyetiyle üretilen ve yayılan yanlış/yanıltıcı bi
 - [[raw/articles/2026-11-08_flooding-using-disinformation.md|Szegőfi, Altay & Heintz (BJSP 2026) — 'Flooding' using disinformation: sel, belirsizlik ve bilgi yüklenmesi]]
 - [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md|So vd. (NHB 2026) — AI 'slop'u sosyal yargı olarak tanımlamak]]
 - [[raw/articles/2026-11-06_digital-communication-strategies-for-combating-mis.md|⚠️ IJIT (2026) — önleyici/düzeltici/katılımcı medya okuryazarlığı literatür taraması (dergi güvenilirliği düşük, kaynaklar sağlam)]]
+- [[raw/articles/2026-11-07_breaking-echo-chambers-through-acceptance-of-diffe.md|Huang vd. (Complexities 2026) — yankı odalarının yanlış bilgi yayılımını kolaylaştırdığı varsayımını ağ dinamiğinde modelleyen ABLTD simülasyonu]]
