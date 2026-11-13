@@ -1921,3 +1921,8 @@
 - Source files: 2026-11-13_keep-the-peace-partisan-influence-covid19-germany.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-13_from-chaos-to-clarity-content-analysis-of-viewer-s.md]] — From Chaos to Clarity: Content Analysis of Viewer Sentiments Using YouTube Videos on Misinformation
+- Source files: 2026-11-13_from-chaos-to-clarity-youtube-viewer-sentiments-metadata-only.json
+- Agent: OKF Ingestion Pipeline
+
