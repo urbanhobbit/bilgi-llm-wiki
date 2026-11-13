@@ -1916,3 +1916,8 @@
 - Source files: 2026-11-13_breaking-echo-chambers-acceptance-of-differing-opinions.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_keep-the-peace-the-early-politics-of-covid-19-and-.md]] — Keep the Peace? The Early Politics of Covid-19 and the Limits of Partisan Influence on Public Opinion
+- Source files: 2026-11-13_keep-the-peace-partisan-influence-covid19-germany.json
+- Agent: OKF Ingestion Pipeline
+
