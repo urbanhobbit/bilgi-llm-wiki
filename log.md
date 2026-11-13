@@ -1926,3 +1926,8 @@
 - Source files: 2026-11-13_from-chaos-to-clarity-youtube-viewer-sentiments-metadata-only.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-13] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-08_political-ingroup-and-outgroup-cues-condition-how-.md]] — Political Ingroup and Outgroup Cues Condition How Large Language Models Refute Conspiracy Theories
+- Source files: 2026-11-13_llm-ingroup-outgroup-cues-conspiracy-refutation.json
+- Agent: OKF Ingestion Pipeline
+
