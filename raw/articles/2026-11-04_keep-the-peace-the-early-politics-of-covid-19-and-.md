@@ -75,7 +75,9 @@ Türkiye yazını için en taşınabilir kısım **mekanizma ayrımı**: kutupla
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/partizan-isaret-etkisi.md|Partizan İşaret Etkisi (Partisan Cue-Taking)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/yougov.md|YouGov]]
