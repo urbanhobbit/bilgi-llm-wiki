@@ -61,8 +61,19 @@ Türkiye'de 'veri odaklı kampanya', 'mikro-hedefleme' ve son dönemde **seçmen
 
 ---
 
+Bu deneme, **yapay zeka demokrasi** literatürünün normatif kanadında duruyor: seçmen modellemesini **computational social science** içindeki bir meşruiyet sorunu olarak kuruyor ve modelin doğruluğunu değil, modellediği **insan tipini** (hiperaktif simülasyon / letarjik seçmen) tartışmaya açıyor.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/dijital-ikizler.md|Dijital İkizler (Program Değerlendirmede)]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]]
+- [[concepts/yapay-zeka-demokrasi.md|Yapay Zekâ ve Demokrasi]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/mit.md|Mit]]
+- [[entities/mit-press.md|MIT Press]]
+- [[entities/fenwick-mckelvey.md|Fenwick McKelvey]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11_experimentally-validated-digital-twins-evaluating-.md|Dijital ikizlerin ampirik sınavı (RCT tabanlı doğrulama)]]
+- [[raw/articles/2026-11_digital-twins-validated-with-37-rcts.md|37 RCT ile dijital ikiz doğrulaması]]
+- [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|LLM simülasyonu insan tercihlerinin zayıf vekili]]
