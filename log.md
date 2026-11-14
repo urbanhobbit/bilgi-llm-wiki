@@ -1960,3 +1960,8 @@
 - Source files: 2026-11-14_ai-books-quantity-usage-nber-w34777.json, 2026-11-14_australia-social-media-ban-not-worked-undark.json, 2026-11-14_teen-mental-health-improving-wallace-wells-nyt.json, 2026-11-14_i-link-della-settimana-161.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-09_empowering-parents-in-the-digital-age-evaluated-ev.md]] — Empowering parents in the digital age: Evaluated evidence on the effectiveness of parental digital literacy
+- Source files: 2026-11-09_empowering-parents-digital-age-eneset.json
+- Agent: OKF Ingestion Pipeline
+

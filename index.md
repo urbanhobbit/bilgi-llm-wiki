@@ -595,4 +595,5 @@
 - [[raw/articles/2026-11-09_australia-s-social-media-ban-has-not-worked-for-no.md|Australia's Social Media Ban Has Not Worked — For Now]]
 - [[raw/articles/2026-11-14_i-link-della-settimana-161-five-link-weekly-roundu.md|I link della settimana (#161): five-link weekly roundup]]
 - [[raw/articles/2026-11-05_teen-mental-health-isn-t-in-crisis-it-is-actually-.md|Teen Mental Health Isn't in Crisis. It Is Actually Improving.]]
+- [[raw/articles/2026-11-09_empowering-parents-in-the-digital-age-evaluated-ev.md|Empowering parents in the digital age: Evaluated evidence on the effectiveness of parental digital literacy]]
 
