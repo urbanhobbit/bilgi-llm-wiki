@@ -1936,3 +1936,8 @@
 - Source files: 2026-11-13_fact-checking-organizations-worldwide-dataset.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-11_turkey-and-cyprus-in-online-narratives.md]] — Turkey and Cyprus in Online Narratives
+- Source files: 2026-11-14_meddmo-turkey-cyprus-online-narratives.json
+- Agent: OKF Ingestion Pipeline
+
