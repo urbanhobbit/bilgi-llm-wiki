@@ -1965,3 +1965,8 @@
 - Source files: 2026-11-09_empowering-parents-digital-age-eneset.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-02_can-democracy-be-simulated.md]] — Can Democracy Be Simulated?
+- Source files: 2026-11-02_can-democracy-be-simulated-mckelvey.json
+- Agent: OKF Ingestion Pipeline
+
