@@ -56,6 +56,17 @@ Türkiye'de uluslararası ilişkiler ve siyaset bilimi yazını için iki taşı
 
 ---
 
+Metin, dünyadaki kırılmayı (savaş, sistemik rekabet, araştırma ekonomisinin aşınması) **bilim ve siyaset** ilişkisi üzerinden okuyor ve disiplinin **araştırma yöntemleri** ile kuramsal sözlüğünün neden merkezde kaldığını savunuyor; bir derginin editöryal hattı üzerinden **bilimsel iletişim** pratiğine (hangi müsvedde kabul edilir, kavram dağarcığı nasıl kayar) dair de bir tanıklık.
+
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]]
+- [[concepts/bilimsel-iletisim.md|Bilimsel İletişim]]
+
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/journals-sagepub-com.md|Journals Sagepub Com]]
+- [[entities/european-journal-of-international-relations.md|European Journal of International Relations (EJIR)]]
+- [[entities/journals-sagepub-com.md|SAGE Journals]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-02_can-democracy-be-simulated.md|Siyaseti bilgisayarla çözme hayalinin soykütüğü (McKelvey, MIT Press Reader)]]
