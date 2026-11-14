@@ -77,7 +77,7 @@ published: 2026-08
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
-- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/sciencedirect.md|Sciencedirect]]

@@ -36,3 +36,5 @@ EDMO'nun medya okuryazarlığı eğitimleri ve doğrulama faaliyetleri. AB çap�
 - [[raw/articles/edmo-signals-noise-issue-18-2025-06.md|Signals & Noise Issue 18]] — Eğitim serileri ve UN IGF
 - [[raw/articles/edmo-signals-noise-issue-19-2026-04.md|Signals & Noise Issue 19]] — Görev gücü raporları
 - [[raw/articles/2026-11-08_flooding-using-disinformation.md|Flooding deneyleri (BJSP 2026) — tekil fact-checking sel ortamında neden yetersiz]]
+- [[raw/articles/2026-08_fact-checking-organizations-worldwide-a-dataset-fo.md|Sánchez-Mayordomo vd. (Data in Brief 2026) — 750 doğrulama kuruluşunun küresel veri seti: 575 aktif / 175 kapalı, 131 ülke]]
+- [[raw/articles/2025-07_from-chaos-to-clarity-content-analysis-of-viewer-s.md|Baral & Fazlunnisa (JLM 2025) — YouTube 'misinformation' videolarında izleyici duygu analizi: 411 video, 301.957 yorum]]
