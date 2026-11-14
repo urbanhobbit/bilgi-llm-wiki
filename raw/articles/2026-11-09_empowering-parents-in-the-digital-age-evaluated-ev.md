@@ -67,9 +67,22 @@ published: '2026-11-09'
 
 ---
 
+Raporun çerçevesi **hak temelli**: çocuk hakları (child rights) perspektifinden ebeveyn desteği, çocuğun failliğinin ve **dijital katılım**ının (digital participation) tanınmasına bağlanıyor; sharenting ve dijital ayak izi tartışması ise doğrudan **çocuk verisi ve veri gizliliği** (data privacy) meselesi olarak kuruluyor — yani ebeveyn okuryazarlığı, çocuğun veri koruma hakkının vekili olma sorumluluğunu da kapsıyor.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Verisi Gizliliği]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/european-commission.md|European Commission]]
+- [[entities/esafety-commissioner.md|eSafety Commissioner (Avustralya)]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-09_australia-s-social-media-ban-has-not-worked-for-no.md|Avustralya yasağı bir yıl sonra: kısıtlayıcı yaklaşımın bilançosu (Undark, 9.11.2026)]]
