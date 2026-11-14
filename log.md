@@ -1975,3 +1975,8 @@
 - Source files: 2026-11-10_theory-is-the-promise-ejir-farewell.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md]] — Negativity Biases Online: The Interplay of Individuals and Algorithms in News Consumption
+- Source files: 2025-08-20_negativity-biases-online-noh-soroka.json
+- Agent: OKF Ingestion Pipeline
+

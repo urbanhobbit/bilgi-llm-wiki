@@ -598,4 +598,5 @@
 - [[raw/articles/2026-11-09_empowering-parents-in-the-digital-age-evaluated-ev.md|Empowering parents in the digital age: Evaluated evidence on the effectiveness of parental digital literacy]]
 - [[raw/articles/2026-11-02_can-democracy-be-simulated.md|Can Democracy Be Simulated?]]
 - [[raw/articles/2026-11-10_theory-is-the-promise-when-the-world-falls-apart-a.md|Theory is the promise when the world falls apart: A farewell]]
+- [[raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md|Negativity Biases Online: The Interplay of Individuals and Algorithms in News Consumption]]
 
