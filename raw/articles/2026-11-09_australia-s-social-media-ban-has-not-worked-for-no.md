@@ -53,8 +53,20 @@ Türkiye'de 16 yaş altı yasak tartışması Avustralya'yı 'model' olarak anı
 
 ---
 
+Bu haber, çocuk hakları literatüründeki **koruma–katılım geriliminin** uygulama katmanındaki karşılığı: yasak çocuğu platformdan çıkarmıyor, kullanımı **görünmez** kılıyor — dijital haklar açısından asıl kayıp ölçülebilirlik.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/esafety-commissioner.md|eSafety Commissioner (Avustralya)]]
+- [[entities/alberto-acerbi.md|Alberto Acerbi]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-05_teen-mental-health-isn-t-in-crisis-it-is-actually-.md|Ergen ruh sağlığı krizde değil — NYT/Wallace-Wells (5.11.2026)]]
+- [[raw/articles/2026-11-14_i-link-della-settimana-161-five-link-weekly-roundu.md|Acerbi derlemesi #161 (bu kaydın kaynağı)]]

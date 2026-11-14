@@ -56,8 +56,15 @@ Türkiye'de 2025–2026'da konuşulan **16 yaş altı sosyal medya yasağı / ya
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/new-york-times.md|New York Times]]
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+- [[entities/cdc.md|CDC (Centers for Disease Control and Prevention)]]
+- [[entities/david-wallace-wells.md|David Wallace-Wells]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-09_australia-s-social-media-ban-has-not-worked-for-no.md|Avustralya sosyal medya yasağı bir yıl sonra: Undark (9.11.2026)]]
+- [[raw/articles/2026-01-28_ai-and-the-quantity-and-usage-of-creative-products.md|AI kitapları: arz patlaması, talep düşüşü — NBER w34777]]
+- [[raw/articles/2026-11-14_i-link-della-settimana-161-five-link-weekly-roundu.md|Acerbi derlemesi #161 (bu kaydın kaynağı)]]

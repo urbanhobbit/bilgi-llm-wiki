@@ -53,4 +53,10 @@ Türkiye'de araştırma bülteni/derleme pratiği için taşınabilir taraf: Ace
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/substack-com.md|Substack Com]]
+- [[entities/alberto-acerbi.md|Alberto Acerbi]]
+- [[entities/substack-com.md|Substack]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-05_teen-mental-health-isn-t-in-crisis-it-is-actually-.md|Ergen ruh sağlığı: NYT/Wallace-Wells (5.11.2026)]]
+- [[raw/articles/2026-11-09_australia-s-social-media-ban-has-not-worked-for-no.md|Avustralya yasağı bir yıl sonra: Undark (9.11.2026)]]
+- [[raw/articles/2026-01-28_ai-and-the-quantity-and-usage-of-creative-products.md|AI kitapları: NBER w34777]]

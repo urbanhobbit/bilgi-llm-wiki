@@ -57,9 +57,14 @@ Türkiye'de yayıncılık tartışması (telif, çeviri, Kültür Bakanlığı d
 
 ---
 
+**Sentetik medya (synthetic media) ve ai content** tartışmasında bu bulgu, arz yasağı yerine talep filtresi ve künye şeffaflığı öneren **yapay zeka yönetişimi** yaklaşımını destekliyor.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/synthetic-media-ai-content.md|Sentetik Medya / AI İçerik]]
+- [[concepts/yapay-zeka-yonetisimi.md|Yapay Zekâ Yönetişimi]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/nber.md|Nber]]
+- [[entities/nber.md|NBER (National Bureau of Economic Research)]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-14_i-link-della-settimana-161-five-link-weekly-roundu.md|Acerbi derlemesi #161 (bu kaydın kaynağı)]]
