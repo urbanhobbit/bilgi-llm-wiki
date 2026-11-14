@@ -64,7 +64,17 @@ published: '2025-08-20'
 
 ---
 
+Metin, **negatiflik yanlılığı** (negativity bias) literatürünün ölçüm zincirini dijital iz verisine taşıyor ve **algoritmik büyütme** tartışmasına (emotional amplification loops) ters yönden kanıt sunuyor: öneri sistemi yeni bir yanlılık üretmiyor, kullanıcının mevcut yanlılığını feed'e ve sonraki arza kopyalıyor.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/negativity-bias.md|Negatif Bilgi Yanlılığı (Negativity Bias)]]
+- [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/stuart-soroka.md|Stuart Soroka]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-10-22_avoiding-the-worst-leaders-is-more-important-than-.md|Negatiflik asimetrisi ve lider seçimi]]
+

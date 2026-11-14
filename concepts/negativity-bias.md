@@ -12,7 +12,7 @@ timestamp: '2026-11-14T00:00:00Z'
 created: '2026-11-14'
 updated: '2026-11-14'
 sources:
-- raw/articles/2025-11-01_negativity-biases-online-the-interplay-of-individual.md
+- raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md
 related:
 - duygusal-kutuplasma
 - emotional-amplification-loops
@@ -65,6 +65,6 @@ Tek platform (SmartNews), tek 6 aylık pencere, konu bazlı ayrıştırma yok, s
 
 ## Vault'taki ilgili kayıtlar
 
-- [[raw/articles/2025-11-01_negativity-biases-online-the-interplay-of-individual.md|Noh & Soroka (2025), Journal of Media Psychology]] — çekirdek ampirik kayıt.
+- [[raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md|Noh & Soroka (2025), Journal of Media Psychology]] — çekirdek ampirik kayıt.
 - [[raw/articles/2026-10-22_avoiding-the-worst-leaders-is-more-important-than-.md|Lider seçiminde negatiflik asimetrisi]] — negatif bilgi yanlılığının siyasal sonucu.
 - [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]], [[concepts/emotional-amplification-loops.md|Emotional Amplification Loops]], [[concepts/filtre-baloncuklari.md|Filtre Baloncukları]]
