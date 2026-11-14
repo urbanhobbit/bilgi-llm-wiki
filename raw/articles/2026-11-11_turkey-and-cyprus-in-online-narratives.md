@@ -34,6 +34,8 @@ published: '2026-11-11'
 
 **Yazarların kendi metodolojik uyarıları (kritik).** (a) **Yunanca vakaların ağırlığı, Fact Check Cyprus'un editoryal ve dilsel odağının sonucu** — hangi toplumun daha fazla dezenformasyon ürettiğini/paylaştığını belirlemeye **temel oluşturmaz**. (b) CUT izlemesi 2026'da **Rum toplumuna yönelik Türkçe ilginin arttığını** kaydetti; artışın önemli bölümü **BM liderliğindeki görüşmelere** ilişkin tartışmalardan geliyor — ancak bu **tartışma hacmindeki artıştır, yanlış/yanıltıcı içeriğin yaygınlığı değildir**. (c) **Yunanca muadili bir izleme veri seti yok** → asimetrik kanıt tabanı. (d) Ne izleme ne de incelenen vakalar, iddiaların **bir devlet tarafından yönlendirildiğini** göstermiyor.
 
+**Kavramsal yerleştirme:** rapor bir **devlet destekli dezenformasyon** (state-backed disinformation) iddiasını sınamıyor, tam tersine böyle bir yönlendirmenin kanıtlanmadığını yazıyor; bu yönüyle **ulusötesi dezenformasyon** literatüründeki atıf pratiğine karşı bir temkin örneği. Vakaların bir kısmı **AI-generated disinformation** (yapay zekâ üretimi görseller) ve platform izlemesiyle tespit edilmiş; doğrulama tarafında **fact-checking** kapasitesinin dilsel asimetrisi (Yunanca odak, Türkçe izleme verisi) belirleyici.
+
 **Neden önemli:** rapor, "Kıbrıs sorununda dezenformasyon" tartışmasında nadir görülen bir **kanıt-temkinliliği** örneği: devlet yönlendirmesi iddiasını açıkça reddediyor, izleme hacmi ile yanlışlık yaygınlığını ayırıyor ve kendi örnekleminin dilsel yanlılığını beyan ediyor. Türkiye-Kıbrıs-Yunanistan eksenindeki anlatı çalışmaları için yöntem referansı olarak değerli.
 
 ## Key Points
@@ -71,3 +73,9 @@ Türkiye açısından doğrudan ilgili ve **dikkatli okunması gereken** bir rap
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/geopolitical-disinformation.md|Jeopolitik Dezenformasyon]]
+- [[concepts/ai-generated-disinformation.md|AI Üretimi Dezenformasyon]]
+- [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/meddmo.md|MEDDMO]]
+- [[entities/edmo.md|EDMO]]
