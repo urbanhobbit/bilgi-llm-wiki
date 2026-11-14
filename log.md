@@ -1941,3 +1941,14 @@
 - Source files: 2026-11-14_meddmo-turkey-cyprus-online-narratives.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] bulletin | KURATOR Haftalık Bülten — Hafta 46/2026 kapanışı (9–14 Kasım)
+- Raw: [[raw/articles/2026-11-14_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya, 9–14 Kasım 2026 dilimi
+- Kapsam: 17 benzersiz haftalık kayıt (2 KURATOR, 15 AKADEMİK ÖZEL); Scrapling 17 URL → %53 engelli → metadata tabanlı
+- Ana eksen: AB Digital Fairness Act (11.11), Google Gemini okul Chromebook davası + 7 şehirde protesto (11–12.11), Türkiye 15–18 "güvenli dijital ekosistem" (Bakan Göktaş, 11.11), KOSA (45 başsavcı), UNICEF Innocenti katılım derlemesi
+- Agent: Weekly Integration Job
+
+## [2026-11-14] bulletin | AKADEMİK ÖZEL TARAMA — 14 Kasım 2026
+- Raw: [[raw/articles/2026-11-14_akademik_ozel.md]] — 17 kayıt, 9 makale derin okuma (250–300 kelime), 8 kayıt okuma listesi
+- Bölümler: Metodoloji (otoetnografi/GenAI, LLM kimlik koşullaması, doğrulama envanteri) · Etik/Teori (AI slop, datafication, yayın etiği vakası) · Güncel Tartışmalar (flooding, mizah-kutuplaşma, tahammül)
+- Agent: Weekly Integration Job
+
