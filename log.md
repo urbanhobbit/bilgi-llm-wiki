@@ -1922,12 +1922,17 @@
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-11-13] ingest | OKF Auto-Ingestion
-- Raw: [[raw/articles/2026-11-13_from-chaos-to-clarity-content-analysis-of-viewer-s.md]] — From Chaos to Clarity: Content Analysis of Viewer Sentiments Using YouTube Videos on Misinformation
+- Raw: [[raw/articles/2025-07_from-chaos-to-clarity-content-analysis-of-viewer-s.md]] — From Chaos to Clarity: Content Analysis of Viewer Sentiments Using YouTube Videos on Misinformation
 - Source files: 2026-11-13_from-chaos-to-clarity-youtube-viewer-sentiments-metadata-only.json
 - Agent: OKF Ingestion Pipeline
 
 ## [2026-11-13] ingest | OKF Auto-Ingestion
 - Raw: [[raw/articles/2026-11-08_political-ingroup-and-outgroup-cues-condition-how-.md]] — Political Ingroup and Outgroup Cues Condition How Large Language Models Refute Conspiracy Theories
 - Source files: 2026-11-13_llm-ingroup-outgroup-cues-conspiracy-refutation.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-08_fact-checking-organizations-worldwide-a-dataset-fo.md]] — Fact-checking organizations worldwide: A dataset for structural and contextual analysis
+- Source files: 2026-11-13_fact-checking-organizations-worldwide-dataset.json
 - Agent: OKF Ingestion Pipeline
 

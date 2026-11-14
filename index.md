@@ -585,6 +585,7 @@
 - [[raw/articles/2026-10-30_datafication-meets-democracy-epistemic-distrust-an.md|Datafication meets democracy: epistemic distrust and data-driven campaigns in India]]
 - [[raw/articles/2026-11-07_breaking-echo-chambers-through-acceptance-of-diffe.md|Breaking Echo Chambers Through Acceptance of Differing Opinions]]
 - [[raw/articles/2026-11-04_keep-the-peace-the-early-politics-of-covid-19-and-.md|Keep the Peace? The Early Politics of Covid-19 and the Limits of Partisan Influence on Public Opinion]]
-- [[raw/articles/2026-11-13_from-chaos-to-clarity-content-analysis-of-viewer-s.md|From Chaos to Clarity: Content Analysis of Viewer Sentiments Using YouTube Videos on Misinformation]]
+- [[raw/articles/2025-07_from-chaos-to-clarity-content-analysis-of-viewer-s.md|From Chaos to Clarity: Content Analysis of Viewer Sentiments Using YouTube Videos on Misinformation]]
 - [[raw/articles/2026-11-08_political-ingroup-and-outgroup-cues-condition-how-.md|Political Ingroup and Outgroup Cues Condition How Large Language Models Refute Conspiracy Theories]]
+- [[raw/articles/2026-08_fact-checking-organizations-worldwide-a-dataset-fo.md|Fact-checking organizations worldwide: A dataset for structural and contextual analysis]]
 
