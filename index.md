@@ -591,4 +591,8 @@
 - [[raw/articles/2026-11-08_political-ingroup-and-outgroup-cues-condition-how-.md|Political Ingroup and Outgroup Cues Condition How Large Language Models Refute Conspiracy Theories]]
 - [[raw/articles/2026-08_fact-checking-organizations-worldwide-a-dataset-fo.md|Fact-checking organizations worldwide: A dataset for structural and contextual analysis]]
 - [[raw/articles/2026-11-11_turkey-and-cyprus-in-online-narratives.md|Turkey and Cyprus in Online Narratives]]
+- [[raw/articles/2026-01-28_ai-and-the-quantity-and-usage-of-creative-products.md|AI and the Quantity and Usage of Creative Products: Have LLMs Boosted Creation of Valuable Books?]]
+- [[raw/articles/2026-11-09_australia-s-social-media-ban-has-not-worked-for-no.md|Australia's Social Media Ban Has Not Worked — For Now]]
+- [[raw/articles/2026-11-14_i-link-della-settimana-161-five-link-weekly-roundu.md|I link della settimana (#161): five-link weekly roundup]]
+- [[raw/articles/2026-11-05_teen-mental-health-isn-t-in-crisis-it-is-actually-.md|Teen Mental Health Isn't in Crisis. It Is Actually Improving.]]
 
