@@ -1970,3 +1970,8 @@
 - Source files: 2026-11-02_can-democracy-be-simulated-mckelvey.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-14] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-10_theory-is-the-promise-when-the-world-falls-apart-a.md]] — Theory is the promise when the world falls apart: A farewell
+- Source files: 2026-11-10_theory-is-the-promise-ejir-farewell.json
+- Agent: OKF Ingestion Pipeline
+
