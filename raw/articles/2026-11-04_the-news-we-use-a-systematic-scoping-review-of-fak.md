@@ -52,5 +52,8 @@ Bu tarama, Türkiye'de dezenformasyon araştırmasının **en zayıf halkasına*
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
 - [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dezenformasyon-maruziyeti-olcumu.md|Dezenformasyon Maruziyeti Ölçümü]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
+- [[entities/osf-io.md|Osf Io]]
