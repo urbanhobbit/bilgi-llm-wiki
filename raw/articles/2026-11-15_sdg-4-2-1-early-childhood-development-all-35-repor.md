@@ -46,3 +46,6 @@ Türkiye bu veri setinde **var** ve ayrıntı, gönderinin ana mesajından daha 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/cocuk-haklari.md|Çocuk Hakları]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/unicef.md|UNICEF]]

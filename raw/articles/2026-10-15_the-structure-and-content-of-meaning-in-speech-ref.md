@@ -47,5 +47,7 @@ Türkiye açısından üç ayrı hat açılıyor. **Birincisi, ölçüm siyaseti
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
+- [[concepts/duygu-olcumu.md|Duygu Ölçümü (Ses ve Yüz Analizi) ile Kalitatif Araştırma]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/osf-io.md|Osf Io]]
+- [[entities/santa-fe-institute.md|Santa Fe Institute]]
