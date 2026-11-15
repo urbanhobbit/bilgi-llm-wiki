@@ -2012,3 +2012,8 @@
 - Source files: 2026-11-11_harford-economics-of-climate-change-nordhaus-limits-to-growth.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-15_2026-election-conspiracies-haven-t-breached-the-ve.md]] — 2026 Election Conspiracies Haven't Breached the Vermeule Threshold
+- Source files: 2026-11-15_gelman-vermeule-threshold-election-conspiracies.json
+- Agent: OKF Ingestion Pipeline
+
