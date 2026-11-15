@@ -1980,3 +1980,8 @@
 - Source files: 2025-08-20_negativity-biases-online-noh-soroka.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-30_forged-in-polycrisis-generational-dynamics-of-popu.md]] — Forged in polycrisis: generational dynamics of populist voting in Western Europe
+- Source files: 2026-10-30_forged-in-polycrisis-generational-populist-voting.json
+- Agent: OKF Ingestion Pipeline
+
