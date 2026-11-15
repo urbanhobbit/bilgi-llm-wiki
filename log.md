@@ -2017,3 +2017,8 @@
 - Source files: 2026-11-15_gelman-vermeule-threshold-election-conspiracies.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-24_agent-reach-one-cli-giving-agents-access-to-login-.md]] — Agent Reach: one CLI giving agents access to login-walled platforms
+- Source files: 2026-02-24_agent-reach-cli-agent-internet-access.json
+- Agent: OKF Ingestion Pipeline
+
