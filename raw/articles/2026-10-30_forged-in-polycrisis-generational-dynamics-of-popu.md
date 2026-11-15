@@ -67,8 +67,19 @@ published: '2026-10-30'
 
 ---
 
+Metin, **siyasal katılım** (electoral participation) verisiyle çalışıyor ama yalnızca oy verenleri kapsıyor; yazarların kendi uyarısına göre Polycrisis kuşağının **yüksek çekimserlik** oranı hesaba katılmadığı için 'popülist mobilizasyon mu, temsil krizi mi' sorusu açık kalıyor. Sonuç bölümünde bu yön, **demokratik erozyon** tartışmasına bağlanıyor: radikal sağa kayışın otoriter/illiberal tutumları yaygınlaştırma riski ile aynı kayışın dışlanmış kuşaklara **siyasal temsil** sağlaması ihtimali yan yana duruyor.
+
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/populist-oylama.md|Popülist Oy Verme]]
 - [[concepts/populizm.md|Popülizm]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/siyasal-katilim.md|Siyasal Katılım (Political Participation)]]
+- [[concepts/siyasal-temsil.md|Siyasal Temsil]]
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/europeansocialsurvey-org.md|European Social Survey (ESS)]]
+- [[entities/european-societies.md|European Societies (dergi)]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-10-23_preparing-to-lead-in-polycrisis-a-multi-method-pro.md|Polycrisis kavramı: liderlik perspektifi]]

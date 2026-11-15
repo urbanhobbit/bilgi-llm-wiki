@@ -600,4 +600,5 @@
 - [[raw/articles/2026-11-10_theory-is-the-promise-when-the-world-falls-apart-a.md|Theory is the promise when the world falls apart: A farewell]]
 - [[raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md|Negativity Biases Online: The Interplay of Individuals and Algorithms in News Consumption]]
 - [[raw/articles/2026-10-30_forged-in-polycrisis-generational-dynamics-of-popu.md|Forged in polycrisis: generational dynamics of populist voting in Western Europe]]
+- [[raw/articles/2026-11-12_decoding-false-information-in-the-digital-age-conc.md|Decoding False Information in the Digital Age: Conceptual Frameworks, Classification, Contemporary Challenges and Sustainability]]
 

@@ -1985,3 +1985,8 @@
 - Source files: 2026-10-30_forged-in-polycrisis-generational-populist-voting.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-12_decoding-false-information-in-the-digital-age-conc.md]] — Decoding False Information in the Digital Age: Conceptual Frameworks, Classification, Contemporary Challenges and Sustainability
+- Source files: 2026-11-12_decoding-false-information-digital-age-ijfmr.json
+- Agent: OKF Ingestion Pipeline
+
