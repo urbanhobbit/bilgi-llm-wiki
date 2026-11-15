@@ -601,4 +601,7 @@
 - [[raw/articles/2025-08-20_negativity-biases-online-the-interplay-of-individu.md|Negativity Biases Online: The Interplay of Individuals and Algorithms in News Consumption]]
 - [[raw/articles/2026-10-30_forged-in-polycrisis-generational-dynamics-of-popu.md|Forged in polycrisis: generational dynamics of populist voting in Western Europe]]
 - [[raw/articles/2026-11-12_decoding-false-information-in-the-digital-age-conc.md|Decoding False Information in the Digital Age: Conceptual Frameworks, Classification, Contemporary Challenges and Sustainability]]
+- [[raw/articles/2025-09-17_agent-based-modeling-and-social-systems-simulation.md|Agent-based modeling and social systems simulation]]
+- [[raw/articles/2026-10-15_the-structure-and-content-of-meaning-in-speech-ref.md|The Structure and Content of Meaning in Speech Reflects Mental Health]]
+- [[raw/articles/2026-11-15_sdg-4-2-1-early-childhood-development-all-35-repor.md|SDG 4.2.1 early childhood development: all 35 reporting countries have data after 2020]]
 

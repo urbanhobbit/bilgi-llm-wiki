@@ -312,3 +312,35 @@ Haftanın 17 kaydının tamamı; ilk dokuzu bu sayıda derin okumayla işlendi.
 **Yöntem notu:** Eşik (%50) aşıldığı için kayıtların tamamı **metadata tabanlı** sınıflandırıldı: Crossref/OpenAlex künyesi + yayıncı özeti + varsa açık erişim ön baskısı. Özetler 250–300 kelime aralığında tutuldu ve programatik olarak ölçüldü. `blocked: true` bayrağı, çözümlenmiş yayıncı adresinin durumunu yansıtıyor; X/Twitter gönderilerinin kendisi ayrıca erişilebilir olabilir.
 
 **Kapsam dışı bırakılanlar:** Hafta içinde `processed_links/` altında tek tek işlenmiş ve OKF hattı tarafından wiki'ye alınmış kayıtlar (ör. `2026-11-11_graph-theory`, `2026-11-11_turkey-and-cyprus`, `2026-11_evidence-review...`) bu sayıda yeniden özetlenmedi; yalnızca haftalık havuzda yer aldıkları için okuma listesine girdiler.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/frontiersin-org.md|Frontiers]]
+- [[entities/substack-com.md|Substack]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/university-of-oxford.md|University of Oxford]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
+- [[entities/youtube.md|YouTube]]

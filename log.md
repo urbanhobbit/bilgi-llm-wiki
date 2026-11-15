@@ -1990,3 +1990,10 @@
 - Source files: 2026-11-12_decoding-false-information-digital-age-ijfmr.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-09-17_agent-based-modeling-and-social-systems-simulation.md]] — Agent-based modeling and social systems simulation
+- Raw: [[raw/articles/2026-10-15_the-structure-and-content-of-meaning-in-speech-ref.md]] — The Structure and Content of Meaning in Speech Reflects Mental Health
+- Raw: [[raw/articles/2026-11-15_sdg-4-2-1-early-childhood-development-all-35-repor.md]] — SDG 4.2.1 early childhood development: all 35 reporting countries have data after 2020
+- Source files: 2026-10-15_speech-semantics-persistent-homology-mental-health.json, 2026-11-15_unicef-ecdi2030-sdg-4-2-1-data-recency.json, 2025-09-17_carpentras-agent-based-modeling-social-systems.json
+- Agent: OKF Ingestion Pipeline
+

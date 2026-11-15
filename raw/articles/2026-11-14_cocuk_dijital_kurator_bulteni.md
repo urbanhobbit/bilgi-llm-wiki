@@ -384,3 +384,40 @@ Haftanın siyasi mizah deneyi (Political Studies, n=2.011, ön-kayıtlı, eşle�
 - **Yanlış pozitif (false positive):** Yaş doğrulamasında, gerçekte yaş sınırının üstünde olan kullanıcının engellenmesi.
 - **ÇVED:** Çocuk Verisi Etki Değerlendirmesi (bu bültende önerilen araç).
 - **Blue wave:** 2026 ABD ara seçimlerinde Demokratların Senato çoğunluğunu kazanması (bülten bağlamında KOSA takvimi için kullanıldı).
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/kisa-video-haber-dogrulama.md|Kısa Video Haber Doğrulama (Short-Video News Verification)]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/tavsan-deligi-etkisi.md|Tavşan Deliği Etkisi (Rabbit Hole Effect)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/frontiersin-org.md|Frontiers]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/nato.md|NATO]]
+- [[entities/osf-io.md|OSF Preprints (PsyArXiv)]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-tandfonline-com.md|Taylor & Francis]]
