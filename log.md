@@ -2007,3 +2007,8 @@
 - Source files: 2026-11-11_roznai-gidron-israel-populism-polarization-crisis-democracy.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-11_the-economics-of-climate-change-how-nordhaus-took-.md]] — The economics of climate change: how Nordhaus took on the Limits to Growth
+- Source files: 2026-11-11_harford-economics-of-climate-change-nordhaus-limits-to-growth.json
+- Agent: OKF Ingestion Pipeline
+
