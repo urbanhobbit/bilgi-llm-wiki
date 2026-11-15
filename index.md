@@ -605,4 +605,5 @@
 - [[raw/articles/2026-10-15_the-structure-and-content-of-meaning-in-speech-ref.md|The Structure and Content of Meaning in Speech Reflects Mental Health]]
 - [[raw/articles/2026-11-15_sdg-4-2-1-early-childhood-development-all-35-repor.md|SDG 4.2.1 early childhood development: all 35 reporting countries have data after 2020]]
 - [[raw/articles/2026-11-04_the-news-we-use-a-systematic-scoping-review-of-fak.md|The news we use: A systematic scoping review of fake news stimuli in psychological research]]
+- [[raw/articles/2026-11-11_israel-populism-polarization-and-the-crisis-of-dem.md|Israel: Populism, Polarization, and the Crisis of Democracy]]
 

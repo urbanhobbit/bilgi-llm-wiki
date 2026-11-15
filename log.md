@@ -2002,3 +2002,8 @@
 - Source files: 2026-11-04_fake-news-stimuli-scoping-review-brm.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-11_israel-populism-polarization-and-the-crisis-of-dem.md]] — Israel: Populism, Polarization, and the Crisis of Democracy
+- Source files: 2026-11-11_roznai-gidron-israel-populism-polarization-crisis-democracy.json
+- Agent: OKF Ingestion Pipeline
+
