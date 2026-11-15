@@ -1997,3 +1997,8 @@
 - Source files: 2026-10-15_speech-semantics-persistent-homology-mental-health.json, 2026-11-15_unicef-ecdi2030-sdg-4-2-1-data-recency.json, 2025-09-17_carpentras-agent-based-modeling-social-systems.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-04_the-news-we-use-a-systematic-scoping-review-of-fak.md]] — The news we use: A systematic scoping review of fake news stimuli in psychological research
+- Source files: 2026-11-04_fake-news-stimuli-scoping-review-brm.json
+- Agent: OKF Ingestion Pipeline
+
