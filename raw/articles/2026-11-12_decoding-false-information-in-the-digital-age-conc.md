@@ -59,8 +59,14 @@ published: '2026-11-12'
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ijfmr.md|IJFMR (International Journal for Multidisciplinary Research)]]
+
 ### 🧠 İlgili Kavramlar
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/synthetic-media-ai-content.md|Synthetic Media and AI-Generated Content (Sentetik Medya ve Yapay Zeka İçeriği)]]
+
+### 📄 Bağlantılı Kayıtlar
+- [[raw/articles/2026-11-09_ai-slop-is-a-social-judgement.md|Karşı görüş: 'slop' doğal kategori değil, topluluk yargısı (Nature Human Behaviour, 2026)]]
