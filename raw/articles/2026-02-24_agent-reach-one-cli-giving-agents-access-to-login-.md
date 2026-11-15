@@ -34,5 +34,7 @@ Bu depo **boru hattı uyumu** açısından koşullu değerli, ama genel bir 'int
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/harness-engineering.md|Harness Engineering (Agent Harness Mühendisliği)]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/github-com.md|Github Com]]
