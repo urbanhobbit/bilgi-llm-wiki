@@ -2070,3 +2070,8 @@
 - @profgoose (ortak yazar Kyle Saunders) paylaşımı → makale 8 Kasım'da v1 üzerinden kayıtlıydı; yeni sayfa açılmadı.
 - v2 (15.11.2026) indirildi ve karşılaştırıldı: özet/örneklem aynı; yeni §5 "Differences by LLM" + Şekil 7 (keşifsel).
 - Paylaşımdaki "MR oranı GPT-4o'da ~%10 → GPT-5.5'te ~%50" iddiası makalede raporlanmıyor → sayfaya "doğrulanamadı" olarak işlendi.
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-13_in-referees-we-trust-how-peer-review-became-a-mark.md]] — In Referees We Trust? How Peer Review Became a Mark of Scientific Legitimacy
+- Source files: 2026-11-16_in-referees-we-trust-baldwin.json
+- Agent: OKF Ingestion Pipeline
+
