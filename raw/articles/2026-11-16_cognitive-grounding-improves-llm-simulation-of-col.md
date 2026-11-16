@@ -57,5 +57,15 @@ Bu makale, KURATOR hattının en çok ihtiyaç duyduğu şeyi veriyor: **LLM ile
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]] — LLM ajanlarının insan katılımcı yerine geçmesi: sentetik popülasyon literatürünün 'temsil geçerliliği' sorusuna doğrudan müdahale.
+- [[concepts/kuram-operasyonellestirme-llm.md|Kuramın LLM ile Operasyonelleştirilmesi]] — Yöntemin özü: davranış modelinin (Sterman stok modeli) nitel içeriğini kod yerine isteme koyup ajanı onunla yönlendirmek.
+- [[concepts/yapay-zeka-ile-bilimsel-modelleme.md|Yapay Zeka ile Bilimsel Modelleme]] — LLM tabanlı simülasyonun kalibrasyonu ve doğrulanması: 'plausible response ≠ human decision process' ölçütü.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — Değerlendirme ölçütü: yörünge uyumu (relative log-MSE), bullwhip büyüklüğü ve parametre çıkarımı ile insan-kalibre referansa mesafe ölçümü.
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/nature-com.md|Nature Com]]
+- [[entities/nature-computational-science.md|Nature Computational Science]] — Makalenin yayımlandığı dergi.
+- [[entities/babak-heydari.md|Babak Heydari]] — Sorumlu yazar.
+- [[entities/hongan-zhu.md|Hongan Zhu]] — İlk yazar.
+- [[entities/northeastern-university.md|Northeastern University]] — Yazarların kurumu.

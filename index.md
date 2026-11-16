@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 197
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 201
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -61,6 +61,10 @@
 - [[entities/university-of-maryland.md|University of Maryland]]
 - [[entities/ijsret.md|IJSRET]]
 - [[entities/jaihind-college-of-engineering.md|Jaihind College of Engineering]]
+- [[entities/nature-computational-science.md|Nature Computational Science]]
+- [[entities/babak-heydari.md|Babak Heydari]]
+- [[entities/hongan-zhu.md|Hongan Zhu]]
+- [[entities/northeastern-university.md|Northeastern University]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
