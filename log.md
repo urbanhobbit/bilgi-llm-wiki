@@ -2047,3 +2047,8 @@
 - Source files: 2026-11-16_countering-disinformation-graph-based-solution.json, 2026-11-16_impact-of-ai-on-child-online-safety.json, 2026-11-16_how-will-we-teach-social-media-safety.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_toxic-content-and-user-engagement-on-social-media-.md]] — Toxic Content and User Engagement on Social Media: Evidence from a Field Experiment
+- Source files: 2026-11-16_toxic-content-and-user-engagement.json
+- Agent: OKF Ingestion Pipeline
+
