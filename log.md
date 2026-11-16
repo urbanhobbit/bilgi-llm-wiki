@@ -2085,3 +2085,8 @@
 - Source files: 2026-11-16_cognitive-grounding-llm-collective-behavior.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_group-cross-pressures-and-correct-voting-in-americ.md]] — Group cross-pressures and correct voting in American elections
+- Source files: 2026-11-06_group-cross-pressures-correct-voting-sleiman.json
+- Agent: OKF Ingestion Pipeline
+
