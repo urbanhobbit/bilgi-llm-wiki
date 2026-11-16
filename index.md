@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 186
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 189
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -50,6 +50,9 @@
 - [[entities/connectfutures.md|ConnectFutures]]
 - [[entities/bydgoszcz-university-of-science-and-technology.md|Bydgoszcz University of Science and Technology]]
 - [[entities/romanian-american-university.md|Romanian-American University]]
+- [[entities/american-economic-review.md|American Economic Review]]
+- [[entities/george-beknazar-yuzbashev.md|George Beknazar-Yuzbashev]]
+- [[entities/prolific.md|Prolific]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]

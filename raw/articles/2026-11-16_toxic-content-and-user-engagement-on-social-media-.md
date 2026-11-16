@@ -60,3 +60,13 @@ Türkiye tartışmasında bu makalenin değeri, iki yerleşik argümanı aynı a
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — Toksik içeriğin etkileşim üzerinden kutuplaşmayı beslediği hipotezinin nedensel testi: kutuplaşma literatürünün 'algoritma neyi öne çıkarıyor' ayağı.
+- [[concepts/ekran-suresi.md|Ekran Süresi]] — Ekran süresi müdahale ile ölçülen sonuç değişkenlerinden biri: Facebook'ta günde 1,3 dakika (%9,2) azalma.
+- [[concepts/platform-is-modeli.md|Platform İş Modeli Reformu]] — Dikkat ekonomisi ve reklam geliri ödünleşimi: 440 $ reklam geliri kaybı, %27'ye varan gösterim düşüşü.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Ön-kayıtlı saha deneyi + tarayıcı eklentisi tasarımı; nedensel çıkarım için araştırma tasarımı örneği.
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/american-economic-review.md|American Economic Review]] — Makalenin yayımlanacağı dergi (forthcoming).
+- [[entities/george-beknazar-yuzbashev.md|George Beknazar-Yuzbashev]] — İlk yazar; sosyal medya saha deneyleri hattı.
+- [[entities/prolific.md|Prolific]] — 4.120 katılımcılı anket deneyinin yürütüldüğü platform.
+- [[entities/youtube.md|YouTube]] — Müdahalenin uygulandığı üç platformdan biri.
