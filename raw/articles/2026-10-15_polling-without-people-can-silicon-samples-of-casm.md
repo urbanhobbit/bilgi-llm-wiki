@@ -19,7 +19,9 @@ published: '2026-10-15'
 
 # Polling Without People: Can Silicon Samples of CASM-Inspired LLM Personae Mimic Human Respondents in Pre-Election Polling?
 
-**Author(s):** Danielius Jonaitis, Brendan Corcoran, Binam Poudyal, Alexandra Roskam, Ava Ali, Shriya Agrawal, Raymond Duch, Roberto Cerina
+**Author(s):** Danielius Jonaitis, Brendan Corcoran, Binam Poudyal, Alexandra Roskam, Ava Alan Ali, Shriya Agrawal, Raymond Duch, Roberto Cerina
+
+**DOI:** 10.1017/S1049096526103084
 
 **Published:** 2026-10-15
 
@@ -40,6 +42,29 @@ PS: Political Science & Politics'te (Cambridge University Press) 15 Ekim 2026'da
 ## Turkey Context
 
 Türkiye açısından üç ayrı katman var. Birincisi, yöntemsel: Türkiye'de seçim anketleri pahalı, panel altyapısı zayıf ve seçim dönemlerinde haftalık takip talebi yüksek; sentetik persona + MrP hattı, özellikle il-ilçe düzeyinde yüksek frekanslı tahmin için cazip görünüyor. Ancak makalenin kendi bulgusu bu cazibeyi sınırlıyor: model ABD'de bile ~10 puan sistematik sol-eğilim üretiyor. Türkiye'de LLM'lerin siyasal eğilim dağılımı (Kürt meselesi, laiklik, mültecilik, dindarlık eksenleri) çok daha az temsil edildiği için bu yanlılığın yönünü önceden kestirmek imkânsız; 'silikon örneklem' Türkiye'de doğrulama yapılmadan kullanılırsa anket piyasasının mevcut güven sorununu derinleştirebilir. İkincisi, düzenleyici: 298 sayılı Seçimlerin Temel Hükümleri Kanunu ve YSK kararları seçim döneminde anket yayımlamayı kaynağa, tarihe ve örnekleme ilişkin bildirim yükümlülüklerine bağlıyor; 'sentetik katılımcı' ile üretilen bir 'anket'in bu rejimde nasıl beyan edileceği mevzuatta tanımsız — yani yöntem, bir 'anket midir' sorusu hukuken açık. Üçüncüsü, AI yönetişimi: sentetik seçmen simülasyonları, seçim anketlerinin yeniden 'bilimsel' görünüm kazanması için kullanılabilir; aynı teknik, kampanyaların mikro-hedefleme ve mesaj testi için de kullanılabilir. Türkiye'de yapay zeka düzenlemesi tartışmasında (kişisel verilerin korunması + seçim dönemi dezenformasyon) 'sentetik anket' özel bir başlık olarak henüz yok; bu makale o boşluğun erken bir uyarısı sayılabilir. Doğrulama için asgari koşul: aynı hafta gerçek bir insan anketiyle eşzamanlı karşılaştırma ve 'kararsız' seçeneğinin modellendiği bir tasarım.
+
+## 📐 Tam Metinden Ölçüm Detayları (2026-11-16 eki)
+
+Sayfa ilk kez 22 Ekim'de yayıncı özeti düzeyinde dolduruldu; 16 Kasım'da APSA'nın (@APSAtweets) gönderisiyle yeniden dolaşıma girdi. Bu vesileyle Cambridge'deki **18 sayfalık preproof kabul edilmiş sürüm** (`S1049096526103084a.pdf`) indirilip tam metin okundu. Aşağıdaki sayılar makalenin Tablo 3-4 ve Şekil 4-5'inden birebir alındı; yukarıdaki özete göre **yeni** olan kısımlar bunlar:
+
+| Hedef | Tahmin | Referans (benchmark) | Yanlılık (bias) |
+|---|---|---|---|
+| Demokrat | 58,4 | 50,7 (anket ort.) | **+7,68** |
+| Cumhuriyetçi | 39,8 | 42,0 | −2,19 |
+| Diğer | 1,7 | 7,3 | **−5,57** |
+| D–R marjı | 18,7 | 8,7 | **+9,96** |
+| Katılım | 62,8 | 64,3 (2024 gerçekleşme) | −1,48 |
+
+- **Yanlılığın yeri:** sapmanın neredeyse tamamı 'Diğer' kategorisinin (yani kararsızların) erimesinden geliyor — −5,57 puan. Yazarların yorumu: 2024'te oy vermeyenler, kararsız seçeneği verilseydi oransız biçimde Demokratlara kırılacaktı; 2024 seçmeni olup 2026'da oy vermeyecekler ise iki parti arasında dengeli dağıldığı için bu etkiyi telafi etmiyor.
+- **Bölge düzeyi teşhis (Şekil 3,5):** D+11,3 düzgün salınım (uniform swing) referansına göre Spearman sıra korelasyonu **0,98**, kazanan partinin tutması **%93,6**, ama ortalama bölge marjı referanstan **7,3 puan daha Demokrat**. Katılım tahminleri 2024 ile yüksek korelasyonlu, RMSE 7,3 puan (aşırı düzenlileştirmeye / over-regularisation bağlanıyor).
+- **Ayrıştırma (ablation):** salt demografik persona tabanı D–R marjını **sıfıra yakın** üretiyor (modelin Haziran 2024 kesme tarihiyle uyumlu). Üç CASM varyantı da Demokratlara kayıyor; **haberle 'inşa' eden (constructor) ile 'retrieval' arasındaki fark ≈ 4,5 puan**, ama aralıklar çok geniş → istatistiksel anlamlılık kurulamıyor.
+- **Panel tasarımı:** haftalık dalga için 4.000 persona; her hafta en eski **%10 (400 kişi)** FIFO kuralıyla yenileniyor, bir kohort 10 dalga kalabiliyor. Persona özellikleri korunuyor ama bilişsel hat her dalgada **sıfırdan** çalışıyor (önceki yanıtlar bağlam olarak verilmiyor) — insan panelinde görülen 'tekrarlı anket etkisini' taklit etmemek için.
+- **Tahmin altyapısı:** deep MrP, `vglmer` + ölçeklenebilir varyasyonel çıkarım; post-stratifikasyon çerçevesi 1.528.896 hücre; her hücre için **150 simülasyon çekilişi**; coğrafya × demografi etkileşimleri hesaplama sınırı nedeniyle dışarıda bırakılmış ve bunun tahminlere etkisi **değerlendirilmemiş**.
+- **Veri kalitesi:** geçerli yanıt üretemeyen **56 persona** analizden çıkarıldı.
+- **Künye düzeltmesi:** Crossref'te beşinci yazarın adı 'Ava Alan Ali' (given: Ava Alan, family: Ali); sayfa başlığındaki yazar listesi 'Ava Ali' yazıyordu.
+- **Sürüm notu:** okunan dosya 'preproof accepted article' — üretim sürecinde değişebilir; nihai sayfa numaraları ve tablo numaralandırması farklı olabilir.
+
+**Kullanım uyarısı (Emre'nin 2026 ara seçim yazısı için):** D+18,7 ve 292 koltuk **tahmin olarak alıntılanamaz** — yazarların kendisi bunu ~10 puanlık sistematik yanlılık olarak işaretliyor. Alıntılanabilir olan kısım **yöntem iddiası**: CASM temelli zenginleştirme, salt demografik personaya göre tahmini doğru yöne kaydırıyor (24 sonrası değişimi yakalıyor) ve katılım tahminleri şaşırtıcı biçimde iyi; ama seviye ve belirsizlik kalibrasyonu (aşırı dar aralıklar) henüz çözülmemiş.
 
 ---
 

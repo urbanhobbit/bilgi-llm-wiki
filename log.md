@@ -2052,3 +2052,7 @@
 - Source files: 2026-11-16_toxic-content-and-user-engagement.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] enrich | Polling Without People (CASM silikon örneklem)
+- APSA (@APSAtweets) gönderisi → makale zaten 22 Ekim'de kayıtlıydı; yeni sayfa açılmadı.
+- Cambridge preproof PDF (18 s.) indirilip tam metin okundu; Tablo 3-4 ve Şekil 4-5 sayıları sayfaya eklendi (yanlılık ayrıştırması +7,68/−5,57, bölge teşhisleri rho=0,98 / %93,6 / 7,3 puan, constructor−retriever ≈ 4,5 puan, panel %10 rotasyon).
+- Yazar adı düzeltmesi: "Ava Ali" → "Ava Alan Ali" (Crossref).
