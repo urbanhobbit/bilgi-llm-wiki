@@ -613,4 +613,7 @@
 - [[raw/articles/2026-11-15_2026-election-conspiracies-haven-t-breached-the-ve.md|2026 Election Conspiracies Haven't Breached the Vermeule Threshold]]
 - [[raw/articles/2026-02-24_agent-reach-one-cli-giving-agents-access-to-login-.md|Agent Reach: one CLI giving agents access to login-walled platforms]]
 - [[raw/articles/2026-11-10_evolutionary-foundations-of-social-identity.md|Evolutionary foundations of social identity]]
+- [[raw/articles/2026-11-14_countering-disinformation-campaigns-and-narratives.md|Countering Disinformation Campaigns and Narratives: An Innovative Graph-Based Solution for Malicious Content Analysis, Detection, and Visualization]]
+- [[raw/articles/2026-10-07_how-will-we-teach-social-media-safety-to-children-.md|How will we teach social media safety to children banned from using it]]
+- [[raw/articles/2026-11-13_the-impact-of-ai-on-child-online-safety-a-legal-an.md|The Impact of AI on Child Online Safety: A Legal and Practical Perspective]]
 

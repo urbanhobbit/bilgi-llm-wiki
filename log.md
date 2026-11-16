@@ -2031,3 +2031,10 @@
 - Source files: 2026-11-16_evolutionary-foundations-of-social-identity.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-14_countering-disinformation-campaigns-and-narratives.md]] — Countering Disinformation Campaigns and Narratives: An Innovative Graph-Based Solution for Malicious Content Analysis, Detection, and Visualization
+- Raw: [[raw/articles/2026-10-07_how-will-we-teach-social-media-safety-to-children-.md]] — How will we teach social media safety to children banned from using it
+- Raw: [[raw/articles/2026-11-13_the-impact-of-ai-on-child-online-safety-a-legal-an.md]] — The Impact of AI on Child Online Safety: A Legal and Practical Perspective
+- Source files: 2026-11-16_countering-disinformation-graph-based-solution.json, 2026-11-16_impact-of-ai-on-child-online-safety.json, 2026-11-16_how-will-we-teach-social-media-safety.json
+- Agent: OKF Ingestion Pipeline
+
