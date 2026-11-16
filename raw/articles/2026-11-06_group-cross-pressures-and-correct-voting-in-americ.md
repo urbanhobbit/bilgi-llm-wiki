@@ -56,3 +56,13 @@ Türkiye için bu makalenin değeri **kavramsal ithal** düzeyinde ve dikkatli b
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — Makalenin bağımsız değişkeninin kaynağı: kimliklerin partizan yönle hizalanması (sorting) ve hizalanmadığında doğan çapraz baskılar.
+- [[concepts/siyasal-katilim.md|Siyasal Katılım]] — Literatürün mevcut odağı: çapraz baskıların katılım/oy verme üzerindeki etkisi; makale buradan karar kalitesine geçiyor.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — “Doğru oy” (correct voting) ölçümü: seçmenin çıkarına en yakın adayı seçip seçmediğinin operasyonelleştirilmesi ve ölçüm geçerliliği.
+- [[concepts/abd-secim-sistemi.md|ABD Seçim Sistemi]] — İki partili yapının çapraz baskıları yapısal kısıta dönüştürdüğü iddiasının kurumsal bağlamı.
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/yara-sleiman.md|Yara Sleiman]] — Yazar (LSE Government).
+- [[entities/www-lse-ac-uk.md|LSE]] — Yazarın kurumu.
+- [[entities/electoral-studies.md|Electoral Studies]] — Makalenin dergisi (Cilt 105, 103196).
+- [[entities/american-national-election-studies.md|American National Election Studies]] — Analizde kullanılan ANES 2008-2024 verisi.

@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 201
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 203
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -65,6 +65,8 @@
 - [[entities/babak-heydari.md|Babak Heydari]]
 - [[entities/hongan-zhu.md|Hongan Zhu]]
 - [[entities/northeastern-university.md|Northeastern University]]
+- [[entities/yara-sleiman.md|Yara Sleiman]]
+- [[entities/american-national-election-studies.md|American National Election Studies]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
