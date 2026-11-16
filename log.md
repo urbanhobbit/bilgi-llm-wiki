@@ -2061,3 +2061,8 @@
 - Source files: 2026-11-16_safety-first-rtl-luxembourg-media-literacy-campaign.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_citizen-produced-political-text-cppt-a-research-no.md]] — Citizen-produced political text (CPPT): a research note on systematic review of academic manuscripts
+- Source files: 2026-11-16_citizen-produced-political-text-cppt-research-note.json
+- Agent: OKF Ingestion Pipeline
+

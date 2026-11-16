@@ -628,4 +628,5 @@
 - [[raw/articles/2026-11-13_the-impact-of-ai-on-child-online-safety-a-legal-an.md|The Impact of AI on Child Online Safety: A Legal and Practical Perspective]]
 - [[raw/articles/2026-11-16_toxic-content-and-user-engagement-on-social-media-.md|Toxic Content and User Engagement on Social Media: Evidence from a Field Experiment]]
 - [[raw/articles/2026-02-21_safety-first-safe-on-the-internet-rtl-luxembourg-m.md|Safety First - Safe on the Internet: RTL Luxembourg media literacy campaign]]
+- [[raw/articles/2026-11-03_citizen-produced-political-text-cppt-a-research-no.md|Citizen-produced political text (CPPT): a research note on systematic review of academic manuscripts]]
 
