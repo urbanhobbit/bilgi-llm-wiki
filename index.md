@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 189
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 191
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -53,6 +53,8 @@
 - [[entities/american-economic-review.md|American Economic Review]]
 - [[entities/george-beknazar-yuzbashev.md|George Beknazar-Yuzbashev]]
 - [[entities/prolific.md|Prolific]]
+- [[entities/rtl-luxembourg.md|RTL Luxembourg]]
+- [[entities/lie-detectors.md|Lie Detectors]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]

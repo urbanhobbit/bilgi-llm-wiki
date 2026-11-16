@@ -58,5 +58,9 @@ Türkiye'de medya okuryazarlığı tartışması neredeyse tamamen **çocuklar v
 - [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/filtre-baloncuklari.md|Filtre Balonları (Filter Bubbles)]] — Kampanyanın 12 konusundan biri; panelde algoritmik pekiştirme ve yankı odası etkisinin kullanıcılar tarafından bilinmediği vurgulanıyor.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/edmo.md|Edmo]]
+- [[entities/edmo-belux.md|EDMO BELUX]] — Kampanyayı duyuran hub; RTL'in EDMO taahhüdünün parçası.
+- [[entities/rtl-luxembourg.md|RTL Luxembourg]] — Kampanyayı yürüten yayıncı; fact-check ve Lie Detectors hattının da sahibi.
+- [[entities/lie-detectors.md|Lie Detectors]] — RTL'in okullarda yürüttüğü doğrulama okuryazarlığı programı.
