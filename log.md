@@ -2066,3 +2066,7 @@
 - Source files: 2026-11-16_citizen-produced-political-text-cppt-research-note.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] enrich | Political Ingroup/Outgroup Cues (LLM komplo çürütme) — v2
+- @profgoose (ortak yazar Kyle Saunders) paylaşımı → makale 8 Kasım'da v1 üzerinden kayıtlıydı; yeni sayfa açılmadı.
+- v2 (15.11.2026) indirildi ve karşılaştırıldı: özet/örneklem aynı; yeni §5 "Differences by LLM" + Şekil 7 (keşifsel).
+- Paylaşımdaki "MR oranı GPT-4o'da ~%10 → GPT-5.5'te ~%50" iddiası makalede raporlanmıyor → sayfaya "doğrulanamadı" olarak işlendi.

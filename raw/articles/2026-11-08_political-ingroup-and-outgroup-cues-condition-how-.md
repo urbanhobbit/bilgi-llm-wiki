@@ -25,7 +25,7 @@ published: '2026-11-08'
 
 **Author(s):** Erin B. Fitz (corresponding) & Kyle L. Saunders — Department of Political Science, Colorado State University
 
-**Published:** 2026-11-08
+**Published:** 2026-11-08 (v1) · v2: 2026-11-15, DOI 10.31234/osf.io/4yexj_v2
 
 **Source:** [https://osf.io/preprints/psyarxiv/4yexj_v1](https://osf.io/preprints/psyarxiv/4yexj_v1)
 
@@ -80,6 +80,27 @@ Türkiye'ye aktarımı iki katmanda:
 - 🧩 **Yöntem**
 - ⚠️ **Sınırlılıklar**
 - 🏛 **Politika Önerisi**
+
+## 🆕 v2 (15 Kasım 2026) ve yazarın model-nesli iddiası — 16 Kasım eki
+
+Sayfa 8 Kasım'da **v1** üzerinden yazılmıştı. Ortak yazar **Kyle Saunders (@profgoose)** 16 Kasım 2026'da makaleyi **v2** ile yeniden paylaştı (OSF `4yexj_v2`, yayın 15.11.2026; dosya: `Fitz and Saunders 110826.pdf`, 2,96 MB). v2 indirilip karşılaştırıldı:
+
+**Değişmeyen:** özet birebir aynı; örneklem ve ana bulgular aynı (135.845 konuşma, **%82 refute / %20 MR**, 7 OpenAI modeli, 57 KT, 21 kimlik kombinasyonu, ön kayıtlı).
+
+**v2'de eklenen:** gövdede yeni bir **§5 "Differences by LLM"** bölümü ve **Şekil 7** (CT Actor × User ID × LLM üç yönlü, *keşifsel* model). Buradaki bulgular: iç/dış-grup farkları en çok **Refute Only** ve **Refute + MR** kategorilerinde; Cumhuriyetçilere atfedilen KT'lerde modeller arası farklar daha küçük ve tutarsız, **Demokratları suçlayan KT'lerde daha büyük ve tutarlı**. Model bazlı notlar: **o4 mini** Cumhuriyetçilere atfedilen KT'lerde yanıt tipleri arasında ayrışıyor ama Demokratlara atfedilenlerde neredeyse hiç ayrışmıyor; **GPT-5.5** ise Demokratların suçlandığı KT'lerde Refute ile Refute + MR arasında özellikle büyük fark üretiyor. Yazarların kendi ifadesi: modeller arasında bu örüntülerin **nasıl ve neden** değiştiği "gelecek araştırmanın önemli bir yönü" — yani model-nesli karşılaştırması makalede **analiz edilmiş bir bulgu değil, keşifsel bir gözlem**.
+
+**Paylaşımdaki iddia ve doğrulama durumu:**
+
+| İddia (@profgoose, 16.11.2026) | Makalede karşılığı | Verdict |
+|---|---|---|
+| "GPT-4o'da KT yanıtlarının ~%10'u kaygının makul olduğunu da söylüyordu" | Model bazlı MR oranı **hiçbir tabloda/şekilde raporlanmıyor** (Tablo 2 yalnızca kullanıcı kimliği × aktör; Şekil 7 yalnızca iç/dış-grup kontrastları) | ❌ **doğrulanamadı** |
+| "Bu oran GPT-5.5'te yaklaşık yarıya çıktı" | Aynı: model bazlı toplam MR oranı yok; §5 yalnızca 'keşifsel' diyor | ❌ **doğrulanamadı** |
+| "Düzeltme kaldı ama el tutma büyüdü" (refute korunurken MR arttı) | Makale: MR büyük ölçüde refute ile birlikte geliyor (%16 refute+MR, %5 yalnız MR) | ✅ doğrulandı (mekanizma düzeyinde) |
+| "İki yıllık OpenAI sürümleri boyunca" | Modeller Mayıs 2024–Nisan 2026 aralığında; veri Nisan 2026'da toplanmış | ✅ doğrulandı |
+
+**Neden önemli:** Eğer yazarın verdiği %10 → ~%50 seyri doğruysa, bu makalenin havuzlanmış **%20 MR** ortalamasının arkasında **nesil bazlı güçlü bir artış** var demektir — yani "el tutma" davranışı model yetenekleriyle birlikte büyüyor. Bu, makalenin "modeller arası farklar gelecek araştırma" çerçevesiyle gerilim içinde: iddia doğruysa bulgu makalenin kendi ana tablosunda görünmeyecek kadar önemli. Yazarın kendi verisinden hesaplanmış olması muhtemel (eş yazar erişimi), ama **makale metninde olmadığı için bu sayfada 'doğrulanamadı' olarak duruyor**; alıntılanacaksa "yazarların paylaşımı" olarak nitelenmeli.
+
+**Kullanım notu:** Bu sayfa artık v2'yi (DOI `10.31234/osf.io/4yexj_v2`) esas alan ek bilgi içeriyor; yukarıdaki ana özet v1'den okunan bulgularla aynı ve v2'de değişmedi.
 
 ---
 
