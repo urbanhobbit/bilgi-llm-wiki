@@ -2075,3 +2075,8 @@
 - Source files: 2026-11-16_in-referees-we-trust-baldwin.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-14_deep-learning-and-social-context-approaches-for-fa.md]] — Deep Learning and Social-Context Approaches for Fake News Detection: A Review of Neural, Propagation-Based and Explainable Methods
+- Source files: 2026-11-14_deep-learning-social-context-fake-news-detection-ijsret.json
+- Agent: OKF Ingestion Pipeline
+

@@ -632,4 +632,5 @@
 - [[raw/articles/2026-02-21_safety-first-safe-on-the-internet-rtl-luxembourg-m.md|Safety First - Safe on the Internet: RTL Luxembourg media literacy campaign]]
 - [[raw/articles/2026-11-03_citizen-produced-political-text-cppt-a-research-no.md|Citizen-produced political text (CPPT): a research note on systematic review of academic manuscripts]]
 - [[raw/articles/2026-10-13_in-referees-we-trust-how-peer-review-became-a-mark.md|In Referees We Trust? How Peer Review Became a Mark of Scientific Legitimacy]]
+- [[raw/articles/2026-11-14_deep-learning-and-social-context-approaches-for-fa.md|Deep Learning and Social-Context Approaches for Fake News Detection: A Review of Neural, Propagation-Based and Explainable Methods]]
 
