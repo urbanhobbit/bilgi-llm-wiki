@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-14 | Total pages: 178
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 181
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -43,6 +43,9 @@
 - [[entities/royalsocietypublishing-org.md|The Royal Society — Royal Society Open Science]]
 - [[entities/journals-lnb-lt.md|Parliamentary Studies (Parlamento studijos)]]
 - [[entities/jsrm-scholarvista-in.md|Journal of Scholarly Research and Metrics (JSRM)]]
+- [[entities/michael-tomasello.md|Michael Tomasello]]
+- [[entities/duke-university.md|Duke University]]
+- [[entities/leipzig-university.md|Leipzig University]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]

@@ -60,5 +60,11 @@ Bu makale Türkiye araştırması için doğrudan veri değil, ama kutuplaşma h
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — Ahlaki kimlik, partizan bağlılığın neden 'üyelik' olarak yaşandığını açıklıyor: birey kendini grubun ('we') değer yüklü bakışından değerlendiriyor, bu yüzden parti değiştirmek norm ihlali gibi kodlanıyor.
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]] — İkinci aşamanın motoru gruplar arası kaynak rekabeti; dış-grup, üyelik sınırlarını belirleyen ölçüt olarak işlev görüyor (iç-grup kayırmacılığı 4-5 yaşında keyfi gruplarda bile görülüyor).
+- [[concepts/kulturel-evrim.md|Kültürel Evrim]] — Makale, kültürel evrim ölçeğinde uyarlanabilir pratiklerin taklitçiler buldukça yayıldığını, bunun için ayrı bir genetik temel gerekmediğini vurguluyor; ahlaki kimlik de kültürel nişin girdileriyle biçimleniyor.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/royalsocietypublishing-org.md|Royalsocietypublishing Org]]
+- [[entities/michael-tomasello.md|Michael Tomasello]] — Makalenin son yazarı; ortak niyetlilik ve işbirliğinin evrimi literatürünün kurucu ismi.
+- [[entities/leipzig-university.md|Leipzig University]] — Leon Li ve Sebastian Grueneisen'in kurumu (Eğitim Fakültesi).
+- [[entities/duke-university.md|Duke University]] — Tomasello'nun kurumu (Psikoloji ve Sinirbilim Bölümü).
