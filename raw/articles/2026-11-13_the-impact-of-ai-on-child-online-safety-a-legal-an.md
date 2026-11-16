@@ -56,5 +56,9 @@ Türkiye için değeri, **çerçeve karşılaştırması**: madde çocuk çevrim
 - [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]] — Kaynakçada bilgi mahremiyeti hukuku (Schwartz & Solove 2021) ve veri koruma çerçeveleri; maddenin hukuki ayağının omurgası.
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]] — UK Online Safety Act ve DSA tartışması, platform yükümlülükleri ve şeffaflık rejimi üzerinden kuruluyor.
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]] — YZ kaynaklı riskler (deepfake, öneri sistemleri, kişiselleştirme) ile çocuk koruma mevzuatının kesişimi.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/springer.md|Springer]]
+- [[entities/romanian-american-university.md|Romanian-American University]] — Üç yazarın da kurumu (Bükreş).

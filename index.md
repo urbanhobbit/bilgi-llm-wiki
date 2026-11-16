@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 181
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 185
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -46,6 +46,10 @@
 - [[entities/michael-tomasello.md|Michael Tomasello]]
 - [[entities/duke-university.md|Duke University]]
 - [[entities/leipzig-university.md|Leipzig University]]
+- [[entities/ofcom.md|Ofcom]]
+- [[entities/connectfutures.md|ConnectFutures]]
+- [[entities/bydgoszcz-university-of-science-and-technology.md|Bydgoszcz University of Science and Technology]]
+- [[entities/romanian-american-university.md|Romanian-American University]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]

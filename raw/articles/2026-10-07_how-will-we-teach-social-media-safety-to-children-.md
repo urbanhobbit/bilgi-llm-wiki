@@ -57,5 +57,9 @@ Türkiye tartışmasına doğrudan aktarılabilir üç ders var. Birincisi: Tür
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]] — 16 yaş altı yasağın uygulama ayağı; yaş doğrulama olmadan yasak fiilen denetlenemiyor.
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]] — Yazının ana ekseni: dijital okuryazarlık eğitiminin yasak sonrası nasıl yürütüleceği (zarar azaltma pedagojisi).
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-lse-ac-uk.md|Www Lse Ac Uk]]
+- [[entities/connectfutures.md|ConnectFutures]] — Yazarların kuruluşu; Ofcom fonlu Birmingham medya okuryazarlığı programını yürüttü.
+- [[entities/ofcom.md|Ofcom]] — Programın fon sağlayıcısı; medya okuryazarlığı ve çevrimiçi güvenlik düzenleyicisi.

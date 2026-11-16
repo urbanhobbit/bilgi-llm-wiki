@@ -55,5 +55,7 @@ Bu bildiri Türkiye hattı için **araç/hat karşılaştırması** açısından
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
 - [[concepts/media-literacy-fact-checking.md|Media Literacy and Fact-Checking (Medya Okuryazarlığı ve Doğrulama)]]
+- [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]] — Yaklaşımın omurgası: içerikleri düğüm/kenar yapısına çevirip bilgi kümelerini (clusters) çizge üzerinden okumak.
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/dl-acm-org.md|Dl Acm Org]]
+- [[entities/bydgoszcz-university-of-science-and-technology.md|Bydgoszcz University of Science and Technology]] — Kozik, Pawlicki ve Choraś'ın kurumu; YZ destekli dezenformasyon tespiti hattı.
