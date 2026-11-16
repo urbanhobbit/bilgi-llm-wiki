@@ -2022,3 +2022,7 @@
 - Source files: 2026-02-24_agent-reach-cli-agent-internet-access.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] enrich | Populism and conspiracy theories: A cross-national analysis
+- X paylaşımı (x.com/Wubenmensheng/status/2122179347587191138) → makalenin yayıncı PDF 1. sayfası doğrulandı; yayıncı özeti OpenAlex'ten yeniden kurulan özetle birebir eşleşti.
+- Sayfaya "İddia Kontrolü" tablosu eklendi: paylaşımın "authoritarianism is the strongest correlate" cümlesi özette karşılıksız (doğrulanamadı); "strongest predictor" radikal sağ ideolojiye ait.
+- Tam metin (tablo/katsayı/örneklem) hâlâ görülmedi — ScienceDirect/microlink/Unpaywall/Estudo Geral yolları kapalı.
