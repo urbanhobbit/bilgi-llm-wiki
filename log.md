@@ -2056,3 +2056,8 @@
 - APSA (@APSAtweets) gönderisi → makale zaten 22 Ekim'de kayıtlıydı; yeni sayfa açılmadı.
 - Cambridge preproof PDF (18 s.) indirilip tam metin okundu; Tablo 3-4 ve Şekil 4-5 sayıları sayfaya eklendi (yanlılık ayrıştırması +7,68/−5,57, bölge teşhisleri rho=0,98 / %93,6 / 7,3 puan, constructor−retriever ≈ 4,5 puan, panel %10 rotasyon).
 - Yazar adı düzeltmesi: "Ava Ali" → "Ava Alan Ali" (Crossref).
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-21_safety-first-safe-on-the-internet-rtl-luxembourg-m.md]] — Safety First - Safe on the Internet: RTL Luxembourg media literacy campaign
+- Source files: 2026-11-16_safety-first-rtl-luxembourg-media-literacy-campaign.json
+- Agent: OKF Ingestion Pipeline
+
