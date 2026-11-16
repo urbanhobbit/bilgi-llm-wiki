@@ -48,3 +48,16 @@ Bu metnin Türkiye için değeri, **kanıt değil yapı** düzeyinde: beş katma
 ## 🏷 Retorik Roller
 
 - 🔍 **Araştırma Boşluğu**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]] — Sahte haber/yayılım temelli dezenformasyon tespiti literatürünün derlemesi.
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]] — Grover hattı: üretici modelin hem ikna edici sahte haber üretmesi hem de tespit için kullanılması (AI üretimi dezenformasyon).
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Doğal Dil İşleme]] — İçerik katmanı: transformer/BERT tabanlı metin kodlama, SVM ve random forest taban çizgileri (metin madenciliği hattı).
+- [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]] — Yayılım (propagation) katmanı: paylaşım kaskadının çizge olarak modellenmesi ve GNN ile kodlanması.
+
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ijsret.md|IJSRET]] — Yayımlandığı dergi (APC'li, düşük prestij — kalite uyarısı sayfada).
+- [[entities/jaihind-college-of-engineering.md|Jaihind College of Engineering]] — Yazarların kurumu (Pune).

@@ -52,5 +52,13 @@ Bu kitap Türkiye'deki akademik yayın tartışmasına **doğrudan çevrilebilir
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/bilimsel-iletisim.md|Bilimsel İletişim]] — Kitabın çerçevesi: dergi hakemliğinden 'peer review'a uzanan bilimsel iletişim rejiminin tarihsel kuruluşu (science communication altyapısı).
+- [[concepts/bilim-ve-siyaset.md|Bilim ve Siyaset]] — Asıl tez: peer review'ın bilimsel meşruiyet ölçütüne dönüşmesi Soğuk Savaş'ta federal hibe siyaseti içinde gerçekleşti (bilim ve siyaset kesişimi).
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Hakemlik, araştırma pratiklerinin (research practices) denetim mekanizması olarak: kimin hangi kanıtla değerlendirildiği sorusu metodolojik bir sorudur.
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/mit.md|Mit]]
+- [[entities/mit-press.md|MIT Press]] — Kitabın yayıncısı; açık erişim (CC BY-NC-ND) olarak yayımladı.
+- [[entities/melinda-baldwin.md|Melinda Baldwin]] — Yazar; bilim tarihçisi.
+- [[entities/university-of-maryland.md|University of Maryland]] — Yazarın kurumu (AIP kürsüsü).

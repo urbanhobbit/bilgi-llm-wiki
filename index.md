@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 193
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 197
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -57,6 +57,10 @@
 - [[entities/lie-detectors.md|Lie Detectors]]
 - [[entities/journal-of-information-technology-and-politics.md|Journal of Information Technology & Politics]]
 - [[entities/karolina-koc-michalska.md|Karolina Koc-Michalska]]
+- [[entities/melinda-baldwin.md|Melinda Baldwin]]
+- [[entities/university-of-maryland.md|University of Maryland]]
+- [[entities/ijsret.md|IJSRET]]
+- [[entities/jaihind-college-of-engineering.md|Jaihind College of Engineering]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
