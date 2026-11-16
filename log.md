@@ -2026,3 +2026,8 @@
 - X paylaşımı (x.com/Wubenmensheng/status/2122179347587191138) → makalenin yayıncı PDF 1. sayfası doğrulandı; yayıncı özeti OpenAlex'ten yeniden kurulan özetle birebir eşleşti.
 - Sayfaya "İddia Kontrolü" tablosu eklendi: paylaşımın "authoritarianism is the strongest correlate" cümlesi özette karşılıksız (doğrulanamadı); "strongest predictor" radikal sağ ideolojiye ait.
 - Tam metin (tablo/katsayı/örneklem) hâlâ görülmedi — ScienceDirect/microlink/Unpaywall/Estudo Geral yolları kapalı.
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-10_evolutionary-foundations-of-social-identity.md]] — Evolutionary foundations of social identity
+- Source files: 2026-11-16_evolutionary-foundations-of-social-identity.json
+- Agent: OKF Ingestion Pipeline
+
