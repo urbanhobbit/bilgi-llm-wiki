@@ -53,5 +53,12 @@ Bu not, Türkiye hattı için **yöntem envanteri** olarak değerli ama tek baş
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Doğal Dil İşleme]] — Notun asıl konusu: CPPT'yi toplamak ve analiz etmek için kullanılan metin madenciliği / NLP araçlarının envanteri.
+- [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]] — Sistematik tarama (2.785 makale, 2014-2022) ile alanın research methods pratiğini haritalandırma.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları]] — Vatandaş metninden siyasal tutum measurement'ı: sınıflandırma, kodlama ve geçerlilik sorunları.
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]
+- [[entities/journal-of-information-technology-and-politics.md|Journal of Information Technology & Politics]] — Notun yayımlandığı dergi.
+- [[entities/karolina-koc-michalska.md|Karolina Koc-Michalska]] — İlk yazar; CPPT hattının kurucu isimlerinden.

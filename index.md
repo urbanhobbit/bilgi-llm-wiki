@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 191
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 193
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -55,6 +55,8 @@
 - [[entities/prolific.md|Prolific]]
 - [[entities/rtl-luxembourg.md|RTL Luxembourg]]
 - [[entities/lie-detectors.md|Lie Detectors]]
+- [[entities/journal-of-information-technology-and-politics.md|Journal of Information Technology & Politics]]
+- [[entities/karolina-koc-michalska.md|Karolina Koc-Michalska]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
