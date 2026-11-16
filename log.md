@@ -2080,3 +2080,8 @@
 - Source files: 2026-11-14_deep-learning-social-context-fake-news-detection-ijsret.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_cognitive-grounding-improves-llm-simulation-of-col.md]] — Cognitive grounding improves LLM simulation of collective human behavior
+- Source files: 2026-11-16_cognitive-grounding-llm-collective-behavior.json
+- Agent: OKF Ingestion Pipeline
+
