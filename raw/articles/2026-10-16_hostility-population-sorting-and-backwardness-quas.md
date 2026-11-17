@@ -52,5 +52,10 @@ Makale Türkiye hakkında değil, ama aktardığı mekanizma Türkiye'deki üç 
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/tarihsel-sok-kaliciligi.md|Tarihsel Şokların Kalıcılığı]] — 74 günlük işgalin bugüne uzanan %25 nüfus farkı yaratması
 ### 🏛 İlgili Kurum/Kişiler
+- [[entities/christian-ochsner.md|Christian Ochsner]]
+- [[entities/review-of-economics-and-statistics.md|Review of Economics and Statistics]]
+- [[entities/mit-press.md|MIT Press]]
 - [[entities/mit.md|Mit]]

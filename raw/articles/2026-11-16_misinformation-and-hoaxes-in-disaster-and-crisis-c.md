@@ -57,6 +57,7 @@ Türkiye için bu çalışmanın değeri **haritalama yöntemi**, bulguları de�
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/cycle-of-distrust.md|Güvensizlik Döngüsü]] — kamu güveninin literatürde ikincil kalması
 - [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/www-tandfonline-com.md|Www Tandfonline Com]]

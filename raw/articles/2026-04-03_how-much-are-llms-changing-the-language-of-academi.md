@@ -55,5 +55,10 @@ Türkiye açısından makalenin en pratik katkısı **tespit değil, yorumlama**
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]] — 12 terimin veritabanı geneli frekans ölçümü bibliyometrik metin madenciliği
+- [[concepts/bilimsel-iletisim.md|Bilimsel İletişim]] — akademik yayıncılık pratiği ve LLM destekli yazımın bilimsel iletişime etkisi
 ### 🏛 İlgili Kurum/Kişiler
+- [[entities/kayvan-kousha.md|Kayvan Kousha]]
+- [[entities/mike-thelwall.md|Mike Thelwall]]
 - [[entities/springer.md|Springer]]

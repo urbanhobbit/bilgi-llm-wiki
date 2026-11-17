@@ -27,3 +27,5 @@ Büyük metin korpuslarını okumadan önce yapılandırmaya yarayan yöntem ail
 
 ## İlgili Makaleler
 - [[raw/articles/2026-09-25_one-sentence-at-a-time-a-quantitative-history-of.md|One Sentence at a Time: A Quantitative History of Rationality in Economic Thought]] — 259.165 makale / 61 milyon cümle; yıllık temsilci vektör + HDBSCAN (17 anlamsal küme) ve 43 bibliyografik eşleşme ağı ile rasyonalite kavramının yüzyıllık dönüşümü.
+- [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md|Kousha & Thelwall (Scientometrics 2026) — 12 LLM-teriminin 6 veritabanı + 2,4M PMC tam metnindeki frekans artışı (delve +%1.360)]] — terim frekansı temelli kültürel/üslupsal değişim ölçümü
+- [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md|Rudianto vd. (Cogent A&H 2026) — Scopus bibliyometrisi (592 belge) + Biblioshiny/VOSviewer; kapsam denetimi ve yeniden üretilebilirlik sınırları]]
