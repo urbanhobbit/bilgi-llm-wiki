@@ -2100,3 +2100,9 @@
 - Source files: 2026-11-17_hate-speech-detection-framework.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md]] — How much are LLMs changing the language of academic papers after ChatGPT? A multi-database and full text analysis
+- Raw: [[raw/articles/2026-10-16_hostility-population-sorting-and-backwardness-quas.md]] — Hostility, Population Sorting, and Backwardness: Quasi-Experimental Evidence from the Red Army after WWII
+- Source files: 2026-04-03_llm-language-academic-papers.json, 2026-10-17_red-army-hostility-population-sorting.json
+- Agent: OKF Ingestion Pipeline
+
