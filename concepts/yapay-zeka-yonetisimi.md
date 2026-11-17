@@ -26,3 +26,4 @@ Yapay zeka ajanlarının ve sistemlerinin özerklik, etkililik, hedef karmaşık
 
 ## İlgili Makaleler
 - [[raw/articles/2026-08-12_agentic-profiles-for-effective-ai-governance.md|Agentic Profiles for Effective AI Governance]]
+- [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md|Ethical and Socially Aware English–Norwegian Hate Speech Detection (Hashmi & Yayilgan, MAKE 2026)]] — etik tasarım + paydaş doğrulaması + kolluk kullanımı katmanı
