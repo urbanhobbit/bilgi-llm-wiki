@@ -35,6 +35,7 @@ Oscar Stuhler (Northwestern), Dustin S. Stoltz (Lehigh), AJ Alvero (Cornell) ve 
 
 ## Key Points
 
+- 📌 **Yayımlandı (17 Kasım 2026):** Hakemli sürüm *Sociological Science* **13: 1382–1403**, DOI **10.15195/v13.a52** (ISSN 2330-6696), açık erişim PDF: `sociologicalscience.com/download/volume-13/november/SocSci_v13_1382to1403.pdf`. Yayımlanmış sürümdeki sayılar ön baskıyla **birebir aynı**: 3.425 davet, 300 yanıt (%8,7), 259 sosyolog, 19 senaryo, %82,2 zorunlu beyan desteği, nicel-nitel farkı 0,69 sd. (Bu sayfa ilk olarak 28.10.2026'daki SocArXiv ön baskısından işlenmişti; 17.11.2026'da dergi sürümü yayımlandı.)
 - Künye: SocArXiv/OSF preprint v1 (yayın tarihi 28 Ekim 2026, DOI 10.31235/osf.io/y6vtp_v1), dört yazar: Oscar Stuhler, Dustin S. Stoltz, AJ Alvero, Marshall A. Taylor; metin 'Forthcoming in Sociological Science' notuyla yayınlandı, yani hakem sürecini geçmiş bir makalenin ön baskısı.
 - Örneklem ve yöntem: Web of Science'tan 50 sosyoloji dergisi, son beş yıl, rastgele 3.425 davet; 300 yanıt (%8,7), 259'u sosyolog; 19 senaryo, üç kategorili kabul ölçeği (kabul edilemez / beyanla kabul / beyansız kabul). Anket Nisan-Haziran 2026'da yürütüldü.
 - Kullanımın kendisi: sosyologların %12'si GenAI'yi araştırma için günlük, %21'i en az haftalık kullanıyor, %23'ü hiç kullanmıyor; bu oranlar 2025'teki Alvero vd. anketiyle neredeyse aynı, yani yaygın 'hızlı yayılma' anlatısı veriyle desteklenmiyor.

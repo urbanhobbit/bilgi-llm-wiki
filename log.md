@@ -2111,3 +2111,8 @@
 - Source files: 2026-11-16_disaster-misinformation-bibliometric.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md]] — Is It the Phones? Anatomy of a Moral Panic
+- Source files: 2026-11-12_is-it-the-phones-moral-panic.json
+- Agent: OKF Ingestion Pipeline
+
