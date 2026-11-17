@@ -56,6 +56,12 @@ Türkiye bu tartışmanın **en hızlı yasaklayan** ülkelerinden biri oldu ve 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ahlaki-panik.md|Ahlaki Panik]] — denemenin ana çerçevesi: kanıtın şişirilmesi ve yasak dalgası
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklarda Dijital Kısıtlamalar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/jonathan-haidt.md|Jonathan Haidt]] — eleştirilen "Anxious Generation" hattının temsilcisi
+- [[entities/boston-review.md|Boston Review]]

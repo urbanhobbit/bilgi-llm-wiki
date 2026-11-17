@@ -67,3 +67,6 @@ Hem nitel hem nicel araştırmalar "ekran bağlamı"nın saf süreden daha belir
 ## İlgili Varlıklar
 - [[entities/american-academy-of-pediatrics.md]]
 - [[entities/common-sense-media.md]]
+
+## İlgili Makaleler
+- [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md|Finlayson (Boston Review, Güz 2026) — ekran süresi anlatısının kanıt tabanını (refah varyansının en fazla %0,4'ü) ve ahlaki panik dinamiğini çözümlüyor]]
