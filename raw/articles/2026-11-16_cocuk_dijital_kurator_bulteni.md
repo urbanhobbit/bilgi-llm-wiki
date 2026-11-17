@@ -530,3 +530,44 @@ Türkiye için en verimli konum, ilk grubun (yaş kapısı) deneyimini ikinci gr
 ---
 
 *KURATOR Araştırma Ekibi — Çocuklar ve Dijital Dünya bülteni, Hafta 47/2026.*
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/akran-zorbaligi.md|Akran Zorbalığı (Peer Victimisation)]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/tavsan-deligi-etkisi.md|Tavşan Deliği Etkisi (Rabbit Hole Effect)]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/alberto-acerbi.md|Alberto Acerbi]]
+- [[entities/aura-com.md|Aura]]
+- [[entities/bydgoszcz-university-of-science-and-technology.md|Bydgoszcz University of Science and Technology]]
+- [[entities/connectfutures.md|ConnectFutures]]
+- [[entities/david-wallace-wells.md|David Wallace-Wells]]
+- [[entities/european-commission.md|European Commission]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/jonathan-haidt.md|Jonathan Haidt]]
+- [[entities/new-york-times.md|New York Times]]
+- [[entities/oecd.md|OECD]]
+- [[entities/ofcom.md|Ofcom]]
+- [[entities/romanian-american-university.md|Romanian-American University]]
+- [[entities/unicef.md|UNICEF]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/youtube.md|YouTube]]
+- [[entities/zohran-mamdani.md|Zohran Mamdani]]
