@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 203
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-16 | Total pages: 206
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -67,6 +67,9 @@
 - [[entities/northeastern-university.md|Northeastern University]]
 - [[entities/yara-sleiman.md|Yara Sleiman]]
 - [[entities/american-national-election-studies.md|American National Election Studies]]
+- [[entities/neil-malhotra.md|Neil Malhotra]]
+- [[entities/journal-of-politics.md|The Journal of Politics]]
+- [[entities/stanford-university.md|Stanford University]]
 
 ## Concepts
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]

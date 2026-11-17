@@ -50,5 +50,17 @@ Türkiye açısından bu makalenin değeri **yöntem ve veri erişimi** düzeyin
 ---
 
 ## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]] — Siyasi homofilinin davranışsal ölçümü: kimin kiminle bağ kurduğu ve bağı kopardığı.
+- [[concepts/partizan-kimlik.md|Partizan Kimlik]] — Unfriending davranışının arkasındaki partizan hizalanma; sosyal ağın siyasi kimlikle yeniden düzenlenmesi.
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]] — Homofilinin anket sorusuyla değil platform davranış verisiyle (günlük unfriending) ölçülmesi.
+
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/journals-uchicago-edu.md|Journals Uchicago Edu]]
+- [[entities/neil-malhotra.md|Neil Malhotra]] — İlk yazar (Stanford GSB).
+- [[entities/journal-of-politics.md|The Journal of Politics]] — Makalenin dergisi (early access).
+- [[entities/stanford-university.md|Stanford University]] — İlk yazarın kurumu.
+
+### 📄 İlgili Makaleler
+- [[raw/articles/2026-08-01_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy sources on Facebook and Instagram]] — Aynı 2020 Facebook/Instagram Seçim Çalışması konsorsiyumunun maruziyet çalışması.
+- [[raw/articles/2026-08-02_untrustworthy-sources-on-facebook-and-instagram-in.md|Untrustworthy sources on Facebook and Instagram (2)]] — Konsorsiyumun ikinci maruziyet analizi.
