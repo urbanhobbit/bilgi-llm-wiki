@@ -11,10 +11,14 @@
             "id": "dbcc59532a71f78f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "concepts/cocuk-istismari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cocuk-istismari"
             }
           }
         ]
@@ -194,6 +198,16 @@
   },
   "active": "dbcc59532a71f78f",
   "lastOpenFiles": [
+    "concepts/komplo-inanclari.md",
+    "concepts/katilimci-yapay-zeka-kullanimi.md",
+    "concepts/cinsiyet-kutuplasmasi.md",
+    "raw/articles/2026-08-30_artificial-intelligence-and-children-s-rights-a-na.md",
+    "concepts/sentetik-populasyonlar.md",
+    "concepts/negative-partisanship.md",
+    "concepts/media-literacy-fact-checking.md",
+    "concepts/macaristan-secim-2026.md",
+    "concepts/kuram-operasyonellestirme-llm.md",
+    "entities/nato.md",
     "concepts/cycle-of-distrust.md",
     "concepts/dijital-haklar.md",
     "concepts/cocuk-haklari.md",
@@ -217,7 +231,6 @@
     "posop-carousel/slide1.png",
     "posop-carousel/posop-12angrymen.pdf",
     "posop-carousel/carousel.pdf",
-    "index.md",
-    "concepts/sentetik-populasyonlar.md"
+    "index.md"
   ]
 }
