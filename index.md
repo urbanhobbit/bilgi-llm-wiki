@@ -645,4 +645,5 @@
 - [[raw/articles/2026-11-14_deep-learning-and-social-context-approaches-for-fa.md|Deep Learning and Social-Context Approaches for Fake News Detection: A Review of Neural, Propagation-Based and Explainable Methods]]
 - [[raw/articles/2026-11-16_cognitive-grounding-improves-llm-simulation-of-col.md|Cognitive grounding improves LLM simulation of collective human behavior]]
 - [[raw/articles/2026-11-06_group-cross-pressures-and-correct-voting-in-americ.md|Group cross-pressures and correct voting in American elections]]
+- [[raw/articles/2026-11-13_political-unfriending-on-facebook-evidence-from-ov.md|Political Unfriending on Facebook: Evidence from over 180 Million Users]]
 

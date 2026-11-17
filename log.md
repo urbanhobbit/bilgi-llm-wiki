@@ -2090,3 +2090,8 @@
 - Source files: 2026-11-06_group-cross-pressures-correct-voting-sleiman.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-13_political-unfriending-on-facebook-evidence-from-ov.md]] — Political Unfriending on Facebook: Evidence from over 180 Million Users
+- Source files: 2026-11-13_political-unfriending-on-facebook.json
+- Agent: OKF Ingestion Pipeline
+
