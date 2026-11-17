@@ -2106,3 +2106,8 @@
 - Source files: 2026-04-03_llm-language-academic-papers.json, 2026-10-17_red-army-hostility-population-sorting.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md]] — Misinformation and hoaxes in disaster and crisis communication on digital platforms: a bibliometric analysis with a focus on public trust
+- Source files: 2026-11-16_disaster-misinformation-bibliometric.json
+- Agent: OKF Ingestion Pipeline
+

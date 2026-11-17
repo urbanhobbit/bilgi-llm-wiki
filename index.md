@@ -652,4 +652,5 @@
 - [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md|Ethical and Socially Aware English-Norwegian Hate Speech Detection: A Systematic Design Framework]]
 - [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md|How much are LLMs changing the language of academic papers after ChatGPT? A multi-database and full text analysis]]
 - [[raw/articles/2026-10-16_hostility-population-sorting-and-backwardness-quas.md|Hostility, Population Sorting, and Backwardness: Quasi-Experimental Evidence from the Red Army after WWII]]
+- [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md|Misinformation and hoaxes in disaster and crisis communication on digital platforms: a bibliometric analysis with a focus on public trust]]
 
