@@ -2095,3 +2095,8 @@
 - Source files: 2026-11-13_political-unfriending-on-facebook.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md]] — Ethical and Socially Aware English-Norwegian Hate Speech Detection: A Systematic Design Framework
+- Source files: 2026-11-17_hate-speech-detection-framework.json
+- Agent: OKF Ingestion Pipeline
+

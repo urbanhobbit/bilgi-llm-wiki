@@ -649,4 +649,5 @@
 - [[raw/articles/2026-11-16_cognitive-grounding-improves-llm-simulation-of-col.md|Cognitive grounding improves LLM simulation of collective human behavior]]
 - [[raw/articles/2026-11-06_group-cross-pressures-and-correct-voting-in-americ.md|Group cross-pressures and correct voting in American elections]]
 - [[raw/articles/2026-11-13_political-unfriending-on-facebook-evidence-from-ov.md|Political Unfriending on Facebook: Evidence from over 180 Million Users]]
+- [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md|Ethical and Socially Aware English-Norwegian Hate Speech Detection: A Systematic Design Framework]]
 
