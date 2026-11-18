@@ -44,3 +44,15 @@ Antropolojide **çok-ajanlı etnografi (MAE)** önerisi: LLM tabanlı ajanlar, a
 ## Turkey Context
 
 Türkiye'de nitel araştırma (etnografi, derinlemesine görüşme) ağırlıkla **tek araştırmacı + öğrenci asistan** modeliyle yürüyor ve transkript-kodlama yükü akademik takvimin en büyük darboğazı; MAE tam bu darboğaza oturuyor. Üç bağ: **Birincisi, uygulanabilirlik:** araç **Türkçe transkriptlerde** kodlama için doğrudan kullanılabilir (MCP + LLM); ama kod kitabı ve mercek tanımı Türkçe yapılmadığında kodlar İngilizce literatürün kavramlarına kayar — yerel kavram seti (ör. "mahalle baskısı", "hatır", "gönül") için **mercek tasarımı** şart. **İkincisi, KVKK:** görüşme transkriptleri **özel nitelikli kişisel veri** içerebilir; bulut LLM'e göndermek açık rıza ve veri işleme sözleşmesi gerektirir. Araç yerel model seçeneği sunuyor mu, sunmuyorsa Türkiye'deki kurumsal etik kurullar için **kullanılamaz** — bu, makalenin "veri mahremiyeti" notunun Türkiye'deki en somut karşılığı. **Üçüncüsü, ekip genişliği:** Türkiye'de nitel araştırma fonları küçük; "tek araştırmacı ekip genişliğine erişir" iddiası, TÜBİTAK 1001/3501 projelerinde **asistan bütçesi yerine araç bütçesi** tartışmasını açabilir. Uyarı: makalenin tam metni okunamadı; bu not bir **araç/kavram transferi**, Türkiye'ye dair ampirik iddia değil.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/cok-ajanli-etnografya.md|Çok-Ajanlı Etnografya]] — makalenin önerdiği yaklaşım
+- [[concepts/kuram-operasyonellestirme-llm.md|Kuram Operasyonelleştirme (LLM)]]
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler]]
+- [[concepts/metin-madenciligi.md|Metin Madenciliği]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/matt-artz.md|Matt Artz]]
+- [[entities/ai-anthropology-toolkit.md|AI Anthropology Toolkit]] — makalenin teknik kanıtı (MCP sunucusu)
