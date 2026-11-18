@@ -2121,3 +2121,8 @@
 - Source files: 2026-11-17_tech-shock-ferguson-panic-or-proof.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-19_fear-conformity-and-phantom-majorities.md]] — Fear, Conformity, and Phantom Majorities
+- Source files: 2026-09-19_fear-conformity-phantom-majorities.json
+- Agent: OKF Ingestion Pipeline
+
