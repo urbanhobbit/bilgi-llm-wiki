@@ -55,4 +55,8 @@ Türkiye'de COVID dönemi sağlık iletişimi bu çalışmanın tam tersi bir ö
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/saglik-dezenformasyonu.md|Sağlık Dezenformasyonu ve Infodemic]] — makalenin doğrudan konusu
 - [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/cycle-of-distrust.md|Cycle of Distrust]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/policyinstitute-net.md|Policyinstitute.net]] — paylaşımı yapan küratör platform
