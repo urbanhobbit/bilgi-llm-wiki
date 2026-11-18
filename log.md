@@ -2141,3 +2141,8 @@
 - Source files: 2026-11_rise-framework-ai-vs-traditional-research.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-28_dealing-with-misinformation-in-times-of-crises-an-.md]] — Dealing with misinformation in times of crises: an analysis of pharmaceutical companies' corporate social media communication
+- Source files: 2026-10-28_pharma-misinformation-tweets.json
+- Agent: OKF Ingestion Pipeline
+
