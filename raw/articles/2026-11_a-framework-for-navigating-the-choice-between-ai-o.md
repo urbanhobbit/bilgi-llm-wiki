@@ -49,3 +49,14 @@ Türkiye'de pazar araştırması ve kamuoyu araştırması sektörü aynı soruy
 ## 🏷 Retorik Roller
 
 - 🏛 **Politika Önerisi**
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler]] — AI-moderatörlerin "söylenmeyeni duyamama" sınırı
+- [[concepts/sentetik-odak-gruplari.md|Sentetik Odak Grupları]]
+- [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar]]
+- [[concepts/katilimci-yapay-zeka-kullanimi.md|Katılımcı Yapay Zeka Kullanımı]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cascade-insights.md|Cascade Insights]] — yazarların firması (çıkar çatışması notu)
