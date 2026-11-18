@@ -55,5 +55,11 @@ Bölüm Türkiye hakkında değil ama üç noktada doğrudan bağlanıyor. **Bir
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/ahlaki-panik.md|Ahlaki Panik]] — bölümün ana çerçevesi (panik vs kanıt)
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
 - [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklarda Dijital Kısıtlamalar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/chris-ferguson.md|Chris Ferguson]]
+- [[entities/parent-zone.md|Parent Zone]]
