@@ -2131,3 +2131,8 @@
 - Source files: 2026-11-17_phone-free-schools-achievement-growth.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-24_counted-but-not-understood-a-rapid-review-of-what-.md]] — Counted but not understood: a rapid review of what administrative and research data can and cannot tell us about young people who are NEET in England
+- Source files: 2026-10-24_neet-counted-but-not-understood.json
+- Agent: OKF Ingestion Pipeline
+
