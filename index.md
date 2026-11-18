@@ -658,4 +658,5 @@
 - [[raw/articles/2026-09-19_fear-conformity-and-phantom-majorities.md|Fear, Conformity, and Phantom Majorities]]
 - [[raw/articles/2026-11-17_phone-free-schools-and-achievement-growth-a-studen.md|Phone-Free Schools and Achievement Growth: A Student-Level Analysis]]
 - [[raw/articles/2026-10-24_counted-but-not-understood-a-rapid-review-of-what-.md|Counted but not understood: a rapid review of what administrative and research data can and cannot tell us about young people who are NEET in England]]
+- [[raw/articles/2026-11_a-framework-for-navigating-the-choice-between-ai-o.md|A framework for navigating the choice between AI or traditional research]]
 

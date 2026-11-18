@@ -2136,3 +2136,8 @@
 - Source files: 2026-10-24_neet-counted-but-not-understood.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11_a-framework-for-navigating-the-choice-between-ai-o.md]] — A framework for navigating the choice between AI or traditional research
+- Source files: 2026-11_rise-framework-ai-vs-traditional-research.json
+- Agent: OKF Ingestion Pipeline
+
