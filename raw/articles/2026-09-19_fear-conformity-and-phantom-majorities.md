@@ -56,5 +56,9 @@ Türkiye bu çerçevenin neredeyse **ders kitabı vakası**: siyasi kamuoyu alg�
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/hayalet-cogunluk.md|Hayalet Çoğunluk]] — metnin önerdiği yeni kavram
+- [[concepts/yanlis-kutuplasma.md|Yanlış Kutuplaşma]] — dış grubun olduğundan uç algılanması
 - [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cory-j-clark.md|Cory J. Clark]]
