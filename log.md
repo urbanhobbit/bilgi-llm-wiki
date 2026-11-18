@@ -2146,3 +2146,8 @@
 - Source files: 2026-10-28_pharma-misinformation-tweets.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-08_multi-agent-ethnography-post-conventional-anthropo.md]] — Multi-Agent Ethnography: Post-Conventional Anthropological Practice Through Human−AI Collaboration
+- Source files: 2026-02-08_multi-agent-ethnography.json
+- Agent: OKF Ingestion Pipeline
+
