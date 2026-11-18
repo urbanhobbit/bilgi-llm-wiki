@@ -656,4 +656,5 @@
 - [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md|Is It the Phones? Anatomy of a Moral Panic]]
 - [[raw/articles/2026-11-17_tech-shock-episode-4-dr-chris-ferguson-panic-or-pr.md|Tech Shock Episode 4: Dr Chris Ferguson - Panic or Proof? Social Media and the Evidence]]
 - [[raw/articles/2026-09-19_fear-conformity-and-phantom-majorities.md|Fear, Conformity, and Phantom Majorities]]
+- [[raw/articles/2026-11-17_phone-free-schools-and-achievement-growth-a-studen.md|Phone-Free Schools and Achievement Growth: A Student-Level Analysis]]
 

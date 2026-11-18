@@ -2126,3 +2126,8 @@
 - Source files: 2026-09-19_fear-conformity-phantom-majorities.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-17_phone-free-schools-and-achievement-growth-a-studen.md]] — Phone-Free Schools and Achievement Growth: A Student-Level Analysis
+- Source files: 2026-11-17_phone-free-schools-achievement-growth.json
+- Agent: OKF Ingestion Pipeline
+
