@@ -2151,3 +2151,8 @@
 - Source files: 2026-02-08_multi-agent-ethnography.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01_neighborhood-democracy-the-politicization-of-schoo.md]] — Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education
+- Source files: 2026-01_neighborhood-democracy-school-boards.json
+- Agent: OKF Ingestion Pipeline
+
