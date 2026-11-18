@@ -654,4 +654,5 @@
 - [[raw/articles/2026-10-16_hostility-population-sorting-and-backwardness-quas.md|Hostility, Population Sorting, and Backwardness: Quasi-Experimental Evidence from the Red Army after WWII]]
 - [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md|Misinformation and hoaxes in disaster and crisis communication on digital platforms: a bibliometric analysis with a focus on public trust]]
 - [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md|Is It the Phones? Anatomy of a Moral Panic]]
+- [[raw/articles/2026-11-17_tech-shock-episode-4-dr-chris-ferguson-panic-or-pr.md|Tech Shock Episode 4: Dr Chris Ferguson - Panic or Proof? Social Media and the Evidence]]
 

@@ -2116,3 +2116,8 @@
 - Source files: 2026-11-12_is-it-the-phones-moral-panic.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-17_tech-shock-episode-4-dr-chris-ferguson-panic-or-pr.md]] — Tech Shock Episode 4: Dr Chris Ferguson - Panic or Proof? Social Media and the Evidence
+- Source files: 2026-11-17_tech-shock-ferguson-panic-or-proof.json
+- Agent: OKF Ingestion Pipeline
+
