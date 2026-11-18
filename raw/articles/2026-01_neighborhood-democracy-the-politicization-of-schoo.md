@@ -53,4 +53,6 @@ Türkiye'de **okul kurulu** kurumu yok — okul yönetimi merkezi (MEB) ve okul 
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/okul-kurullari-ve-yerel-demokrasi.md|Okul Kurulları ve Yerel Demokrasi]] — makalenin doğrudan konusu
+- [[concepts/demokratik-erozyon.md|Demokratik Erozyon]]
 - [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
