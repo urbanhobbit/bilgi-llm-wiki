@@ -54,4 +54,10 @@ Türkiye'de okullarda telefon yasağı 2023'ten beri fiilen uygulanıyor (MEB ge
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/okul-telefon-yasaklari.md|Okulda Telefon Yasakları]] — bu raporun doğrudan konusu
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/ahlaki-panik.md|Ahlaki Panik]] — yasak dalgasının karşı-çerçevesi
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklarda Dijital Kısıtlamalar]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cepr-harvard.md|Harvard CEPR]]

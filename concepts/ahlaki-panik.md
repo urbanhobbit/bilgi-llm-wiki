@@ -35,3 +35,4 @@ Stanley Cohen'in *Folk Devils and Moral Panics* (1972) çerçevesinden: bir grup
 ## İlgili Makaleler
 - [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md|Finlayson (Boston Review 2026) — Is It the Phones? Anatomy of a Moral Panic]]
 - [[raw/articles/2026-11-17_tech-shock-episode-4-dr-chris-ferguson-panic-or-pr.md|Tech Shock S13E4 — Chris Ferguson: Panic or Proof? (Parent Zone, 2026)]] — aynı hattın akademik ayağı: meta-analitik kanıt
+- [[raw/articles/2026-11-17_phone-free-schools-and-achievement-growth-a-studen.md|CEPR/Harvard (2026) — Phone-Free Schools and Achievement Growth]] — panik tartışmasının **ampirik testi**: yasak etkisi ~0,01 ss

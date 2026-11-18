@@ -59,5 +59,6 @@ Türkiye'de **NEET oranı** (TÜİK: 15-24 yaş) yıllardır %20-30 bandında ve
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
-- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/neet-ve-genc-istihdami.md|NEET ve Genç İşsizliği]] — bu derlemenin doğrudan konusu
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ucl-institute-of-education.md|UCL Institute of Education]]
