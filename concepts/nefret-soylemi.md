@@ -34,3 +34,4 @@ Nefret söylemi, bir kişi ya da grubu korumalı bir kimlik özelliği (etnisite
 
 ## İlgili Makaleler
 - [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md|Ethical and Socially Aware English–Norwegian Hate Speech Detection: A Systematic Design Framework]] — Hashmi & Yayilgan, MAKE 8(9):292, 2026
+- [[raw/articles/2026-11-18_news-politics-societal-issues-and-hate-on-youths-d.md|Oostrum vd. (PsyArXiv 2026) — 6,7M TikTok videosu: haber-benzeri içeriğin %2,21'inde nefret söylemi, hiçbiri platformca kaldırılmamış]]

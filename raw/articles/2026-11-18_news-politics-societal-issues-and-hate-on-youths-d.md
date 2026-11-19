@@ -52,7 +52,13 @@ Türkiye bu çalışmanın **en doğal replikasyon sahası** ve bunun üç somut
 
 ## 🔗 İlgili Bağlantılar
 ### 🧠 İlgili Kavramlar
+- [[concepts/veri-bagisi-yontemi.md|Veri Bağışı (Data Donation) Yöntemi]] — makalenin yöntemi
+- [[concepts/nefret-soylemi.md|Nefret Söylemi]]
+- [[concepts/platform-seffaflik.md|Platform Şeffaflığı]] — DSA veritabanı denetimi
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuk Dijital Kısıtlamaları]]
 - [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
-- [[concepts/platform-seffaflik.md|platform-seffaflik]]
 ### 🏛 İlgili Kurum/Kişiler
-- [[entities/osf-io.md|Osf Io]]
+- [[entities/kevin-oostrum.md|Kevin Oostrum]]
+- [[entities/leiden-university.md|Leiden University]]
+- [[entities/osf-io.md|OSF (Open Science Framework)]]
