@@ -664,4 +664,6 @@
 - [[raw/articles/2026-01_neighborhood-democracy-the-politicization-of-schoo.md|Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education]]
 - [[raw/articles/2026-09-23_bringing-everyone-to-the-table-an-experimental-stu.md|Bringing Everyone to the Table: An Experimental Study of LLM-Facilitated Group Decision Making]]
 - [[raw/articles/2026-11-18_news-politics-societal-issues-and-hate-on-youths-d.md|News, Politics, Societal Issues, and Hate on Youths' Donated Social Media Feeds]]
+- [[raw/articles/2022-11-04_being-good-to-look-good-self-reported-moral-charac.md|Being good to look good: Self-reported moral character predicts moral double standards among reputation-seeking individuals]]
+- [[raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md|When kids lock up cellphones in class, the achievement gap narrows, study finds]]
 

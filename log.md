@@ -2166,3 +2166,9 @@
 - Source files: 2026-11-18_tiktok-donated-feeds-news-hate.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-11-04_being-good-to-look-good-self-reported-moral-charac.md]] — Being good to look good: Self-reported moral character predicts moral double standards among reputation-seeking individuals
+- Raw: [[raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md]] — When kids lock up cellphones in class, the achievement gap narrows, study finds
+- Source files: 2022-11-04_moral-double-standards-reputation.json, 2026-11-19_120310_ingestion.json
+- Agent: OKF Ingestion Pipeline
+
