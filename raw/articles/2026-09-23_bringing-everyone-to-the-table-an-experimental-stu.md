@@ -47,3 +47,11 @@ published: '2026-09-23'
 ## Turkey Context
 
 Türkiye'de grup kararı altyapısı yoğun: **kurul/komisyon toplantıları** (üniversite yönetim kurulları, il/ilçe komisyonları, MEB şuraları, kamu ihalelerinde muayene komisyonları) hem sık hem **bilgi asimetrisi** yüksek. Bu çalışma üç noktada doğrudan bağlanıyor. **Birincisi, ucuz müdahale:** LLM kolaylaştırıcı "sessiz üyeyi konuşturma"da insan kolaylaştırıcıdan **belirgin biçimde daha iyi** (%68 vs %25 doğrudan seslenme) ve maliyeti neredeyse sıfır — Türkiye'de **çevrimiçi yürütülen kurul toplantıları** için uygulanabilir tek gerçek AI faydası burada. **İkincisi, beklenti yönetimi:** aynı çalışma, daha fazla bilgi paylaşımının **karar kalitesini artırmadığını** gösteriyor; Türkiye'de "AI destekli karar alma" söylemi genellikle bunun tersini vaat ediyor. Kamu kurumlarında AI "karar destek" projeleri bu ayrımı yapmazsa, **daha çok bilgi + aynı karar** üretip hayal kırıklığı yaratacak. **Üçüncüsü, araştırma boşluğu:** GRAIL açık kaynak ve deney protokolü yayımlanmış — Türkiye'de (ör. üniversite kurulları veya STK yönetim kurulları örneklemiyle) **Türkçe replikasyon** düşük maliyetli ve doğrudan yayınlanabilir bir çalışma olur. Uyarı: bu bir **bulgu/kavram transferi**; deney ABD'li Prolific katılımcılarıyla, İngilizce ve yapay bir görev üzerinde yapıldı; Türkiye'ye dair ampirik iddia değil.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/kolektif-zeka-ve-grup-karari.md|Kolektif Zeka ve Grup Kararı]] — makalenin doğrudan konusu
+- [[concepts/muzakereci-demokrasi.md|Müzakereci Demokrasi]]
+- [[concepts/sentetik-odak-gruplari.md|Sentetik Odak Grupları]]
