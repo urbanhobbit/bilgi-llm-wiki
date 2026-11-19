@@ -94,3 +94,26 @@ PISA 2018 öğrenci anketinde akıllı telefona internet erişimi **%90'ın alt�
 
 ### Düzeltme
 Önceki kayıtta "@Oliver_S_Curry'nin verdiği **d = 0,0087** raporda birebir bulunamadı" notu vardı. **Düzeltildi:** 0,0087 **Tablo 2'de aynen var** (pooled, p<0,05). Curry'nin sayısı doğru; itirazım yalnızca **yorumuna** ("esasen hiç etki yok") yönelikti.
+
+---
+
+## 📰 Basın yansıması — başlık iddiaları vs. rapor (19 Kasım 2026)
+
+Aynı rapor dört günde beş farklı çerçeveyle dolaşıma girdi. Aşağıdaki tablo **yalnızca başlık/spot düzeyinde** karşılaştırma yapıyor (WaPo'nun gövde metni **Akamai** nedeniyle alınamadı: `000`, Wayback kopyası yok; yalnızca başlık + spot + tweet metni doğrulanabildi).
+
+| Yayın | Başlık iddiası | Raporla uyum |
+|---|---|---|
+| **Washington Post** (18 Kas) | "When kids lock up cellphones in class, **the achievement gap narrows**, study finds" | ⚠️ **Desteklenmiyor.** Rapor, ırk, cinsiyet, okul/öğrenci başlangıç başarısı ve sınıf düzeyi alt gruplarında **anlamlı fark bulamıyor**; tek anlamlı heterojenlik **matematikte ortalamanın ÜSTÜNDEKİ** öğrencilerin daha çok kazanması (p = 0,042) — yani ölçülen yönde fark **açılıyor**, kapanmıyor. Yazarlar bunu "beklediğimizin tersi" diye işaretliyor. |
+| **Washington Post** spotu | "...gained a week or two of lost learning time" | ✅ Uyumlu (1-2 hafta ek öğretim eşdeğeri). |
+| **The Guardian** (17 Kas) | "'Modest' academic gains" | ✅ Uyumlu (0,0087 ss = küçük etki). |
+| **EdWeek** (18 Kas) | "math and reading achievement grew faster" | ✅ Uyumlu. |
+| **Harvard GSE** (17 Kas) | "first evidence on statewide bans during 2025-26" | ✅ Uyumlu (rapor bunu açıkça iddia ediyor). |
+| **NPR / GPB / VPM** | "may help students make up some of the learning lost since 2013 — a divergence from earlier results" | ✅ Uyumlu ve en dengeli çerçeve; ayrıca Allcott vd. (NBER 35132) ile çelişkiyi de metne koyuyor. |
+| **@Oliver_S_Curry** (X, 17 Kas) | "esasen hiç etki yok" | ❌ Ters yönde abartı; sayı (0,0087) doğru, yorum değil. |
+
+**Neden önemli:** "achievement gap narrows" ifadesi, eğitim politikasında **eşitlik gerekçesiyle** yasak savunuculuğunun ana argümanı. Rapor bu gerekçeyi **vermiyor**: etki ortalama düzeyde ve (matematikte) **görece avantajlı** öğrencilerde biraz daha büyük. Yasak, **toplam öğrenme** lehine savunulabilir; **eşitsizliği kapatma** lehine bu veriyle savunulamaz.
+
+**Metodolojik uyarı (rapordan):** alt grup analizleri çok sayıda etkileşim içeriyor (sınıf düzeyi, kabul yılı, okul/öğrenci başlangıç başarısı, ırk, cinsiyet, öğrenci başına coğrafi konumlu telefon sayısı) → çoklu karşılaştırma düzeltmesi yapılmadan okunan tek bir p = 0,042 **kırılgan**. Yani "fark açılıyor" iddiası da bu rapordan **kesin olarak** çıkarılamaz; çıkan şey **"farkın kapandığına dair kanıt yok"**.
+
+**Kaynak:** washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/ (Erişim: **Akamai engeli**, gövde okunamadı; başlık/spot arama dizini + @washingtonpost gönderisi üzerinden).
+
