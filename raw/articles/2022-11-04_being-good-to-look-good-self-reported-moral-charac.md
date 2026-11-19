@@ -45,3 +45,12 @@ Kendini **çok ahlaklı** olarak tanımlayan insanlar, **başkalarının ihlalle
 ## Turkey Context
 
 Türkiye'de **ahlaki konuşma** siyasetin merkezinde: "ahlak bekçiliği", kamusal ahlak tartışmaları ve sosyal medyada linç kültürü aynı örüntünün sahnesi. Bu çalışmanın üç doğrudan bağı var. **Birincisi, mekanizma:** kendini ahlaklı tanımlama + **statü/görünürlük kaygısı** birleştiğinde çifte standart büyüyor — Türkiye'de yüksek görünürlüklü hesapların ahlaki kınama dilinin neden bu kadar sert olduğunu açıklayan bir mikro-mekanizma. **İkincisi, veri boşluğu ve fırsat:** ESS'te **Türkiye yok**; yani çalışmanın 34 bin kişilik paneli Türkiye'yi kapsamıyor. Aynı üçlü etkileşim **World Values Survey / EVS** dalgalarıyla (Türkiye dahil) test edilebilir — düşük maliyetli, doğrudan yayınlanabilir bir replikasyon. **Üçüncüsü, 2004 verisi sorunu:** Çalışma 1'in verisi 22 yaşında ve **yüz yüze görüşme** döneminden; bugünkü ahlaki kınama büyük ölçüde **platformlaşmış** durumda — yani etki muhtemelen **büyüdü**, ama bu bir çıkarım, ölçüm değil. Uyarı: bu bir **kavram transferi**; çalışmada Türkiye verisi yok ve yalnızca **yargılar** ölçülmüş, davranış değil.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ahlaki-cifte-standart.md|Ahlaki Çifte Standart]] — makalenin doğrudan konusu
+- [[concepts/ahlaki-temeller-kurami.md|Ahlaki Temeller Kuramı]]
+- [[concepts/ahlaki-panik.md|Ahlaki Panik]]
+- [[concepts/yanlis-kutuplasma.md|Yanlış Kutuplaşma]]

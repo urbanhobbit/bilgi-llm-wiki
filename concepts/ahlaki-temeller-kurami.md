@@ -40,4 +40,4 @@ Framing analizinde LLM kullanılıyorsa "kenar kuralları" şart: ölçüm dili 
 
 ## Bağlantılı
 
-[[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]] · [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme]]
+[[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma]] · [[concepts/kuram-operasyonellestirme-llm.md|LLM ile Kuram Operasyonelleştirme]] · [[concepts/ahlaki-cifte-standart.md|Ahlaki Çifte Standart]] · [[raw/articles/2022-11-04_being-good-to-look-good-self-reported-moral-charac.md|Dong vd. (BJP 2022)]]
