@@ -2161,3 +2161,8 @@
 - Source files: 2026-09-23_llm-facilitated-group-decision-making.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-18_news-politics-societal-issues-and-hate-on-youths-d.md]] — News, Politics, Societal Issues, and Hate on Youths' Donated Social Media Feeds
+- Source files: 2026-11-18_tiktok-donated-feeds-news-hate.json
+- Agent: OKF Ingestion Pipeline
+
