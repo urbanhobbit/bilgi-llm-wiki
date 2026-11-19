@@ -662,4 +662,5 @@
 - [[raw/articles/2026-10-28_dealing-with-misinformation-in-times-of-crises-an-.md|Dealing with misinformation in times of crises: an analysis of pharmaceutical companies' corporate social media communication]]
 - [[raw/articles/2026-02-08_multi-agent-ethnography-post-conventional-anthropo.md|Multi-Agent Ethnography: Post-Conventional Anthropological Practice Through Human−AI Collaboration]]
 - [[raw/articles/2026-01_neighborhood-democracy-the-politicization-of-schoo.md|Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education]]
+- [[raw/articles/2026-09-23_bringing-everyone-to-the-table-an-experimental-stu.md|Bringing Everyone to the Table: An Experimental Study of LLM-Facilitated Group Decision Making]]
 

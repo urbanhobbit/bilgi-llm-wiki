@@ -2156,3 +2156,8 @@
 - Source files: 2026-01_neighborhood-democracy-school-boards.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-23_bringing-everyone-to-the-table-an-experimental-stu.md]] — Bringing Everyone to the Table: An Experimental Study of LLM-Facilitated Group Decision Making
+- Source files: 2026-09-23_llm-facilitated-group-decision-making.json
+- Agent: OKF Ingestion Pipeline
+
