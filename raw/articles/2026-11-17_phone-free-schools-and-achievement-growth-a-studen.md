@@ -115,5 +115,6 @@ Aynı rapor dört günde beş farklı çerçeveyle dolaşıma girdi. Aşağıdak
 
 **Metodolojik uyarı (rapordan):** alt grup analizleri çok sayıda etkileşim içeriyor (sınıf düzeyi, kabul yılı, okul/öğrenci başlangıç başarısı, ırk, cinsiyet, öğrenci başına coğrafi konumlu telefon sayısı) → çoklu karşılaştırma düzeltmesi yapılmadan okunan tek bir p = 0,042 **kırılgan**. Yani "fark açılıyor" iddiası da bu rapordan **kesin olarak** çıkarılamaz; çıkan şey **"farkın kapandığına dair kanıt yok"**.
 
-**Kaynak:** washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/ (Erişim: **Akamai engeli**, gövde okunamadı; başlık/spot arama dizini + @washingtonpost gönderisi üzerinden).
+**Kaynak:** washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/ — **Casey Parks**, 18 Kasım 2026, 14:00 UTC.
+**Erişim güncellemesi (19 Kasım):** doğrudan istek **Akamai** tarafından `000` ile kesiliyordu; sayfa **treg** (`treg.web.extract`) üzerinden açıldı. Alınan kısım **giriş paragrafları** — WaPo'nun **ölçümlü (metered) duvarı** gövdenin geri kalanını vermedi. Doğrulanan: başlık, spot, yazar, tarih ve açılış (Denver'da bir gencin Instagram'ı bırakması üzerine röportaj; "eyaletlerin yarısından fazlası bell-to-bell yasak uyguluyor, Colorado gibi bazıları bölgeye bırakıyor"). **Başlıktaki "gap narrows" iddiasının gövdede nasıl temellendirildiği hâlâ doğrulanamadı.**
 
