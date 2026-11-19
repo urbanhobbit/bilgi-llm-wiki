@@ -32,7 +32,8 @@ ABD'de **3,3 milyon öğrenci ve 4.600 okul** (2021-22 – 2025-26, 49 eyalet + 
 ## Key Points
 
 - **Künye:** "Phone-Free Schools and Achievement Growth: A Student-Level Analysis", CEPR (Harvard) araştırma raporu, **Kasım 2026**; yazarlar: Burland, Carminucci, Cullum, Dewey, **Thomas J. Kane**, Morton, **Douglas O. Staiger**; Harvard CEPR + Dartmouth + NWEA ortaklığı. **Hakem değerlendirmesinden geçmemiş** (NPR'nin açık notu).
-- **Erişim:** Paylaşılan `cepr.harvard.edu/phone-free-schools` **403 (Akamai)**; rapor PDF'i ve Wayback kopyası da **403/404**. Metin, CEPR basın bülteni + yönetici özeti + **NPR haberi** (Cory Turner, 17 Kas 2026) ve arama dizinindeki PDF metni üzerinden yeniden kuruldu. **PDF'in tamamı okunamadı** — sayfa numarası/şekil atıfları doğrulanmadı.
+- **Erişim (17 Kas):** Paylaşılan `cepr.harvard.edu/phone-free-schools` **403 (Akamai)**; ilk denemede PDF ve Wayback kopyası da 403/404 idi. Metin ilk olarak CEPR basın bülteni + yönetici özeti + **NPR haberi** (Cory Turner, 17 Kas 2026) ve arama dizinindeki PDF metni üzerinden kuruldu.
+- ✅ **TAM METİN ERİŞİLDİ (18 Kas 2026):** raporun `…Achievement Growth_1.pdf` sürümü **Wayback** üzerinden indirildi (snapshot `20261117155351`, 3,88 MB, 187 bin karakter) ve tam metinden okundu. Aşağıdaki tüm sayılar, tablo ve şekiller artık **birincil PDF'ten** doğrulanmıştır.
 - **Örneklem:** **~3,3 milyon öğrenci**, **4.600+ okul**, 2021-22 – 2025-26 (5 okul yılı), **49 eyalet + DC**, NWEA MAP Growth, 3-10. sınıf. **Önemli nüans:** yasak etkisinin tahmin edildiği öğrenci-düzeyi analiz, hem Yondr kullanan hem NWEA testi uygulayan **844 okulu** kapsıyor; 4.600 sayısı genel örneklem. Ülke çapında **3.326 okul** 2019-20 – 2025-26 arasında Yondr kılıfı kullanmaya başladı.
 - **Ana tahmin:** kilitli kılıf uygulaması yıllık başarı büyümesini **~0,009 ss** artırıyor (matematik+okuma birleşik, **p = 0,041**); ayrı ayrı **matematik 0,008 ss (p = 0,108)** ve **okuma 0,009 ss (p = 0,069)** — yani **ders bazında istatistiksel anlamlılık yok**, anlamlılık birleşik tahminden geliyor. İlk yıl etkisi 0,009 ss (p = 0,062), ikinci ve sonraki yıllar 0,009 ss (p = 0,149).
 - **Yorumlanışı:** 0,01 ss, Kraft (2020) ölçütünde "küçük"ün (< 0,05) çok altında; ama yazarlar bunu **2013 sonrası yıllık kaybın (okuma 0,016 ss/yıl, matematik 0,010 ss/yıl) yaklaşık yarısı** ve **1-2 haftalık ek öğretim** olarak okuyor. Fark burada: aynı sayı "önemsiz" de olabilir "kümülatif olarak anlamlı" da.
@@ -61,3 +62,35 @@ Türkiye'de okullarda telefon yasağı 2023'ten beri fiilen uygulanıyor (MEB ge
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 ### 🏛 İlgili Kurum/Kişiler
 - [[entities/cepr-harvard.md|Harvard CEPR]]
+
+---
+
+## 📌 18 Kasım 2026 — tam metin güncellemesi: dinamik (kademeli) etkiler
+
+@MC_of_A'nın (Michael Caley) 18 Kasım gönderisi aynı raporun PDF'ini ve iki şeklini paylaştı; PDF **Wayback** üzerinden indirilip doğrulandı. Gönderinin tezi — *"yasakla telefon kullanımı hemen dibe vurmuyor, yasak sürdükçe azalıyor; test sonuçlarındaki iyileşme de kademeli"* — **Şekil 6, Şekil 7 ve Tablo 2 ile destekleniyor**.
+
+### Tablo 2 — doğrulanmış tahminler (student-year N = 9.941.182)
+| Değişken | Pooled | Matematik | Okuma |
+|---|---|---|---|
+| Yondr (cari yıl) | **0,0087** (SE 0,0043; p<0,05) | 0,0079 (n.s.) | 0,0095 (p<0,10) |
+| **İlk yıl** | 0,0086 (p<0,10) | **0,0094** (p<0,10) | 0,0080 (n.s.) |
+| **İkinci yıl ve sonrası** | 0,0091 (n.s.) | 0,0035 (n.s.) | **0,0141 (p<0,01)** |
+| 1. yıl ≠ 2+ yıl farkı (p) | 0,944 | 0,452 | 0,375 |
+| R² | 0,8033 | 0,8456 | 0,7634 |
+
+**Okuma:** okuma etkisi **ikinci yıldan itibaren** güçleniyor ve istatistiksel olarak anlamlı hale geliyor; matematikte etki ilk yıl anlamlı, sonra kayboluyor. Yazarlar iki dönemin birbirinden farklı olduğu hipotezini **reddedemiyor** — yani "kademeli artış" örüntüsü **işaret düzeyinde** var, istatistiksel olarak kanıtlanmış değil.
+
+### Şekil 6 — telefon aktivitesi (log) yıla göre
+2024'te Yondr'a geçen okullar 2026 baharında **−0,22 log puan**; 2025'te geçenler −0,19; 2026'da geçenler −0,11. Yani **yasak ne kadar eskidir, telefon kullanımı o kadar düşük** — "hemen sıfırlanma" yok, **kademeli düşüş** var.
+
+### Şekil 7 — olay çalışması (event study), Panel A pooled / Panel B matematik
+Yasak öncesi yıllar (t−4 … t−1) sıfır civarında; yasak sonrası nokta tahminleri **t+1 ≈ 0,005 → t+2 ≈ 0,013 → t+3 ≈ 0,017** ss. Bu, yazarların "etki seviyede sıçrama değil, **öğrenme hızında kayma**" yorumunu destekliyor (güven aralıkları geniş, t+3'te anlamlılık sınırda).
+
+### Maliyet (doğrulandı)
+Yondr kılıfları **öğrenci başına 22–25 $** (kılıf + açma ekipmanı + eğitim + satıcı desteği). Sınıf mevcudu 17 → **öğretmen başına 425 $**; bir haftalık öğretmen maaşı (yıllık 74.910 $ ortalamasıyla) **2.080 $** — yaklaşık **5 kat** daha pahalı. Eşdeğerlik: yasak ≈ **1–2 hafta ek öğretim** (Aucejo & Romano 2016, Morton vd. 2024, Figlio vd. 2018 karşılaştırmalarıyla).
+
+### 🎯 Türkiye verisi (rapordan)
+PISA 2018 öğrenci anketinde akıllı telefona internet erişimi **%90'ın altında** olan ülkeler: Şili, Kosta Rika, **Türkiye (%86–87)**, Meksika (%77). Yani Türkiye, raporun kendi çerçevesinde **yayılımın biraz geriden geldiği** ülkelerden biri — 2013 sonrası ABD'deki kırılmanın Türkiye'de birkaç yıl gecikmeyle görünmesi beklenir.
+
+### Düzeltme
+Önceki kayıtta "@Oliver_S_Curry'nin verdiği **d = 0,0087** raporda birebir bulunamadı" notu vardı. **Düzeltildi:** 0,0087 **Tablo 2'de aynen var** (pooled, p<0,05). Curry'nin sayısı doğru; itirazım yalnızca **yorumuna** ("esasen hiç etki yok") yönelikti.
