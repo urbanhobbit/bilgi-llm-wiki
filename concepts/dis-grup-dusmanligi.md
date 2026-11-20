@@ -30,3 +30,4 @@ Dış-grup düşmanlığı, bireyin kendi grubu dışındaki gruplara yönelik o
 - [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why Do Young US Americans Avoid Cross-Party Relationships?]]
 - [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds?]]
 - [[raw/articles/2026-08-05_social-dominance-orientation.md|Social dominance orientation (Pratto, 2026)]]
+- [[raw/articles/2026-09-19_fear-conformity-and-phantom-majorities.md|Clark (PsyArXiv 2026) — hayalet çoğunlukların dış-grup düşmanlığını şişirmesi]]

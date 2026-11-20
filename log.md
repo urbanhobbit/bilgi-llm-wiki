@@ -1,3 +1,12 @@
+## [2026-11-16] ingest | KURATOR Weekly Bulletin (Hafta 47/2026)
+- Raw: [[raw/articles/2026-11-16_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 47/2026 açılışı, 14 – 16 Kasım 2026); 89000 byte, 10526 kelime
+- Telegram categorized akışı (14 – 16 Kas): 7 dosya, 22 benzersiz kayıt (KURATOR 13 / AKADEMİK ÖZEL 14 / GENEL 11, çoklu etiket); çocuk-dijital kesişiminde 7 kayıt, bunların yalnızca 2'si güncel politika haberi (Undark 09.11, NYT 05.11). Haber omurgası doğrudan gündem araştırmasıyla kuruldu: 20 ddgs sorgusu + 37 RSS akışı + 26 URL erişim testi.
+- İçerik omurgası: (1) **AI kaynaklı istismar materyali** — Childlight: 4.700 (2023) → 400.000+ (2025), +%8.400; IWF 6.310 AI görseli (2026 ilk yarı, +%40); bölge kapsamı Doğu Asya-Pasifik / Latin Amerika-Karayipler / Kuzey Amerika; "bildirim artışı ≠ vaka artışı" ayrımı ölçüm notuna taşındı; (2) **Birleşik Krallık** — telefon kuralı "no see, no hear"den "gün içinde erişim yok"a (yürürlük Eylül 2027), muhalefetin ekran sınavlarını durdurma + günde 2 saat ekran sınırı vaadi (15 Kas), 16 yaş altı yasak kapsamının 150 platforma çıkma ihtimali (YouTube Kids, Lego Play, Spotify, eBay); (3) **AB** — EU KIDS Act (17.09.2026) istişaresi 3 Aralık 2026'da kapanıyor, 15 yaş tek eşik; (4) **Okul altyapısı** — Google, AI Overviews'ı kapatmak isteyen okullara Search erişimini keseceğini bildirdi (NPR 13 Kas); (5) **Türkiye** — Çocuklar Güvende uygulaması (bildirim kanalı, kanıt ekleme, WhatsApp hattı, WSIS Prizes 2026 "Şampiyon Proje"), Ocak 2026 TBMM Çocuk Hakları Alt Komisyonu raporu (204 sayfa / 82 öneri, 22.00–06.00 önerisi) arka plan olarak tarihiyle verildi; (6) **ergen özerkliği** — ChatGPT Teen Mode + Wallace-Wells verisi.
+- Akademik katman (6 kayıt, özet ve Türkiye bağlamı sınıflandırma hattından değiştirilmeden): Springer *The Impact of AI on Child Online Safety* (10.1007/978-981-96-1473-8_17-1), EU ENESET *Empowering parents* (10.2766/8338788), ACM 3D-Sec *Graph-Based Disinformation* (10.1145/3843205.3845624), LSE Media@ blog, Undark (AU yasağı), NYT (ergen ruh sağlığı).
+- Doğrulama: her haber için yayıncının kendi pubDate/published alanı okundu; tarih doğrulanamayan kayıt ana metne alınmadı. Erişim: undark.org 403, nytimes.com abonelik duvarı, euractiv/ofcom 403, euronews 406, independent 404, techpolicy.press JS kabuğu, esafety.gov.au zaman aşımı, meb.gov.tr/haberler 404. Scrapling ortamda kurulu değil → urllib + RSS hattı.
+- Updated index.md (Last updated 2026-11-16, Total pages 186)
+- Agent: KURATOR Bulletin Cronjob
+
 ## [2026-11-09] ingest | KURATOR Weekly Bulletin (Hafta 46/2026)
 - Raw: [[raw/articles/2026-11-09_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 46/2026, 2 – 9 Kasım 2026); 83916 byte, 10407 kelime
 - Telegram categorized akışı (2 – 9 Kas): KURATOR etiketli tek yeni kayıt **TikTok DSA ön bulgusu** (6 Kas) ve bu kayıt 7 Kasım ara bültende işlendi → bülten doğrudan gündem araştırmasıyla kuruldu: 18 ddgs sorgusu, 15 URL tam metin denemesi (11 başarılı), arXiv API (8 sorgu + 6 tam özet).
@@ -2010,5 +2019,156 @@
 ## [2026-11-15] ingest | OKF Auto-Ingestion
 - Raw: [[raw/articles/2026-11-11_the-economics-of-climate-change-how-nordhaus-took-.md]] — The economics of climate change: how Nordhaus took on the Limits to Growth
 - Source files: 2026-11-11_harford-economics-of-climate-change-nordhaus-limits-to-growth.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-15_2026-election-conspiracies-haven-t-breached-the-ve.md]] — 2026 Election Conspiracies Haven't Breached the Vermeule Threshold
+- Source files: 2026-11-15_gelman-vermeule-threshold-election-conspiracies.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-15] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-24_agent-reach-one-cli-giving-agents-access-to-login-.md]] — Agent Reach: one CLI giving agents access to login-walled platforms
+- Source files: 2026-02-24_agent-reach-cli-agent-internet-access.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] enrich | Populism and conspiracy theories: A cross-national analysis
+- X paylaşımı (x.com/Wubenmensheng/status/2122179347587191138) → makalenin yayıncı PDF 1. sayfası doğrulandı; yayıncı özeti OpenAlex'ten yeniden kurulan özetle birebir eşleşti.
+- Sayfaya "İddia Kontrolü" tablosu eklendi: paylaşımın "authoritarianism is the strongest correlate" cümlesi özette karşılıksız (doğrulanamadı); "strongest predictor" radikal sağ ideolojiye ait.
+- Tam metin (tablo/katsayı/örneklem) hâlâ görülmedi — ScienceDirect/microlink/Unpaywall/Estudo Geral yolları kapalı.
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-10_evolutionary-foundations-of-social-identity.md]] — Evolutionary foundations of social identity
+- Source files: 2026-11-16_evolutionary-foundations-of-social-identity.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-14_countering-disinformation-campaigns-and-narratives.md]] — Countering Disinformation Campaigns and Narratives: An Innovative Graph-Based Solution for Malicious Content Analysis, Detection, and Visualization
+- Raw: [[raw/articles/2026-10-07_how-will-we-teach-social-media-safety-to-children-.md]] — How will we teach social media safety to children banned from using it
+- Raw: [[raw/articles/2026-11-13_the-impact-of-ai-on-child-online-safety-a-legal-an.md]] — The Impact of AI on Child Online Safety: A Legal and Practical Perspective
+- Source files: 2026-11-16_countering-disinformation-graph-based-solution.json, 2026-11-16_impact-of-ai-on-child-online-safety.json, 2026-11-16_how-will-we-teach-social-media-safety.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_toxic-content-and-user-engagement-on-social-media-.md]] — Toxic Content and User Engagement on Social Media: Evidence from a Field Experiment
+- Source files: 2026-11-16_toxic-content-and-user-engagement.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] enrich | Polling Without People (CASM silikon örneklem)
+- APSA (@APSAtweets) gönderisi → makale zaten 22 Ekim'de kayıtlıydı; yeni sayfa açılmadı.
+- Cambridge preproof PDF (18 s.) indirilip tam metin okundu; Tablo 3-4 ve Şekil 4-5 sayıları sayfaya eklendi (yanlılık ayrıştırması +7,68/−5,57, bölge teşhisleri rho=0,98 / %93,6 / 7,3 puan, constructor−retriever ≈ 4,5 puan, panel %10 rotasyon).
+- Yazar adı düzeltmesi: "Ava Ali" → "Ava Alan Ali" (Crossref).
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-21_safety-first-safe-on-the-internet-rtl-luxembourg-m.md]] — Safety First - Safe on the Internet: RTL Luxembourg media literacy campaign
+- Source files: 2026-11-16_safety-first-rtl-luxembourg-media-literacy-campaign.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-03_citizen-produced-political-text-cppt-a-research-no.md]] — Citizen-produced political text (CPPT): a research note on systematic review of academic manuscripts
+- Source files: 2026-11-16_citizen-produced-political-text-cppt-research-note.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] enrich | Political Ingroup/Outgroup Cues (LLM komplo çürütme) — v2
+- @profgoose (ortak yazar Kyle Saunders) paylaşımı → makale 8 Kasım'da v1 üzerinden kayıtlıydı; yeni sayfa açılmadı.
+- v2 (15.11.2026) indirildi ve karşılaştırıldı: özet/örneklem aynı; yeni §5 "Differences by LLM" + Şekil 7 (keşifsel).
+- Paylaşımdaki "MR oranı GPT-4o'da ~%10 → GPT-5.5'te ~%50" iddiası makalede raporlanmıyor → sayfaya "doğrulanamadı" olarak işlendi.
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-13_in-referees-we-trust-how-peer-review-became-a-mark.md]] — In Referees We Trust? How Peer Review Became a Mark of Scientific Legitimacy
+- Source files: 2026-11-16_in-referees-we-trust-baldwin.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-14_deep-learning-and-social-context-approaches-for-fa.md]] — Deep Learning and Social-Context Approaches for Fake News Detection: A Review of Neural, Propagation-Based and Explainable Methods
+- Source files: 2026-11-14_deep-learning-social-context-fake-news-detection-ijsret.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_cognitive-grounding-improves-llm-simulation-of-col.md]] — Cognitive grounding improves LLM simulation of collective human behavior
+- Source files: 2026-11-16_cognitive-grounding-llm-collective-behavior.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-16] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_group-cross-pressures-and-correct-voting-in-americ.md]] — Group cross-pressures and correct voting in American elections
+- Source files: 2026-11-06_group-cross-pressures-correct-voting-sleiman.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-13_political-unfriending-on-facebook-evidence-from-ov.md]] — Political Unfriending on Facebook: Evidence from over 180 Million Users
+- Source files: 2026-11-13_political-unfriending-on-facebook.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-21_ethical-and-socially-aware-english-norwegian-hate-.md]] — Ethical and Socially Aware English-Norwegian Hate Speech Detection: A Systematic Design Framework
+- Source files: 2026-11-17_hate-speech-detection-framework.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md]] — How much are LLMs changing the language of academic papers after ChatGPT? A multi-database and full text analysis
+- Raw: [[raw/articles/2026-10-16_hostility-population-sorting-and-backwardness-quas.md]] — Hostility, Population Sorting, and Backwardness: Quasi-Experimental Evidence from the Red Army after WWII
+- Source files: 2026-04-03_llm-language-academic-papers.json, 2026-10-17_red-army-hostility-population-sorting.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md]] — Misinformation and hoaxes in disaster and crisis communication on digital platforms: a bibliometric analysis with a focus on public trust
+- Source files: 2026-11-16_disaster-misinformation-bibliometric.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-17] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md]] — Is It the Phones? Anatomy of a Moral Panic
+- Source files: 2026-11-12_is-it-the-phones-moral-panic.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-17_tech-shock-episode-4-dr-chris-ferguson-panic-or-pr.md]] — Tech Shock Episode 4: Dr Chris Ferguson - Panic or Proof? Social Media and the Evidence
+- Source files: 2026-11-17_tech-shock-ferguson-panic-or-proof.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-19_fear-conformity-and-phantom-majorities.md]] — Fear, Conformity, and Phantom Majorities
+- Source files: 2026-09-19_fear-conformity-phantom-majorities.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-17_phone-free-schools-and-achievement-growth-a-studen.md]] — Phone-Free Schools and Achievement Growth: A Student-Level Analysis
+- Source files: 2026-11-17_phone-free-schools-achievement-growth.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-24_counted-but-not-understood-a-rapid-review-of-what-.md]] — Counted but not understood: a rapid review of what administrative and research data can and cannot tell us about young people who are NEET in England
+- Source files: 2026-10-24_neet-counted-but-not-understood.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11_a-framework-for-navigating-the-choice-between-ai-o.md]] — A framework for navigating the choice between AI or traditional research
+- Source files: 2026-11_rise-framework-ai-vs-traditional-research.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-10-28_dealing-with-misinformation-in-times-of-crises-an-.md]] — Dealing with misinformation in times of crises: an analysis of pharmaceutical companies' corporate social media communication
+- Source files: 2026-10-28_pharma-misinformation-tweets.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-02-08_multi-agent-ethnography-post-conventional-anthropo.md]] — Multi-Agent Ethnography: Post-Conventional Anthropological Practice Through Human−AI Collaboration
+- Source files: 2026-02-08_multi-agent-ethnography.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-18] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-01_neighborhood-democracy-the-politicization-of-schoo.md]] — Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education
+- Source files: 2026-01_neighborhood-democracy-school-boards.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-23_bringing-everyone-to-the-table-an-experimental-stu.md]] — Bringing Everyone to the Table: An Experimental Study of LLM-Facilitated Group Decision Making
+- Source files: 2026-09-23_llm-facilitated-group-decision-making.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-18_news-politics-societal-issues-and-hate-on-youths-d.md]] — News, Politics, Societal Issues, and Hate on Youths' Donated Social Media Feeds
+- Source files: 2026-11-18_tiktok-donated-feeds-news-hate.json
+- Agent: OKF Ingestion Pipeline
+
+## [2026-11-19] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2022-11-04_being-good-to-look-good-self-reported-moral-charac.md]] — Being good to look good: Self-reported moral character predicts moral double standards among reputation-seeking individuals
+- Raw: [[raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md]] — When kids lock up cellphones in class, the achievement gap narrows, study finds
+- Source files: 2022-11-04_moral-double-standards-reputation.json, 2026-11-19_120310_ingestion.json
 - Agent: OKF Ingestion Pipeline
 

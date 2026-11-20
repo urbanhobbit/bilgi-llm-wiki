@@ -40,3 +40,6 @@ A feedback loop in which emotionally manipulative narratives erode institutional
 - **Emotional literacy** — helping citizens recognise emotional manipulation
 - **Transparent moderation** — reducing perceptions of institutional bias
 - **Citizen Innovation Labs** — structured spaces for emotional meaning-making
+
+## İlgili Makaleler
+- [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md|Rudianto vd. (Cogent A&H 2026) — afet dezenformasyonu literatüründe kamu güveni: özetlerin %35'inde geçiyor, ama anahtar kelimelerin %6'sında — güven ikincil kaygı]]

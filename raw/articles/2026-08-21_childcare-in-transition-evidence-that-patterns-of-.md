@@ -42,3 +42,9 @@ Anushé Hassan ve arkadaşlarının Demography dergisinde (Duke University Press
 ## Turkey Context
 
 Türkiye'de hızlı kentleşme, iç göç ve kadın istihdamındaki artış, çocuk bakımı desteğinin akrabalık ağlarından (özellikle büyükanne/anneanne desteği) piyasa temelli ve kurumsal bakıma kayışını hızlandırıyor. Hassan ve arkadaşlarının bulgusu — pazar entegrasyonunun baba tarafı akraba desteğini bozarken anne tarafını koruması — Türkiye'deki bakım rejimi tartışmaları için test edilebilir bir hipotez: kentleşen Türkiye'de baba tarafı akraba (baba/babaanne) bakım katılımının düşüşü ile anne tarafı (anne/anneanne) desteğinin sürekliliği, Türkiye aile yapısı araştırmalarında da gözlemlenen bir desenle paralellik gösteriyor. Ayrıca bulgular, Türkiye'deki erken çocukluk bakım politikalarının (kreş, bakım izni) tasarımında akrabalık desteğinin azalan rolünü hesaba katması gerektiğine işaret ediyor.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/duke-university.md|Duke University]]

@@ -23,3 +23,4 @@ Bu kavramla ilgili kaynaklar [[index.md|wiki dizininde]] listelenmiştir.
 ## İlgili Makaleler
 
 - [[raw/articles/2026-10_drawing-a-line-in-digital-spaces-age-based-restric.md|UNICEF — Drawing a Line in Digital Spaces: Age-based restriction of social media (Rapid analysis, 2. baskı, Ekim 2026)]]
+- [[raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md|Finlayson (Boston Review, Güz 2026) — yasak dalgasının gözetim maliyeti (yaş doğrulama, VPN yasağı) ve kanıt düzeyi eleştirisi]]

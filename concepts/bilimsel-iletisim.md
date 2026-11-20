@@ -27,3 +27,4 @@ Bilimsel iletişim, bilimsel bilginin uzman olmayan kitlelere aktarılmasıdır.
 ## İlgili Makaleler
 - [[raw/articles/2026-07-28_political-polarization-of-trust-in-science.md|Political Polarization of Trust in Science]]
 - [[raw/articles/2026-07-24_the-polarizing-effect-of-the-march-for-science-on-.md|The Polarizing Effect of the March for Science]]
+- [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md|Kousha & Thelwall (Scientometrics 2026) — LLM'lerin akademik yazı dilini değiştirmesi: delve +%1.360, 12 terim, 6 veritabanı]]

@@ -32,6 +32,7 @@ Yanlış kutuplaşma (false polarization), insanların karşıt siyasal grubun i
 Türkiye'de X/Twitter odaklı "gündem" algısı, seküler-muhafazakâr kamplaşmasında her iki tarafın karşı tarafın çoğunluğunu olduğundan daha aşırı sanmasına yol açabilir; ölçüm için karşı-grup inanç tahmini (out-group belief estimation) anketleri kullanılabilir.
 
 ## İlgili Kavramlar
+- [[concepts/hayalet-cogunluk.md|Hayalet Çoğunluk]]
 - [[concepts/sosyal-kutuplasma.md]]
 - [[concepts/duygusal-kutuplasma.md]]
 - [[concepts/dis-grup-dusmanligi.md]]
