@@ -20,3 +20,10 @@ published: '2026-11-18'
 **Published:** 2026-11-18
 
 **Source:** [https://www.washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/](https://www.washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cepr-harvard.md|Harvard CEPR]]
+- [[entities/washington-post.md|The Washington Post]]

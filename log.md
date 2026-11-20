@@ -2172,3 +2172,8 @@
 - Source files: 2022-11-04_moral-double-standards-reputation.json, 2026-11-19_120310_ingestion.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2025-10-08_affective-polarization-and-anti-democratic-attitud.md]] — Affective polarization and anti-democratic attitudes: a complex relationship
+- Source files: 2025-10-08_affective-polarization-antidemocratic-attitudes.json
+- Agent: OKF Ingestion Pipeline
+
