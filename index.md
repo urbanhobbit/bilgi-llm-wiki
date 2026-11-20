@@ -667,4 +667,5 @@
 - [[raw/articles/2022-11-04_being-good-to-look-good-self-reported-moral-charac.md|Being good to look good: Self-reported moral character predicts moral double standards among reputation-seeking individuals]]
 - [[raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md|When kids lock up cellphones in class, the achievement gap narrows, study finds]]
 - [[raw/articles/2025-10-08_affective-polarization-and-anti-democratic-attitud.md|Affective polarization and anti-democratic attitudes: a complex relationship]]
+- [[raw/articles/2026-11-06_the-winning-formula-of-the-populist-radical-right-.md|The Winning Formula of the Populist Radical Right: Insider Narratives and the Making of a Representative Claim]]
 

@@ -2177,3 +2177,8 @@
 - Source files: 2025-10-08_affective-polarization-antidemocratic-attitudes.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-20] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-06_the-winning-formula-of-the-populist-radical-right-.md]] — The Winning Formula of the Populist Radical Right: Insider Narratives and the Making of a Representative Claim
+- Source files: 2026-11-20_winning-formula-populist-radical-right.json
+- Agent: OKF Ingestion Pipeline
+
