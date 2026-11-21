@@ -61,7 +61,7 @@ var DATA = null;
 var cy = null;
 
 function init() {
-  fetch('bundle.json')
+  fetch('bundle.json?v='+Date.now(),{cache:'no-store'})
     .then(function(r) { return r.json(); })
     .then(function(data) {
       DATA = data;

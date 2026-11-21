@@ -67,7 +67,7 @@ var EDGE={concept:1,entity:1,sibling:0,related:1,body:1};
 var LABELS=true, ONLY_NB=false;
 
 function init(){
-  fetch('bundle2.json').then(function(r){return r.json()}).then(function(d){
+  fetch('bundle2.json?v='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(d){
     D=d; build(); legend(); health(); buttons();
     document.getElementById('stats').textContent=d.stats.nodes+' düğüm · '+d.stats.edges+' kenar · '+d.stats.types.concept+' kavram · '+d.stats.types.raw_article+' makale';
     var m=/[#&]n=([^&]+)/.exec(location.hash); if(m) focus(decodeURIComponent(m[1]));
