@@ -1,0 +1,3095 @@
+{
+ "generated": "2026-11-21T09:46:04",
+ "total": 268,
+ "items": [
+  {
+   "id": "raw/articles/2009-12-15_divided-we-fall-opposition-fragmentation-and-the-e",
+   "label": "Divided We Fall: Opposition Fragmentation and the Electoral ",
+   "description": "Bu makale, seçim sonuçlarının belirleyicileri literatürüne 'muhalefetin parçalanmışlığı' (opposition fragmentation) kavramını sokuyor. Ampirik literatür, ekonomik oy vermenin — yani kötü ekonomik perf...",
+   "resource": "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/divided-we-fall-opposition-fragmentation-and-the-electoral-fortunes-of-governing-parties/0F3BDB8FCD8BE72B188C03F83C9044EF",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2019-10-08_a-review-of-conceptual-approaches-and-empirical-ev",
+   "label": "A Review of Conceptual Approaches and Empirical Evidence on ",
+   "description": "Anket araştırmaları literatüründe olasılıklı (probability) ve olasılıklı olmayan (nonprobability) örneklemlerin daha geniş bir popülasyonun doğru tahminlerini ne zaman ürettiği konusunda süregiden bir...",
+   "resource": "https://academic.oup.com/jssam/article/8/1/4/5699631",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2021-08-11_strengthening-randomized-evaluations-through-incor",
+   "label": "Strengthening randomized evaluations through incorporating q",
+   "description": "",
+   "resource": "https://www.povertyactionlab.org/blog/8-11-21/strengthening-randomized-evaluations-through-incorporating-qualitative-research-part-1",
+   "tags": [
+    "akademik",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2022-04_statistical-control-requires-causal-justification-",
+   "label": "Statistical Control Requires Causal Justification — Wysocki,",
+   "description": "Wysocki, Lawson ve Rhemtulla'nın Advances in Methods and Practices in Psychological Science dergisinde (AMPPS, cilt 5, sayı 2, Nisan 2022) yayımlanan ve 193 atıfla klasikleşmiş metodoloji makalesi, so...",
+   "resource": "https://journals.sagepub.com/doi/10.1177/25152459221095823",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2023-04-24_evidential-pluralism-in-the-social-sciences",
+   "label": "Evidential Pluralism in the Social Sciences",
+   "description": "Yafeng Shan ve Jon Williamson'ın Routledge'dan çıkan **açık erişim monografisi** *Evidential Pluralism in the Social Sciences* (1. baskı, 190 s., eBook 24 Nisan 2023, DOI 10.4324/9781003143000, CC BY-...",
+   "resource": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003143000/evidential-pluralism-social-sciences-yafeng-shan-jon-williamson",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2023-10-02_bridging-gaps-how-investment-in-public-childcare-a",
+   "label": "Bridging gaps: how investment in public childcare affects wo",
+   "description": "South European Society and Politics (SESP) 28(4):439-468, DOI: 10.1080/13608746.2024.2369467 (Open Access, CC BY-NC-ND 4.0) - Lara Maestripieri (UAB), David Palomera (UAB/IGOP) ve Roberto Rizza (UniBo...",
+   "resource": "https://doi.org/10.1080/13608746.2024.2369467",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-04-02_scaling-hermeneutics-a-guide-to-qualitative-coding",
+   "label": "Scaling hermeneutics: a guide to qualitative coding with LLM",
+   "description": "Nitel kodlamayı 'sadece metni etiketlemek' olarak değil, araştırma sorularını biçimlendiren, kuramsal içgörüleri incelten ve örtük toplumsal dinamikleri görünür kılan dönüşlü (reflexive) bir yorumlama...",
+   "resource": "https://link.springer.com/article/10.1140/epjds/s13688-025-00548-8",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-05-22_emotion-sells-rage-bait-vs-information-bait-in-cli",
+   "label": "Emotion Sells: Rage Bait vs. Information Bait in Clickbait N",
+   "description": "Tık tuzağı (clickbait) haber başlıkları sosyal medyada yaygın biçimde kullanılmasına karşın kavram ve işlevi akademik olarak yeterince geliştirilmiş değil. Digital Journalism'de yayımlanan bu çalışma,...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/21670811.2025.2505566",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-06-09_scaling-up-with-integrity-valid-and-efficient-narr",
+   "label": "Scaling Up With Integrity: Valid and Efficient Narrative Pol",
+   "description": "Policy Studies Journal'da yayımlanan bu araştırma notu, Anlatı Politikası Çerçevesi (Narrative Policy Framework, NPF) araştırmalarında büyük dil modellerinin (LLM) anlatı unsurlarını nasıl tespit edeb...",
+   "resource": "https://onlinelibrary.wiley.com/doi/10.1111/psj.70045",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-06-20_thematic-analysis-of-interview-data-with-chatgpt-d",
+   "label": "Thematic analysis of interview data with ChatGPT: designing ",
+   "description": "Görüşme verilerinin ChatGPT ile tematik analizinde kullanılmak üzere güvenilir bir araştırma protokolü tasarlayıp test ediyor. Yazarlar, yapay zekânın nitel araştırmada artık sadece bir merak nesnesi ...",
+   "resource": "https://link.springer.com/article/10.1007/s11135-025-02199-3",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-09-08_llm-analysis-of-150-years-of-german-parliamentary-",
+   "label": "LLM Analysis of 150+ years of German Parliamentary Debates o",
+   "description": "arXiv:2509.07274 (8 Eylül 2025) — Aida Kostikova, Ole Pütz, Steffen Eger, Olga Sabelfeld ve Benjamin Paassen. Almanya parlamento tartışmalarında göç (migration) konusunun 150+ yıllık seyri LLM ile ana...",
+   "resource": "https://arxiv.org/abs/2509.07274",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-11-01_curation-bubbles-walter-lippmann-best-published-ar",
+   "label": "Curation Bubbles (Walter Lippmann Best Published Article Awa",
+   "description": "",
+   "resource": "https://www.cambridge.org/core/journals/american-political-science-review/article/curation-bubbles/EBEBDE88633A86DFC821FE86B7708BB3",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2025-12-10_visualizing-qualitative-research",
+   "label": "Visualizing Qualitative Research",
+   "description": "Although qualitative research is typically seen as working with verbal text, visual representations are frequently used in qualitative research in public administration. This paper examines visualizat...",
+   "resource": "https://onlinelibrary.wiley.com/doi/full/10.1111/puar.70064",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-01-21_ecological-rationality-and-democratic-ignorance-re",
+   "label": "Ecological rationality and democratic ignorance: reconciling",
+   "description": "Manor, seçmen davranışı literatüründeki iki rakip açıklamayı — 'rasyonel bilgisizlik' (rational ignorance) ve 'radikal bilgisizlik' (radical ignorance) — 'ekolojik rasyonalite' (ecological rationality...",
+   "resource": "https://link.springer.com/article/10.1007/s11127-025-01370-6",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-02-28_large-language-models-in-qualitative-analysis-comp",
+   "label": "Large Language Models in Qualitative Analysis: Comparing Tra",
+   "description": "Açık kaynak büyük dil modellerinin (LLM) nitel veri analizinde kullanılabilirliğini deneysel olarak sınayan bir karşılaştırma çalışması. Veri kümesi, eğitimli bir nitel araştırmacının yürüttüğü 34 yar...",
+   "resource": "https://journals.sagepub.com/doi/10.1177/16094069261426100",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-03-01_from-worm-to-human-scaling-brain-emulation-isaak-f",
+   "label": "From Worm to Human: Scaling Brain Emulation — Isaak Freeman ",
+   "description": "MIT Media Arts and Sciences'te Edward S. Boyden danışmanlığında hazırlanan, Isaak Freeman imzalı yüksek lisans tezi (Mart 2026): model organizma beyinlerinden (C. elegans solucanından insana) yüksek k...",
+   "resource": "https://pdf.isaak.net/scaling-emulations",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-03-13_cocuk_dijital",
+   "label": "Çocuklar ve Dijital Dünya Özel Tarama Raporu",
+   "description": "**Tarih:** 13 Mart 2026 **Küratör:** Küratör 🗂️ **Hedef:** 1500+ kelime | Detaylı analiz ve çocuk hakları perspektifinden değerlendirme --- ## 1. Avus...",
+   "resource": "https://www.theguardian.com/australia-news/2025/dec/09/australia-under-16-social-media-ban-begins-apps-listed",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-03-17_cocuk_dijital",
+   "label": "🗂️ Çocuklar ve Dijital Dünya Özel Tarama Raporu",
+   "description": "**Tarama Tarihi:** 17 Mart 2026 **Küratör:** Akademik Literatür Ajancığı **Hedef:** 1500+ kelime | Akademik + Non-Akademik kaynaklar --- ## 📌 GİRİŞ Bu...",
+   "resource": "https://www.theguardian.com/australia-news/2026/mar/04/australia-social-media-ban-under-16s-three-month-review",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-04-09_cocuk_dijital",
+   "label": "2026 04 09 Cocuk Dijital",
+   "description": "## Konu: Çocukların dijital ortam deneyimleri --- ### Başlık: Children's Online Wellbeing in 2026: Persistent Harms and AI-Amplified Risks * **Yazar/K...",
+   "resource": "https://www.weforum.org/stories/2026/03/ai-children-digital-online-safety/",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-02_scrapling_integration",
+   "label": "Scrapling Integration Report",
+   "description": "**Date:** 2026-05-02 **Author:** Hermes Agent ## Summary Integrated Scrapling web scraping library with 85% success rate for bot protection bypass. ##...",
+   "resource": "https://github.com/D4Vinci/Scrapling",
+   "tags": [
+    "scrapling",
+    "web-scraping",
+    "bot-protection"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-03_cocuk_dijital",
+   "label": "🗂️ Çocuklar ve Dijital Dünya — Haftalık Bülten Taslağı",
+   "description": "**Tarih:** 3 Mayıs 2026 Pazar | **Tarama:** 3 Mayıs 2026, 08:00 (TSİ) --- ## İçindekiler 1. [Dijital Kısıtlamalar ve Yaş Sınırları](#1-dijital-kısıtla...",
+   "resource": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-08_cocuk_dijital",
+   "label": "🧒 Çocuklar ve Dijital Dünya — Özel Tarama Bülteni",
+   "description": "**Tarih:** 8 Mayıs 2026 | **Hazırlayan:** Küratör 🗂️ --- ## 📋 İçindekiler 1. [Akademik Kaynaklar](#akademik-kaynaklar) - [Nansen vd. — \"From Phreaking...",
+   "resource": "https://arxiv.org/abs/2605.00368",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-14_ozel_metodoloji_etik",
+   "label": "AKADEMİK ÖZEL TARAMA",
+   "description": "## Metodoloji, Etik ve Güncel Tartışmalar **Tarih:** 14 Mayıs 2026 | **Kapsam:** Ocak 2025 – Mayıs 2026 **Kaynak:** arXiv (cs.SI, cs.CY, cs.CL, cs.AI)...",
+   "resource": "https://arxiv.org/abs/2605.07409",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-18_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülten",
+   "description": "**Tarih:** 2026-05-18 **Hafta:** 21/2026 **Hazırlayan:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...",
+   "resource": "https://arxiv.org/abs/2505.00054",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-25_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülten",
+   "description": "**Tarih:** 2026-05-25 **Hafta:** 22/2026 **Hazırlayan:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...",
+   "resource": "https://arxiv.org/abs/2505.00054",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-28_today-s-world-needs-social-scientists-advice-for-g",
+   "label": "Today's World Needs Social Scientists: Advice for graduate s",
+   "description": "Stanford Impact Labs'ın 28 Mayıs 2026 tarihli yazısı; Matthew Gentzkow'un Stanford sosyal bilim doktora öğrencilerine yaptığı konuşmadan uyarlanmış. Tez: 'AI çağında sosyal bilimci olmak' için daha he...",
+   "resource": "https://impact.stanford.edu/article/todays-world-needs-social-scientists",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-30_akademik_ozel",
+   "label": "AKADEMİK ÖZEL TARAMA",
+   "description": "## Haftalık Derleme **Tarih:** 30 Mayıs 2026 | **Hafta:** 22/2026 **Kapsam:** Mayıs 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 kelime) Bu haf...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-05-30_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya Haftalık Araştırma Bülten",
+   "description": "**Tarih:** 2026-05-30 **Hafta:** 22/2026 **Hazırlayan:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu haftaki bültende, çocukların dijital dünya...",
+   "resource": "https://www.digital-futures-for-children.net/events/child-rights-regulation",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-01_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bült",
+   "description": "**Date:** 2026-06-01 **Week:** 22/2026 **Prepared by:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu haftanın bülteni, çocukların dijital dünyad...",
+   "resource": "https://arxiv.org/abs/2602.13989",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-05_family-school-partnership-initiatives-to-improve-s",
+   "label": "Family–school partnership initiatives to improve student att",
+   "description": "Review of Education (BERA) 14(2), 2026 — University of Queensland (School of Education) ekibinin sistematik derlemesi. Devamsızlık (absenteeism); birey, aile, okul ve topluluk alanlarındaki faktörlerl...",
+   "resource": "https://doi.org/10.1002/rev3.70175",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-06_akademik_ozel",
+   "label": "AKADEMİK ÖZEL TARAMA",
+   "description": "## Haftalık Derleme **Tarih:** 6 Haziran 2026 | **Hafta:** 23/2026 **Kapsam:** Mayıs-Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 kelim...",
+   "resource": "https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-08_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bült",
+   "description": "**Date:** 2026-06-08 **Week:** 24/2026 **Prepared by:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...",
+   "resource": "https://arxiv.org/abs/2605.00368",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-13_akademik_ozel",
+   "label": "AKADEMİK ÖZEL TARAMA",
+   "description": "## Haftalık Derleme **Tarih:** 13 Haziran 2026 | **Hafta:** 24/2026 **Kapsam:** Mayıs-Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 keli...",
+   "resource": "https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-teens-ai-use",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-13_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bült",
+   "description": "**Date:** 2026-06-13 **Week:** 24/2026 **Prepared by:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukların dijital dünyada korunması...",
+   "resource": "https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-america-2026",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-20_akademik_ozel",
+   "label": "AKADEMİK ÖZEL TARAMA",
+   "description": "## Haftalık Derleme **Tarih:** 20 Haziran 2026 | **Hafta:** 25/2026 **Kapsam:** 14-19 Haziran 2026 güncel yayınlar --- ## YÖNETİCİ ÖZETİ (200-300 keli...",
+   "resource": "https://www.lse.ac.uk/digital-futures-for-children/events/child-rights-regulation/home.aspx",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-20_cocuk_dijital",
+   "label": "KURATOR: Çocuklar ve Dijital Dünya - Haftalık Araştırma Bült",
+   "description": "**Date:** 2026-06-20 **Week:** 25/2026 **Prepared by:** KURATOR Araştırma Ekibi --- ## 📋 YÖNETİCİ ÖZETİ Bu hafta, çocukları dijital dünyanın risklerin...",
+   "resource": "https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-america-2026",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-22_growing-up-in-a-connected-world-a-family-guide-for",
+   "label": "Growing Up in a Connected World: A Family Guide for the Digi",
+   "description": "",
+   "resource": "https://unesdoc.unesco.org/ark:/48223/pf0000398455",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_1369118x-2026-2",
+   "label": "1369118X.2026.2",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_1369118x-2026-2026-2639567",
+   "label": "1369118X.2026.2026.2639567",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2026.2639567",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_1369118x-2026-263956",
+   "label": "1369118X.2026.263956",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.263956",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_1369118x-2026-2639567",
+   "label": "1369118X.2026.2639567",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_21568251-2024-1234567",
+   "label": "21568251.2024.1234567",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/21568251.2024.1234567",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_8586455",
+   "label": "8586455",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586455",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_aa-g-ndem-haberleri",
+   "label": "AA: Gündem Haberleri ",
+   "description": "Anadolu Ajansı, Turkey's official news agency, reports on current developments in Turkish politics, security, and international relations. The article reflects official Turkish positions and provides ...",
+   "resource": "https://www.aa.com.tr/tr/gundem/kamu-basdenetcisi-akarcadan-sanliurfa-ve-kahramanmarastaki-silahli-saldirilara-iliskin-aciklama/3908887",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_academic-article-public-opinion-quarterly-oxford-u",
+   "label": "Academic Article - Public Opinion Quarterly (Oxford Universi",
+   "description": "Oxford University Press yayını Public Opinion Quarterly dergisinde yayımlanan bu akademik makale, kamuoyu araştırmaları metodolojisi veya dijital platformların kamuoyu üzerindeki etkilerini incelemekt...",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586455",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_academic-article-sciencedirect-telecommunications-",
+   "label": "Academic Article - ScienceDirect (Telecommunications Policy)",
+   "description": "ScienceDirect üzerinden yayımlanan bu akademik makale Telecommunications Policy dergisinde yer almakta olup, dijital altyapı, telekomünikasyon politikaları veya internet düzenlemeleri üzerine politika...",
+   "resource": "https://www.sciencedirect.com/science/article/pii/S2666560325000714",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_academic-article-taylor-francis-information-commun",
+   "label": "Academic Article - Taylor & Francis (Information, Communicat",
+   "description": "Taylor & Francis yayınevi tarafından yayımlanan Information, Communication & Society dergisindeki bu akademik makale, dijital iletişim, sosyal medya ve toplum ilişkisi üzerine ampirik bir çalışma sunm...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_accessibility-statement-for-the-london-school-of-e",
+   "label": "Accessibility Statement for The London School of Economics",
+   "description": "London School of Economics (LSE) tarafından yayımlanan kapsamlı web erişilebilirlik bildirimi, www.lse.ac.uk ve info.lse.ac.uk alan adlarındaki web sitelerinin erişilebilirlik durumunu detaylandırmakt...",
+   "resource": "https://www.lse.ac.uk/lse-information/accessibility-statement/home.aspx",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_ai-election-disinformation-study-html",
+   "label": "Ai Election Disinformation Study.Html",
+   "description": "This content covers current developments in geopolitics, technology, and public policy from a global perspective. The analysis examines the implications of recent political events, diplomatic maneuver...",
+   "resource": "https://www.nytimes.com/2025/01/20/us/politics/ai-election-disinformation-study.html",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_akademi-k-academic-oup-com",
+   "label": "AKADEMİK - academic.oup.com",
+   "description": "academic.oup.com kaynağından akademik araştırma içeriği. Metodolojik yaklaşım ve ampirik veri analizi odaklıdır.",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/85864",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_akademi-k-lse-ac-uk",
+   "label": "AKADEMİK - lse.ac.uk",
+   "description": "lse.ac.uk kaynağından akademik araştırma içeriği. Metodolojik yaklaşım ve ampirik veri analizi odaklıdır.",
+   "resource": "https://www.lse.ac.uk/lse-information/accessibility-statement/home.aspx",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_andy-harris-immigration-foreign-workers-politico",
+   "label": "Andy Harris Immigration Foreign Workers - Politico",
+   "description": "Politico'nun bu haberi, ABD Temsilciler Meclisi üyesi Andy Harris'in yabancı işçi politikalarına ilişkin görüşlerini ve önerilerini ele almaktadır. ABD göçmenlik politikasındaki değişimlerin teknoloji...",
+   "resource": "https://www.politico.com/news/2026/04/10/andy-harris-immigration-foreign-workers-00867621",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-cdn-kormany-hu-35d5df227ec60623124098",
+   "label": "Article from cdn.kormany.hu: 35d5df227ec606231240989d5c80f0d",
+   "description": "This article or analysis piece from cdn.kormany.hu provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these de...",
+   "resource": "https://cdn.kormany.hu/uploads/sheets/3/35/35d/35d5df227ec606231240989d5c80f0d.pdf",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-commonsense-my-site-com-contactsuppor",
+   "label": "Article from commonsense.my.site.com: contactsupport",
+   "description": "This article or analysis piece from commonsense.my.site.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how...",
+   "resource": "https://commonsense.my.site.com/membersupport/s/contactsupport",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-digital-strategy-ec-europa-eu-digital",
+   "label": "Article from digital-strategy.ec.europa.eu: digital services",
+   "description": "This article from digital-strategy.ec.europa.eu covers technology policy and digital transformation developments. The piece examines how technological innovation intersects with regulation, market dyn...",
+   "resource": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-ec-europa-eu-ip-26-1234",
+   "label": "Article from ec.europa.eu: ip 26 1234",
+   "description": "This article or analysis piece from ec.europa.eu provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these deve...",
+   "resource": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1234",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-en-wikipedia-org-socialmediaageverifi",
+   "label": "Article from en.wikipedia.org: Socialmediaageverificationlaw",
+   "description": "This article or analysis piece from en.wikipedia.org provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://en.wikipedia.org/wiki/SocialmediaageverificationlawsintheUnitedStates",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-english-www-gov-cn-content-ws697416b4",
+   "label": "Article from english.www.gov.cn: content WS697416b4c6d00ca5f",
+   "description": "This article or analysis piece from english.www.gov.cn provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how thes...",
+   "resource": "https://english.www.gov.cn/news/202601/24/content_WS697416b4c6d00ca5f9a08bf7.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-ilkha-com-15-yas-alti-sosyal-medya-ya",
+   "label": "Article from ilkha.com: 15 yas alti sosyal medya yasagi ilk",
+   "description": "This article or analysis piece from ilkha.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these develop...",
+   "resource": "https://ilkha.com/guncel/15-yas-alti-sosyal-medya-yasagi-ilk",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-index-hu-megerkezett-az-elso-reakcio-",
+   "label": "Article from index.hu: megerkezett az elso reakcio a kremlbo",
+   "description": "This article or analysis piece from index.hu provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these developm...",
+   "resource": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/megerkezett-az-elso-reakcio-a-kremlbol-osszeomlast-josoltak-a-valasztasok-utan",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-telex-hu-parlamenti-valasztas-tisza-m",
+   "label": "Article from telex.hu: parlamenti valasztas tisza magyar pet",
+   "description": "This article or analysis piece from telex.hu provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these developm...",
+   "resource": "https://telex.hu/belfold/2026/04/13/parlamenti-valasztas-tisza-magyar-peter-gyozelem-fidesz-orban-viktor-ketharmad",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-aa-com-tr-3908887",
+   "label": "Article from www.aa.com.tr: 3908887",
+   "description": "This article or analysis piece from www.aa.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these dev...",
+   "resource": "https://www.aa.com.tr/tr/gundem/kamu-basdenetcisi-akarcadan-sanliurfa-ve-kahramanmarastaki-silahli-saldirilara-iliskin-aciklama/3908887",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-aa-com-tr-3909800",
+   "label": "Article from www.aa.com.tr: 3909800",
+   "description": "This article or analysis piece from www.aa.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these dev...",
+   "resource": "https://www.aa.com.tr/tr/gundem/okul-saldirilariyla-ilgili-suc-icerikli-paylasim-yapan-12-kisi-hakkinda-sorusturma/3909800",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-atasehir-beledi",
+   "label": "Article from www.cumhuriyet.com.tr: atasehir belediyesi ne g",
+   "description": "This article or analysis piece from www.cumhuriyet.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how t...",
+   "resource": "https://www.cumhuriyet.com.tr/turkiye/atasehir-belediyesi-ne-gec",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-egitimciler-kad",
+   "label": "Article from www.cumhuriyet.com.tr: egitimciler kadikoy den ",
+   "description": "This article from www.cumhuriyet.com.tr provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, ele...",
+   "resource": "https://www.cumhuriyet.com.tr/turkiye/egitimciler-kadikoy-den-seslendi-bu-siddet-surdurulen-yanlis-politikalarin-dogrudan-sonucu-2496122",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-fenerbahce-trib",
+   "label": "Article from www.cumhuriyet.com.tr: fenerbahce tribunlerinde",
+   "description": "This article or analysis piece from www.cumhuriyet.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how t...",
+   "resource": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tribunlerinden-ederson-a-tepki-2496123",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-cumhuriyet-com-tr-gulistan-doku-d",
+   "label": "Article from www.cumhuriyet.com.tr: gulistan doku dosyasinda",
+   "description": "This article or analysis piece from www.cumhuriyet.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how t...",
+   "resource": "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-dosyasinda-yeni-gelisme-silinen-hastane-kayitlarina-iliskin-saglik-bakanligi-ndan-aciklama-2496096",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-dha-com-tr-ali-yalcin-sanal-ortam",
+   "label": "Article from www.dha.com.tr: ali yalcin sanal ortamda organi",
+   "description": "This article or analysis piece from www.dha.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these de...",
+   "resource": "https://www.dha.com.tr/gundem/ali-yalcin-sanal-ortamda-organize-edilmis-bir-teror-hadisesiyle-karsi-karsiyayiz-2856857",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-dw-com-s-69784532",
+   "label": "Article from www.dw.com: s 69784532",
+   "description": "This article from www.dw.com provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral dyna...",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-milliyet-com-tr-aci-haberi-duyurd",
+   "label": "Article from www.milliyet.com.tr: aci haberi duyurdu survivo",
+   "description": "This article or analysis piece from www.milliyet.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how the...",
+   "resource": "https://www.milliyet.com.tr/magazin/aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-olum-7573160",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-milliyet-com-tr-milli-piyango-son",
+   "label": "Article from www.milliyet.com.tr: milli piyango sonuclari",
+   "description": "This article or analysis piece from www.milliyet.com.tr provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how the...",
+   "resource": "https://www.milliyet.com.tr/sans-oyunlari/milli-piyango-sonuclari",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-n4g-com-eredmenyek",
+   "label": "Article from www.n4g.com: eredmenyek",
+   "description": "This article or analysis piece from www.n4g.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these devel...",
+   "resource": "https://www.n4g.com/hirek/belfold/magyarorszag/valasztas-2026/eredmenyek",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-com-trump-announces-stra",
+   "label": "Article from www.politico.com: trump announces strait of hor",
+   "description": "This article from www.politico.com provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electora...",
+   "resource": "https://www.politico.com/news/2026/04/12/trump-announces-strait-of-hormuz-blockade-after-iran-talks-collapse-00868375",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-bulgaria-pm-elections",
+   "label": "Article from www.politico.eu: bulgaria pm elections corrupti",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/bulgaria-pm-elections-corruption-vote-buying",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-eu-parliament-threate",
+   "label": "Article from www.politico.eu: eu parliament threatens to del",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/eu-parliament-threatens-to-delay-e1-8t-budget-talks-until-2027",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-eu-system-buckles-und",
+   "label": "Article from www.politico.eu: eu system buckles under pressu",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/eu-system-buckles-under-pressure-of-ai-powered-complaints",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-eu-wants-new-hungary-",
+   "label": "Article from www.politico.eu: eu wants new hungary leader su",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/eu-wants-new-hungary-leader-support-ukraine-could-disappointed",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-finance-world-heads-t",
+   "label": "Article from www.politico.eu: finance world heads to washing",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/finance-world-heads-to-washington-as-politics-and-markets-erupt",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-germany-berlin-nuclea",
+   "label": "Article from www.politico.eu: germany berlin nuclear is over",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/germany-berlin-nuclear-is-over-the-debate-isnt",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-hungary-unfair-electi",
+   "label": "Article from www.politico.eu: hungary unfair election viktor",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/hungary-unfair-election-viktor-orban",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-ireland-dublin-cut-ta",
+   "label": "Article from www.politico.eu: ireland dublin cut tax motor f",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/ireland-dublin-cut-tax-motor-fuel-bid-to-quell-protests",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-keir-starmer-economy-",
+   "label": "Article from www.politico.eu: keir starmer economy iran war ",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/keir-starmer-economy-iran-war-uk-elections",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-ukraine-russia-blame-",
+   "label": "Article from www.politico.eu: ukraine russia blame game over",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/ukraine-russia-blame-game-over-easter-ceasefire-violations",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-politico-eu-viktor-orban-ursula-v",
+   "label": "Article from www.politico.eu: viktor orban ursula von der le",
+   "description": "This article from www.politico.eu provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electoral...",
+   "resource": "https://www.politico.eu/article/viktor-orban-ursula-von-der-leyen-rejoices-at-crushing-defeat",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-reuters-com-greece-expect",
+   "label": "Article from www.reuters.com: greece expect",
+   "description": "This article or analysis piece from www.reuters.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these d...",
+   "resource": "https://www.reuters.com/business/media-telecom/greece-expect",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-theguardian-com-ai-generated-cont",
+   "label": "Article from www.theguardian.com: ai generated content elect",
+   "description": "This article from www.theguardian.com provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, elect...",
+   "resource": "https://www.theguardian.com/world/2024/dec/15/ai-generated-content-election-disinformation",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-theguardian-com-artificialintelli",
+   "label": "Article from www.theguardian.com: artificialintelligenceai",
+   "description": "This article from www.theguardian.com covers technology policy and digital transformation developments. The piece examines how technological innovation intersects with regulation, market dynamics, and...",
+   "resource": "https://www.theguardian.com/technology/artificialintelligenceai",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-abd-hint-okyanusunda",
+   "label": "Article from www.trthaber.com: abd hint okyanusunda seyreden",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/abd-hint-okyanusunda-seyreden-uss-george-hw-bush-ucak-gemisinin-fotografini-paylasti-942799.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-abd-suriyedeki-tum-o",
+   "label": "Article from www.trthaber.com: abd suriyedeki tum onemli ask",
+   "description": "This article from www.trthaber.com covers geopolitical and security developments, analyzing military conflicts, diplomatic negotiations, or defense policy changes. The piece examines the strategic int...",
+   "resource": "https://www.trthaber.com/haber/dunya/abd-suriyedeki-tum-onemli-askeri-uslerin-devir-teslim-islemlerini-tamamladi-942080.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-adf-2026da-suriyenin",
+   "label": "Article from www.trthaber.com: adf 2026da suriyenin istikrar",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/adf-2026da-suriyenin-istikrara-giden-yolu-baslikli-panel-duzenlendi-942081.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-antalyada-4lu-disisl",
+   "label": "Article from www.trthaber.com: antalyada 4lu disisleri bakan",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/antalyada-4lu-disisleri-bakanlari-zirvesi-942083.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-atasehir-belediyesin",
+   "label": "Article from www.trthaber.com: atasehir belediyesine yolsuzl",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/atasehir-belediyesine-yolsuzluk-operasyonu-18-supheli-gozaltina-alindi-942088.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-bakan-fidan-ingilter",
+   "label": "Article from www.trthaber.com: bakan fidan ingilterede lordl",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/bakan-fidan-ingilterede-lordlar-kamar",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-bakan-fidan-kuresel-",
+   "label": "Article from www.trthaber.com: bakan fidan kuresel ve bolges",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/bakan-fidan-kuresel-ve-bolgesel-meseleler-antalyada-tum-yonleriyle-masaya-yatirilacak-942048.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-burhanettin-duran-tu",
+   "label": "Article from www.trthaber.com: burhanettin duran turkiye ile",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/burhanettin-duran-turkiye-ile-azerbaycan-arasindaki-koklu-kardeslik-baglari-gucleniyor-942084.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-fars-irana-ait-bir-y",
+   "label": "Article from www.trthaber.com: fars irana ait bir yuk gemisi",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/fars-irana-ait-bir-yuk-gemisi-abdnin-el-koy",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-gulistan-doku-sorust",
+   "label": "Article from www.trthaber.com: gulistan doku sorusturmasinda",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/gulistan-doku-sorusturmasinda-mustafa-turkay-sonel-ile-koruma-memuru-adliyeye-sevk-edildi-942085.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-hamaney-dusman-birli",
+   "label": "Article from www.trthaber.com: hamaney dusman birlik ve ulus",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/hamaney-dusman-birlik-ve-ulusal-guvenligi-zedelemeyi-amacliyor-942798.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-hurmuz-bogazi-acildi",
+   "label": "Article from www.trthaber.com: hurmuz bogazi acildi 942051.h",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/hurmuz-bogazi-acildi-942051.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-iran-hurmuz-bogazind",
+   "label": "Article from www.trthaber.com: iran hurmuz bogazindan gecisl",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindan-gecisler-iranli-yetkili-makamlarla-koordineli-olarak-gerceklestirilecek-942082.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-istanbuldan-ilk-hac-",
+   "label": "Article from www.trthaber.com: istanbuldan ilk hac kafilesi ",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/gundem/istanbuldan-ilk-hac-kafilesi-kutsal-topraklara-ugurlandi-942086.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-meta-8-bin-kisiyi-is",
+   "label": "Article from www.trthaber.com: meta 8 bin kisiyi isten cikar",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/meta-8-bin-kisiyi-isten-cikariyor-yatirimlar-yapay-zekaya-kayiyor-942801.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-secim-guvenligi-ve-i",
+   "label": "Article from www.trthaber.com: secim guvenligi ve iletisim t",
+   "description": "This article from www.trthaber.com provides political analysis and coverage of significant developments in domestic or international politics. The piece examines key actors, policy positions, electora...",
+   "resource": "https://www.trthaber.com/haber/turkiye/secim-guvenligi-ve-iletisim-teknolojileri-765432.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-seyim-guvenligi-ve-i",
+   "label": "Article from www.trthaber.com: seyim guvenligi ve iletisim t",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/turkiye/seyim-guvenligi-ve-iletisim-teknolojileri-765432.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-soykirimci-israil-lu",
+   "label": "Article from www.trthaber.com: soykirimci israil lubnanin gu",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/soykirimci-israil-lubnanin-guneyine-ha",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-trump-anlasma-saglan",
+   "label": "Article from www.trthaber.com: trump anlasma saglaninca iran",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/trump-anlasma-saglaninca-irana-yonelik-abluka-sona-erecek-942087.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-trump-iranla-bir-iki",
+   "label": "Article from www.trthaber.com: trump iranla bir iki gun icin",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/dunya/trump-iranla-bir-iki-gun-icinde-nihai-bir-anlasmaya-varabiliriz-942079.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-warner-bros-discover",
+   "label": "Article from www.trthaber.com: warner bros discovery hisseda",
+   "description": "This article from www.trthaber.com covers geopolitical and security developments, analyzing military conflicts, diplomatic negotiations, or defense policy changes. The piece examines the strategic int...",
+   "resource": "https://www.trthaber.com/haber/dunya/warner-bros-discovery-hissedarlari-paramount-ile",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_article-from-www-trthaber-com-ziraat-turkiye-kupas",
+   "label": "Article from www.trthaber.com: ziraat turkiye kupasinda yari",
+   "description": "This article or analysis piece from www.trthaber.com provides coverage and context on significant current developments. The material examines key events and trends, offering perspectives on how these ...",
+   "resource": "https://www.trthaber.com/haber/turkiye/ziraat-turkiye-kupasinda-yari-finalistler-belli-oldu-942797.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bethlehem-tekola-on-emotion-in-research",
+   "label": "Bethlehem Tekola on emotion in research",
+   "description": "Bethlehem Tekola, qualitative research ethics scholar, shares a powerful observation: 'emotion in research is not merely overlooked but actively suppressed by academic norms that privilege detachment ...",
+   "resource": "https://x.com/Bethlehemtekola/status/2056464280564727815",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bi-lgi-tto-technology-transfer-office-linkedin",
+   "label": "BİLGİ TTO (Technology Transfer Office) - LinkedIn",
+   "description": "İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi'nin (TTO) LinkedIn sayfası, üniversitenin AR-GE, inovasyon, teknoloji transferi, proje yönetimi ve proje yazımı alanlarındaki faaliyetlerini tanıtm...",
+   "resource": "https://www.linkedin.com/showcase/bilgitechnologytransferoffice",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bilgi-llm-wiki-github-archive-download",
+   "label": "Bilgi LLM Wiki - GitHub Archive Download",
+   "description": "GitHub archive download of the Bilgi LLM Wiki repository, containing academic articles and wiki content from İstanbul Bilgi Üniversitesi domain.",
+   "resource": "https://github.com/urbanhobbit/bilgi-llm-wiki/archive/refs/heads/main.zip",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-main",
+   "label": "Bilgi LLM Wiki - Raw Articles (main)",
+   "description": "GitHub repository tree view of bilgi-llm-wiki raw articles directory (main branch).",
+   "resource": "https://github.com/urbanhobbit/bilgi-llm-wiki/tree/main/raw/articles",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bilgi-llm-wiki-raw-articles-master",
+   "label": "Bilgi LLM Wiki - Raw Articles (master)",
+   "description": "GitHub repository tree view of bilgi-llm-wiki raw articles directory (master branch).",
+   "resource": "https://github.com/urbanhobbit/bilgi-llm-wiki/tree/master/raw/articles",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_bilgi-university-technology-transfer-office-linked",
+   "label": "Bilgi University Technology Transfer Office - LinkedIn Showc",
+   "description": "İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi'nin LinkedIn showcase sayfası, ofisin faaliyetleri, etkinlikleri, başarı hikayeleri ve güncel duyurularını paylaştığı profesyonel bir sosyal medya ...",
+   "resource": "https://www.linkedin.com/showcase/bilgitechnologytransferoffice",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_common-sense-media-member-support-contact",
+   "label": "Common Sense Media - Member Support Contact",
+   "description": "Common Sense Media member support contact page. This is a Salesforce-based customer support portal for Common Sense Media users. No substantive content about children or digital media policy.",
+   "resource": "https://commonsense.my.site.com/membersupport/s/contactsupport",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_common-sense-media-state-of-kids-and-families-in-a",
+   "label": "Common Sense Media: State of Kids and Families in America 20",
+   "description": "Common Sense Media's 'The State of Kids and Families in America 2026' report employs rigorous survey research methodology to comprehensively capture the evolving landscape of children's digital media ...",
+   "resource": "https://www.commonsensemedia.org/research/the-state-of-kids-and-families-in-america-2026",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_cuban-president-fear-trump-politico",
+   "label": "Cuban President Fear Trump - Politico",
+   "description": "Politico'da yayınlanan bu haber, Küba Devlet Başkanı'nın yeniden başkan seçilmesi durumunda Donald Trump'ın politikalarından duyduğu endişeyi ele almaktadır. Trump'ın ilk dönemindeki Küba politikaları...",
+   "resource": "https://www.politico.com/news/2026/04/12/cuban-president-fear-trump-00868372",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_cumhuriyet-fenerbah-e-trib-nlerinden-ederson-a-tep",
+   "label": "Cumhuriyet: Fenerbahçe Tribünlerinden Ederson'a Tepki ",
+   "description": "Cumhuriyet reports on Fenerbahçe fans reacting to player Ederson during a match. The article covers the fan response and the dynamics within Turkish football.",
+   "resource": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tribunlerinden-ederson-a-tepki-2496123",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_dw-almanya-se-imleri-ve-dezenformasyon-sava-lar",
+   "label": "DW: Almanya Seçimleri ve Dezenformasyon Savaşları",
+   "description": "Deutsche Welle (DW) reports on German elections and the disinformation wars surrounding them. The article examines how disinformation campaigns are targeting German voters, the role of social media pl...",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_european-commission-digital-policy-and-regulation",
+   "label": "European Commission: Digital Policy and Regulation",
+   "description": "The European Commission's digital policy page outlines the EU's comprehensive approach to digital regulation, including the Digital Services Act, Digital Markets Act, AI Act, and related legislation. ...",
+   "resource": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1234",
+   "tags": [
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-cdn-kormany-hu",
+   "label": "GENEL - cdn.kormany.hu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://cdn.kormany.hu/uploads/sheets/3/35/35d/35d5df227ec606231240989d5c80f0d.pdf",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-consilium-europa-eu",
+   "label": "GENEL - consilium.europa.eu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.consilium.europa.eu/en/documents-publications/council-research-papers",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-cumhuriyet-com-tr",
+   "label": "GENEL - cumhuriyet.com.tr",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.cumhuriyet.com.tr/cevre/giresun-da-yuzlerce-yurttas-madene-karsi-yurudu-2496170",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-dha-com-tr",
+   "label": "GENEL - dha.com.tr",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.dha.com.tr/gundem/ali-yalcin-sanal-ortamda-organize-edilmis-bir-teror-hadisesiyle-karsi-karsiyayiz-2856857",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-dw-com",
+   "label": "GENEL - dw.com",
+   "description": "Macaristan seçimleri, Avrupa siyasetinde yaşanan dönüşüm ve Viktor Orban'ın yenilgisine dair analizler.",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-ec-europa-eu",
+   "label": "GENEL - ec.europa.eu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1234",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-english-gov-cn",
+   "label": "GENEL - english.gov.cn",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://english.www.gov.cn/news/202601/24/content_WS697416b4c6d00ca5f9a08bf7.html",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-gazdas-hu",
+   "label": "GENEL - gazdas.hu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://gazdas.hu/gazdasag/2026/04/13/macar-piacok-valasztas-utan",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-index-hu",
+   "label": "GENEL - index.hu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/megerkezett-az-elso-reakcio-a-kremlbol-osszeomlast-josoltak-a-valasztasok-utan",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-nepszava-hu",
+   "label": "GENEL - nepszava.hu",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://nepszava.hu/cikk/2261234_macar_valasztas_2026_vizsgalat",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-nytimes-com",
+   "label": "GENEL - nytimes.com",
+   "description": "Macaristan seçimleri, Avrupa siyasetinde yaşanan dönüşüm ve Viktor Orban'ın yenilgisine dair analizler.",
+   "resource": "https://www.nytimes.com/2025/01/20/us/politics/ai-election-disinformation-study.html",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-politico-com",
+   "label": "GENEL - politico.com",
+   "description": "İran-ABD gerilimi, Hürmüz Boğazı ablukası ve Orta Doğu jeopolitiğine dair gelişmeler.",
+   "resource": "https://www.politico.com/news/2026/04/12/trump-announces-strait-of-hormuz-blockade-after-iran-talks-collapse-00868375",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-reuters-com",
+   "label": "GENEL - reuters.com",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.reuters.com/business/media-telecom/greece-expect",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-theguardian-com",
+   "label": "GENEL - theguardian.com",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.theguardian.com/technology/artificialintelligenceai",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_genel-trthaber-com",
+   "label": "GENEL - trthaber.com",
+   "description": "Güncel siyaset, uluslararası ilişkiler, ekonomi ve toplumsal olaylara dair haber ve analizler. İçerikler enerji jeopolitiği, seçim süreçleri, diplomatik gelişmeler, güvenlik konuları ve toplumsal olay...",
+   "resource": "https://www.trthaber.com/haber/dunya/abd-hint-okyanusunda-seyreden-uss-geor",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_github-pull-request-5100-nousresearch-hermes-agent",
+   "label": "GitHub Pull Request #5100 - NousResearch/hermes-agent",
+   "description": "Bu bağlantı, NousResearch kuruluşuna ait hermes-agent deposundaki 5100 numaralı pull request'in dosya değişikliklerini gösteren GitHub sayfasına yönlendirmektedir. Pull request, yazılım geliştirme sür...",
+   "resource": "https://github.com/NousResearch/hermes-agent/pull/5100/files",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_greece-expect",
+   "label": "Greece Expect",
+   "description": "This content covers current developments in geopolitics, technology, and public policy from a global perspective. The analysis examines the implications of recent political events, diplomatic maneuver...",
+   "resource": "https://www.reuters.com/business/media-telecom/greece-expect",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_greece-expected-announce-social-m",
+   "label": "Greece Expected Announce Social M",
+   "description": "This content covers current developments in geopolitics, technology, and public policy from a global perspective. The analysis examines the implications of recent political events, diplomatic maneuver...",
+   "resource": "https://www.reuters.com/business/media-telecom/greece-expected-announce-social-m",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_hamane-den-d-man-birlik-ve-ulusal-g-venlik-uyar-s-",
+   "label": "Hamane'den Düşman Birlik ve Ulusal Güvenlik Uyarısı - TRT Ha",
+   "description": "TRT Haber'in dış haberler bölümünde aktardığına göre, İran Lideri Ali Hamaney, yaptığı açıklamada düşman unsurların birlik ve beraberliği zedeleme amaçlı girişimlerine karşı uyarılarda bulunmuştur. Ha...",
+   "resource": "https://www.trthaber.com/haber/dunya/hamaney-dusman-birlik-ve-ulusal-guvenligi-zedele",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_hermes-agent-llm-wiki-skill-documentation-skill-md",
+   "label": "Hermes Agent - LLM Wiki Skill Documentation (SKILL.md)",
+   "description": "Bu belge, Hermes Agent projesinin LLM Wiki (Karpathy's LLM Wiki) becerisinin SKILL.md dosyasıdır. Andrej Karpathy'nin LLM Wiki desenine dayanan bu yaklaşım, kalıcı ve birikimli bir bilgi tabanını birb...",
+   "resource": "https://raw.githubusercontent.com/NousResearch/hermes-agent/505e3c0b78bf12460bc7f941edfa038247ca1a67/skills/research/llm-wiki/SKILL.md",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_himalaya-cli-email-client-install-script",
+   "label": "Himalaya CLI Email Client - Install Script",
+   "description": "Bu belge, Himalaya CLI e-posta istemcisinin kurulum betiğidir (install.sh). Himalaya, terminal üzerinden e-posta yönetimi sağlayan bir Rust tabanlı komut satırı aracıdır. Kurulum betiği, Linux, macOS ...",
+   "resource": "https://raw.githubusercontent.com/pimalaya/himalaya/master/install.sh",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_hungarian-government-official-documents-and-public",
+   "label": "Hungarian Government: Official Documents and Publications",
+   "description": "This official Hungarian government publication, hosted on the kormany.hu domain, contains official government documents, policy papers, or regulatory announcements. As a cdn.kormany.hu URL pointing to...",
+   "resource": "https://cdn.kormany.hu/uploads/sheets/3/35/35d/35d5df227ec606231240989d5c80f0d.pdf",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_i-ran-a-ait-y-k-gemisi-abd-nin-el-koyma-giri-imine",
+   "label": "İran'a Ait Yük Gemisi ABD'nin El Koyma Girişimine Rağmen İra",
+   "description": "TRT Haber'in dış haberler bölümünde aktarıldığına göre, İran'a ait bir yük gemisi, ABD'nin el koyma girişimine rağmen başarıyla İran'a ulaşmayı başarmıştır. Bu gelişme, ABD ile İran arasında giderek t...",
+   "resource": "https://www.trthaber.com/haber/dunya/fars-irana-ait-bir-yuk-gemisi-abdnin-e",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_i-stanbul-bilgi-niversitesi-teknoloji-transfer-ofi",
+   "label": "İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi",
+   "description": "İstanbul Bilgi Üniversitesi Teknoloji Transfer Ofisi (TTO), üniversite bünyesinde geliştirilen akademik araştırmaların ve yenilikçi fikirlerin ticarileştirilmesi, fikri mülkiyet haklarının yönetimi, s...",
+   "resource": "https://www.bilgi.edu.tr/tr/arastirma/teknoloji-transfer-ofisi",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_jewish-holidays-dates-and-observance-guide-referen",
+   "label": "Jewish Holidays Dates and Observance Guide - Reference.com",
+   "description": "Reference.com'da yayınlanan bu makale, Yahudi bayramları ve önemli günlerinin tarihleri ve kutlama rehberini sunmaktadır. Makale, Musevi takvimine göre dini bayramların (Roş Aşana, Yom Kippur, Sukot, ...",
+   "resource": "https://www.reference.com/business-finance/dates-observance-guide-jewish-holidays",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_milliyet-magazin-survivor-sabriye-eng-l-n-l-m",
+   "label": "Milliyet Magazin: Survivor Sabriye Şengül'ün Ölümü ",
+   "description": "Milliyet reports on the death of Survivor contestant Sabriye Şengül. The news covers the passing of the popular reality TV personality, who was known for her participation in the Turkish version of th...",
+   "resource": "https://www.milliyet.com.tr/magazin/aci-haberi-duyurdu-survivor-sabriye-sengulu-yikan-olum-7573160",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_milliyet-milli-piyango-sonu-lar",
+   "label": "Milliyet: Milli Piyango Sonuçları ",
+   "description": "Milliyet publishes the results of the Milli Piyango (Turkish National Lottery) draw. This is a routine publication of lottery results for public information.",
+   "resource": "https://www.milliyet.com.tr/sans-oyunlari/milli-piyango-sonuclari",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_nfag014",
+   "label": "Nfag014",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_okul-sald-r-s-kahramanmara-anl-urfa-arama-sonu-lar",
+   "label": "Okul Saldırısı Kahramanmaraş Şanlıurfa Arama Sonuçları - TRT",
+   "description": "TRT Haber'in arama sayfası, Kahramanmaraş ve Şanlıurfa'daki okul saldırılarına ilişkin haber arşivini listelemektedir. 17 Nisan 2026 tarihinde yaşanan okul saldırıları, Türkiye'de bir günde iki farklı...",
+   "resource": "https://www.trthaber.com/arama/okul-saldirisi-kahramanmaras-sanliurfa-17-ni",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_oxford-academic-public-opinion-quarterly-advanced-",
+   "label": "Oxford Academic / Public Opinion Quarterly: Advanced Survey ",
+   "description": "This Public Opinion Quarterly article published through Oxford Academic addresses fundamental and pressing methodological challenges in contemporary survey research and public opinion measurement scie...",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/85864",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-bulgaria-pm-elections-corruption-and-v",
+   "label": "Politico EU: Bulgaria PM Elections, Corruption, and Vote Buy",
+   "description": "Politico EU reports on Bulgaria's ongoing political crisis as the country heads to yet another election amid persistent corruption allegations and vote-buying scandals. The article examines how system...",
+   "resource": "https://www.politico.eu/article/bulgaria-pm-elections-corruption-vote-buying",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-eu-parliament-threatens-to-delay-1-8t-",
+   "label": "Politico EU: EU Parliament Threatens to Delay €1.8T Budget T",
+   "description": "Politico EU reports on the European Parliament's threat to delay negotiations on the EU's next long-term budget (the Multiannual Financial Framework) until 2027. The €1.8 trillion budget framework is ...",
+   "resource": "https://www.politico.eu/article/eu-parliament-threatens-to-delay-e1-8t-budget-talks-until-2027",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-eu-system-buckles-under-ai-powered-com",
+   "label": "Politico EU: EU System Buckles Under AI-Powered Complaints",
+   "description": "Politico EU reports on how the European Union's regulatory system is struggling to cope with a surge of AI-powered complaints and automated submissions. The article examines how the Digital Services A...",
+   "resource": "https://www.politico.eu/article/eu-system-buckles-under-pressure-of-ai-powered-complaints",
+   "tags": [
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-european-politics-and-policy-analysis",
+   "label": "Politico EU: European Politics and Policy Analysis",
+   "description": "Politico EU provides analysis of European political developments, policy debates, and institutional dynamics. The article examines key issues shaping the European Union's political landscape, includin...",
+   "resource": "https://www.politico.eu/article/hungarian-election-2026-the-winners-and-losers",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-finance-world-heads-to-washington-as-p",
+   "label": "Politico EU: Finance World Heads to Washington as Politics a",
+   "description": "Politico EU reports on global finance leaders converging on Washington for IMF/World Bank meetings amid turbulent market conditions and geopolitical crises. The article examines the convergence of mul...",
+   "resource": "https://www.politico.eu/article/finance-world-heads-to-washington-as-politics-and-markets-erupt",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-germany-s-nuclear-debate-is-nuclear-ov",
+   "label": "Politico EU: Germany's Nuclear Debate - Is Nuclear Over?",
+   "description": "Politico EU examines Germany's ongoing debate about nuclear energy following its complete phase-out in 2023. The article explores whether the nuclear chapter is definitively closed for Germany or whet...",
+   "resource": "https://www.politico.eu/article/germany-berlin-nuclear-is-over-the-debate-isnt",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-ireland-cuts-fuel-tax-to-quell-protest",
+   "label": "Politico EU: Ireland Cuts Fuel Tax to Quell Protests",
+   "description": "Politico EU reports on the Irish government's decision to cut motor fuel taxes in a bid to address rising public discontent and protests over the cost of living. The article examines the policy trade-...",
+   "resource": "https://www.politico.eu/article/ireland-dublin-cut-tax-motor-fuel-bid-to-quell-protests",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-eu-keir-starmer-s-economy-and-iran-war-im",
+   "label": "Politico EU: Keir Starmer's Economy and Iran War Impact on U",
+   "description": "Politico EU examines how UK Prime Minister Keir Starmer is navigating economic challenges compounded by geopolitical tensions including the Iran conflict. The article analyzes the impact of global ins...",
+   "resource": "https://www.politico.eu/article/keir-starmer-economy-iran-war-uk-elections",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_politico-trump-announces-strait-of-hormuz-blockade",
+   "label": "Politico: Trump Announces Strait of Hormuz Blockade After Ir",
+   "description": "Politico reports on former US President Donald Trump's announcement of a blockade of the Strait of Hormuz following the collapse of negotiations with Iran. The article examines the strategic implicati...",
+   "resource": "https://www.politico.com/news/2026/04/12/trump-announces-strait-of-hormuz-blockade-after-iran-talks-collapse-00868375",
+   "tags": [
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_report-a-page-aspx",
+   "label": "Report A Page.Aspx",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.lse.ac.uk/lse-information/secure/report-a-page.aspx",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_reuters-greece-expects-developments-in-media-and-t",
+   "label": "Reuters: Greece Expects Developments in Media and Technology",
+   "description": "Reuters reports on Greece's expectations regarding developments in the media and telecommunications sector. The article likely covers regulatory changes, market consolidation, technology adoption, and...",
+   "resource": "https://www.reuters.com/business/media-telecom/greece-expect",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_s-69784532",
+   "label": "S 69784532",
+   "description": "This content covers current developments in geopolitics, technology, and public policy from a global perspective. The analysis examines the implications of recent political events, diplomatic maneuver...",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_s12525-025-00796-6",
+   "label": "S12525 025 00796 6",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://link.springer.com/article/10.1007/s12525-025-00796-6",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_s2666560325000714",
+   "label": "S2666560325000714",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.sciencedirect.com/science/article/pii/S2666560325000714",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_sciencedirect-article-s2666560325000714-telematics",
+   "label": "ScienceDirect article S2666560325000714 (Telematics and Info",
+   "description": "This article published in Telematics and Informatics Reports (a ScienceDirect journal) examines a topic within the intersection of digital technology, communication, and social informatics based on th...",
+   "resource": "https://www.sciencedirect.com/science/article/pii/S2666560325000714",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_soyk-r-mc-i-srail-l-bnan-n-g-neyine-hava-sald-r-s-",
+   "label": "Soykırımcı İsrail, Lübnan'ın güneyine hava saldırısı düzenle",
+   "description": "TRT Haber'in aktardığına göre, İsrail ordusu Hizbullah'ın İsrail'in kuzeyindeki Shtula bölgesini roketlerle hedef almasına misilleme olarak Lübnan'ın güneyine geniş çaplı bir hava saldırısı düzenlemiş...",
+   "resource": "https://www.trthaber.com/haber/dunya/soykirimci-israil-lubnanin-guneyine-hava-saldirisi-duzenledi-942807.html",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_taylor-francis-academic-research-on-digital-commun",
+   "label": "Taylor & Francis - Academic Research on Digital Communicatio",
+   "description": "Taylor & Francis yayınevinde yayımlanan bilgi, iletişim ve toplum üzerine akademik makaleler. Dijital iletişim, sosyal medya ve toplumsal değişim üzerine metodolojik çalışmalar ampirik veriye dayalı a...",
+   "resource": "https://pubmed.ncbi.nlm.nih.gov/screen-time-children-mental-health",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_teknoloji-transfer-ofisi-i-stanbul-bilgi-niversite",
+   "label": "Teknoloji Transfer Ofisi - İstanbul Bilgi Üniversitesi",
+   "description": "İstanbul Bilgi Üniversitesi'nin resmi web sitesinde yer alan Teknoloji Transfer Ofisi sayfası, ofisin misyonu, hizmetleri ve iletişim bilgilerini sunmaktadır. Ofis, üniversite bünyesindeki araştırma f...",
+   "resource": "https://www.bilgi.edu.tr/tr/arastirma/teknoloji-transfer-ofisi",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-abd-askeri-varl-ve-hint-okyanusu",
+   "label": "TRT Haber: ABD Askeri Varlığı ve Hint Okyanusu ",
+   "description": "TRT Haber reports on US military activities, including the USS George H.W. Bush aircraft carrier operating in the Indian Ocean and the completion of US military base handovers in Syria. These developm...",
+   "resource": "https://www.trthaber.com/haber/dunya/abd-suriyedeki-tum-onemli-askeri-uslerin-devir-teslim-islemlerini-tamamladi-942080.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-bakan-fidan-n-diplomatik-temaslar",
+   "label": "TRT Haber: Bakan Fidan'ın Diplomatik Temasları ",
+   "description": "TRT Haber reports on Turkish Foreign Minister Hakan Fidan's diplomatic engagements in the UK, where he met with members of the House of Lords and House of Commons. The discussions covered bilateral re...",
+   "resource": "https://www.trthaber.com/haber/gundem/bakan-fidan-kuresel-ve-bolgesel-meseleler-antalyada-tum-yonleriyle-masaya-yatirilacak-942048.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-cumhurba-kan-erdo-an-n-diplomasi-trafi-i",
+   "label": "TRT Haber: Cumhurbaşkanı Erdoğan'ın Diplomasi Trafiği ",
+   "description": "TRT Haber reports on President Erdoğan's diplomatic engagements, including his address at the ADF (Antalya Diplomacy Forum) and his meetings with world leaders. Erdoğan emphasized that the ADF has bec...",
+   "resource": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adf-kuresel-aklin-ve-global-vicdanin-ortak-kursusu-haline-geldi-942033.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-g-ndemdeki-geli-meler",
+   "label": "TRT Haber: Gündemdeki Gelişmeler ",
+   "description": "TRT Haber reports on current developments in Turkey and around the world. The Turkish public broadcaster provides comprehensive coverage of national and international news, reflecting Turkey's positio...",
+   "resource": "https://www.trthaber.com/haber/gundem/gulistan-doku-sorusturmasinda-mustafa-turkay-sonel-ile-koruma-memuru-adliyeye-sevk-edildi-942085.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-i-srail-in-l-bnan-a-hava-sald-r-lar",
+   "label": "TRT Haber: İsrail'in Lübnan'a Hava Saldırıları ",
+   "description": "TRT Haber reports on Israeli airstrikes targeting southern Lebanon, marking a significant escalation in regional tensions. The attacks have drawn international condemnation and raise concerns about a ...",
+   "resource": "https://www.trthaber.com/haber/dunya/soykirimci-israil-lubnanin-guneyine-ha",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_trt-haber-trump-i-ran-anla-ma-s-reci-ve-h-rm-z-bo-",
+   "label": "TRT Haber: Trump-İran Anlaşma Süreci ve Hürmüz Boğazı ",
+   "description": "TRT Haber reports on developments in US-Iran relations, including potential agreements and the situation in the Strait of Hormuz. Former US President Trump has indicated a willingness to reach a final...",
+   "resource": "https://www.trthaber.com/haber/dunya/trump-anlasma-saglaninca-irana-yonelik-abluka-sona-erecek-942087.html",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_warner-bros-discovery-hissedarlar-ve-irket-finansa",
+   "label": "Warner Bros Discovery Hissedarları ve Şirket Finansal Durumu",
+   "description": "TRT Haber'in ekonomi haberleri kapsamında aktardığına göre, küresel medya devi Warner Bros. Discovery'nin hisse performansı ve mali durumu piyasa analistlerinin yakın takibinde bulunmaktadır. 2022 yıl...",
+   "resource": "https://www.trthaber.com/haber/dunya/warner-bros-discovery-hissedarlar",
+   "tags": [
+    "genel",
+    "normal"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_what-parents-say-about-their-tee",
+   "label": "What Parents Say About Their Tee",
+   "description": "Academic publication presenting research on digital media, communication, or social science methodology. The study employs rigorous empirical frameworks to analyze data on online behavior, information...",
+   "resource": "https://www.pewresearch.org/internet/2026/02/24/what-parents-say-about-their-tee",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_www-cumhuriyet-com-tr",
+   "label": "www.cumhuriyet.com.tr",
+   "description": "Gülistan Doku dosyasında önemli bir gelişme yaşandı. Sağlık Bakanlığı, Gülistan Doku soruşturması kapsamında hastane kayıtlarının silindiği iddiaları üzerine resmi bir soruşturma başlattı ve konuyla i...",
+   "resource": "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-dosyasinda-yeni-gelisme-silinen-hastane-kayitlarina-iliskin-saglik-b",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-26_www-trthaber-com",
+   "label": "www.trthaber.com",
+   "description": "ABD Başkanı Donald Trump, İran'la kapsamlı bir anlaşma sağlanması durumunda bu ülkeye yönelik ekonomik ablukanın tamamen kaldırılacağını açıkladı. Trump, Arizona eyaletinde havalimanında basın mensupl...",
+   "resource": "https://www.trthaber.com/haber/dunya/trump-anlasma-saglaninca-irana-yonelik-abluka-sona-erecek-942087.html",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-27_akademik_ozel",
+   "label": "2026 06 27 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-27_cocuk_dijital",
+   "label": "2026 06 27 Cocuk Dijital",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-29_a-practitioner-s-guide-to-using-large-language-mod",
+   "label": "A Practitioner's Guide to Using Large Language Models and Ge",
+   "description": "NBER Working Paper 35374, Haziran 2026 (JEL C55, C8, N0) - Andreas Ferrara (University of Pittsburgh, Department of Economics & NBER). LLM'lerin el yazmasi defterler, metin, gorsel ve ses kayitlari gi...",
+   "resource": "https://doi.org/10.3386/w35374",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-30_large-language-models-based-on-historical-text-cou",
+   "label": "Large Language Models based on historical text could offer i",
+   "description": "PNAS (Proceedings of the National Academy of Sciences) dergisinde yayımlanan bu öncü makale, tarihsel metinlere dayalı büyük dil modellerinin davranış bilimi için nasıl bilgilendirici araçlar sunabile...",
+   "resource": "https://www.pnas.org/doi/10.1073/pnas.2407639121",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-06-30_taylor-francis-academic-article-social-sciences",
+   "label": "Taylor & Francis Academic Article (Social Sciences)",
+   "description": "Taylor ve Francis platformunda yayımlanan bu akademik makale, sosyal bilimler alanında güncel bir araştırmayı ele almaktadır. DOI 10.1080/21599165.2026.2686979 numarasıyla indekslenen çalışma, büyük o...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/21599165.2026.2686979",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-01_defining-web-pages-web-sites-and-web-captures-inte",
+   "label": "Defining Web pages, Web sites and Web captures | Internet Ar",
+   "description": "Vinay Goel tarafından Ekim 2016'da Internet Archive Blogu'nda yayımlanan bu yazı, web arşivleme alanında temel kavramları tanımlamaktadır: web sayfası, web sitesi ve web capture. Internet Archive'ün 2...",
+   "resource": "https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-04_akademik_ozel_haftalik",
+   "label": "AKADEMİK ÖZEL TARAMA - Haftalık Derleme",
+   "description": "",
+   "resource": "",
+   "tags": [
+    "akademik",
+    "metodoloji",
+    "etik",
+    "dijital-sosyal-bilimler",
+    "llm",
+    "computational-social-science"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-07_forum-crisis-and-contestation-boundary-work-for-a-",
+   "label": "Forum: Crisis and contestation – Boundary work for a future ",
+   "description": "The concepts of crisis and contestation have become ubiquitous in International Relations (IR) and beyond. Indeed, crisis and contestation are theoretical terms that crystallize the current challenges...",
+   "resource": "https://journals.sagepub.com/doi/10.1177/00108367261454268",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-07_public-policy-aging-report-volume-36-issue-1-artic",
+   "label": "Public Policy & Aging Report, Volume 36, Issue 1, Article 14",
+   "description": "Article from Public Policy & Aging Report (Oxford Academic), Volume 36, Issue 1, 2026. Published by the Gerontological Society of America. Pages 14. Article ID: 8678358. (Title could not be extracted ...",
+   "resource": "https://academic.oup.com/ppar/article/36/1/14/8678358",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-07_quantitative-qualitative-and-mixed-methodologies-i",
+   "label": "Quantitative, Qualitative, and Mixed Methodologies in Digita",
+   "description": "Open Access book published by Routledge (Taylor & Francis) with funding from the European Commission, bringing together quantitative analysis, qualitative inquiry, and mixed methods for the digital er...",
+   "resource": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003790297/quantitative-qualitative-mixed-methodologies-digital-social-sciences-%C5%82ukasz-su%C5%82kowski-zdzis%C5%82awa-dacko-pikiewicz-robert-seliga",
+   "tags": [
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-08-ipie-misinformation-resilience-index-review",
+   "label": "Resilience and Vulnerability to Misinformation and Disinform",
+   "description": "",
+   "resource": "",
+   "tags": [
+    "misinformation",
+    "disinformation",
+    "resilience",
+    "index",
+    "comparative",
+    "ipie",
+    "methodology"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-11_akademik_ozel_haftalik",
+   "label": "AKADEMİK ÖZEL TARAMA - Haftalık Derleme",
+   "description": "",
+   "resource": "",
+   "tags": [
+    "akademik",
+    "haftalik-bulten",
+    "no-new-content"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-14_academic-academic-research",
+   "label": "ACADEMIC - Academic Research",
+   "description": "This peer-reviewed academic publication presents rigorous empirical research that advances scholarly understanding of contemporary social, political, or technological phenomena through systematic appl...",
+   "resource": "https://academic.oup.com/poq/article/doi/10.1093/poq/nfag014/8586455",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-14_tandfonline-academic-research",
+   "label": "TANDFONLINE - Academic Research",
+   "description": "This peer-reviewed academic publication presents rigorous empirical research that advances scholarly understanding of contemporary social, political, or technological phenomena through systematic appl...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2639567",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-16_almanya-se-imleri-ve-dezenformasyon-sava-lar-dw-t-",
+   "label": "Almanya seçimleri ve dezenformasyon savaşları | DW Türkçe",
+   "description": "Deutsche Welle (DW) Türkçe'nin Almanya seçimleri ve dezenformasyon savaşları konulu makalesi 404 Not Found hatası vermekte ve erişilememektedir. DW, Almanya'nın uluslararası kamu yayıncısıdır ve diğer...",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "genel",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-18_cocuk_dijital_haftalik",
+   "label": "2026 07 18 Cocuk Dijital Haftalik",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-20_cocuk_dijital_kurator_bulteni",
+   "label": "2026 07 20 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-21_is-misinformation-all-around-us-citizens-perceptio",
+   "label": "Is Misinformation All Around Us? Citizens’ Perceptions of Mi",
+   "description": "This study investigates to what extent and how people perceive misinformation as a proximate phenomenon that has infiltrated their everyday digital news domains. We argue that the perception that misi...",
+   "resource": "https://www.tandfonline.com/doi/full/10.1080/21670811.2026.2700585",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_age-checking-systems-can-now-be-certified-against-",
+   "label": "Age checking systems can now be certified against 5Rights-le",
+   "description": "Skip to main content Tech must be safe for kids. Be the change. Sign Our Petition Search in https://5rightsfoundation.",
+   "resource": "https://5rightsfoundation.com/age-checking-systems-can-now-be-certified-against-5rights-led-technical-standard/",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_brazil-is-first-latin-american-country-to-enshrine",
+   "label": "Brazil is first Latin American country to enshrine age-appro",
+   "description": "Skip to main content Tech must be safe for kids. Be the change. Sign Our Petition Search in https://5rightsfoundation.",
+   "resource": "https://5rightsfoundation.com/brazil-is-first-latin-american-country-to-enshrine-age-appropriate-design-standards-into-law/",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_five-years-of-general-comment-no-25-from-promises-",
+   "label": "Five years of General comment No. 25: From promises to progr",
+   "description": "Skip to main content Tech must be safe for kids. Be the change. Sign Our Petition Search in https://5rightsfoundation.",
+   "resource": "https://5rightsfoundation.com/five-years-of-general-comment-no-25-from-promises-to-progress/",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_ideas-or-strategy-the-impact-of-populist-incumbent",
+   "label": "Ideas or Strategy? The Impact of Populist Incumbents on Libe",
+   "description": "Kirk A. Hawkins, Saskia P. Ruth-Lovell & Grant A. Mitchell, Comparative Political Studies (2026). Popülizm literatürü popülist iktidarların liberal demokratik kurumlar üzerinde olumsuz etkisi olduğunu...",
+   "resource": "https://journals.sagepub.com/doi/10.1177/00104140261455871",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_s-69784532",
+   "label": "S 69784532",
+   "description": "Bu kaynak, dijital yönetişim, teknoloji düzenlemeleri ve çevrimiçi güvenlik alanındaki uluslararası gelişmeleri kapsayan genel politika ve güncel olayları ele almaktadır.",
+   "resource": "https://www.dw.com/tr/almanya-secimleri-ve-dezenformasyon-savaslar/s-69784532",
+   "tags": [
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_these-are-the-countries-moving-to-ban-social-media",
+   "label": "These are the countries moving to ban social media for child",
+   "description": "(function(){try{var c=getComputedStyle(document.body),r=document.documentElement,ink=c.color,bg=c.backgroundColor;if(ink){r.style.setProperty('--jp-search-page-ink',ink);}if(bg&&bg!==ink&&bg!=='rgba(0...",
+   "resource": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-24_united-states-of-america-5rights",
+   "label": "United States of America - 5rights",
+   "description": "Skip to main content Tech must be safe for kids. Be the change. Sign Our Petition Search in https://5rightsfoundation.",
+   "resource": "https://5rightsfoundation.com/north-america/united-states-of-america/",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-25_akademik_ozel",
+   "label": "2026 07 25 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07-25_cocuk_dijital_kurator_bulteni",
+   "label": "2026 07 25 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-07_the-effect-of-real-news-party-cues",
+   "label": "The effect of real-news party cues",
+   "description": "",
+   "resource": "https://doi.org/10.1111/ajps.70014",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08 (a_humans-are-missing-from-ai-coding-agent-research",
+   "label": "Humans are Missing from AI Coding Agent Research",
+   "description": "Wang, Yang, Lieret, Tartaglini, Chen, Wei, Wang, Zhang, Narasimhan, Schmidt, Neubig, Fried ve Yang'ın (Stanford, Princeton, CMU, Washington ve diğer kurumlar) arXiv ön baskısı, yapay zekâ kodlama ajan...",
+   "resource": "https://arxiv.org/abs/2608.12355",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-01_akademik_ozel",
+   "label": "2026 08 01 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-01_cocuk_dijital_kurator_bulteni",
+   "label": "2026 08 01 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-01_how-children-learn-complex-environmental-concepts-",
+   "label": "How children learn complex environmental concepts through di",
+   "description": "Xin Bian, Andre Brown & Bruno Marques, Frontiers in Psychology, 17 (2026). Dijital hikaye anlatımının (digital storytelling) sürdürülebilirlik eğitiminde ilkokul öğrencilerine karmaşık yer temelli çev...",
+   "resource": "https://doi.org/10.3389/fpsyg.2026.1893526",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-02_small-samples-and-short-panels-evaluating-policy-e",
+   "label": "Small Samples and Short Panels: Evaluating Policy Evaluation",
+   "description": "Politika müdahalelerinin etkilerini değerlendirmek için kullanılan nedensel çıkarım yöntemleri (difference-in-differences, sentetik kontrol) genellikle sınırlı örneklem ve kısa panel verisiyle karşı k...",
+   "resource": "https://arxiv.org/abs/2608.01537",
+   "tags": [
+    "kurator",
+    "akademik",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-03_cocuk_dijital_kurator_bulteni",
+   "label": "2026 08 03 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-08_akademik_ozel",
+   "label": "2026 08 08 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-08_cocuk_dijital_kurator_bulteni",
+   "label": "2026 08 08 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-15_akademik_ozel",
+   "label": "2026 08 15 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-15_cocuk_dijital_kurator_bulteni",
+   "label": "2026 08 15 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-19_parallel-partisan-public-responsiveness-to-policy-",
+   "label": "Parallel Partisan Public Responsiveness to Policy and the Ne",
+   "description": "",
+   "resource": "https://academic.oup.com/psq/advance-article/doi/10.1093/psquar/qqag064/8765690",
+   "tags": [
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-21_childcare-in-transition-evidence-that-patterns-of-",
+   "label": "Childcare in Transition: Evidence That Patterns of Childcare",
+   "description": "Anushé Hassan ve arkadaşlarının Demography dergisinde (Duke University Press) yayımlanan makalesi, pazar entegrasyonunun (market integration) çocuk bakımındaki akraba desteğini nasıl değiştirdiğini Ku...",
+   "resource": "https://read.dukeupress.edu/demography/article/doi/10.1215/00703370-12795529/412525/Childcare-in-Transition-Evidence-That-Patterns-of",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-21_online-discourse-is-falsely-polarized-by-self-sele",
+   "label": "Online Discourse is Falsely Polarized by Self-Selection",
+   "description": "",
+   "resource": "https://osf.io/preprints/psyarxiv/7z69m_v1",
+   "tags": [
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-22_akademik_ozel",
+   "label": "2026 08 22 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-29_akademik_ozel",
+   "label": "2026 08 29 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-31_cocuk_dijital_kurator_bulteni",
+   "label": "2026 08 31 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-08-31_two-centuries-of-sexism-in-british-parliament-a-co",
+   "label": "Two Centuries of Sexism in British Parliament: A Computation",
+   "description": "arXiv:2608.30485 (31 Ağustos 2026) — Mohammad Omar Khursheed, Mandira Sawkar ve Ashiqur R. KhudaBukhsh. Hesaplamalı sosyal bilim çalışması: Birleşik Krallık Parlamentosu'nun 200 yıllık Hansard tutanak...",
+   "resource": "https://arxiv.org/abs/2608.30485",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-05_akademik_ozel",
+   "label": "2026 09 05 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-09_reassurance-and-betrayal-cross-ethnic-appeals-by-p",
+   "label": "Reassurance and betrayal: Cross-ethnic appeals by party lead",
+   "description": "Bu makale, bölünmüş toplumlarda uzlaşma çağrılarının neden kutuplaştırıcı sonuçlar doğurabildiğini soruyor: klasik konsosyasyonel güç paylaşımı literatürü sert çizgideki partilerin nasıl güvenilir müz...",
+   "resource": "https://journals.sagepub.com/doi/10.1177/20531680261484260",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-11_anti-fascist-economics-weber-ve-kar-lanabilirlik-k",
+   "label": "Anti-Fascist Economics (Weber) ve Karşılanabilirlik Krizleri",
+   "description": "Bu kayıt, Isabella M. Weber'in Ekim 2026'da Penguin Random House'tan çıkacak Anti-Fascist Economics kitabını ve Grace Blakeley'in kitabı Almanya'daki Sachsen-Anhalt seçim sonucu ışığında inceleyen yaz...",
+   "resource": "https://graceblakeley.substack.com/p/how-affordability-crises-feed-the",
+   "tags": [
+    "kurator",
+    "medium"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-12_akademik_ozel",
+   "label": "2026 09 12 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-14_cocuk_dijital_kurator_bulteni",
+   "label": "2026 09 14 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-19_akademik_ozel",
+   "label": "2026 09 19 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-26_akademik_ozel",
+   "label": "2026 09 26 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-26_cocuk_dijital_kurator_bulteni",
+   "label": "2026 09 26 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-28_classifying-strategy-use-in-multiattribute-subject",
+   "label": "Classifying strategy use in multiattribute subjective choice",
+   "description": "Conjoint (birleşik/çoknitelikli tercih) deneyleri, çoknitelikli alternatifler arasında tercihler hakkında çıkarım yapmak için birçok disiplinde yaygın biçimde kullanılıyor. Önceki araştırmalar çoğunlu...",
+   "resource": "https://www.pnas.org/doi/10.1073/pnas.2613113123",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-09-28_cocuk_dijital_kurator_bulteni",
+   "label": "2026 09 28 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-02_peer-transmission-of-mental-health-information-inc",
+   "label": "Peer Transmission of Mental Health Information Increases ADH",
+   "description": "İnternette ruh sağlığı bilgisi paylaşımının artması, sosyal medyanın ruh sağlığı öz-tanı (self-diagnosis) oranlarını şişirebileceği kaygısını büyüttü. Ancak bu bilginin nasıl üretildiği ve tüketildiği...",
+   "resource": "https://osf.io/preprints/psyarxiv/dj6me",
+   "tags": [
+    "kurator",
+    "akademik",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-03_akademik_ozel",
+   "label": "2026 10 03 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-03_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 03 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-05_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 05 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-09_meet-qwen-image-2-1-turbo-create-and-edit-images-i",
+   "label": "Meet Qwen-Image-2.1-Turbo — create and edit images in just 8",
+   "description": "",
+   "resource": "https://x.com/Alibaba_Qwen/status/2108549075218120949",
+   "tags": [
+    "genel",
+    "low"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-10_akademik_ozel",
+   "label": "2026 10 10 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-10_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 10 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-12_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 12 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-17_akademik_ozel",
+   "label": "2026 10 17 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-17_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 17 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-19_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 19 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-20_doing-open-social-science-a-guide-for-researchers",
+   "label": "Doing Open Social Science: A Guide for Researchers",
+   "description": "Patrick Dunleavy (LSE, Emeritus Professor of Political Science and Public Policy; British Academy üyesi, LSE Press kurucu baş editörü 2020-2023) ve Timothy Monteath'ın (Warwick Üniversitesi, Disiplinl...",
+   "resource": "https://press.lse.ac.uk/books/m/10.31389/lsepress.dos",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-20_rolling-memory-a-new-approach-to-annotation-with-g",
+   "label": "Rolling Memory: A New Approach to Annotation with Generative",
+   "description": "Timoneda ve Vallejo Vera (Chinese Political Science Review, Springer, 7 Ocak 2026, açık erişim) üretken büyük dil modelleriyle metin kodlama/annotasyon literatürüne doğrudan yöntemsel bir katkı sunuyo...",
+   "resource": "https://link.springer.com/article/10.1007/s41111-025-00327-w",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-24_akademik_ozel",
+   "label": "2026 10 24 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-24_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 24 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-28_can-artificial-intelligence-forecast-treatment-eff",
+   "label": "Can Artificial Intelligence Forecast Treatment Effects in Ec",
+   "description": "",
+   "resource": "https://arxiv.org/abs/2610.38883",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-29_the-factory-of-discord-how-foreign-actors-exploit-",
+   "label": "The Factory of Discord: How Foreign Actors Exploit Social Un",
+   "description": "",
+   "resource": "https://edmo.eu/blog/the-factory-of-discord-how-foreign-actors-exploit-social-unrest-in-europe/",
+   "tags": [
+    "kurator",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-31_akademik_ozel",
+   "label": "2026 10 31 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-10-31_cocuk_dijital_kurator_bulteni",
+   "label": "2026 10 31 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-02_cocuk_dijital_kurator_bulteni",
+   "label": "2026 11 02 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-03_prediction-league-can-the-results-of-policy-releva",
+   "label": "Prediction League — Can the results of policy-relevant exper",
+   "description": "",
+   "resource": "https://www.agency.fund/predictionleague",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-07_akademik_ozel",
+   "label": "2026 11 07 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-07_cocuk_dijital_kurator_bulteni",
+   "label": "2026 11 07 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-09_cocuk_dijital_kurator_bulteni",
+   "label": "2026 11 09 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-14_akademik_ozel",
+   "label": "2026 11 14 Akademik Ozel",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-14_cocuk_dijital_kurator_bulteni",
+   "label": "2026 11 14 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-16_cocuk_dijital_kurator_bulteni",
+   "label": "2026 11 16 Cocuk Dijital Kurator Bulteni",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem",
+   "label": "When kids lock up cellphones in class, the achievement gap n",
+   "description": "",
+   "resource": "https://www.washingtonpost.com/education/2026/11/18/when-kids-lock-up-cellphones-class-achievement-gap-narrows-study-finds/",
+   "tags": [
+    "kurator",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-11_experimentally-validated-digital-twins-evaluating-",
+   "label": "Experimentally Validated Digital Twins: Evaluating Workforce",
+   "description": "",
+   "resource": "https://opportunityinsights.org/wp-content/uploads/2026/09/DigitalTwins_FullPaper.pdf",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/2026-12_and-now-what-an-experiential-case-report-of-partic",
+   "label": "And now what? An experiential case report of participant AI ",
+   "description": "",
+   "resource": "https://www.sciencedirect.com/science/article/abs/pii/S2772766126000984",
+   "tags": [
+    "akademik",
+    "genel",
+    "high"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/bbc-children-online-2026",
+   "label": "Bbc Children Online 2026",
+   "description": "{ \"title\": \"BBC - Children Online Safety and Digital Wellbeing\", \"url\": \"https://www.bbc.com/news/children-online-safety\", \"summary\": \"BBC'nin çocuk o...",
+   "resource": "https://www.bbc.com/news/children-online-safety",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/bethlehem-tekola-on-emotion-in-research-738",
+   "label": "Bethlehem Tekola on emotion in research",
+   "description": "**Kaynak:** [https://x.com/Bethlehemtekola/status/2056464280564727815...](https://x.com/Bethlehemtekola/status/2056464280564727815) **Kategori:** KURA...",
+   "resource": "https://x.com/Bethlehemtekola/status/2056464280564727815",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/btk-dijital-regulation-2026",
+   "label": "Btk Dijital Regulation 2026",
+   "description": "{ \"title\": \"BTK - Dijital Düzenleme ve Çocuk Koruması\", \"url\": \"https://www.btk.gov.tr\", \"summary\": \"BTK'nın dijital düzenleme, çocuk dostu internet s...",
+   "resource": "https://www.btk.gov.tr",
+   "tags": [
+    "raw"
+   ],
+   "suggested_concepts": [],
+   "status": "pending"
+  },
+  {
+   "id": "raw/articles/bulutgil-mylonas-methodological-pluralism-2026",
+   "label": "Bulutgil Mylonas Methodological Pluralism 2026",
+   "description": "",
+   "resource": "",
+   "tags": [],
+   "suggested_concepts": [],
+   "status": "pending"
+  }
+ ]
+}
