@@ -1,6 +1,6 @@
 ---
 type: source
-title: 'Kaynak: 2026-04-09 Çocuk Dijital Bülteni'
+title: '2026-04-09 Çocuk Dijital Bülteni'
 description: '**Kaynak:** raw/articles/2026-04-09_cocuk_dijital.md **Tarih ingested:**
   2026-04-19 **Tür:** Bülten (çoklu kaynak sentezi) ## Özet 9 Nisan 2026 tarihl...'
 tags:
@@ -16,7 +16,7 @@ created: 2026-04-19
 updated: 2026-04-19
 ---
 
-# Kaynak: 2026-04-09 Çocuk Dijital Bülteni
+# 2026-04-09 Çocuk Dijital Bülteni
 
 **Kaynak:** raw/articles/2026-04-09_cocuk_dijital.md
 **Tarih ingested:** 2026-04-19
