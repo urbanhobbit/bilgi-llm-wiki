@@ -2182,3 +2182,14 @@
 - Source files: 2026-11-20_winning-formula-populist-radical-right.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-11-21] ingest | Haftalık bülten entegrasyonu — Hafta 47 kapanışı
+- Raw: [[raw/articles/2026-11-21_cocuk_dijital_kurator_bulteni.md]] — KURATOR: Çocuklar ve Dijital Dünya, haftalık bülten (16–21 Kasım 2026)
+- Raw: [[raw/articles/2026-11-21_akademik_ozel.md]] — AKADEMİK ÖZEL TARAMA, haftalık derleme (9 çalışma)
+- Havuz: 33 benzersiz kayıt (30 yeni); KURATOR 14, AKADEMİK ÖZEL 27, GENEL 17 (çoklu etiket)
+- Scrapling engel oranı: 10/16 = %62,5 (metadata tabanlı sınıflandırma)
+- Agent: Weekly Bulletin Integration (cron)
+
+## [2026-11-21] lint | Haftalık bütünlük kontrolü
+- İki bülten dosyası raw/articles'a eklendi, index.md ve bu log güncellendi.
+- Bireysel linkler OKF ardışık düzeni tarafından 17–20 Kasım arasında zaten işlenmişti; yeniden işlenmedi.
