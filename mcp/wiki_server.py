@@ -27,10 +27,16 @@ import datetime
 import json
 import os
 import re
+import sys
 
 from mcp.server.fastmcp import FastMCP
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# --- TEK KAYNAK: agirliklandirma hesabi scripts/graph_weights.py icinde -------
+sys.path.insert(0, os.path.join(WIKI, "scripts"))
+from graph_weights import ConceptGraph  # noqa: E402
+
 mcp = FastMCP("bilgi-llm-wiki")
 
 _cache = {}
@@ -48,6 +54,17 @@ def _weighted():
         p = os.path.join(WIKI, "graph-weighted.json")
         _cache["w"] = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {"edges": [], "meta": {}}
     return _cache["w"]
+
+
+def _graph() -> ConceptGraph:
+    """PMI+Jaccard hesabi icin tek kaynak (scripts/graph_weights.py).
+
+    graph-weighted.json eski hesapla uretilmis olsa bile skorlar ayni cikar;
+    modul dogrudan bundle'dan hesaplar, dosya bayatligindan etkilenmez.
+    """
+    if "g" not in _cache:
+        _cache["g"] = ConceptGraph(_bundle())
+    return _cache["g"]
 
 
 def _nodes():
@@ -111,13 +128,11 @@ def get_concept(slug: str) -> str:
     if not body:
         return f"Sayfa bulunamadi: {slug}\nIpucu: search() ile dogru slug'i bulun."
     key = sid if sid.startswith(("concepts/", "entities/")) else "concepts/" + sid
-    edges = [e for e in _weighted()["edges"] if key in (e.get("source"), e.get("target"))]
-    edges.sort(key=lambda e: -e["score"])
+    rows = _graph().neighbors(key, k=15) if key.startswith("concepts/") else []
     out = [body[:6000], "", "---", "## Komsular (normalize agirlikli)"]
-    for e in edges[:15]:
-        other = e["target_label"] if e["source"] == key else e["source_label"]
-        out.append(f"- {other}  (score={e['score']}, PMI={e['pmi']}, ortak makale={e['cooccurrence']})")
-    if not edges:
+    for oid, lbl, sc, pm, jc, co in rows:
+        out.append(f"- {lbl}  (score={sc}, PMI={pm}, ortak makale={co})")
+    if not rows:
         out.append("- (agirlik esigini gecen komsu yok — izole ya da seyrek kavram)")
     return "\n".join(out)
 
@@ -150,14 +165,12 @@ def recent(days: int = 21, tag: str = "") -> str:
 def graph_neighbors(slug: str, k: int = 12) -> str:
     """Bir kavramin normalize agirlikli (PMI+Jaccard) en guclu komsularini dondurur."""
     key = slug if slug.startswith("concepts/") else "concepts/" + slug
-    edges = [e for e in _weighted()["edges"] if key in (e.get("source"), e.get("target"))]
-    if not edges:
-        return f"{slug} icin agirlikli komsu yok."
-    edges.sort(key=lambda e: -e["score"])
-    lines = [f"{key} — en guclu {min(k,len(edges))} komsu:"]
-    for e in edges[:k]:
-        other = e["target_label"] if e["source"] == key else e["source_label"]
-        lines.append(f"- {other}  score={e['score']} PMI={e['pmi']} JAC={e['jaccard']} ortak={e['cooccurrence']}")
+    rows = _graph().neighbors(key, k=k)
+    if not rows:
+        return f"{slug} icin agirlikli komsu yok (min_cooc=5 esigini gecen bag yok)."
+    lines = [f"{key} — en guclu {len(rows)} komsu:"]
+    for oid, lbl, sc, pm, jc, co in rows:
+        lines.append(f"- {lbl}  score={sc} PMI={pm} JAC={jc} ortak={co}")
     return "\n".join(lines)
 
 
@@ -220,8 +233,7 @@ def list_concepts(min_articles: int = 1) -> str:
 @mcp.tool()
 def bridges(min_score: float = 2.0) -> str:
     """Kumeler arasi kopruler ve bosluklar: guclu ama az makaleli baglar."""
-    w = _weighted()
-    edges = [e for e in w["edges"] if e["score"] >= min_score]
+    edges = [e for e in _graph().edges() if e["score"] >= min_score]
     if not edges:
         return "Esigi gecen bag yok."
     edges.sort(key=lambda e: -e["score"])
@@ -238,10 +250,32 @@ def bridges(min_score: float = 2.0) -> str:
 
 
 if __name__ == "__main__":
-    import sys
-    if "--selftest" in sys.argv:
+    # ---------------------------------------------------------------- modlar
+    #   (arguman yok)   -> stdio  (Claude Desktop / Hermes / yerel istemci)
+    #   --http          -> streamable-http, 127.0.0.1:8765, gizli yol onekli
+    #   --selftest      -> araclari dogrudan cagirip ciktisini basar
+    argv = sys.argv[1:]
+
+    if "--selftest" in argv:
         print(data_health()[:700])
         print("\n---", graph_neighbors("siyaset-bilimi-metodolojisi", 6))
         print("\n---", bridges()[:900])
+        sys.exit(0)
+
+    if "--http" in argv:
+        # yol oneeki: WIKI_MCP_PATH env > varsayilan gizli onek
+        path = os.environ.get("WIKI_MCP_PATH", "/mcp-w7k2q9zr4x")
+        host = os.environ.get("WIKI_MCP_HOST", "127.0.0.1")
+        port = int(os.environ.get("WIKI_MCP_PORT", "8765"))
+
+        # FastMCP settings: yol oneki streamable_http_path ile verilir
+        mcp.settings.host = host
+        mcp.settings.port = port
+        mcp.settings.streamable_http_path = path
+        mcp.settings.stateless_http = True   # ters vekil arkasinda oturum sorunu cikmasin
+        mcp.settings.json_response = True
+
+        print(f"[wiki-mcp] streamable-http http://{host}:{port}{path}", flush=True)
+        mcp.run(transport="streamable-http")
     else:
-        mcp.run()
+        mcp.run()  # stdio — varsayilan, degismedi

@@ -1,11 +1,12 @@
 {
  "meta": {
-  "generated": "2026-11-21T09:58:34",
+  "generated": "2026-11-21T14:05:18",
   "method": "kavram-kavram kenarlari, ortak raw_article uzerinden",
+  "source_bundle": "bundle.json",
   "metrics": {
    "pmi": "log2(N*cooc/(deg_a*deg_b))",
    "jaccard": "cooc/(deg_a+deg_b-cooc)",
-   "score": "pmi * log2(1+cooc)^0.5"
+   "score": "pmi * log2(1+cooc)^alpha"
   },
   "thresholds": {
    "min_cooccurrence": 5,
@@ -16,7 +17,9 @@
    "concept_nodes": 126,
    "raw_pairs": 978,
    "kept_pairs": 241,
-   "total_concept_edges": 5760
+   "total_concept_edges": 5760,
+   "min_cooccurrence": 5,
+   "alpha": 0.5
   }
  },
  "edges": [

@@ -25,7 +25,17 @@ main{flex:1;position:relative;min-height:0}
 #panel .warn{background:#3b2013;border-color:#7c3f13;color:#fdba74}
 #panel p{margin:7px 0}
 #panel a{color:var(--acc);text-decoration:none}
-#panel .body{margin:8px 0;color:#b9c8de;white-space:pre-wrap;max-height:260px;overflow-y:auto;font-size:12px;border-left:2px solid var(--line);padding-left:9px}
+#panel .body{margin:8px 0;color:#b9c8de;max-height:300px;overflow-y:auto;font-size:12px;border-left:2px solid var(--line);padding-left:9px}
+#panel .body p{margin:5px 0}
+#panel .body h4{margin:10px 0 4px;font-size:13px;color:#e6eefc;font-weight:600}
+#panel .body h5,#panel .body h6{margin:8px 0 3px;font-size:12px;color:#cddcf0;font-weight:600}
+#panel .body ul{margin:4px 0 6px;padding-left:16px}
+#panel .body li{margin:1px 0}
+#panel .body code{background:#1b2436;padding:1px 4px;border-radius:3px;font-size:11px}
+#panel .body pre{background:#151d2b;padding:7px;border-radius:4px;overflow-x:auto;font-size:11px}
+#panel .body a.wl{color:#7dd3fc;text-decoration:none;border-bottom:1px dotted #7dd3fc;cursor:pointer}
+#panel .body a.wl:hover{color:#bae6fd;border-bottom-style:solid}
+#panel .body a.wl.ext{color:#8aa0bf;border-bottom-color:#8aa0bf}
 #panel ul{margin:5px 0 5px 4px;list-style:none}
 #panel li{margin:2px 0}
 #panel li a{cursor:pointer}
@@ -173,11 +183,11 @@ function panel(n){
   if(d.isolated)h+='<div class="badge warn">izole</div>';
   h+='<h2>'+esc(d.label)+'</h2>';
   h+='<p><span style="color:#8aa0bf">'+d.degree+' bağ · '+cy.edges('[source="'+d.id+'"],[target="'+d.id+'"]').filter(function(e){var o=(e.data("source")===d.id)?e.data("target"):e.data("source");return cy.getElementById(o).data("type")==="raw_article"}).length+' makale</span></p>';
-  if(d.resource)h+='<p><a href="'+esc(d.resource)+'" target="_blank" rel="noopener">🔗 dış kaynak</a> &nbsp; <a href="/wiki/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 wiki sayfası</a></p>';
-  else h+='<p><a href="/wiki/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 wiki sayfası</a></p>';
-  if(d.description)h+='<p>'+esc(d.description)+'</p>';
+  if(d.resource)h+='<p><a href="'+esc(d.resource)+'" target="_blank" rel="noopener">🔗 dış kaynak</a> &nbsp; <a href="/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 kaynak dosya</a></p>';
+  else h+='<p><a href="/'+esc(d.id)+'.md" target="_blank" rel="noopener">📖 kaynak dosya</a></p>';
+  if(d.description)h+='<p class="desc">'+md(d.description)+'</p>';
   var b=bodies?bodies[d.id]:'';
-  if(b)h+='<div class="body">'+esc(b)+'</div>';
+  if(b)h+='<div class="body">'+md(b)+'</div>';
   if(d.tags&&d.tags.length)h+='<p>'+d.tags.map(function(t){return '<span class="badge">'+esc(String(t))+'</span>'}).join('')+'</p>';
   if(d.roles&&d.roles.length){var RM={gap:['🔍','Araştırma Boşluğu'],result:['📊','Bulgular'],limitation:['⚠️','Sınırlılıklar'],method:['🧩','Yöntem'],policy:['🏛','Politika Önerisi']};
     h+='<p>'+d.roles.map(function(r){var m=RM[r];return m?'<span class="badge">'+m[0]+' '+m[1]+'</span>':''}).join('')+'</p>'}
@@ -198,6 +208,15 @@ function panel(n){
   document.getElementById('panel').style.display='block';
 }
 function closePanel(){document.getElementById('panel').style.display='none';if(sel){cy.elements().removeClass('dim');sel=null}}
+
+/* panel gövdesindeki grafik-içi bağlantılar (delege) — inline onclick'ten sağlam */
+document.addEventListener('click',function(ev){
+  var a=ev.target.closest&&ev.target.closest('#pc a.wl[data-go]');
+  if(!a)return;
+  ev.preventDefault(); ev.stopPropagation();
+  var id=a.getAttribute('data-go');
+  if(id)focus(id);
+});
 
 function health(){
   var s=D.stats, h='<b>📊 veri sağlığı</b><br>';
@@ -221,6 +240,47 @@ function png(){
   var a=document.createElement('a');a.href=uri;a.download='kurator-wiki-harita.png';a.click();
 }
 function esc(s){var d=document.createElement('div');d.appendChild(document.createTextNode(s==null?'':String(s)));return d.innerHTML}
+
+/* ── mini markdown renderer: panel gövdesi için ──────────────────────────
+   [[concepts/x|Etiket]]  -> grafikte o düğüme atlar (yoksa .md dosyası açar)
+   [metin](url)           -> yeni sekme
+   ## Başlık / **kalın** / `kod` / - liste                              */
+function md(s){
+  if(!s)return '';
+  var ex=[], i=0;
+  // kod bloklarini koru
+  s=String(s).replace(/```[\s\S]*?```/g,function(m){ex.push('<pre>'+esc(m.replace(/```/g,''))+'</pre>');return '\u0000'+(i++)+'\u0000'});
+  s=esc(s);
+  // wikilink -> graf içi bağlantı
+  s=s.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,function(m,tgt,lab){
+    var id=tgt.trim().replace(/\.md$/,'');
+    var text=esc((lab||tgt).replace(/\.md$/,'').split('/').pop());
+    var known=window.cy&&cy.getElementById(id).length>0;
+    return known
+      ? '<a class="wl" data-go="'+esc(id)+'" href="javascript:void(0)">'+text+'</a>'
+      : '<a class="wl ext" href="/'+esc(id)+'.md" target="_blank" rel="noopener">'+text+'</a>';
+  });
+  // markdown link
+  s=s.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  // basliklar
+  s=s.replace(/^######\s+(.+)$/gm,'<h6>$1</h6>').replace(/^#####\s+(.+)$/gm,'<h5>$1</h5>')
+     .replace(/^####\s+(.+)$/gm,'<h4>$1</h4>').replace(/^###\s+(.+)$/gm,'<h5>$1</h5>')
+     .replace(/^##\s+(.+)$/gm,'<h4>$1</h4>').replace(/^#\s+(.+)$/gm,'<h4>$1</h4>');
+  // kalin / italik / kod
+  s=s.replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/(?<!\*)\*([^*\n]+)\*(?!\*)/g,'<i>$1</i>');
+  s=s.replace(/`([^`\n]+)`/g,'<code>$1</code>');
+  // listeler
+  s=s.replace(/^\s*[-*]\s+(.+)$/gm,'<li>$1</li>');
+  s=s.replace(/(<li>[\s\S]*?<\/li>)(?!\s*<li>)/g,'<ul>$1</ul>');
+  s=s.replace(/^\s*\d+\.\s+(.+)$/gm,'<li>$1</li>');
+  // paragraflar
+  s=s.split(/\n{2,}/).map(function(p){
+    return /^\s*<(h\d|ul|pre|li)/.test(p)?p:'<p>'+p.replace(/\n/g,' ')+'</p>';
+  }).join('');
+  // kod bloklarini geri koy
+  s=s.replace(/\u0000(\d+)\u0000/g,function(m,n){return ex[+n]});
+  return s;
+}
 
 // arama
 var qi=document.getElementById('q'), hi=document.getElementById('hits');

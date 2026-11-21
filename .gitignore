@@ -1,1 +1,6 @@
 vendor/
+
+# python venv (MCP sunucusu, mcp==1.9.4 sabit)
+.venv-mcp/
+__pycache__/
+*.pyc
