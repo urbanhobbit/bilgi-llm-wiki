@@ -11,14 +11,10 @@
             "id": "dbcc59532a71f78f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/eko-odasi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "eko-odasi"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -198,6 +194,24 @@
   },
   "active": "dbcc59532a71f78f",
   "lastOpenFiles": [
+    "triage-queue.json",
+    "synthesis/mcp-sunucusu.md",
+    "synthesis",
+    "scripts/triage.py",
+    "scripts/sync-bundle-stats.py",
+    "scripts/graph_weights.py",
+    "scripts/build-weighted-graph.py",
+    "scripts",
+    "raw/articles/2026-11-21_cocuk_dijital_kurator_bulteni.md",
+    "raw/articles/2026-11-21_akademik_ozel.md",
+    "queries/veri-sagligi-paneli.md",
+    "output/triage.csv",
+    "mcp/wiki_server.py",
+    "mcp",
+    "graph-weighted.json",
+    "concepts/yanlis-kutuplasma.md",
+    "concepts/dezenformasyon.md",
+    "concepts/eko-odasi.md",
     "raw/articles/2026-11-06_the-winning-formula-of-the-populist-radical-right-.md",
     "raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md",
     "raw/articles/2025-10-08_affective-polarization-and-anti-democratic-attitud.md",
@@ -205,7 +219,6 @@
     "concepts/synthetic-media-ai-content.md",
     "concepts/platform-economy-misinformation.md",
     "raw/articles/2026-06-26_github-urbanhobbit-bilgi-llm-wiki-obsidian-vault-f.md",
-    "concepts/dezenformasyon.md",
     "raw/articles/2026-11-13_political-unfriending-on-facebook-evidence-from-ov.md",
     "raw/articles/2026-11-12_is-it-the-phones-anatomy-of-a-moral-panic.md",
     "raw/articles/2026-11-10_evolutionary-foundations-of-social-identity.md",
@@ -217,22 +230,6 @@
     "entities/ucl-institute-of-education.md",
     "entities/stanford-university.md",
     "entities/rtl-luxembourg.md",
-    "entities/romanian-american-university.md",
-    "entities/review-of-economics-and-statistics.md",
-    "entities/prolific.md",
-    "entities/parent-zone.md",
-    "entities/ofcom.md",
-    "entities/northeastern-university.md",
-    "entities/neil-malhotra.md",
-    "raw/assets",
-    "output",
-    "wiki/entities",
-    "wiki/concepts",
-    "wiki/synthesis",
-    "wiki/sources",
-    "wiki",
-    "posop-carousel/slide1.png",
-    "posop-carousel/posop-12angrymen.pdf",
-    "posop-carousel/carousel.pdf"
+    "posop-carousel/slide1.png"
   ]
 }
