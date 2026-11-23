@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-21 | Total pages: 208
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-23 | Total pages: 209
 
 ## Entities
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
