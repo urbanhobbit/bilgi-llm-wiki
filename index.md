@@ -670,4 +670,6 @@
 - [[raw/articles/2026-11-18_when-kids-lock-up-cellphones-in-class-the-achievem.md|When kids lock up cellphones in class, the achievement gap narrows, study finds]]
 - [[raw/articles/2025-10-08_affective-polarization-and-anti-democratic-attitud.md|Affective polarization and anti-democratic attitudes: a complex relationship]]
 - [[raw/articles/2026-11-06_the-winning-formula-of-the-populist-radical-right-.md|The Winning Formula of the Populist Radical Right: Insider Narratives and the Making of a Representative Claim]]
+- [[raw/articles/2026-11-23_why-truth-still-matters-in-an-age-of-misinformatio.md|Why Truth Still Matters in an Age of Misinformation]]
+- [[raw/articles/2026-11-23_diffracting-methods-in-childhood-research-towards-.md|Diffracting Methods in Childhood Research: Towards Otherwise Participatory Research Practices]]
 

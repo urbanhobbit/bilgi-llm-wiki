@@ -2193,3 +2193,9 @@
 ## [2026-11-21] lint | Haftalık bütünlük kontrolü
 - İki bülten dosyası raw/articles'a eklendi, index.md ve bu log güncellendi.
 - Bireysel linkler OKF ardışık düzeni tarafından 17–20 Kasım arasında zaten işlenmişti; yeniden işlenmedi.
+## [2026-11-25] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-23_why-truth-still-matters-in-an-age-of-misinformatio.md]] — Why Truth Still Matters in an Age of Misinformation
+- Raw: [[raw/articles/2026-11-23_diffracting-methods-in-childhood-research-towards-.md]] — Diffracting Methods in Childhood Research: Towards Otherwise Participatory Research Practices
+- Source files: 2026-11-24_categorized.json
+- Agent: OKF Ingestion Pipeline
+
