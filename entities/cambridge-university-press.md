@@ -8,8 +8,9 @@ tags:
 - yayıncı
 timestamp: '2026-09-11T00:00:00Z'
 created: 2026-09-11
-updated: 2026-09-11
-sources: []
+updated: '2026-11-26'
+sources:
+- raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md
 ---
 
 # Cambridge University Press
@@ -26,3 +27,7 @@ sources: []
 ## Wiki'deki Kaynaklar (1)
 
 - [[raw/articles/2026-09-01_measuring-partisanship-and-representation-in-online.md|Measuring Partisanship and Representation in Online Congressional Communications]]
+
+## Political Analysis hattı
+
+*Political Analysis*, siyaset biliminde yöntem dergisi olarak bu wiki'de tekrarlayan bir kaynak: açık erişim PDF'leri (Cambridge Core `aop-cambridge-core/content/view/` ucu) doğrudan indirilebiliyor ve Crossref künyesi zengin. Son örnek: Timoneda (2026) sentetik imputasyon makalesi — [[concepts/sentetik-imputasyon-seyrek-kategoriler.md]]. Ayrıca Halterman (2025) "Synthetically Generated Text for Supervised Text Analysis" ve Halterman & Keith (2026) "Codebook LLMs" aynı dergide aynı problemin farklı katmanlarını ele alıyor.

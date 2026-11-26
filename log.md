@@ -2216,3 +2216,26 @@
 - Updated: [[concepts/sentetik-odak-gruplari.md]] (+G0 katmanına teknik itiraz bölümü), [[concepts/sentetik-populasyonlar.md]] (+LLM sentetik birey katmanı), [[concepts/dijital-ikizler.md]] (+kullanıcı simülasyonu karşıtlığı), [[entities/stanford-university.md]] (+SNAP/Zou/Yang hatları)
 - Not: Tweet'teki "clone a human personality / predict what you'll think before you do" çerçevesi abartılı; makalenin iddiası bağlama verilen yanıtın psikolojik ara değişkenlerle tahmini. Açık kaynak kod: github.com/zou-group/humanlm
 - Agent: interactive (Telegram)
+
+## 2026-11-26 — Ingest: Timoneda, "The Synthetic Imputation Approach" (Political Analysis)
+
+**Kaynak:** X paylaşımı @polanalysis (2125984267310399555) → Cambridge Core aracılığıyla tam metin PDF.
+**Künye:** Joan C. Timoneda (Purdue), *Political Analysis* FirstView 2026, DOI 10.1017/pan.2026.10057, CC BY 4.0, ss. 1–15.
+
+**Yeni sayfalar**
+- `raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md`
+- `concepts/sentetik-imputasyon-seyrek-kategoriler.md`
+- `entities/joan-c-timoneda.md`
+
+**Güncellenen sayfalar**
+- `concepts/metin-madenciligi.md` — "gözetimli sınıflandırmanın darboğazı" bölümü + source
+- `concepts/olcum-araclari.md` — sınıflandırıcı temelli ölçümde seyrek kategori sorunu + source
+- `entities/cambridge-university-press.md` — Political Analysis hattı + source
+- `index.md` (215 sayfa), `log.md`
+
+**Teknik notlar**
+- Cambridge Core `aop-cambridge-core/content/view/S1047198726100576` ucu tam metin PDF döndürüyor (Content-Type yanlış etiketli, uzantı `.pdf` verilince PyMuPDF açıyor) → 15 sayfa, 65.7k karakter çıkarıldı.
+- X içeriği için fxtwitter API çalışmıyor; Cambridge/Crossref doğrudan kullanıldı.
+- Wiki'ye işlenen sayısal bulgular: nostalji veri setinde 50 gerçek metinle 0,471 → 0,851 (benchmark 0,822); konuşmalarda 0,561 → 0,923 (benchmark 0,895); SSMBA 50 metinle 0,982 = aşırı-uyum göstergesi.
+
+---

@@ -1,8 +1,9 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 213
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 215
 
 ## Entities
+- [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
 - [[entities/felix-simon.md|Felix M. Simon]] — Oxford Reuters Institute; AI, haber ve (yanlış)bilgi
 - [[entities/sacha-altay.md|Sacha Altay]] — dezenformasyon yaygınlığı üzerine sistematik derleme
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
@@ -74,6 +75,7 @@
 - [[entities/stanford-university.md|Stanford University]]
 
 ## Concepts
+- [[concepts/sentetik-imputasyon-seyrek-kategoriler.md]] — Seyrek kategorilerde LLM ile sentetik veri artırımı (Timoneda 2026)
 - [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|Kullanıcı Simülasyonu ve Gizli Durum Hizalaması (HumanLM)]] — yüzey taklidi yerine inanç/amaç/duygu/değer/tutum/iletişim hizalaması
 - [[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md|Dezenformasyon Yaygınlığı ve Yoğunlaşması]] — tüketimde %1,3, ankette %57,7; aktivitenin ~%70'i en üst %1 kullanıcıdan
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
@@ -93,6 +95,7 @@
 - [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]]
 
 ## Raw Articles
+- [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
 
 - [[raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation (Stanford, arXiv:2603.03303, 2026-02-07)]]
 - [[raw/articles/2026-11-21_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 47/2026 kapanışı, 16 – 21 Kasım dilimi)]]

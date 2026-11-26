@@ -10,6 +10,8 @@ tags:
 timestamp: '2026-10-27T08:00:00Z'
 created: 2026-10-27
 updated: 2026-10-27
+sources:
+- raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md
 confidence: medium
 ---
 # Metin Madenciliği ve Hesaplamalı Metin Analizi
@@ -30,3 +32,9 @@ Büyük metin korpuslarını okumadan önce yapılandırmaya yarayan yöntem ail
 - [[raw/articles/2026-04-03_how-much-are-llms-changing-the-language-of-academi.md|Kousha & Thelwall (Scientometrics 2026) — 12 LLM-teriminin 6 veritabanı + 2,4M PMC tam metnindeki frekans artışı (delve +%1.360)]] — terim frekansı temelli kültürel/üslupsal değişim ölçümü
 - [[raw/articles/2026-11-16_misinformation-and-hoaxes-in-disaster-and-crisis-c.md|Rudianto vd. (Cogent A&H 2026) — Scopus bibliyometrisi (592 belge) + Biblioshiny/VOSviewer; kapsam denetimi ve yeniden üretilebilirlik sınırları]]
 - [[raw/articles/2026-02-08_multi-agent-ethnography-post-conventional-anthropo.md|Artz (Anthropological Forum 2026) — çok-ajanlı etnografya: kod kitabı/transkript bölütleme/kodlama ajanları MCP sunucusunda]]
+
+## Gözetimli sınıflandırmanın darboğazı: seyrek kategoriler
+
+Gözetimli hat, kategori başına yeterli etiketli örnek olduğu varsayımıyla çalışır. Siyaset biliminde ilgi çeken kategoriler (nadir söylem, şiddet çağrısı, dezenformasyon) çoğu zaman **azınlık** kategorilerdir. Timoneda (2026, *Political Analysis*) bu darboğaza iki taraflı bir teşhis koyuyor: encoder modellerde kategori eğitim batch'lerinde kayboluyor, decoder modellerde ise değerlendirme setinde nadir kategori bulunmadığı için etiketleme kararsızlaşıyor. Çözüm olarak önerdiği **sentetik imputasyon** (döner 5 örnekli üretim + en yakın-komşu filtresi) 75 gerçek gözlemle tam-veri benchmark'ına ulaşıyor — ayrıntı: [[concepts/sentetik-imputasyon-seyrek-kategoriler.md]]
+
+Bu, uzak okuma/gözetimsiz hattın karşıtı bir hamle: kategoriyi veriden çıkarmak yerine, kategoriyi **az sayıda örnekten çoğaltmak**. Aynı zamanda klasik "artırılmış veri = daha iyi model" varsayımını bozuyor: benchmark'ı aşan artırma (SSMBA örneğinde F1 0,982 vs 0,822) başarı değil, ölçüm hatasının gizlenmesi.
