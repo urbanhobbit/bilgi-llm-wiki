@@ -12,9 +12,10 @@ tags:
 - yonetisim
 timestamp: '2026-11-07T16:50:00Z'
 created: '2026-11-07'
-updated: '2026-11-07'
+updated: '2026-11-26'
 sources:
 - raw/articles/2026-11-02_fake-plastic-voters-ai-simulated-focus-groups-in-party.md
+- raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md
 confidence: medium
 ---
 
@@ -68,6 +69,12 @@ Simülasyon saatler içinde sonuç verirken insan odak grubu haftalar alır; se�
 - **Hesap verebilirlik:** dokümantasyon, simülasyonu ısmarlayan ekiple yorumlayan ekibin ayrılması, iç itiraz (challenge) fonksiyonu, yüksek riskli kullanımda dış denetim.
 - **Saldırgan kullanım:** rakip taban simülasyonuyla saldırı mesajı tasarlamak, katılımı bastıracak mesaj kalibrasyonu, simüle iterasyonla çerçevesi optimize edilmiş [[concepts/ai-generated-disinformation.md|AI-generated disinformation]] — yazarlar bu üçünü kategorik olarak kabul edilemez ilan ediyor.
 
+## G0 katmanına teknik itiraz: HumanLM (2026)
+
+Novelli vd. matrisindeki en zayıf halka, **G0 — yalnız LLM personası**: modele profil yazıp o kişi gibi konuşturmak. Bu katmanın ampirik dayanağı yoktu; Stanford HumanLM (arXiv:2603.03303) tam bu boşluğa teknik bir cevap veriyor — persona taklidi yerine, kullanıcının gerçek yanıtlarına **gizli durum hizalaması** (inanç, amaç, duygu, değer, tutum, iletişim) ile kalibrasyon. Sonuç: 26 bin kullanıcı / 216 bin yanıtlık Humanual setinde hizalama puanında %16,3 göreli iyileşme ve 111 katılımcılı kör testte en yüksek benzerlik.
+
+Bunun matrise etkisi, G0'dan G1/G2'ye geçişin *teknik olarak* mümkün hâle gelmesidir; ancak üç uyarı kalıyor: (1) ana metrik yine bir LLM yargıcına dayanıyor, (2) kamusal verilerle eğitilen simülatörlerde katılımcı rızası yok, (3) "saldırgan kullanım" yasağı bu teknolojiyle daha da kritik. Ayrıntı: [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|Kullanıcı Simülasyonu ve Gizli Durum Hizalaması]]
+
 ## İlgili Varlıklar
 
 - [[entities/www-tandfonline-com.md|Taylor & Francis]]
@@ -76,6 +83,7 @@ Simülasyon saatler içinde sonuç verirken insan odak grubu haftalar alır; se�
 ## İlgili Kavramlar
 
 - [[concepts/sentetik-populasyonlar.md|Sentetik Popülasyonlar ve Birey-Tabanlı Simülasyon]]
+- [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|Kullanıcı Simülasyonu ve Gizli Durum Hizalaması (HumanLM)]]
 - [[concepts/yapay-zeka-destekli-gorusmeler.md|Yapay Zeka Destekli Görüşmeler (AI Interviewing)]]
 - [[concepts/yapay-zeka-yonetisimi.md|Yapay Zeka Yönetişimi]]
 - [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]]

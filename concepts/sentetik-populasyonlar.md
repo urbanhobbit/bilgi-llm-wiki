@@ -11,8 +11,9 @@ tags:
 - metodoloji
 timestamp: '2026-10-19T00:00:00Z'
 created: '2026-10-19'
-updated: '2026-10-19'
-sources: []
+updated: '2026-11-26'
+sources:
+- raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md
 related: []
 confidence: medium
 ---
@@ -52,3 +53,7 @@ Politika müdahalelerinin (okul kapatma, mesafelenme, aşılama, afet tahliyesi)
 - [[raw/articles/2026-10-16_cross-centaur-modeling-individual-decision-making-.md|Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models (Asano ve ark., 2026)]]
 - [[raw/articles/2026-10-12_simulated-responses-from-large-language-models-are.md|Simulated responses from LLMs are weak proxies for human economic preferences across 74 countries (Chen ve ark., Nature Human Behaviour, 2026)]] — LLM tabanlı sentetik bireyin sınırları: kültürel boyutlarda hizalama şans düzeyinde.
 - [[raw/articles/2026-10-15_polling-without-people-can-silicon-samples-of-casm.md|Polling Without People: CASM-Inspired LLM Personae in Pre-Election Polling (Jonaitis ve ark., PS: Political Science & Politics, 2026)]] — CASM temelli persona hattı + deep MrP: yön doğru, seviye ~10 puan Demokrat yanlı; 'kararsız' seçeneği yok.
+
+## LLM tabanlı "sentetik birey" katmanı
+
+Ajan-tabanlı nüfuslar bireyi *istatistiksel* olarak temsil eder (yaş, hane, mekân); davranışı ise kural ya da olasılık fonksiyonu üretir. LLM tabanlı sentetik birey, bu davranış kuralının yerine bir dil modeli koyar. İki seviye var: (a) **persona istemi** — profili tarif edip modeli o kişi gibi konuşturmak, veriye dayanmayan katman; (b) **kalibre edilmiş simülatör** — modelin çıktısı gerçek kişilerin gerçek yanıtlarına hizalanarak eğitilir. HumanLM (Stanford, 2026) ikinci seviyenin örneği: yüzey taklidi yerine inanç/amaç/duygu/değer/tutum/iletişim boyutlarında gizli durum hizalaması. Bu, nüfus düzeyindeki demografik temsilin yanına birey düzeyinde psikolojik temsil ekliyor — ayrıntı: [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|Kullanıcı Simülasyonu ve Gizli Durum Hizalaması]]

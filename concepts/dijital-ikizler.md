@@ -36,6 +36,8 @@ Bir programın/deneyin, **müdahale olmasaydı ne olurdu** sorusunu zengin gözl
 - **Mekanizma körlüğü:** ikiz etkiyi tahmin eder, *neden* olduğunu açıklamaz; mekanizma için nitel araştırma gerekir (J-PAL pratikleri).
 - **Ticarileşme/çıkar:** yöntemi geliştiren araştırmacının aynı yöntemle yatırım yapan bir kuruluşu yönetmesi (Chetty → Opportunity Capital) çıkar beyanı gerektirir.
 
+**Karşı kutup: kullanıcı simülasyonu.** Dijital ikiz *sistem düzeyinde* (program/müdahale) counterfactual sorar; [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|kullanıcı simülasyonu]] ise *birey düzeyinde* "bu kişi bu uyarana nasıl yanıt verir" sorusunu sorar. HumanLM (Stanford, 2026) hattının buradaki dersi aynı: yüzey taklidi değil, kararı üreten gizli durumları (inanç, amaç, duygu, değer, tutum) hizalamak. İkisinde de doğrulama sorunu aynı yerde duruyor — modelin kendi çıktısına değil, gerçek sonuca (RCT / gerçek yanıt) karşı sınanması.
+
 **Bağlantılı kavramlar:** [[concepts/arastirma-sonucu-tahminleme.md|Araştırma Sonucu Tahminleme]], [[concepts/siyaset-bilimi-metodolojisi.md|Siyaset Bilimi Metodolojisi]], [[concepts/surec-takibi-ve-nedensel-mekanizma.md|Süreç Takibi ve Nedensel Mekanizma]]
 
 ## İlgili Makaleler

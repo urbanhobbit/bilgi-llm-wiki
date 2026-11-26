@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 212
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 213
 
 ## Entities
 - [[entities/felix-simon.md|Felix M. Simon]] — Oxford Reuters Institute; AI, haber ve (yanlış)bilgi
@@ -74,6 +74,7 @@
 - [[entities/stanford-university.md|Stanford University]]
 
 ## Concepts
+- [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md|Kullanıcı Simülasyonu ve Gizli Durum Hizalaması (HumanLM)]] — yüzey taklidi yerine inanç/amaç/duygu/değer/tutum/iletişim hizalaması
 - [[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md|Dezenformasyon Yaygınlığı ve Yoğunlaşması]] — tüketimde %1,3, ankette %57,7; aktivitenin ~%70'i en üst %1 kullanıcıdan
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
@@ -93,6 +94,7 @@
 
 ## Raw Articles
 
+- [[raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation (Stanford, arXiv:2603.03303, 2026-02-07)]]
 - [[raw/articles/2026-11-21_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 47/2026 kapanışı, 16 – 21 Kasım dilimi)]]
 - [[raw/articles/2026-11-21_akademik_ozel.md|AKADEMİK ÖZEL TARAMA Haftalık Derleme (2026-11-21, 9 çalışma)]]
 - [[raw/articles/2026-11-16_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 47/2026 açılışı, 14 – 16 Kasım dilimi)]]

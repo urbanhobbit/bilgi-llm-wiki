@@ -2208,3 +2208,11 @@
 - Updated: [[entities/andrew-gelman.md]] (+source, +link), [[concepts/dezenformasyon-maruziyeti-olcumu.md]] (+prevalence section, +source), [[concepts/negative-partisanship.md]] (+Gelman depolarization bullet, +wikipedia-style links)
 - Notes: Gelman post retrieved via RSS (site is Cloudflare-protected; WP REST and direct HTML return 403). Altay DOI/metadata via Crossref (10.31234/osf.io/sgvr8_v1). Felix Simon thread text via fxtwitter/syndication; infographic transcribed from media.
 - Agent: interactive (Telegram)
+
+## [2026-11-26] ingest | Telegram ad-hoc link — HumanLM (Stanford kullanıcı simülasyonu)
+- Raw: [[raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md]] — HumanLM: Simulating Users with State Alignment Beats Response Imitation (arXiv:2603.03303v1, 2026-02-07)
+- Kaynak zinciri: https://x.com/HowToPrompt__/status/2125941830953112011 (popüler anlatı) → arXiv PDF tam metin + humanlm.stanford.edu
+- New: [[concepts/kullanici-simulasyonu-ve-gizli-durum-hizalamasi.md]]
+- Updated: [[concepts/sentetik-odak-gruplari.md]] (+G0 katmanına teknik itiraz bölümü), [[concepts/sentetik-populasyonlar.md]] (+LLM sentetik birey katmanı), [[concepts/dijital-ikizler.md]] (+kullanıcı simülasyonu karşıtlığı), [[entities/stanford-university.md]] (+SNAP/Zou/Yang hatları)
+- Not: Tweet'teki "clone a human personality / predict what you'll think before you do" çerçevesi abartılı; makalenin iddiası bağlama verilen yanıtın psikolojik ara değişkenlerle tahmini. Açık kaynak kod: github.com/zou-group/humanlm
+- Agent: interactive (Telegram)
