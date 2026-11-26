@@ -1,8 +1,10 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-23 | Total pages: 209
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 212
 
 ## Entities
+- [[entities/felix-simon.md|Felix M. Simon]] — Oxford Reuters Institute; AI, haber ve (yanlış)bilgi
+- [[entities/sacha-altay.md|Sacha Altay]] — dezenformasyon yaygınlığı üzerine sistematik derleme
 - [[entities/5rightsfoundation-com.md|5Rights Foundation]]
 - [[entities/academic-oup-com.md|Oxford Academic]]
 - [[entities/admo.md|ADMO (Adria Digital Media Observatory)]]
@@ -72,6 +74,7 @@
 - [[entities/stanford-university.md|Stanford University]]
 
 ## Concepts
+- [[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md|Dezenformasyon Yaygınlığı ve Yoğunlaşması]] — tüketimde %1,3, ankette %57,7; aktivitenin ~%70'i en üst %1 kullanıcıdan
 - [[concepts/cizge-kurami.md|Çizge Kuramının Temelleri]]
 - [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
 - [[concepts/dijital-haklar.md|Çocuk Dijital Hakları]]
@@ -672,4 +675,6 @@
 - [[raw/articles/2026-11-06_the-winning-formula-of-the-populist-radical-right-.md|The Winning Formula of the Populist Radical Right: Insider Narratives and the Making of a Representative Claim]]
 - [[raw/articles/2026-11-23_why-truth-still-matters-in-an-age-of-misinformatio.md|Why Truth Still Matters in an Age of Misinformation]]
 - [[raw/articles/2026-11-23_diffracting-methods-in-childhood-research-towards-.md|Diffracting Methods in Childhood Research: Towards Otherwise Participatory Research Practices]]
-
+- [[raw/articles/2026-11-26_x-felix-simon-ai-meta-science.md|Felix Simon: AI ile meta-bilim — "Clauded dashboard" eleştirisi ve iki iyi örnek]]
+- [[raw/articles/2026-09-19_altay-misinformation-prevalence-systematic-review.md|Rare on screens but on everyone's mind: a systematic review of misinformation prevalence, exposure, and concentration (Altay, 2026)]]
+- [[raw/articles/2026-11-26_gelman-further-thoughts-partisanship-polarization.md|Further thoughts on partisanship and polarization after the midterm elections (Gelman, 2026)]]

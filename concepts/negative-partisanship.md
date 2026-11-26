@@ -9,8 +9,9 @@ tags:
 - duygu
 timestamp: '2026-07-31T00:00:00Z'
 created: '2026-07-31'
-updated: '2026-07-31'
-sources: []
+updated: '2026-11-26'
+sources:
+- raw/articles/2026-11-26_gelman-further-thoughts-partisanship-polarization.md
 related: []
 confidence: medium
 ---
@@ -29,3 +30,10 @@ Negatif partizanlik, partizan kimliğin 'kendi tarafını destekleme'den çok 'k
 - [[raw/articles/2026-07-31_changing-partisanship-contributes-significantly-to.md|Changing Partisanship Contributes Significantly to Rising Affective Polarization]]
 - [[raw/articles/2026-07-24_why-do-young-us-americans-avoid-cross-partisan-dat.md|Why Do Young US Americans Avoid Cross-Party Relationships?]]
 - [[raw/articles/2026-07-23_partisan-hearts-polarized-minds.md|Partisan Hearts, Polarized Minds?]]
+- **Gelman (2026-11-26):** 2026 ara seçimleri sonrası depolarizasyon ihtimali. Argümanı: 1994 (Cumhuriyetçiler güvensizlikten kilitlemeye gitti),
+  2006 (Demokratlar özgüvenden uzlaşmadı), 2010/2018 (başkanlar uzlaşmadı — "depolarize etmek iki kişiyle olur") örneklerinden farklı olarak
+  bugün Trump yönetimi enerjisini tüketti ve Demokratların karşı çıkacağı aktif bir başkan yok. Beklenti: parti içi yarılmalar ve partiler arası
+  koalisyonlar. Kaynak: [[raw/articles/2026-11-26_gelman-further-thoughts-partisanship-polarization.md|Further thoughts on partisanship and polarization]]
+
+## Bağlantılı
+[[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma]] · [[concepts/partizan-kimlik.md|Partizan Kimlik]] · [[entities/andrew-gelman.md|Andrew Gelman]]

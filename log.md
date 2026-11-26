@@ -2199,3 +2199,12 @@
 - Source files: 2026-11-24_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-11-26] ingest | Telegram ad-hoc link ingest — Gelman + Altay/Simon
+- Raw: [[raw/articles/2026-11-26_gelman-further-thoughts-partisanship-polarization.md]] — Further thoughts on partisanship and polarization after the midterm elections (Andrew Gelman, 2026-11-26)
+- Raw: [[raw/articles/2026-09-19_altay-misinformation-prevalence-systematic-review.md]] — Rare on screens but on everyone's mind: systematic review of misinformation prevalence/exposure/concentration (Sacha Altay, 2026-09-19, OSF preprint)
+- Raw: [[raw/articles/2026-11-26_x-felix-simon-ai-meta-science.md]] — Felix Simon X thread on AI-driven meta-science (2026-11-26)
+- New: [[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md]], [[entities/sacha-altay.md]], [[entities/felix-simon.md]]
+- Updated: [[entities/andrew-gelman.md]] (+source, +link), [[concepts/dezenformasyon-maruziyeti-olcumu.md]] (+prevalence section, +source), [[concepts/negative-partisanship.md]] (+Gelman depolarization bullet, +wikipedia-style links)
+- Notes: Gelman post retrieved via RSS (site is Cloudflare-protected; WP REST and direct HTML return 403). Altay DOI/metadata via Crossref (10.31234/osf.io/sgvr8_v1). Felix Simon thread text via fxtwitter/syndication; infographic transcribed from media.
+- Agent: interactive (Telegram)

@@ -10,9 +10,10 @@ tags:
 - platform-arastirmasi
 timestamp: '2026-11-02T00:00:00Z'
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-26
 sources:
 - raw/articles/2026-06-09_multi-platform-referrers-of-misinformation-a-compa.md
+- raw/articles/2026-09-19_altay-misinformation-prevalence-systematic-review.md
 confidence: medium
 ---
 # Dezenformasyon Maruziyetinin Ölçümü
@@ -35,6 +36,14 @@ Sosyal medyanın insanları dezenformasyona ne kadar maruz bıraktığını öl�
 - Kişi düzeyinde geçiş matrisleri + saptırma oranları (diversion ratios) ile karşı-olgusal yol simülasyonu.
 - Cihaz kompozisyonunun raporlanması: etkiler masaüstünde mobilin birkaç katı çıkıyor.
 
+## Yaygınlık tahminleriyle ilişkisi
+
+Altay'ın 443 çalışmalık derlemesi bu paradigmayı daha geniş bir soruya bağlıyor: ölçüm yolu değişince
+**tahminin kendisi** değişiyor. Davranışsal ölçümlerde tüketimin yalnızca %1,3'ü dezenformasyon iken anketlerde
+insanların %57,7'si "gördüm" diyor — yani ölçüm rejimi, "maruziyet" tanımının kendisini belirliyor.
+Ayrıntı: [[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md|Dezenformasyon Yaygınlığı ve Yoğunlaşması]].
+
 ## Bağlantılı
 
-[[concepts/dezenformasyon.md|Dezenformasyon]] · [[concepts/filtre-baloncuklari.md|Filtre Baloncukları ve Yankı Odaları]]
+[[concepts/dezenformasyon.md|Dezenformasyon]] · [[concepts/filtre-baloncuklari.md|Filtre Baloncukları ve Yankı Odaları]] ·
+[[concepts/dezenformasyon-yayginligi-ve-yogunlasmasi.md|Dezenformasyon Yaygınlığı ve Yoğunlaşması]] · [[entities/sacha-altay.md|Sacha Altay]]
