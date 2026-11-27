@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 215
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-27 | Total pages: 217
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
