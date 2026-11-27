@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-27 | Total pages: 217
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 215
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
@@ -691,3 +691,4 @@
 - [[raw/articles/2026-02-07_humanlm-simulating-users-with-state-alignment-beat.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation]]
 
 - [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md|Affective divisions and climate policy polarization — Bäck, Carroll, Renström & Ryan (Environmental Politics, 2026)]]
+- [[raw/articles/2026-11-27_american-exceptionalism-nationalization-polarization.md|American Exceptionalism? (Hjorth, Hopkins & Sigler 2026)]] — 14 demokrasi, 146.934 seçim sonucu; ulusallaşma ve afektif kutuplaşma
