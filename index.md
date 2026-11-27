@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 215
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-27 | Total pages: 217
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
@@ -95,7 +95,6 @@
 - [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]]
 
 - [[concepts/climate-policy-polarization|İklim Politikası Kutuplaşması]]
-- [[concepts/electoral-nationalization.md|Electoral Nationalization]] — seçim sonuçlarının ulusal eksene yakınsaması; alt-ulusal otorite ↑ → ulusallaşma ↓, hesap verebilirlik kaybı
 ## Raw Articles
 - [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
 
