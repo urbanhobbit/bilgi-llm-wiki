@@ -2239,3 +2239,12 @@
 - Wiki'ye işlenen sayısal bulgular: nostalji veri setinde 50 gerçek metinle 0,471 → 0,851 (benchmark 0,822); konuşmalarda 0,561 → 0,923 (benchmark 0,895); SSMBA 50 metinle 0,982 = aşırı-uyum göstergesi.
 
 ---
+## [2026-11-27] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-09-19_rare-on-screens-but-on-everyone-s-mind-a-systemati.md]] — Rare on screens but on everyone's mind: a systematic review of misinformation prevalence, exposure, and concentration
+- Raw: [[raw/articles/2026-11-27_the-synthetic-imputation-approach-using-llms-to-ge.md]] — The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks
+- Raw: [[raw/articles/2026-11-26_further-thoughts-on-partisanship-and-polarization-.md]] — Further thoughts on partisanship and polarization after the midterm elections
+- Raw: [[raw/articles/2026-11-26_felix-simon-ai-ile-meta-bilim-clauded-dashboard-el.md]] — Felix Simon: AI ile meta-bilim — "Clauded dashboard" eleştirisi ve iki iyi örnek
+- Raw: [[raw/articles/2026-02-07_humanlm-simulating-users-with-state-alignment-beat.md]] — HumanLM: Simulating Users with State Alignment Beats Response Imitation
+- Source files: 2026-11-27_001012_ingestion.json, 2026-11-27_categorized.json
+- Agent: OKF Ingestion Pipeline
+

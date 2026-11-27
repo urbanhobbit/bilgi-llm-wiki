@@ -683,3 +683,9 @@
 - [[raw/articles/2026-11-26_x-felix-simon-ai-meta-science.md|Felix Simon: AI ile meta-bilim — "Clauded dashboard" eleştirisi ve iki iyi örnek]]
 - [[raw/articles/2026-09-19_altay-misinformation-prevalence-systematic-review.md|Rare on screens but on everyone's mind: a systematic review of misinformation prevalence, exposure, and concentration (Altay, 2026)]]
 - [[raw/articles/2026-11-26_gelman-further-thoughts-partisanship-polarization.md|Further thoughts on partisanship and polarization after the midterm elections (Gelman, 2026)]]
+- [[raw/articles/2026-09-19_rare-on-screens-but-on-everyone-s-mind-a-systemati.md|Rare on screens but on everyone's mind: a systematic review of misinformation prevalence, exposure, and concentration]]
+- [[raw/articles/2026-11-27_the-synthetic-imputation-approach-using-llms-to-ge.md|The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks]]
+- [[raw/articles/2026-11-26_further-thoughts-on-partisanship-and-polarization-.md|Further thoughts on partisanship and polarization after the midterm elections]]
+- [[raw/articles/2026-11-26_felix-simon-ai-ile-meta-bilim-clauded-dashboard-el.md|Felix Simon: AI ile meta-bilim — "Clauded dashboard" eleştirisi ve iki iyi örnek]]
+- [[raw/articles/2026-02-07_humanlm-simulating-users-with-state-alignment-beat.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation]]
+
