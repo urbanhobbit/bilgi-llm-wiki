@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-26 | Total pages: 215
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-27 | Total pages: 217
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
@@ -95,6 +95,8 @@
 - [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]]
 
 - [[concepts/climate-policy-polarization|İklim Politikası Kutuplaşması]]
+- [[concepts/askeri-doktrin-ve-guvenlik-stratejileri.md|Askeri Doktrin ve Ulusal Güvenlik Stratejisi Metinleri]] — devletin kendi tehdit tanımı; metin-madenciliği ile karşılaştırmalı analiz
+- [[concepts/electoral-nationalization.md|Seçimlerin Ulusallaşması (Electoral Nationalization)]] — alt-ulusal otorite ↑ → ulusallaşma ↓
 ## Raw Articles
 - [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
 
@@ -692,3 +694,4 @@
 
 - [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md|Affective divisions and climate policy polarization — Bäck, Carroll, Renström & Ryan (Environmental Politics, 2026)]]
 - [[raw/articles/2026-11-27_american-exceptionalism-nationalization-polarization.md|American Exceptionalism? (Hjorth, Hopkins & Sigler 2026)]] — 14 demokrasi, 146.934 seçim sonucu; ulusallaşma ve afektif kutuplaşma
+- [[raw/articles/2026-11-27_military-doctrines-nss-corpus-gannon.md|Military Doctrines: A Corpus of National Security Strategy Documents (Gannon, 2026)]] — 823 belge, 112 ülke, 1962–2025; CC0 ulusal güvenlik stratejisi külliyatı

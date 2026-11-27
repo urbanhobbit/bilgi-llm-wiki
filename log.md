@@ -1,3 +1,11 @@
+## [2026-11-27] ingest | Harvard Dataverse → Military Doctrines külliyatı
+- Kaynak: https://x.com/mlemoglie/status/2126255179028672979 (Marco Le Moglie, 27 Kas 2026)
+- Raw: [[raw/articles/2026-11-27_military-doctrines-nss-corpus-gannon.md]] — Gannon, "Military Doctrines: A Corpus of National Security Strategy Documents", Harvard Dataverse V1 (2026-11-10), DOI 10.7910/DVN/OHOMP8, CC0 1.0
+- Kavram: [[concepts/askeri-doktrin-ve-guvenlik-stratejileri]] oluşturuldu
+- Doğrulama: Dataverse API + DataCite; metadata tablosu (823 satır) indirilip dağılımlar yerel hesaplandı — 586 çekirdek belge, 627 eng / 196 noneng, 37 siber; 2010'lar 383 belgeyle zirve
+- Türkiye: 5 belge (2000 & 2007 savunma beyaz kitabı, 2013 siber strateji, 2019 Stratejik Plan, 2021 yapay zekâ stratejisi)
+- Not: 823 belge / 5 zip PDF toplam ~9 GB; tam metin tek tabloda 54 MB (`nss_fulltext.csv.gz`) — Türkiye-Yunanistan/Rusya ikili tehdit atfı analizi için hazır.
+
 ## [2026-11-27] ingest | Cambridge Elements → American Exceptionalism?
 - Kaynak: https://x.com/CUP_PoliSci/status/2126330349626044783 (Cambridge UP Politics, 27 Kas 2026)
 - Raw: [[raw/articles/2026-11-27_american-exceptionalism-nationalization-polarization.md]] — Hjorth, Hopkins & Sigler, "American Exceptionalism? Nationalization and Polarization in Fifteen Democracies", Cambridge Elements: Comparative Political Behavior (2026), DOI 10.1017/9781009687461, açık erişim
