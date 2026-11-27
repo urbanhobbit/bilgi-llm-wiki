@@ -94,6 +94,7 @@
 - [[concepts/veri-odakli-kampanyacilik.md|Veri Odaklı Kampanyacılık (Data-Driven Campaigning)]]
 - [[concepts/ideolojik-kamplar.md|İdeolojik Kamplar (Ideological Camps)]]
 
+- [[concepts/climate-policy-polarization|İklim Politikası Kutuplaşması]]
 ## Raw Articles
 - [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
 
@@ -689,3 +690,4 @@
 - [[raw/articles/2026-11-26_felix-simon-ai-ile-meta-bilim-clauded-dashboard-el.md|Felix Simon: AI ile meta-bilim — "Clauded dashboard" eleştirisi ve iki iyi örnek]]
 - [[raw/articles/2026-02-07_humanlm-simulating-users-with-state-alignment-beat.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation]]
 
+- [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md|Affective divisions and climate policy polarization — Bäck, Carroll, Renström & Ryan (Environmental Politics, 2026)]]
