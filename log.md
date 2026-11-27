@@ -1,3 +1,10 @@
+## [2026-11-27] ingest | Cambridge Elements → American Exceptionalism?
+- Kaynak: https://x.com/CUP_PoliSci/status/2126330349626044783 (Cambridge UP Politics, 27 Kas 2026)
+- Raw: [[raw/articles/2026-11-27_american-exceptionalism-nationalization-polarization.md]] — Hjorth, Hopkins & Sigler, "American Exceptionalism? Nationalization and Polarization in Fifteen Democracies", Cambridge Elements: Comparative Political Behavior (2026), DOI 10.1017/9781009687461, açık erişim
+- Kavram: [[concepts/electoral-nationalization]] oluşturuldu (ulusallaşma → hesap verebilirlik kaybı; kurumsal açıklama: alt-ulusal otorite ↑ → ulusallaşma ↓)
+- Ana bulgu: 146.934 seçim sonucu, 14 demokrasi. Ulusallaşma yaygın; ABD yalnızca *zamanlama* bakımından istisnai. Afektif kutuplaşma–düz bilet bağı ülke düzeyinde ABD'ye bağlı.
+- Not: Cambridge Core erişilebilir; künye Crossref ile doğrulandı.
+
 ## [2026-11-27] ingest | Twitter/X → Environmental Politics makalesi
 - Kaynak: https://x.com/Env_Pol/status/2125922520360788244 (Env_Pol, 26 Kas 2026)
 - Raw: [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md]] — Bäck, Carroll, Renström & Ryan, "Affective divisions and climate policy polarization", Environmental Politics (2026), CC BY 4.0
