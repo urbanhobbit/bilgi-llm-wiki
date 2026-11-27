@@ -1,3 +1,9 @@
+## [2026-11-27] ingest | Twitter/X → Environmental Politics makalesi
+- Kaynak: https://x.com/Env_Pol/status/2125922520360788244 (Env_Pol, 26 Kas 2026)
+- Raw: [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md]] — Bäck, Carroll, Renström & Ryan, "Affective divisions and climate policy polarization", Environmental Politics (2026), CC BY 4.0
+- Kavram: [[concepts/climate-policy-polarization]] oluşturuldu (afektif mesafe → iklim tutumu kutuplaşması, GLES 2016–2025)
+- Not: tandfonline PDF Cloudflare bloğu nedeniyle metadata Crossref/OpenAlex + tweet görseli abstract üzerinden; tam metin kurum erişimi (Bilgi kütüphanesi DOI) ile alınmalı.
+
 ## [2026-11-16] ingest | KURATOR Weekly Bulletin (Hafta 47/2026)
 - Raw: [[raw/articles/2026-11-16_cocuk_dijital_kurator_bulteni.md]] — KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 47/2026 açılışı, 14 – 16 Kasım 2026); 89000 byte, 10526 kelime
 - Telegram categorized akışı (14 – 16 Kas): 7 dosya, 22 benzersiz kayıt (KURATOR 13 / AKADEMİK ÖZEL 14 / GENEL 11, çoklu etiket); çocuk-dijital kesişiminde 7 kayıt, bunların yalnızca 2'si güncel politika haberi (Undark 09.11, NYT 05.11). Haber omurgası doğrudan gündem araştırmasıyla kuruldu: 20 ddgs sorgusu + 37 RSS akışı + 26 URL erişim testi.
