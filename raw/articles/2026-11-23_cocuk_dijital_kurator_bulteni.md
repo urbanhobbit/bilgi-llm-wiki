@@ -371,3 +371,28 @@ Bu haftanın Türkiye tablosu, geçen haftaki "güçlü kapatma, zayıf ölçüm
 **Erişilemeyen kanallar (bu sayı):** data.tuik.gov.tr ve veriportali.tuik.gov.tr (JS kabuğu, 3.692 B / 0 kr); parlinfo.aph.gov.au PDF (Azure WAF); aph.gov.au rapor gövdesi (yalnızca içindekiler); scraping altyapısı (bu ortamda `scrapling` modülü kurulu değil — tüm çekimler urllib ile yapıldı).
 
 **KURATOR notu.** Bu sayıda dört kayıt bilinçli olarak **dışarıda bırakıldı**: (1) iki `australiatimes.com` haberi — sayfa altında yapay zekâ tarafından üretildiği açıkça beyan edilmiş, iki farklı URL'de aynı metin; (2) `mindhealth.com.au` ve `souldriver.com.au` — klinik/blog içeriği, ölçüm yok; (3) Finlandiya ekran süresi çalışması — bu hafta dokuz sitede "yeni" olarak dolaşıma girdi, ancak dokuzuncu sayıda işlenen 260 çocukluk sekiz yıllık kohortun tekrarı; (4) Singapur'daki bakan konuşması — önceki sayıda işlendi. Ayrıca 16 Kasım sayısındaki **%8.400** CSAM artışı iddiası, bu sayıdaki **%1.325** (NCMEC, 2023→2024) ile çeliştiği için **tekrarlanmadı**; iki oran farklı veri setlerine aittir ve birleştirilmemelidir.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-katilim.md|Çocukların Dijital Katılımı]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dijital-haklar.md|Dijital Haklar]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuk-guvenlik.md|Yapay Zeka ve Çocuk Güvenliği]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/cepr-harvard.md|Harvard CEPR]]
+- [[entities/najat-maalla-mjid.md|Dr. Najat Maalla M'jid]]
+- [[entities/nato.md|NATO]]
+- [[entities/unicef.md|UNICEF]]

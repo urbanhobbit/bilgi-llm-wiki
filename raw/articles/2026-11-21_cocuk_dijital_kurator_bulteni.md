@@ -266,3 +266,48 @@ Bu üç düzlem bir araya geldiğinde KURATOR'un Türkiye için çıkarımı şu
 **Erişilemeyen kanallar (bu sayı):** cepr.harvard.edu PDF ve Wayback kopyası (403/404 — basın bülteni ve yönetici özeti kullanıldı), washingtonpost.com tam metin (ödeme duvarı), osf.io HTML (JS duvarı — PDF kullanıldı), ijsret.com tam metin (Zenodo kopyası), mdpi.com (0 kr), royalsocietypublishing.org, dl.acm.org, journals.uchicago.edu, journals.sagepub.com, tandfonline.com, mitpress.mit.edu, onlinelibrary.wiley.com, sciencedirect.com.
 
 **KURATOR notu.** Bu sayıda üç kayıt bilinçli olarak **dışarıda bırakıldı**: (1) "Deep Learning and Social-Context Approaches for Fake News Detection" — dört sayfalık, deneyi olmayan bir derleme; kanıt olarak kullanılmadı, yalnızca kaynakçada anıldı. (2) "Agent Reach" GitHub aracı — konu dışı (ajan altyapısı). (3) "A framework for navigating the choice between AI or traditional research" — hakemsiz sektör yazısı; AKADEMİK ÖZEL sayısında yer alıyor, burada değil.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/ai-generated-disinformation.md|AI-Generated Disinformation (Yapay Zeka Dezenformasyonu)]]
+- [[concepts/cocuk-dijital-kisitlamalar.md|Çocuklar için Dijital Kısıtlamalar]]
+- [[concepts/cocuk-istismari.md|cocuk-istismari]]
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/ekran-suresi.md|Ekran Süresi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siber-zorbalik.md|Siber Zorbalık]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+- [[concepts/yas-dogrulama.md|Yaş Doğrulama Teknolojileri]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/american-economic-review.md|American Economic Review]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/boston-review.md|Boston Review]]
+- [[entities/cepr-harvard.md|Harvard CEPR]]
+- [[entities/chris-ferguson.md|Chris Ferguson]]
+- [[entities/electoral-studies.md|Electoral Studies]]
+- [[entities/george-beknazar-yuzbashev.md|George Beknazar-Yuzbashev]]
+- [[entities/guardian.md|Guardian]]
+- [[entities/ijsret.md|IJSRET]]
+- [[entities/kevin-oostrum.md|Kevin Oostrum]]
+- [[entities/mit-press.md|MIT Press]]
+- [[entities/nato.md|NATO]]
+- [[entities/nature-computational-science.md|Nature Computational Science]]
+- [[entities/ofcom.md|Ofcom]]
+- [[entities/parent-zone.md|Parent Zone]]
+- [[entities/rtl-luxembourg.md|RTL Luxembourg]]
+- [[entities/ucl-institute-of-education.md|UCL Institute of Education]]
+- [[entities/washington-post.md|The Washington Post]]
+- [[entities/www-reuters-com.md|Reuters]]
+- [[entities/www-theguardian-com.md|The Guardian]]
+- [[entities/youtube.md|YouTube]]

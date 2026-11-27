@@ -50,3 +50,15 @@ Dizinin çerçevesi tek bir tez etrafında: AI'nın meta-bilimde değerli olup o
 otomatik üretime mi** bırakıldığına bağlı. Bu, [[concepts/yapay-zeka-ile-bilimsel-modelleme.md|Yapay Zeka ile Bilimsel Modelleme]]
 ve [[concepts/kuram-operasyonellestirme-llm.md|Kuram Operasyonelleştirme (LLM)]] sayfalarındaki tartışmayla aynı hatta.
 Yazar, Altay ile ortak çalıştığını açıkça belirtiyor.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/nato.md|NATO]]
+- [[entities/sacha-altay.md|Sacha Altay]]
+- [[entities/x-com.md|X Com]]

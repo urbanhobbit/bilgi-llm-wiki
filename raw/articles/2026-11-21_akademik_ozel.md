@@ -241,3 +241,49 @@ Yöntemin potansiyeli de burada: arkadaşlıktan çıkarma, siyasi hoşgörüsü
 **Engel oranı: 8/10 = %80** (KURATOR sayısındaki 16 adreslik geniş testte 10/16 = %62,5). Her iki oran da %50 eşiğinin üzerinde olduğu için sınıflandırma **metadata tabanlı** yürütüldü. Yeni gözlem: `mitpress` (10.1162) 403/6.365 B ile engelli aileye katıldı; `mdpi` 200 ama 0 karakter döndürmeye devam ediyor (geçen haftaki bulgu doğrulandı).
 
 **Bu sayıda yer almayan kayıtlar ve gerekçeleri:** (1) *Deep Learning and Social-Context Approaches for Fake News Detection* — dört sayfalık, deneyi olmayan derleme; yalnızca ek okuma tablosunda uyarı notuyla anıldı. (2) *Agent Reach* — konu dışı (ajan altyapısı). (3) *A framework for navigating the choice between AI or traditional research* — hakemsiz sektör yazısı; yalnızca tabloda. (4) Gelman blog yazısı — akademik kayıt değil, kavram notu olarak tabloda. (5) Telefon yasakları raporu, NEET derlemesi, genç akışları ön baskısı, toksik içerik saha deneyi — çocuk/genç kesişimi nedeniyle **KURATOR sayısında** işlendi, burada tekrarlanmadı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/cocuk-veri-gizliligi.md|Çocuk Veri Gizliliği]]
+- [[concepts/dijital-okuryazarlik.md|Dijital Okuryazarlık]]
+- [[concepts/dijital-vatandaslik-egitimi-erken.md|Erken Çocukluk Dijital Vatandaşlık Eğitimi (0-8 Yaş)]]
+- [[concepts/dis-grup-dusmanligi.md|Dış-Grup Düşmanlığı]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/komplo-inanclari.md|Komplo İnançları]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/platform-seffaflik.md|platform-seffaflik]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/protesto-ve-toplumsal-hareketler.md|Protesto ve Toplumsal Hareketler]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+- [[concepts/sosyal-medya-genclik.md|Sosyal Medya ve Gençlik]]
+- [[concepts/sosyal-medya-yasagi-tartismasi.md|Sosyal Medya Yasağı Tartışması]]
+- [[concepts/yapay-zeka-cocuklar.md|Yapay Zeka ve Çocuklar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/ai-anthropology-toolkit.md|AI Anthropology Toolkit]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/boston-review.md|Boston Review]]
+- [[entities/cambridge-university-press.md|Cambridge University Press]]
+- [[entities/cepr-harvard.md|Harvard CEPR]]
+- [[entities/cory-j-clark.md|Cory J. Clark]]
+- [[entities/duke-university.md|Duke University]]
+- [[entities/electoral-studies.md|Electoral Studies]]
+- [[entities/ijsret.md|IJSRET]]
+- [[entities/journal-of-politics.md|The Journal of Politics]]
+- [[entities/kayvan-kousha.md|Kayvan Kousha]]
+- [[entities/leipzig-university.md|Leipzig University]]
+- [[entities/matt-artz.md|Matt Artz]]
+- [[entities/melinda-baldwin.md|Melinda Baldwin]]
+- [[entities/michael-tomasello.md|Michael Tomasello]]
+- [[entities/mike-thelwall.md|Mike Thelwall]]
+- [[entities/mit-press.md|MIT Press]]
+- [[entities/nature-computational-science.md|Nature Computational Science]]
+- [[entities/neil-malhotra.md|Neil Malhotra]]
+- [[entities/prolific.md|Prolific]]
+- [[entities/review-of-economics-and-statistics.md|Review of Economics and Statistics]]
+- [[entities/routledge.md|Routledge]]
+- [[entities/university-of-maryland.md|University of Maryland]]
+- [[entities/yougov.md|YouGov]]

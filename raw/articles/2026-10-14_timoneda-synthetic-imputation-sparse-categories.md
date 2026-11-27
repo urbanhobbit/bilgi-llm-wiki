@@ -73,3 +73,15 @@ Kritik tasarım disiplini: sentetik metinler **yalnızca eğitim katmanındaki i
 - **Yanlış-pozitif enflasyonu:** Sentetik eğitim verisi, sınıflandırıcının nadir kategoriyi "daha kolay" yakalamasını sağlıyor. Dezenformasyon tespiti gibi alanlarda bu, gerçek dünyada olmayan bir kesinlik algısı üretebilir; ölçüm hatası düzeltmesi olmadan aşağı-akış çıkarım bozulur (bkz. [[concepts/kuram-operasyonellestirme-llm.md]]).
 - **Türkiye uygulamaları:** Türkçe kod kitabı ile üretilen sentetik metinlerde deyim, ironi, imla varyasyonu ve resmi/dolaylı ifade kalıpları nedeniyle kategori kayması riski İngilizceye göre daha yüksek. Elle denetim ve en yakın-komşu filtresi burada kritik.
 - Wiki bağlantıları: [[concepts/metin-madenciligi.md]], [[concepts/olcum-araclari.md]]
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/siyasal-siddet.md|Siyasal Şiddet]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/joan-c-timoneda.md|Joan C. Timoneda]]

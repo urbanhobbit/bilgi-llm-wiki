@@ -64,3 +64,15 @@ Simon bu çalışmayı "AI ile ilginç meta-bilim" başlıklı bir dizide payla�
 bunun nedeni üreticilerin işin tamamını AI'ya bırakması. Altay'ın projesi ise AI'nın **meta-bilim aracı** olarak
 kullanılıp (kodlama, sentez) insan yargısının merkezde kaldığı örnek olarak sunuluyor. (Simon, Altay ile
 birlikte çalıştığını açıkça belirtiyor — çıkar beyanı.)
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/dezenformasyon.md|Dezenformasyon]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/platform-economy-misinformation.md|Platform Economy and Misinformation (Platform Ekonomisi ve Dezenformasyon)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/felix-simon.md|Felix M. Simon]]
+- [[entities/sacha-altay.md|Sacha Altay]]

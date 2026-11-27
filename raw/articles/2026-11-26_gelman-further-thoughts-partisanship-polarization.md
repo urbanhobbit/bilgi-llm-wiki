@@ -85,3 +85,13 @@ In either storyline, it’s 1930, not 1932: rather than being three years into a
 Anyway, I’m not claiming to offer any serious political or economic analysis here, just pointing out that the 1932 election was a full three years after the 1929 stock market crash, so Obama’s stepping into the story at a different point than when Roosevelt stepped in to his.
 
 Today is not a repeat of 1930 or 1933:  There are fears of an economic crash but it hasn’t quite happened yet.  In this sense, the auspicious timing I see is political:  the combination of an exhausted government with a large congressional majority among the opposition that could provide an opening for cross-party cooperation.  There’s one wild card in the deck, though, and that’s the very partisan Supreme Court.  We’ll see what happens.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/andrew-gelman.md|Andrew Gelman]]
+- [[entities/donald-trump.md|Donald Trump]]
+- [[entities/statmodeling-stat-columbia-edu.md|Statmodeling Stat Columbia Edu]]

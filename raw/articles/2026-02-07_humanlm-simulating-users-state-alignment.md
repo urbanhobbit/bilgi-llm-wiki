@@ -47,3 +47,13 @@ Kamuya açık veri kümeleri anonimleştirildi (de-identification). Kullanıcı 
 2. **Cevapların "değişmezliği" testi.** Yüzey taklidi yapan modeller bağlam değişince savrulur; durum hizalaması iddiası, aynı kullanıcının farklı uyaranlara verdiği yanıtların iç tutarlılığının korunması demek. Politika iletişimi ve mesaj testinde (framing deneyleri) bu, geçerliliğin asgari koşulu.
 3. **İkinci dereceden riskler.** (a) *Mahremiyet ve rıza:* rıza ve anonimleştirme protokolü kamuya açık verilerde bile "bu kişinin düşünme biçimini modelledik" iddiasının hukuki-ahlaki sınırını tartışmaya açıyor. (b) *Manipülasyon kapasitesi:* bir kişinin duygu/tutum matrisini öngörebilen simülatör, ikna ve hedefleme araçlarına dönüşebilir — [[concepts/synthetic-media-ai-content.md]] ve [[concepts/ai-generated-disinformation.md]] hatlarıyla kesişir. (c) *Ölçüm yanlılığı:* değerlendirme bir LLM yargıcına dayanıyor; "hizalama puanı" yargıcın kendi normatif beklentilerinden bağımsız değil.
 4. **Metodolojik ayrım:** Bu çalışma "kişiyi klonlamak" değil, kişinin **bağlama verdiği yanıtı** tahmin etmek. Popüler anlatı (X dizisi) "zekanı kopyalıyor" diyor; makale daha dar bir iddiada: bir yanıt dağılımının psikolojik ara değişkenler üzerinden daha isabetli tahmini.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/arxiv-org.md|Arxiv Org]]
+- [[entities/arxiv-org.md|arXiv]]
+- [[entities/stanford-university.md|Stanford University]]
