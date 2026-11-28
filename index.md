@@ -695,3 +695,6 @@
 - [[raw/articles/2026-11-26_affective-divisions-and-climate-policy-polarization.md|Affective divisions and climate policy polarization — Bäck, Carroll, Renström & Ryan (Environmental Politics, 2026)]]
 - [[raw/articles/2026-11-27_american-exceptionalism-nationalization-polarization.md|American Exceptionalism? (Hjorth, Hopkins & Sigler 2026)]] — 14 demokrasi, 146.934 seçim sonucu; ulusallaşma ve afektif kutuplaşma
 - [[raw/articles/2026-11-27_military-doctrines-nss-corpus-gannon.md|Military Doctrines: A Corpus of National Security Strategy Documents (Gannon, 2026)]] — 823 belge, 112 ülke, 1962–2025; CC0 ulusal güvenlik stratejisi külliyatı
+- [[raw/articles/2026-11-26_american-exceptionalism-nationalization-and-polari.md|American Exceptionalism? Nationalization and Polarization in Fifteen Democracies]]
+- [[raw/articles/2026-11-10_military-doctrines-a-corpus-of-national-security-s.md|Military Doctrines: A Corpus of National Security Strategy Documents]]
+

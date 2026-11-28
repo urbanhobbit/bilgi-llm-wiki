@@ -2269,3 +2269,9 @@
 - Source files: 2026-11-27_001012_ingestion.json, 2026-11-27_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+## [2026-11-28] ingest | OKF Auto-Ingestion
+- Raw: [[raw/articles/2026-11-26_american-exceptionalism-nationalization-and-polari.md]] — American Exceptionalism? Nationalization and Polarization in Fifteen Democracies
+- Raw: [[raw/articles/2026-11-10_military-doctrines-a-corpus-of-national-security-s.md]] — Military Doctrines: A Corpus of National Security Strategy Documents
+- Source files: 2026-11-28_categorized.json
+- Agent: OKF Ingestion Pipeline
+
