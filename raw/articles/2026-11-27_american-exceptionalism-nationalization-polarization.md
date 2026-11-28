@@ -86,3 +86,13 @@ Ulusallaşma literatürü Türkiye'de yerel seçimlerin "genel seçim referandum
 ## Kaynak Notu
 
 Künye ve özet Crossref API'den (`10.1017/9781009687461`) doğrulandı; Cambridge Core sayfası erişilebilir (kısıtlama yok). Tam metin açık erişim: https://doi.org/10.1017/9781009687461
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/cambridge-university-press.md|Cambridge University Press]]

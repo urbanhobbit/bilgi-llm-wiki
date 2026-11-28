@@ -71,3 +71,15 @@ belirginleşiyor.
 
 - [[climate-policy-polarization]] — kavram sayfası
 - [[affective-polarisation]] — duygusal kutuplaşma literatürü
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/affective-polarisation.md|Affective Polarisation]]
+- [[concepts/duygusal-kutuplasma.md|Duygusal Kutuplaşma (Affective Polarization)]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
+- [[concepts/populizm.md|Popülizm]]
+- [[concepts/sosyal-kutuplasma.md|Sosyal Kutuplaşma ve Dijital Platformlar]]
+### 🏛 İlgili Kurum/Kişiler
+- [[entities/university-of-houston.md|University of Houston]]

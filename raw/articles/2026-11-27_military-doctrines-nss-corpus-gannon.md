@@ -93,3 +93,10 @@ Veri setinde Türkiye'den **5 belge** (bu, Türkiye'nin strateji belgesi üretim
 ## Kaynak Notu
 
 Veri seti, X'te Marco Le Moglie (@mlemoglie) paylaşımıyla görüldü (27 Kasım 2026). Künye Crossref/DataCite ve Dataverse API'siyle doğrulandı; metadata tablosu (`nss_metadata.tab`) indirilip dağılımlar yerel olarak hesaplandı.
+
+---
+
+## 🔗 İlgili Bağlantılar
+### 🧠 İlgili Kavramlar
+- [[concepts/metin-madenciligi.md|Metin Madenciliği ve Hesaplamalı Metin Analizi]]
+- [[concepts/olcum-araclari.md|Ölçüm Araçları (Polarization Measurement)]]
