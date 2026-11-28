@@ -4,7 +4,7 @@
 - Raw: [[raw/articles/2026-11-19-edmo-weekly-pulse.md]] — Kraków 7 Kas 2026 saldırısı (6 ölü): Oksiński'nin Ukraynalı ya da solcu/LGBTQ+ olduğu iddiaları; NORDIS fotoğrafın Maksymilian olduğunu doğruladı; EDMO Ireland SynthID filigranlı AI görseller; HDMO Georg Spöttle/Telegram; X Polonya'nın hiçbir ihbarına yanıt vermedi, Musk 240 mn takipçisiyle yanlış içerik amplifikasyonu; Matryoshka İspanya; IBERIFIER rapor 1-2; CO₂ "doygunluk" miti (Heartland); Karadeniz drone anlatıları; J.M. Dougan sızıntısı; CEDMO dijital toplum brief'i
 - Kavram: [[concepts/climate-disinformation.md]] ve [[concepts/ai-generated-disinformation.md]] mevcut sayfalarla bağlandı; yeni kavram açılmadı (iklim dezenformasyonu sayfası güncellenmeli)
 - Doğrulama: her iki sayı da tam metin olarak edmo.eu/publications/<slug> üzerinden çekildi; arşiv listesi 12 sayı (10 Eyl–27 Kas) tarandı, wiki'de Temmuz 24'ten sonra kayıt yok
-- Not: Eylül–Kasım arası 9 sayı (10 Eyl, 17 Eyl, 25 Eyl, 1 Eki, 8 Eki, 15 Eki, 22 Eki, 30 Eki, 5 Kas, 12 Kas) wiki'de eksik — 14 gün penceresi dışında oldukları için bu turda alınmadı; geri doldurma ayrı iş.
+- Not: Eylül–Kasım arası 10 sayı (10 Eyl, 17 Eyl, 25 Eyl, 1 Eki, 8 Eki, 15 Eki, 22 Eki, 30 Eki, 5 Kas, 12 Kas) wiki'de eksik — 14 gün penceresi dışında oldukları için bu turda alınmadı; geri doldurma ayrı iş (arşiv sayfa 2-3'te Temmuz–Eylül arası da taranmalı).
 
 ## [2026-11-27] ingest | Harvard Dataverse → Military Doctrines külliyatı
 - Kaynak: https://x.com/mlemoglie/status/2126255179028672979 (Marco Le Moglie, 27 Kas 2026)
