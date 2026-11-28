@@ -2283,3 +2283,10 @@
 - Source files: 2026-11-28_categorized.json
 - Agent: OKF Ingestion Pipeline
 
+
+## [2026-11-28] bulletin | Haftalık Derleme (Hafta 48/2026)
+- KURATOR: [[raw/articles/2026-11-28_cocuk_dijital_kurator_bulteni.md]] — 10 kayıt (1 KURATOR kesişimi), 4.174 kelime
+- AKADEMİK ÖZEL: [[raw/articles/2026-11-28_akademik_ozel.md]] — 10 çalışma, 6.396 kelime
+- Kapsam: 23–28 Kasım 2026; Scrapling erişim testi 11 adres, %54,5 engelli → metadata tabanlı sınıflandırma
+- Kaynaklar: processed_links/2026-11-24_categorized.json, 2026-11-27_categorized.json, 2026-11-28_categorized.json, 2026-11-27_120426_ingestion.json
+- Agent: Weekly Bulletin Integration

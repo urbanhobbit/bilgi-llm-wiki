@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-28 | Total pages: 219
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-28 | Total pages: 221
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
@@ -98,6 +98,8 @@
 - [[concepts/askeri-doktrin-ve-guvenlik-stratejileri.md|Askeri Doktrin ve Ulusal Güvenlik Stratejisi Metinleri]] — devletin kendi tehdit tanımı; metin-madenciliği ile karşılaştırmalı analiz
 - [[concepts/electoral-nationalization.md|Seçimlerin Ulusallaşması (Electoral Nationalization)]] — alt-ulusal otorite ↑ → ulusallaşma ↓
 ## Raw Articles
+- [[raw/articles/2026-11-28_cocuk_dijital_kurator_bulteni.md|KURATOR Haftalık Bülten: Çocuklar ve Dijital Dünya (Hafta 48/2026, 23–28 Kasım)]] — New York yapay zekâlı oyuncak yasağı, dezenformasyon ölçümü (%1,3 / %57,7), sentetik kullanıcı, Türkiye kurumsal hareketi
+- [[raw/articles/2026-11-28_akademik_ozel.md|AKADEMİK ÖZEL TARAMA — 28 Kasım 2026 (10 çalışma)]] — Altay, Timoneda, HumanLM, Segarra-Ayllón, Hjorth vd., Gannon, Simon, Gelman, Bäck vd., Gasman
 - [[raw/articles/2026-11-27-edmo-weekly-pulse.md|EDMO Weekly Pulse — 27 November 2026]] — COP31 failure ve iklim dezenformasyonunun "çözümleri hedef alma" stratejisi; Antalya zirvesi
 - [[raw/articles/2026-11-19-edmo-weekly-pulse.md|EDMO Weekly Pulse — 19 November 2026]] — Kraków saldırısı sonrası dezenformasyon; Musk'ın X'te amplifikasyonu; Matryoshka İspanya seçimi
 - [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
