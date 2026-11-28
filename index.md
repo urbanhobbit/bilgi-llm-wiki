@@ -1,6 +1,6 @@
 |# Wiki Index
 
-> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-27 | Total pages: 217
+> KURATOR veritabanından oluşturulmuş bilgi tabanı. Last updated: 2026-11-28 | Total pages: 219
 
 ## Entities
 - [[entities/joan-c-timoneda.md]] — Purdue, metin-madenciliği ve LLM ölçümü
@@ -98,6 +98,8 @@
 - [[concepts/askeri-doktrin-ve-guvenlik-stratejileri.md|Askeri Doktrin ve Ulusal Güvenlik Stratejisi Metinleri]] — devletin kendi tehdit tanımı; metin-madenciliği ile karşılaştırmalı analiz
 - [[concepts/electoral-nationalization.md|Seçimlerin Ulusallaşması (Electoral Nationalization)]] — alt-ulusal otorite ↑ → ulusallaşma ↓
 ## Raw Articles
+- [[raw/articles/2026-11-27-edmo-weekly-pulse.md|EDMO Weekly Pulse — 27 November 2026]] — COP31 failure ve iklim dezenformasyonunun "çözümleri hedef alma" stratejisi; Antalya zirvesi
+- [[raw/articles/2026-11-19-edmo-weekly-pulse.md|EDMO Weekly Pulse — 19 November 2026]] — Kraków saldırısı sonrası dezenformasyon; Musk'ın X'te amplifikasyonu; Matryoshka İspanya seçimi
 - [[raw/articles/2026-10-14_timoneda-synthetic-imputation-sparse-categories.md]] — Political Analysis, seyrek kategorilerde sentetik imputasyon
 
 - [[raw/articles/2026-02-07_humanlm-simulating-users-state-alignment.md|HumanLM: Simulating Users with State Alignment Beats Response Imitation (Stanford, arXiv:2603.03303, 2026-02-07)]]
